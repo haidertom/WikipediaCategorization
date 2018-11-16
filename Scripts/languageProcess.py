@@ -7,10 +7,14 @@ from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
 import string
 import sys
-
+import io
+import re
+# Set lists with character/words to exclude
 stop    = set(stopwords.words('english'))
-exclude = set(string.punctuation) 
+exclude = set(string.punctuation)
+# Set lematizer to increase Frequency for words with the same word stem
 lemma   = WordNetLemmatizer()
+
 #source: https://appliedmachinelearning.blog/2017/08/28/topic-modelling-part-1-creating-article-corpus-from-simple-wikipedia-dump/  
 def clean(doc):
 # remove stop words & punctuation, and lemmatize words
@@ -23,13 +27,13 @@ def clean(doc):
   cleaned = [word for word in words if len(word) > 2]
   return cleaned
 
-direc = '../DataSnippets/category_space/'
-path = os.path.join(direc,'0_wiki_part.json')
-print(path)
-with open(path, 'r') as f:
-    data = json.load(f)
+direc = '../../data/wiki/AA/'
+path = os.path.join(direc,'wiki_00')
 
-wikiString = data[1]['revision']['text']
-wikiString2 = data[2]['revision']['text']
-print(wikiString)
-print(clean(wikiString))
+data=[]
+for line in open(path, 'r'):
+    data.append(json.loads(line))
+test=data[1]['text']
+test_clean=clean(test)
+print(test_clean)
+#^(?!\[\[Category).*$#
