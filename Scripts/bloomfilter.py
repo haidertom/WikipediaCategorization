@@ -62,22 +62,22 @@ class BloomFilter:
 			if not (x & self.intval) >= 1:
 				return False
 		return True
-
-anachrismBF = BloomFilter()
-
-topwords = [('anarchism', 352), ('web', 174), ('date', 164), ('title', 157), ('anarchist', 155), ('org', 145), ('name', 144), ('publisher', 100), ('book', 95), ('cite', 92), ('isbn', 88), ('year', 82), ('anarchists', 81), ('p', 73), ('com', 70), ('movement', 69), ('access', 67), ('html', 65), ('press', 64), ('revolution', 63)]
-
-for word in topwords:
-	anachrismBF.train(word[0])
-
-checkwords = [('anarchism', 8), ('theory', 4), ('authority', 2), ('power', 2), ('justification', 1), ('claims', 1), ('liberty', 1), ('anarchists', 1), ('consensus', 1), ('building', 1), ('efforts', 1), ('communities', 1), ('agendas', 1), ('forms', 1), ('action', 1), ('entry', 1), ('idea', 1), ('activism', 1), ('legitimation', 1), ('describe', 1)]
-
-match_words = 0
-
-for word in checkwords:
-	if(anachrismBF.classify(word[0])):
-		match_words += 1
-
-print("Number of checkd words: " + str(len(checkwords)))
-print("Number identical words: " + str(match_words))
-print("Percentage of identical words: " + str(match_words/(len(checkwords))))
+#
+# anachrismBF = BloomFilter()
+#
+# topwords = [('anarchism', 352), ('web', 174), ('date', 164), ('title', 157), ('anarchist', 155), ('org', 145), ('name', 144), ('publisher', 100), ('book', 95), ('cite', 92), ('isbn', 88), ('year', 82), ('anarchists', 81), ('p', 73), ('com', 70), ('movement', 69), ('access', 67), ('html', 65), ('press', 64), ('revolution', 63)]
+#
+# for word in topwords:
+# 	anachrismBF.train(word[0])
+#
+# checkwords = [('anarchism', 8), ('theory', 4), ('authority', 2), ('power', 2), ('justification', 1), ('claims', 1), ('liberty', 1), ('anarchists', 1), ('consensus', 1), ('building', 1), ('efforts', 1), ('communities', 1), ('agendas', 1), ('forms', 1), ('action', 1), ('entry', 1), ('idea', 1), ('activism', 1), ('legitimation', 1), ('describe', 1)]
+#
+# match_words = 0
+#
+# for word in checkwords:
+# 	if(anachrismBF.classify(word[0])):
+# 		match_words += 1
+#
+# print("Number of checkd words: " + str(len(checkwords)))
+# print("Number identical words: " + str(match_words))
+# print("Percentage of identical words: " + str(match_words/(len(checkwords))))

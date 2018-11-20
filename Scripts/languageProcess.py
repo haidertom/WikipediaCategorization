@@ -3,7 +3,7 @@ from pprint import pprint
 from nltk.corpus import stopwords
 import os
 from pprint import pprint
-from nltk.corpus import stopwords 
+from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
 import string
 import sys
@@ -24,14 +24,14 @@ class languageProcess:
                 self.data.append(json.loads(line))
         else:
             print('path does not exist')
-#source: https://appliedmachinelearning.blog/2017/08/28/topic-modelling-part-1-creating-article-corpus-from-simple-wikipedia-dump/  
+#source: https://appliedmachinelearning.blog/2017/08/28/topic-modelling-part-1-creating-article-corpus-from-simple-wikipedia-dump/
     def clean(self,doc):
     # remove stop words & punctuation, and lemmatize words
         s_free  = " ".join([i for i in doc.lower().split() if i not in self.stop])
         p_free  = ''.join(ch for ch in s_free if ch not in self.exclude)
         lemm    = " ".join(self.lemma.lemmatize(word) for word in p_free.split())
         words   = lemm.split()
- 
+
         # only take words which are greater than 2 characters
         cleaned = [word for word in words if len(word) > 2]
         return cleaned
@@ -47,6 +47,6 @@ class languageProcess:
         for d in self.data:
             text=d['text']
             text_clean=self.clean(text)
-            tokens.append([dict(nltk.FreqDist(text_clean))]) 
-    
+            tokens.append(nltk.FreqDist(text_clean))
+
         return tokens
