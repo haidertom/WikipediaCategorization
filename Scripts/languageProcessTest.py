@@ -22,7 +22,7 @@ for article in test:
 
 match_words = 0
 
-checkwords = test[7].most_common(20)
+checkwords = test[7].most_common(30)
 
 match_words = 0
 
