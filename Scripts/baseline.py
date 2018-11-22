@@ -1,126 +1,189 @@
 import requests
 import os
 
-URL = "https://en.wikipedia.org/w/api.php"
+class Baseline:
 
-origin_category = "Category:Main topic classifications"
+	def __init__(self, origin_category, baseline_number):
 
-basline_number = 20
+		#dynamic values
+		self.origin_category = origin_category
+		self.baseline_number = baseline_number
 
+		#static values
+		self.URL = "https://en.wikipedia.org/w/api.php"
+		self.index = {}
 
-def get_titles(category):
-	'''
-	yields all article titles inside that category
-	'''
-	PARAMS = {
-		'action': "query",
-		'list': "categorymembers",
-		'cmtitle': category,
-		'cmlimit': 200,
-		'cmnamespace':0, 	#-> plain articles belonging to that category
-		'format': "json"
-	}
-	S = requests.Session()
-	R = S.get(url=URL, params=PARAMS)
-	DATA = R.json()
+		#Data structure
+		self.datapath = "../Baseline"
+		self.rawpath = self.datapath + "/rawdata"
+		self.plainpath = self.datapath + "/plaindata"
 
-	titles = []
-
-	for article in DATA['query']['categorymembers']:
-		titles.append(article['title'])
-
-	return titles
-
-def get_subcategories(category):
-	'''
-	yields all subcategories inside that category
-	'''
-	PARAMS = {
-		'action': "query",
-		'list': "categorymembers",
-		'cmtitle': category,
-		'cmlimit': 200,
-		'cmnamespace':14, #--> subcategories
-		'format': "json"
-	}
-	S = requests.Session()
-	R = S.get(url=URL, params=PARAMS)
-	DATA = R.json()
-
-	subcategories = []
-
-	for article in DATA['query']['categorymembers']:
-	 	subcategories.append(article['title'])
-
-	return subcategories
-
-def get_dumptext(title):
-	'''
-	gets text from a specific article, formated the same as the wiki dump file
-	'''
-
-	PARAMS = {
-		'action': 'query',
-		'prop':'revisions',
-		'rvprop':'content',
-		'titles': title,
-		'export':1,
-		'exportnowrap':1,
-		'format': "json"
-	}
-	S = requests.Session()
-	R = S.get(url=URL, params=PARAMS)
-	DATA = R.text
-
-	return DATA
-
-def write_file(title, category):
-
-	category = category.split(":")[1]
-
-	#check if Directory exists
-	if not os.path.exists("rawdata"):
-		os.mkdir("rawdata")
-
-	if not os.path.exists("rawdata/"+category):
-		os.mkdir("rawdata/"+category)
-
-	#wirte text to the file
-	filename = "rawdata/"+category+"/"+title +".xml"
-	with open(filename, 'w') as the_file:
-		the_file.write(get_dumptext(title))
-
-def main():
-
-	#get main categories
-	main_categories = get_subcategories(origin_category)
-
-
-	# loop over all main categories
-	for cat in main_categories:
+	def get_titles(self, category):
+		'''
+		yields all article titles inside that category
+		'''
+		PARAMS = {
+			'action': "query",
+			'list': "categorymembers",
+			'cmtitle': category,
+			'cmlimit': self.baseline_number, # limits results to a maximum number
+			'cmnamespace':0, 	#-> plain articles belonging to that category
+			'format': "json"
+		}
+		S = requests.Session()
+		R = S.get(url=self.URL, params=PARAMS)
+		DATA = R.json()
 
 		titles = []
 
-		titles = titles + get_titles(cat)
+		for article in DATA['query']['categorymembers']:
+			titles.append(article['title'])
 
-		if len(titles) < basline_number:
+		return titles
 
-			#get subcategories of a main category
-			subcategories = get_subcategories(cat)
+	def get_subcategories(self, category):
+		'''
+		yields all subcategories inside that category
+		'''
+		PARAMS = {
+			'action': "query",
+			'list': "categorymembers",
+			'cmtitle': category,
+			'cmlimit': 200,
+			'cmnamespace':14, #--> subcategories
+			'format': "json"
+		}
+		S = requests.Session()
+		R = S.get(url=self.URL, params=PARAMS)
+		DATA = R.json()
 
-			# loop over subcategories of a main category
-			for subcat in subcategories:
-				titles = titles+ get_titles(subcat)
-				if len(titles) > basline_number:
-					break
+		subcategories = []
 
-			#if len(titles) < basline_number:
-				# potentially loop further to get more articles
+		for article in DATA['query']['categorymembers']:
+		 	subcategories.append(article['title'])
 
-		titles = titles[0:basline_number]
+		return subcategories
 
-		for title in titles:
-			write_file(title, cat)
+	def get_dumptext(self, titles):
+		'''
+		gets text from article in titles, all titles in the same category
+		'''
+
+		PARAMS = {
+			'action': 'query',
+			'prop':'revisions',
+			'rvprop':'content',
+			'titles': titles,
+			'export':1,
+			'exportnowrap':1,
+			'format': "json"
+		}
+		S = requests.Session()
+		R = S.get(url=self.URL, params=PARAMS)
+		DATA = R.text
+
+		return DATA
+
+	def write_rawdata(self, titles, category):
+		'''
+		writes all articles titles in a category into a single xml file
+		'''
+		category = category.split(":")[1]
+
+		#check if Directory exists
+		if not os.path.exists(self.datapath):
+			os.mkdir(self.datapath)
+
+		if not os.path.exists(self.rawpath):
+			os.mkdir(self.rawpath)
+
+		#wirte text to the file
+		filename = self.rawpath+"/"+category+"_"+str(self.baseline_number)+".xml"
+		with open(filename, 'w') as the_file:
+			the_file.write(self.get_dumptext(titles))
+
+	def write_index(self, index):
+		'''
+		index all articles titles in a category that were added to the baseline
+		'''
+
+		if not os.path.exists(self.datapath):
+			os.mkdir(self.datapath)
+
+		filename = self.datapath+"/zz_index.json"
+		with open(filename, 'w') as the_file:
+			the_file.write(str(index))
+
+	def get_rawdata(self):
+		'''
+		writes n = baseline_number of articles in all subcategories from an origincategory into a single xml file
+		'''
+
+		#get main categories
+		main_categories = self.get_subcategories(self.origin_category)
+
+		# loop over all main categories
+		for cat in main_categories:
+
+			self.index[cat] = []
+
+			for title in self.get_titles(cat):
+				if title not in self.index.values(): # check for duplicates
+					self.index[cat].append(title)
+
+					if len(self.index[cat]) > self.baseline_number:
+						break
+
+			if len(self.index[cat]) < self.baseline_number:
+
+				#get subcategories of a main category
+				subcategories = self.get_subcategories(cat)
+
+				# loop over subcategories of a main category
+				for subcat in subcategories:
+
+					for title in self.get_titles(subcat):
+						if title not in self.index.values(): #check for duplicates
+							self.index[cat].append(title)
+
+							if len(self.index[cat]) > self.baseline_number:
+								break
+
+				#if len(titles) < baseline_number:
+					# potentially loop further to get more articles
+
+			self.index[cat] = self.index[cat][0:self.baseline_number] # cut to base_linenumber
+
+			self.write_rawdata("|".join(self.index[cat]) , cat) # join to one string and spereate with | --> for api call
+
+		#indexing all categories and titles, maybe for later use
+		self.write_index(self.index)
+
+	def convert_plain(self):
+		'''
+		Use WikiExtractor to get clear Text
+		'''
+
+		print(os.listdir(self.rawpath))
+
+		for file in os.listdir(self.rawpath):
+			print("read document " + file)
+			os.system("../wikiextractor/WikiExtractor.py "+self.rawpath+"/"+file+" -o "+self.plainpath+"/"+file.split(".")[0]+" --json")
+
+
+def main():
+
+	# root category your are looking for - default:"Category:Main topic classifications"
+	origin_category = "Category:Main topic classifications"
+
+	# number of articles you want from each category
+	baseline_number = 20
+
+	BL = Baseline(origin_category, baseline_number)
+
+	BL.get_rawdata()
+	BL.convert_plain()
+
 
 
 
