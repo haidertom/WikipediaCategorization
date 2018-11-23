@@ -6,7 +6,7 @@ from baseline import Baseline
 import os
 
 class Classify:
-	def __init__(self, mfw = 10):
+	def __init__(self, mfw = 150):
 
 		self.BFdict = {}
 
@@ -30,12 +30,12 @@ class Classify:
 
 			articles = lp.languageProcess(filepath).getHighFreqWords()
 
-
 			self.BFdict[cat] = BloomFilter.BloomFilter()
 
 			for art in articles:
 				for word in art.most_common(self.mfw):
 					self.BFdict[cat].train(word[0])
+
 
 	def check_article(self, title, category):
 
@@ -56,8 +56,6 @@ class Classify:
 
 		testarticle = lp.languageProcess(filepath).getHighFreqWords()
 
-		print(testarticle[0].most_common(self.mfw))
-
 		vali_dict = {}
 
 		#check all Bloomfilters
@@ -66,7 +64,7 @@ class Classify:
 			vali_dict[cat] = 0
 
 			for word in testarticle[0].most_common(self.mfw):
-			 	if self.BFdict[cat].classify(word[0]):
+			 	if (self.BFdict[cat].classify(word[0])):
 						vali_dict[cat]+=1
 
 		return vali_dict
@@ -75,9 +73,10 @@ class Classify:
 
 def main():
 
-	CL = Classify()
+	CL = Classify(mfw = 150)
 
-	CL.train_Baseline(mfw = 20)
+
+	CL.train_Baseline()
 
 	title = "Space"
 	category = "Category:Universe"
@@ -85,6 +84,7 @@ def main():
 
 	for key,value in vali_dict.items():
 		print("%-30s%-30f"%(key, value/CL.mfw))
+
 
 if __name__== "__main__":
   main()
