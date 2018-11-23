@@ -1,5 +1,6 @@
 import requests
 import os
+import random
 
 class Baseline:
 
@@ -26,7 +27,7 @@ class Baseline:
 			'action': "query",
 			'list': "categorymembers",
 			'cmtitle': category,
-			'cmlimit': self.baseline_number, # limits results to a maximum number
+			'cmlimit': 200, # limits results to a maximum number
 			'cmnamespace':0, 	#-> plain articles belonging to that category
 			'format': "json"
 		}
@@ -116,7 +117,7 @@ class Baseline:
 
 	def get_rawdata(self):
 		'''
-		writes n = baseline_number of articles in all subcategories from an origincategory into a single xml file
+		writes n = baseline_number of random articles in all subcategories from an origincategory into a single xml file
 		'''
 
 		#get main categories
@@ -131,32 +132,39 @@ class Baseline:
 				if title not in self.index.values(): # check for duplicates
 					self.index[cat].append(title)
 
-					if len(self.index[cat]) > self.baseline_number:
-						break
+					#used of tree search
+					#if len(self.index[cat]) > self.baseline_number:
+					#	break
 
-			if len(self.index[cat]) < self.baseline_number:
+			#used for tree search
+			#if len(self.index[cat]) < self.baseline_number:
 
-				#get subcategories of a main category
-				subcategories = self.get_subcategories(cat)
+			#get subcategories of a main category
+			subcategories = self.get_subcategories(cat)
 
-				# loop over subcategories of a main category
-				for subcat in subcategories:
+			# loop over subcategories of a main category
+			for subcat in subcategories:
 
-					for title in self.get_titles(subcat):
-						if title not in self.index.values(): #check for duplicates
-							self.index[cat].append(title)
+				for title in self.get_titles(subcat):
+					if title not in self.index.values(): #check for duplicates
+						self.index[cat].append(title)
 
-							if len(self.index[cat]) > self.baseline_number:
-								break
+							#used for treesearch
+							#if len(self.index[cat]) > self.baseline_number:
+							#	break
 
-				#if len(titles) < baseline_number:
 					# potentially loop further to get more articles
 
-			self.index[cat] = self.index[cat][0:self.baseline_number] # cut to base_linenumber
+			#used for treesearch
+			#self.index[cat] = self.index[cat][0:self.baseline_number] # cut to base_linenumber
 
+			#pick random articles
+			self.index[cat] = list(self.index[cat][i] for i in [random.randint(0, len(self.index[cat])-1) for i in range(self.baseline_number)])
+
+			#write articles in file
 			self.write_rawdata("|".join(self.index[cat]) , cat) # join to one string and spereate with | --> for api call
 
-		#indexing all categories and titles, maybe for later use
+		#indexing all categories and titles for later use
 		self.write_index(self.index)
 
 	def convert_plain(self):
@@ -177,11 +185,11 @@ def main():
 	# number of articles you want from each category
 	baseline_number = 20
 
-	folder = "Baseline"
+	folder = "RandomBaseline"
 
 	BL = Baseline(origin_category, baseline_number, folder)
 
-	BL.get_rawdata()
+	#BL.get_rawdata()
 	BL.convert_plain()
 
 

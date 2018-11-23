@@ -1,0 +1,1261 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Apocryphal biographies in the Dictionary of National Biography</title>
+    <ns>0</ns>
+    <id>31837113</id>
+    <revision>
+      <id>853366127</id>
+      <parentid>849039855</parentid>
+      <timestamp>2018-08-04T07:39:48Z</timestamp>
+      <contributor>
+        <username>Sandstein</username>
+        <id>359256</id>
+      </contributor>
+      <comment>AFD closed as no consensus ([[WP:XFDC|XFDcloser]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3121">{{DISPLAYTITLE:Apocryphal biographies in the ''Dictionary of National Biography''}}
+There are '''apocryphal biographies''' in the first edition (1885–1900) of the ''[[Dictionary of National Biography]]'' (DNB), a major work on historical biography related to the [[United Kingdom]]. In other words, there is a biography that presents a life of a person asserted to have existed, but (in the light of later scholarship) the evidence for the person having lived has become regarded as tenuous or non-existent.
+
+Examples are in [[:s:Category:Apocryphal biographies]], based on the updated ''[[Oxford Dictionary of National Biography]]'' (ODNB), where the corresponding article casts serious doubt on the DNB assertions.
+
+==Kirkman Finlay==
+'''Kirkman Finlay'''—supposed: (''c.'' 1802&amp;ndash;1828) was an alleged Scottish [[philhellene]].
+
+The DNB has an article on this man,{{sfn|Goodwin|1889|p=32}} but more modern scholarship refutes its credibility. Monica Clough in the 21st century ODNB explains how the original source for the DNB probably confused fact with fiction and concludes by citing and quoting C. R. Fay (1951):
+{{quote|
+Perhaps, unless new evidence is found, more reliable than the obituary in the ''Gentleman's Magazine'' of April 1828 which called him into being,{{sfn|Gentlemen's Magazine staff|1828|p=372}} 'the second quite imaginary Kirkman Finlay of the [[Dictionary of National Biography]] "who was neither killed in Greece nor born anywhere"' can be safely buried.|Monica Clough&lt;ref&gt;{{harvnb|Clough|2004}} citing C. R. Fay, Huskisson and his age (1951)&lt;/ref&gt;
+}}
+
+== Robert Bruce (died 1094?) ==
+Robert de Brus [Bruce] supposed nobleman, based on late medieval lists of those who fought at Hastings,{{sfn|Mackay|1886|p=114}} which are wholly unreliable.{{sfn|Cownie |2004}}
+
+==Macduff 'thane' of Fife==
+"A half or wholly mythical personage."&lt;ref&gt;{{cite DNB |wstitle=Macduff |first=Thomas Finlayson |last=Henderson |volume=35}}&lt;/ref&gt; If he is not a literary invention, then he represents a supporter of [[Malcolm III of Scotland]], descended from [[Dub, King of Scotland]].&lt;ref&gt;{{cite ODNB|first=Dauvit|last= Broun|title=Dubh  (d. 966)|id= 8166}}&lt;/ref&gt;
+
+==Notes==
+{{Reflist}}
+
+==References==
+
+*{{cite ODNB |last=Clough |first=Monica |year=2004 |title=Finlay, Kirkman (supp. c.1802–1828) |id=9466}}
+*{{cite ODNB |last=Cownie |first=Emma |year= 2004 |title=Brus , Robert de (supp. d. 1094) |id=3747}}
+*{{cite book|ref=harv |author=Gentlemen's Magazine staff |date=April 1828 |chapter=Obituary: Finlay |title=[[Gentlemen's Magazine]] |volume=9 |number=1 |page=[https://books.google.com/books?id=obqX5uzEUQMC&amp;pg=PA372#v=onepage&amp;q&amp;f=true 372]}}
+*{{cite DNB|ref=harv |first=Gordon |last=Goodwin |wstitle=Finlay, Kirkman (d.1828) |volume=19 |pages=32}}
+*{{cite DNB|ref=harv |last=Mackay |first=Aeneas James George |authorlink=Aeneas James George Mackay |wstitle=Bruce, Robert (d.1094?) |volume=7 |page=114}}
+
+{{Use dmy dates|date=May 2011}}
+{{Use British English|date=May 2011}}
+
+[[Category:Dictionary of National Biography]]
+[[Category:Articles about multiple people]]
+[[Category:Fictional characters]]</text>
+      <sha1>r14pvpksy1viilogz7ykcu74163ff5d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dezallier d'Argenville</title>
+    <ns>0</ns>
+    <id>5509726</id>
+    <revision>
+      <id>868459112</id>
+      <parentid>838875314</parentid>
+      <timestamp>2018-11-12T09:58:53Z</timestamp>
+      <contributor>
+        <username>SGunther</username>
+        <id>28811312</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10539">{{EngvarB|date=July 2017}}
+{{Use dmy dates|date=July 2017}}
+The family of '''Dezallier d'Argenville''' produced two writers and connoisseurs in the course of the 18th century.
+
+[[File:Antoine-Joseph Dezallier d'Argenville.jpg|thumb|Dezallier d'Argenville.]]  
+[[File:Dézallier d’Argenville Vanghelisty.jpg|thumb|Dezallier d'Argenville.]]  
+
+==Antoine-Joseph Dezallier d'Argenville==
+'''Antoine-Joseph Dezallier d'Argenville''' (Paris, 1 July 1680 – 29 November 1765), avocat to the [[Parlement de Paris]] and secretary to the king, was a connoisseur of gardening who laid out two for himself and his family, before writing ''La théorie et la pratique du jardinage'' (published anonymously, 1709; second edition, 1713), based on his experience and his reading.&lt;ref&gt;Full title: '' La theorie et la pratique du jardinage. Ou l'on traite à fond des beaux jardins appellés communément les jardins de propreté, comme sont les parterres, les bosquets, les boulingrins, &amp;c. Contenant plusieurs plans et dispositions generales de jardins; nouveaux desseins…&amp; autres ornemens servant à la décoration &amp; embélissement des jardins. Avec la manière de dresser un terrain…'' His remark "A fine garden being no less difficult to contrive and order well than a good building" suggests that he had read [[Francis Bacon]]'s essay "Of gardening".&lt;/ref&gt; The majority of the illustrations were by [[Jean-Baptiste Alexandre Le Blond]], who was credited as the author in the third edition, 1722.&lt;ref&gt;Gerda Gollwitzer, "The influence of Le Nostre" in ''The French Formal Garden'', 1974, Elizabeth B. MacDougall and F. Hamilton Hazlehurst, editors (Dumbarton Oaks)&lt;/ref&gt; As the work of a gentleman rather than a gardener, as previous French books on gardening had all been, Dezallier d'Argenville's work was laid out like a treatise of architecture, addressed as much to the architect and the patron as to the practising gardener. As its title suggests, the treatise is composed of two parts: the theoretical principles of the art of fine gardening and its practical applications. The first section considers the principles of siting the ''maison de plaisance'' relative to its gardens, techniques of laying out geometric figures in parterres, [[Avenue (landscape)|avenues]] and formal tree plantations (''[[bosquet]]s''), and the planning of garden [[pavilion]]s and the siting of sculpture, an essential element in the ''jardin français''.  The second part applies the principles in earth works, terraces and stairs, and the [[hydraulics]] necessary for constructing ''[[jeux d'eau]]'': fountains, cascades, pools (''bassins'') and canals.
+
+His rational principles could adapt formal [[parterre]] gardening to the simplified programs available to the upper middle class,&lt;ref&gt;Previous books on gardening had presented only the grandest royal and aristocratic projects.&lt;/ref&gt; which accounts for the immense popularity of his book, which is the central document in the 18th century formal garden in the wake of [[André Le Nôtre]]. The work went through thirteen editions in France,&lt;ref&gt;And unauthorized reprints from The Hague&lt;/ref&gt; where the English mode of landscape design scarcely made itself known before the French Revolution. It was published in a German version (1731)&lt;ref&gt;''Die Gärtnerey sowohl in ihre Theorie oder Betrachtung, als Praxi oder Übung'', translated by Frantz Anton Danreitter, gardener to the [[archbishop of Salzburg]] (Gollwitzer, p. 74).&lt;/ref&gt; and translated into English by the architect [[John James (architect)|John James]], as ''The Theory and Practice of Gardening'' (1712, with a 2nd edition in 1728, and a 3rd edition in 1743, when the [[English landscape garden]], might have seemed to make its formal designs passé.) Dezallier d'Argenville's ''Théorique'' in its English version introduced the [[Ha-ha]], the invisible fence, to English practice.
+
+==Dezailler d'Argenville==
+Dezailler d'Argenville was called upon to edit or contribute more than 600 entries in the ''[[Encyclopédie]]'' of [[Denis Diderot]] and [[Jean le Rond d'Alembert]], published in parts from 1751.&lt;ref&gt;{{cite book |url=http://www.persee.fr/web/revues/home/prescript/article/rde_0769-0886_1989_num_7_1_1036 |first=Frank A. |last=Kafker: |chapter=Notices sur les auteurs des dix-sept volumes de « discours » de l'Encyclopédie |title=Recherches sur Diderot et sur l’Encyclopédie  Année |date=1989  |volume=7 |page=128}}&lt;/ref&gt;
+
+Dezallier d'Argenville's interest in [[natural history]] resulted in two treatises, on shells and minerals, ''L'histoire naturelle éclaircie dans deux de ses parties principales, la lithologie et la conchyliologie''. (Paris 1742) ''La Conchyliologie, ou Traité sur la nature des coquillages'' 1757 etc.. The connoisseurship of shells and their most colourful and fantastic form was a gentleman's occupation and a worthy inclusion in a ''cabinet de curiosités'' before it became a science under the [[Linnaean taxonomy|Linnaean system]] of classification.
+
+He was elected a [[Fellow of the Royal Society]] of London in March 1750.&lt;ref&gt;{{cite web | url= http://www2.royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&amp;dsqApp=Archive&amp;dsqCmd=Show.tcl&amp;dsqDb=Persons&amp;dsqPos=0&amp;dsqSearch=%28Surname%3D%27argenville%27%29| title= Library and Archive Catalogue| publisher = Royal Society}}&lt;/ref&gt;
+
+Beyond his success in the fields of gardening and natural history, Dezallier d'Argenville was a print collector. He organised his extensive collection by subject rather than by school, as outlined in the 'Lettre sur le choix et l'arrangement d'un Cabinet curieux…' that he published in the ''Mercure de France'' in 1727.&lt;ref&gt;'Lettre sur le choix et l'arrangement d'un Cabinet curieux, écrite par M. Dezallier d'Argenville, Secretaire (sic) du Roy en la Grande Chancellerie, à M. Fougeroux, Tresorier-Paeur des Rentes de l'Hôte, de Ville', "Mercure de France", June 1727, pp. 1294–1330.&lt;/ref&gt; Within the 'Lettre', which takes the form of an article, Dezallier d'Argenville describes 'Three volumes containing the clothing and fashion of the different nations of the world', and a further volume documenting costumes from his native France. The sale of Dezallier's property, which took place on 3 March 1766 following his death in 1765, mentions within these volumes a total of 1,600 costume prints from the time of King Charles II until 1730. It also describes 'good prints by le Clerc, Picart, Hollar, Royn de Hoog and several Chinese drawings.'&lt;ref&gt;P. Remy, Catalogue raisonné des tableaux, estampes, coquilles, &amp; autres curiosités ; après le décès de feu M. Dezalier d'Argenville maître des comptes, &amp; membre des sociétés royales des sciences de Londres &amp; Monpellier, Paris, 3 March 1766, p. 111.&lt;/ref&gt; All four volumes are now located at the Bibliothèque de l'Arsenal in Paris.&lt;ref&gt;D. Pullins, 'Dezallier d'Argenville's ''Recueils'' of Costume Prints Rediscovered', ''Print Quarterly'', Vol. XXXIII, No. 2 (June 2016): p. 147.&lt;/ref&gt;
+
+==Antoine-Nicolas Dezallier d'Argenville==
+{{Anchor|Antoine-Nicolas Dezallier d'Argenville}}&lt;!-- target of a redirect --&gt;
+His son, '''Antoine-Nicolas Dezallier d'Argenville''' (1723–1796), was the anonymous author ''(M. D***.)'' of ''Voyage Pictoresque de Paris; ou Indication de tout ce qu'il y a de plus beau dans cette grande Ville en Peinture, Sculpture, &amp; Architecture'', which appeared in Paris in 1749, a connoisseur's guide to the chief artistic and architectural monuments of Paris, with accounts of the leading academic and scientific organisations of the city. At least six further editions appeared before the Revolution (Paris, 1752, 1757, 1765, 1770, 1778, 1780). A ''Voyage pittoresque des environs de Paris, ou Description des Maisons Royales, Châteaux &amp; autres Lieux de Plaisance, situés à quinze lieues aux environs de cette Ville '' by the same author appeared in Paris in 1755, a connoiseur's guide to the chief artistic and architectural monuments of the surroundings of Paris in which the author especially paid a tribute to the triumphe of gardening. At least one further edition appeared before the Revolution (Paris, 1768, 3rd edition).
+
+Further works were ''Dénombrement de tous les fossiles de France'' and ''L'Oryctologie ou Traité des pierres, des minéraux et autres fossiles''.
+
+He compiled also the ''Vies des Fameux Architectes Depuis la renaissance des Arts'' in two volumes, 1787, of which the second was devoted to sculptors. An abridged edition (''Abrégé de la vie...'') was often reprinted. A facsimile was published in Geneva 1972. He also wrote a ''Dictionnaire du jardinage, relatif à la théorie. et à la pratique de cet art'' (Paris, 1771) and a ''Manuel du jardinier ou journal de son travail distribué par mois,'' (Paris, 1772)  &lt;!--not this Dezallier d'Argenville:and contributed to the Encyclopédie by Diderot and d'Alembert.--&gt;
+
+==References==
+{{reflist}}
+
+===Bibliography===
+* {{cite encyclopedia
+  | last = Laissus
+  | first = Yves
+  | title = Argenville, Antoine-Joseph Dezallier d'
+  | encyclopedia = [[Dictionary of Scientific Biography]]
+  | volume = 1
+  | pages = 243–244 
+  | publisher = Charles Scribner's Sons
+  | location = New York
+  | year = 1970
+  | isbn = 0-684-10114-9
+ }}
+* D. Pullins, 'Dezallier d'Argenville's ''Recueils'' of Costume Prints Rediscovered', ''Print Quarterly'', Vol. XXXIII, No. 2 (June 2016): 147–155.
+
+==External links==
+* [http://gallica.bnf.fr/ark:/12148/btv1b8626274z/f7.image.r=.langEN ''La Théorie et la pratique du jardinage'' (1709)] at [[Gallica]]
+* [http://gallica.bnf.fr/ark:/12148/btv1b8626701s/f5.image.r=.langEN ''La Théorie et la pratique du jardinage'' (1713)] at Gallica
+* [http://gallica.bnf.fr/Search?adva=1&amp;adv=1&amp;tri=&amp;t_relation=%22cb303393235%22&amp;lang=en ''Abrégé de la vie des plus fameux peintres'' (1745–1752)] at Gallica
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dezallier D'argenville, Antoine-Joseph}}
+[[Category:French gardeners]]
+[[Category:French landscape and garden designers]]
+[[Category:Scientists from Paris]]
+[[Category:1680 births]]
+[[Category:1765 deaths]]
+[[Category:1723 births|Dezallier d'Argenville, Antoine-Nicolas]]
+[[Category:1796 deaths|Dezallier d'Argenville, Antoine-Nicolas]]
+[[Category:Conchologists]]
+[[Category:Contributors to the Encyclopédie (1751–72)]]
+[[Category:Landscape design history of France]]
+[[Category:French garden writers]]
+[[Category:French architecture writers]]
+[[Category:Articles about multiple people]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Latin-language writers]]</text>
+      <sha1>ftcsrcybezgi9iz15yjo2a7ypsx22f0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Forgotten Ten</title>
+    <ns>0</ns>
+    <id>19339921</id>
+    <revision>
+      <id>853447627</id>
+      <parentid>852302877</parentid>
+      <timestamp>2018-08-04T21:28:18Z</timestamp>
+      <contributor>
+        <username>Bigar</username>
+        <id>1755344</id>
+      </contributor>
+      <comment>/* State funeral */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9590">{{redirect|Bernard Ryan|the writer|Bernard Ryan Jr.}}
+[[Image:Plaque on the Graves of the Forgotten Ten.jpg|thumb|Plaque placed by the Irish Government on the graves of the Volunteers]]
+The '''Forgotten Ten''' ({{lang-ga|An Deichniúr Dearmadta}})&lt;ref&gt;{{cite web|url=http://wn.com/the_forgotten_ten__an_deichni%C3%BAr_dearmadta_part_1|title=The Forgotten Ten An Deichniúr Dearmadta Part 1|work=World News|accessdate=3 November 2015}}&lt;/ref&gt; is the term applied to ten members of the [[Irish Republican Army]] who were executed in [[Mountjoy Prison]], [[Dublin]] by British forces following [[court martial|courts martial]] from 1920–21 during the [[Irish War of Independence]].
+
+Based upon military law at the time, they were buried within the prison precincts, their graves unmarked in the [[Consecration|unconsecrated ground]].  The names of the Forgotten Ten are [[Kevin Barry]], [[Patrick Moran (Irish republican)|Patrick Moran]], [[Frank Flood]], [[Thomas Whelan]], [[Thomas Traynor]], [[Patrick Doyle (Irish republican)|Patrick Doyle]], [[Edmond Foley]], Thomas Bryan, Bernard Ryan, and Patrick Maher.&lt;ref&gt;[http://www.nga.ie/history.htm A Brief History Of The National Graves Association] {{webarchive |url=https://web.archive.org/web/20071120173433/http://www.nga.ie/history.htm |date=November 20, 2007 }}, nga.ie; accessed 19 November 2015.&lt;/ref&gt;
+
+The executioner was [[John Ellis (executioner)|John Ellis]], one of the United Kingdom's hangmen at that time.&lt;ref&gt;[http://www.capitalpunishmentuk.org/ireland.html Southern Irish executions 1900-1954], capitalpunishmentuk.org; accessed 1 November 2008.&lt;/ref&gt;
+
+==Campaign for reburial==
+Following the [[Irish War of Independence]], Mountjoy Prison was transferred to the control of the [[Irish Free State]], which became the State of [[Republic of Ireland|Ireland]] in 1937. In the 1920s, the families of the dead men requested their remains be returned to them for proper burial. This effort was joined in the later 1920s by the [[National Graves Association]].  Through the efforts of the Association, the graves of the men were identified in 1934, and in 1996 a [[Celtic cross]] was erected in [[Glasnevin Cemetery]] to commemorate them.&lt;ref&gt;[http://www.nga.ie/history.htm Source 1. above] {{webarchive |url=https://web.archive.org/web/20071120173433/http://www.nga.ie/history.htm |date=November 20, 2007 }}&lt;/ref&gt;
+
+==State funeral==
+[[Image:The Forgotten Ten.jpg|thumb|The grave of nine of the Forgotten Ten in Glasnevin Cemetery, Dublin]]
+The campaign to rebury the men dragged on for 80 years from their deaths. Following an intense period of negotiations, the Irish government relented. Plans to exhume the bodies of the 10 men were announced on 1 November 2000, the 80th anniversary of the execution of Kevin Barry. On 14 October 2001, the Forgotten Ten were afforded full state honours, with a private service at Mountjoy Prison for the families of the dead, a [[requiem mass]] at [[St Mary's Pro-Cathedral]] and burial in [[Glasnevin Cemetery]].&lt;ref&gt;''New York Times'', 15 October 2001.&lt;/ref&gt;
+
+According to ''[[The Guardian]]'', some criticised the event as glorifying militant [[Irish republicanism]].&lt;ref&gt;[https://www.theguardian.com/uk/2001/oct/15/northernireland.ireland Dublin State Funeral for IRA Men], Guardian.co.uk; accessed 1 November 2008.&lt;/ref&gt; It coincided with the [[Fianna Fáil]] [[Ardfheis|party conference]].&lt;ref name="guardian"&gt;{{cite web|url=https://www.theguardian.com/uk/2001/oct/15/northernireland.ireland|title=Dublin state funeral for IRA men|author=Rosie Cowan|work=the Guardian|accessdate=3 November 2015}}&lt;/ref&gt;
+
+The progress of the cortège through the centre of Dublin was witnessed by crowds estimated as being in the tens of thousands who broke into spontaneous applause as the coffins passed.&lt;ref&gt;[https://www.telegraph.co.uk/news/worldnews/europe/ireland/1359518/Ahern-defends-1921-IRA-men's-state-funeral.html Ahern defends 1921 IRA men's state funeral ] 14 Oct 2001 Telegraph.co.uk : Accessed 1 November 2008&lt;/ref&gt; On [[O'Connell Street]], a lone piper played a lament as the cortege paused outside the [[General Post Office (Dublin)|General Post Office]], the focal point of the 1916 [[Easter Rising]].&lt;ref name="guardian" /&gt; In his homily during the requiem mass, [[Cardinal (Catholicism)|Cardinal]] [[Cahal Daly]], a long-time critic of [[Provisional Irish Republican Army|the IRA campaign]] in [[Northern Ireland]], insisted that there was a clear distinction between the conflict of 1916–22 and the paramilitary-led violence of the previous 30 years:
+
+{{quote|
+The true inheritors today of the ideals of the men and women of 1916 to 1922 are those who are explicitly and visibly committed to leaving the physical force tradition behind... Surely this state funeral can be an occasion for examination of conscience about the ideals of the men who died, and about our responsibility for translating those ideals into today's realities.&lt;ref&gt;[https://query.nytimes.com/gst/fullpage.html?res=9D06EFDD113FF936A25753C1A9679C8B63&amp;sec=&amp;spon=&amp;pagewanted=all Irish Rebury 10 Republicans Hanged by British in 1920s], New York Times; accessed 1 November 2008&lt;/ref&gt;}}
+
+In his graveside oration the [[Taoiseach]] [[Bertie Ahern]] echoed these sentiments and also paid tribute to the Ten:{{quote|These 10 young men were executed during the War of Independence. The country was under tremendous pressure at the time. There was a united effort. Meanwhile, elected by the people, Dáil Éireann was developing, in spite of a war going on. Democracy was being put to work. Independent civic institutions, including the Dáil courts, were beginning to function. Before their deaths, the ten had seen the light of freedom. They understood that Ireland would be free and independent.&lt;ref&gt;[http://homepage.eircom.net/~dankiely/pressreleases.html PRESS RELEASE: 17 October 2001], eircom.net; accessed 1 November 2008.&lt;/ref&gt;}}
+
+The [[List of Irish state funerals|state funeral]], broadcast live on national television and radio, was only the 13th since independence.&lt;ref&gt;[https://query.nytimes.com/gst/fullpage.html?res=9D06EFDD113FF936A25753C1A9679C8B63&amp;n=Top/Reference/Times%20Topics/Organizations/I/Irish%20Republican%20Army New York Times article], 15 October 15, 2001.&lt;/ref&gt; Patrick Maher would not be reburied with his comrades. In accordance with his wishes, and those of his family, he was reinterred in [[Ballylanders]], [[County Limerick]].&lt;ref&gt;[http://www.taoiseach.gov.ie/index.asp?locID=383&amp;docID=511 Patrick Maher reference] {{webarchive |url=https://web.archive.org/web/20071202182547/http://www.taoiseach.gov.ie/index.asp?locID=383&amp;docID=511 |date=December 2, 2007 }}, taoiseach.gov.ie; accessed 19 November 2015.&lt;/ref&gt;
+
+A feature length [[Irish language]] documentary on the re-interments, ''An Deichniúr Dearmadta'' (''The Forgotten Ten'') aired on [[TG4]] on 28 March 2002.&lt;ref&gt;{{cite web|url=http://hcl.harvard.edu/hfa/films/2003marapr/biff.html|title=Harvard Film Archive|work=harvard.edu|accessdate=3 November 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tcd.ie/irishfilm/showfilm.php?fid=51577|title=Irish Film &amp; TV Research Online - Trinity College Dublin|work=tcd.ie|accessdate=3 November 2015}}&lt;/ref&gt;
+
+An episode of the BBC series ''[[Who Do You Think You Are? (UK TV series)|Who Do you Think You Are?]]'' with [[Boy George]] describes the life of Thomas Bryan, who was his great uncle.
+
+==Photo gallery==
+&lt;gallery caption="The Ten" widths="100px" heights="100px" perrow="5"&gt;
+File:Kevin Barry.jpg|&lt;center&gt;Kevin Barry&lt;/center&gt;
+File:Thomasbryan.jpg|&lt;center&gt;Thomas Bryan&lt;/center&gt;
+File:Patrickdoyle.jpg|&lt;center&gt;Patrick Doyle&lt;/center&gt;
+File:Frankflood.jpg|&lt;center&gt;Frank Flood&lt;/center&gt;
+File:Nedfoley.jpg|&lt;center&gt;Edmond Foley&lt;/center&gt;
+File:Patrickmaher.jpg|&lt;center&gt;Patrick Maher&lt;/center&gt;
+File:Patrickmoran.jpg|&lt;center&gt;Patrick Moran&lt;/center&gt;
+File:Bernardryan.jpg|&lt;center&gt;Bernard Ryan&lt;/center&gt;
+File:Thomastraynor.jpg|&lt;center&gt;Thomas Traynor&lt;/center&gt;
+File:Tomwhelan.jpg|&lt;center&gt;Thomas Whelan&lt;/center&gt;
+&lt;/gallery&gt;
+
+==Bibliography==
+* Carey, Tim: [https://books.google.com/books?id=z986AAAACAAJ&amp;dq=the+forgotten+ten&amp;ei=yq8NSa22GKfKzATM55mOBg ''The Forgotten Ten: A Documentary History''] (2001); {{ISBN|1-84131-547-8}}
+* O'Donovan, Donal: [https://books.google.com/books?id=U7yCAAAAIAAJ&amp;q=kevin+barry+and+his+time&amp;dq=kevin+barry+and+his+time&amp;ei=gK8NSfDlBJKQzQSL5-D2CA&amp;pgis=1''Kevin Barry and his Time''] (1989); {{ISBN|0-907606-67-9}}
+
+==References==
+{{reflist|2}}
+
+==See also==
+* [http://www.anphoblacht.com/contents/7967 Forgotten Ten] from An Phoblacht - Sinn Féin Weekly
+* [http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/1311271.stm IRA men's bodies to be exhumed] from BBC News
+* [http://findarticles.com/p/articles/mi_qn4161/is_20001008/ai_n14520071 'Forgotten 10' prisoners deserve Christian burial ; Court challenge] from findarticles.com
+* [https://books.google.ie/books?id=bb7XOwAACAAJ&amp;dq=%22I+Did+Penal+Servitude%22 ''I Did Penal Servitude''] by Walter Mahon-Smith (aka D 83222) 1945
+* [http://thewildgeese.irish/profiles/blogs/kevin-barry-just-a-lad-of-18-summers A series of articles on the Forgotten Ten] from The Wild Geese Today
+
+{{DEFAULTSORT:Forgotten Ten, The}}
+[[Category:1920 deaths]]
+[[Category:1921 deaths]]
+[[Category:Burials at Glasnevin Cemetery]]
+[[Category:Irish Republican Army (1919–22) members]]
+[[Category:20th-century executions by the United Kingdom]]
+[[Category:People killed in the Irish War of Independence]]
+[[Category:Executed Irish people]]
+[[Category:People executed by the British military by hanging]]
+[[Category:Articles about multiple people]]</text>
+      <sha1>tv2dng6x0ylejw26zfan7f6e85t0vw1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Joe Pillow</title>
+    <ns>0</ns>
+    <id>13912224</id>
+    <redirect title="Amiga 1000" />
+    <revision>
+      <id>858304273</id>
+      <parentid>853984357</parentid>
+      <timestamp>2018-09-06T07:17:42Z</timestamp>
+      <contributor>
+        <username>Christian75</username>
+        <id>1306352</id>
+      </contributor>
+      <comment>categories</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="131">#REDIRECT [[Amiga 1000#Joe Pillow]]
+
+{{R from merge}}
+{{R to section}}
+
+[[Category:Fictional characters]]
+[[Category:Amiga people]]</text>
+      <sha1>k9iw1yj9mvrjzm381ig0jikkfdxksqg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>King Fib</title>
+    <ns>0</ns>
+    <id>54505884</id>
+    <revision>
+      <id>796893783</id>
+      <parentid>796893761</parentid>
+      <timestamp>2017-08-23T17:50:47Z</timestamp>
+      <contributor>
+        <username>Wilhelmina Will</username>
+        <id>4649642</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1918">{{expert needed|1=Mythology|date=August 2017|reason=The tone is perhaps not suited to an encyclopaedic article, and I question the use of the info box which suggests an inappropriate level of accurcay.}}
+''For the Kingdom of Fib see [[Kingdom of Fib]].''
+
+{{Infobox royalty|name=Fib/Fibaid|succession=[[List of kings of Fib|King of Fib]]|reign=715-691 BCE {{Citation needed|date=August 2017}}|predecessor=Founder of Fib|successor=[[Gede-olgudach]] (possibly)|birth_date=After 822 BCE|death_date=7th Century BCE (age c. 161)|father=[[King Cruithne|Cruithne]]|succession1=Pictish Ruler|successor1=[[Gede-olgudach]]|predecessor1=[[Fortriu / Fortrann / Fortrenn]]}}
+
+'''Fib''' is a mythological Pictish prince mentioned in the [[Pictish Chronicle]]. He was king of the Fib Kingdom (Fife), he ruled for 24 years along with his brothers, Cat, Fidach, Cé, Fótla, Circinn and Fortriu. He was the son of Cruithne, king of all of the Picts who supposedly ruled for 100 years.&lt;ref&gt;{{Cite web|url=http://www.historyfiles.co.uk/KingListsBritain/GaelsPictland.htm|title=Kingdoms of Caledonia &amp; Ireland - Pictland|last=Kessler|first=P L|website=www.historyfiles.co.uk|language=en|access-date=2017-07-09}}&lt;/ref&gt; Fib's rule may of been 715-691 BCE according to the Pictish Chronicles "Fibaid xxiiij" which translates to Fib ruled for 24 years.&lt;ref&gt;{{Cite web|url=http://www.kjhskj75z.talktalk.net/pictish.html|title=THE PICTISH CHRONICLE|website=www.kjhskj75z.talktalk.net|access-date=2017-07-09}}&lt;/ref&gt;{{unreliable source?|date=July 2017}} The chronicles also state that the brothers ruled one after the other.&lt;gallery&gt;
+File:FifeTraditional.png|Map of the Kingdom of Fib (Traditional Fife)
+File:Pictish kingdoms with Fidach.png|Pictish kingdoms
+&lt;/gallery&gt;
+
+==References==
+{{Reflist}}
+
+
+{{Myth-stub}}
+
+[[Category:Mythological characters]]
+[[Category:Pictish culture]]
+[[Category:Scottish literature]]
+[[Category:Scottish chronicles]]</text>
+      <sha1>h9h0o4lky9yclnmccwftxalnfitccac</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lisa Ramos</title>
+    <ns>0</ns>
+    <id>48435874</id>
+    <redirect title="Man on Fire (2004 film)" />
+    <revision>
+      <id>862475918</id>
+      <parentid>859690235</parentid>
+      <timestamp>2018-10-04T16:34:32Z</timestamp>
+      <contributor>
+        <username>TAnthony</username>
+        <id>1808194</id>
+      </contributor>
+      <comment>Rcat</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="151">#REDIRECT [[Man on Fire (2004 film)]]
+
+{{R from fictional character|Miscellaneous film}}
+
+{{DEFAULTSORT:Ramos, Lisa}}
+[[Category:Fictional characters]]</text>
+      <sha1>ifis2cln3edxy2um2gdr6qkbjfgbqr1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>List of anti-religious people</title>
+    <ns>0</ns>
+    <id>51263975</id>
+    <redirect title="Antireligion" />
+    <revision>
+      <id>733352581</id>
+      <parentid>733352571</parentid>
+      <timestamp>2016-08-07T06:31:04Z</timestamp>
+      <contributor>
+        <username>Jarble</username>
+        <id>7226930</id>
+      </contributor>
+      <comment>added [[Category:Lists of people]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="86">#REDIRECT [[Antireligion#Notable_anti-religious_people]]
+
+[[Category:Lists of people]]</text>
+      <sha1>jeehmmvb47xh4nbmzrsmygu24o54w33</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lunar pareidolia</title>
+    <ns>0</ns>
+    <id>35573211</id>
+    <revision>
+      <id>833705305</id>
+      <parentid>819394044</parentid>
+      <timestamp>2018-04-02T01:08:34Z</timestamp>
+      <contributor>
+        <username>Halgin</username>
+        <id>5962378</id>
+      </contributor>
+      <comment>Added image of Pareidolias in the moon</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6331">{{refimprove|date=April 2012}}
+[[File:Man In The Moon2.png|thumb|200px|Some Pareidolias in the moon]]
+'''Lunar pareidolia''' refers to the [[Pareidolia|pareidolic]] images seen by humans on the face of the [[Moon]]. The Moon's surface is a complex mixture of dark areas (the [[Lunar mare|lunar ''maria'']], or "seas") and lighter areas (the highlands). Many cultures have seen shapes in these dark and light areas that have reminded them of people, animals or objects, often related to their [[folklore]]; the most famous are the [[Man in the Moon]] in Western folklore and the [[Moon Rabbit]] of Asia and the Americas. Other cultures perceive the silhouette of a [[Chang'e (mythology)|woman]], a [[frog]], a [[moose]], a [[American Bison|buffalo]], or a [[dragon]] (with its head and mouth to the right and body and wings to the left) in the full moon. Alternatively, the vague shape of the overall dark and light regions can resemble a [[Taijitu|Yin Yang symbol]].
+
+==The Man in the Moon==
+{{Main article|Man in the Moon}}
+[[File: Man in the Moon with key.jpg|thumb|left|200px|One possible interpretation of the Man in the Moon as seen from the Northern Hemisphere]]
+The Man in the Moon is an imaginary figure resembling a human face, head or body, that observers from some cultural backgrounds typically perceive in the bright disc of the [[full moon]].
+
+==Rabbit/hare==
+{{Main article|Moon rabbit}}
+[[File:Rabbit in the moon standing by pot.png|thumb|150px|Rabbit with a pot – making medicine, [[mochi]], or [[tteok]]]]
+
+In [[Culture of China|Chinese culture]], the rabbit in the moon (a companion of [[Chang'e (mythology)|Chang'e]]) is pounding medicine. Similarly, in [[Japan]] and [[Korea]], popular culture sees a rabbit making [[mochi]] and [[tteok]], respectively, in the moon.
+
+In [[Pre-Columbian]] [[Mesoamerica]] the rabbit is often associated with the moon, for example, [[Tecciztecatl]], the [[Aztec]] moon god, was pictured as an anthropomorphic rabbit; there is also a myth involving [[Quetzalcoatl]] and the moon rabbit.
+
+==Female figures==
+In [[Elizabethan England]], the spots of the Moon were supposed to represent a witch carrying sticks of wood on her back, or an old man with a lantern (which was illustrated by [[Shakespeare]] in his comedy ''[[A Midsummer Night's Dream]]''). A more recent Western image is the profile of a coiffed woman wearing a jeweled pendant, the jewel being the crater [[Tycho (crater)|Tycho]], which at full moon is very bright and has bright radiating lines ([[Ray system|rays]]). In New Zealand [[Māori mythology|Māori legend]], the moon shows a woman with a local tree, the ''[[Myoporum laetum#Maori legend|Ngaio]]''. However, throughout [[Melanesia]] and [[Polynesia]], the moon is seen to be a cook over a three-stone fire.
+
+In [[Chinese Mythology]], [[Chang'e]] (various spellings) lives on the moon. She was mentioned in the conversation between Houston Capcom and [[Apollo 11]] crew just before the first moon landing:&lt;ref&gt;[http://anarchy-manga.com/Onions/onion-club-manga-emoticons-wallpapers.php Onion-Club, Chang-e, About the Moon Festival] {{webarchive|url=https://web.archive.org/web/20120305233856/http://anarchy-manga.com/Onions/onion-club-manga-emoticons-wallpapers.php |date=2012-03-05 }}&lt;/ref&gt;
+{{quote|text=[[Lyndon B. Johnson Space Center|Houston]]: Among the large headlines concerning Apollo this morning there's one asking that you watch for a lovely girl with a big rabbit. An ancient legend says a beautiful Chinese girl called ''Chang-o'' has been living there for 4000 years. It seems she was banished to the moon because she stole the pill for immortality from her husband. You might also look for her companion, a large Chinese rabbit, who is easy to spot since he is only standing on his hind feet in the shade of a cinnamon tree. The name of the rabbit is not recorded.&lt;br&gt;
+[[Buzz Aldrin|Aldrin]]: Okay, we'll keep a close eye for the bunny girl.|sign=NASA Capcom and Apollo 11 crew|source=NASA&lt;ref&gt;[http://www.hq.nasa.gov/alsj/a11/a11transcript_tec.pdf#page=181 Apollo 11 Technical Air-to-Ground Voice Transcription]&lt;/ref&gt;}}
+
+==Toad==
+"The toad was seen by Chinese Taoists as ... the moon, representing Chang-O, the transformed wife of Yi, the excellent archer. ... According to Robert M. DeGraaff, in some representations of the moon-toad, the ''ling chih'' fungus is shown growing out of the creature's forehead."&lt;ref&gt;[https://books.google.com/books?id=yXPXTbrJULgC&amp;pg=PA157&amp;lpg=PA157&amp;dq=Cheng-o+toad&amp;source=bl&amp;ots=NVyvO2GFTz&amp;sig=WipE6K8JaB9Mrv8Yjl49349ab6Q&amp;hl=en&amp;ei=oZyhSaKlLZ6Dtwfsh836DA&amp;sa=X&amp;oi=book_result&amp;resnum=1&amp;ct=result Adrian Morgan : ''Toads and Toadstools''. Celestial Arts, 1995]. {{ISBN|0-89087-777-7}}. p. 157&lt;/ref&gt;
+
+==Ali==
+[[Shia Muslims]] believe that the name of [[Ali]] Ibne-Abi Talib ([[Muhammad]]'s son in law) is written on the moon. This interpretation has roots in several [[hadith]] by Muhammad where he compares Ali to the moon and himself to the sun. There are also other esoteric interpretations of this analogy in Islamic philosophy.
+
+==See also==
+*[[Pareidolia]]
+
+==References==
+&lt;references /&gt;
+
+==External links==
+{{Commons category|Pareidolia on the Moon}}
+*[http://www.ianslunarpages.org/Man_in_moon.html Man in the Moon lore]
+*[http://www.ianslunarpages.org/toad_and_hare.html Toad, Frog, and Rabbit in the Moon lore]
+*[http://www.ianslunarpages.org/crab.html The Crab in the Moon]
+*[http://wfmh.org.pl/thorgal/Moon/ The Man in the Moon and other weird things]
+
+===Mythology===
+*[http://www.laputanlogic.com/articles/2004/04/05-0001.html Rabbit in the Moon] Contrasting Asian and Aztec legends about the Moon Rabbit (See also [[Mochi (food)]])
+
+===Chinese moon festival legends===
+*[http://www.laputanlogic.com/articles/2004/10/011-0001-1798.html Chang Er flies to the Moon] Another version of the [[Chang'e (mythology)|Chang Er]] story
+*[http://www.laputanlogic.com/articles/2004/04/05-0001.html The Legend of Wukang] A sort of Chinese [[Tantalus]]
+*[http://www.sacred-texts.com/astro/ml/ml06.htm The Man in the Moon]
+
+{{The Moon}}
+
+{{DEFAULTSORT:Man In The Moon}}
+[[Category:Mythological characters]]
+[[Category:Moon myths]]
+[[Category:Moon in fiction]]
+
+[[als:Mann im Mond]]
+[[bar:Mondgsicht]]
+[[de:Mondgesicht]]
+[[el:Πρόσωπο στη Σελήνη]]
+[[es:La cara de la Luna]]
+[[nl:Mannetje in de maan]]</text>
+      <sha1>a4rgrk9imobfga4y2otm0ym1s6oh1k1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Munro of Auchinbowie</title>
+    <ns>0</ns>
+    <id>27373094</id>
+    <revision>
+      <id>857281193</id>
+      <parentid>827597997</parentid>
+      <timestamp>2018-08-30T18:37:36Z</timestamp>
+      <contributor>
+        <username>QuintusPetillius</username>
+        <id>6299012</id>
+      </contributor>
+      <comment>removed duplicate "who was"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10197">[[File:Munro of Auchinbowie Coat of Arms.jpg|thumb|right|150px|Coat of Arms of the Munro of Auchinbowie family]]
+The '''Munros of Auchinbowie''' (sometimes spelt Monro) are a distinguished branch of the [[Scotland|Scottish]], highland [[Clan Munro]]. From this family three Professors of Anatomy at the [[University of Edinburgh]], Scotland were produced, as well as several other doctors and military officers.
+
+==Lineage==
+===17th century===
+[[File:Monro_RCSEd.jpg|200px|thumb|right|[[John Monro (surgeon)|John Monro]] the surgeon of Edinburgh University whose descendants later succeeded to the Auchinbowie property]]
+The progenitor of the Munros of Auchinbowie is generally regarded as [[Alexander Munro of Bearcrofts]] who served as a major in an infantry regiment and saw action at the [[Battle of Worcester]] in 1651.  He later took up a career of politics. His ancestry can be traced to [[Munro of Milntown|Andrew Munro, 4th of Milntown]] who descends from [[Hugh Munro, 9th Baron of Foulis]] (d.1425), an early chief of the Clan Munro of Ross-shire, Scotland.
+
+Alexander Munro of Bearcrofts had seven children:
+
+#[[George Munro, 1st of Auchinbowie]] (1666–1721) who was famed for his victory over the Jacobites at the [[Battle of Dunkeld]] in 1689.  He came into ownership of Auchinbowie, a property about four miles south of [[Stirling]] through his wife Margaret Bruce of Auchinbowie. Later as a Major in Sir Charles Graham's Regiment of Foot he fought at the [[Siege of Namur (1695)]].   
+#Archibald Munro born in 1666 and died in 1697.
+#[[John Monro (surgeon)|John Monro]] a surgeon at the [[University of Edinburgh]], whose descendants would later succeed to the estates of Auchinbowie.
+#Margaret Munro.
+#Lillias Munro.
+#Jean Munro. Married William, second son of Sir William Sempil of Cathcart.
+#Mary Munro.
+
+===18th century===
+George Munro, 1st of Auchinbowie had three children:
+[[File:Auchibowie House.jpg|thumb|right|250px|Auchinbowie House, near [[Stirling]], [[Scotland]]]]
+#Alexander Munro, 2nd of Auchinbowie who married Anne, daughter of [[Stewart Baronets|Sir Robert Stewart, Lord Tillicoultry]] in 1719.
+#[[George Monro (British Army officer)|George Monro]] (1700–1757) who was a British Army officer famed for his resolute but ultimately unsuccessful defense of [[Fort William Henry]] in 1757 during the [[Seven Years' War]] / [[French and Indian War]] which was made famous by the novel and later the film ''[[The Last of the Mohicans]]''. However, when [[John Alexander Inglis]] wrote his history of the Monro of Auchinbowie family in 1911, he had not at that time identified the younger George Monro as a member of the family.&lt;ref name="Inglis2"&gt;Holden, James A. and Inglis, John Alexander. (1913). ''[https://www.jstor.org/stable/42889472?seq=1#page_scan_tab_contents The Lineage of Colonel George Monro - Proceedings of the New York State Historical Association]''. '''Volume 13'''. pp. 389 - 403.&lt;/ref&gt;
+#Margaret Munro - born 1707.
+
+Alexander Munro, 2nd of Auchinbowie (d.1742)  had nine children: 
+#George Munro, 3rd of Auchinbowie (1721–1793) who was an army surgeon who served in the [[42nd Regiment of Foot|42nd Highlanders]] otherwise known as the ''Black Watch'' under the chief of the Clan Munro; Colonel [[Sir Robert Munro, 6th Baronet]]. In 1750 George was Surgeon in [[William Maule, 1st Earl Panmure]]'s [[25th Regiment of Foot]]. He saw active service in Germany and afterwards in the war against the French in America. In 1781 he was appointed Physician General to the garrison in [[Menorca]] and went through six months siege by the French and Spanish.
+#Alexander Munro, a writer in [[Edinburgh]]. (1724–1750).
+#John Munro.
+#Cecil Munro. (1719–1786)
+#Five other children - all died young.
+
+George Munro, 3rd of Auchinbowie had two sons:
+
+#Major George Munro who married Elizabeth Aylmer. They had two sons and one daughter.
+#[[Hector William Munro|Lieutenant-General Hector William Munro, 1st of Edmondsham]] (d. 1821) was [[List of Governors of Trinidad|Governor of Trinidad]] and who married Philadelphia Bower of [[Edmondsham]]. They had three sons and four daughters.
+
+==Alexander Monro (primus)==
+[[File:Alexander Monro primus.jpg|150px|thumb|right|Alexander Monro ''primus'', 4th of Auchinbowie]]
+Although George Munro, 3rd of Auchinbowie had male heirs as mentioned above, he sold the Auchinbowie property to a cousin, [[Alexander Monro (primus)]] who was the son of [[John Monro (surgeon)]], who was in turn a younger brother of George Munro, 1st of Auchinbowie. Alexander Monro (primus) was the founder of the [[Edinburgh Medical School]].  He was appointed lecturer on [[Anatomy]] by the Surgeons' Company at [[Edinburgh]] in 1719; two years later he became professor, and in 1725 was admitted to the [[University of Edinburgh|University]]. He was a principal promoter and early clinical lecturer in the [[Edinburgh Royal Infirmary]]. Alexander Monro (primus) had six children:
+
+#[[John Monro (advocate)|John Monro, 5th of Auchinbowie]], advocate, born 5 November 1725 and married Sophia, eldest daughter of Archibald Inglis of Auchindinny. He died in May 1789.
+#[[Donald Monro (doctor)|Dr Donald Monro]] (1728–1802), married Dorothea Maria Heineken.
+#Jean Monro (1729–1731).
+#Mary Monro - born 1730.
+#[[Alexander Monro (secundus)]], 1st of Craiglockhart and Cockburn. (1733–1817)
+#Margaret Monro (1757–1802).
+
+==Alexander Monro (secundus)==
+[[File:Alexander Munro secundus.jpg|150px|thumb|right|Alexander Monro ''secundus'']]
+Alexander Monro (primus) was succeeded in the property of Auchibowie by his eldest son John Monro, 5th of Auchinbowie who was in turn succeeded by a daughter. However he was succeeded in his profession by his third son [[Alexander Monro (secundus)]] who was Professor of Anatomy in [[Edinburgh]]. He took his degree as Doctor of Medicine on 20 October 1775. He then proceeded to his studies abroad. He spent a short time in [[London]], where he attended the lectures of [[William Hunter (anatomist)|Dr William Hunter]]. He next visited [[Paris]] and on 17 September 1757 entered [[Leiden University]] where he formed a friendship with two famous anatomists, [[Bernhard Siegfried Albinus]] and [[Petrus Camper]]. However his foreign studies were principally prosecuted at [[Berlin]], where he worked under the celebrated Professor Meckel, in whose house he lived. Alexander spent some time in Edinburgh during early 1757 in order to fill the place of his father, who was confined to the house by illness. He finally was admitted a licentiate of the [[Royal College of Physicians of Edinburgh]] on 2 May 1758 and as a Fellow on 1 May 1759. He had four children:
+
+#Isabella Monro who married Lieutenant-Colonel Hugh Cott of Gala. She died in 1801.
+#[[Alexander Monro (tertius)]], 2nd of Craiglockhart and Cockburn. (1773–1859).
+#David Monro (1776–1843).
+#Charlotte Monro (1782–1822).
+
+==Alexander Monro (tertius)==
+[[File:Alexander Munro tertius.jpg|150px|thumb|right|Alexander Monro ''tertius'']]
+[[Alexander Monro (tertius)]] followed his father and grandfather in becoming professor of anatomy at the [[University of Edinburgh]]. Amongst his publications are "Outlines of the Anatomy of the Human Body" (1811) in four volumes and "Elements of Anatomy" (1825) in two volumes. He was Secretary of the Royal College of Physicians from 1809 to 1819 and President in 1827 and 1828. He was also on the Council of the [[Wernerian Natural History Society]] of which he became a member in 1811. He had been elected a Fellow of the [[Royal Society of Edinburgh]] in 1798 and at his death was father of the Society. He had 12 children:
+
+#Alexander Monro (1803–1867), was a Captain in the [[Rifle Brigade (Prince Consort's Own)]], married Elizabeth, daughter of C. B Scott of Woll.
+#James Monro (1806–1870), was a Surgeon-Major in the [[Coldstream Guards]], married Maria, daughter of Colonel Duffin.
+#Henry Monro (1810–1869), married Jane Christie. One of their sons was [[Sir Charles Monro, 1st Baronet]]
+#[[David Monro|Sir David Monro]] (1813–1877), married Dinah, daughter of John Secker. They had five sons including [[Charles John Monro]].&lt;ref&gt;Wright-St Clair, Rex. "Monro, David 1813 - 1877". Dictionary of New Zealand Biography. Ministry for Culture and Heritage.&lt;/ref&gt;
+#William Munro (1815–1881), a Major in the 79th [[Queen's Own Cameron Highlanders]], married Elizabeth, daughter of [[Sir Robert Abercromby, 5th Baronet]].
+#Charles Monro (1818–1820).
+#Maria Monro (1801–1884), married John Inglis of Auchinderry and Redhall.
+#Catherine Monro (1804–1868), married Sir John James Steuart of Allanbank.
+#Georgiana Monro (1808–1868), married George Skene of Rubislaw.
+#Harriet Monro (181 - 1989), married her cousin Alex Binning Monro who was a descendant of [[John Monro (advocate)|John Monro, 5th of Auchinbowie]], their son [[David Binning Monro]] was [[Vice-Chancellor]] of the [[University of Oxford]].
+#Isabella Monro (1819–1908)
+#Charlotte Monro (1821–1908), married Henry Fletcher.
+
+==DNA==
+
+DNA testing of two living male members of the Munro of Auchinbowie family has proven their ancestral connection to the [[Chiefs of Clan Munro]].&lt;ref&gt;[http://www.clanmunro.org.uk/dna.htm Munro DNA project] clanmunro.org.uk. Retrieved 10 September 2014.&lt;/ref&gt;&lt;ref&gt;[http://www.familytreedna.com/public/MunroDNA/default.aspx?section=yresults Munro DNA project] familytreedna.com. Retrieved 10 September 2014.&lt;/ref&gt;
+
+==References==
+*[[John Alexander Inglis|Inglis, John Alexander]]. (1911). ''[https://archive.org/stream/monrosofauchinbo00ingl#page/8/mode/2up The Monros of Auchinbowie and Cognate Families]''. Printed privately by T and A Constable, Edinburgh. Printers to His Majesty.
+*[[Alexander Mackenzie (historian)|Mackenzie, Alexander]]. (1898). ''[https://archive.org/stream/historyofmunroso00mack#page/304/mode/2up History of the Munros of Fowlis]''. (Mackenzie's designation of "of Auchinbowie" and "of Bearcrofts" differs slightly from that of Inglis').
+
+==Notes==
+{{reflist}}
+
+==See also==
+*[[Monro of Fyrish]]
+
+[[Category:Clan Munro|Auchinbowie]]
+[[Category:Scottish families|Munro of Auchinbowie]]
+[[Category:Articles about multiple people|Munro of Auchinbowie]]</text>
+      <sha1>cu4oeh3s2kyz7pgtxnxljnmd8x8hjrr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Person</title>
+    <ns>0</ns>
+    <id>219599</id>
+    <revision>
+      <id>869609162</id>
+      <parentid>869609148</parentid>
+      <timestamp>2018-11-19T18:22:54Z</timestamp>
+      <contributor>
+        <username>Thegreatluigi</username>
+        <id>25291008</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/2A00:23C5:3884:8300:2845:B0A4:6FAE:18C8|2A00:23C5:3884:8300:2845:B0A4:6FAE:18C8]] ([[User talk:2A00:23C5:3884:8300:2845:B0A4:6FAE:18C8|talk]]) to last version by ClueBot NG</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10928">{{Other uses}}
+
+A '''person''' is a being that has certain capacities or attributes such as [[reason]], [[morality]], [[consciousness]] or [[self-consciousness]], and being a part of a culturally established form of social relations such as [[kinship]], [[ownership]] of [[property]], or [[legal obligation|legal responsibility]].&lt;ref&gt;http://www.oxfordbibliographies.com/view/document/obo-9780199766567/obo-9780199766567-0169.xml&lt;/ref&gt;&lt;ref&gt;De Craemer, Willy. “A Cross-Cultural Perspective on Personhood.” The Milbank Memorial Fund Quarterly. Health and Society, vol. 61, no. 1, 1983, pp. 19–34., www.jstor.org/stable/3349814.&lt;/ref&gt;&lt;ref&gt;Christian Smith. 2003. Moral, Believing Animals: Human Personhood and Culture. Oxford University Press&lt;/ref&gt;&lt;ref&gt;Carrithers, Michael, Steven Collins, and Steven Lukes, eds. 1985. The category of the person: Anthropology, philosophy, history. Cambridge, UK: Cambridge Univ. Press.&lt;/ref&gt; The defining features of [[personhood]] and consequently what makes a person count as a person differ widely among cultures and contexts.
+
+In addition to the question of personhood, of what makes a being count as a person to begin with, there are further questions about [[personal identity]] and [[self]]: both about what makes any particular person that particular person instead of another, and about what makes a person at one time the same person as they were or will be at another time despite any intervening changes.
+
+The common plural of "person", "[[people]]", is often used to refer to an entire [[nation]] or [[ethnic group]] (as in "a people"). The plural "persons" is often used in [[philosophy|philosophical]] and [[law|legal]] writing.
+
+==Development of the concept==
+
+In ancient Rome, the word ''[[persona]]'' (Latin) or ''[[prosopon]]'' (πρόσωπον; Greek) originally referred to the masks worn by actors on stage. The various masks represented the various "personae" in the stage play.&lt;ref name="CathEnc"&gt;{{cite encyclopedia|year=1911|title=Person|encyclopedia=[[Catholic Encyclopedia]]|publisher=Robert Appleton Company|location=New York|url=http://www.newadvent.org/cathen/11726a.htm|accessdate=2011-03-09|last=Geddes|first=Leonard|volume=11|quote=The Latin word persona was originally used to denote the mask worn by an actor. From this, it was applied to the role he assumed, and, finally, to any character on the stage of life, to any individual.}}&lt;/ref&gt;
+
+The concept of person was further developed during the [[Trinitarianism|Trinitarian]] and [[Christology|Christological]] debates of the 4th and 5th centuries in contrast to the word nature.&lt;ref&gt;Thisleton NIGNTC commentary on 1 Corinthians "Thinkers in ancient times had a difficulty in expressing the notion of personality"; Barfield in History of English Words “Take, for instance, the word person...Its present meaning of an individual human being is largely due to the theologians who hit upon it when they were looking for some term that would enable them to assert the trinity of Godhead without admitting more than one 'substance'"; John Zizioulas in ''Being as Communion'', 1985 New York:St Vladimirs Press p. 27 writes: "although the person and “personal identity” are widely discussed nowadays as a supreme ideal, nobody seems to recognize that historically as well as existentially the concept of the person is indissolubly bound up with theology."&lt;/ref&gt;  During the theological debates, some philosophical tools (concepts) were needed so that the debates could be held on common basis to all theological schools. The purpose of the debate was to establish the relation, similarities and differences between the Λóγος/''Verbum'' and God. The philosophical concept of person arose, taking the word "[[prosopon]]" (πρόσωπον) from the [[Theatre of ancient Greece|Greek theatre]]. Therefore, Christus (the Λóγος/''Verbum'') and God were defined as different "persons". This concept was applied later to the Holy Ghost, the angels and to all human beings.
+
+Since then, a number of important changes to the word's meaning and use have taken place, and attempts have been made to redefine the word with varying degrees of adoption and influence.
+
+==Personhood==
+[[File:Paul Klee WI (In Memoriam) 1938.jpg|thumb|An abstract painting of a person by [[Paul Klee]]. The concept of a person can be very challenging to define.]]
+{{main article|Personhood}}
+
+{{quotation|The criteria for being a person... are designed to capture those attributes which are the subject of our most humane concern with ourselves and the source of what we regard as most important and most problematical in our lives.|Harry G. Frankfurt|}}
+Personhood is the status of being a person. Defining personhood is a controversial topic in [[philosophy]] and [[law]], and is closely tied to legal and [[political]] concepts of [[citizenship]], [[equality before the law|equality]], and [[liberty]]. According to common worldwide general legal practice, only a [[natural person]] or [[legal personality]] has [[rights]], protections, privileges, responsibilities, and [[legal liability]].
+Personhood continues to be a topic of international debate, and has been questioned during the abolition of [[slavery]] and the fight for [[women's rights]], in debates about [[abortion]], [[fetal rights]], and in [[animal rights]] advocacy.&lt;ref&gt;For a discussion of non-human personhood, see Midgley, Mary. [http://www.animal-rights-library.com/texts-m/midgley01.htm "Persons and non-persons"], in Peter Singer (ed.) ''In Defense of Animals''. Basil Blackwell, 1985, pp. 52-62.&lt;/ref&gt;
+
+Various debates have focused on questions about the personhood of different classes of entities. Historically, the personhood of animals, women, and slaves has been a catalyst of social upheaval. In most societies today, living adult humans are usually considered persons, but depending on the context, theory or definition, the category of "person" may be taken to include or not [[adultism|children]] or such [[Non human|non-human]] entities as [[animals]], [[artificial intelligences]], or [[extraterrestrial life]], as well as legal entities such as [[corporations]], [[sovereign states]] and other [[Polity|polities]], or [[estate (law)|estate]]s in [[probate]].&lt;ref&gt;For corporations, see [https://www.nytimes.com/2010/01/22/us/politics/22scotus.html "Justices, 5-4, Reject Corporate Spending Limit"], ''The New York Times'', January 21, 2010.&lt;/ref&gt;
+
+==Personal identity==
+[[Image:MontreGousset001.jpg|thumb|What does it take for individuals to persist from moment to moment – or in other words, for the same individual to exist at different moments?]]
+{{main article|Personal identity}}
+
+Personal identity is the [[Identity (philosophy)|unique identity]] of persons through time. That is to say, the necessary and sufficient conditions under which a person at one time and a person at another time can be said to be the ''same'' person, persisting through time. In the modern [[philosophy of mind]], this concept of personal identity is sometimes referred to as the ''[[wikt:diachronic|diachronic]]'' problem of personal identity. The ''[[wikt:synchronic|synchronic]]'' problem is grounded in the question of what features or traits characterize a given person at one time.
+
+Identity is an issue for both [[continental philosophy]]{{citation needed|date=October 2012}} and [[analytic philosophy]].{{citation needed|date=October 2012}} A key question in continental philosophy is in what sense we can maintain the modern conception of identity, while realizing many of our prior assumptions about the world are incorrect.{{citation needed|date=October 2012}}
+
+Proposed solutions to the problem of personal identity include continuity of the physical body, continuity of an immaterial mind or soul, continuity of consciousness or memory,&lt;ref&gt;Stefaroi, P. (2015). Humanistic Personology: A Humanistic-Ontological Theory of the Person &amp; Personality. Applications in Therapy, Social Work, Education, Management and Art (Theatre).  Charleston SC, USA: CreateSpace.&lt;/ref&gt; the [[bundle theory]] of self,{{citation needed|date=October 2012}} continuity of personality after the death of the physical body,&lt;ref&gt;For a discussion of post-mortal personhood, see Roth, S. (2013) ''Dying is only human. The case death makes for the immortality of the person''. Tamara Journal for Critical Organization Inquiry, Vol. 11, No. 2, pp. 35-39. [http://ssrn.com/abstract=2260793]&lt;/ref&gt; and proposals that there are actually no persons or selves who persist over time at all.{{citation needed|date=October 2012}}
+
+==See also==
+{{columns-list|colwidth=22em|
+* [[Animal liberation (disambiguation)|Animal liberation]]
+* [[Animal rights]]
+* [[Anthropocentrism]]
+* [[Anthropology]]
+* [[Beginning of human personhood]]
+* [[Being]]
+* ''[[Capitis deminutio]]''
+* [[Moral character|Character]]
+* [[Consciousness]]
+* [[Corporate personhood]]
+* [[Great Ape personhood]]
+* [[Human]]
+* [[Hypostasis (philosophy and religion)]]
+* [[Identity (social science)|Identity]]
+* [[Individual]]
+* [[Immanuel Kant]]
+* [[Legal personality]]
+* [[Legal fiction]]
+* [[Nonperson]]
+* [[People]]
+* [[Personality psychology|Personality]]
+* [[Personhood movement]]
+* [[Personoid]]
+* [[Phenomenology (philosophy)|Phenomenology]]
+* [[Subject (philosophy)]]
+* [[Surety]]
+* [[Theory of mind]]
+}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+
+* Cornelia J. de Vogel (1963). ''The Concept of Personality in Greek and Christian Thought''. In Studies in Philosophy and the History of Philosophy. Vol. 2. Edited by J. K. Ryan, Washington: Catholic University of America Press. pp.&amp;nbsp;20–60
+*{{cite book|editor1-last=Lukes|editor1-first=Steven|editor2-last=Carrithers|editor2-first=Michael|editor3-last=Collins|editor3-first=Steven|title=The Category of the Person: Anthropology, Philosophy, History|year=1987|publisher=Cambridge University Press|location=Cambridge|isbn=0-521-27757-4}}
+* {{cite book|last=Puccetti|first=Roland|title=Persons: A Study of Possible Moral Agents in the Universe|year=1968|publisher=Macmillan and Company|location=London}}
+* [[William O. Stephens|Stephens, William O.]] (2006). ''[http://www.pearsonhighered.com/educator/product/Person-The-Readings-in-Human-Nature/9780131848115.page The Person: Readings in Human Nature]''. Upper Saddle River, NJ: Pearson. {{ISBN|978-0-13-184811-5}}.
+* {{CathEncy|wstitle=Person}}
+* {{cite encyclopedia|last=Korfmacher|first=Carsten|title=Personal Identity|encyclopedia=The [[Internet Encyclopedia of Philosophy]]|date=May 29, 2006|url=http://www.iep.utm.edu/p/person-i.htm|accessdate=2011-03-09}}
+
+==External links==
+{{Wiktionary|person}}
+* [http://ieet.org/index.php/IEET/RNHP Rights of Non-Human Persons Program] (Institute for Ethics and Emerging Technologies)
+
+{{Authority control}}
+
+[[Category:Concepts in ethics]]
+[[Category:Humans]]
+[[Category:People| ]]
+[[Category:Personal life]]
+[[Category:Personhood|*]]
+[[Category:Self]]</text>
+      <sha1>0z6ko1ps34hv9zak6exm0i79p21c79p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rokkasen</title>
+    <ns>0</ns>
+    <id>12442282</id>
+    <revision>
+      <id>842496337</id>
+      <parentid>834377940</parentid>
+      <timestamp>2018-05-22T20:51:31Z</timestamp>
+      <contributor>
+        <username>Rich Farmbrough</username>
+        <id>82835</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, replaced: Cambridge, Mass. → Cambridge, Massachusetts using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8913">[[Image:Sanjūrokkasen-gaku - 8 - Kanō Tan’yū - Sōjō Henjō.jpg|thumb|''Sōjō [[Henjō]]'' by [[Kanō Tan'yū]], 1648]]The {{nihongo|'''Rokkasen'''|六歌仙||"six poetry immortals"}} are six [[Japanese poetry|Japanese poets]] of the mid-ninth century who were named by [[Ki no Tsurayuki]] in the ''[[kana]]'' and ''[[Kanji|mana]]'' prefaces to the [[List of Japanese poetry anthologies|poetry anthology]] ''[[Kokin Wakashū|Kokin wakashū]]'' (c. 905–14) as notable poets of the generation before its compilers.
+
+== History of the term ==
+In their original appearance in the prefaces of the ''Kokin wakashū'', the six ''rokkasen'' are not actually referred to with this term.&lt;ref name=":2"&gt;{{Cite journal |last=Nishiyama |first=Hidehito |date=March 2007 |title=Rokkasen no jidai |trans-title=The Rokkasen Period |url=https://ci.nii.ac.jp/naid/40015229403 |language=ja |journal=Kokubungaku kaishaku to kanshō |volume=72 |issue=3 |pages=46 |doi= |access-date= }}&lt;/ref&gt;
+
+There are numerous phrases that show the conceptualization of these six as a cohesive group, but the term "Rokkasen" first appeared in an early Kamakura-period commentary on ''Kokin wakashū'', titled ''Sanryūshō'' 三流抄.&lt;ref&gt;{{cite encyclopedia|year=1986|title=Rokkasen|encyclopedia=Waka Daijiten|publisher=Meiji Sho-in|last=Masuda|first=Shigeo|date=|page=1083|language=ja|editor1-last=Inukai|editor1-first=Kiyoshi|editor2-last=Inoue|editor2-first=Muneo|editor3-last=Ohkubo|editor3-first=Tadashi|editor4-last=Ono|editor4-first=Hiroshi|editor5-last=Tanaka|editor5-first=Yutaka|editor6-last=Hashimoto|editor6-first=Fumio|editor7-last=Fujihira|editor7-first=Haruo|trans-title=The Six Poetry Immortals}}&lt;/ref&gt;
+
+== Members ==
+The members of the ''rokkasen'', and their total poems in ''Kokin wakashū,'' are as follows:
+*[[Ōtomo no Kuronushi]], 3 poems
+*[[Ono no Komachi]], 18 poems
+*[[Ariwara no Narihira]], 30 poems
+*[[Kisen Hōshi]], 1 poem
+*[[Henjō|Sōjō Henjō]], 17 poems
+*[[Fun'ya no Yasuhide]], 1 poem
+
+== Tsurayuki's Criticism ==
+In his prefaces to the anthology ''Kokin wanashū'', Ki no Tsurayuki first praises two poets, [[Kakinomoto no Hitomaro]] and [[Yamabe no Akahito]],&lt;ref name=":3" /&gt; from the period before the ''rokkasen'' and then praises these six poets of the generation preceding his own, but also critiques what he considers to be weaknesses in their personal styles.
+
+His criticism in both prefaces is as follows:
+
+''Kana preface''
+
+::Among well-known recent poets, Archbishop Henjō masters style but is deficient in substance. It is no more satisfying to read one of his poems than to fall in love with a woman in a picture. The poetry of Ariwara Narihira tries to express too much content in too few words. It resembles a faded flower with a lingering fragrance. Fun'ya no Yasuhide's language is skillful, but his style is inappropriate to his content. His poems are like peddlers tricked out in fancy costumes. The language of the Ujiyama monk Kisen is veiled, leaving us uncertain about his meaning. Reading him is like trying to keep the autumn moon in sight when a cloud obscures it before dawn. Since not many of his poems are known, we cannot study them as a group in order to evaluate him. Ono no Komachi belongs to the same line as Sotoorihime of old. Her poetry is moving and lacking in strength. It reminds us of a beautiful woman suffering from an illness. Its weakness is probably due to her sex. The style of Ōtomo Kuronushi's poems is crude. They are like a mountain peasant resting under a flowering tree with a load of firewood on his back.&lt;ref name=":0"&gt;{{Cite book|title=Kokin Wakashū, With Tosa Nikki and Shinsen Waka|last=|first=|publisher=Stanford University Press|year=1985|isbn=978-0-8047-1258-3|location=Stanford, CA|pages=7|translator-last=McCullough|translator-first=Helen Craig}}&lt;/ref&gt;
+
+''Mana preface''
+
+::The Kazan Archbishop [Henjō] masters style, but his flowery language bears little fruit. His poems, like a picture of a beautiful woman, move our hearts without leading to anything. The poetry of the Ariwara Middle Captain [Narihira] tries to express too much content in too few words. It resembles a faded flower that retains its fragrance. Bunrin [Fun'ya no Yasuhide] deals cleverly with topics, but his style approaches vulgarity. His poems are like peddlers tricked out in fancy dress. The language of the Ujiyama monk Kisen is dazzling, but his poems do not flow smoothly. Reading him is like trying to keep the autumn moon in sight when a cloud obscures it before dawn. Ono no Komachi belongs to the same like as Sotoorihime of old. Her poetry is beautiful but weak, like an ailing woman wearing cosmetics. Ōtomo Kuronushi's poems belong to the line of Sarumaru of old. Although his poetry has a certain light, witty interest, the style is extremely crude, as though a peasant were resting in front of a flowering tree.&lt;ref&gt;{{Cite book|title=Kokin Wakashū, With Tosa Nikki and Shinsen Waka|last=|first=|publisher=Stanford University Press|year=1985|isbn=978-0-8047-1258-3|location=Stanford, CA|pages=257–8|translator-last=McCullough|translator-first=Helen Craig}}&lt;/ref&gt;
+
+There are varying theories on both why Tsurayuki chose these six poets and why he chose to criticize them in this manner.&lt;ref name=":2" /&gt; [[Helen Craig McCullough|Helen McCullough]] claims that they were selected because they all had distinctive personal styles in a time of homogeneity, and that by aligning them in his commentary with the six major styles of [[Han dynasty|Han Dynasty]] poetry, Tsurayuki was showing off his knowledge of those sources.&lt;ref name=":3"&gt;{{Cite book|title=Brocade by Night: 'Kokin Wakashū' and the Court Style in Japanese Classical Poetry|last=McCullough|first=Helen Craig|publisher=Stanford University Press|year=1985|isbn=0-8047-1246-8|location=Stanford, CA|pages=313–4|translator-last=|translator-first=}}&lt;/ref&gt; Thomas Lammare also believes that Tsurayuki picked these poets to match the six Han styles, and focuses more on how Tsurayuki claimed these styles did not properly align heart (''kokoro'' 心) and words (''kotoba'' 言葉).&lt;ref&gt;{{Cite book|title=Uncovering Heian Japan: An Archaeology of Sensation and Inscription|last=Lamarre|first=Thomas|publisher=Duke University Press|year=2000|isbn=9780822380467|location=Durham, NC|pages=166–7}}&lt;/ref&gt;
+
+== Legacy ==
+The concept of the ''rokkasen'' had a lasting legacy on poetic scholarship both in the pre-modern and modern periods.
+
+In 1009–1011, [[Fujiwara no Kintō]] compiled an expanded list known as the [[Thirty-Six Immortals of Poetry]],&lt;ref&gt;{{Cite book|title=Japan Encyclopedia|last=Frédéric|first=Louis|publisher=Belknap Press of Harvard University Press|year=2002|isbn=0674007700|location=Cambridge, Massachusetts|pages=818}}&lt;/ref&gt; which came to supplant this list of six. This led to the creation of similar lists based on this pattern, such as the "Thirty-Six Court Lady Immortals of Poetry," and the "Thirty-Six Heian-period Immortals of Poetry."
+
+Many Japanese scholars of the twentieth century conceptualized the history of ''waka'' poetry in the ninth century as a time when it was overshadowed by Chinese poetry in the first part of the century and then returned to prominence by the end of the century. These narratives held that this time was a transitional period between the ''waka'' anthologies ''[[Man'yōshū]]'' and ''Kokin wakashū''.&lt;ref name=":1"&gt;{{Cite journal |last=Nishiyama |first=Hidehito |date=March 2007 |title=Rokkasen no jidai |trans-title=The Rokkasen Period |url=https://ci.nii.ac.jp/naid/40015229403 |language=ja |journal=Kokubungaku kaishaku to kanshō |volume=72 |issue=3 |pages=46–54 |doi= |access-date= }}&lt;/ref&gt; When discussing the ''waka'' poetry of this period, some scholars have referred to it as the Rokkasen Period (六歌仙時代 ''rokkasen jidai''), although there has been disagreement on when this period starts. Most of the scholars agree that it ends with the reign of [[Emperor Kōkō|Emepror Kōkō]], but disagree on whether it begins with [[Emperor Ninmyō]] or [[Emperor Montoku]].&lt;ref name=":4"&gt;{{Cite journal |last=Shimada |first=Ryōji |date=February 1970 |title=Rokkasen jidai |trans-title=The Rokkasen Period |url=https://ci.nii.ac.jp/naid/40001325603 |language=ja |journal=Kokubungaku kaishaku to kanshō |volume=35 |issue=2 |pages=42 |doi= |access-date= }}&lt;/ref&gt; Both Hidehito Nishiyama and Ryōji Shimada conclude that they believe Ninmyō is the better choice for the start of this periodization.&lt;ref name=":1" /&gt;&lt;ref name=":4" /&gt;
+
+Additionally, all but one of the Rokkasen, Ōtomo Kuronushi, appear in the famous collection of poetry, ''[[Ogura Hyakunin Isshu|Hyakunin isshū]]''.
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+[[Thirty-Six Immortals of Poetry]]
+
+[[Kokin Wakashū]]
+
+{{Japanese poetry}}
+
+[[Category:Waka (poetry)]]
+[[Category:Articles about multiple people]]
+[[Category:Lists of poets]]</text>
+      <sha1>j8lxnb5zovclgftbfbn40sja9duz2wn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rolf-Dieter Jaretzky</title>
+    <ns>0</ns>
+    <id>59129162</id>
+    <revision>
+      <id>870098178</id>
+      <parentid>870089238</parentid>
+      <timestamp>2018-11-22T10:33:03Z</timestamp>
+      <contributor>
+        <username>MarnetteD</username>
+        <id>220924</id>
+      </contributor>
+      <comment>Filled in 4 bare reference(s) with [[:en:WP:REFILL|reFill]] ()</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1499">'''Rolf-Dieter Jaretzky''' (born 1935) is a pharmacist and philatelist who signed the [[Roll of Distinguished Philatelists]] in 1997.&lt;ref&gt;{{cite web|url=http://www.aiep-experts.net/experts/experts/userprofile/JARETZKYRDP.html|title=JARETZKY, RDP|website=www.aiep-experts.net}}&lt;/ref&gt;
+
+He was the president of the Grand Prix Club (1994-1996) and the director of the Bundesstelle Ausstellungswesen des BDPh. He is a fellow of the [[Royal Philatelic Society of London]].&lt;ref&gt;{{cite web|url=http://www.aephil.com/en/membersfiche.asp?id=62|title=Académie Européenne de Philatélie|website=www.aephil.com}}&lt;/ref&gt;
+
+He has formed leading collections of the philately of Mexico&lt;ref&gt;{{cite web|url=https://corinphila.ch/en/_ptshop/?action=show_item&amp;id=2#|title=Vol. 2: Mexico • The Rolf Dieter Jaretzky Collection - Corinphila Auctions - Stamps|website=Corinphila Auktionen}}&lt;/ref&gt; and Prussia.&lt;ref&gt;{{cite web|url=https://www.heinrich-koehler.de/en/vol-43-prussia-%E2%80%A2-rolf-dieter-jaretzky-collection|title=Vol. 43: Prussia - The Rolf Dieter Jaretzky Collection - Germany's oldest stamp auction house - Heinrich Koehler - Stamp Auction House|website=www.heinrich-koehler.de}}&lt;/ref&gt;
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Jaretzky, Rolf}}
+[[Category:Living people]]
+[[Category:Signatories to the Roll of Distinguished Philatelists]]
+[[Category:1935 births]]
+[[Category:German philatelists]]
+[[Category:Fellows of the Royal Philatelic Society London]]
+[[Category:German pharmacists]]
+
+{{bio-stub}}</text>
+      <sha1>5cygqbumhwykklf26rtp9jrwfw7ualp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Simhika</title>
+    <ns>0</ns>
+    <id>33315904</id>
+    <revision>
+      <id>856845735</id>
+      <parentid>856845628</parentid>
+      <timestamp>2018-08-27T21:55:47Z</timestamp>
+      <contributor>
+        <username>Emily Khine</username>
+        <id>26296996</id>
+      </contributor>
+      <comment>/* Simhika in Ramayana and her death */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1423">'''Simhika''', or '''Sinhika''', was the daughter of Demon king [[Hiranyakashipu]] and was the sister of the [[Vishnu]] devotee Bhakt [[Prahlada]]. She is also considered as the mother of [[Svarbhānu]], who was beheaded into two by Lord Vishnu into [[Rahu]], the head part and [[Ketu (mythology)|Ketu]], the remaining body.
+
+==Simhika in Ramayana and her death==
+Simhika got the boon from [[Brahma]] that she can control anyone's shadow. Later, she controlled Devi [[Chhaya]], mother of Lord [[Shani]] and wife of [[Surya]], the sun god. And eventually got defeated by Shani and [[Hanuman]]. Simhika was forgiven by monkey god, Hanuman, but Hanuman told her that whenever he finds her in later phase of life he'll kill her. Later, when Hanuman was climbing the ocean to [[Lanka]], the kingdom of Demon [[Ravana]], Simhika was hiding in the ocean and captured Hanuman's shadow, Hanuman jumped into her mouth and came out tearing her stomach, ending the life of Simhika.
+
+==Sources==
+* {{cite book|title=Encyclopedia of Beasts and Monsters in Myth, Legend and Folklore|url=https://books.google.com.mm/books?id=DvYWDAAAQBAJ&amp;pg=PA293&amp;lpg=PA293&amp;dq=sinhika+hindu&amp;source=bl&amp;ots=kTT-e4C6v3&amp;sig=IrInCSYrgObMhkL5ETzrmVN-DnY&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwjOtP78qOnbAhXJbCsKHWnUAqoQ6AEwEHoECAcQAQ#v=onepage&amp;q=sinhika%20hindu&amp;f=false|year=2016|page=294|isbn=9780786495054}}
+
+[[Category:Demons in Hinduism]]
+[[Category:Mythological characters]]</text>
+      <sha1>4rq6dder097wnft6ab0d702suprijxw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Slave name</title>
+    <ns>0</ns>
+    <id>72740</id>
+    <revision>
+      <id>870232118</id>
+      <parentid>848294618</parentid>
+      <timestamp>2018-11-23T10:54:10Z</timestamp>
+      <contributor>
+        <username>DocWatson42</username>
+        <id>38455</id>
+      </contributor>
+      <comment>/* External links */Performed minor cleanup.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4382">{{Refimprove|date=September 2015}}
+A '''slave name''' is the [[personal name]] given by others to an [[slavery|enslaved]] person, or a name inherited from enslaved ancestors. The modern use of the term applies mostly to [[African Americans]] and [[Afro-Caribbean|West Indians]] who are descended from enslaved Africans who retain their name given to their ancestors by the enslavers.
+
+Changing from a slave name to a name embodying an [[Africanization|African identity]] became common after [[emancipation]] in the 1960s by those in the [[African diaspora in the Americas]] seeking a reconnection to their African cultural roots.{{citation needed|date=September 2015}}
+
+==Ancient Rome==
+{{Slavery}}
+In Rome slaves were given a single name by their owner. A slave who was [[manumission|freed]] might keep his or her slave name and adopt the former owner's name as a [[praenomen]] and [[Roman naming conventions|nomen]]. As an example, one historian says that "a man named Publius Larcius freed a male slave named Nicia, who was then called Publius Larcius Nicia."&lt;ref&gt;[http://www.vroma.org/~bmcmanus/roman_names.html Roman Nomenclature at vroma.org]&lt;/ref&gt;
+
+Historian [[Harold Whetstone Johnston]] writes of instances in which a slave's former owner chose to ignore custom and simply chose a name for the [[freedman]].&lt;ref&gt;[http://www.forumromanum.org/life/johnston_2.html#60 Johnson, Harold Whetstone; Johnston, Mary; Names of Freedmen; 1903, 1932; forumromanum.org]&lt;/ref&gt;
+
+==African Americans==
+
+A number of African-Americans and [[Afro-Caribbeans]] have changed their names out of the belief that the names they were given at birth were slave names. An individual's name change often coincides with a religious conversion ([[Muhammad Ali]] changed his name from Cassius Clay, [[Malcolm X]] from Malcolm Little, and [[Louis Farrakhan]] changed his from Louis Eugene Walcott, for example)&lt;ref&gt;{{cite web|title=Louis Farrakhan Biography|url=http://www.biography.com/people/louis-farrakhan-9291850|work=Database|publisher=Biography.com|accessdate=2011-10-20}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Muhammad Ali Biography|url=http://www.biography.com/people/muhammad-ali-9181165|work=Database|publisher=Biography.com|accessdate=2011-10-20}}&lt;/ref&gt;  or involvement with the [[black nationalist]] movement (e.g., [[Amiri Baraka]] and [[Assata Shakur]]).&lt;ref&gt;[[William L. Van Deburg|Deburg, William L. Van]], "Modern Black Nationalism: From Marcus Garvey to Louis Farrakhan",  NYU Press (1997), p 269, {{ISBN|0-8147-8789-4}}&lt;/ref&gt;
+
+Some organizations encourage African-Americans to abandon their slave names. The [[Nation of Islam]] is perhaps the best-known of them. In his book, ''[[Message to the Blackman in America]]'', Nation of Islam leader [[Elijah Muhammad]] writes often of slave names. Some of his comments include:
+
+* "''You must remember that slave-names will keep you a slave in the eyes of the civilized world today. You have seen, and recently, that Africa and Asia will not honor you or give you any respect as long as you are called by the white man's name.''"&lt;ref&gt;[http://www.seventhfam.com/temple/books/black_man/blk24.htm [[Muhammad, Elijah]]; ''Message to the Blackman''; Chapter 24; seventhfam.com]&lt;/ref&gt;
+* "''You are still called by your slave-masters' names. By rights, by international rights, you belong to the white man of America. He knows that. You have never gotten out of the shackles of slavery. You are still in them.''"&lt;ref&gt;[http://www.seventhfam.com/temple/books/black_man/blk34.htm Muhammad, Elijah; ''Message to the Blackman''; Chapter 34; seventhfam.com]&lt;/ref&gt;
+
+The [[Black nationalism|black nationalist]] [[US Organization]] also advocates for African-Americans to change their slave names.&lt;ref&gt;[http://www.us-organization.org/nguzosaba/NguzoSaba.html "NGUZO SABA (The Seven Principles)" From : US Organization website]&lt;/ref&gt;
+
+==See also==
+* [[Nation of Islam]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [https://web.archive.org/web/20111006021234/http://www.nalolon.com/home/ Nalolon] {{fr}}
+* [https://web.archive.org/web/20040906161956/http://www.kandeer-manjaku.com/pages/bibliotheque.html Manjack library] {{fr}}
+* [https://web.archive.org/web/20081116081856/http://www.harmattan.fr/index.asp?navig=catalogue Maria Teixeira, anthropologist] {{fr}}
+
+{{Personal names}}
+
+{{DEFAULTSORT:Slave Name}}
+[[Category:Human names]]
+[[Category:Slavery|Name]]</text>
+      <sha1>00vyk3fbaqebvyfm8fly1sr33fwjm6z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Famous Five (Canada)</title>
+    <ns>0</ns>
+    <id>397721</id>
+    <revision>
+      <id>870180476</id>
+      <parentid>870170107</parentid>
+      <timestamp>2018-11-23T00:16:38Z</timestamp>
+      <contributor>
+        <username>Telfordbuck</username>
+        <id>17585538</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 3 edits by [[Special:Contributions/72.140.107.11|72.140.107.11]] identified as test/vandalism using [[WP:STiki|STiki]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18843">{{About|the women's rights advocates|other uses|The Famous Five (disambiguation){{!}}The Famous Five}}
+{{Use mdy dates|date=August 2017}}
+{{Main|Edwards v. Canada (Attorney General)}}
+[[File:Women are Persons-two.jpg|thumb|right|[[Louise McKinney]] and [[Henrietta Muir Edwards]], Famous Five statue, [[Parliament Hill]], [[Ottawa]]]]
+'''The Famous Five''', or '''The Valiant Five''',&lt;ref&gt;{{cite book|last=Kome|first=Penney|title=Women of Influence: Canadian Women and Politics|year=1985|publisher=Doubleday Canada|location=Toronto|isbn=978-0-385-23140-4|pages=31–32|url=https://books.google.com/books?ei=CBF8UvjlN8KiyAGu3IHwDg&amp;id=hBQqAAAAYAAJ&amp;dq=%22valiant+five%22+emily+murphy&amp;focus=searchwithinvolume&amp;q=%22valiant+five%22|edition=1st}}&lt;/ref&gt; ({{Lang-fr|Célèbres cinq}}) were five Alberta women who asked the [[Supreme Court of Canada]] to answer the question, "Does the word 'Persons' in Section 24 of the [[Constitution Act, 1867|British North America Act, 1867]], include female persons?" in the case ''[[Edwards v Canada (AG)|Edwards v Canada]].''&lt;ref name=Brennan&gt;{{cite book | first=Brian| last=Brennan| title=Alberta Originals: Stories of Albertans Who Made a Difference| year=2001| publisher= Fifth House| page= 14| isbn= 1-894004-76-0}}&lt;/ref&gt; The five women, [[Emily Murphy]], [[Irene Parlby|Irene Marryat Parlby]], [[Nellie McClung|Nellie Mooney McClung]], [[Louise McKinney|Louise Crummy McKinney]] and [[Henrietta Muir Edwards]], created a petition to ask this question. They fought to have women legally considered persons so that women could be appointed to the Senate. The petition was filed on August 27, 1927,&lt;ref name="Alberta1999"&gt;{{cite book| title=Alberta History| volume=47–49| url=https://books.google.com/books?id=jL06AQAAIAAJ&amp;q=famous+five+persons+case+august+27&amp;dq=famous+five+persons+case+august+27| accessdate=May 10, 2013| year=1999| publisher=Historical Society of Alberta}}&lt;/ref&gt; and on April 24, 1928, Canada's Supreme Court summarized its unanimous decision that women are not such "persons".&lt;ref name = Brennan/&gt;
+
+The last line of the judgement reads, "Understood to mean 'Are women eligible for appointment to the [[Senate of Canada]],' the question is answered in the negative." This judgement was overturned by the British [[Judicial Committee of the Privy Council]] on October 18, 1929. This case came to be known as the "[[Persons Case]]". Although Canadian women (those who were British/Canadian citizens) had the vote in many provinces and in federal elections by 1929, the case was part of a continent-wide drive for political equality, coming seven years after discrimination against women's voting rights was prohibited in the United States through the [[Nineteenth Amendment to the United States Constitution]], and thus had important ramifications.
+
+Some saw this as "radical change"; others saw it as a restoration of the original framing of the English constitutional documents, including the [[1689 Bill of Rights]], which uses only the term "person", not the term "man" (or "woman" for that matter).
+
+Some others have interpreted the Privy Council rule as causing a change in the Canadian judicial approach to the [[Constitution of Canada|Canadian constitution]], an approach that has come to be known as the "[[living tree doctrine]]".
+
+[[Image:The Valiant Five Statue.jpg|thumb|220px|Statue in [[downtown Calgary]] of the Famous Five. An identical statue exists on [[Parliament Hill]], [[Ottawa]]]]
+[[File:The Famous Five.JPG|thumb|Part of the Famous Five monument on [[Olympic Plaza (Calgary)|Olympic Plaza]] in [[Calgary]], [[Alberta]], Canada]]
+
+==The Five==
+The famous five women were:
+
+* [[Emily Murphy]] (1868–1933), the [[British Empire]]'s first female judge;
+* [[Irene Parlby|Irene Marryat Parlby]] (1868–1965), farm women's leader, political activist and first female [[Cabinet minister]] in Alberta, still serving in that capacity at the time of the court case;
+* [[Nellie McClung|Nellie Mooney McClung]] (1873–1951), a [[suffragist]] and author, member of the Alberta Legislature 1921–1926;
+* [[Louise McKinney|Louise Crummy McKinney]] (1868–1931), the first woman elected to the [[Legislative Assembly of Alberta]], or any legislature in Canada or the rest of the British Empire, but no longer MLA at the time of the court case;
+* [[Henrietta Muir Edwards]] (1849–1931), an advocate for working women, author and a founding member of the [[Victorian Order of Nurses]].
+
+===Emily Murphy===
+{{Main|Emily Murphy}}
+Emily Murphy stood out in the famous five, bringing them to a victory in 1929. Emily was appointed to the office of Magistrate of the Edmonton Juvenile Court in 1916 and later became the magistrate of the newly created Women's Court. At the time, no woman had held such a position and many men objected.&lt;ref name=MacEwan&gt;{{cite book |first=Grant| last=MacEwan| title=...and Mighty Women too: Stories of Notable Western Canadian Women| year=1975| publisher= Western Producer Prairie Books| isbn=978-0919306653}}&lt;/ref&gt;
+
+During her career as a writer, Murphy used the pen name "Janey Canuck". In 1922, she wrote ''The Black Candle'' which detailed her beliefs on race and drug use in Canada and strongly influenced the drug policy of the day. Murphy came from a privileged background in which white women were protected from many topics.&lt;ref name="Millar"&gt;{{cite book |first=Nancy |last=Millar |title=The Famous Five: Five Canadian Women and Their Fight to Become Persons |year=1999 |publisher=Western Heritage Centre| isbn=978-0920109168}}&lt;/ref&gt;
+
+===Irene Parlby===
+{{Main|Irene Parlby}}
+In 1916, Irene Parlby was elected as the first president of the United Farm Women of Alberta and in 1921, was elected to the Alberta legislature and received a cabinet post in the United Farmers of Alberta government, becoming the second woman in the British Empire to hold ministerial rank. She served as cabinet minister until the downfall of the government in 1935. Parlby worked with the Red Cross during [[World War I]] and later served on the Board of Governors of the [[University of Alberta]].&lt;ref name=MacEwan/&gt;
+
+===Nellie McClung===
+{{Main|Nellie McClung}}
+Nellie McClung's jobs in her lifetime included teacher, author, public speaker, temperance activist, internationally known women's rights activist, and politician {Warne, Literature as Pulpit]. In 1918, she was a member of the Dominion War Council and the only woman representative at the League of Nations.  She represented Canada at the Ecumenical Council of the Methodist church in 1921 and was the first woman on the [[Canadian Broadcasting Corporation]] Board of the Governors.&lt;ref name=MacEwan/&gt;  In 1921, McClung was elected to the Alberta legislature as an MLA in Edmonton for the Liberal Party.&lt;ref name=Millar/&gt; She served one term, not being re-elected in 1926. She was a member of the Political Equality League of Manitoba, and she played the leading role in the Mock Parliament held on January 29, 1914, at the Walker Theatre in Winnipeg, which humorously discussed Votes for Men.&lt;ref name=MacEwan/&gt;
+
+===Louise McKinney===
+{{Main|Louise McKinney}}
+Louise McKinney became one of the first two women elected to a legislature in the British Empire, and the first to take her seat. She was a founder of the [[Woman's Christian Temperance Union]] in Alberta and the West – she served as the organization's vice-president for more than 22 years beginning in 1906 – and regularly attended World Meetings of the WCTU. She signed the appeal to the Privy Council in 1929. In 1931, she became president of the Canadian Union, Woman's Christian Temperance Union. McKinney was also named to be Commissioner for the first General Council of the [[United Church of Canada]], and was the only woman to sign the Basis of Union.&lt;ref name=MacEwan/&gt;
+
+===Henrietta Muir Edwards===
+{{Main|Henrietta Muir Edwards}}
+Henrietta Muir Edwards, author and researcher on women's topics, held an influence within the National Council of Women&lt;ref name = Brennan/&gt; and held chairmanship of the Committee in Law in the National Council of Women for more than 35 years. She was also a Red Cross leader during the war years. Edwards was the secretary of the National Subcommittee which focused on thrift and economy in Canadian homes.&lt;ref name=MacEwan/&gt;
+
+==Legacy==
+
+===Honorary senators===
+None of the five became [[Senate of Canada#Senators|senators]]; the first female senator was Quebecer [[Cairine Reay Wilson]], appointed four months after the ruling. Nearly 80 years later, on October 8, 2009, the Senate voted to make the five the first "honorary senators".&lt;ref name=cbc&gt;{{cite news |url=http://www.cbc.ca/news/canada/calgary/story/2009/10/10/calgary-famous-five-honourary-senators.html |title='Famous 5' named honorary senators |work=[[CBC News]] |publisher=CBC.ca |date=October 10, 2009 |accessdate=May 10, 2013}}&lt;/ref&gt;&lt;ref name=hansard&gt;{{cite web|url=http://www.parl.gc.ca/common/..%5C40%5C2%5Cparlbus%5Cchambus%5Csenate/deb-E/059db_2009-10-08-e.htm?Language=E&amp;Parl=40&amp;Ses=2#53|title=Senate of Canada – Debates|first=Senate of|last=Canada|publisher=}}&lt;/ref&gt; The achievement of personhood for women had been a monumental change which gave more power to women.
+
+Some might well question the overall significance of the decision, noting that by the 1920s the Senate of Canada was a largely powerless body. The more powerful [[House of Commons of Canada]] had elected its first female member ([[Agnes Macphail]]) in 1921, well before the Persons Case. However, the precedent did establish the principle that women could hold any political office in Canada. Moreover, the Five clearly did devote their energies to increasing women's participation on legislative bodies with greater power: three had been members of the [[Legislative Assembly of Alberta|Alberta legislature]]. The controversy surrounding the women has made commemoration difficult.{{Citation needed|date = August 2012}} The five women were activists in a variety of areas in their pursuit to better the conditions for women and children.
+
+[[Image:KingPersons.jpg|thumb|left|Unveiling of a plaque commemorating the Famous Five, June 11, 1938.  (Front row, L–R): Muir Edwards, daughter-in-law of [[Henrietta Edwards|Henrietta Muir Edwards]]; J. C. Kenwood, daughter of Judge [[Emily Murphy]]; [[William Lyon Mackenzie King|Mackenzie King]]; [[Nellie McClung]]. (Rear row, L–R): Senators [[Iva Campbell Fallis]], [[Cairine Wilson]].]]
+
+===Opinions on the Famous Five===
+Opinions on the Famous Five vary considerably. Many laud them as trailblazers for women. Others are disturbed by the opinions of some of the women on other issues, such as opposition to non-white immigration and their successful campaigns to have [[eugenics]] legislation introduced in Canadian provinces, which resulted in the sterilization of thousands of those deemed "mentally deficient" or "insane" in Alberta and elsewhere.&lt;ref&gt;http://www.thecanadianencyclopedia.ca/en/article/eugenics-keeping-canada-sane-feature/&lt;/ref&gt; Emily Murphy was not shy with her opinions and her outspoken nature had a tendency to give her a negative reputation. She wrote letters of her opinions to police chiefs, government officials, social service agencies and judicial officials about the extent of drug traffic and possible cures. Nellie McClung was known as the most memorable and popular of the famous five. Her causes included women's right to vote, prohibition, women in the church and women in public life.&lt;ref name=Millar/&gt;  Henrietta Muir Edwards was described as "tenacious" with her work with prohibition.&lt;ref name=MacEwan/&gt;
+
+The five women were activists in a variety of areas in their pursuit to better the conditions for women and children. Emily Murphy dealt with single mothers and issues of child support, child welfare, and adoption by lobbying for women's rights.&lt;ref name = Sharpe&gt;{{cite book| first=Robert J.| last=Sharpe| title=The Persons Case: The Origins and Legacy of the Fight for Legal Personhood| url=https://books.google.com/books?id=HOwC1vcGgcEC&amp;pg=PA16&amp;source=gbs_toc_r&amp;cad=4| isbn=978-0802096289| year=2007| publisher=[[University of Toronto Press]]}}&lt;/ref&gt;  Nellie McClung favoured free medical and dental treatment for school children as well as mothers' allowances and better property rights for women. She was open to divorce and birth control but opposed the sale and use of liquor. Louise McKinney believed strongly in the "evils of alcohol" and pushed to enact prohibition measures. She advocated excluding cigarettes from parcels sent to soldiers in World War&amp;nbsp;I in 1917. She supported reasonable measures for social welfare and health as well as introducing bills intended to make prohibition more effective, to improve the lot of immigrants and bring better security to widows. She was responsible for the introduction of a motion which led to the [[Dower Act]]. Irene Parlby in her position as cabinet minister in Alberta pursued these goals expressed by McKinney. Henrietta Edwards worked with property law and sought to protect women and children.&lt;ref name=Millar/&gt;
+
+===Commemorations===
+The Famous Five have been commemorated with individual and group plaques in the [[Centre Block#Senate foyer|foyer]] and antechamber of Canada's Senate, and two identical sculptures by Canadian artist [[Barbara Paterson]], one on [[Parliament Hill]] in [[Ottawa]], the other at the [[Olympic Plaza (Calgary)|Olympic Plaza]] in [[Calgary]]. The sculpture on Parliament Hill was unveiled on October 18, 2000, in a public ceremony that included [[French language in Canada|French]] and [[Canadian English|English]] singers, [[Inuit]] dancers, and speeches by [[Governor General of Canada|Governor General]] [[Adrienne Clarkson]] and [[Prime Minister of Canada|Prime Minister]] [[Jean Chrétien]]. A sculpture of the Famous Five by sculptor Helen Granger Young stands on the grounds of the Manitoba Legislature in Winnipeg. Commissioned by the Nellie McClung Foundation, it was unveiled at a ceremony on June 18, 2010.
+
+The City of [[Edmonton]] has named one park in its River Valley Parks System after each of the "Famous Five".&lt;ref name="edmonton"&gt;{{cite web| title=Alphabetical Park Listing| url=http://www.edmonton.ca/attractions_recreation/parks_rivervalley/alphabetical-park-listing.aspx| publisher=City of Edmonton| date=May 14, 2012| accessdate=May 14, 2012| deadurl=yes| archiveurl=https://web.archive.org/web/20121127115516/http://edmonton.ca/attractions_recreation/parks_rivervalley/alphabetical-park-listing.aspx| archivedate=November 27, 2012| df=mdy-all}}&lt;/ref&gt;
+
+Murphy had many accomplishments, such as becoming the first president of the Federated Women's Institute of Canada, vice-president of [[National Council of Women]] of Canada, president of [[Canadian Women's Press Club]], director of the Canadian Council of Child Welfare, vice-president of the Canadian Association of Child Protection, first president of the Women's Canadian Club of Edmonton and vice-president of the Social Service Council of Canada. Emily Murphy also received many honours for her life's work including being decorated by King [[George V]] to be a Lady of Grace of the [[Order of Saint John (chartered 1888)|Order of St. John of Jerusalem]].
+
+Irene Parlby was honoured in 1935 at spring convocation at the [[University of Alberta]] with an honorary LL.D. degree. Tributes in honour of Henrietta Edwards can be found on a plaque in the Senate Chamber in Ottawa and another in the post office in Fort Macleod. Nellie McClung spoke in Calgary after Edwards' passing and spoke of Edwards, "who for 40 years was convener of laws for the National Council of Women" should not be forgotten.&lt;ref name="MacEwan" /&gt;
+
+Along with [[Thérèse Casgrain]], the Five were commemorated in the 2001 [[Journey Series (banknotes)|Journey Series]] of Canada's [[Canadian fifty-dollar bill|fifty-dollar bill]].&lt;ref name=Brennan/&gt;  In December 2011, the [[Bank of Canada]] announced that the Famous Five would not appear on the redesigned $50 [[Frontier Series]] banknote that it issued in 2012.&lt;ref name="50dollars"&gt;{{cite news| title=Should the new $50 bill show an Arctic research boat instead of the Famous Five?| url=http://www.cbc.ca/news/yourcommunity/2011/12/should-the-new-50-bill-show-an-arctic-research-boat-instead-of-the-famous-five.html| work=CBC News| date=December 7, 2011| publisher=cbc.ca| accessdate=May 17, 2013}}&lt;/ref&gt;
+
+The achievement of personhood for women had been a monumental change which gave more power to women. To honour the Five and continue to involve women in leadership roles in Canada, Frances Wright and others established the non-profit Famous Five Foundation on October 18, 1996, the 70th anniversary of the Judicial Committee of the Privy Council's decision.&lt;ref name="5foundation"&gt;{{cite web| url=http://www.famous5.ca/index.php/about-us/about-us| archive-url=https://web.archive.org/web/20121225022456/http://www.famous5.ca/index.php/about-us/about-us| dead-url=yes| archive-date=December 25, 2012| title=About Us| publisher=Famous 5 Foundation| date=| accessdate=May 17, 2013}}&lt;/ref&gt;
+
+==See also==
+*[[Barbara Paterson]]
+*[[Feminism in Canada]]
+*[[History of feminism]]
+*[[List of suffragists and suffragettes]]
+*[[List of Supreme Court of Canada cases]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{commons category|The Famous Five}}
+*[http://epe.lac-bac.gc.ca/100/206/301/lac-bac/famous_five-ef/www.lac-bac.gc.ca/famous5/index-e.html ''The Famous Five''] from the [[National Archives of Canada]]
+* [https://archive.is/20131211073223/http://canlii.ca/t/fslfx Supreme Court of Canada opinion in the "Persons Case"] (from CanLII)  &lt;!-- especially since this is a reference case, the word "opinion" is preferable to "judgment" --&gt;
+* [http://www.bailii.org/uk/cases/UKPC/1929/1929_86.pdf Judicial Committee of the Privy Council opinion in the "Persons Case" (PDF)]
+* [https://web.archive.org/web/20150328051442/http://www.chrc-ccdp.ca/en/browseSubjects/edwardspc.asp JCPC opinion] (unofficial version from Canadian Human Rights Commission)
+*[http://www.thecanadianencyclopedia.ca/en/article/famous-5/ Canadian Encyclopedia entry] Catherine Cavanaugh 06/01/2006
+*[http://www.famous5.ca/ Famous 5 Foundation]
+*''The Famous 5 Monument'' video and essay in the [https://web.archive.org/web/20131029195621/http://www.museevirtuel-virtualmuseum.ca/sgc-cms/nouvelles-news/anglais-english/?p=5118%2F Virtual Museum of Canada]
+
+{{DEFAULTSORT:Famous Five, The}}
+[[Category:Canadian law]]
+[[Category:Canadian human rights activists]]
+[[Category:Canadian feminists|Canadian feminists]]
+[[Category:Legal history of Canada]]
+[[Category:History of Alberta]]
+[[Category:Women in Alberta politics]]
+[[Category:1927 in Canada]]
+[[Category:Articles about multiple people]]
+[[Category:Women's rights in Canada]]
+[[Category:Feminism and history]]</text>
+      <sha1>hhk6o6oj5kswpermaa5dh697aj437ic</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Witches of Belvoir</title>
+    <ns>0</ns>
+    <id>8955672</id>
+    <revision>
+      <id>858526366</id>
+      <parentid>851229579</parentid>
+      <timestamp>2018-09-07T20:27:19Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12917">[[File:The two sons of Francis Manners, St Mary's church, Bottesford (geograph 2736171).jpg|thumb|upright=0.90|alt=Memorial to Henry &amp; Francis Manners in Bottesford|Memorial to Henry and Francis Manners, the heirs to the [[Francis Manners, 6th Earl of Rutland|6th Earl and Countess of Rutland]], whom the Witches of Belvoir were accused of killing]]
+The '''Witches Belvoir''' were a mother and her two daughters accused of [[witchcraft]] in England in the deaths of two young nobles, Henry (died 1613) and Francis Manners (died 1620), the heirs to [[Francis Manners, 6th Earl of Rutland]], whose seat was at [[Belvoir Castle]] . The mother, Joan Flower, died on the way to her trial, and the two daughters, Margaret and Philippa, were supposed to be hanged in [[Lincoln, Lincolnshire|Lincoln]]. It is said that Phillipa drugged the guards and managed to escape and make her way to Kent where she died after having three children.
+
+==Flowers of Bottesford==
+Joan, Margaret and Philippa Flowers were "known to be herbal healers" and came from a local family that "had fallen on hard times".&lt;ref name="BBCFramed"&gt;{{cite news | title = Witches of Belvoir 'may have been framed' | date = 2013-10-31 | url = https://www.bbc.co.uk/news/uk-england-24748721 | work = BBC | accessdate = 2013-11-01}}&lt;/ref&gt; They accepted employment as servants with the [[Francis Manners, 6th Earl of Rutland|6th Earl and Countess of Rutland]], at [[Belvoir Castle]] near [[Grantham, Lincolnshire]], when additional staff were needed for an upcoming visit by [[James VI and I|King James I]].&lt;ref name="BBCFramed"/&gt; But the sisters, and their mother, were unpopular with the other staff, and there were suggestions of theft, and misdemeanors.&lt;ref name="BBCFramed"/&gt; All three were dismissed and only Joan was given a payment of severance amounting to "40 shillings, a bolster (pillow), and a mattress of wool".&lt;ref name="thiswasleics"&gt;{{cite news | title = The Witches of Belvoir Castle | date = 2012-11-12 | url = http://www.thiswasleicestershire.co.uk/2012/11/the-witches-of-belvoir-castle.html | work = This Was Leicestershire | accessdate = 2013-11-01}}&lt;/ref&gt;
+
+After the sisters were dismissed, the Earl and Countess fell ill, suffering from "vomiting and convulsions".&lt;ref name="thiswasleics"/&gt; Their son and heir, Henry, [[Baron de Ros]],&lt;ref name="bottshist"&gt;{{cite web | url = http://www.bottesfordhistory.org.uk/page_id__61_path__0p4p72p.aspx | title = The Bottesford Witches, Introduction | accessdate = 2013-11-01 | last = Bob | first = Sparford | work = Bottesford Living History}}&lt;/ref&gt; died, and was buried on 26 September 1613.&lt;ref name="fleming"&gt;{{cite book | last1 = Miller | first1 = William E. | title = The Library Chronicle | chapter = Samuel Fleming, Elizabethan Clergyman | volume = XXV | publisher = University of Pennsylvania | year = 1959 | pages = 61–79 | url = https://archive.org/stream/librarychronicle25univ#page/n7/mode/2up | accessdate = 2013-11-01}}&lt;/ref&gt; Their younger children, Francis, and daughter [[Katherine Villiers, Duchess of Buckingham|Katherine]], suffered similarly &lt;ref name="bygone"/&gt; and Francis died 7 March 1620. The deaths of the two boys left the Earl without a male heir and Earldom passed to his brother after his own death in 1632.&lt;ref name="burke"&gt;{{cite book |title= [[Burke's Peerage|Burke's Peerage, Baronetage &amp; Knighthood]]|publisher=Burke's Peerage &amp; Gentry |editor= Mosley, Charles |editorlink= Charles Mosley (genealogist) |edition=107 |year= 2003 |page= 3447 |ref=Burke |isbn=0-9711966-2-1}}&lt;/ref&gt;
+
+==Charge of witchcraft==
+Three years after Henry's death, on 16 July 1616, nine women were hanged as witches in [[Leicestershire]] for having bewitched a young boy and, in charges similar to those in the Flowers' case, were said to have kept cats as familiars.&lt;ref&gt;{{cite book | last1 = Briscoe | first1 = J. Potter | last2 = Andrews (Editor) | first2 = William | title = Bygone Leicestershire | chapter = Witchcraft In Leicestershire | publisher = F. Murray, W. Andrews &amp; co., Simpkin, Marshall &amp; Hamilton, Kent, &amp; co. | location = Leicestershire, Hull &amp; London | year = 1892 | pages = 126–130 | url = https://archive.org/stream/bygoneleicesters00andriala#page/n7/mode/2up | accessdate = 2013-11-01}}&lt;/ref&gt; But it was to be five years after the Flowers were dismissed from [[Belvoir Castle]], and following the death of their second son, Francis,&lt;ref name="histwitch"&gt;{{cite book | last1 = Notestein | first1 = Wallace | title = A History of Witchcraft in England from 1558 to 1718 | publisher = American Historical Association | year = 1911 | location = Washington | pages = 133 | url = https://archive.org/stream/ahistorywitchcr00notegoog#page/n6/mode/2up | accessdate = 2013-11-01}}&lt;/ref&gt; that the [[Francis Manners, 6th Earl of Rutland|Rutlands]] had the Flowers arrested, before Christmas of 1618.&lt;ref name="bygone"&gt;{{cite book | last1 = Andrews (Editor) | first1 = William | title = Bygone Leicestershire | publisher = F. Murray, W. Andrews &amp; co., Simpkin, Marshall &amp; Hamilton, Kent, &amp; co. | location = Leicestershire, Hull &amp; London | year = 1892 | pages = 91–92 | url = https://archive.org/stream/bygoneleicesters00andriala#page/n7/mode/2up | accessdate = 2013-11-01}}&lt;/ref&gt; After initial examinations, in February 1619,&lt;ref name="histwitch"/&gt; by the [[Francis Manners, 6th Earl of Rutland|Earl of Rutland]], Hon. [[Robert Bertie, 1st Earl of Lindsey|Robert Bertie, Lord Willoughby de Eresby]], Sir George Manners, Sir William Pelham, Sir Henry Hastings, clergyman Samuel Fleming and others,&lt;ref name="fleming"/&gt; the women were to be taken to [[Lincoln, Lincolnshire|Lincoln]] [[gaol]].&lt;ref name="bookdays"/&gt;
+
+When arrested Joan Flower professed her innocence. She was not known to be a Church-goer, but at [[Ancaster, Lincolnshire|Ancaster]], en route to the prison at [[Lincoln, England|Lincoln]],&lt;ref name="bygone"/&gt; she asked for bread as a substitute for the Eucharist.&lt;ref name="BormanRev"&gt;{{cite news | first = Bella | last = Bathurst | title = Witches: A Tale of Sorcery, Scandal and Seduction by Tracy Borman – review | date = 2013-08-25 | url = https://www.theguardian.com/books/2013/aug/25/witches-sorcery-scandal-borman-review | work = The Guardian | accessdate = 2013-11-01}}&lt;/ref&gt; She claimed that something so blessed could not be consumed by a witch but she was to choke and die, after the first bite.&lt;ref name="BormanRev"/&gt;
+
+At Lincoln, Margaret was to accuse her mother of witchcraft, while Phillipa admitted to witchcraft on behalf of herself, Margaret and Joan.&lt;ref name="fleming"/&gt; The sisters said they had entered into communion with [[familiar spirit]]s that had assisted them with their schemes. The mother's familiar was a cat named ''Rutterkin''.&lt;ref name="bookdays"&gt;{{cite book | last1 = Chambers | first1 = Robert | title = The Book Of Days | chapter = March 11th | year = 1869 | url = http://www.thebookofdays.com/months/march/11.htm | accessdate = 2013-11-01}}&lt;/ref&gt; The women admitted that they stole the glove of Lord Ros and gave it to their mother, who had dipped it in boiling water, stroked it along Rutterkin's back, and pricked it.&lt;ref name="bookdays"/&gt; Combined with some incantations this supposedly caused Lord Ros to become ill and die. An attempt to harm [[Katherine Villiers, Duchess of Buckingham|Lady Katherine]], the Earl's daughter, had failed when it was found that ''Rutterkin'' had no power over her. The women had also taken some feathers from the quilt of Rutland's bed and a pair of gloves. By boiling these in water mixed with blood they cast spells to prevent the Earl and Countess from having any more children.&lt;ref name="bookdays"/&gt; Both women admitted to experiencing visions of devils and that their familiar spirits visited them and sucked at their bodies.&lt;ref name="bookdays"/&gt;
+
+==Others accused==
+[[File:Threewitches.jpg|right|250px|thumb|left|A contemporary sketch of three other women accused: Anne Baker, Joan Willimot &amp; Ellen Greene.]]
+During the examination, they revealed the names of other women who had aided them: Anne Baker of [[Bottesford, Leicestershire|Bottesford]]; Joan Willimot of [[Goadby, Leicestershire|Goadby]]; and Ellen Greene of [[Stathern]].&lt;ref name="bottshist2"&gt;{{cite web | url = http://www.bottesfordhistory.org.uk/page_id__62_path__0p2p46p.aspx | title = The Bottesford Witches, The Wonderful Discovery of the Witchcrafts of Joan, Margaret and Phillipa Flower | accessdate = 2013-11-01 | last = Bob | first = Sparford | work = Bottesford Living History}}&lt;/ref&gt;
+
+All three women were taken for examination and revealed that they too had visions and consorted with familiar spirits.&lt;ref name="bottshist2"/&gt; Willimott said her familiar was called ''Pretty'' and had been blown into her mouth by her former master in the form of a fairy, later reappearing in the form of a woman who asked her to give up her soul. Willimott testified more as a [[Cunning folk in Britain|cunning woman]] than a witch, and insisted ''Pretty'' only helped her to inquire about the health of people she had attempted to heal:
+
+{{quote|She never hurt any body, but did help divers persons that were stricken or fore-spoken (bewitched): and that her Spirit came weekly to her, and would tell of divers persons that were stricken and fore-spoken: and she saith that the use which she had of the Spirit, was to know those did which she had undertaken to amend and she did help them by certain prayers which she used.&lt;ref name="bottshist2"/&gt;}}
+
+Greene claimed that she had accompanied Willimot into a wood where she said Willimot had conjured up two spirits in the form of a kitten and a "moldewarp" ([[mole (animal)|mole]]) which had climbed on her shoulders and sucked at her ears. Greene sent these familiars to kill a man and woman with whom she had argued and both died within a fortnight. Baker also confessed to possessing a familiar in the form of a white dog, but most of her testimony concerned the visions she had witnessed.
+
+==Aftermath and legacy==
+[[File:Inscription on Tomb of 6th Earl of Rutland.jpg|thumb|250px|alt=Images of memorial text at Bottesford|'died in their infancy by wicked practises and sorcerye' – part of the memorial at [[Bottesford, Leicestershire|Bottesford]]]]
+Margaret and Philippa Flowers were tried before [[Sir Henry Hobart, 1st Baronet|Henry Hobart]], Lord Chief Justice of the Common Pleas, and [[Edward Bromley]], a [[Exchequer of Pleas|Baron of the Exchequer]], and found guilty.&lt;ref name="fleming"/&gt; and Margaret was hung at [[Lincoln castle]] on 11 March 1619.&lt;ref name="BBCFramed"/&gt;
+
+Later that year a ballad, ''Damnable Practises of Three Lincolnshire Witches Joane Flower and Her Two Daughters'', printed by 'G. Eld for John Barnes' appeared.&lt;ref name="fleming"/&gt;
+
+The Earl and Countess remained so convinced that their son had been killed by the effects of witchcraft that they had it inscribed on their monument at [[Bottesford, Leicestershire|Bottesford]] church. It reads, in part:
+
+{{quote|In 1608 he married ye lady Cecila Hungerford, daughter to ye Honorable Knight Sir John Tufton, by whom he had two sons, both of which died in their infancy by wicked practises and sorcerye&lt;ref name="bottshist"/&gt;}}
+
+In 1953, Hilda Lewis published a historical romance, ''The Witch and the Priest'', which consists of a series of conversations between Samuel Fleming, the clergyman who oversaw the Flowers' examinations, and the ghost of Joan Flower.&lt;ref name="fleming"/&gt;
+
+In 2013, historian Tracey Borman suggested that the Flowers women may have been framed by a favourite of [[James VI and I|King James I]], the [[Lincolnshire]] born George Villiers, who was created [[George Villiers, 1st Duke of Buckingham|Duke of Buckingham]] in 1623.&lt;ref name="BBCFramed"/&gt; Watson's theory is that Villiers had plans to marry the [[Francis Manners, 6th Earl of Rutland|Rutland's]] daughter [[Katherine Villiers, Duchess of Buckingham|Katherine]] and, with her two brothers dead, inherit the title.&lt;ref name="BBCFramed"/&gt; Watson argues 'he had them poisoned – then framed Joan Flower and her two daughters as witches to create a smokescreen to cover up his own guilt'.&lt;ref name="BBCFramed"/&gt; After the execution of the Flowers sisters, [[George Villiers, 1st Duke of Buckingham|Villiers]] went on to marry the [[Francis Manners, 6th Earl of Rutland|Rutland's]] sole heir [[Katherine Villiers, Duchess of Buckingham|Katherine]] on 16 May 1620.&lt;ref&gt;{{cite DNB|wstitle=Manners, Francis|volume=36|pages=49–50}}&lt;/ref&gt;
+
+==References==
+{{reflist|30em}}
+
+* {{cite book|title=Narratives of Sorcery and Magic, from the Most Authentic Sources|author=Thomas Wright|pages=420|publisher=Redfield|year=1852}}
+
+{{Witch Hunt}}
+
+[[Category:People executed for witchcraft]]
+[[Category:History of Leicestershire]]
+[[Category:History of Lincolnshire]]
+[[Category:1619 in law]]
+[[Category:17th century in England]]
+[[Category:1619 in Europe]]
+[[Category:Articles about multiple people]]</text>
+      <sha1>szcc82gticfk9hmmr6vgiu01wb3pmsn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Witches of Warboys</title>
+    <ns>0</ns>
+    <id>11730918</id>
+    <revision>
+      <id>862470839</id>
+      <parentid>821594680</parentid>
+      <timestamp>2018-10-04T15:52:53Z</timestamp>
+      <contributor>
+        <username>Volunteer1234</username>
+        <id>30845620</id>
+      </contributor>
+      <comment>copy edit of lead sentence</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13791">The '''Witches of Warboys''' were Alice Samuel and her family, who were accused of, and executed for [[witchcraft]] between 1589 and 1593 in the village of [[Warboys]], in the [[fens]] of England.&lt;ref name="The Most Strange and Admirable..."&gt;{{cite book|title=The Most Strange and Admirable Discouerie of the Three Witches of Warboys Arraigned, Conuicted, and Executed at the Last Assises at Huntington, for the Bewitching of the Fiue Daughters of Robert Throckmorton Esquire, and Other Persons (1593), Reprint|year=2010|publisher=BiblioBazaar}}&lt;/ref&gt; It was one of many [[witch trials in the early modern period]], but scholar Barbara Rosen claims it "attracted probably more notice than any other in the sixteenth century".&lt;ref&gt;{{cite book|last=Rosen |first=Barbara |title=Witchcraft in England 1558–1618 |location=Amherst |publisher=University  of Massachusetts |year=1991}}&lt;/ref&gt;
+
+==Overview==
+The trials of the witches occurred during the sixteenth century at [[Warboys]] in Huntingdonshire. The first allegations were made in November 1589 by Jane Throckmorton, the 10-year-old daughter of Robert Throckmorton the [[Squire]] of Warboys when she started suffering from fits (see Initial Allegations below). She accused the 76-year-old Alice Samuel of being the cause; this was echoed by Jane’s four sisters and some household servants who began exhibiting similar symptoms. When Alice Samuel was brought forward to the children, they became more ill and had the urge to scratch her.{{citation needed|date=October 2016|reason=For all the information in the paragraph}}
+
+Robert Throckmorton was a close friend of [[Henry Williams (alias Cromwell)|Sir Henry Cromwell]], one of the wealthiest commoners in England and the grandfather of [[Oliver Cromwell]].  In March 1590, Lady Cromwell came to Warboys to visit. At the Throckmorton house, she interviewed Alice Samuel and what came after the interview served to confirm the suspicions the Throckmortons had. Lady Cromwell was tormented by Alice Samuel in her dreams, and after some time she became ill and died (buried 1592). This was enough proof to put Alice Samuel through a trial that would find her and the rest of her family guilty.{{citation needed|date=October 2016|reason=For all the information in the paragraph}}
+
+==Initial allegations==
+
+===Throckmorton family===
+The first allegations declaring Alice as a practitioner of witchcraft were made in November 1589.  Following this, there were a total of twelve maid-servants of the Throckmorton household (in addition to the five daughters) who experienced fits and the torment of Alice Samuell’s witchcraft. Jane’s fits were described as such: "Sometimes she would neese [sneeze] very loud and thick for the space of half an hour together; and evidently as one in a great trance and sound lay quietly as long, soon after would begin to swell and heave up her belly so as none was able to bend her or keep her down, sometime thee would shake one leg and no other part of her, as if the palsie had been in it, sometimes the other, presently she would shake one of her arms and then the other, and soon after her head, as if she had been infected with the running palsie".&lt;ref name="Anonymous 1593"&gt;{{cite book|author=Anonymous |title=The most strange and admirable discouerie of the three Witches of Warboys |location=London |year=1593}}&lt;/ref&gt;
+
+Jane's mother and grandmother were by the child’s side while other neighbors came to see her. When Alice Samuel came in, the child proclaimed: "Grandmother look where the old witch sitteth (pointing to Samuell) did you ever see one more like a witch than she is: Take off her black thrumbed [shaggy or fringed] cap, for I cannot abide to look on her". Jane's mother  thought nothing of this at first, thinking her child was sleep deprived and sick.  However, because Jane continued to get worse, her parents sent her urine to Doctor Barrow of Cambridge, who sent medicine to Jane three separate times thinking it would heal her.  It did not.  After the third time, the Doctor inquired whether there were any signs of sorcery or witchcraft involved that the parents could see. Jane’s urine was then sent to a family acquaintance, Master Butler, for examination and he sent back the same remedies that Doctor Barrow had sent. Exactly a month later, on the same day almost to the hour, two more of Master Throckmorton’s daughters fell sick to the same illness  that was afflicting Jane.&lt;ref name="Anonymous 1593"/&gt;
+
+These daughters, two to three years older than Jane, cried out: "Take her away, look where she standeth here before us in a black thrumbed cap it is she that hath bewitched us and she will kill us if you do not take her away".&lt;ref&gt;{{cite book|author=Anonymous |title=The most strange and admirable discovery of the three Witches of Warboys |location=London |year=1593}}&lt;/ref&gt;
+
+The parents were then worried, but could not understand why any such harm would come to them, for they had only moved into the town the "Michaelmas before" (September 29, 1588).{{citation needed|date=October 2016|reason=quotation}} Their youngest daughter, nine years old, fell sick less than a month later. Soon after this, the oldest daughter, fifteen years old, fell sick. She was sickest out of the five. Both cried out against Alice Samuell. Their eldest sister, having been the strongest, strived with the spirit, and was grievously tortured not being able to overcome it. This caused her to "(neefe), screech and groan very fearfully, sometimes it would heave up her belly and bounce up her body with such violence that she was not kept upon her bed".{{citation needed|date=October 2016|reason=quotation}}   When sitting in a chair, her fits often caused her to break that chair.{{citation needed|date=October 2016}}
+
+The daughters could not see, hear or feel while in these fits. They accused Mother Samuell, asking for her to be taken away. These fits would sometimes last for half a day and happened up to six or seven times a day.  They believed that God freed them of this [[Magic (paranormal)|sorcery]] and afterwards, the sisters remembered nothing of what they had been saying.{{citation needed|date=October 2016|reason=For all the information in the paragraph}}
+
+===Lady Cromwell===
+In March 1590, Lady Cromwell and Alice had a discussion regarding the accusations made against Alice.  During this conversation, Lady Cromwell reportedly grabbed a pair of [[scissors]] and cut a lock of hair off Alice, and gave it to Mrs. Throckmorton to burn (a [[folk tradition|folk]] remedy believed to weaken a witch's power). That night, Lady Cromwell had nightmares, became ill and later died in 1592.&lt;ref name="Luke Matin"&gt;{{cite web |last1=Matin |first1=Luke |title=The Witch Trials – Witches of Warboys Witch Trials |url=http://www.witchcraftandwitches.com/trials_warboys.html|publisher=Luke Matin}}&lt;/ref&gt;
+
+==Trial==
+Following the death of Lady Cromwell, a local parson convinced Alice to admit to witchcraft, which she retracted the very next day.  However, she confessed again when she was brought before the [[Bishop of Lincoln]], and taken to [[Huntingdon]] where she was imprisoned with her daughter and husband.  The family was tried in April 1593 for the murder by witchcraft of Lady Cromwell. Alice’s words to Lady Cromwell ("Madam, why do you use me thus? I never did you any harm as yet") were used against her at the trial, and all three were found guilty and eventually hanged.&lt;ref name="The Most Strange and Admirable..." /&gt;&lt;ref name="Luke Matin" /&gt;
+
+==Post-humous proof==
+The jailer and his wife examined the corpses.
+{{quote|[H]e found upon the body of the old woman Alice Samuel a little lump of flesh, in manner sticking out ads if it had been a teat, to the length of half an inch; which both he and his wife perceiving, at the first sight thereof meant not to disclose because it was adjoining so secret a place which was not decent to be seen. Yet in the end, not willing to conceal so strange a matter, and decently covering that privy place a little above which it grew, they made open show thereof unto diverse that stood by.&lt;ref&gt;{{cite book |title=The Witch in History: Early Modern and Twentieth-Century Representations |first=Diane |last=Purkiss |publisher=Routledge |year=2013|page=135}}&lt;/ref&gt;}}
+
+Historian Jim Kermode argues that the discovery of a [[witches' mark]] (also known as a "devil's mark") was important legal proof at this period in England. "[I]t gradually became accepted that the mark, with women, most commonly took the form of a teat-like growth in the pudenda".&lt;ref&gt;{{cite book |last=Kermode |first=J.I. |last2=Walker |first2=Garthine |title=Women, crime and the courts in early modern England |date=1994 |publisher=UCL Press |location=London |isbn=1857281403}}&lt;/ref&gt;
+
+This tale of the jailer's postmortem examination has been widely quoted in modern scholarship, for example with reference to the animal/human divide,&lt;ref&gt;{{cite book |editor-last=Creager |editor-first=Angela N.H. |last=Jordan|first=William Chester |title=The animal-human boundary: historical perspectives |date=2002 |publisher=University of Rochester Press |location=Rochester, N.Y |isbn=9781580461207 |page=178}}&lt;/ref&gt; the "sado-erotic fascination of the witches' teat",&lt;ref&gt;{{cite book|title=Words like daggers : violent female speech in early modern England |date=2015 |publisher=University of Nebraska Press |location=[S.l.] |isbn=978-0-8032-5488-6 |page=92}}&lt;/ref&gt; and particularly in [[feminist interpretations of the Early Modern witch trials]]. It is also cited by writers such as [[Lynn Picknett]].&lt;ref&gt;{{cite book |last1=Picknett |first1=Lynn |title=The secret history of Lucifer: the ancient path to knowledge and the real Da Vinci code |date=2005 |publisher=Robinson |location=London |isbn=978-1845292638 |edition=Paperback}}&lt;/ref&gt;
+
+==Aftermath==
+The scholar [[George Lyman Kittredge|George Kittredge]] (1860–1941) called the Warboys trial "the most momentous witch-trial that had ever occurred in England", partially because it had "demonstrably produced a deep and lasting impression on the class that made laws". He makes a case that the Warboys trial influenced the passage of the [[Witchcraft Acts#Witchcraft Act 1604|Witchcraft Act of 1604]].
+
+Following the hangings, Robert Throckmorton left Warboys hastily, his wife allegedly dying shortly before his departure.&lt;ref&gt;{{cite journal |last=DeWindt |first=Anne |title=Witchcraft and Conflicting Visions of the Ideal Village Community |journal=Journal of British Studies |volume=34 |year=1995 |pages=427–463}} JSTOR. Web. 5 November 2014.&lt;/ref&gt;
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+*{{cite journal |last=Almond |first=Philip C. |title=The Witches of Warboys: A Bibliographical Note |journal=Notes and Queries |volume=52 |number =2 |date=June 2005 |pages=192–193(2) |publisher= Oxford University Press}}
+*{{cite book |last=Almond  |first=Philip C. |title=The Witches of Warboys: An Extraordinary Story of Sorcery, Sadism and Satanic Possession |location=London |publisher=I.B. Tauris |year=2008}}
+*{{cite book |last=Lea |first=Henry Charles |last2=Howland |first2=Arthur C. |title=Materials Toward a History of Witchcraft}}{{full citation needed|date=October 2016}}
+*{{cite encyclopedia |last=Robbins  |first=Russell Hope |title=The Encyclopedia of Witchcraft and Demonology |location=New York |publisher=Bonanza Books |year=1959}}
+* {{cite book |last=Rosen |first=Barbara |title=Witchcraft in England, 1558–1618 |publisher=University of Massachusetts Press |year=1969}} — A compendium of contemporary sources, with some annotation. One chapter is devoted to Warboys.
+*{{cite book |last=Tatem |first=Moira |title=Witches of Warboys |publisher=Wholesaler Uniques from Gardners |year=1993 |isbn=1-870724-33-X}}
+*{{cite book |last=Westwood  |first=Jennifer |last2=Simpson |first2=Jacqueline |title=A Guide to England's Legends, from Spring-heeled Jack to the Witches of Warboys |isbn=978-0-14-102103-4}}
+*{{cite book |last=Wright |first=Thomas |title=The Witches of Warboys |publisher=Kessinger Publishing |date=December 2005 |isbn=1-4253-7244-9}}
+
+==External links==
+*{{cite web|url=https://archive.org/details/WarboysWitchesTrialAndExecution |title=The Most strange and admirable discoverie of the three witches of Warboys, arraigned, conducted and executed at the last Assises at Huntingdon, for the bewitching of the five daughters of Robert Throckmorton Esquire, and divers other persons, with sundry Devellish and grievious torments: And also for the betwitching to death of Lady Crumwell, the like hath not been heard of in this age |year=1593}}  Page by page photos of complete pamphlet, the original in the collection of The Norris Museum, St Ives, Cambridgeshire, UK. [This version is currently incomplete]
+*{{cite web|url=http://members.tripod.com/wcoventry0/id34.htm |title=The Witches of Warboys}} in Possession &amp; The Courts 1593–1692: Salem in Context by William W. Coventry . Accessed June 2007
+*{{webarchive |url=https://web.archive.org/web/20070814061819/http://www.psfgothic.btinternet.co.uk/warboys.htm |date=August 14, 2007 |title=Witches of Warboys account }}. Accessed June 2007
+
+{{Witch Hunt}}
+
+{{DEFAULTSORT:Witches Of Warboys}}
+[[Category:Witch trials]]
+[[Category:1593 in law]]
+[[Category:History of Huntingdonshire]]
+[[Category:Early Modern period]]
+[[Category:People executed for witchcraft]]
+[[Category:Legal history of England]]
+[[Category:Executed English women]]
+[[Category:1593 in England]]
+[[Category:People executed under Elizabeth I of England]]
+[[Category:16th-century executions by England]]
+[[Category:Executed people from Cambridgeshire]]
+[[Category:Articles about multiple people]]
+[[Category:People executed by the Kingdom of England by hanging]]
+[[Category:1593 deaths]]</text>
+      <sha1>ngbowoyq0idlb7u67hhcw6l031czd4j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Xenagoras</title>
+    <ns>0</ns>
+    <id>48982178</id>
+    <revision>
+      <id>697963318</id>
+      <parentid>697945729</parentid>
+      <timestamp>2016-01-03T02:58:10Z</timestamp>
+      <contributor>
+        <username>Fordmadoxfraud</username>
+        <id>1185156</id>
+      </contributor>
+      <comment>[[Epidoseis]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1832">'''Xenagoras''' ({{lang-grc|Ξεναγόρας}}) was the name of a number of men of [[classical antiquity]]:
+
+*[[Xenagoras of Halicarnassus]], companion of the Achaemenid commander [[Masistes]]
+*[[Xenagoras (historian)]], a historical writer, likely of the 2nd century BCE
+*Xenagoras, historian, and father of the historian [[Nymphis]]. Possibly the same man as the above. If so, he must have lived in the early part of the second century BCE.
+*[[Xenagoras (geometer)]], who wrote in the ancient world about the heights of mountains
+*Xenagoras, an [[archon]] of [[Delphi]] in late 1st century BCE.&lt;ref&gt;{{cite journal
+ | last =Reinmuth
+ | first =Oscar W.
+ | authorlink =Oscar W. Reinmuth
+ | title =The Attic Archons named Apolexis
+ | journal =Bulletin de correspondance hellénique
+ | volume =90
+ | issue =1
+ | pages =93
+ | publisher =
+ | location =
+ | date =1966
+ | language =
+ | url = http://www.persee.fr/doc/bch_0007-4217_1966_num_90_1_2233
+ | jstor =
+ | issn =
+ | doi =10.3406/bch.1966.2233
+ | accessdate = 2016-01-02}}&lt;/ref&gt;
+*Xenagoras, son of Phoinix, and Xenagoras, son of Xenagoras, two (presumably related) men recorded as providing a sizable donation to the state on the ''[[Epidoseis|epidosis]]'' of Kalymna (modern [[Kalymnos]]).&lt;ref&gt;{{cite book
+ | last =Martzavou
+ | first =Paraskevi
+ | authorlink =Paraskevi Martzavou
+ | last2 =Papazarkadas
+ | first2 =Nikolaos
+ | authorlink2 =Nikolaos Papazarkadas
+ | title =Epigraphical Approaches to the Post-Classical Polis: Fourth Century BC to Second Century AD
+ | publisher =[[Oxford University Press]]
+ | series =Oxford Studies in Ancient Documents
+ | date =2013
+ | pages =94
+ | language =English
+ | url =https://books.google.com/books?id=MjnJbVCTOIYC
+ | isbn = 9780199652143
+ | accessdate=2016-01-02}}&lt;/ref&gt;
+
+==Notes==
+{{reflist}}
+
+[[Category:Articles about multiple people]]</text>
+      <sha1>3rscjwqrv2ujojj43gg9pv892p3mbf9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Young Turks (Bell Labs)</title>
+    <ns>0</ns>
+    <id>47063897</id>
+    <revision>
+      <id>782989754</id>
+      <parentid>760854204</parentid>
+      <timestamp>2017-05-30T12:46:10Z</timestamp>
+      <contributor>
+        <ip>171.61.152.111</ip>
+      </contributor>
+      <comment>cat</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1727">The '''Young Turks''' were a group of leading scientists who worked at [[Bell Labs]], who were insatiably curious about the science behind communications. Many of them were encouraged to take risks, free from the responsibilities of applying for grants or from teaching.&lt;ref name="MyUser_Blogs.scientificamerican.com_June_23_2015c"&gt;{{cite web |url=http://blogs.scientificamerican.com/plugged-in/building-new-homes-for-energy-innovation/ |title=Building New Homes for Energy Innovation - Plugged In - Scientific American Blog Network |newspaper=Blogs.scientificamerican.com |date=  |author= |accessdate= June 23, 2015}}&lt;/ref&gt;&lt;ref name="MyUser_Thedeal.com_June_23_2015c"&gt;{{cite web |url=http://www.thedeal.com/thedealeconomy/jon-gertners-the-idea-factory.php |title=Jon Gertner's 'The Idea Factory' - The Deal Economy (SAMPLE CONTENT: NEED AN ID?) |newspaper=Thedeal.com |date=  |author= |accessdate= June 23, 2015}}&lt;/ref&gt; "We were first-class troublemakers," [[Richard Hamming]] later recalled. "We did unconventional things in unconventional ways and still got valuable results. Thus management had to tolerate us and let us alone a lot of the time."&lt;ref name="IEEE"&gt;{{cite web|url=http://history.computer.org/pioneers/hamming.html|title=Computer Pioneers – Richard Wesley Hamming|last=|first=|date=|website=|publisher=[[IEEE Computer Society]]|accessdate=January 19, 2017}}&lt;/ref&gt;
+
+==Members==
+* [[Philip Warren Anderson]]
+* [[William O. Baker]]
+* [[James Fisk (physicist)|James Fisk]]
+* [[Mervin Kelly]]
+* [[John R. Pierce]]
+* [[Richard Hamming]]
+* [[Claude Shannon]]
+* [[William Shockley]]
+* [[Charles Townes]]
+* [[John Tukey]]
+
+==References==
+{{reflist}}
+
+[[Category:Bell Labs]]
+[[Category:Articles about multiple people]]</text>
+      <sha1>p3a1yd1yco4a1mqht6gy9vkyosuqxys</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1915 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Autogram</title>
+    <ns>0</ns>
+    <id>925519</id>
+    <revision>
+      <id>818128745</id>
+      <parentid>818018697</parentid>
+      <timestamp>2018-01-01T19:34:10Z</timestamp>
+      <contributor>
+        <username>Toploftical</username>
+        <id>16162765</id>
+      </contributor>
+      <comment>/* Reflexicons */ extensive not exhaustive</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9644">An '''autogram''' ([[Greek language|Greek]]: αὐτός = self,  γράμμα = letter) is a sentence that describes itself in the sense of providing an inventory of its own characters. They were invented by [[Lee Sallows]], who also coined the word ''autogram''.&lt;ref name=quest/&gt; An essential feature is the use of full cardinal number names such as “one”, “two”, etc., in recording character counts. Autograms are also called ‘self-enumerating’ or ‘self-documenting’ sentences. Often, letter counts only are recorded while punctuation signs are ignored, as in this example:
+
+:This sentence employs two a’s, two c’s, two d’s, twenty-eight e’s, five f’s, three g’s, eight h’s, eleven i’s, three l’s, two m’s, thirteen n’s, nine o’s, two p’s, five r’s, twenty-five s’s, twenty-three t’s, six v’s, ten w’s, two x’s, five y’s, and one z.
+
+The first autogram to be published was composed by Sallows in 1982 and appeared in [[Douglas Hofstadter]]'s "[[Metamagical Themas]]" column in ''[[Scientific American]]''.&lt;ref&gt;Hofstadter, D.R. “Metamagical Themas” Scientific American, January 1982, pp 12–17&lt;/ref&gt;
+
+:Only the fool would take trouble to verify that his sentence was composed of ten a’s, three b’s, four c’s, four d’s, forty-six e’s, sixteen f’s, four g’s, thirteen h’s, fifteen i’s, two k’s, nine l’s, four m’s, twenty-five n’s, twenty-four o’s, five p’s, sixteen r’s, forty-one s’s, thirty-seven t’s, ten u’s, eight v’s, eight w’s, four x’s, eleven y’s, twenty-seven commas, twenty-three apostrophes, seven hyphens and, last but not least, a single !
+
+The task of producing an autogram is perplexing because the object to be described cannot be known until its description is first complete.&lt;ref&gt;Hofstadter, D.R., ''Metamagical Themas: Questing for the Essence of Mind and Pattern'', 1996, p.&amp;nbsp;390–92, Basic Books, {{ISBN|978-0-465-04566-2}}&lt;/ref&gt;&lt;ref&gt;Letaw J.R. Pangrams: A Nondeterministic Approach, ''Abacus'', Vol 2, No 3, Spring 1985, pp 42–47&lt;/ref&gt;
+
+==Self-enumerating pangrams==
+A type of autogram that has attracted special interest is the autogramic [[pangram]], a self-enumerating sentence in which every letter of the alphabet occurs at least once.&lt;ref&gt;[http://www.daviddarling.info/encyclopedia/S/self-enumerating_sentence.html Encyclopedia of Science:  self-enumerating sentence]&lt;/ref&gt; Certain letters do not appear in either of the two autograms above, which are therefore not pangrams. The first ever self-enumerating pangram appeared in a Dutch newspaper and was composed by [[Rudy Kousbroek]].&lt;ref&gt;Kousbroek, R., “Welke Vraag Heeft Vierendertig Letters?” NRC Handelsblad, Cultureel  Supplement 640, 11 Feb. 1983, p.3.&lt;/ref&gt;&lt;ref&gt;Kousbroek, R. “Instructies Voor Het Demonteren Van Een Bom,” NRC Handelsblad, Cultereel Supplement 644, 11 March 1983, p.9.&lt;/ref&gt;&lt;ref&gt;Kousbroek, R. “De Logologische Ruimte” Amsterdam: Meulenhoff, 1984, pp 135–53.&lt;/ref&gt; Sallows, who lives in the Netherlands, was challenged by Kousbroek to produce a self-enumerating ‘translation’ of this pangram into English—an impossible-seeming task. This prompted Sallows to construct an electronic Pangram Machine.&lt;ref name=quest&gt;[http://www.leesallows.com/files/In%20Quest%20of%20a%20Pangram1.pdf Sallows, L., In Quest of a Pangram, Abacus, Vol 2, No 3, Spring 1985, pp 22–40]&lt;/ref&gt;  Eventually the machine succeeded, producing the example below which was published in Scientific American in October 1984:&lt;ref&gt;Dewdney, A.K. “Computer Recreations” Scientific American, October 1984, pp 18–22&lt;/ref&gt;
+
+:This pangram contains four as, one b, two cs, one d, thirty es, six fs, five gs, seven hs, eleven is, one j, one k, two ls, two ms, eighteen ns, fifteen os, two ps, one q, five rs, twenty-seven ss, eighteen ts, two us, seven vs, eight ws, two xs, three ys, &amp; one z.
+
+Sallows wondered if one could produce a pangram that counts its letters as percentages of the whole sentence–a particularly difficult task since such percentages usually won't be exact integers.  He mentioned the problem to Chris Patuzzo and in late 2015 Patuzzo produced the following solution:&lt;ref&gt;[http://www.futilitycloset.com/2015/11/16/a-new-pangram/ A New Pangram] [[Futility Closet]], November 16, 2015&lt;/ref&gt;&lt;ref&gt;[http://whyarecomputers.com/audio/why-are-computers-episode-4.mp3 Chris Patuzzo on self-enumerating pangrams] Podcase interview by Tom Stewart&lt;/ref&gt;
+
+{{quotation|
+: This sentence is dedicated to Lee Sallows and to within one decimal place
+: four point five percent of the letters in this sentence are a’s, zero point one percent are b’s, 
+: four point three percent are c’s, zero point nine percent are d’s, twenty point one percent are e’s, 
+: one point five percent are f’s, zero point four percent are g’s, one point five percent are h’s, 
+: six point eight percent are i’s, zero point one percent are j’s, zero point one percent are k’s, 
+: one point one percent are l’s, zero point three percent are m’s, twelve point one percent are n’s, 
+: eight point one percent are o’s, seven point three percent are p’s, zero point one percent are q’s, 
+: nine point nine percent are r’s, five point six percent are s’s, nine point nine percent are t’s, 
+: zero point seven percent are u’s, one point four percent are v’s, zero point seven percent are w’s, 
+: zero point five percent are x’s, zero point three percent are y’s and one point six percent are z’s.}}
+
+==Generalizations==
+Autograms exist that exhibit extra self-descriptive features. Besides counting each letter, here the total number of letters appearing is also named:&lt;ref name=wasser&gt;[http://www.fatrazie.com/EWpangram.html Self-enumerating pangrams:  A logological history by Eric Wassenaar, April 17, 1999] {{webarchive |url=https://web.archive.org/web/20130524205809/http://www.fatrazie.com/EWpangram.html |date=May 24, 2013 }}&lt;/ref&gt;&lt;ref name=reflex/&gt;
+
+:This sentence contains one hundred and ninety-seven letters: four a's, one b, three c's, five d's, thirty-four e's, seven f's, one g, six h's, twelve i's, three l's, twenty-six n's, ten o's, ten r's, twenty-nine s's, nineteen t's, six u's, seven v's, four w's, four x's, five y's, and one z.
+
+Just as an autogram is a sentence that describes itself, so there exist closed chains of sentences each of which describes its predecessor in the chain. Viewed thus, an autogram is such a chain of length 1. Here follows a chain of length 2:&lt;ref name=wasser/&gt;&lt;ref name=reflex/&gt;
+&lt;div class="center"&gt;
+{|
+|- style="vertical-align:bottom;"
+| style="padding: 0 1em" |
+{| class="wikitable" style="margin-left:auto;margin-right:auto;text-align:left;width:24em;height:8em;table-layout:fixed;"
+|-
+|The right-hand sentence contains four a's, one b, three c's, three d's, thirty-nine e's, ten f's, one g, eight h's, eight i's, one j, one k, four l's, one m, twenty-three n's, fifteen o's, one p, one q, nine r's, twenty-three s's, twenty-one t's, four u's, seven v's, six w's, two x's, five y's, and one z.
+|}
+|
+| style="padding: 0 1em" |
+{| class="wikitable" style="margin-left:auto;margin-right:auto;text-align:left;width:24em;height:8em;table-layout:fixed;"
+|-
+|The left-hand sentence contains four a's, one b, three c's, three d's, thirty-five e's, seven f's, four g's, eleven h's, eleven i's, one j, one k, one l, one m, twenty-six n's, fifteen o's, one p, one q, ten r's, twenty-three s's, twenty-two t's, four u's, three v's, five w's, two x's, five y's, and one z.
+|}
+|}
+&lt;/div&gt;
+
+==Reflexicons==
+A special kind of autogram is the ‘reflexicon’ (short for “reflexive lexicon”), which is a self-descriptive word list that describes its own letter frequencies.  The constraints on reflexicons are much tighter than on autograms because the freedom to choose alternative words such as “contains”, “comprises”, “employs”, and so on, is lost. However, a degree of freedom still exists through appending entries to the list that are strictly superfluous.
+
+For example, “Sixteen e's, six f's, one g, three h's, nine i's, nine n's, five o's, five r's, sixteen s's, five t's, three u's, four v's, one w, four x's” is a reflexicon, but it includes what Sallows calls “dummy text” in the shape of “one g” and “one w”. The latter might equally be replaced with “one #”, where “#” can be any typographical sign not already listed. Sallows has made an extensive computer search and conjectures that there exist but three and only three pure (i.e., no dummy text) English reflexicons.&lt;ref name=reflex&gt;[http://www.leesallows.com/files/Reflexicons%20VERSION%203.pdf Sallows, L., Reflexicons, Word Ways, August 1992, 25; 3: 131–41]&lt;/ref&gt;
+&lt;big&gt;
+{{quote box
+|quote= thirteen e's, five f's, two g's, five h's, eight i's, two l's, three n's, six o's, six r's, twenty s's, twelve t's, three u's, four v's, six w's, four x's, two y's.
+|source=
+|align = center
+|width = 60%
+|bgcolor = #F0F8FF
+}}
+{{quote box
+|quote= fifteen e's, seven f's, four g's, six h's, eight i's, four n's, five o's, six r's, eighteen s's, eight t's, four u's, three v's, two w's, three x's.
+|source=
+|align = center
+|width = 60%
+|bgcolor = #F0F8FF
+}}
+{{quote box
+|quote= sixteen e's, five f's, three g's, six h's, nine i's, five n's, four o's, six r's, eighteen s's, eight t's, three u's, three v's, two w's, four x's.
+|source=
+|align = center
+|width = 60%
+|bgcolor = #F0F8FF
+}}
+&lt;/big&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://autograms.net Autograms in various languages]
+
+[[Category:Self-reference]]
+[[Category:Word play]]
+[[Category:Constrained writing]]</text>
+      <sha1>ifasol2v0zvsivzlv46wrnmu59qw5px</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bibliography of C. Northcote Parkinson</title>
+    <ns>0</ns>
+    <id>46407896</id>
+    <revision>
+      <id>678691643</id>
+      <parentid>657747896</parentid>
+      <timestamp>2015-08-31T01:11:00Z</timestamp>
+      <contributor>
+        <username>Masssly</username>
+        <id>13928436</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, added [[CAT:UL|underlinked]] tag using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8210">:''This article is a sub-page of [[C. Northcote Parkinson]].''
+
+{{Multiple issues|{{unreferenced|date=April 2015}}{{lead too long|date=April 2015}}
+{{Underlinked|date=August 2015}}
+}}
+
+#Baistow, Tom. "PARKINSON'S SECOND LAW." The Singapore Free Press 30 Mar. 1960: 6. Print
+#Parkinson, Cyril Northcote. "THE ART OF BEING NO.2 IN THE OFFICE." The Singapore Free Press 17 Oct. 1961: 6. Print.
+#"General Knowledge Quiz." The Singapore Free Press 23 Oct. 1961: 9. Print: "3. Who wrote Parkinson's Law? What connection did the author have with Singapore?"
+#"THE MALE AND FEMALE FIRMS - BY PARKINSON. Reuters." The Straits Times [Singapore] 3 Mar. 1962: 1. Print
+#"STOP-GO ECONOMY BY PARKINSON. The Straits Times [Singapore] 19 Mar. 1962: 10. Print
+#"Bill to amend constitution." The Straits Times [Singapore] 10 Jul. 1964: 20. Print
+#"Car insurance poser for the 'innocent' victim." The Straits Times [Singapore] 11 Jul. 1964: 15. Print
+#Geldard, Geoffrey. "The 'small-minded' Opposition: Chief Minister hits out." The Straits Times [Singapore] 17 Dec. 1966: 17. Print
+#"THE U.N. TRIES AGAIN." The Straits Times [Singapore] 16 Sep. 1970: 10. Print
+#"A Fiction." The Straits Times [Singapore] 14 Dec. 1970: 20. Print
+#"PAPER PAPER PAPER BACKS." New Nation [Singapore] 3 Jul. 1971: 9. Print
+#Sheppard, Trish. "Into the antique business by accident." New Nation [Singapore] 15 Sep. 1971: 7. Print
+#"PAPER PAPER PAPER BACKS." New Nation [Singapore] 16 Oct. 1971: 9. Print
+#Sheppard, Trish. "Helping those who live in a world of their own (in three parts)." New Nation [Singapore] 9—11 May 1972: 9. Print
+#"Talks to forge Asean link-up with EEC." The Straits Times [Singapore] 7 Jun. 1972: 15. Print
+#Holmberg, Judith. "Parkinson's 'law'" New Nation [Singapore] 19 Dec. 1973: 4. Print
+#Wilson, Dick. "TOWARDS A WORLD OF TRIBES." New Nation [Singapore] 23 Oct. 1974: 10. Print
+#"Danes learn to adjust welfare state to rule of necessity." The Straits Times [Singapore] 13 Apr. 1975: 24. Print
+#"Be thankful for our bureaucracy: PM." The Straits Times 17 Mar. 1976: 6. Print
+#The Straits Times [Singapore] 12 Nov. 1976: 16. Print
+#"SEARCHING FOR THE CURE. New Nation {Singapore] 16 Aug. 1977: 10, 11. Print
+#"Once upon a time, he'd very little to do. The Business Times [Singapore] 10 Dec. 1977: 11. Print
+#"Professor Parkinson's Law comes of age. NYT" The Business Times [Singapore] 21 Jun. 1978: 7. Print
+#"Professor Parkinson's Law comes of age. NYT" New Nation [Singapore] 24 Jun. 1978: 9. Print
+#Yap, Sonny. "Disney setting for crystal-ball gazing into Tomorrowland." New Nation [Singapore] 29 Sep. 1978: 9. Print
+#"Full marks for the full day. New Nation [Singapore] 8 Dec. 1978: 8. Print
+#Tho, Thian-Ser. "Thatcher changing welfare state to working system." The Straits Times [Singapore] 29 Oct. 1979: 16. Print
+#"Another new law from Parkinson. Reuters." The Business Times [Singapore] 19 Nov. 1979: 12. Print
+#"Parkinson's latest law. New Nation [Singapore] 19 Nov. 1979: 13. Print
+#"Singapore 1128. This shows policy is inconsistent." The Straits Times [Singapore] 3 Jan. 1980: 13. Print
+#"The Prof lays down the law again." New Nation [Singapore] 11 Jan. 1980: 8. Print
+#"Progress based entirely on performance." The Straits Times [Singapore] 30 Jan. 1980: 17. Print
+#"'She's the answer to strikes.' AFP." New Nation [Singapore] 18 Mar. 1980: 7. Print
+#"No 30 per cent answers." New Nation [Singapore] 21 Mar. 1980: 8. Print
+#"BOOKS I." The Straits Times [Singapore] 14 Jun. 1980: 1. Print
+#"The amazing art of getting things done.: New Nation [Singapore] 5 Mar. 1981: 29. Print
+#Simpson, Gavin. "Don't be blinkered by a job, says prof." New Nation[Singapore] 7 Jul. 1981: 9. Print
+#Chew, Robert. "Japan's Occupation bureaucracy studied. The Straits Times [Singapore] 3 Oct. 1981: 8. Print
+#"BOGAARS." The Straits Times [Singapore] 26 Oct. 1981: 12. Print
+#"Oberst's Law." New Nation [Singapore] 12 Nov. 1981: 2. Print
+#"Talking turkey. New Nation [Singapore] 3 Dec. 1981: 40. Print
+#Colverd, Gerald. "PREDATOR PRIZES. The Business Times [Singapore] 28 Dec. 1981: 9. Print
+#Tan, Suan-Ann. "History come-alive." The Straits Times [Singapore] 23 Jan. 1982: 1-2. Print
+#"Parkinson's story." The Straits Times [Singapore] 23 Jan. 1982: 7. Print
+#"Minister's reading list. The Straits Times [Singapore] 30 May 1982: 4. Print
+#Koh, Tse-Ying. "Getting along with people." The Business Times [Singapore] 4 Oct. 1982: 2. Print
+#Chew, Robert. "The other side of Japan." The Straits Times [Singapore] 20 Nov. 1982: 6. Print
+#Lee, Geok Boi. "Queue up, get ready for the hassle." The Straits Times [Singapore] 13 Mar. 1983: 3. Print
+#Colverd, Gerald. "Parkinson's law." The Business Times [Singapore] 20 Jun. 1983: 11. Print
+#"Murphy's Law as explained through science." The Straits Times [Singapore] 12 Sep. 1983: 16. Print]
+#"The Straits Times says... Parkinson's law." The Straits Times [Singapore] 8 Oct. 1983: 18. Print
+#Lee, Yoke-Meng. "One illustration too many." The Business Times [Singapore] 17 Oct. 1983: 8. Print
+#"Your Viewing And Listening Guide. SBC 5." The Straits Times [Singapore] 28 Jan. 1984: 24. Print: "8.40pm. Management - Parkinson's Law and the PeterPrinciple (Last episode/Chinese subtitles): The dangers and negative mechanisms of bureaucracy are discussed."
+#Gwee, Monica. "Speak, listen or sink." The Business Times [Singapore] 19 Mar. 1984: 2. Print
+#Ho, Chin-Beng. "How you can manage with humour and ease." The Straits Times [Singapore] 24 Mar. 1984: 7. Print
+#"When one head is better than 20."  Singapore Monitor 21 Jun. 1985: 14. Print
+#"When one head is better than 20." Singapore Monitor (Afternoon Edition) 21 Jun 1985: 14. Print
+#Hoe, Irene. "Now for a word — or two or three — from your MPs." The Straits Times [Singapore] 26 Feb. 1986: 11. Print
+#Pates, Irene. "It's all in a day's work." The Straits Times [Singapore] 29 Jul. 1986: 1. Print
+#Thio, Lay-Hoon. "New Arrivals." The Straits Times [Singapore] 22 Nov. 1986: 8. Print
+#"High-tech free time: Boredom need not follow. The Economist." The Straits Times [Singapore] 16 May 1987: 18. Print
+#King, John Leonard (Baron King of Wartnaby). "Privatisation: the British Airways experience." The Business Times [Singapore] 27 Jul. 1987: 3. Print
+#"Parkinson'sLaw." The Straits Times [Singapore] 10 Oct. 1987: 2. Print
+#"At 78, essayist Parkinson is still laying down the laws. NYT." The Straits Times [Singapore] 10 Oct. 1987: 2. Print
+#Smith, D. J. "Beware of pastoral school system." The New Paper [Singapore] 3 Oct. 1988: 9. Print
+#"Firma sebenarnya satu organisasi." Berita Harian [Singapore] 16 Jan. 1989: 5. Print. [Malay]
+#"Where to, Mr President? From the Economist." The Straits Times [Singapore] 16 Mar. 1989: 23. Print
+#Leong, Chan-Teik. "Traffic flow at 15 kmh if vehicle growth not curbed." The Straits Times [Singapore] 6 Oct. 1992: 20. Print
+#Chan, Caroline and Robert Ng. "Stockbroking houses likely to pay out modest bonuses this year." The Straits Times [Singapore] 22 Dec. 1992: 40. Print
+#"Man behind Parkinson's Law dies, aged 83. Reuters." The Straits Times [Singapore] 12 Mar. 1993: 6. Print
+#"Reformers must fight Japan's bureaucracy." The Straits Times [Singapore] 1 Oct. 1993: 35. Print
+#"Elak gejala 'Parkinson.'" Berita Harian [Singapore] 26 Mar. 1994: 4. Print. [Malay]
+#Hadar, Leon. "Promoting underdevelopment." The Business Times [Singapore] 26 Apr. 1994: 16. Print
+#Ahmad, H. U. "Transforming Third World bureaucracy." The Business Times [Singapore] 30 Apr. 1994: 19. Print
+#"Attempting a record in a race against time." The Straits Times [Singapore] 8 Jul. 1995: 2. Print
+#Ancient Chinese examination system made relevant." The Straits Times [Singapore] 16 Mar. 1996: 24. Print
+#Tan, Suan-Ann. "Children live up to expectations, not IQ tests. The Straits Times [Singapore] 23 Nov. 2000: 26. Print
+#"Long lazy life. Today [Singapore] 30 Apr. 2001: 14. Print
+#"Govt bodies are well monitored. The Business Times [Singapore] 3 Sep. 2002: 8. Print
+#"Stop wasting time." The Straits Times [Singapore] 17 Oct. 2006: 22. Print
+#Today [Singapore] 18 Nov. 2006: 4. Print
+#"Every minute counts." The Straits Times [Singapore] 3 Dec. 2007: 74. Print
+
+[[Category:C. Northcote Parkinson]]
+[[Category:Sources]]</text>
+      <sha1>n67g60a4lgb2pdwv5awr19oruljjhav</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cf.</title>
+    <ns>0</ns>
+    <id>1250078</id>
+    <revision>
+      <id>867906395</id>
+      <parentid>861142439</parentid>
+      <timestamp>2018-11-08T18:55:49Z</timestamp>
+      <contributor>
+        <username>Paintspot</username>
+        <id>18915484</id>
+      </contributor>
+      <comment>Other uses.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3572">{{Other uses|Cf (disambiguation)}}
+{{wikt|confer}}
+The abbreviation '''cf.''' (short for the {{lang-la|confer/conferatur}}, both meaning "compare")&lt;ref&gt;{{cite|title=cf.|work=Cambridge Advanced Learner's Dictionary &amp; Thesaurus|publisher=Cambridge University Press|date=n.d.|url=http://dictionary.cambridge.org/us/dictionary/english/cf|accessdate=October 30, 2016}}&lt;/ref&gt; is used in writing to refer the reader to other material to make a comparison with the topic being discussed. It is used to form a contrast, for example: "Abbott (2010) found supportive results in her memory experiment, unlike those of previous work (cf. Zeller &amp; Williams, 2007)."&lt;ref name=Lee&gt;{{cite|title=It’s All Latin to Me: Latin Abbreviations in Scholarly Writing|first=Chelsea|date=May 13, 2010|website=APA Style Blog|publisher=American Psychological Association|last=Lee|url=http://blog.apastyle.org/apastyle/2010/05/its-all-latin-to-me.html|accessdate=October 30, 2016}}&lt;/ref&gt; It is recommended that "cf." be used only to suggest a comparison, and the word "see" be used to point to a source of information.&lt;ref&gt;{{cite|title=Latin Terms and Abbreviations|website=The Writing Center at UNC-Chapel Hill|publisher=The University of North Carolina at Chapel Hill|date=n.d.|url=http://writingcenter.unc.edu/handouts/latin-terms-and-abbreviations/|accessdate=October 30, 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://msupress.org/wp-content/uploads/2012/12/ContagionStyleSheet.pdf |title=Chicago Manual of Style 15th Ed. Style Sheet |publisher=Michigan State University Press |at=p. 6, citing ''Chicago Manual of Style'' section 16.58 |accessdate=2016-07-07 |quote=There is a distinction between see and cf.; use cf. only to mean 'compare' or 'see, by way of comparison'.}}&lt;/ref&gt;
+
+==Biological use==
+In [[Open nomenclature|biological naming conventions]], cf. is commonly placed between the [[genus name]] and the [[species name]] to describe a specimen that is difficult to identify because of practical difficulties, such as the specimen being poorly preserved. For example, "''{{lang|la|Barbus}}'' cf. ''{{lang|la|holotaenia}}''" indicates that the specimen is in the genus ''[[Barbus]]'', and believed to be ''{{lang|la|[[Barbus holotaenia]]}}'' but the actual species-level identification cannot be certain.&lt;ref name="Bengtson"/&gt;
+
+Cf. can also be used to express a possible identity, or at least a significant resemblance, such as between a newly observed specimen and a known [[species]] or [[taxon]].&lt;ref name="Bengtson"&gt;{{cite web |last=Bengtson |first=Peter |title=Open Nomenclature |url=http://cdn.palass.org/publications/palaeontology/volume_31/pdf/vol31_part1_pp223-227.pdf |work=Palaeontology |accessdate=19 March 2015}}&lt;/ref&gt; Such a usage might suggest a specimen's membership of the same genus or possibly of a shared higher taxon, such as in, "{{lang|la|Diptera: Tabanidae}}, cf. ''{{lang|la|Tabanus}}''", where the author is confident of the order and family ([[Diptera]]: [[Tabanidae]]), but can only offer the genus (''[[Tabanus]]'') as a suggestion and has no information favouring a particular species.&lt;ref&gt;{{cite|first=Anne|last=Hartmann|url=http://www.assess-hkh.at/downloads/Field_Key_HKH_draft.pdf|title=Field Key for Selected Benthic Invertebrates from the HKH Region|version=Daft Version|date=February 2007|accessdate=October 30, 2016}}&lt;/ref&gt;
+
+== See also ==
+* [[Citation signal]]
+* [[List of Latin abbreviations]]
+* [[Viz.]]
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* {{Wiktionary-inline|cf.}}
+
+[[Category:Abbreviations]]
+[[Category:Latin words and phrases]]</text>
+      <sha1>ndttbwortikiu7dewpnazhdzrm3gdia</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Comparative cultural studies</title>
+    <ns>0</ns>
+    <id>4481195</id>
+    <revision>
+      <id>862238544</id>
+      <parentid>858481124</parentid>
+      <timestamp>2018-10-03T02:01:41Z</timestamp>
+      <contributor>
+        <ip>178.150.242.185</ip>
+      </contributor>
+      <comment>/* See also */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3008">{{Refimprove|date=October 2013}}
+'''Comparative cultural studies''' is a contextual approach to the study of culture in a global and intercultural context.&lt;ref&gt;{{Cite web|url=http://www.thepress.purdue.edu/series/comparative-cultural-studies|title=Comparative Cultural Studies|publisher=Purdue University|accessdate=October 32, 2013}}&lt;/ref&gt; Focus is placed on the theory, method, and application of the study process(es) rather than on the "what" of the object(s) of study.
+
+==Overview==
+In comparative cultural studies, selected tenets of [[comparative literature]] are merged with selected tenets of the field of [[cultural studies]] (including [[cultural theory|culture theories]], (radical) [[Constructivist epistemology|constructivism]], [[communication]] theories, and [[systems theories]]) with the objective to study culture and culture products (including but not restricted to literature, communication, media, art, etc.). This is performed in a contextual and relational construction and with a plurality of methods and approaches, interdisciplinary, and, if and when required, including teamwork. In comparative cultural studies, it is the processes of communicative action(s) in culture and the how of these processes that constitute the main objectives of research and study. However, scholarship in comparative cultural studies does not exclude [[textual analysis]] proper of other established fields of study. In comparative cultural studies, ideally, the framework of and methodologies available in the systemic and empirical study of culture are favored. Scholarship in comparative cultural studies includes the theoretical, as well as methodological and applied postulate to move and to dialogue between cultures, languages, literature, and disciplines: attention to other cultures against essentialist notions and practices and beyond the paradigm of the nation-state is a basic and founding element of the framework and its application.
+
+==See also==
+{{Portal|Culture}}
+* [[Counterculture]]
+* [[Cross-cultural studies]]
+* [[Cultural anthropology]]
+* [[Cultural assimilation]]
+
+==References==
+{{reflist}}
+
+== Further reading ==
+*{{cite web|url=https://docs.lib.purdue.edu/clcweb/|title=CLCWeb: Comparative Literature and Culture|ISSN=1481-4374|accessdate=October 23, 2013}}
+*Tötösy de Zepetnek, Steven, and Tutun Mukherjee, eds. ''Companion to Comparative Literature, World Literatures, and Comparative Cultural Studies''. New Delhi: Cambridge UP India, 2013.
+*Purdue University Press print monograph series of Books in Comparative Cultural Studies http://www.thepress.purdue.edu/series/comparative-cultural-studies
+*{{cite journal | last1 = Tötösy de Zepetnek | first1 = Steven | year = 1999 | title = From Comparative Literature Today toward Comparative Cultural Studies | doi = 10.7771/1481-4374.1041 | journal = CLCWeb: Comparative Literature and Culture | volume = 1 | issue = 3| page = }}
+
+[[Category:Cross-cultural studies]]
+[[Category:Comparisons]]
+
+
+{{cultural-studies-stub}}</text>
+      <sha1>bup245ca8y4xrqzo68su86ccbatq3gh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Comparison (grammar)</title>
+    <ns>0</ns>
+    <id>11797804</id>
+    <revision>
+      <id>869851599</id>
+      <parentid>869851437</parentid>
+      <timestamp>2018-11-20T20:02:51Z</timestamp>
+      <contributor>
+        <ip>46.123.241.213</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20443">{{for|other meanings|Comparison (disambiguation)}}
+{{more citations needed|date=November 2016}}
+{{Grammatical categories}}
+'''Comparison''' is a feature in the [[morphology (linguistics)|morphology]] or [[syntax (linguistics)|syntax]] of some [[language]]s, whereby [[adjective]]s and [[adverb]]s are [[inflection|inflected]] or modified to indicate the relative degree of the property defined by the adjective or adverb. The [[comparative]] expresses a comparison between two (or more) entities or groups of entities in quality, quantity, or degree; the '''superlative''' is the form of an adverb or adjective that is the greatest degree of a given descriptor.
+
+The [[grammatical category]] associated with comparison of adjectives and adverbs is '''degree of comparison'''.&lt;ref&gt;{{citation|last1=Huddleston|first1=Rodney|last2=Pullum|first2=Geoffrey|year=2002|title=The Cambridge Grammar of the English Language|pages=1099–1170}}&lt;/ref&gt; The usual degrees of comparison are the ''positive'', which simply denotes a property (as with the [[English grammar|English]] words ''big'' and ''fully'');  the ''comparative'', which indicates ''great'''er''''' degree (as ''bigger'' and ''more fully''); and the ''superlative'', which indicates ''great'''est''''' degree (as ''biggest'' and ''most fully'').&lt;ref&gt;Tom McArthur, ed. (1992) ''The Oxford Companion to the English Language'', Oxford University Press. {{ISBN|0-19-214183-X}}&lt;/ref&gt; Some languages have forms indicating a very large degree of a particular quality (called [[Elative (gradation)|elative]] in Semitic linguistics). Other languages (e.g. English) can express lesser degree, e.g. ''beautiful'', ''less beautiful'', ''least beautiful''.
+
+The comparative is frequently associated with adjectives and adverbs because these words take the ''-er'' suffix or modifying word ''more'' or ''less'' (e.g., ''fast&lt;u&gt;er&lt;/u&gt;'', ''&lt;u&gt;more&lt;/u&gt; intelligent'', ''&lt;u&gt;less&lt;/u&gt; wasteful''); it can also, however, appear  when no adjective or adverb is present, for instance with nouns (e.g., ''more men than women''). One [[preposition]], ''near'', also has a superlative form, as in ''Find the restaurant nearest your house''.
+
+==Formation of comparatives and superlatives==
+Comparatives and superlatives may be formed [[morphology (linguistics)|morphologically]], by inflection, as with the English and [[German grammar|German]] ''-er'' and ''-(e)st'' forms, or [[syntax|syntactically]], as with the English ''more...'' and ''most...'' and the [[French grammar|French]] ''plus...'' and ''le plus...'' forms. Common adjectives and adverbs often produce irregular forms, such as ''better'' and ''best'' (from ''good'') and ''less'' and ''least'' (from ''little/few'') in English, and ''meilleur'' (from ''bon'') and ''mieux'' (from the adverb ''bien'') in French.
+
+==Comparative and superlative constructions==
+Most if not all languages have some means of forming the comparative, although these means can vary significantly from one language to the next.
+
+Comparatives are often used with a [[conjunction (grammar)|conjunction]] or other grammatical means to indicate with what the comparison is being made, as with ''than'' in English, ''als'' in German, etc. In [[Russian grammar|Russian]] and Greek ([[Ancient Greek grammar|Ancient]], [[Koine Greek grammar|Koine]] and [[Modern Greek grammar|Modern]]) this can be done by placing the compared noun in the [[genitive]] case. With superlatives, the class of things being considered for comparison may be indicated, as in "the best swimmer out of all the girls".
+
+Languages also possess other structures for comparing adjectives and adverbs; English examples include "as... as" and "less/least...".
+
+А few languages apply comparison to nouns and even verbs. One such language is [[Bulgarian language|Bulgarian]], where expressions like "по&amp;#x300; човек (po chovek), най човек (nay chovek), по-малко човек (po malko chovek)" (literally ''more person'', ''most person'', ''less person'' but normally ''better kind of a person'', ''best kind of person'', ''not that good kind of a person'') and "по&amp;#x300; обичам (po obicham), най-малко обичам (nay malko obicham)" (''I like more'', ''I like the least'') are quite usual.&lt;ref&gt;Comparatives in Bulgarian are formed with the particles по and най, separated with the following adjective or adverb with a hyphen. If they are applied to a noun or a verb, they are written as separate words with a grave accent over по ''po''. Comparatives in [[Macedonian language|Macedonian]] are formed identically but written as one word, Macedonian) (both meaning ''better'')&lt;/ref&gt;
+
+==Usage when considering only two things==
+
+In many languages, including English, traditional grammar requires the comparative form to be used when exactly two things are being considered, even in constructions where the superlative would be used when considering a larger number. For instance, "May the better man win" would be considered correct if there are only two individuals competing. However, this rule is not always observed in informal usage; the form "May the best man win" will often be used in that situation, as it would if there were three or more competitors involved.&lt;ref name=GrammarGirl /&gt;
+
+==Rhetorical use of unbalanced comparatives==
+
+In some contexts, such as advertising or political speeches, absolute and relative comparatives are intentionally employed in a way that invites a comparison, and yet the basis of comparison is not established. This is a common [[rhetorical]] device used to create an implication of significance where one may not actually be present. Although such usage is common, it is sometimes [[Linguistic prescription|considered ungrammatical]].&lt;ref name=GrammarGirl&gt;{{cite web |url=http://grammar.quickanddirtytips.com/comparatives-versus-superlatives.aspx |title=Comparatives Versus Superlatives |first=Bonnie |last=Trenga |date=12 August 2008 |work=Grammar Girl |publisher=Quick and Dirty Tips}}&lt;/ref&gt;
+
+For example:
+* Always!
+* Why pay more?
+* We work harder.
+* We sell for less!
+* More doctors recommend it.
+
+==English==
+English has two parallel systems of comparison, a morphological one formed using the suffixes ''-er'' (the "comparative") and ''-est'' (the "superlative"), with some irregular forms; and a syntactic one, formed with the adverbs "more" and "most".
+
+As a general rule, words with one [[syllable]] require the suffix (except for the four words: fun, real, right, wrong), words with three or more syllables require "more" or "most", and words with two syllables may use one system or the other; which words use which system is a matter of idiom. Some adjectives, ''e.g.'' 'polite', can use either form, with different frequencies according to context.&lt;ref&gt;{{cite web |url=http://www.natcorp.ox.ac.uk/archive/papers/kytorom.html |title=Competing forms of adjective comparison in modern English: What could be more quicker and easier and more effective? |first1=Merja |last1=Kytö |first2=Suzanne |last2=Romaine |date=21 June 2013}}&lt;/ref&gt;
+
+===Morphological comparison===
+
+Morphological comparison uses the [[suffix]]es ''-er'' (the "comparative") and ''-est'' (the "superlative"). These inflections are of [[Germanic languages|Germanic]] origin and are [[cognate]] with the [[Latin]] suffixes -''ior'' and -''issimus'' and Ancient Greek -''īōn'' and -''istos''. They are typically added to shorter words, words of [[Old English language|Anglo-Saxon]] origin, and borrowed words which have been fully assimilated into the English vocabulary. Usually the words which take these [[inflection]]s have fewer than three syllables.
+
+This system also contains a number of irregular forms, some of which, like "good", "better", and "best", contain [[suppletion|suppletive]] forms. These irregular forms include:
+
+{| class="wikitable"
+|-
+! Positive !! Comparative !! Superlative
+|-
+| good || rowspan="2" | better || rowspan="2" | best
+|-
+| well
+|-
+| bad, evil || rowspan="2" | worse || rowspan="2" | worst
+|-
+| ill
+|-
+| rowspan="2" | far || farther || farthest
+|-
+| further || furthest
+|-
+| little || less(er) || least
+|-
+| many, much || more || most
+|}
+
+===Syntactic comparison===
+The second system of comparison in English appends the [[grammatical particle]]s "more" and "most", themselves the irregular comparatives of "many" and  "much", to the adjective or adverb being modified. This series can be compared to a system containing the [[diminutive]]s "less" and "least".
+
+This system is most commonly used with words of French or Latin derivation; with adjectives and adverbs formed with suffixes other than ''-ly'' (e.g., "beautiful"); and with longer, technical, or infrequently used words. For example:
+
+{| class="wikitable"
+|-
+! Positive !! Comparative !! Superlative
+|-
+| beautiful || more beautiful || most beautiful
+|}
+
+===Absolute adjectives===
+{{Refimprove section|date=November 2015}}
+
+Some adjectives, the [[ungradable adjective|absolute or ungradable adjectives]] do not appear to logically allow degrees. Some qualities are either ''present'' or ''absent'', such as being Cretaceous or igneous, so it appears illogical to call anything "very Cretaceous", or to characterize something as "more igneous" than something else.
+
+Some grammarians object to the use of the superlative or comparative with words such as ''full'', ''complete'', ''unique'', or ''empty'', which by definition already denote either a totality, an absence, or an absolute.&lt;ref&gt;{{citation
+|last = Quirk
+|first = Randolph
+|last2 = Greenbaum
+|first2 = Sidney
+|last3 = Leech
+|first3 = Geoffrey
+|last4 = Svartvik
+|first4 = Jan
+|year = 1985
+|title = A Comprehensive Grammar of the English Language
+|publisher = Longman
+|pages=404, 593
+}}&lt;/ref&gt; However, such words are routinely and frequently qualified in contemporary speech and writing. This type of usage conveys more of a [[Literal and figurative language|figurative]] than a literal meaning, because in a strictly literal sense, something cannot be more or less unique or empty to a greater or lesser degree.
+
+Many [[prescriptive grammar]]s and [[English usage|style guides]] include adjectives for inherently superlative qualities to be ungradable. Thus, they reject expressions such as ''more perfect'', ''most unique'', and ''most parallel'' as illogical [[pleonasm]]s: after all, if something is unique, it is one of a kind, so nothing can be "very unique", or "more unique" than something else.
+
+Other style guides argue that terms like ''perfect'' and ''parallel'' never apply ''exactly'' to things in real life, so they are commonly used to mean ''nearly perfect'', ''nearly parallel'', and so on; in this sense, ''more perfect'' (''i.e.'', more nearly perfect, closer to perfect) and ''more parallel'' (''i.e.'', more nearly parallel, closer to parallel) are meaningful.
+
+==Balto-Slavic languages==
+In most [[Balto-Slavic languages]] (such as Czech, Polish, Lithuanian and Latvian), the comparative and superlative forms are also declinable adjectives.
+
+In [[Bulgarian language|Bulgarian]], comparative and superlative forms are formed with the clitics ''по-'' (''more'') and ''най-'' (''most''):
+:''голям'' (''big'')
+:''по-голям'' (''bigger'')
+:''най-голям'' (''biggest'')
+
+In [[Czech language|Czech]], [[Polish language|Polish]], [[Slovak language|Slovak]] and [[Slovenian language|Slovene]], comparative is formed from the base form of an adjective with a suffix and superlative is formed with a circumfix (equivalent to adding a prefix to the comparative).
+:''mladý'' / ''młody'' / ''mladý'' / '' mlad'' (''young'')
+:''mladší'' / ''młodszy'' / ''mladší'' / '' mlajši'' (''younger'')
+:''nejmladší'' / ''najmłodszy'' / ''najmladší'' / '' najmlajši '' (''youngest'')
+
+In [[Russian language|Russian]], comparative and superlative forms are usually formed with a suffix:
+:''добрый'' (''kind'')
+:''добрее'' (''kinder'')
+:''добрейший'' (''kindest'')
+
+==Romance languages==
+In contrast to English, the relative and the superlative are joined into the same degree (the superlative), which can be of two kinds: comparative (e.g. "the most beautiful") and absolute (e.g. "very beautiful").
+
+[[French language|French]]: The superlative is created from the comparative by inserting the definitive article (la, le, or les), or the possessive article (''mon'', ''ton'', ''son'', etc.), before "plus" or "moins" and the adjective determining the noun. For instance: ''Elle est la plus belle femme'' → (she is the most beautiful woman); ''Cette ville est la moins chère de France'' → (this town is the least expensive in France); ''C'est sa plus belle robe'' → (It is her most beautiful dress). It can also be created with the suffix "-issime" but only with certain words, for example: "C'est un homme richissime" → (That is the most rich man). Its use is often rare and ironic.
+
+[[Portuguese language|Portuguese]] and [[Italian language|Italian]] distinguish comparative superlative ''(superlativo relativo)'' and absolute superlative ''(superlativo absoluto/assoluto).
+For the comparative superlative they use the words "mais" and "più" between the article and the adjective, like "most" in English.
+For the absolute superlative they either use "muito"/"molto" and the adjective or modify the adjective by taking away the final vowel and adding ''issimo'' (singular masculine), ''issima'' (singular feminine), ''íssimos''/''issimi'' (plural masculine), or ''íssimas''/''issime'' (plural feminine). For example:
+*''Aquele avião é velocíssimo''/''Quell'aeroplano è velocissimo'' → That airplane is very fast
+There are some irregular forms for some words ending in "-re" and "-le" (deriving from Latin words ending in "-er" and "-ilis") that have a superlative form similar to the Latin one. In the first case words lose the ending "-re" and they gain the endings ''errimo'' (singular masculine), ''errima'' (singular feminine), ''érrimos''/''errimi'' (plural masculine), or ''érrimas''/''errime'' (plural feminine); in the second case words lose the "-l"/"-le" ending and gain ''ílimo''/''illimo'' (singular masculine), ''ílima''/''illima'' (singular feminine), ''ílimos''/''illimi'' (plural masculine), or ''íli
+[[Romanian language|Romanian]], similar to Portuguese and Italian, distinguishes comparative and absolute superlatives. The comparative uses the word "mai" before the adjective, which operates like "more" or "-er" in English. For example: ''luminos'' → bright, ''mai luminos'' → brighter. To weaken the adjective, the word "puțin" (little) is added between "mai" and the adjective, for example ''mai puțin luminos'' → less bright. For absolute superlatives, the gender-dependent determinant "cel" precedes "mai," conjugated as "cel / cei" for male singular / plural and "cea / cele" for female singular / plural. For example: ''cea mai luminoasă stea'' → the brightest star; ''cele mai frumoase fete'' → the most beautiful girls; ''cel mai mic morcov'' → the smallest carrot.
+
+==Celtic languages==
+[[Scottish Gaelic language|Scottish Gaelic]]: When comparing one entity to another in the present or the future tense, the adjective is changed by adding an ''e'' to the end and ''i'' before the final consonant(s) if the final vowel is broad. Then, the adjective is preceded by "nas" to say "more," and ''as'' to say "most." (The word ''na'' is used to mean ''than''.) Adjectives that begin with ''f'' are lenited.  and ''as'' use different syntax constructions. For example:
+Tha mi nas àirde na mo pheathraichean.'' → I am taller than my sisters.
+Is mi as àirde.'' → I am the tallest.
+
+As in English, some forms are irregular, i.e. nas fheàrr (better), nas miosa (worse), etc.
+
+In other tenses, ''nas'' is replaced by ''na bu'' and ''as'' by ''a bu,'' both of which [[Lenition|lenite]] the adjective if possible. If the adjective begins with a vowel or an ''f'' followed by a vowel, the word ''bu'' is reduced to ''b'''. For example:
+
+*''Bha mi na b' àirde na mo pheathraichean.'' → I was taller than my sisters.
+*''B' e mi a b' àirde.'' → I was the tallest.
+
+[[Welsh Language|Welsh]] is similar to English in many respects.  The ending ''-af'' is added onto regular adjectives in a similar manner to the English ''-est'', and with (most) long words ''mwyaf'' precedes it, as in the English ''most''.  Also, many of the most common adjectives are irregular.  Unlike English, however, when comparing just two things, the superlative ''must'' be used, e.g. of two people - ''John ydy'r talaf'' (John is the tallest).
+
+==Akkadian==
+[[Image:AmarnaLetterOfMarriageNegotiation-BritishMuseum-August19-08.jpg|right|240px|thumb|[[Amarna letter EA 19]], Para 2, (last line): "...the Gods and (our Kingly relations), forever"..."''may it be'', (one verb, (5 signs, e-le-[[ni (cuneiform)|né]]-ep-pi)), ''I-n-t-e-r-R-e-l-a-t-e-d''-!." &lt;br&gt;(The first sign "e" is rubbed off; only a space-(depression) locates it.)-(high resolution expandible photo)]]
+In [[Akkadian language|Akkadian]] [[cuneiform]], (on a 12 paragraph [[clay tablet]]), from the [[time period]] of the 1350 BC [[Amarna letters]] (a roughly 20-year [[text corpus|body]] of letters), two striking examples of the superlative extend the common grammatical use. The first is the numeral "10," as well as "7 and 7." The second is a verb-spacement adjustment.
+
+The term [[Amarna letters-phrases and quotations#7 times and 7 times again|"7 and 7"]] means 'over and over'. The phrase itself is a superlative, but an addition to some of the Amarna letters adds "more" at the end of the phrase (EA 283, ''Oh to see the King-(pharaoh)):'' ''"... I fall at the feet of the king, my lord. I fall at the feet of the king, my lord, 7 and 7 times'' '''''more,''''' ''...."''.&lt;ref name=Moran&gt;{{citation
+|last = Moran
+|first = William L.
+|authorlink=William L. Moran
+|origyear = 1987|year = 1992
+|title = The Amarna Letters
+|url = https://www.amazon.com/Amarna-Letters-William-L-Moran/dp/0801867150#reader_0801867150
+|edition = 2nd
+|publisher = Johns Hopkins University Press
+|place = Baltimore
+|isbn = 0-80186-715-0
+}}&lt;/ref&gt;{{rp|323–324}} The word 'more' is Akkadian ''mila'', and by Moran is 'more' or 'overflowing'. The meaning in its letter context is "...over and over again, overflowing," (as 'gushingly', or 'obsequiously', as an underling of the king).
+
+The numeral 10 is used for ''ten times greater'' in EA 19, ''Love and Gold'', one of King [[Tushratta]]'s eleven letters to the Pharaoh-([[Amenhotep IV]]-''[[Akhenaton]]''). The following quote using 10, also closes out the small paragraph by the second example of the superlative, where the verb that ends the last sentence is spread across the letter in s-p-a-c-i-n-g, to accentuate the last sentence, and the verb itself (i.e. the relational kingly topic of the paragraph):
+
+:''".... Now, in keeping with our constant and mutual love, you have made it'' '''10''' ''times greater than the love shown my father. May the gods grant it, and may [[Teshub|Teššup]], my lord, and [[Amun|Aman]] make'' flourish ''for evermore, just as it is now, this mutual love of ours.''&lt;ref name="Moran" /&gt;{{rp|42–46}}
+
+The actual last paragraph line contains three words: 'may it be', 'flourish', and 'us'. The verb flourish (from napāhu?, ''to light up, to rise''), uses: -e-le-[[ni (cuneiform)|né]]-ep-pi-, and the spaces. The other two words on the line, are made from two characters, and then one: ''"...may it be, flourish-our (relations)."''
+
+==Estonian==
+In Estonian, the superlative form can usually be formed in two ways. One is a periphrastic construction with ''kõige'' followed by the comparative form. This form exists for all adjectives. For example: the comparative form of ''sinine'' 'blue' is ''sinisem'' and therefore the periphrastic superlative form is ''kõige sinisem''. There is also a synthetic ("short") superlative form, which is formed by adding ''-m'' to the end of the plural partitive case. For ''sinine'' the plural partitive form is ''siniseid'' and so ''siniseim'' is the short superlative. The short superlative does not exist for all adjectives and, in contrast to the ''kõige''-form, has a lot of exceptions.
+
+== See also ==
+* [[Augmentative]]
+* [[Equative case]]
+* [[Fewer vs. less]]
+* [[Greatness]]
+* [[Intensifier]]
+
+== References ==
+{{reflist}}
+
+[[Category:Grammatical categories]]
+[[Category:Comparisons]]
+[[Category:Superlatives| ]]</text>
+      <sha1>n3rb78pkd619a6dco5jha0qd5to488l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Comparison of Star Trek and Star Wars</title>
+    <ns>0</ns>
+    <id>13243925</id>
+    <revision>
+      <id>869466182</id>
+      <parentid>860103587</parentid>
+      <timestamp>2018-11-18T20:10:33Z</timestamp>
+      <contributor>
+        <username>Kaiketsu</username>
+        <id>3563616</id>
+      </contributor>
+      <comment>/* Comic relief */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29604">{{DISPLAYTITLE:Comparison of ''Star Trek'' and ''Star Wars''}}
+{{More citations needed|date=September 2016}}
+[[File:Star Trek and Star Wars fans in costume.jpg|thumb|A fan of ''Star Trek'' dressed in [[Starfleet]] uniform (left) and a fan of ''Star Wars'' dressed in Imperial [[Death Star]] gunner uniform (right) at a fan convention.]]
+''[[Star Trek]]'' and ''[[Star Wars]]'' are American [[media franchise]]s which present alternative scenarios of space adventure. The two franchises are dominant in this setting of storytelling and have offered various forms of media productions for decades that manage billions of dollars of [[intellectual property]], providing employment and [[entertainment]] for billions of people around the world.&lt;ref name="HC"&gt;{{citation|url=http://www.thecrimson.com/article.aspx?ref=130035|title=Trekkers VS Lucasites|date=May 14, 1999|author=Richard Ho|work=[[The Harvard Crimson]]}}&lt;/ref&gt;
+
+==Background==
+{{expand section|date=June 2014}}
+''Star Trek'' was introduced as [[Star Trek: The Original Series|a live-action television series]] in 1966 that lasted three years. ''[[Star Trek: The Animated Series]]'' commenced in 1973 (based directly on the original series) but lasted only two seasons with a combined total of 22 episodes.&lt;ref name="Forbeck2011"&gt;{{cite book|first=Matt |last=Forbeck|title=Star Wars vs. Star Trek: Could the Empire kick the Federation's ass? And other galaxy-shaking enigmas|url={{google books |plainurl=y |id=J1sSa6uBdlQC}}|date=18 April 2011|publisher=Adams Media|isbn=1-4405-2577-3}}&lt;/ref&gt; With the subsequent publication of novels, comics, animated series, toys and feature films, ''Star Trek'' grew into a popular media franchise.&lt;ref&gt;{{cite web|url=https://www.telegraph.co.uk/films/2016/07/18/star-trek-vs-star-wars-the-space-battle-that-will-never-end/|title=Star Trek vs Star Wars: the space battle that will never end|publisher=}}&lt;/ref&gt;
+
+''Star Wars'' was introduced as a feature film, ''[[A New Hope (film)|A New Hope]]'' (1977). A novelization titled ''[[Star Wars: From the Adventures of Luke Skywalker]]'', based on the original script of the film, was published about a year earlier. Upon the release of the first film, ''Star Wars'' quickly grew into a popular media franchise.&lt;ref name="Forbeck2011"/&gt;
+
+==Differences==
+''Star Trek'' debuted in television. The franchise was conceived in the style of the television Western ''[[Wagon Train]]'' and the adventure stories of [[Horatio Hornblower]], but evolved into an idealistic, [[utopia]]n prospect of future human society. Inspired by ''[[Gulliver's Travels]]'',&lt;ref name="Simon1999"&gt;{{cite book|author=Richard Keller Simon|title=Trash Culture: Popular Culture and the Great Tradition|url=https://books.google.com/books?id=tOtvQHj1AdIC&amp;pg=PA139|date=23 November 1999|publisher=University of California Press|isbn=978-0-520-92442-0|pages=139–}}&lt;/ref&gt;&lt;ref name="Clark2012"&gt;{{cite book|author=Mark Clark|title=Star Trek FAQ: Everything Left to Know About the First Voyages of the Starship Enterprise|url=https://books.google.com/books?id=s_lxVMh_5xwC&amp;pg=PT22|date=1 April 2012|publisher=Applause Theatre &amp; Cinema Books|isbn=978-1-55783-963-3|pages=22–}}&lt;/ref&gt; ''Star Trek''{{'}}s main focus is of space exploration and a galactic society consisting of multiple planets and species, where conflict occasionally occurs. ''Star Trek'' occurs in the relatively distant future, specifically the 22nd through 24th centuries, with occasional [[Time travel in fiction|time travel]] and [[Multiverse|interdimensional travel]]. The [[Earth in science fiction|Earth of the ''Star Trek'']] universe shares most of its history with the real world.
+
+''Star Wars'' debuted in film, despite the novel based on the film's original script having been published a year before the film itself. ''Star Wars'' mainly belongs to the [[space opera]] [[subgenre]] of science fiction that follows [[The Hero's Journey]]&lt;ref&gt;Clive Williams, The Hero’s Journey: A Mudmap for Change, Journal of Humanistic Psychology, (002216781770549), (2017).
+Crossref&lt;/ref&gt; and was inspired by works such as [[Beowulf]], [[King Arthur]]&lt;ref name=Dreams&gt;''[[Empire of Dreams: The Story of the Star Wars Trilogy]]''. ''Star Wars'' Trilogy Box Set DVD documentary. [2005]&lt;/ref&gt; and other mythologies, world religions, as well as ancient and medieval history.&lt;ref name="auto3"&gt;{{cite book|last=Lucasfilm|title=Star Wars and History|url={{google books |plainurl=y |id=m81Bg4E_y_IC}}|date=15 October 2012|publisher=Wiley|isbn=978-1-118-28525-1}}&lt;/ref&gt; It depicts a galactic society in constant conflict. Though there are periods of peace, these are only documented in novels, comics, video games, non-feature films and other spin-off media. ''Star Wars'' is set "a long time ago, in a galaxy far, far away", although many characters are human, occasionally use [[Earth]] metaphors and exhibit human character traits.{{citation needed|date=August 2015}}
+
+Although both ''Star Trek'' and ''Star Wars'' populate various forms of media, not all types have been produced that are mutual to both franchises. ''Star Wars'' has not produced any live-action television series while ''Star Trek'' has produced seven live-action television series.
+
+''Star Trek'' likewise has not produced any [[television film]]s; whereas ''Star Wars'' has produced at least three live-action television films outside the ''Star Wars'' film saga. The ''[[Star Wars Holiday Special]]'', ''[[Ewoks: Caravan of Courage]]'' and ''[[Ewoks: Battle for Endor]]'' are all live-action television spin-off films set in the ''Star Wars'' universe, but not considered part of the official ''[[Star Wars expanded universe|Star Wars canon]]''.
+
+===Runtime===
+* ~513 hours (''Star Trek'' television) + ~25 hours (''Star Trek'' films)
+* ~84 hours (''Star Wars'' films) + ''Star Wars'' canon series + expanded universe films and TV productions.
+
+==Similarities and commonalities==
+Aside from both having the word ''star'' in their titles, the two franchises share many similarities and commonalities. Both franchises have their origins in the [[space western]] subgenre.{{citation needed|date=April 2018}}
+
+Both stories depict societies consisting of multiple planets and species. The main galaxy in ''Star Trek'' consists of various planets, each inhabited by different species, united into a single state, the [[United Federation of Planets]]. ''Star Wars'' depicts a galaxy that is mostly part of a single state known as the [[Galactic Republic|Old Republic]], inhabited by humans and countless other species, which later became the [[Galactic Empire (Star Wars)|Galactic Empire]] and was again later reformed into a new society called the [[New Republic (Star Wars)|New Republic]] after a series of wars.
+
+Both franchises promote philosophical and political messages.
+
+The primary philosophies of ''Star Trek'' convey the morals of exploration and interference and how to properly confront and ethically resolve a new situation. Creator [[Gene Roddenberry]] was inspired by [[morality play|morality tales]] such as ''[[Gulliver's Travels]]''.&lt;ref name="Simon1999"/&gt;&lt;ref name="Clark2012"/&gt;
+
+The primary philosophical messages of ''Star Wars'' are the ethics of good against evil and how to distinguish them from one another.&lt;ref name="Decker2010"&gt;{{cite book|first=Kevin S. |last=Decker|title=Star Wars and Philosophy: More Powerful Than You Can Possibly Imagine|url={{google books |plainurl=y |id=pDMRdxLocsUC}}|date=1 October 2010|publisher=ReadHowYouWant.com|isbn=978-1-4596-0101-7}}&lt;/ref&gt; ''Star Wars'' preaches against [[Totalitarianism|totalitarian]] systems and favors societies that offer equality.&lt;ref name="Redmond2004"&gt;{{cite book|first=Sean |last=Redmond|title=Liquid Metal: The Science Fiction Film Reader|url={{google books |plainurl=y |id=ha5O_0BCCrgC|page=303}}|year=2004|publisher=Wallflower Press|isbn=978-1-903364-87-1|pages=303–}}&lt;/ref&gt; In an interview on the ''Star Wars'' 20th Anniversary UK Programme aired in 1997 referring to the mythology of the original ''Star Wars'' trilogy, [[Patrick Stewart]] stated "A belief in one's own powers; especially one's own powers to do good because the underlying morality of ''Star Wars'' is a very very positive one."
+
+There have been actors from both franchises who have appeared on common television series such as ''[[The Outer Limits (1995 TV series)|The Outer Limits]]'' and ''Seaquest''.
+
+Both franchises also derive significantly from history and ancient mythology, including [[Classical mythology|Greco-Roman mythology]]. Many planets and alien species in ''Star Trek'', for instance, are named after ancient Roman deities. Several episodes from various ''Star Trek'' television series, such as "[[Who Mourns for Adonais]]", are directly based on ancient Greek-Roman themes and settings.&lt;ref name="Kapell2010"&gt;{{cite book|first=Matthew Wilhelm |last=Kapell|title=Star Trek as Myth: Essays on Symbol and Archetype at the Final Frontier|url={{google books |plainurl=y |id=hWS7v3pGynUC}}|date=1 March 2010|publisher=McFarland|isbn=978-0-7864-5594-2}}&lt;/ref&gt; The series also make references to [[Babylon|Ancient Babylon]] and its [[Babylonian religion|mythic folklore]].&lt;ref&gt;{{cite web|url=http://ksarchive.com/viewstory.php?sid=4899|title=Star Trek as Myth Through an Analysis of the Similarities and Differences Between the Gilgamesh/Enkidu and Kirk/Spock Relationships|publisher=The Kirk/Spock fanfiction archive}}&lt;/ref&gt; The [[Klingon]]s and their warrior culture are a representation of the 12th-century [[Mongols]].&lt;ref&gt;{{cite web|url=http://www.transparencynow.com/startrek/startrek1.htm|title=Star Trek And the New Myth of the Machine as Seen in the Talosians, Trelane, and the Organians|work=Ken Sanes|publisher=Transperancy}}&lt;/ref&gt;
+
+Much of ''Star Wars''{{'}} story plots and character developments are based on ancient history, including [[Classical antiquity|classical Greece and Rome]], such as the fall of the [[Galactic Republic|Old Republic]] in ''Star Wars'', followed by the rise of the [[Galactic Empire (Star Wars)|Galactic Empire]], which parallels the fall of the ancient [[Roman Republic]] followed by the rise of the [[Roman Empire]].&lt;ref name="auto3" /&gt;
+
+A 1983 documentary on the making of ''[[Return of the Jedi|Star Wars Episode VI: Return of the Jedi]]'' was hosted by [[Leonard Nimoy]], who also made mention of Lucas's original plan to do two other trilogies preceding and proceeding the original trilogy.&lt;ref&gt;{{citeweb|url=http://www.blastr.com/2014-2-20/leonard-nimoy-hosts-1983-return-jedi-set-visit-awesome-long-lost-clip|title=Leonard Nimoy hosts 1983 Return of the Jedi set visit in this awesome, long-lost clip|work=Trent Moore|publisher=SyFyWire}}&lt;/ref&gt;
+
+=== Abrams era ===
+[[J. J. Abrams]], director and producer of ''[[Star Trek (film)|Star Trek]]'' (2009) and ''[[Star Trek Into Darkness]]'' (2013) and producer of ''[[Star Trek Beyond]]'' (2016), directed and produced ''[[Star Wars: The Force Awakens]]'' (2015). ''Star Trek'' (2009) and ''Star Wars: The Force Awakens'' (2015) are each the first entries in expected trilogies. These films received favorable critical and commercial response and revived interest for both franchises. In addition to Abrams, actors such as [[Simon Pegg]] starred in both series.
+
+''[[Star Trek: Nemesis]]'' (2002) was poorly received and ''[[Star Wars: Episode III – Revenge of the Sith]]'' (2005) had capped off the prequel trilogy, which overall had a mixed to positive reception.
+
+The newer films of the two franchises filmed major scenes in the [[United Arab Emirates]]. The desert scenes on the planet Jakku in ''Star Wars: The Force Awakens'' (2015) were filmed in the Emirate of [[Abu Dhabi]],&lt;ref&gt;{{cite web|url=http://deadline.com/2016/01/star-wars-abu-dhabi-the-worthy-zinzana-rattle-the-cage-justice-1201677541/|title=Star Wars: The Force Awakens Helps Abu Dhabi Build Road To Somewhere - Deadline|author=Ali Jaafar|work=Deadline}}&lt;/ref&gt; while scenes for cities in the film ''Star Trek Beyond'' (2016) were filmed in the Emirate of [[Dubai]].&lt;ref&gt;{{cite web|url=http://www.emirates247.com/entertainment/star-trek-beyond-descends-on-dubai-jlt-difc-raided-2015-10-13-1.606444|title='Star Trek Beyond' descends on Dubai: JLT, DIFC 'raided'|work=Emirates 24-7}}&lt;/ref&gt;
+
+The two franchises now offer almost all forms of media ranging from novels, television series, comic books, toys for younger audience, magazines, themed merchandise, board games and video games, as well as fan works. These include [[Canon (fiction)|canonical]] and non-canonical works, including works made both by series producers and fans jointly.
+
+==Estimated financial comparisons==
+Despite the difference in the numbers of films, the profit made by the ''Star Wars'' film series exceed the profit of the ''Star Trek'' film series by almost five times, while the entire franchise outgrosses the other by four times. It is difficult to accurately judge the total worth of each franchise as television series, memorabilia and video games must be taken into account.
+
+{| class="wikitable"
+|+''Star Trek'' films ($ million)
+|-
+!Year
+!Title   
+!Budget
+!Box Office
+!Net
+|-
+|1979
+|'''''The Motion Picture'''''
+|35 
+|139 
+|104 
+|-
+|1982
+|'''''The Wrath of Khan'''''
+|12 
+|96 
+|84 
+|-
+|1984
+|'''''The Search for Spock'''''
+|18 
+|87 
+|69 
+|-
+|1986
+|'''''The Voyage Home'''''
+|24 
+|133 
+|109 
+|-
+|1989
+|'''''The Final Frontier'''''
+|30 
+|70 
+|40 
+|-
+|1991
+|'''''The Undiscovered Country'''''
+|27 
+|96.9 
+|69.9 
+|-
+|1994
+|'''''Generations'''''
+|38 
+|120 
+|82 
+|-
+|1996
+|'''''First Contact'''''
+|46 
+|150 
+|104 
+|-
+|1998
+|'''''Insurrection'''''
+|70 
+|117 
+|47 
+|-
+|2002
+|'''''Nemesis'''''
+|60 
+|67 
+|7 
+|-
+|2009
+|'''''Star Trek''''' (reboot)
+|140 
+|386 
+|246 
+|-
+|2013
+|'''''Into Darkness'''''
+|190 
+|467 
+|277 
+|-
+|2016
+|'''''Beyond'''''
+|185 
+|343
+|158 
+|-
+!Total
+!
+!875
+!2,272
+!1,397
+|}
+
+{| class="wikitable"
+|+''Star Wars'' films ($ million)
+!Year
+!Title
+!Budget
+!Box Office
+!Net
+|-
+|1977
+|'''''A New Hope'''''
+|11 
+|786.6 
+|775.6 
+|-
+|1980
+|'''''The Empire Strikes Back'''''
+|23 
+|534.1 
+|511.1 
+|-
+|1983
+|'''''Return of the Jedi'''''
+|32.5 
+|572.7 
+|540.2 
+|-
+|1999
+|'''''The Phantom Menace'''''
+|115 
+|1027 
+|912 
+|-
+|2002
+|'''''Attack of the Clones'''''
+|115 
+|656.6 
+|541.6 
+|-
+|2005
+|'''''Revenge of the Sith'''''
+|115 
+|848.9 
+|733.9 
+|-
+|2008
+|'''''The Clone Wars'''''
+|8.5 
+|68.6 
+|60.1 
+|-
+|2015
+|'''''The Force Awakens'''''
+|306 
+|2058 
+|1752 
+|-
+|2016
+|'''''Rogue One'''''
+|200 
+|1056 
+|856
+|-
+|2017
+|'''''The Last Jedi'''''
+|200
+|1321
+|1121
+|-
+!Total
+!
+!1,126
+!8,929.5
+!7,803.5
+|}
+{| class="wikitable sortable" style="font-size:85%;"
+|-
+! style="width:15%;"| Franchise
+! style="width:15%;"| Year of inception 
+! style="width:15%;"| Total Revenue
+|-
+| Star Trek
+| 1966
+| $10 Billion (as of 2016)&lt;ref&gt;{{cite web|url=http://america.cgtn.com/2016/07/26/business-of-star-trek-franchise-celebrates-50th-anniversary|title=Business of ‘Star Trek’: Franchise celebrates 50th anniversary|website=[[China Global Television Network|CGTN]]|date=July 26, 2016|accessdate=February 24, 2017}}&lt;/ref&gt;
+|-
+| Star Wars
+| 1977
+| $42 Billion (as of 2015)&lt;ref&gt;{{cite web|last=Chew|first=Jonathan|url=http://fortune.com/2015/12/24/star-wars-value-worth/|title=Star Wars Franchise Worth More Than Harry Potter and James Bond, Combined|publisher=[[Fortune (magazine)|Fortune]]|date=December 24, 2015|accessdate=February 24, 2017}}&lt;/ref&gt;
+|}
+
+==Critique and commentaries==
+Science fiction writer [[David Brin]] criticized ''Star Wars'' at the time of the release of ''The Phantom Menace'', arguing that while the ''Star Wars'' movies provide special effects and action/adventure, audiences are not encouraged to engage with their overriding themes. Among his issues with ''Star Wars'' and George Lucas, whom he accused of "having an agenda", is that the ''Star Wars'' galaxy is too "elitist", with arbitrary rulers on both the evil and good sides, replacing one another without any involvement of the population. He criticizes both sides of the [[Galactic Civil War]] as part of the "same genetically superior royal family".&lt;ref name="auto1"&gt;{{cite web|url=http://www.salon.com/1999/06/15/brin_main/|title="Star Wars" despots vs. "Star Trek" populists|first=David|last=Brin|publisher=}}&lt;/ref&gt; He finds the ''Star Wars'' universe flawed with additional forms of absolutism, such as justified emotions leading a good person to evil - for example citing the idea that [[Luke Skywalker]] killing [[Palpatine]] would somehow turn him to the dark side, despite the act potentially saving millions of lives.&lt;ref name="auto1" /&gt;
+
+Among the many other flaws he sees with ''Star Wars'' is that [[Anakin Skywalker]] becomes a hero in the ending of ''Return of the Jedi'' simply because he saved his son's life, while the atrocities he committed during his time in power go largely ignored. In contrast, he argues that, despite its flaws, ''Star Trek'' is "democratic" and follows genuine issues and strong questioning.&lt;ref name="auto1" /&gt;
+
+[[William Shatner]] argues that ''Star Trek'' is superior to ''Star Wars''. According to him, "''Star Trek'' had relationships and conflict among the relationships and stories that involved humanity and philosophical questions."&lt;ref name="auto2" /&gt; Shatner believes that ''Star Wars'' was only better than ''Star Trek'' in terms of special effects, and that once J.J. Abrams became involved, ''Star Trek'' was able to "supersede ''Star Wars'' on every level".&lt;ref name="auto2"&gt;{{cite web|url=http://www.huffingtonpost.com/2011/09/15/william-shatner-star-trek-star-wars_n_964530.html|title=William Shatner: 'Star Wars Is Derivative Of Star Trek'|first1=Gazelle Emami Deputy Features|last1=Editor|first2=The Huffington|last2=Post|date=15 September 2011|publisher=}}&lt;/ref&gt;
+
+[[Tim Russ]], who played [[Tuvok]] on ''[[Star Trek: Voyager]]'', claims that it is difficult to find common enough elements to be able to compare the two. Among those common elements are their similar settings of unique characters and technologies. He echoed Shatner that ''Star Trek'' reflects common human issues, the morals of exploration and considers ethical questions. ''Star Wars'' in his view is a classic medieval tale dressed up as action-adventure, and that embraces the [[Eastern philosophy]] of inner-strength. Russ concludes that despite both their success and popularity, ''Star Trek'' comes out as the better of the two, as it is set in "our" galaxy and therefore people can relate better to it, whereas ''Star Wars'' takes place in another galaxy. He acknowledged that he could be biased.&lt;ref name="Forbeck2011"/&gt;
+
+[[Jeremy Bulloch]] is best known for his role as [[Boba Fett]] in the original ''Star Wars'' trilogy. He is a huge fan of ''Star Trek: The Original Series''. He argued that while both franchises are popular, ''Star Wars'' comes out as the superior, for its soundtracks and special effects.&lt;ref name="Forbeck2011"/&gt;
+
+Contrasting the focus of the two franchises, contributor J.C. Herzthe of ''[[The New York Times]]'' argued, "''Trek'' fandom revolves around technology because the ''Star Trek'' universe was founded on ham-fisted dialogue and ''Gong Show''-caliber acting. But the fictional science has always been brilliant. [[Physics and Star Wars|The science in ''Star Wars'']] is nonsense, and everyone knows it. But no one cares because ''Star Wars'' isn't about science. It's epic drama. It's about those incredibly well-developed characters and the moral decisions they face. People don't get into debates about how the second [[Death Star]] works. They get into debates about the ethics of blowing it up."&lt;ref&gt;{{cite web|url=https://www.nytimes.com/1998/10/29/technology/game-theory-star-wars-world-with-a-sense-of-humor.html|title='Star Wars' World With a Sense of Humor|date=29 October 1998|work=The New York Times}}&lt;/ref&gt;
+
+John Wenzel of ''[[The Denver Post]]'' highlighted two differences in approach, noting the "swashbuckling" and "gunslinger" style of ''Star Wars'' compared with ''Star Trek''{{'}}s "broader themes of utopian living, justice and identity" and that the spiritual aspect of ''Star Wars'' contrasts with the balance of emotion and logic seen in ''Star Trek''.&lt;ref&gt;{{cite web|url=http://www.denverpost.com/entertainment/ci_13518101|title="Star Wars" vs. "Star Trek": The final frontier of marketing is an expanding universe|author=John Wenzel|date=11 October 2009|publisher=The Denver Post}}&lt;/ref&gt;
+
+Billionaire [[Peter Thiel]] told Dowd "I'm a capitalist. ''Star Wars'' is the capitalist show. ''Star Trek'' is the communist one". He further stated "There is no money in ''Star Trek'' because you just have the transporter machine that can make anything you need. The whole plot of ''Star Wars'' starts with [[Han Solo]] having this debt that he owes and so the plot in ''Star Wars'' is driven by money."&lt;ref&gt;{{cite web|url=http://www.thewrap.com/peter-thiel-star-trek-communist-star-wars-capitalist/|title=Peter Thiel Thinks 'Star Trek' Is 'Communist' While 'Star Wars' Is 'Capitalist'|date=11 January 2017|publisher=}}&lt;/ref&gt;
+
+Archived footage in ''[[Trek Nation]]'' showed [[Gene Roddenberry]] saying, "I like ''Star Wars''. It was young King Arthur growing up, slaying the evil emperor finally. There's nothing wrong with that kind of entertainment - everything doesn't have to create a philosophy for you - for your whole life. You can also have fun."&lt;ref name="auto4"&gt;[[Trek Nation]] [2010 documentary]&lt;/ref&gt;
+
+==Influences on each other==
+{{see also|Star Wars sources and analogues}} 
+The two franchises have a "symbiotic relationship" stated Shatner, who credits ''Star Wars'' for launching the [[Star Trek (film series)|''Star Trek'' films]].&lt;ref name="dominguez19990517"&gt;{{cite news | url=http://articles.nydailynews.com/1999-05-17/entertainment/18105136_1_star-trek-memories-william-shatner-convention-speaker | archiveurl=https://web.archive.org/web/20120112134840/http://articles.nydailynews.com/1999-05-17/entertainment/18105136_1_star-trek-memories-william-shatner-convention-speaker | archivedate=2012-01-12 | title=William Shatner's Trek Never Ends The Actor-author Keeps Seeking New Challenges While Feeding Fans' Hunger For All Things Kirk | work=New York Daily News | date=1999-05-17 | accessdate=October 14, 2011 | author=Dominguez, Robert}}&lt;/ref&gt; He repeated this sentiment at a 2016 ''Star Trek'' fan convention in [[Las Vegas]] by stating "''Star Wars'' created ''Star Trek''". He clarified this statement by explaining that at the time of the release of the first ''Star Wars'' film (''A New Hope''), Paramount, then under new management, was struggling to come up with something that could compete with it. A ''Star Trek'' relaunch was the choice. Since then, public interest has returned to ''Star Trek''.&lt;ref&gt;{{cite web|url=http://comicbook.com/2016/08/07/william-shatner-says-star-wars-created-star-trek/|title=William Shatner Says Star Wars Created Star Trek|publisher=}}&lt;/ref&gt; "It was ''Star Wars'' that thrust ''Star Trek'' into the people of Paramount's consciousness" Shatner stated.&lt;ref&gt;{{cite web|url=http://money.cnn.com/2016/08/06/media/william-shatner-star-wars-star-trek/index.html|title=Captain Kirk thanks Star Wars!|first=Jose|last=Pagliery|date=6 August 2016|website=CNNMoney}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://mashable.com/2016/08/07/star-trek-star-wars-shatner/|title=William Shatner: 'Star Trek' owes a big thanks to 'Star Wars'|first=Adam|last=Rosenberg|website=Mashable}}&lt;/ref&gt;
+
+The documentary ''[[Trek Nation]]'' features interviews where both Lucas and Roddenberry praise each other's respective franchises, with the former stating that ''Star Trek'' was an influence while writing the original screenplay for ''Star Wars''.&lt;ref name="auto4"/&gt; He explained that while both franchises were so "far out", ''Star Trek'' produced a fanbase that "softened up the entertainment arena" so that ''Star Wars'' could "come along and stand on its shoulders."&lt;ref&gt;{{cite web|url=http://www.denofgeek.com/movies/star-wars/26348/george-lucas-on-how-star-trek-helped-star-wars|title=George Lucas on how Star Trek helped Star Wars|publisher=}}&lt;/ref&gt; This is also acknowledged by Shatner, who went as far as to call ''Star Wars'' a "derivative" of ''Star Trek''.&lt;ref name="auto2"/&gt;
+
+A few references to ''Star Wars'' have been inserted into ''Star Trek'' films. For fleeting moments, one can see ships and droids from ''Star Wars'' in both ''Star Trek'' (2009) and ''Star Trek Into Darkness'' (2013).&lt;ref&gt;{{Cite news|url=https://www.theguardian.com/film/2013/sep/10/star-wars-r2d2-star-trek-into-darkness|title=Star Wars droid R2D2 spotted in Star Trek Into Darkness|last=Child|first=Ben|date=2013-09-10|newspaper=The Guardian|language=en-GB|issn=0261-3077|access-date=2016-12-13}}&lt;/ref&gt; Some ''Star Trek'' films and television episodes used the ''Star Wars'' animation shop, [[Industrial Light &amp; Magic]], for their special effects.&lt;ref&gt;{{Cite news|url=http://www.ilm.com/archive/|title=Archive|newspaper=Industrial Light &amp; Magic|language=en-US|access-date=2016-12-13}}&lt;/ref&gt;
+
+When Roddenberry was honored at a ''Star Trek'' convention late in life, a congratulatory letter from Lucas was presented by an actor dressed as [[Darth Vader]]. A few years earlier, Roddenberry had contributed an entry in honor of ''Star Wars'' and Lucas at a convention honoring the latter.{{citation needed|date=August 2015}}
+
+==Comic relief==
+William Shatner was a presenter at Lucas' [[American Film Institute]] Lifetime Achievement Award ceremony in 2007 and did a comical stage performance honoring Lucas.&lt;ref&gt;{{cite web|url=http://americanfilm.afi.com/issue/2013/4/film-exclusive|title=Shatner Honors Lucas|publisher=American Film Institute}}&lt;/ref&gt;
+
+At a live concert, Shatner dressed as an [[Stormtrooper (Star Wars)|imperial stormtrooper]] singing "[[Girl Crush]]" alongside [[Carrie Underwood]] and [[Brad Paisley]].&lt;ref&gt;{{cite web|url=http://www.billboard.com/articles/news/6753087/william-shatner-star-wars-stormtrooper-girl-crush-cmas|title=William Shatner Dresses as 'Star Wars' Stormtrooper, Sings 'Girl Crush' at CMAs|publisher=}}&lt;/ref&gt;
+
+In 2011, Shatner and [[Carrie Fisher]] posted a series of humorous YouTube videos [[satire|satirizing]] each other's franchises.
+
+In a 2016 interview, Shatner commented that [[James T. Kirk|Captain Kirk]] and [[Princess Leia]] eloping and running off into the sunset would be the "perfect union" between ''Star Trek'' and ''Star Wars''.&lt;ref name="auto2"/&gt;
+
+Shatner has also posted a number of humorous tweets on his [[Twitter]] account mocking ''Star Wars''. Amongst them were commemorating the 35th anniversary of the poorly received ''Star Wars Holiday Special''. It was then that ''Star Wars'' actor [[Peter Mayhew]] posted a "retaliation" tweet congratulating Shatner for the directing of ''[[Star Trek V: The Final Frontier]]'', another poorly received film.&lt;ref&gt;{{citeweb|url=https://www.telegraph.co.uk/tv/2017/03/22/william-shatner-cant-stop-trolling-star-wars-fans/|title=William Shatner can't stop trolling Star Wars fans|publisher=The Telegraph}}
+&lt;/ref&gt;
+
+==Future==
+Both franchises are set to grow throughout the next decade.
+
+''Star Trek'' was rebooted with a series of feature films starting with the [[Star Trek (film)|''Star Trek'' reboot]] (2009), which was followed by ''[[Star Trek Into Darkness]]'' (2013) and ''[[Star Trek Beyond]]'' (2016) and a number of sequels are set to follow. A new television series based in the original timeline, subtitled ''[[Star Trek: Discovery|Discovery]]'', serving as a prequel to the original series, debuted on [[CBS All Access]], an online streaming platform, in 2017.&lt;ref&gt;{{cite web|url=http://www.startrek.com/article/new-star-trek-series-premieres-january-2017|title=Star Trek New Star Trek Series Premieres January 2017|work=StarTrek.com}}&lt;/ref&gt;
+
+''Star Wars'' picked up from where ''[[Return of the Jedi]]'' left off, with ''[[Star Wars: The Force Awakens|The Force Awakens]]'' the first in the new trilogy, and ''[[Star Wars: The Last Jedi|The Last Jedi]]'' following two years later. Additionally, more spin-off media is also underway after the debut of ''[[Star Wars Rebels]]'', a television series set in between the ''Star Wars'' prequels and the original trilogy, and an anthology of stand-alone ''Star Wars'' films, starting with ''[[Rogue One]]'', which was released in December 2016, and ''[[Solo: A Star Wars Story|Solo]]'' following in May 2018.&lt;ref&gt;{{Cite news|url=http://www.cinemablend.com/new/Upcoming-Star-Wars-Movies-List-Titles-Release-Dates-100467.html|title=Upcoming Star Wars Movies: List Of Titles And Release Dates - CINEMABLEND|date=2015-12-16|newspaper=CINEMABLEND|access-date=2016-12-13}}&lt;/ref&gt;
+
+===Fan works===
+{{further|Star Trek fan productions|Star Wars fan films}}
+Aside from official works by the producers of ''Star Trek'' and ''Star Wars'', many [[fan film]]s and [[webisode]]s set in the two universes of the franchises are also constantly produced and posted on the Internet by fans, but are not officially considered [[canon (fiction)|canon]] in relation to either franchise.
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Memory Alpha|Star Wars}}
+* [http://www.stardestroyer.net/Empire/ stardestroyer.net] a website that compares ''Star Trek'' and ''Star Wars'' from both in-universe and intellectual perspectives.
+
+{{Star Trek}}
+{{Star Wars}}
+{{Portal bar|Speculative fiction|Star Trek|Star Wars}}
+
+[[Category:Space Westerns]]
+[[Category:Star Trek]]
+[[Category:Star Wars]]
+[[Category:Star Trek fandom]]
+[[Category:Star Wars fandom]]
+[[Category:Comparisons|Star Trek And Star Wars]]
+[[Category:Rivalry|Star Trek And Star Wars]]</text>
+      <sha1>kp8eju1tdcex1rtggqtxg2vwplt84gp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Comparison of the Amundsen and Scott Expeditions</title>
+    <ns>0</ns>
+    <id>16759434</id>
+    <revision>
+      <id>857927985</id>
+      <parentid>850035244</parentid>
+      <timestamp>2018-09-03T23:13:16Z</timestamp>
+      <contributor>
+        <username>Lkmorlan</username>
+        <id>101170</id>
+      </contributor>
+      <minor/>
+      <comment>Fix redirect link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="43442">{{EngvarB|date=October 2013}}
+{{Use dmy dates|date=October 2013}}
+[[File:Antarctic expedition map (Amundsen - Scott)-en-crop.png|thumb|300px|alt= Map of a segment of Antarctica, identifying the polar marches of Scott and Amundsen.|The routes to the South Pole taken by Scott (green) and Amundsen (red), 1911–1912.]]
+
+Between December 1911 and January 1912, both [[Roald Amundsen]] (leading his [[Amundsen's South Pole expedition|South Pole expedition]]) and [[Robert Falcon Scott]] (leading the [[Terra Nova Expedition]]) reached the [[South Pole]] within a month of each other. But while Scott and his four companions died on the return journey, Amundsen's party managed to reach the [[geographic south pole]] first and subsequently return to their base camp at [[Framheim]] without loss of life, suggesting that they were better prepared for the expedition. The contrasting fates of the two teams seeking the same prize at the same time invites comparison.
+
+== Overview ==
+The outcomes of the two expeditions were as follows.
+*Priority at the South Pole: Amundsen beat Scott to the South Pole by 34 days.
+*Fatalities: Scott lost five men including himself returning from the pole, out of a team of 65. Amundsen's entire team of 19 returned to Norway safely.
+*Some authors (including Huntford and Fiennes) associate up to two further deaths (the drowning of Robert Brissenden and the suicide of [[Hjalmar Johansen]]) with the two expeditions, but these happened outside the Antarctic Circle.
+
+Historically, several factors have been discussed and many contributing factors claimed,&lt;ref name="Sullivan" /&gt; including:
+
+* Priority at the pole: Scott wrote that Amundsen's dogs seriously threatened his own polar aspirations, because dogs, being more cold-tolerant than ponies, would be able to start earlier in the season than Scott's mixed transport of dogs, ponies, and motors.&lt;ref&gt;Scott's diary, 22 Feb 1911 "The proper, as well as wiser, course for us is to proceed exactly as though this had not happened. To go forward and do our best for the honour of the country without fear or panic. There is no doubt that Amundsen's plan is a serious menace to ours. He has a shorter distance to the Pole by 60 miles— I never thought he could have got so many dogs safely to the ice. His plan for running them seems excellent. But above all he can start his journey early in the season—an impossible condition with ponies."&lt;/ref&gt;
+* Cherry Garrard in ''[[The Worst Journey in the World]]'' agreed but added that in his experience, dogs would not have been able to ascend the Beardmore Glacier.&lt;ref&gt;Apsley Cherry Garrard, ''The Worst Journey in the World'', chapter 19 "The practical man of the world has plenty of criticism of the way things were done. He says dogs should have been taken [to the Polar Plateau], but he does not show how they could have been got up and down the Beardmore [Glacier]."&lt;/ref&gt;
+* With regards to the causes of the deaths of Scott and his companions, Cherry-Garrard devotes chapter 19 in his book to examine the causes. Among several other factors, he surmised that [[#Food and fuel|the rations of Scott's team were inadequate]] and did not provide enough energy for the men.&lt;ref name="Apsley Cherry Gerrard 1921, page 573"&gt;Apsley Cherry-Garrard, The Worst Journey in the World&amp;nbsp;– Antarctic 1910–13, Chapter XIX, page 573.&lt;/ref&gt;
+* Much of Scott's hauling was to be done by ponies, which are ill-suited to work on snow and ice without snow-shoes. Their relatively small hooves and large weight caused them to sink into anything other than very firm snow or ice. Oates was opposed to snow-shoes and had left most of them at base camp.
+* Ponies' coats easily became soaked with [[perspiration]] during exertion, thus necessitating constant attention with blankets to avoid hypothermia through evaporation. Dogs in contrast do not have sweat glands—they cool themselves via panting, making them less vulnerable to the cold. With ponies, Scott acknowledged he could not depart until 1 November 1911 when the weather would be warmer, leaving him less time to complete the journey.
+* The loss of ponies, several of which had drowned on disintegrating sea-ice, limited the supplies that could be hauled to the depots. Of 19 ponies brought south to aid in laying depots on the Ross Ice Shelf (traversed during the first and final quarters of the trek) nine were lost before the journey began. Further, unlike dogs which could eat the abundant [[Seal meat|seal]] and penguin meat found in Antarctica, the ponies' food had to be carried forward from the ship, vastly increasing the stores that had to be transported as Scott's expedition moved towards the pole.  
+* Had the one-ton depot been placed at latitude 80°&amp;nbsp;S., as planned, Scott and his two surviving companions could have reached it on their return march. Instead, because Scott refused to drive the ponies to their deaths, despite Oates' urgent advice to do so, the depot was placed some 31&amp;nbsp;miles short of there. Scott's party died  11&amp;nbsp;miles south of the depot.
+* The last-minute addition of Lieutenant Henry R. Bowers to the planned four-man pole party may have strained the rationing plan, although the death of Petty Officer Evans weeks later reduced the party to four again.
+* The rations were deficient in B and C vitamins.&lt;ref name=Preston&gt;{{cite book|last= Preston|first= Diana|title= A First Rate Tragedy|publisher= Constable &amp; Co.|location= London|year= 1997|pages= 218–219|isbn= 0-09-479530-4}}&lt;/ref&gt; The party became weaker a few weeks after reaching the pole, despite Scott's racing ambitions before the return march, writing "Now for a desperate struggle to get the news through first [before Amundsen reaches the cablehead in Australia]. I wonder if we can do it."
+* The tins of cooking fuel cached along the return route were found to be partly empty, which forced the men to eat frozen food. Shortage of fuel to melt water likely caused the men to become dehydrated. Apparently the heat of the sun had vaporised part of the fuel, enabling it to escape past the cork stoppers. Amundsen knew about this "creep", and had had the fuel tins soldered shut on the voyage to Antarctica, see below.
+* The weather on the return march seems to have been unusually bad. In particular, when the party reached the Great Ice Barrier, the temperature was much lower than expected for the season, making the surface much less suitable for the sledge runners. Furthermore, the tailwind which they had expected to aid them home did not appear. Scott wrote, in his final "Message to the Public": "...our wreck is certainly due to this sudden advent of severe weather...."
+* The complexity of the transportation plan made it vulnerable. It depended in part on motor-sledges, ponies, dogs, and southerly winds to assist the sledges (which were fitted with sails). Half of the distance was intended to be covered by man-hauling (and sails whenever conditions permitted). Scott's daily marches were limited to the endurance of the slowest team, the man-haulers who were instructed to advance 15 miles a day. The ponies marched by night and rested when the sun was warmer, Meares remained idle in camp with the much faster dogs for many hours, before catching up at the end of the day.&lt;ref&gt;E.G.R.G. Evans South With Scott. Collins London 1953 p184&lt;/ref&gt; 
+Sullivan states that it was the last factor that probably was decisive.&lt;ref name="Sullivan" /&gt; he states "Man is a poor [[pack animal|beast of burden]], as was shown in the terrible experience of Scott, Shackleton, and Wilson in their thrust to the south of 1902–3. However, Scott relied chiefly on man-hauling in 1911–12 because ponies could not ascend the glacier midway to the Pole. The Norwegians correctly estimated that dog teams could go all the way. Furthermore, they used a simple plan, based on their native skill with skis and on dog-driving methods that were tried and true. In a similar fashion to the way the moon was reached by expending a succession of rocket stages and then casting each aside; the Norwegians used the same strategy, sacrificing the weaker animals along the journey to feed the other animals and the men themselves."&lt;ref name="Sullivan" /&gt;
+
+== Objectives of the expeditions ==
+Scott and his financial backers saw the expedition as having a scientific basis, while also wishing to reach the pole. However, it was recognised by all involved that the South Pole was the primary objective ("The Southern Journey involves the most important object of the Expedition"&amp;nbsp;– Scott), and had priority in terms of resources, such as the best ponies and all the dogs and motor sledges as well as involvement of the vast majority of the expedition personnel. Scott and his team knew the expedition would be judged on his attainment of the pole ("The ... public will gauge the result of the scientific work of the expedition largely in accordance with the success or failure of the main object"&amp;nbsp;– Scott). He was prepared to make a second attempt the following year (1912–13) if this attempt failed and had Indian Army mules and additional dogs delivered in anticipation. In fact the mules were used by the team that discovered the dead bodies of Scott, [[Henry Robertson Bowers]], and [[Edward Adrian Wilson]] in November 1912, but proved even less useful than the ponies, according to [[Cherry-Garrard]].
+
+Amundsen's expedition was planned to reach the South Pole. This was a plan he conceived in 1909.&lt;ref&gt;The South Pole, Roald Amundsen, {{ISBN|1-85065-469-7}}, Volume I, Chapter II, page 53.&lt;/ref&gt; Amundsen's expedition did conduct geographical work under [[Kristian Prestrud]] who conducted an expedition to [[King Edward VII Land]] while Amundsen was undertaking his attempt at the pole.
+
+== Base camps ==
+Amundsen camped on the [[Ross Ice Shelf]] at the [[Bay of Whales]] which is 60&amp;nbsp;miles (96&amp;nbsp;km) closer to the pole than Scott's camp (which was 350&amp;nbsp;miles west of Amundsen). Amundsen had deduced that, as the Trans-Antarctic Mountains ran northwest to southeast then if he were to meet a mountain range on his route then the time spent at the high altitude of the Antarctic plateau would be less than Scott's.&lt;ref&gt;The South Pole, Roald Amundsen, {{ISBN|1-85065-469-7}}, Volume I, Chapter II, page 47.&lt;/ref&gt;
+Scott's base was at [[Cape Evans]] on [[Ross Island]], with access to the Trans-Antarctic mountain range to the west, and was a better base for geological exploration. He had based his previous expedition in the same area. However, he knew it to be poor as a route to the pole as he had to start before sea ice melted and had suffered delay in returning while waiting for the sea ice to freeze. They also had to make detours around Ross Island and its known crevassed areas which meant a longer journey. The crossing of the Ross Ice Shelf was an onerous task for the ponies. Scott had advanced considerable stores across the ice shelf the year before to allow the ponies to carry lighter loads over the early passage across the ice. Even so, he had to delay the departure of the ponies until 1 November rather than 24 October when the dogs and motor sledges set off.&lt;ref&gt;E.R.G.R, Evans South With Scott Collins London 1953 p153&lt;/ref&gt;
+Consequently, the Motor Party spent 6 days at the Mount Hooper Depot waiting for Scott to arrive.&lt;ref&gt;E.R.G.R, Evans South With Scott Collins London 1953 p184&lt;/ref&gt;
+
+== Methods of transport ==
+=== Motor sledges ===
+The major comparison between Scott and Amundsen has focused on the choice of draft transport&amp;nbsp;—dog versus pony/man-hauling. In fact Scott took dogs, ponies and three "motor sledges". Scott spent nearly seven times the amount of money on his motor sledges than on the dogs and horses combined. They were therefore a vital part of the expedition. Unfortunately, Scott decided to leave behind the engineer, Lieutenant Commander [[Reginald William Skelton]]&lt;ref name="Capt Scott 1910"&gt;Letter to Capt Scott, R W Skelton, 7 April 1910.&lt;/ref&gt; who had created and trialled the motor sledges. This was due to the selection of Lieutenant [[Edward Evans, 1st Baron Mountevans|E.R.G.R. "Teddy" Evans]] as the expedition's second in command. As Evans was junior in rank to Skelton, he insisted that Skelton could not come on the expedition.&lt;ref name="Capt Scott 1910" /&gt; Scott agreed to this request and Skelton's experience and knowledge was lost.&lt;ref&gt;Letter to R W Skelton from Capt Scott, 21 March 1910.&lt;/ref&gt; One of the original three motor sledges was a failure even before the expedition set out; the heavy sledge was lost through thin ice on unloading it from the ship. The two remaining motor sledges failed relatively early in the main expedition because of repeated faults. Skelton's experience might have been valuable in overcoming the failures.&lt;ref&gt;Scott's Last Expedition, entry 17 Oct 1911, page 335 as an example.&lt;/ref&gt;
+
+=== Ponies vs dogs ===
+Scott had used dogs on his first ([[Discovery Expedition|Discovery]]) expedition and felt they had failed. On that journey, Scott, Shackleton, and Wilson started with three sledges and 13 dogs. But on that expedition, the men had not properly understood how to travel on snow with the use of dogs. The party had skis but were too inexperienced to make good use of them.&lt;ref name="Pugh" /&gt; As a result, the dogs travelled so fast that the men could not keep up with them. The Discovery expedition had to increase their loads to slow the dogs down.&lt;ref name="Pugh" /&gt; Additionally, the dogs were fed Norwegian dried fish, which did not agree with them and soon they began to deteriorate.&lt;ref name="Pugh" /&gt; The whole team of dogs eventually died (and were eaten), and the men took over hauling the sleds.&lt;ref name="Pugh" /&gt;
+
+Scott's opinion was reinforced by Shackleton's experience on his [[Nimrod expedition]] that got to within {{convert|97.5|nmi|km mi}} of the pole. Shackleton used ponies. Scott planned to use ponies only to the base of the [[Beardmore Glacier]] (one-quarter of the total journey) and man-haul the rest of the journey. Scott's team had developed snow shoes for his ponies, and trials showed they could significantly increase daily progress. However, [[Lawrence Oates]], whom Scott had made responsible for the ponies, was reluctant to use the snow shoes and Scott failed to insist on their use.&lt;ref name="Solomon-2001"&gt;{{cite book|last1=Solomon|first1=Susan|title=The Coldest March: Scott`s Fatal Antarctic Expedition|date=2001|publisher=Yale University Press|location=New Haven|isbn=0300089678|edition=Hardcover|url=https://www.amazon.com/Coldest-March-Scott-s-Antarctic-Expedition/dp/0300089678/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1479764466&amp;sr=1-1|accessdate=21 November 2016}}&lt;/ref&gt;{{RP|85}}
+
+There was plenty of evidence that dogs could succeed in the achievements of [[William Speirs Bruce]] in his Arctic, Antarctic, and [[Scottish National Antarctic Expedition]], Amundsen in the ''[[Gjøa]]'' [[North West passage]] expedition, [[Fridtjof Nansen]]'s crossing of [[Greenland]], [[Robert Peary]]'s three attempts at the [[North Pole]], [[Eivind Astrup]]'s work supporting Peary, [[Frederick Cook]]'s discredited North Pole expedition, and [[Otto Sverdrup]]'s explorations of [[Ellesmere Island]]. Moreover, Scott ignored the direct advice he received (while attending trials of the motor sledges in Norway) from Nansen, the most famous explorer of the day, who told Scott to take "dogs, dogs and more dogs".&lt;ref&gt;Letter to Sir Clements Markham from Fridtjof Nansen, 4 April 1913.&lt;/ref&gt;
+
+At the time of the events, the expert view in England had been that dogs were of dubious value as a means of Antarctic transport.&lt;ref name="Murray"&gt;{{cite journal | last = Murray | first = Carl | date = October 2008 | title = The use and abuse of dogs on Scott's and Amundsen's South Pole expeditions | journal = The Polar Record | publisher = Cambridge University Press | volume = 44 | issue = 4 | pages = 303–311 | issn = 0032-2474 | doi=10.1017/s0032247408007493}}&lt;/ref&gt; Broadly speaking, Scott saw two ways in which dogs may be used—they may be taken with the idea of bringing them all back safe and sound, or they may be treated as pawns in the game, from which the best value is to be got regardless of their lives.&lt;ref name="Murray" /&gt; He stated that if, and only if, the comparison was made with a dog sledge journey which aimed to preserve the dogs' lives, 'I am inclined to state my belief that in the polar regions properly organised parties of men will perform as extended journeys as teams of dogs.'&lt;ref name="Murray" /&gt; On the other hand, if the lives of the dogs were to be sacrificed, then 'the dog-team is invested with a capacity for work which is beyond the emulation of men. To appreciate this is a matter of simple arithmetic'.&lt;ref name="Murray" /&gt; But efficiency notwithstanding, he expressed "reluctance" to use dogs in this way: "One cannot calmly contemplate the murder of animals which possess such intelligence and individuality, which have frequently such endearing qualities, and which very possibly one has learnt to regard as friends and companions."&lt;ref name="Murray" /&gt;
+
+Amundsen, by contrast, took an entirely utilitarian approach.&lt;ref name="Murray" /&gt; Amundsen planned from the start to have weaker animals killed to feed the other animals and the men themselves.&lt;ref name="Sullivan"&gt;{{cite journal | last = Sullivan | first = Walter | year = 1962 | title = The South Pole Fifty Years After | url=http://arctic.journalhosting.ucalgary.ca/arctic/index.php/arctic/article/view/3571/3546|journal = Arctic | volume = 15 | issue = 3 | pages = 175–178 | doi=10.14430/arctic3571}}&lt;/ref&gt; He expressed the opinion that it was less cruel to feed and work dogs correctly before shooting them, than it would be to starve and overwork them to the point of collapse.&lt;ref name="Pugh"&gt;{{cite journal | last = Pugh | first = L G | title = The Logistics of the Polar Journeys of Scott, Shackleton and Amundsen | date = January 1972 | journal = Proceedings of the Royal Society of Medicine | volume = 65 | issue = 1 | pages = 42–47 | pmid = 4552519 | pmc=1644311 }}&lt;/ref&gt; Amundsen and his team had similar affection for their dogs as those expressed above by the English, but they "also had agreed to shrink from nothing in order to achieve our goal".&lt;ref&gt;The South Pole, Roald Amundsen, {{ISBN|1-85065-469-7}}, Volume II, Chapter XI, page 62-63.&lt;/ref&gt; The British thought such a procedure was distasteful, though they were willing to eat their ponies.&lt;ref name="Sullivan" /&gt;
+
+Amundsen had used the opportunity of learning from the [[Inuit]] while on his ''[[Gjøa]]'' [[North West passage]] expedition of 1905. He recruited experienced dog drivers. To make the most of the dogs he paced them and deliberately kept daily mileages shorter than he need have for 75 percent of the journey,&lt;ref&gt;Diary, Olav Bjaaland, entry 12 November 1911.&lt;/ref&gt; and his team spent up to 16 hours a day resting. His dogs could eat seals and penguins hunted in the [[Antarctic]] while Scott's pony fodder had to be brought all the way from England in their ship. It has been later shown that seal meat with the blubber attached is the ideal food for a sledge dog. Amundsen went with 52 dogs, and came back with 11.&lt;ref name="Pugh" /&gt;
+
+What Scott did not realise is a sledge dog, if it is to do the same work as a man, will require the same amount of food.&lt;ref name="Pugh" /&gt; Furthermore, when sledge dogs are given insufficient food they become difficult to handle.&lt;ref name="Pugh" /&gt; The advantage of the sledge dog is its greater mobility.&lt;ref name="Pugh" /&gt; Not only were the Norwegians accustomed to skiing, which enabled them to keep up with their dogs, but they also understood how to feed them and not overwork them.&lt;ref name="Pugh" /&gt;
+
+=== Walking vs skiing on snow ===
+Scott took the Norwegian [[pilot (aeronautics)|pilot]] and [[skier]] [[Tryggve Gran]] to the [[Antarctic]] on the recommendation of Nansen to train his expedition to ski, but although a few of his party began to learn, he made no arrangements for compulsory training for the full party. Gran (possibly because he was Norwegian) was not included in the South Pole party, which could have made a difference. Gran was, one year later, the first to locate the deceased Scott and his remaining companions in their tent just some 18&amp;nbsp;km (11 miles) short of One Ton depot, that might have saved their lives had they reached it.
+
+Scott would subsequently complain in his diary, while well into his journey and therefore too late to take any corrective action and after over 10 years since the Discovery expedition, that "Skis are the thing, and here are my tiresome fellow countrymen too prejudiced to have prepared themselves for the event".&lt;ref&gt;Scott's Last Expedition, entry 11 Dec 1911, page 388.&lt;/ref&gt;
+
+Amundsen on his side recruited a team of well experienced skiers, all Norwegians who had skied from an early age. He also recruited a champion skier, [[Olav Bjaaland]], as the front runner. The Amundsen party gained weight on their return travel from the [[South Pole]].
+
+== Weather conditions ==
+Scott and Shackleton's experience in 1903 and 1907 gave them first-hand experience of average conditions in Antarctica. [[George Simpson (meteorologist)|Simpson]], Scott's meteorologist 1910–1912, charted the weather during their expedition, often taking two readings a day. On their return to the Ross Ice Shelf, Scott's group experienced prolonged low temperatures from 27 February until 10 March which have only been matched once in 15 years of current records.&lt;ref name="Solomon-2001" /&gt;{{RP|286}} The exceptional severity of the weather meant they failed to make the daily distances they needed to get to the next depot. This was a serious position as they were short of fuel and food. When Scott, Wilson, and Bowers died (Petty Officer [[Edgar Evans]] and [[Lawrence Oates]] had died earlier during the return from the South Pole) they were {{Convert|11|mi|order=flip}} short of One-Ton Depot, which was {{Convert|140|mi|order=flip}} from Corner Camp, where they would have been safe.
+
+On the other hand, Cherry-Garrard had travelled nearly {{Convert|300|mi|4=-2|order=flip}} in the same area, during the same time period and same temperatures, using a dog team.&lt;ref name="Apsley Cherry-Garrard 1912, page 420–428"&gt;Apsley Cherry-Garrard, The Worst Journey in the World&amp;nbsp;– Antarctic 1910–13, Chapter XIII, dates 19 Feb to 15 Mar 1912, page 420–428.&lt;/ref&gt; Scott also blamed "a prolonged blizzard". But while there is evidence to support the low temperatures, there is only evidence for a "normal" two- to four-day blizzard, and not the ten days that Scott claims.&lt;ref name="Solomon-2001" /&gt;{{RP|318-319}}
+
+== Route marking and depot laying ==
+During depot laying in February 1911, Roald Amundsen had his first (and last) {{Convert|180|mi|order=flip}} of his route marked like a Norwegian ski course using marker flags initially every eight miles. He added to this by using food containers painted black, resulting in a marker every mile. From 82 degrees on, Amundsen built a {{Convert|6|ft|abbr=on|adj=on}} cairn every three miles with a note inside recording the cairn's position, the distance to the next depot, and direction to the next cairn.&lt;ref&gt;The South Pole, Roald Amundsen, {{ISBN|1-85065-469-7}}, Volume II, Chapter X, page 22.&lt;/ref&gt; In order not to miss a depot considering the snow and great distances, Amundsen took precautions. Each depot laid out up to 85 degrees (laid out every degree of latitude) had a line of bamboo flags laid out transversely every half-mile for five miles on either side of the depot, ensuring that the returning party could locate the designated depot.
+
+Scott relied on depots much less frequently laid out. For one distance where Amundsen laid seven depots, Scott laid only two. Routes were marked by the walls made at lunch and evening stops to protect the ponies. Depots had a single flag. As a result, Scott has much concern recorded in his diaries over route finding, and experienced close calls about finding depots.&lt;ref&gt;Scott's Last Expedition, entry 25 and 26 Jan 1912, page 431 and entry 12 and 13 Feb 1912, page 443 as examples.&lt;/ref&gt; It is also clear that Scott's team did not travel on several days, because the swirling snow hid their three-month-old outward tracks. With better depot and route marking they would have been able to travel on more days with a following wind which would have filled the sail attached to their sledge, and so travel further, and might have reached safety.
+
+== Food and fuel ==
+By the time they arrived at the pole, the health of Scott's team had significantly deteriorated, whereas Amundsen's team actually gained weight during the expedition. While Scott's team managed to maintain the scheduled pace for most of the return leg, and hence was virtually always on full rations, their condition continued to worsen rapidly. (The only delay occurred when they were held for four days by a blizzard, and had to open their summit rations early as a consequence.&lt;ref&gt;Scott's Last Expedition, entry 7 Dec 1911, page 381.&lt;/ref&gt;)
+
+[[Apsley Cherry-Garrard]] in his analysis of the expedition estimated that even under optimistic assumptions the summit rations contained only a little more than half the calories actually required for the man-hauling of sledges.&lt;ref name="Apsley Cherry Gerrard 1921, page 573" /&gt; A carefully planned 2006 re-enactment of both Amundsen's and Scott's travels, sponsored by the [[BBC]], confirmed Cherry-Garrard's theory. The British team had to abort their tour due to the severe weight loss of all members.&lt;ref&gt;Jasper Rees, Blizzard&amp;nbsp;– Race to the pole, BBC Books 2006, {{ISBN|978-0-563-49326-6}}.&lt;/ref&gt; The experts hinted that Scott's reports of unusually bad surfaces and weather conditions might in part have been due to their exhausted state which made them feel the sledge weights and the chill more severely.
+
+Scott's calculations for the supply requirements were based on a number of expeditions, both by members of his team (e.g., [[Edward Adrian Wilson|Wilson]]'s trip with [[Apsley Cherry-Garrard|Cherry-Garrard]] and [[Henry Robertson Bowers|Bowers]] to the Emperor penguin colony which had each man on a different type of experimental ration), and by Shackleton. Apparently, Scott didn't take the strain of prolonged man-hauling at high altitudes sufficiently into account.
+
+Since the rations contained no [[B vitamins|B]] and [[Vitamin C|C vitamins]], the only source of these vitamins during the trek was from the slaughter of ponies or dogs.  This made the men progressively malnourished, manifested most clearly in the form of [[scurvy]].&lt;ref name=Preston/&gt;
+
+Scott also had to fight with a shortage of fuel due to leakage from stored fuel cans which used leather washers. This was a phenomenon that had been noticed previously by other expeditions, but Scott took no measures to prevent it. Amundsen, in contrast, had learned the lesson and had his fuel cans soldered closed. A fuel depot he left on Betty's Knoll was found 50 years later still full.&lt;ref name="Huntford-1985"&gt;{{cite book|last1=Huntford|first1=Roland|title=The Last Place on Earth|date=1985|publisher=Hodder &amp; Stoughton Ltd|location=London|isbn=0340381019|edition=Hardcover|url=https://www.amazon.com/Last-Place-Earth-Roland-Huntford/dp/0340381019/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1479764934&amp;sr=1-1|accessdate=21 November 2016}}&lt;/ref&gt;{{RP|553}}
+
+Dehydration may also have been a factor. Amundsen's team had plenty of fuel due to better planning and soldered fuel cans. Scott had a shortage of fuel and was unable to melt as much water as Amundsen. At the same time Scott's team were more physically active in man-hauling the sledges.
+
+== Clothing and goggles ==
+It has been said (by the present-day explorer [[Ranulph Fiennes]] amongst others) that Scott's team was appropriately dressed for man-hauling in their woolen and wind-proof clothing, and as Amundsen was skiing it was appropriate he wore furs. Skiing at the pace of a dog team is a strenuous activity. Yet Amundsen never complained about the clothing being too hot. That is because the furs are worn loosely so air circulates and sweat evaporates. Scott's team, on the other hand, made regular complaints about the cold.
+
+Amundsen's team did initially have problems with their boots. However, the depot-laying trips of January and February 1911 and an abortive departure to the South Pole on 8 September 1911 allowed changes to be made before it was too late.
+
+Scott's team suffered regularly from [[snow blindness]] and sometimes this affected over half the team at any one time.&lt;ref&gt;Apsley Cherry-Garrard, The Worst Journey in the World&amp;nbsp;– Antarctic 1910–13, Chapter X, entry for 10 Dec, page 367 as an example.&lt;/ref&gt; By contrast, there was no recorded case of snow blindness during the whole of Amundsen's expedition. On the return journey, Amundsen's team rested during the "day" (when the sun was in front of them) and travelled during the "night" (when the sun was behind them) to minimise the effects of snow blindness.
+
+== Delay in meeting Scott's returning party ==
+In 1921, [[Edward Evans, 1st Baron Mountevans|'Teddy' Evans]] wrote in his book ''South with Scott'' that Scott had left the following written orders at Cape Evans.{{sfn|Karen May 2012, ''Could Captain Scott have been saved? Revisiting Scott's last expedition'', Polar Record |p=1-19}}
+
+{{quote
+| About the first week of February I should like you to start your third journey to the South, the object being to hasten the return of the third Southern unit [the polar party] and give it a chance to catch the ship. The date of your departure must depend on news received from returning units, the extent of the depot of dog food you have been able to leave at One Ton Camp, the state of the dogs, etc&amp;nbsp;...It looks at present as though you should aim at meeting the returning party about March 1 in Latitude 82 or 82.30.{{sfn|Evans, E.R.G.R. 1949, ''South with Scott'', London: Collins |p=187-188}}}}
+
+He did however place a lesser importance upon this journey than that of replenishing the food rations at One Ton Depot.
+
+He continued his instructions in the next paragraph "You will of course understand that whilst the object of your third journey is important, that of the second is vital. At all hazards three X.S. units of provision must be got to One Ton Camp by the date named (19th January), and if the dogs are unable to perform this task, a man party must be organised."&lt;ref&gt;Evans, E.R.G.R. 1953 South With Scott London Collins p = 173&lt;/ref&gt; with that qualification he closed his notes regarding his instructions for the dogs.
+
+Expedition member [[Apsley Cherry-Garrard]] did not mention Scott's order in his 1922 book ''The Worst Journey in the World''. However, in the 1948 preface to his book,&lt;ref&gt;{{cite news | last = Gray |first = Richard | title = Scott of the Antarctic could have been saved if his orders had been followed, say scientists | date = 31 December 2012 | url = https://www.telegraph.co.uk/news/worldnews/antarctica/robert-falcon-scott/9770678/Scott-of-the-Antarctic-could-have-been-saved-if-his-orders-had-been-followed-say-scientists.html | work = The Telegraph | accessdate = 27 March 2013}}&lt;/ref&gt; he discusses Scott's order. Cherry-Garrard writes that he and [[Edward L. Atkinson|Edward Atkinson]] reached Cape Evans on 28 January. Scott had estimated Atkinson would reach camp by 13 January.{{sfn|Evans, E.R.G.R. 1949, ''South with Scott'', London: Collins |p=187-188}} Atkinson, now the senior officer discovered that the dog handler [[Cecil Meares]] had resigned from the expedition and that neither Meares nor anyone else had resupplied dog food to the depots. Cherry-Garrard also wrote "In my opinion he [Atkinson] would not have been fit to take out the dogs in the first week of February".
+
+On 13 February, Atkinson set off on the first lap southwards to Hut Point with the dog assistant, Dimitri Gerov, and the dogs to avoid being cut off by disintegrating sea ice. Atkinson and Gerov were still at [[Hut Point]] when, on 19 February, [[Tom Crean (explorer)|Tom Crean]] arrived on foot from the Barrier and reported that Lt [[Edward Evans, 1st Baron Mountevans|Edward Evans]] was lying seriously ill in a tent some {{Convert|35|mi|order=flip|round=5}} to the south, and in urgent need of rescue.&lt;ref&gt;Evans, Lashly, and Crean had formed the final Support Party which had left Scott on 3 January. Lashly had stayed on the Barrier to nurse Evans while Crean walked to Hut Point. Both were awarded Albert (lifesaving) medals&lt;/ref&gt;  Atkinson decided that this mission was his priority, and set out with the dogs to bring Evans back. This was achieved; the party was back at Hut Point on 22 February.
+
+Atkinson sent a note back to the Cape Evans base camp requesting either the meteorologist Wright or Cherry-Garrard to take over the task of meeting Scott with the dogs. Chief meteorologist Simpson was unwilling to release Wright from his scientific work, and Atkinson therefore selected [[Apsley Cherry-Garrard]]. It was still not in Atkinson's mind that Cherry-Garrard's was a relief mission, and according to Cherry-Garrard's account, told him to "use his judgement" as to what to do in the event of not meeting the polar party by One Ton, and that Scott's orders were that the dogs must not be risked. Cherry-Garrard left with Gerov and the dogs on 26 February, carrying extra rations for the polar party to be added to the depot and 24 days' of dog food. They arrived at One Ton Depot on 4 March and did not proceed further south. Instead, he and Gerov, after waiting there for Scott for several days, apparently mostly in blizzard conditions (although no blizzard was recorded by Scott some 100 miles further south until 10 March), they returned to Hut Point on 16 March, in poor physical condition and without news of the polar party.
+
+On the return journey from the pole, Scott reached the 82.30°S meeting point for the dog teams three days ahead of schedule, around 27 February 1912. Scott's diary for that day notes "We are naturally always discussing possibility of meeting dogs, where and when, etc. It is a critical position. We may find ourselves in safety at the next depot, but there is a horrid element of doubt." By 10 March it became clear that the dog teams were not coming: "The dogs which would have been our salvation have evidently failed. Meares [the dog-driver] had a bad trip home I suppose. It's a miserable jumble."
+
+Around 25 March, awaiting death in his tent at latitude 79.30°S, Scott speculated, in a farewell letter to his expedition treasurer [[Edgar Speyer|Sir Edgar Speyer]], that he had overshot the meeting point with the dog relief teams, writing "We very nearly came through, and it's a pity to have missed it, but lately I have felt that we have overshot our mark. No-one is to blame and I hope no attempt will be made to suggest that we had lacked support." (Farewell letter to Sir Edgar Speyer, cited from Karen May 2012.){{sfn|Karen May 2012, ''Could Captain Scott have been saved? Revisiting Scott's last expedition'', Polar Record |p=1-19}}
+
+== Other reasons for Scott's failure ==
+; Geology samples
+: Scott's team continued to haul over 14&amp;nbsp;kg (30&amp;nbsp;lb) of rock samples. This would appear to be a major handicap when pulling a sledge in a race against the weather and a shortage of food and fuel. Scott could have left the samples at one of the cairns along the way to be picked up later. However, Ranulph Fiennes has suggested that the extra weight would not have been a major handicap.&lt;ref&gt;Captain Scott, Ranulph Fiennes, {{ISBN|0-340-82697-5}}-page 249.&lt;/ref&gt; [[Tryggve Gran]] on the other hand thought "they might have saved themselves the bother".&lt;ref&gt;Diary, Tryggve Gran, entry 23 Nov 1912, quoted Last Place on Earth, Roland Huntford, {{ISBN|0-340-38101-9}}, page 556.&lt;/ref&gt;
+; Final five-man team
+: Scott's planning, equipment and rations had been based on three sledge teams of four men ascending the Beardmore, with a team turning back every 10 days or so as rations required finally leaving one four-man team to attempt the pole. At the last moment when down to two teams (Scott's and Evans's) Scott decided to send a returning party of three, and take on five. This increased the cooking time for the team of five and affected the fuel supply.&lt;ref&gt;Scott's Last Expedition, entry 5 Jan 1912, page 414.&lt;/ref&gt; It also meant the Evans party of three had to try to split the ration pack (at a time when they were cold and tired and later when one member was suffering from scurvy) to leave an allowance for the fifth man in Scott's party. This also will have affected the seepage of fuel from cans which were opened and then re-closed and left for several weeks before Scott's team got to them. Moreover, for some unexplained reason Scott had ordered Evans's team to cache their skis a week before so Bowers (the fifth man) walked to the pole and back to the cached skis (360&amp;nbsp;miles) while the rest of Scott's team skied.
+; Misuse of the dog team
+: For no clear reason Scott took the dogs on 140&amp;nbsp;miles further than originally planned. This meant killing the ponies early (and starting man-hauling earlier) to feed the dogs for no obvious benefit to the overall expedition. Scott also gave conflicting and changing orders for their use to each returning party. It was only in late February 1912 that it was discovered that the final supplies needed by Scott's returning party had not been delivered to One Ton Depot. Cherry-Garrard was sent with these supplies on 25 February 1912 and he was relieved to discover that he had beaten Scott's team to the depot.&lt;ref name="Apsley Cherry-Garrard 1912, page 420–428" /&gt; He also found that promised supplies of dog food were not in place. Cherry-Garrard remained at the depot, within {{Convert|100|km|4=-1}} of Scott, 4–10 March 1912 when he could possibly have saved Scott, Wilson, Bowers, and Oates if the management of the dog team had been better.
+; Navigation
+: Amundsen used prepared navigation sheets that simplified the calculations for his team when they were tired and cold. Four out of his team of five were qualified navigators. Amundsen's expedition also used a [[sextant]] during the journey, which is a relatively light and simple piece of equipment. He also attended a symposium that reviewed how to fix position at high latitudes. Scott used a [[theodolite]] which is heavier and requires more mental arithmetic.&lt;ref name="Huntford-1985" /&gt;{{RP|482}} Scott also lacked navigators having only one per team. Scott dismissed Cherry-Garrard's request for navigational training and Wilson only attempted to learn how to read latitudes at the last moment.&lt;ref name="Huntford-1985" /&gt;{{RP|473, 538}}
+; Camp routine
+: Amundsen used canisters that left his sledges permanently lashed and loaded. Scott's team had to unload, and load and relash their sledge at every camp, no matter what the weather.
+
+== Timelines of Amundsen and Scott expeditions ==
+{| class="wikitable plainrowheaders" style="margin-right: 0;"
+|-
+! scope="col" style="width: 10em;" | Event
+! scope="col" style="width: 16em;" | Amundsen Expedition&lt;ref&gt;The South Pole, Roald Amundsen, {{ISBN|1-85065-469-7}}.&lt;/ref&gt;
+! scope="col" style="width: 10em;" | Scott Expedition&lt;ref&gt;Scott's Last Expedition.&lt;/ref&gt;
+! scope="col" | Comments
+|-
+! scope="row" | Expedition announcement
+| 1910-09-09
+| 1909-09-13
+| Amundsen keeps his South Pole ambitions secret after learning that [[Frederick Cook|Cook]] and [[Robert Peary|Peary]] claimed the [[North Pole]] in 1908/9. He only discloses his actual plans from [[Madeira]] on his southbound journey.
+|-
+! scope="row" | Departure for 'the south'
+| 1910-06-03
+| 1910-06-16
+| Amundsen's ''[[Fram]]'' departs [[Kristiania]], [[Norway]] officially bound for the North Pole &lt;br /&gt; Scott's ''[[Terra Nova (ship)|Terra Nova]]'' departs [[Cardiff]], [[Wales]] for the South Pole
+|-
+! scope="row" | Arrival in the [[Antarctic]]
+| 1911-01-14
+| 1911-01-04
+| ''Terra Nova'' trapped in ice for 20 days
+|-
+! scope="row" | Base camp
+| [[Bay of Whales]], 78°&amp;nbsp;30'&amp;nbsp;S
+| [[Cape Evans]], 77°&amp;nbsp;38'&amp;nbsp;S
+| Amundsen's route through unknown land &lt;br /&gt; Scott's route the same as that chartered by Shackleton until 88°&amp;nbsp;23'&amp;nbsp;S
+|-
+! scope="row" | Distance to the [[South Pole|pole]]
+| 1285&amp;nbsp;km (798 miles)
+| 1381&amp;nbsp;km (858 miles)
+| Amundsen 96&amp;nbsp;km (60 miles) closer
+|-
+! scope="row" | Expedition start
+| 1911-10-20
+| 1911-11-01
+| Amundsen 11 days ahead of Scott
+|-
+! scope="row" | 80°&amp;nbsp;S
+| 1911-10-23
+| 1911-11-18
+| 1117&amp;nbsp;km to the pole, Amundsen 26 days ahead
+|-
+! scope="row" | 81°&amp;nbsp;S
+| 1911-10-31
+| 1911-11-23
+| 1005&amp;nbsp;km to the pole, Amundsen 23 days ahead
+|-
+! scope="row" | 82°&amp;nbsp;S
+| 1911-11-05
+| 1911-11-28
+| 893&amp;nbsp;km to the pole, Amundsen 23 days ahead
+|-
+! scope="row" | 83°&amp;nbsp;S
+| 1911-11-09
+| 1911-12-02
+| 782&amp;nbsp;km to the pole. Amundsen 23 days ahead
+|-
+! scope="row" | 84°&amp;nbsp;S
+| 1911-11-13
+| 1911-12-15
+| 670&amp;nbsp;km to the pole, Amundsen 32 days ahead
+|-
+! scope="row" | 85°&amp;nbsp;S
+| 1911-11-17
+| 1911-12-21
+| 558&amp;nbsp;km to the pole, Amundsen 34 days ahead
+|-
+! scope="row" | 86°&amp;nbsp;S
+| 1911-11-27
+| 1911-12-26
+| 447&amp;nbsp;km to the pole, Amundsen 29 days ahead
+|-
+! scope="row" | 87°&amp;nbsp;S
+| 1911-12-04
+| 1912-01-01
+| 335&amp;nbsp;km to the pole, Amundsen 27 days ahead
+|-
+! scope="row" | 88°&amp;nbsp;S
+| 1911-12-06
+| 1912-01-06
+| 223&amp;nbsp;km to the pole, Amundsen 31 days ahead
+|-
+! scope="row" | 88°&amp;nbsp;23'&amp;nbsp;S
+| 1911-12-07
+| 1912-01-09
+| Southernmost point reached by [[Ernest Shackleton|Shackleton]], 181&amp;nbsp;km to the pole &lt;br /&gt; Amundsen 33 days ahead
+|-
+! scope="row" | 89°&amp;nbsp;S
+| 1911-12-10
+| 1912-01-13
+| 112&amp;nbsp;km to the pole, Amundsen 34 days ahead
+|-
+! scope="row" | 89°&amp;nbsp;46'&amp;nbsp;S
+| 1911-12-13
+| 1912-01-16
+| 25&amp;nbsp;km to the pole, Scott finds the first proof of Amundsen
+|-
+! scope="row" | South Pole, 90°&amp;nbsp;S
+| 1911-12-14, 15:00
+| 1912-01-17, 18:30
+| Amundsen 34 days ahead of Scott
+|-
+! scope="row" | Termination
+| 1912-01-25, 04:00: &lt;br /&gt; Amundsen's expedition returns to base camp after 99 days en route and no casualties
+| colspan="2" | Scott's expedition dies on return journey &lt;br /&gt; 1912-02-17: Evans dies &lt;br /&gt; 1912-03-16: Oates dies &lt;br /&gt; 1912-03-19: Final camp of Scott, Wilson and Bowers, 18&amp;nbsp;km short of One Ton Depot at 79°&amp;nbsp;29'&amp;nbsp;S &lt;br /&gt; 1912-03-29: Approximate date of Scott, Wilson and Bowers dying, 150 days after embarking &lt;br /&gt; 1912-11-12: Bodies found by the search party of [[Tryggve Gran]].
+|-
+! scope="row" | Departure from the Antarctic
+| 1912-01-30
+| colspan="2" | 1913-01-26
+|-
+! scope="row" | Fate known to public
+| 1912-03-08: &lt;br /&gt; Amundsen sends a telegram from [[Hobart]], [[Tasmania]] informing the world that he reached the South Pole
+| colspan="2" | 1913-02-10: The world is informed of the tragedy when ''Terra Nova'' reaches [[Oamaru]], New Zealand
+|}
+
+== References ==
+{{reflist}}
+
+{{Amundsen's South Pole expedition}}
+
+{{DEFAULTSORT:Comparison Of The Amundsen And Scotts Expeditions}}
+[[Category:Comparisons]]
+[[Category:Exploration of Antarctica]]
+[[Category:Heroic Age of Antarctic Exploration]]
+[[Category:United Kingdom and the Antarctic]]
+[[Category:Norway and the Antarctic]]
+[[Category:Robert Falcon Scott]]
+[[Category:Amundsen's South Pole expedition]]</text>
+      <sha1>diqt7stebjuedrraaykm2ru8q46wvrx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Difference feminism</title>
+    <ns>0</ns>
+    <id>358999</id>
+    <revision>
+      <id>858586108</id>
+      <parentid>828457281</parentid>
+      <timestamp>2018-09-08T07:10:55Z</timestamp>
+      <contributor>
+        <username>Weegaweek</username>
+        <id>34527125</id>
+      </contributor>
+      <minor/>
+      <comment>fixed auto-opening of varients in info bar</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6889">{{Feminism sidebar |Variants (general)}}
+
+Taking for granted an equal [[Intrinsic value (ethics)|moral status]] as [[person]]s, '''difference feminism''' asserts that there are differences between men and women but that no value judgment can be placed upon them.&lt;ref&gt;{{cite web|url=http://www.feministvoices.com/carol-gilligan/|title = Carol Gilligan |website= Psychology's Feminist Voices}}&lt;/ref&gt;
+
+The term "difference feminism" developed during the "equality-versus-difference debate" in American feminism in the 1980s and 1990s,&lt;ref name="auto"&gt;{{cite journal|last1=Scott|first1=Joan|title=Deconstructing Equality-Versus-Difference: Or, the Uses of Post-structuralist Theory for Feminism|journal=Feminist Studies|date=1988|volume=14|issue=1|doi=10.2307/3177997|pages=32}}&lt;/ref&gt; but subsequently fell out of favor and use. In the 1990s feminists addressed the binary logic of "difference" versus "equality" and moved on from it, notably with postmodern and/or deconstructionist approaches that either dismantled or did not depend on that dichotomy.&lt;ref name="auto"/&gt;&lt;ref&gt;{{cite book|last1=Bock|first1=Gisela|last2=James|first2=Susan|title=Beyond Equality and Difference|date=1992|publisher=Routledge|isbn = 9780415079891}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last1=Voet|first1=Rian|title=Feminism and Citizenship|date=1998|publisher=SAGE Publications Ltd|location = London|isbn = 9781446228043}}&lt;/ref&gt;
+
+Difference feminism did not require a commitment to [[essentialism]]. Most strains of difference feminism did not argue that there was a biological, inherent, ahistorical, or otherwise "essential" link between womanhood and traditionally feminine values, habits of mind (often called "ways of knowing"&lt;ref name="auto1"&gt;{{cite book|last1=Schiebinger|first1=Londa|title=Has Feminism Changed Science?|page=8}}&lt;/ref&gt;), or personality traits.&lt;ref&gt;{{cite book|last1=Grande Jensen|first1=Pamela|title=Finding a New Feminism: Rethinking the Woman Question for Liberal Democracy|page=2 footnote 4}}&lt;/ref&gt; These feminists simply sought to recognize that, in the present, women and men are significantly different and to explore the devalued "feminine" characteristics.&lt;ref name="auto2"&gt;{{cite book|last1=Tandon|first1=Neeru|title=Feminism: A Paradigm Shift|page=68}}&lt;/ref&gt;
+
+Some strains of difference feminism, for example [[Mary Daly]]'s, argue not just that women and men were different, and had different values or different ways of knowing, but that women and their values were superior to men's.&lt;ref name="auto2"/&gt; This viewpoint does not require essentialism, although there is ongoing debate about whether Daly's feminism is essentialist.&lt;ref&gt;{{cite journal|last1=Hoagland|first1=Sarah Lucia|last2=Frye|first2=Marilyn|title=Feminist Interpretations of Mary Daly|page=}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last1=Sandilands|first1=Catriona|title=The Good-Natured Feminist Ecofeminism and the Quest for Democracy|date=1999|pages=chapter 5: "Cyborgs and Queers"}}&lt;/ref&gt;
+
+== History ==
+Difference feminism was developed by feminists in the 1980s, in part as a reaction to popular liberal feminism (also known as "[[equality feminism]]"), which emphasized the similarities between women and men in order to argue for equal treatment for women. Difference feminism, although it still aimed at equality between men and women, emphasized the differences between men and women and argued that identicality or sameness are not necessary in order for men and women, and masculine and feminine values, to be treated equally.&lt;ref&gt;{{cite book|last1=Voet|first1=Rian|title=Feminism and Citizenship|date=1998|publisher=SAGE Publications Ltd}}&lt;/ref&gt; Liberal feminism aimed to make society and law gender-neutral, since it saw recognition of gender difference as a barrier to rights and participation within liberal democracy, while difference feminism held that gender-neutrality harmed women "whether by impelling them to imitate men, by depriving society of their distinctive contributions, or by letting them participate in society only on terms that favor men".&lt;ref&gt;{{cite book|last1=Grande Jensen|first1=Pamela|title=Finding a New Feminism: Rethinking the Woman Question for Liberal Democracy|page=3}}&lt;/ref&gt;
+
+Difference feminism drew on earlier nineteenth-century strains of thought, for example the work of German writer [[Elise Oelsner]], which held that not only should women be allowed into formerly male-only spheres and institutions (e.g. public life, science) but that those institutions should also be expected to change in a way that recognizes the value of traditionally devalued feminine ethics (like care [see [[ethics of care]]]). On the latter point, many feminists have re-read the phrase "difference feminism" in a way that asks "what difference does feminism make?" (e.g. to the practice of science) rather than "what differences are there between men and women"?&lt;ref name="auto1"/&gt;
+
+== Essentialism and Difference Feminism==
+Some have argued that the thought of certain prominent second-wave feminists, like psychologist [[Carol Gilligan]] and radical feminist theologian [[Mary Daly]], is "essentialist." In philosophy essentialism is the belief that "(at least some) objects have (at least some) essential properties."&lt;ref&gt;{{cite web|title=Accidental vs Essential Properties|url=https://plato.stanford.edu/entries/essential-accidental/|website=Stanford Encyclopedia of Philosophy|accessdate=21 March 2017}}&lt;/ref&gt; In the case of sexual politics essentialism is taken to mean that "women" and "men" have fixed essences or essential properties (e.g. behavioral or personality traits) that cannot be changed. However, essentialist interpretations of Daly and Gilligan have been questioned by some feminist scholars, who argue that charges of "essentialism" are often used more as terms of abuse than as theoretical critiques based on evidence,&lt;ref name="auto3"&gt;{{cite journal|last1=Heyes|first1=Cressida J.|title=Anti-Essentialism in Practice: Carol Gilligan and Feminist Philosophy|journal=Hypatia|date=1997|volume=13|issue=3|doi=10.1111/j.1527-2001.1997.tb00009.x|pages=142–163}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last1=Braidotti|first1=Rosi|title="Essentialism" in Feminism and Psychoanalysis: A Critical Dictionary|date=1992}}&lt;/ref&gt; and do not accurately reflect Gilligan&lt;ref name="auto3"/&gt; or Daly's&lt;ref&gt;{{cite book|last1=Suhonen|first1=Marja|title="Toward Biophilic Be-ing: Mary Daly's Feminist Metaethics and the Question of Essentialism" in Feminist Interpretations of Mary Daly|date=2000|publisher=Penn State University Press|page=112}}&lt;/ref&gt; views.
+
+== See also ==
+*[[Cultural feminism]]
+*[[Ethics of care]]
+*[[New feminism]]
+*[[Equality feminism]]
+*[[Theories of feminism]]
+
+== References ==
+&lt;references/&gt;
+
+{{DEFAULTSORT:Difference Feminism}}
+[[Category:Feminist theory]]
+[[Category:Feminism and spirituality]]
+[[Category:Gender studies]]
+[[Category:Feminist movements and ideologies]]
+[[Category:Comparisons]]</text>
+      <sha1>fc67v1vy92wmj6c27n73zzg906tpjtl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Idem</title>
+    <ns>0</ns>
+    <id>3270420</id>
+    <revision>
+      <id>806813492</id>
+      <parentid>806812764</parentid>
+      <timestamp>2017-10-24T09:17:19Z</timestamp>
+      <contributor>
+        <username>Shellwood</username>
+        <id>2366721</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/195.169.163.23|195.169.163.23]] ([[User talk:195.169.163.23|talk]]) ([[WP:HG|HG]]) (3.1.22)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3596">{{Italic title}}
+{{other uses|ID (disambiguation)}}
+{{refimprove|date=January 2017}}
+
+'''''idem.''''' is a [[Latin]] term meaning "the same".  It is commonly [[abbreviation|abbreviated]] as '''''id.''''',
+which is particularly used in legal citations to denote the previously cited source (compare ''[[ibid.]]''). It is also used in academic citations to replace the name of a repeated author. 
+
+''Id.'' is employed extensively in [[Canada|Canadian]] [[Law of Canada|legislation]] and in [[United states legislative branch|legal documents of the United States]] to apply a short description to a section with the same focus as the previous.&lt;ref name="trump"&gt;{{cite web|author=U.S. 9th circuit appeals court|title=9th circuit appeals court - opinion of judges (9 Feb 2017) - State of Washington v. Donald J.Trump|url=http://cdn.ca9.uscourts.gov/datastore/opinions/2017/02/09/17-35105.pdf|website=www.cdn.ca9.uscourts.gov|accessdate=10 February 2017}}&lt;/ref&gt;
+
+''Id'' is masculine and neuter;  '''''ead.''''' (feminine), is the abbreviation for '''''eadem''''', which also translates to "the same". 
+
+As an abbreviation, ''Id.'' always takes a period (or full stop) in both British and American usage (see [[Full stop#Abbreviations and personal titles of address|usage of the full stop in abbreviations]]). Its first known use dates back to the 14th century.&lt;ref&gt;{{cite web |title=Definition of ''Idem'' |url=https://www.merriam-webster.com/dictionary/idem |publisher=[[Merriam-Webster]] |location=[[Springfield, Massachusetts]]}}&lt;/ref&gt;
+{{wiktionary}}
+
+==Use==
+===Legal===
+*''United States v. Martinez-Fuerte'', 428 U.S. 543, 545 (1976).
+*''Id.'' at 547.
+
+Here, the first citation refers to the case of ''United States v. Martinez-Fuerte.'' The volume number cited is 428 and the page on which the case begins is 543, and the page number cited to is 545.  The "U.S." between the numerical portions of the citation refers to the ''[[United States Reports]]''. 1976 refers to the year that the case was published.  The second citation references the first citation and automatically incorporates the same reporter and volume number; however, the page number cited is now 547. ''Id.'' refers to the immediately preceding citation, so if the previous citation includes more than one reference, or it is unclear which reference ''Id.'' refers to, its usage is inappropriate.
+
+* ''"...the Executive Order declares that “the United States must ensure that those admitted to this country do not bear hostile attitudes toward it and its founding principles.” Id. It asserts, “Deteriorating..."'' (from page 2 of [http://cdn.ca9.uscourts.gov/datastore/opinions/2017/02/09/17-35105.pdf State of Washington v. Donald J. Trump])
+
+Here, Id. refers to the Executive Order that was mentioned in the previous sentence.&lt;ref name="trump" /&gt;
+
+===Academic===
+*Macgillivray, J. A. ''Minotaur: Sir Arthur Evans and the Archaeology of the Minoan Myth''. New York: [[Hill &amp; Wang]], 2000.
+*''Id.'' ''Astral Labyrinth: Archaeology of the Greek Sky''. Sutton Pub, 2003.
+
+In this example, ''Id'' in the second citation indicates that the author is identical to that of the previous citation. That is, the author of the second citation is also Macgillivray, J. A.
+
+==See also==
+* [[Bibliography]]
+* [[Ditto mark]]
+* ''[[Ibid.]]'' (''ibidem'')
+* [[List of Latin abbreviations]]
+* [[List of Latin phrases]]
+* [[List of legal Latin terms]]
+* ''[[Supra (grammar)|Supra]]''
+
+==References==
+{{reflist}}
+
+[[Category:Latin legal terminology]]
+[[Category:Latin words and phrases]]
+[[Category:Bibliography]]
+[[Category:Abbreviations]]</text>
+      <sha1>sbuwns3064ub0jkszh95o68vqx82lfk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Inc.</title>
+    <ns>0</ns>
+    <id>652730</id>
+    <revision>
+      <id>868006487</id>
+      <parentid>868006376</parentid>
+      <timestamp>2018-11-09T11:14:21Z</timestamp>
+      <contributor>
+        <username>Shellwood</username>
+        <id>2366721</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/124.123.56.232|124.123.56.232]] ([[User talk:124.123.56.232|talk]]) ([[WP:HG|HG]]) (3.4.4)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="513">{{wiktionary|Inc.|Inc|inc}}
+'''Inc.''' or '''inc''' may refer to:
+
+* [[Incorporation (business)]], as a suffix indicating a corporation
+* [[Inc. (magazine)|''Inc.'' (magazine)]], an American business magazine
+* [[Inc. No World]], a Los Angeles-based band
+* [[Increment and decrement operators|Increment]], in computer programming languages, particularly assembler mnemonics
+* [[Incumbent]], the current holder of a political office
+
+==See also==
+*[[INC (disambiguation)]]
+
+{{disambig}}
+
+[[Category:Abbreviations]]</text>
+      <sha1>m4dk59u8kdp6p2obpb97tahs3dfacyd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Information source</title>
+    <ns>0</ns>
+    <id>17878314</id>
+    <revision>
+      <id>853430782</id>
+      <parentid>853430454</parentid>
+      <timestamp>2018-08-04T19:00:19Z</timestamp>
+      <contributor>
+        <username>Altamel</username>
+        <id>1682577</id>
+      </contributor>
+      <comment>Undid revision 853430454 by [[Special:Contributions/49.14.140.116|49.14.140.116]] ([[User talk:49.14.140.116|talk]]) - Revert test edit</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1143">{{Selfref|“Reliable source” redirects here. For the use of information(reliable) sources on Wikipedia, see [[Wikipedia:Reliable sources]].}}
+An '''information source''' is a person, thing, or place from which [[information]] comes, arises, or is obtained. Information souces can be known as primary or secondary.&lt;ref&gt;{{Cite web|url=http://www.dictionary.com/browse/source|title=the definition of source|website=Dictionary.com|access-date=2017-04-25}}&lt;/ref&gt; That source might then inform a person about something or provide knowledge about it. Information sources are divided into separate distinct categories, [[primary source|primary]], [[secondary source|secondary]], [[tertiary source|tertiary]], and so on.&lt;ref&gt;{{Cite web|url=http://libguides.merrimack.edu/research_help/Sources|title=LibGuides: Research Help: Types of Sources|last=Wong|first=CJ|website=libguides.merrimack.edu|language=en|access-date=2017-04-25}}&lt;/ref&gt;
+
+==See also==
+* [[Guide to information sources]]
+
+==References==
+&lt;references /&gt;
+
+[[Category:Library science]]
+[[Category:Epistemology]]
+[[Category:Sources]]
+[[Category:Works about history]]
+
+
+{{epistemology-stub}}</text>
+      <sha1>lrd0z0jpdz844vqqm5mysc63gl48033</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Liar paradox in early Islamic tradition</title>
+    <ns>0</ns>
+    <id>30795401</id>
+    <revision>
+      <id>772751746</id>
+      <parentid>739262467</parentid>
+      <timestamp>2017-03-29T03:37:32Z</timestamp>
+      <contributor>
+        <username>Wbm1058</username>
+        <id>14383484</id>
+      </contributor>
+      <minor/>
+      <comment>disambiguate</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15477">Many early [[Islamic]] [[philosophers]] and [[logician]]s discussed the [[liar paradox]]. Their work on the subject began in the 10th century and continued to [[Athīr al-Dīn al-Abharī]] and [[Nasir al-Din al-Tusi]] of the middle 13th century&lt;ref name=A&amp;Sp97&gt;{{Harvnb|Alwishah|Sanson|2009|p=97}}&lt;/ref&gt; and beyond.&lt;ref name=A&amp;Sp123&gt;{{Harvnb|Alwishah|Sanson|2009|p=123}}&lt;/ref&gt; Although the Liar paradox has been well known in [[Greeks|Greek]] and [[Latin]] traditions, the works of Arabic scholars have only recently been translated into [[English language|English]].&lt;ref name=A&amp;Sp97/&gt;
+
+Each group of early Islamic philosophers discussed different problems presented by the paradox. They pioneered unique solutions that were not influenced by [[Western philosophy|Western]] ideas.
+
+== Athīr and the Liar paradox ==
+Athīr al-Dīn Mufaḍḍal (b. ʿUmar Abharī, d. 663/1264) was a [[Persian people|Persian]] [[philosopher]], [[astronomer]] and [[mathematician]] from the city of [[Abhar]] in [[Persia]]. There is some speculation that his works on the Liar paradox could have been known to Western logicians, and in particular to [[Thomas Bradwardine]].&lt;ref name=A&amp;Sp113&gt;{{Harvnb|Alwishah|Sanson|2009|p=113}}&lt;/ref&gt;
+
+He analyzed the Liar sentence as follows:
+
+{{quotation|One of the difficult [[fallacies]] is the conjunction of the two [[contradiction|contradictories]] (Jamʿal-naqīḍyan) when someone says, “All that I say at this moment is false”. This sentence (qawl) is either true or false. If it is true, then it must be true and false. And if it is not true, then it is necessary that one of his sentences at this moment is true, as long as he utters something. But, he says nothing at this moment other than this sentence. Thus, this sentence is necessarily true and false.&lt;ref name=A&amp;Sp107/&gt;}}
+
+In other words, Athīr says that if the Liar sentence is false, which means that the Liar falsely declares that all he says at the moment is false, then the Liar sentence is true; and, if the Liar sentence is true, which means that the Liar truthfully declares that all he says at the moment is false, then the Liar sentence is false. In any case, the Liar sentence is both true and false at the same time, which is a [[paradox]].&lt;ref name=A&amp;Sp107&gt;{{Harvnb|Alwishah|Sanson|2009|p=107}}&lt;/ref&gt;
+
+Athīr offers the following solution for the paradox:
+
+{{quotation|To solve the paradox we say: we should not concede that if it is false then one of his sentences (kalām) is true. For its being true is taken to be the [[De Morgan's laws#Negation of a conjunction|conjunction]] of its being true and being false. Therefore its being false necessitates the non-conjunction of its being true and being false. And the non-conjunction of its being true and being false does not necessitate
+its being true.&lt;ref name=A&amp;Sp107/&gt;}}
+
+According to the traditional idealization&lt;ref name=sep&gt;{{Citation
+  | last = Parsons
+  | first = Terence
+  | editor-last = Zalta
+  | editor-first = Edward N
+  | title = The Traditional Square of Opposition
+  | encyclopedia = The Stanford Encyclopedia of Philosophy
+  | volume = 
+  | pages = 
+  | publisher = Center for the Study of Language and Information, Stanford University
+  | location = Stanford, CA 
+  | date = 1 October 2006
+  | url = http://plato.stanford.edu/entries/square/}}&lt;/ref&gt; that presumably was used by Athīr, the sentence as an [[Universal proposition#Universality in logic|universal proposition]] is false only, when "either it has a counter-instance or its subject term is empty".&lt;ref name=A&amp;Sp108&gt;{{Harvnb|Alwishah|Sanson|2009|p=108}}&lt;/ref&gt;
+
+*Other examples of a counter-instance include: it is false to say that all birds could fly because there are some that could not, like for example [[penguin]]s.&lt;ref name=A&amp;Sp108/&gt;
+*Other examples of an empty subject term include: it is false to say that all [[Magic carpet|flying carpets]] have four corners, and not only because some carpets are round or have three corners, but rather because there are no flying carpets at all.&lt;ref name=A&amp;Sp108/&gt;
+
+The Liar sentence, however, has neither an empty subject nor counter-instance. This fact creates obstacles for Athīr's view, who must show what is unique about the Liar sentence, and how the Liar sentence still could be only true or false in view of the "true" and "false" conditions set up in the universal proposition's description. Athīr tries to solve the paradox by applying to it the laws of negation of a conjunction and negation of a disjunction.&lt;ref name=A&amp;Sp108/&gt;
+
+Ahmed Alwishah, who has a Ph.D. in Islamic [[Philosophy]] and David Sanson, who has a Ph.D. in Philosophy explain that Athīr actually claims that:
+
+(1) "It is not the case that, if the Liar Sentence is not both true and false, then it is true."&lt;ref name=A&amp;Sp110&gt;{{Harvnb|Alwishah|Sanson|2009|p=110}}&lt;/ref&gt;
+
+Alwishah and Sanson continue:
+"The general principle behind (1) is clear enough: the negation of a conjunction does not [[Logical consequence|entail]] the negation of a conjunct; so from not both true and false you cannot infer not false and so true. Abharī appears to be saying that the Liar rests on an elementary scope fallacy! But, of course, Abharī is not entitled to (1). In some cases, the negation of a conjunction does entail the negation of a conjunct: 'not both P and P' for example, entails 'not P'. As a general rule, the negation of a conjunction entails the negation of each conjunct whenever the conjuncts are logically equivalent, i.e., whenever the one follows from the other and vice verse. So Abharī is entitled to (1) only if he is entitled to assume that ‘The Liar Sentence is true’ and ‘The Liar Sentence is false’ are not logically equivalent."&lt;ref name=A&amp;Sp110/&gt;
+
+The Liar sentence is a universal proposition (The Liar says '''All''' I say ...), so "if it is (non&amp;ndash;[[vacuously]]) false it must have a counter&amp;ndash;instance".&lt;ref name=A&amp;Sp110/&gt; But in this case scenario, when the only thing that the liar is saying is the single sentence declaring that what he is saying at the moment is false, the only available counter&amp;ndash;instance is the Liar sentence itself. When staging the paradox Abharī said: "if it is not true, then it is necessary that one of his sentences at this moment is true, as long as he utters something. But, he says nothing at this moment other than this sentence. Thus, this sentence is [[logical truth|necessarily true]] and false"&lt;ref name=A&amp;Sp107/&gt; So the explanation provided by Abharī himself demonstrates that both "'The Liar Sentence is false' and 'The Liar Sentence is true' are [[logically equivalent]]. If they are logically equivalent, then, contrary to (1), the negation of the conjunction does entail the negation of each conjunct. Abharī’s 'solution; therefore fails."&lt;ref name=A&amp;Sp111&gt;{{Harvnb|Alwishah|Sanson|2009|p=111}}&lt;/ref&gt;
+
+==Nasir al-Din al-Tusi on the Liar paradox==
+[[File:Nasir al-Din Tusi.jpg|[[Naṣīr al-Dīn al-Ṭūsī]] commemorated on an Iranian stamp on the 700th anniversary of his death|250px|thumb]]
+
+Naṣīr al-Dīn al-Ṭūsī was a [[Persian people|Persian]]&lt;ref name=eb&gt;{{cite web|title=Tusi, Nasir al-Din al-|url=http://www.britannica.com/eb/article-9073899|work=Encyclopædia Britannica Online|publisher=Encyclopædia Britannica|date=27 December 2007}}&lt;/ref&gt; [[polymath]]&lt;ref name=Nasrp199&gt;{{Harvnb|Nasr|2006|p=199}}&lt;/ref&gt; and prolific writer: an [[Islamic astronomy|astronomer]], [[biologist]], [[Alchemy and chemistry in Islam|chemist]], [[Islamic mathematics|mathematician]], [[Early Islamic philosophy|philosopher]], [[Islamic medicine|physician]], [[Islamic physics|physicist]], [[Islamic science|scientist]], [[Kalam|theologian]] and [[Grand Ayatollah|Marja Taqleed]]. He adhered to the [[Ismaili]], and subsequently [[Twelver Shi`ism|Twelver]] [[Shia Islam|Shī‘ah]] [[Islam]]ic belief systems.&lt;ref name="Ṭūsīp2"&gt;{{Harvnb|Ṭūsī|2005|p=2}}&lt;/ref&gt; The Arab scholar [[Ibn Khaldun]] (1332–1406) considered Tusi to be the greatest of the later [[Persian people|Persian]] scholars.
+
+Ṭūsī's work on the paradox begins with a discussion of the paradox and the solution offered by Abharī, with which Ṭūsī disagrees. As Alwishah and Sanson point out "Ṭūsī argues that whatever fancy thing (conjunction, conditional) Abharī wants to identify as the truth condition for the Liar Sentence, it will not matter, because pace Abharī, we can generate the paradox without inferring, from the negation of a complex truth condition, the negation of one of its parts. We can argue directly that its being false entails the negation of its being false, and so entails its being true."&lt;ref name=A&amp;Sp114&gt;{{Harvnb|Alwishah|Sanson|2009|p=114}}&lt;/ref&gt;
+
+Ṭūsī then prepares a stage for his own solution of the Liar paradox, writing that:
+{{quotation|If a declarative sentence, by its nature, can declare-something-about anything, then it is possible that it itself can declare-something-about another declarative sentence.&lt;ref name=A&amp;Sp115&gt;{{Harvnb|Alwishah|Sanson|2009|p=115}}&lt;/ref&gt;}}
+
+He does not see a reason that could prevent a declarative sentence to declare something about another declarative sentence.&lt;ref name=A&amp;Sp115/&gt;
+
+With an example of two declarative sentences, (D1) "It is false" and (D2) "Zayd is sitting", Ṭūsī explains how one declarative sentence (D1) can declare another declarative sentence (D2) to be false: "It is false that Zayd is sitting".&lt;ref name=A&amp;Sp115/&gt; There is no paradox in the above two declarative sentences because they have different subjects. To generate a paradox a declarative sentence must declare something about itself. If (D1) falsely declares itself to be not (D1) then this false declaration referencing to itself as being "false" creates a paradox.&lt;ref name=A&amp;Sp115/&gt;
+
+Ṭūsī writes: {{Quotation|Moreover, if the first declarative sentence declares itself to be false, then [both] its being true, insofar as it is a declarative sentence, and its being false, insofar as it is that-about-which-something-is-declared, are concomitant. Thus, the following paradox can be generated: The first declarative sentence, which is a declaration (khabar) about itself, namely that it is false, is either false or true. If it is true, then it must be false, because it declares itself to be false. If it is false, then it must be true, because if it is said falsely, then it will become true, which is absurd.&lt;ref name=A&amp;Sp116&gt;{{Harvnb|Alwishah|Sanson|2009|p=116}}&lt;/ref&gt;}}
+
+The above conclusions are very important to the history of Liar Paradox. Alwishah and Sanson point out: "It is hard to overemphasize how remarkable this passage is. The contemporary reader will be familiar with the idea that the Liar Paradox is a paradox of selfreference. But Ṭūsī is, as far as we know, the first person to express this idea. This passage has no precedent in any tradition. Ṭūsī has performed three remarkable feats in short order. First, his Liar Sentence is singular: its subject is itself, and it declares itself to be false. Gone, then, is the choice between universal or particular Liar Sentence, and the associated problem of adding further assumptions to generate a genuine paradox. Second, he has characterized the paradox as one of [[List of paradoxes#Self-reference|self-reference]]. Third, he has identified a key assumption that might be responsible for generating the entire problem: the assumption that a declarative sentence, by its nature, can declare-something-about anything."&lt;ref name=A&amp;Sp116/&gt;
+
+Recognizing that, if a [[declarative sentence]] that [[Self-reference|declares itself]] being false, is false, this does not necessitate it being true. Ṭūsī says that it would be absurd to say that this declarative sentence is true only because it is not false.&lt;ref name=A&amp;Sp116/&gt; Ṭūsī writes:{{Quotation|. . . its being false, insofar as it is a declarative sentence, does not necessitate its being true. Instead, its being false necessitates the denial of its being false, insofar as it is that-about-which-something-is-declared, and [necessitates] its being false, insofar as it is a declarative sentence. Hence, we should not concede that, in this way, the denial of its being false necessitates its being true.&lt;ref name=A&amp;Sp117&gt;{{Harvnb|Alwishah|Sanson|2009|p=117}}&lt;/ref&gt;}}
+
+Ṭūsī then interprets the definitions of "true" and "false", in an attempt to prove that those definitions should not be taken into consideration when dealing with a declarative sentence that declares itself, as its own subject, to be false.
+
+Al-Baghdādī's definition of "truth" and "falsity" says that: ''"truth is an agreement with the subject, and falsity is the opposite of that"''. Ṭūsī argues that this definition cannot be applied to a declarative sentence that declares its own subject to be false because then there are at least two opposite parts that are in disagreement with each other. The same subject cannot be in disagreement with itself. Therefore a self&amp;ndash;referenced declarative sentence that declares itself to be false is neither false nor true, and truth/falsity definitions are not applicable to those sentences.&lt;ref name=A&amp;Sp121&gt;{{Harvnb|Alwishah|Sanson|2009|p=121}}&lt;/ref&gt;
+
+{{quotation|the result of a judgment that applies truth and falsity to something to which they in no way apply, and to apply them in any way is the misuse of a predicate.&lt;ref name=A&amp;Sp121/&gt;}}
+
+Ṭūsī stopped short from offering a solution for the Liar sentences discussed by Āmidī "All that I say at this moment is false". This sentence presents a different case scenario because it can be interpreted as declaring something about itself, and something about another sentence. The solution for this paradox is absent from Ṭūsī's papers.&lt;ref name=A&amp;Sp122&gt;{{Harvnb|Alwishah|Sanson|2009|p=122}}&lt;/ref&gt;
+
+==References==
+{{Reflist|2}}
+
+==Bibliography==
+*{{Citation
+ |last1=Alwishah 
+ |first1=Ahmed 
+ |last2=Sanson 
+ |first2=David 
+ |title=The Early Arabic Liar:The Liar Paradox in the Islamic World from the Mid-Ninth to the Mid-Thirteenth Centuries CE 
+ |journal=Vivarium 
+ |volume=47 
+ |issue=1 
+ |pages=97–127 
+ |publisher=Brill 
+ |location=Leiden 
+ |year=2009 
+ |url=http://files.davidsanson.com/research/ArabicLiar.pdf 
+ |issn=0042-7543 
+ |doi=10.1163/156853408X345909 
+ |id= 
+ |accessdate= 
+ |ref=CITEREFAlwishahSanson2009 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20110816043742/http://files.davidsanson.com/research/ArabicLiar.pdf 
+ |archivedate=August 16, 2011 
+}}
+
+*{{Citation
+  | last = Nasr
+  | first = Seyyed Hossein 
+  | authorlink = 
+  | coauthors = 
+  | title = Islamic Philosophy from Its Origin to the Present: Philosophy in the Land of Prophecy
+  | publisher = SUNY Press
+  | year = 2006
+  | location = Albany
+  | pages = 380
+  | url = 
+  | doi = 
+  | id = 
+  | isbn = 0-7914-6799-6
+  | ref=CITEREFNasr2006}}
+
+*{{Citation
+  | last =Ṭūsī
+  | first =Naṣīr al-Dīn Muḥammad ibn Muḥammad
+  | last2 =Badakchani 
+  | first2 =S. J.
+  | year =2005
+  | title =Paradise of Submission: A Medieval Treatise on Ismaili Thought
+  | series =Ismaili Texts and Translations
+  | volume =5
+  | place =London
+  | publisher =I.B. Tauris in association with Institute of Ismaili Studies
+  | pages =300
+  | isbn =1-86064-436-8
+  | ref=CITEREFṬūsī2005}}
+
+{{DEFAULTSORT:Liar Paradox In Early Islamic Tradition}}
+[[Category:Paradoxes]]
+[[Category:Communication of falsehoods]]
+[[Category:Self-reference]]
+[[Category:Early Islamic philosophy]]</text>
+      <sha1>ran4tri42dnkij5saje6l3xj5qbl5j1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Metabibliography</title>
+    <ns>0</ns>
+    <id>33447383</id>
+    <revision>
+      <id>806400085</id>
+      <parentid>806399933</parentid>
+      <timestamp>2017-10-21T19:49:27Z</timestamp>
+      <contributor>
+        <username>BirgerH</username>
+        <id>5649079</id>
+      </contributor>
+      <minor/>
+      <comment>added date for termination of bibliographic index</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2910">A '''metabibliography''' (or '''biblio-bibliography''') is a [[bibliography]] of bibliographies.
+
+Bibliographies serve the finding of relevant documents. Metabibliographies serve the finding of the relevant bibliographies in which the relevant documents may be found. One might quote Patrick Wilson:
+
+"For if knowledge is power, power over knowledge is power to increase one's power; and if the stock of writings is thought of mainly as it represents a stock of knowledge, it is natural to propose treating it as a "resource" to be subjected to rational control, managemenet and utilization." (Wilson, 1968, p. 145).
+
+Metabibliographies are valuable for building reference collections, but usually of less interest to the average user, who rely on bibliographies selected by others.
+
+==Examples==
+
+* Balay, R. (Ed.). (1996). Guide to reference books. 11th ed. Chicago: American Library Association. Now as an online service: Guide to reference (2008- ).
+* Besterman, T. A. (1965-1966). A world bibliography of bibliographies and of bibliographical catalogues, calendars, abstracts, digests, indexes and the like. 4. Ed. Vol. 1-5. Totowa.
+* [[Bibliographic index]]. A cumulative bibliography of bibliographies. New York : Wilson, 1938-2011. Vol. 1-. (terminated). Retrieved from: http://www.hwwilson.com/Databases/biblio.htm
+* Carroll, B. A.; Fink, C. F. &amp; Mohraz, J. E. (Eds.). (1983). Peace and war. A guide to bibliographies. Santa Barbara, Calif. : ABC-Clio. (War/peace bibliography series. #16 ).
+* "Dialindex" (File 411). Dialog. (See Dialog blue sheet: http://library.dialog.com/bluesheets/html/bl0411.html).
+* Gale Directory of online, portable, and internet databases. (See: Dialog blue sheet: dialog.com/bluesheets/html/bl0230.html).
+* Lester, R. (Ed.). (2005-). The New Walford Guide to reference resources Vol. 1-3. (Vol. 1, 2005: Science, Technology and Medicine. Vol. 2, 2007: The Social Sciences; Vol. 3, 2013: The Arts: Visual Arts, Music, Language and Literature. (1st edition published 1959).
+* Totok, W. &amp; Weitzel, R. (Eds.). (1984-1985). Handbuch der bibliographischen Nachschlagewerke. Hrsg. v. Hans-Jürgen und Dagmar Kernchen. 6., erw., völlig neu bearb. Aufl. Frankfurt a.M. : Klostermann. (2 Vols).
+* Webb, W. H. et al. (Ed.). (1986). Sources of information in the social sciences. A Guide to the literature. 3. ed. Chicago : American Library Association.
+
+==See also==
+* [[Bibliographic control]]
+* [[Guide to information sources]] (or: Bibliographic guide, literature guide, guide to reference materials subject gateway).
+* [[Wikipedia:List of bibliographies]]
+*[[List of lists of lists]]
+
+==References==
+*Wilson, Patrick (1968). ''Two kinds of Power: an essay on bibliographical control.'' Berkeley, Calif.: University of California Press.
+
+[[Category:Information science]]
+[[Category:Bibliography]]
+[[Category:Reference works]]
+[[Category:Works about history]]
+[[Category:Sources]]</text>
+      <sha1>mo2u5dvzc8jhr4xxqr1t7is9ftbbqbh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Reference work</title>
+    <ns>0</ns>
+    <id>25727</id>
+    <revision>
+      <id>846253158</id>
+      <parentid>836215616</parentid>
+      <timestamp>2018-06-17T13:25:24Z</timestamp>
+      <contributor>
+        <username>Finnusertop</username>
+        <id>19089174</id>
+      </contributor>
+      <comment>/* Further reading */ portal</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6295">{{About|a kind of publication|the work that librarians perform at a library reference desk|Library reference desk}}
+{{Expand German|Nachschlagewerk|date=May 2012}} 
+[[File:2010-09 CPOV IMG 6251.JPG|thumb|The ''[[Brockhaus Enzyklopädie]]'', the best known traditional reference book in German-speaking countries]]
+[[File:LexikondesMittelalters.JPG|thumb|The ''[[Lexikon des Mittelalters]]'' (Dictionary of the Middle Ages), a specialised German encyclopedia]]
+[[File:Encyclopaedia Britannica 15 with 2002.jpg|thumb|''[[Encyclopædia Britannica]]'', 15th edition: volumes of the Propedia (green), Micropedia (red), Macropedia, and 2-volume Index (blue)]]
+A '''reference work''' is a [[book]] or [[periodical literature|periodical]] (or [[electronic publishing|its electronic equivalent]]) to which one can refer for [[information]]. The information is intended to be found quickly when needed. Reference works are usually ''referred'' to for particular pieces of information, rather than read beginning to end. The writing style used in these works is informative; the authors avoid use of the first person, and emphasize facts. Many reference works are compiled by a team of contributors whose work is coordinated by one or more editors rather than by an individual author. [[index (publishing)|Indices]] are commonly provided in many types of reference work. Updated [[edition (book)|edition]]s are usually published as needed, in some cases [[annual publication|annually]] (e.g. ''[[Whitaker's Almanack]]'', ''[[Who's Who]]''). Reference works include [[dictionary|dictionaries]], [[thesaurus]]es, [[encyclopedia]]s, [[almanac]]s, [[bibliography|bibliographies]], and [[Library catalog|catalogs]] (e.g. catalogs of libraries, museums or the works of individual artists).&lt;ref name=Library&gt;{{cite web|last=The University of Santo Tomas Miguel de Benavides Library|title=The Reference Materials|url=http://library.ust.edu.ph/pages/reference.html|accessdate=3 May 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120507153507/http://library.ust.edu.ph/pages/reference.html|archivedate=7 May 2012|df=dmy-all}}&lt;/ref&gt; Many reference works are available in electronic form and can be obtained as [[application software]], [[CD-ROM]]s, [[DVD]]s, or online through the [[Internet]].
+
+A reference work is useful to its users if they attribute some degree of [[trust (emotion)|trust]].
+
+==Reference book==
+In comparison, a '''reference book''' or reference-only book in a [[library]] is one that may only be used in the library and may not be borrowed from the library. Many such books are reference works (in the first sense), which are, usually, used briefly or photocopied from, and therefore, do not need to be borrowed. Keeping reference books in the library assures that they will always be available for use on demand. Some reference-only books are too valuable to permit borrowers to take them out. Reference-only items may be shelved in a reference collection located separately from [[library circulation|circulating]] items. Some libraries consist entirely, or to a large extent, of books which may not be borrowed.
+
+==Electronic resources==
+An electronic resource is a piece of information that is stored electronically, which is usually found on a computer, including information that is available on the internet.&lt;ref&gt;{{cite web|last=AllWords.com|title=Electronic Resources|url=http://www.allwords.com/word-electronic+resource.html}}&lt;/ref&gt; Libraries offer numerous types of electronic resources, such as subject research guides, indices, electronic books and texts, electronic journals, library catalogs, reference sources, statistical sources, sound recordings, and image databases.&lt;ref&gt;{{cite web|last=The University of Chicago Library|title=Types of Electronic Resources|url=https://www.lib.uchicago.edu/e/net/types.html|accessdate=3 May 2012}}&lt;/ref&gt;
+
+==References==
+&lt;references /&gt;
+
+==Further reading==
+;General
+*''American Reference Books Annual: ARBA''. Littleton, Col.: Libraries Unlimited, 1970-
+*Bergenholtz, H., Nielsen, S., Tarp, S. (eds.): ''Lexicography at a Crossroads: Dictionaries and Encyclopedias Today, Lexicographical Tools Tomorrow''. Peter Lang 2009. {{ISBN|978-3-03911-799-4}}
+*Higgens, G., ed. (1980) ''Printed Reference Material'' (Handbooks on Library Practice.) London: Library Association
+*Katz, W. A. (1978) ''Introduction to Reference Work''; 3rd ed. 2 vols. New York: McGraw-Hill
+*Nielsen, Sandro "The Effect of Lexicographical Information Costs on Dictionary Making and Use". In: ''[[Lexikos]]'' '''18''' (2008), 170-189.
+
+;Guides to reference works
+Sheehy's Guide is less international in its scope than Walford: "It seems that Walford is a somewhat better balanced work than Winchell, and is certainly much more comprehensive"--''American Reference Books Annual'', quoted in Walford, A. J. (1981) ''Walford's Concise Guide to Reference Material''. London: Library Association {{ISBN|0-85365-882-X}}; p.&amp;nbsp;19.
+*Heeks, P., comp. (1968) ''Books of Reference for School Libraries: an annotated list''; 2nd ed. London: Library Association (a basic list of 301 annotated entries useful for any small library)
+*Malclès, L.-N. (1950) ''Les sources du travail bibligraphique''. 3 vols. in 4. Geneva: Droz, 1950-58 (reissued by Minard, Paris, &amp; French &amp; European Publications, New York, 1966)
+*[[Eugene P. Sheehy|Sheehy, E. P.]] et al., comps. (1976) ''[[Guide to Reference]] Books''; 9th ed. Chicago: [[American Library Association]]; Supplement, 1980 (began with a guide compiled by A. B. Kroeger, 1917; 3rd-6th eds. by I. G. Mudge; 7th &amp; 8th by [[Constance Mabel Winchell|C. M. Winchell]])
+*Totok, W. &amp; Weitzel, R. (1972) ''Handbuch der bibliographischen Nachschlagewerke''; 4. Aufl., hrg. von W. Totok, K.-H. Weimann, R. Weitzel. Frankfurt am Main: Klostermann (1st ed. 1954)
+*{{cite book
+|title=Walford's Guide to Reference Material
+|publisher=Library Association Publishing
+|format=3 vols.
+|location=London
+|first=Alan (editor) 
+|last=Day
+|year=1998}}
+*{{cite book
+|title=Walford's Guide to Reference Material
+|author=Walford, A. J.
+|edition=4th
+|publisher=Library Association
+|location=London
+|year=1980–82 }}
+
+{{Lexicography}}
+{{Portal bar|Reference works}}
+{{Authority control}}
+{{Use dmy dates|date=April 2017}}
+
+[[Category:Reference works| ]]</text>
+      <sha1>q4zhxfhzw7puv5mbj53jjwonf29qyno</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Roving reference</title>
+    <ns>0</ns>
+    <id>47089125</id>
+    <revision>
+      <id>723854025</id>
+      <parentid>704089367</parentid>
+      <timestamp>2016-06-05T18:14:44Z</timestamp>
+      <contributor>
+        <username>Dcirovic</username>
+        <id>11795905</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */refs using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2318">'''Roving reference''', also called '''roaming reference''', is a library service model in which, instead of being positioned at a static [[reference desk]], a [[librarian]] moves throughout the library to locate patrons with questions or concerns and offer them help in finding or using library resources.&lt;ref name=ifla&gt;{{Cite web|url=http://archive.ifla.org/VII/dg/dgrw/dp99-05.htm|publisher=IFLA|title=Roving Reference: A New Approach to User Services|author1=Courtois, Martin |author2=Liriano, Maira |date=31 May 1999}}&lt;/ref&gt;
+
+==History==
+Roving reference as a library service practice was first formalized in the late 1980s and early 1990s. A 1999 report from the [[International Federation of Library Associations]] identified several advantages and disadvantages with roving reference in the pre-mobile era. The roving model allowed librarians to engage with "the majority of users who have questions in mind [who] do not approach the reference desk for assistance".&lt;ref name=ifla/&gt; However, libraries reported that some staff were uncomfortable with the practice, and that there were concerns about user privacy.&lt;ref name=ifla/&gt;
+
+Beginning in the 2000s, librarians used laptops or laptop carts to engage in technology-supported roaming reference. Since the development of mobile technologies, roving reference can be facilitated with the use of such technologies, such as [[tablet computer]]s, which allow librarians to readily check the [[online public access catalogue]] or the library's electronic databases while away from their desk.&lt;ref&gt;Smith, Annie; Stevens, Mark (2012). "We're Going Mobile: Roving Reference in an Academic Library" Utah Library Association.&lt;/ref&gt; This has contributed to the increased popularization of roving-reference programs as supplements for more traditional reference desks. The model has also been extended to service beyond the library building (library outreach), for example in a dormitory or faculty building at an academic institution.&lt;ref&gt;{{cite book|editors=Bowers, Jennifer; Forbes, Carrie|title=Rethinking Reference for Academic Libraries: Innovative Developments and Future Trends|year=2014|publisher=Rowman &amp; Littlefield|chapter=Roving Reference|author=Wilkinson, Zara|pages=85&amp;ndash;98|isbn=9781442244535}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+[[Category:Reference]]</text>
+      <sha1>o2hwe4sogfl9kolos9dnzxv0r3p6q3x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Self-reference puzzle</title>
+    <ns>0</ns>
+    <id>16122539</id>
+    <revision>
+      <id>827121631</id>
+      <parentid>794026807</parentid>
+      <timestamp>2018-02-22T22:08:23Z</timestamp>
+      <contributor>
+        <username>Me, Myself, and I are Here</username>
+        <id>17619453</id>
+      </contributor>
+      <minor/>
+      <comment>layout</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="841">{{refimprove|date=August 2017}}
+{{Puzzles}}
+A '''self-reference puzzle''' is a type of [[logic]]al [[puzzle]] where the question in the puzzle refers to the attributes of the puzzle itself.&lt;ref&gt;[http://www.ddewey.net/puzzle/ Base 3 self-reference puzzles]&lt;/ref&gt;
+A common example is that a "fill in the blanks" style sentence is given, but what is filled in the blanks can contribute to the sentence itself. An example is "There are _____ e's in this sentence.", for which a solution is "eight" (since including the "eight", there are 8 e's in the sentence).
+
+==References==
+{{reflist}}
+== Examples ==
+* [http://www.drunkmenworkhere.org/170 Jim Propp's original SRAT]
+* [https://www.brainzilla.com/logic/self-referential-quiz/ Interactive self-referential quizzes]
+{{logic-stub}}
+
+[[Category:Logic puzzles]]
+[[Category:Self-reference|Puzzle]]</text>
+      <sha1>kspm9chzrhqi4ejaxhx5nyrozxg272h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Self-referential humor</title>
+    <ns>0</ns>
+    <id>858507</id>
+    <revision>
+      <id>863506573</id>
+      <parentid>854582619</parentid>
+      <timestamp>2018-10-11T06:12:38Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:AnomieBOT/docs/TemplateSubster|Substing templates]]: {{Incomplete}}. See [[User:AnomieBOT/docs/TemplateSubster]] for info.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2780">{{refimprove|date=September 2017}}
+ 	
+[[File:No Thumbtacks.jpg|thumb|300px]]'''Self-referential humor''', also known as '''self-reflexive humor''' or '''meta humor''', is a type of [[Expression (language)|comedic expression]]&lt;ref&gt;{{cite web|url=http://www2.vo.lu/homepages/phahn/humor/self_ref.htm |title=Sentences about Self-Reference and Recurrence |publisher=.vo.lu |date= |accessdate=2012-08-21}}&lt;/ref&gt; that—either directed toward some other subject, or openly directed toward itself—intentionally [[allude]]s to the very person who is expressing the [[humor]] in a comedic fashion, or to some specific aspect of that same comedic expression.  Self-referential humor expressed discreetly and [[surreal humor|surrealistically]] is a form of [[bathos]]. In general, self-referential humor often uses [[hypocrisy]], [[oxymoron]], or [[paradox]] to create a contradictory or otherwise absurd situation that is humorous to the audience.&lt;ref&gt;[[Self referential humor]]&lt;/ref&gt; 
+
+Self-referential humor is sometimes combined with breaking the [[fourth wall]] to explicitly make the reference directly to the audience, or make self-reference to an element of the medium that the characters should not be aware of.
+
+[[Old Comedy]] of Classical Athens is held to be the first—in the extant sources—form of self-referential comedy. [[Aristophanes]], whose plays form the only remaining fragments of Old Comedy, used fantastical plots, grotesque and inhuman masks and status reversals of characters to slander prominent politicians and court his audience's approval.&lt;ref&gt;Alan Hughes; ''Performing Greek Comedy'' (Cambridge, 2012)&lt;/ref&gt;
+
+==Examples==
+{{main|Self referential humor|selfref=yes}} &lt;!--&lt;&lt;&lt; If you are tempted to remove this, then see  https://en.wikipedia.org/?oldid=830118246#see_also_link  --&gt;
+
+[[RAS syndrome]] refers to the redundant use of one or more of the words that make up an [[acronym]] or initialism with the abbreviation itself, thus in effect repeating one or more words. However, "RAS" stands for '''R'''edundant '''A'''cronym '''S'''yndrome; therefore, the full phrase yields "Redundant Acronym Syndrome syndrome" and is self-referencing in a comical manner.  It also reflects an excessive use of [[Three-letter acronym|TLA]]s ('''T'''hree '''L'''etter '''A'''cronyms).
+
+[[Meta]] has come to be used, particularly in art, to refer to something that is self-referential. Popularised by [[Douglas Hofstadter]] who wrote several books on himself and the subject of self-reference, [[meta-joke]]s are a popular form of humor.
+
+==See also==
+* [[Self-reference]]
+* [[Indirect self-reference]]
+* [[In-joke]]
+* [[Intertextuality]]
+* [[Meta-joke]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Self-Referential Humor}}
+[[Category:Humour]]
+[[Category:Self-reference]]</text>
+      <sha1>htw9fpnxclxph1tajllt6a8yp5bm7t9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stephanus pagination</title>
+    <ns>0</ns>
+    <id>738307</id>
+    <revision>
+      <id>859181833</id>
+      <parentid>844411280</parentid>
+      <timestamp>2018-09-12T08:39:44Z</timestamp>
+      <contributor>
+        <username>Omnipaedista</username>
+        <id>8524693</id>
+      </contributor>
+      <comment>resectioning per WP:LEAD</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7857">[[Image:theaetetus stephanus page142.jpg|thumb|Volume 1, Page 142 of the 1578 Stephanus edition of Plato, showing the opening of ''Theaetetus'']]
+
+'''Stephanus pagination''' is a system of reference and organization used in modern editions and translations of [[Plato]] (and less famously, [[Plutarch]]) based on the three volume 1578 edition&lt;ref&gt;''Platonis opera quae extant omnia'' edidit Henricus Stephanus, Genevae, 1578.&lt;/ref&gt; of Plato's complete works translated by Joannes Serranus ([[Jean de Serres]]) and published by Henricus Stephanus ([[Henri Estienne]]) in [[Geneva]].
+
+==Overview==
+In the case of Plato's works, Stephanus pagination first divides the works into numbers that are the page numbers of each of the Stephanus edition's three volumes, and each such page and page number is further subdivided into lettered sections which correspond to parallel Greek/Latin translated passages on a given page, mostly commonly a, b, c, d, and e.  This system is used in modern scholarship to cite Plato.  For Plato's works, unique coordinates for a passage can therefore be given with three pieces of information: the work's name, the (Stephanus) page number, and the letter denoting the passage.  For example, "''Symposium'' 172a" cites ''[[Symposium (Plato)|Symposium]]'', Stephanus page 172 (the volume in which ''Symposium'' occurs, as it happens, volume 3), passage a.  To avoid ambiguity in this scheme, either the Platonic work or the volume must be cited; absent this, "page 50" might refer to any of the "pages 50" across Stephanus' three volumes.  Reference to Stephanus manifestly presupposes the existing ordering of the work in its given volumes, but given historical disagreement as to the chronology and proper ordering of Plato's works, care should therefore be taken when referring to Stephanus pagination as opposed to another scheme.
+
+More specific citations may add line numbers, e.g. ''Symposium'' 209a5–9, but these generally refer to the lines in [[John Burnet (classicist)|John Burnet]]'s [[Oxford Classical Text]], not to Estienne's line divisions.
+
+There are some peculiarities in the Stephanus page numbers. The length of each page and each paragraph can vary if extra commentary appears on the page of the 1578 edition. Thus Stephanus pages are not all of the same length. Some pages do not have all the paragraphs a through e. There are also gaps in the sequence of Stephanus page numbers for Plato's ''[[Republic (Plato)|Republic]]'' and ''[[Laws (dialogue)|Laws]]''. The reason is that the editors added separate introductions to each 'book' of these longer works, and thus the page numbers of these introductions are not used to refer to pages in Plato's dialogues. 
+
+The spurious dialogue ''[[Halcyon (dialogue)|Halcyon]]'' was included in the corpus of [[Lucian]]'s works and does not have Stephanus numbers.
+
+[[Bekker numbering]] is the comparable system for the works of [[Aristotle]], and [[Diels–Kranz numbering]] is the comparable system for [[Pre-Socratic philosophy]].  Unlike Stephanus pagination, Bekker numbering starts with page 1 and proceeds through all of Aristotle's works without starting over, regardless of the number of volumes needed for a given edition.  Bekker numbering therefore has the advantage, not shared by Stephanus pagination, of giving compact, unambiguous numerical citation of a given passage, page, etc, without the absolute necessity in order to avoid ambiguity to specify the dialogue, work or volume which exists in the case of Stephanus.
+
+==Stephanus numbers==
+
+===Volume 1===
+* (2a–16a) ''[[Euthyphro]]''
+* (17a–42a) ''[[Apology (Plato)|Apologia Socratis]]''
+* (43a–54e) ''[[Crito]]''
+* (57a–118a) ''[[Phaedo]]''
+* (121a–131a) ''[[Theages]]''
+* (132a–139a) ''[[Rival Lovers|Amatores]]''
+* (142a–210d) ''[[Theaetetus (dialogue)|Theaetetus]]''
+* (216a–268b) ''[[Sophist (dialogue)|Sophista]]''
+* (271a–307c) ''[[Euthydemus (dialogue)|Euthydemus]]''
+* (309a–362a) ''[[Protagoras (dialogue)|Protagoras]]''
+* (363a–376c) ''[[Hippias Minor]]''
+* (383a–440e) ''[[Cratylus (dialogue)|Cratylus]]''
+* (447a–527e) ''[[Gorgias (dialogue)|Gorgias]]''
+* (530a–542b) ''[[Ion (dialogue)|Ion]]''
+
+===Volume 2===
+* (11a–67b) ''[[Philebus]]''
+* (70a–100b) ''[[Meno]]''
+* (103a–135e) ''[[First Alcibiades|Alcibiades I]]''
+* (138a–151c) ''[[Second Alcibiades|Alcibiades II]]''
+* (153a–176d) ''[[Charmides (dialogue)|Charmides]]''
+* (178a–201c) ''[[Laches (dialogue)|Laches]]''
+* (203a–223b) ''[[Lysis (dialogue)|Lysis]]''
+* (225a–232c) ''[[Hipparchus (dialogue)|Hipparchus]]''
+* (234a–249e) ''[[Menexenus (dialogue)|Menexenus]]''
+* (257a–311c) ''[[Statesman (dialogue)|Politicus]]''
+* (313a–321d) ''[[Minos (dialogue)|Minos]]''
+* ''[[Republic (dialogue)|Respublica]]''
+:* (327a–354c) ''Respublica'' I
+:* (357a–383c) ''Respublica'' II 
+:* (386a–417b) ''Respublica'' III 
+:* (419a–445e) ''Respublica'' IV 
+:* (449a–480a) ''Respublica'' V 
+:* (484a–511e) ''Respublica'' VI 
+:* (514a–541b) ''Respublica'' VII 
+:* (543a–569c) ''Respublica'' VIII 
+:* (571a–592b) ''Respublica'' IX 
+:* (595a–621d) ''Respublica'' X 
+* ''[[Laws (dialogue)|Leges]]''
+:* (624a–650b) ''Leges'' I
+:* (652a–674c) ''Leges'' II
+:* (676a–702e) ''Leges'' III
+:* (704a–724b) ''Leges'' IV
+:* (726a–747e) ''Leges'' V
+:* (751a–785b) ''Leges'' VI
+:* (788a–824a) ''Leges'' VII
+:* (828a–850c) ''Leges'' VIII
+:* (853a–882c) ''Leges'' IX
+:* (884a–910d) ''Leges'' X
+:* (913a–938c) ''Leges'' XI
+:* (941a–969d) ''Leges'' XII
+* (973a–992e) ''[[Epinomis]]''
+
+===Volume 3===
+[[Image:Timaeus stephanus pages 32 33.jpg|thumb|400px|Volume 3, pages 32–33, of the 1578 Stephanus edition of Plato, showing a passage of ''Timaeus'' with the Latin translation and notes of [[Jean de Serres]]]]
+* (17a–92c) ''[[Timaeus (dialogue)|Timaeus]]''
+* (106a–121c) ''[[Critias (dialogue)|Critias]]''
+* (126a–166c) ''[[Parmenides (dialogue)|Parmenides]]''
+* (172a–223d) ''[[Symposium (Plato dialogue)|Symposium]]''
+* (227a–279c) ''[[Phaedrus (dialogue)|Phaedrus]]''
+* (281a–304e) ''[[Hippias Major]]''
+* (309a–363e) ''[[Epistles (Plato)|Epistolae]]''
+** (309a–310b) [[First Letter (Plato)|Epistola I]]
+** (310b–315a) [[Second Letter (Plato)|Epistola II]]
+** (315a–319e) [[Third Letter (Plato)|Epistola III]]
+** (320a–321c) [[Fourth Letter (Plato)|Epistola IV]]
+** (321c–322c) [[Fifth Letter (Plato)|Epistola V]]
+** (322c–323d) [[Sixth Letter (Plato)|Epistola VI]]
+** (323d–352a) [[Seventh Letter (Plato)|Epistola VII]]
+** (352b–357d) [[Eighth (Plato)|Epistola VIII]]
+** (357d–358b) [[Ninth Letter (Plato)|Epistola IX]]
+** (358b–358c) [[Tenth Letter (Plato)|Epistola X]]
+** (358d–359c) [[Eleventh (Plato)|Epistola XI]]
+** (359c–359e) [[Twelfth (Plato)|Epistola XII]]
+** (360a–363e) [[Thirteenth (Plato)|Epistola XIII]]
+* (364a–372a) ''[[Axiochus (dialogue)|Axiochus]]''
+* (372a–375d) ''[[On Justice|De Justitia]]''
+* (376a–379d) ''[[On Virtue|De Virtute]]''
+* (380a–386b) ''[[Demodocus (dialogue)|Demodocus]]''
+* (387b–391d) ''[[Sisyphus (dialogue)|Sisyphus]]''
+* (392a–406a) ''[[Eryxias (dialogue)|Eryxias]]''
+* (406a–410e) ''[[Clitophon (dialogue)|Clitopho]]''
+* (411a–416a) ''[[Definitions (Plato)|Definitiones]]''
+
+==See also==
+* [[Bekker numbering]]
+* [[Diels–Kranz numbering]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [http://plato-dialogues.org/faq/faq007.htm Explanation for Quoting Plato: Stephanus references]
+* [https://archive.org/details/platonisoperaqua01plat Vol. 1], [https://archive.org/details/platonisoperaqua02plat Vol. 2] and [https://archive.org/details/platonisoperaqua03plat Vol. 3] – scan of Stephanus' Plato edition from 1578
+
+[[Category:Plato]]
+[[Category:Platonism]]
+[[Category:Referencing systems]]
+[[Category:1578]]
+[[Category:Classical Greek philosophy studies]]</text>
+      <sha1>dkvpkk32pckprrdq8uci1qevbyggbyw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tertiary source</title>
+    <ns>0</ns>
+    <id>1007243</id>
+    <revision>
+      <id>868501284</id>
+      <parentid>868501174</parentid>
+      <timestamp>2018-11-12T16:22:51Z</timestamp>
+      <contributor>
+        <username>Classicwiki</username>
+        <id>18847693</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/195.195.56.4|195.195.56.4]] ([[User talk:195.195.56.4|talk]]) to last revision by 2600:1017:B01C:F5C3:4122:41A4:EFA2:E9C6. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3970">{{short description|Index or textual consolidation of primary and secondary sources}}
+{{selfref|For Wikipedia's policy on the use of tertiary sources, see [[WP:TERTIARY]].}}
+{{Distinguish|Tertiary sector}}
+A '''tertiary source''' is an index or textual consolidation of [[Primary source|primary]] and [[secondary source]]s.&lt;ref name="umd"&gt; [http://www.lib.umd.edu/ues/guides/primary-sources Primary, secondary and tertiary sources.] {{Webarchive|url=https://web.archive.org/web/20130703015116/http://www.lib.umd.edu/ues/guides/primary-sources |date=2013-07-03 }}". University Libraries, University of Maryland. Retrieve 07/26/2013&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.lib.odu.edu/genedinfolit/1infobasics/tertiary_information_sources.html|title=Tertiary Information Sources|date=September 2012|publisher=Old Dominion University -- ODU Libraries|accessdate=20 June 2013}}&lt;/ref&gt;&lt;ref name=JCU&gt;"[http://libguides.jcu.edu.au/tertiary Tertiary sources]". James Cook University.&lt;/ref&gt; Some tertiary sources are not to be used for academic [[research]], unless they can also be used as secondary sources, or to find other sources.&lt;ref name=newhaven&gt;"[http://libguides.newhaven.edu/content.php?pid=465151&amp;sid=3809011 Primary, Secondary, and Tertiary Resources]". University of New Haven.&lt;/ref&gt;
+
+==Overlap with secondary sources==
+Depending on the topic of research, a scholar may use a [[bibliography]], [[dictionary]], or [[encyclopedia]] as either a tertiary or a secondary source.&lt;ref name="umd"&gt; [http://www.lib.umd.edu/ues/guides/primary-sources Primary, secondary and tertiary sources.] {{Webarchive|url=https://web.archive.org/web/20130703015116/http://www.lib.umd.edu/ues/guides/primary-sources |date=2013-07-03 }}". University Libraries, University of Maryland. Retrieve 07/26/2013&lt;/ref&gt; This causes difficulty in defining many sources as either one type or the other.
+
+In some [[academic discipline]]s the differentiation between a secondary and tertiary source is relative.&lt;ref name="umd"/&gt;&lt;ref name=JCU /&gt; 
+
+In the [[UNISIST model|United Nations International Scientific Information System (UNISIST) model]], a secondary source is a bibliography, whereas a tertiary source is a synthesis of primary sources.&lt;ref&gt;{{Cite journal | last1 = Søndergaard | first1 = T. F. | last2 = Andersen | first2 = J. | last3 = Hjørland | first3 = B. | doi = 10.1108/00220410310472509 | title = Documents and the communication of scientific and scholarly information: Revising and updating the UNISIST model | journal = Journal of Documentation | volume = 59 | issue = 3 | pages = 278 | year = 2003 | pmid =  | pmc = }}&lt;/ref&gt;
+
+==Types of tertiary sources==
+As tertiary sources, encyclopedias, [[textbook]]s, and [[compendium|compendia]] attempt to summarize, collect, and consolidate the source materials into an overview, but may also present subjective, or biased commentary and analysis (which are characteristics of secondary sources).
+
+[[Bibliographic index|Indexes]], bibliographies, [[Concordance (publishing)|concordances]], and [[Database#Research|databases]] may not provide much textual information, but as aggregates of primary and secondary sources, they are often considered tertiary sources. So although tertiary sources are both primary and secondary, they are more towards a secondary source because of commentary and bias.
+
+[[Almanac]]s, [[guide book|travel guides]], [[field guide]]s, and [[timeline]]s are also examples of tertiary sources.
+
+Survey or overview articles are usually tertiary, though [[review articles]] in peer-reviewed [[academic journals]] are secondary (not be confused with film, book, etc. [[review]]s, which are primary-source opinions).
+
+Some usually primary sources, such as [[User guide|user guides and manuals]], are secondary or tertiary (depending on the nature of the material) when written by third parties.
+
+==See also==
+* [[Source text]]
+
+==Notes==
+{{reflist|2}}
+
+
+[[Category:Sources| ]]
+
+
+[[de:Sekundärliteratur#Tertiärliteratur]]</text>
+      <sha1>tjxxtnup92soe159kanm52n33q664i6</sha1>
+    </revision>
+  </page>
+</mediawiki>

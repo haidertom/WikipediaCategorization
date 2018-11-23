@@ -7,12 +7,8 @@ import os
 
 class Classify:
 	def __init__(self, mfw = 150):
-
 		self.BFdict = {}
-
 		self.mfw = mfw
-
-		pass
 
 	def train_Baseline(self):
 
@@ -35,7 +31,6 @@ class Classify:
 			for art in articles:
 				for word in art.most_common(self.mfw):
 					self.BFdict[cat].train(word[0])
-
 
 	def check_article(self, title, category):
 
@@ -74,7 +69,6 @@ class Classify:
 def main():
 
 	CL = Classify(mfw = 150)
-
 
 	CL.train_Baseline()
 
