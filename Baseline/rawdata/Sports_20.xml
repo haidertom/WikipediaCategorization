@@ -921,18 +921,17 @@ Disabled drivers have competed in motorsport versus fully abled drivers, for exa
     <ns>0</ns>
     <id>9933</id>
     <revision>
-      <id>870129190</id>
-      <parentid>870129039</parentid>
-      <timestamp>2018-11-22T16:11:09Z</timestamp>
+      <id>870170539</id>
+      <parentid>870170376</parentid>
+      <timestamp>2018-11-22T22:27:33Z</timestamp>
       <contributor>
-        <username>CLCStudent</username>
-        <id>26398660</id>
+        <username>Erik den yngre</username>
+        <id>15808443</id>
       </contributor>
-      <minor/>
-      <comment>Reverted edits by [[Special:Contribs/2600:387:1:817:0:0:0:B4|2600:387:1:817:0:0:0:B4]] ([[User talk:2600:387:1:817:0:0:0:B4|talk]]) to last version by Pelmeen10</comment>
+      <comment>/* List of extreme sports */ basis for claim?</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="25624">{{Original research|date=May 2008}}
+      <text xml:space="preserve" bytes="25674">{{Original research|date=May 2008}}
 [[File:windsurf-wipeout.jpg|thumb|400px|Wave jumping wipeout. While attempting a forward loop in overpowered storm conditions off the coast of [[Cantabria]], Spain, windsurfer Justin Wheeler gets catapulted into a high double flip.]]
 [[File:Ice Climbing.jpg|thumb|400px|A solo ascent of a steep ice slope]]
 
@@ -1105,7 +1104,7 @@ Extreme sports trigger the release of the hormone adrenaline.&lt;ref&gt;{{Cite j
 * [[Freestyle scootering]]{{cn|date=February 2018}}
 * [[Freestyle skiing]] &lt;ref name="brit"&gt;{{cite web|url=https://www.britannica.com/sports/extreme-sports|title=Extreme sports|publisher=[[Encyclopædia Britannica]]}}&lt;/ref&gt;
 * [[Hang gliding]] &lt;ref name="enc" /&gt;
-* [[Ice canoeing]]
+* [[Ice canoeing]]{{cn|date=November 2018}}
 * [[Ice climbing]] &lt;ref name="enc" /&gt;
 * [[Ice yachting]] &lt;ref name="enc" /&gt;
 * [[Inline skating]] &lt;ref name="brit" /&gt;
@@ -1148,7 +1147,7 @@ Extreme sports trigger the release of the hormone adrenaline.&lt;ref&gt;{{Cite j
 * [[Underwater diving]]{{cn|date=November 2018}}
 * [[Wakeboarding]] &lt;ref name="enc" /&gt;
 * [[Water skiing]]{{cn|date=August 2018}}
-* [[Waveski]]
+* [[Waveski]]{{cn|date=November 2018}}
 * [[Whitewater kayaking]]{{cn|date=November 2018}}
 * [[Windsurfing]] &lt;ref name="enc"&gt;{{Cite book |url=https://books.google.ee/books?id=5WdFCQAAQBAJ |title=Encyclopedia of Extreme Sports |last=Sagert |first=Kelly Boyer }}&lt;/ref&gt;
 * [[Wingsuit flying]]
@@ -1174,7 +1173,7 @@ Extreme sports trigger the release of the hormone adrenaline.&lt;ref&gt;{{Cite j
 {{DEFAULTSORT:Extreme Sport}}
 [[Category:Sports by type]]
 [[Category:Adventure]]</text>
-      <sha1>nwnglg8wegkxc3hgzk0hlct08ba5m82</sha1>
+      <sha1>lfttiajdlfpf9v4u6i8rgmu76q84ptr</sha1>
     </revision>
   </page>
   <page>
@@ -1470,15 +1469,16 @@ The U.S. Supreme Court upheld the 8th Circuit Court's decision by declining to h
     <ns>0</ns>
     <id>14948216</id>
     <revision>
-      <id>869944717</id>
-      <parentid>869944243</parentid>
-      <timestamp>2018-11-21T11:01:47Z</timestamp>
+      <id>870183238</id>
+      <parentid>870183124</parentid>
+      <timestamp>2018-11-23T00:50:14Z</timestamp>
       <contributor>
-        <ip>77.136.83.42</ip>
+        <username>KH-1</username>
+        <id>21857263</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="5330">{{Refimprove|date=July 2009}}
+      <text xml:space="preserve" bytes="5174">{{Refimprove|date=July 2009}}
 [[File:International rules.jpg|thumb|right|350px|An [[international rules football]] match between [[Australia international rules football team|Australia]] and [[Ireland international rules football team|Ireland]]]]
 [[File:DSCF0090.jpg|thumb|right|A [[korfball]] match in the Netherlands between 'Trekvogels' and 'OZC']]
 A '''hybrid sport''' is one which combines two or more (often similar) sports in order to create a new sport, or to allow meaningful competition between players of those sports. 
@@ -1496,7 +1496,7 @@ The most popular hybrid sport in terms of attendance and television viewers is [
 * Composite rules Softball-Baseball - a hybrid bat-and-ball sports which combines the elements of [[Baseball]] and [[Softball]], played on the large identical [[baseball diamond]] with the larger ball, ten rather than nine innings, and both underarm and overarm pitchings.
 
 ;D
-* Darchery - the hybrid sports combining both [[Darts]] and [[Archery]], using bows and arrows typically used for archery but the target is the dart board.
+
 * [[Disc golf|Disc Golf]] - a hybrid [[Flying disc games|flying disc sport]] with elements of [[golf]] 
 
 ;F
@@ -1527,8 +1527,7 @@ The most popular hybrid sport in terms of attendance and television viewers is [
 * [[Slamball]] - a full-contact team hybrid sports which will combine elements of [[basketball]], [[American football]], [[ice hockey]], acrobatics, and video games, played on the basketball court, surrounded by hockey-style plexiglass walls, with two sets of four [[trampolines]] at the front of net and boards around the edges of this court.
 
 ;W
-[[waterpolo]] - A hybrid of [[swimming
-]] and [[handball]]
+[[waterpolo]] - A hybrid of [[swimming]] and [[handball]]
 
 ==Inactive sports==
 * [[Austus]] – a combination of [[American football]] and [[Australian rules football]] played during [[World War II]]. However, this hybrid sport has not been recorded as having been played since the war.
@@ -1545,7 +1544,7 @@ The most popular hybrid sport in terms of attendance and television viewers is [
 
 [[Category:Sports by type]]
 [[Category:Hybrid sports| ]]</text>
-      <sha1>692r2lo3kv19izispmjey8rgp7hvct9</sha1>
+      <sha1>9exscjdlgn4pg1dy6p82m9gg8eblknk</sha1>
     </revision>
   </page>
   <page>

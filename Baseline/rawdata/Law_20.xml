@@ -5612,20 +5612,20 @@ Nothing Law related seems to begin with X, if you find something please add it!
     <ns>0</ns>
     <id>59122740</id>
     <revision>
-      <id>870109566</id>
-      <parentid>870102210</parentid>
-      <timestamp>2018-11-22T12:56:28Z</timestamp>
+      <id>870183733</id>
+      <parentid>870183615</parentid>
+      <timestamp>2018-11-23T00:56:30Z</timestamp>
       <contributor>
-        <username>Onel5969</username>
-        <id>10951369</id>
+        <username>Blackleaves</username>
+        <id>35206921</id>
       </contributor>
-      <comment>Disambiguated: [[John Breckenridge]] → [[John Breckinridge (U.S. Attorney General)]], [[Georgia]] → [[Georgia (U.S. state)]]</comment>
+      <comment>/* Decline of jury sentencing */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="22938">'''Jury sentencing''' is the practice of having [[jury|juries]] decide penalties for criminal offenses. As of 2018, [[Arkansas]],&lt;ref&gt;59 ARK.CODE ANN. § 5-4-103 (2010) (“If a defendant is charged with a felony and is found guilty of an offense by a jury, the jury shall fix punishment . . . .”).&lt;/ref&gt; [[Kentucky]],&lt;ref&gt;{{cite web|date=2010|url=http://www.lrc.ky.gov/statutes/statute.aspx?id=39605|title=60 KY.REV.STAT.ANN. § 532.055|quote=Upon return of a verdict of guilty . . . the court shall conduct a sentencing hearing before the jury, if such case was tried before a jury. In the hearing the jury will determine the punishment to be imposed within the range provided elsewhere by law.}}&lt;/ref&gt; [[Missouri]],&lt;ref&gt;{{cite web|url=https://law.justia.com/codes/missouri/2005/t38/5570000036.html|title=61 MO.REV.STAT. § 557.036(3)|date=2013|quote=If the jury at the first stage of a trial finds the defendant guilty of the submitted offense . . . The jury shall assess and declare the punishment as authorized by statute.}}&lt;/ref&gt; [[Oklahoma]],&lt;ref&gt;62 OKLA.STAT.ANN. tit. 22, § 926.1 (West 2010) (“In all cases of a verdict of conviction
+      <text xml:space="preserve" bytes="23088">'''Jury sentencing''' is the practice of having [[jury|juries]] decide penalties for criminal offenses. As of 2018, [[Arkansas]],&lt;ref&gt;59 ARK.CODE ANN. § 5-4-103 (2010) (“If a defendant is charged with a felony and is found guilty of an offense by a jury, the jury shall fix punishment . . . .”).&lt;/ref&gt; [[Kentucky]],&lt;ref&gt;{{cite web|date=2010|url=http://www.lrc.ky.gov/statutes/statute.aspx?id=39605|title=60 KY.REV.STAT.ANN. § 532.055|quote=Upon return of a verdict of guilty . . . the court shall conduct a sentencing hearing before the jury, if such case was tried before a jury. In the hearing the jury will determine the punishment to be imposed within the range provided elsewhere by law.}}&lt;/ref&gt; [[Missouri]],&lt;ref&gt;{{cite web|url=https://law.justia.com/codes/missouri/2005/t38/5570000036.html|title=61 MO.REV.STAT. § 557.036(3)|date=2013|quote=If the jury at the first stage of a trial finds the defendant guilty of the submitted offense . . . The jury shall assess and declare the punishment as authorized by statute.}}&lt;/ref&gt; [[Oklahoma]],&lt;ref&gt;62 OKLA.STAT.ANN. tit. 22, § 926.1 (West 2010) (“In all cases of a verdict of conviction
 for any offense against any of the laws of the State of Oklahoma, the jury may, and shall
 upon the request of the defendant assess and declare the punishment in their verdict within
-the limitations fixed by law . . . .”).&lt;/ref&gt; [[Texas]],&lt;ref&gt;{{cite web|url=https://codes.findlaw.com/tx/code-of-criminal-procedure/crim-ptx-crim-pro-art-37-07.html|title=63 TEX.CODE CRIM.PROC. art. 37.07(b)|date=2009|quote=[I]n other cases where the defendant so elects in writing before the commencement of the voir dire examination of the jury panel, the punishment shall be assessed by the same jury . . . . If a finding of guilty is returned, the defendant may, with the consent of the attorney for the state, change his election of one who assesses the punishment.}}&lt;/ref&gt; and [[Virginia]]&lt;ref&gt;{{cite web|url=https://law.lis.virginia.gov/vacode/title19.2/chapter18/section19.2-295/|title=VA.CODE ANN. § 19.2-295|date=2011|quote=[T]he term of confinement in the state correctional facility or in jail and the amount of fine, if any, of a person convicted of a criminal offense,shall be ascertained by the jury, or by the court in cases tried without a jury.}}&lt;/ref&gt; have sentencing by jury.
+the limitations fixed by law . . . .”).&lt;/ref&gt; [[Texas]],&lt;ref&gt;{{cite web|url=https://codes.findlaw.com/tx/code-of-criminal-procedure/crim-ptx-crim-pro-art-37-07.html|title=63 TEX.CODE CRIM.PROC. art. 37.07(b)|date=2009|quote=[I]n other cases where the defendant so elects in writing before the commencement of the voir dire examination of the jury panel, the punishment shall be assessed by the same jury . . . . If a finding of guilty is returned, the defendant may, with the consent of the attorney for the state, change his election of one who assesses the punishment.}}&lt;/ref&gt; and [[Virginia]]&lt;ref&gt;{{cite web|url=https://law.lis.virginia.gov/vacode/title19.2/chapter18/section19.2-295/|title=VA.CODE ANN. § 19.2-295|date=2011|quote=[T]he term of confinement in the state correctional facility or in jail and the amount of fine, if any, of a person convicted of a criminal offense,shall be ascertained by the jury, or by the court in cases tried without a jury.}}&lt;/ref&gt; have sentencing by jury. [[Alabama]], [[Georgia (U.S. state)|Georgia]], [[Indiana]], [[Illinois]], [[Mississippi]], [[Montana]], [[Tennessee]], and [[West Virginia]] had jury sentencing in times past, but then abandoned it.
 
 ==History==
 ===Rise of jury sentencing===
@@ -5637,17 +5637,17 @@ Sentencing by jury was, however, successfully enacted in Virginia's 1796 penal c
 
 In contrast, northern states such as [[Pennsylvania]], [[Maryland]], [[New Jersey]], and [[New York (state)|New York]] allowed judges to determine penalties, with Pennsylvania also allowing judges to pardon prisoners who, in their view, had evidenced sincere reformation. One hypothesis is that Virginia opted for jury sentencing because [[Federalist Party|Federalist]]s like [[George Keith Taylor]] distrusted the Republican district court judges; while in Pennsylvania, the Constitutionalists sought (over the objections of Republicans) to put sentencing power in the hands of the judges because the bench was populated by Constitutionalists. [[North Carolina]] and [[South Carolina]], which did not establish penitentiaries until after the [[American Civil War]], also left sentencing to judges' discretion.
 
-The adoption of jury sentencing happened at the same time that the movement for an elective judiciary gathered speed, with at least four states, Alabama, [[Mississippi]], [[Montana]], and [[North Dakota]] switching to [[judicial election]]s around the same time that they adopted jury sentencing. Both reforms may have been due to a mistrust of unelected judges.&lt;ref name=democratic/&gt;
+The adoption of jury sentencing happened at the same time that the movement for an elective judiciary gathered speed, with at least four states, Alabama, Mississippi, Montana, and North Dakota switching to [[judicial election]]s around the same time that they adopted jury sentencing. Both reforms may have been due to a mistrust of unelected judges.&lt;ref name=democratic/&gt;
 
 During the ten years of the [[Republic of Texas]], judges determined sentences. The 
 change to jury determination of the penalty was brought about by one of the first laws passed by the first legislature of the State of Texas in 1846, which empowered the jury to sentence the defendant in all criminal cases except capital cases and cases for which punishment was fixed by law.&lt;ref name=grab/&gt;
 
-[[Indiana]], [[Illinois]], Arkansas, Oklahoma, and West Virginia adopted jury sentencing later in the 19th century. Oklahoma adopted jury sentencing upon reaching statehood in 1907, likely as part of its decision to model its laws after those of Arkansas.
+Indiana, Illinois, Arkansas, Oklahoma, and West Virginia adopted jury sentencing later in the 19th century. Oklahoma adopted jury sentencing upon reaching statehood in 1907, likely as part of its decision to model its laws after those of Arkansas.
 
 ===Decline of jury sentencing===
 The 1895 U.S. Supreme Court ruling in ''[[Sparf v. United States]]'' reflected growing concern that letting juries decide whether or how the law should be applied in particular cases could be detrimental to the [[rule of law]]. By 1910, the role of juries in determining penalties was being eroded by the professionalization of sentencing, as many states passed laws that created parole and probation systems. [[Probation officer]]s gathered and analyzed information about the defendant's character and prepared a [[presentence report]] that served as the basis for the ultimate sentence. [[Parole commission]]ers, trained in penology and insulated from political pressures, determined when prisoners had been rehabilitated and could be reintegrated into society.
 
-[[Georgia (U.S. state)|Georgia]] and [[Tennessee]] both had periods (from 1937-1939, and from 1913-1923, respectively) in which they briefly abandoned jury sentencing while experimenting with [[indeterminate sentencing]]. By 1919, fourteen states gave juries sentencing powers in non-capital cases, although by 1960, that number had dropped to thirteen.&lt;ref name=democratic&gt;{{cite journal|title=Jury Sentencing as Democratic Practice|author=Iontcheva, Jenia|journal=Virginia Law Review|volume=89|number=2|date=April 2003|pages=311-383|url=https://www.jstor.org/stable/3202435}}&lt;/ref&gt;
+Georgia and Tennessee both had periods (from 1937-1939, and from 1913-1923, respectively) in which they briefly abandoned jury sentencing while experimenting with [[indeterminate sentencing]]. By 1919, fourteen states gave juries sentencing powers in non-capital cases, although by 1960, that number had dropped to thirteen.&lt;ref name=democratic&gt;{{cite journal|title=Jury Sentencing as Democratic Practice|author=Iontcheva, Jenia|journal=Virginia Law Review|volume=89|number=2|date=April 2003|pages=311-383|url=https://www.jstor.org/stable/3202435}}&lt;/ref&gt;
 
 By the 1970s and 1980s, [[determinate sentencing]], a new intellectual current that repudiated the [[Rehabilitation (penology)|rehabilitative]] model with its focus on using mathematical models and grids to determine sentences, had made inroads, making jury sentencing seem like more of an anachronism.&lt;ref name=democratic/&gt; Georgia permanently abandoned jury sentencing in 1974 and Tennessee did the same in 1982.&lt;ref&gt;{{cite journal|author=King, Nancy J.|title=The Origins of Felony Jury Sentencing in the United States|volume=78|journal=Chi.-Kent L. Rev.|number=937|date=2003|url=https://scholarship.kentlaw.iit.edu/cklawreview/vol78/iss3/4}}&lt;/ref&gt; By the 1980s, Alabama, Illinois, Indiana, Montana, and North Dakota had also abandoned jury sentencing, and Mississippi was using jury sentencing only in rape and statutory rape cases. Oklahoma abolished jury sentencing but reinstated it in 1999.
 
@@ -5690,7 +5690,7 @@ Sentencing is said to be more time-consuming for jurors than the relatively easy
 {{reflist}}
 
 [[Category:Law]]</text>
-      <sha1>rg0ig0d6znuc228dl3pq9pi53kxdci7</sha1>
+      <sha1>tgnpj4d8skp32wlrzqnal17o23oggkl</sha1>
     </revision>
   </page>
   <page>

@@ -1270,19 +1270,20 @@ Recent studies have identified that a gap between the theory of education progra
     <ns>0</ns>
     <id>9252</id>
     <revision>
-      <id>869894450</id>
-      <parentid>869892214</parentid>
-      <timestamp>2018-11-21T02:09:22Z</timestamp>
+      <id>870215398</id>
+      <parentid>869894450</parentid>
+      <timestamp>2018-11-23T07:05:24Z</timestamp>
       <contributor>
-        <username>User-duck</username>
-        <id>28568042</id>
+        <username>Smasongarrison</username>
+        <id>16185737</id>
       </contributor>
-      <comment>Remove |upright=1.1. Upgrade webarchive cites. Upgrade "Archived copy" cite.</comment>
+      <minor/>
+      <comment>copy edit with [[Wikipedia:AutoWikiBrowser/General_fixes|General fixes]]; url trimming of identifying info per[[WP:LINKSTOAVOID]] and [[Template:Citation_Style_documentation#url|Citation Style]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="78905">{{short description|learning in which knowledge and skills is transferred through teaching}}
-{{Other uses}}
+      <text xml:space="preserve" bytes="78892">{{Other uses}}
 {{pp-move-indef|small=yes}}
+{{short description|learning in which knowledge and skills is transferred through teaching}}
 {{Use dmy dates|date=January 2013}}
 {{EngvarC|date=September 2016}}
 [[File:FBE CTU lecture.jpg|thumb|Lecture at the Faculty of Biomedical Engineering, [[Czech Technical University in Prague|Czech Technical University]], in [[Prague]], [[Czech Republic]]]]
@@ -1413,7 +1414,7 @@ In the late 19th century, education through play began to be recognized as makin
 
 Many large university institutions are now starting to offer free or almost free full courses such as [[Harvard University|Harvard]], [[Massachusetts Institute of Technology|MIT]] and [[University of California, Berkeley|Berkeley]] teaming up to form [[edX]]. Other universities offering open education are prestigious private universities such as [[Stanford University|Stanford]], [[Princeton University|Princeton]], [[Duke University|Duke]], [[Johns Hopkins University|Johns Hopkins]], the [[University of Pennsylvania|University of Pennylvania]], and [[California Institute of Technology|Caltech]], as well as notable public universities including [[Tsinghua University|Tsinghua]], [[Peking University|Peking]], [[University of Edinburgh|Edinburgh]], [[University of Michigan]], and [[University of Virginia]].
 
-Open education has been called the biggest change in the way people learn since the printing press.&lt;ref&gt;{{cite web |url=http://neurobonkers.com/2012/08/02/the-single-biggest-change-in-the-way-we-learn-since-the-printing-press/ |title=Free courses provided by Harvard, MIT, Berkeley, Stanford, Princeton, Duke, Johns Hopkins, Edinburgh, U.Penn, U. Michigan, U. Virginia, U. Washington |publisher=Neurobonkers.com |date=2 August 2012 |accessdate=2012-10-24}}&lt;/ref&gt; Despite favourable studies on effectiveness, many people may still desire to choose traditional campus education for social and cultural reasons.&lt;ref&gt;{{cite news|author=Harriet Swain |url=https://www.theguardian.com/education/2012/oct/01/university-campuses-decline-elearning-students?newsfeed=true |title=Will university campuses soon be 'over'?  |work=The Guardian |accessdate=2012-10-24 |location=London |date=1 October 2012}}&lt;/ref&gt;
+Open education has been called the biggest change in the way people learn since the printing press.&lt;ref&gt;{{cite web |url=http://neurobonkers.com/2012/08/02/the-single-biggest-change-in-the-way-we-learn-since-the-printing-press/ |title=Free courses provided by Harvard, MIT, Berkeley, Stanford, Princeton, Duke, Johns Hopkins, Edinburgh, U.Penn, U. Michigan, U. Virginia, U. Washington |publisher=Neurobonkers.com |date=2 August 2012 |accessdate=2012-10-24}}&lt;/ref&gt; Despite favourable studies on effectiveness, many people may still desire to choose traditional campus education for social and cultural reasons.&lt;ref&gt;{{cite news|author=Harriet Swain |url=https://www.theguardian.com/education/2012/oct/01/university-campuses-decline-elearning-students? |title=Will university campuses soon be 'over'?  |work=The Guardian |accessdate=2012-10-24 |location=London |date=1 October 2012}}&lt;/ref&gt;
 
 Many open universities are working to have the ability to offer students standardized testing and traditional degrees and credentials.&lt;ref&gt;Cloete, ElsabeÂ. "Electronic Education System Model." Department of Computer Science and Information Systems in South Africa, 17 Oct. 2000. Web. 3 June 2015.&lt;/ref&gt;
 
@@ -1646,7 +1647,7 @@ Education is also becoming a commodity no longer reserved for children. Adults n
 {{Authority control}}
 
 [[Category:Education| ]]</text>
-      <sha1>jqnf09kllwizd8k9dljnfyhwjlvx5hz</sha1>
+      <sha1>p4abrgam4b1ydyhmtdxrynkfb27gsgu</sha1>
     </revision>
   </page>
   <page>

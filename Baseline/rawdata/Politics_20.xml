@@ -3672,16 +3672,18 @@ The table below gives a side-by-side comparison of the two systems core aspects/
     <ns>0</ns>
     <id>38211935</id>
     <revision>
-      <id>850575817</id>
-      <parentid>838531250</parentid>
-      <timestamp>2018-07-16T18:28:44Z</timestamp>
+      <id>870222200</id>
+      <parentid>850575817</parentid>
+      <timestamp>2018-11-23T08:42:24Z</timestamp>
       <contributor>
-        <ip>70.51.55.201</ip>
+        <username>Citation bot</username>
+        <id>7903804</id>
       </contributor>
-      <comment>/* Fields of study of political science */</comment>
+      <minor/>
+      <comment>Removed parameters. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="12477">&lt;!--... Attention:  THIS IS AN OUTLINE
+      <text xml:space="preserve" bytes="12387">&lt;!--... Attention:  THIS IS AN OUTLINE
 
         part of the set of 740+ outlines listed at
              [[Portal:Contents/Outlines]].
@@ -3978,7 +3980,7 @@ The following [[Outline (list)|outline]] is provided as an overview of and topic
 == Further reading ==
 *Roskin, M.; Cord, R. L.; Medeiros, J. A.; Jones, W. S. (2007). ''Political Science: An Introduction''. 10th ed. New York: [[Pearson Prentice Hall]]. {{ISBN|978-0-13-242575-9}} (10). {{ISBN|978-0-13-242575-9}} (13).
 *Tausch, A.; Prager, F. (1993). ''Towards a Socio-Liberal Theory of World Development''. Basingstoke: Macmillan; New York: [[St. Martin's Press]].
-*''[[Oxford Handbooks of Political Science]]'' &amp;ndash; ten-volume set covering the political science topics [[political methodology]], [[public policy]], [[political theory]], [[political economy]], [[comparative politics]], [[contextual political analysis]], [[international relations]], Law and Politics, [[Theories of political behavior|political behavior]], and [[political institutions]]. The general editor of the series is [[Robert E. Goodin]].&lt;ref&gt;[http://www.oup.com.au/titles/higher_ed/social_science/politics/9780199270033 Oxford Handbook Of Political Theory]&lt;/ref&gt;&lt;ref&gt;{{cite journal|url=https://link.springer.com/article/10.1057/cpt.2008.2|title=The Oxford Handbook of Political Theory|first=Mary|last=Walsh|date=1 May 2008|publisher=|journal=Contemporary Political Theory|volume=7|issue=2|pages=232–234|via=link.springer.com|doi=10.1057/cpt.2008.2}}&lt;/ref&gt;
+*''[[Oxford Handbooks of Political Science]]'' &amp;ndash; ten-volume set covering the political science topics [[political methodology]], [[public policy]], [[political theory]], [[political economy]], [[comparative politics]], [[contextual political analysis]], [[international relations]], Law and Politics, [[Theories of political behavior|political behavior]], and [[political institutions]]. The general editor of the series is [[Robert E. Goodin]].&lt;ref&gt;[http://www.oup.com.au/titles/higher_ed/social_science/politics/9780199270033 Oxford Handbook Of Political Theory]&lt;/ref&gt;&lt;ref&gt;{{cite journal|title=The Oxford Handbook of Political Theory|first=Mary|last=Walsh|date=1 May 2008|journal=Contemporary Political Theory|volume=7|issue=2|pages=232–234|doi=10.1057/cpt.2008.2}}&lt;/ref&gt;
 
 == References ==
 {{Reflist}}
@@ -3998,7 +4000,7 @@ The following [[Outline (list)|outline]] is provided as an overview of and topic
 [[Category:Wikipedia outlines|Politics]]
 [[Category:Politics| 1]]
 [[Category:Society-related lists|Politics]]</text>
-      <sha1>oj0438k63y7gq21ae2a7ubi9qcxq72k</sha1>
+      <sha1>110kiwloy002fmlu7ucbiqwpaeuxukx</sha1>
     </revision>
   </page>
   <page>
@@ -4057,23 +4059,25 @@ Movements may be named by outsiders, as with the [[levellers]] political movemen
     <ns>0</ns>
     <id>22986</id>
     <revision>
-      <id>869506492</id>
-      <parentid>867644144</parentid>
-      <timestamp>2018-11-19T01:40:28Z</timestamp>
+      <id>870213578</id>
+      <parentid>869506492</parentid>
+      <timestamp>2018-11-23T06:43:44Z</timestamp>
       <contributor>
-        <username>Srich32977</username>
-        <id>8372814</id>
+        <username>UpsandDowns1234</username>
+        <id>25910323</id>
       </contributor>
-      <comment>[[WP:UCB|Assisted by Citation bot]] | Cleaned up using [[WP:AutoEd|AutoEd]]; ce Adding/removing wikilink(s)</comment>
+      <comment>pp-move</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="35259">{{Use dmy dates|date=May 2011}}
+      <text xml:space="preserve" bytes="35282">{{Use dmy dates|date=May 2011}}
 {{other uses}}
 {{Multiple issues|
 {{Refimprove|date=June 2017}}
 {{Original research|date=June 2017}}
 }}
+{{pp-move|small=yes}}
 {{Politics}}
+
 
 '''Politics''' (from {{lang-gr|πολιτικά|''Politiká''}}, meaning "affairs of the cities") is the process of [[Decision-making|making decisions]] that apply to  members of a group.&lt;ref name="HagueHarrop2013"&gt;{{cite book|author1=Rod Hague|author2=Martin Harrop|title=Comparative Government and Politics: An Introduction|url=https://books.google.com/books?id=IUEdBQAAQBAJ&amp;pg=PA1|date=31 May 2013|publisher=Macmillan International Higher Education|isbn=978-1137317865|pages=1–}}&lt;/ref&gt;
 
@@ -4202,7 +4206,7 @@ For instance, [[classical liberalism]] (also known as ''[[laissez-faire]] libera
 {{Authority control}}
 
 [[Category:Politics| ]]</text>
-      <sha1>85kj1aw6gxuq2hvlijdwvgssbb9v41o</sha1>
+      <sha1>dezz8a50mng3ln19glh1rx3q5cj7p63</sha1>
     </revision>
   </page>
 </mediawiki>

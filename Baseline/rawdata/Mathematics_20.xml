@@ -3071,21 +3071,20 @@ The (non-post-calculus) math classes focus on a different subject each block: Bl
     <ns>0</ns>
     <id>457210</id>
     <revision>
-      <id>869327677</id>
-      <parentid>868471946</parentid>
-      <timestamp>2018-11-17T22:39:58Z</timestamp>
+      <id>870219811</id>
+      <parentid>869327677</parentid>
+      <timestamp>2018-11-23T08:05:15Z</timestamp>
       <contributor>
-        <ip>130.126.255.211</ip>
+        <ip>80.215.36.185</ip>
       </contributor>
-      <comment>/* Subfields */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="17047">[[File:Banach-Tarski Paradox.svg|thumbnail|right|350px|An illustration of the [[Banach–Tarski paradox]], a famous result in pure mathematics. Although it is proven that it is possible to convert one sphere into two using nothing but cuts and rotations, the transformation involves objects that cannot exist in the physical world.]]
+      <text xml:space="preserve" bytes="16880">[[File:Banach-Tarski Paradox.svg|thumbnail|right|350px|An illustration of the [[Banach–Tarski paradox]], a famous result in pure mathematics. Although it is proven that it is possible to convert one sphere into two using nothing but cuts and rotations, the transformation involves objects that cannot exist in the physical world.]]
 Broadly speaking, '''pure mathematics''' (or '''fundamental mathematics'''&lt;ref&gt;{{Cite web|url=https://www-fourier.ujf-grenoble.fr/m2r/?q=content/2018-2019|title=2018-2019 {{!}} M2R Fundamental Mathematics Grenoble|website=www-fourier.ujf-grenoble.fr|language=en|access-date=2018-09-25}}&lt;/ref&gt;) is [[mathematics]] that studies entirely abstract [[concept]]s.  This has been a recognizable category of mathematical activity from the 19th century onwards,&lt;ref&gt;{{cite web|last1=Piaggio|first1=H|title=Three Sadleirian Professors: A.R. Forsyth, E.W. Hobson and G.H. Hardy|url=http://www-history.mcs.st-andrews.ac.uk/Extras/Sadleirian_Professors.html|website=MacTutor History of Mathematics archive|publisher=St. Andrews University|accessdate=12 July 2015}}&lt;/ref&gt; at variance with the trend towards meeting the needs of [[navigation]], [[astronomy]], [[physics]], [[economics]], [[engineering]], and so on.
 
 Another view is that pure mathematics is ''not necessarily'' [[applied mathematics]]: it is possible to study abstract entities with respect to their intrinsic nature and not be concerned with how they manifest in the real world.&lt;ref name=Magid/&gt; Even though the pure and applied viewpoints are distinct philosophical positions, in practice there is much overlap in the activity of pure and applied mathematicians.
 
-To develop accurate models for describing the real world, many applied mathematicians draw on tools and techniques that are often considered to be "pure" mathematics. On the other hand, many pure mathematicians draw on natural and social phenomena as inspiration for their abstract research.
+On the other hand, many pure mathematicians draw on natural and social phenomena as inspiration for their abstract research.
 
 ==History==
 
@@ -3165,7 +3164,7 @@ Another insightful view is offered by Magid:
 {{DEFAULTSORT:Pure Mathematics}}
 [[Category:Fields of mathematics]]
 [[Category:Abstraction]]</text>
-      <sha1>e8vahgbrtof2716e6pjhjsmg4vyiqeh</sha1>
+      <sha1>6fwlukxvlab4lvfuv9ja0pm3hxtr1qg</sha1>
     </revision>
   </page>
   <page>

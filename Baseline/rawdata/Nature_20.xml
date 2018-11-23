@@ -276,17 +276,18 @@ Both the bald and golden eagle are protected by federal law: the [[Migratory Bir
     <ns>0</ns>
     <id>9228</id>
     <revision>
-      <id>869604710</id>
-      <parentid>869530662</parentid>
-      <timestamp>2018-11-19T17:47:01Z</timestamp>
+      <id>870213168</id>
+      <parentid>869604710</parentid>
+      <timestamp>2018-11-23T06:38:44Z</timestamp>
       <contributor>
-        <username>AhmadLX</username>
-        <id>17009880</id>
+        <username>Smasongarrison</username>
+        <id>16185737</id>
       </contributor>
-      <comment>Undid revision 869530662 by [[Special:Contributions/Soumya-8974|Soumya-8974]] ([[User talk:Soumya-8974|talk]]) removed duplink ISS</comment>
+      <minor/>
+      <comment>copy edit with [[Wikipedia:AutoWikiBrowser/General_fixes|General fixes]]; url trimming of identifying info per[[WP:LINKSTOAVOID]] and [[Template:Citation_Style_documentation#url|Citation Style]], replaced: ′ → '</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="169737">{{about|the planet itself|its human aspects|World|other uses|Earth (disambiguation)|and|Planet Earth (disambiguation)}}
+      <text xml:space="preserve" bytes="169721">{{about|the planet itself|its human aspects|World|other uses|Earth (disambiguation)|and|Planet Earth (disambiguation)}}
 {{pp-semi|small=yes}}
 {{Short description|Third planet from the Sun in the Solar System}}
 {{Featured article}}
@@ -855,7 +856,7 @@ The standard astronomical symbol of Earth consists of a cross [[circumscribed ci
 
 [[Culture|Human cultures]] have developed many views of the planet. Earth is sometimes [[Anthropomorphism|personified]] as a [[deity]]. In many cultures it is a [[mother goddess]] that is also the primary [[fertility deity]],&lt;ref name=":0"&gt;{{Cite book |title=Thematic Guide to World Mythology |last=Stookey |first=Lorena Laura |publisher=Greenwood Press |year=2004 |isbn=978-0-313-31505-3 |location=Westport, Conn. |pages=114–15}}&lt;/ref&gt; and by the mid-20th century, the [[Gaia hypothesis|Gaia Principle]] compared Earth's environments and life as a single self-regulating organism leading to broad stabilization of the conditions of habitability.&lt;ref name="vanishing255"&gt;Lovelock, James. ''The Vanishing Face of Gaia''. Basic Books, 2009, p. 255. {{ISBN|978-0-465-01549-8}}&lt;/ref&gt;&lt;ref name="J1972"&gt;{{cite journal |last=Lovelock |first=J.E. |title=Gaia as seen through the atmosphere |journal=Atmospheric Environment |year=1972 |volume=6 |issue=8 |pages=579–80 |doi=10.1016/0004-6981(72)90076-5 |issn=1352-2310 |ref=harv |bibcode=1972AtmEn...6..579L}}&lt;/ref&gt;&lt;ref name="lovelock1974"&gt;{{cite journal |last1=Lovelock |first1=J.E. |last2=Margulis |first2=L. |title=Atmospheric homeostasis by and for the biosphere: the Gaia hypothesis |journal=Tellus |year=1974 |volume=26 |series=Series A |issue=1–2 |pages=2–10 |doi=10.1111/j.2153-3490.1974.tb01946.x |url=http://tellusa.net/index.php/tellusa/article/view/9731 |accessdate=20 October 2012 |issn=1600-0870 |ref=harv |bibcode=1974Tell...26....2L}}&lt;/ref&gt; [[Creation myth]]s in many religions involve the creation of Earth by a supernatural [[deity]] or deities.&lt;ref name=":0" /&gt;
 
-Scientific investigation has resulted in several culturally transformative shifts in people's view of the planet. Initial belief in a [[flat Earth]] was gradually displaced in the Greek colonies of southern Italy during the late 6th century BC by the idea of [[spherical Earth]],&lt;ref name=russell1997/&gt;&lt;ref name="Burkert1971"&gt;{{cite book |last=Burkert |first=Walter |author-link=Walter Burkert |date=1 June 1972 |title=Lore and Science in Ancient Pythagoreanism |url=https://books.google.com/?id=0qqp4Vk1zG0C&amp;printsec=frontcover&amp;dq=Pythagoreanism#v=onepage&amp;q=Pythagoreanism&amp;f=false |location=Cambridge, Massachusetts |publisher=Harvard University Press |isbn=978-0-674-53918-1 |pages=306–308 |ref=harv}}&lt;/ref&gt;&lt;ref name="Kahn2001"&gt;{{cite book |last=Kahn |first=Charles H. |date=2001 |title=Pythagoras and the Pythagoreans: A Brief History |url=https://books.google.com/?id=GKUtAwAAQBAJ&amp;pg=PA72&amp;dq=Pythagoreanism#v=snippet&amp;q=Empedocles%20spherical&amp;f=false |location=Indianapolis, Indiana and Cambridge, England |publisher=Hackett Publishing Company |isbn=978-0-87220-575-8 |page=53 |ref=harv}}&lt;/ref&gt; which was attributed to both the philosophers [[Pythagoras]] and [[Parmenides]].&lt;ref name="Burkert1971"/&gt;&lt;ref name="Kahn2001"/&gt; By the end of the 5th century BC, the [[sphericity]] of Earth was universally accepted among Greek intellectuals.&lt;ref&gt;{{cite book |last=Dicks |first=D. R. |date=1970 |title=Early Greek Astronomy to Aristotle |location=Ithaca, New York |publisher=Cornell University Press |isbn=978-0-8014-0561-7 |page=68 |ref=harv}}&lt;/ref&gt; Earth was generally believed to be [[Geocentric model|the center of the universe]] until the 16th century, when scientists first conclusively demonstrated that it was [[heliocentrism|a moving object]], comparable to the other planets in the Solar System.&lt;ref name=arnett20060716/&gt; Due to the efforts of influential Christian scholars and clerics such as [[James Ussher]], who sought to determine the age of Earth through analysis of genealogies in Scripture, Westerners before the 19th century generally believed Earth to be a few thousand years old at most. It was only during the 19th century that geologists realized [[Earth's age]] was at least many millions of years.&lt;ref&gt;{{Cite book |title=Physical Geology: Exploring the Earth |last=Monroe |first=James |publisher=Thomson Brooks/Cole |year=2007 |isbn=978-0-495-01148-4 |location= |pages=263–65 |last2=Wicander |first2=Reed |last3=Hazlett |first3=Richard}}&lt;/ref&gt;
+Scientific investigation has resulted in several culturally transformative shifts in people's view of the planet. Initial belief in a [[flat Earth]] was gradually displaced in the Greek colonies of southern Italy during the late 6th century BC by the idea of [[spherical Earth]],&lt;ref name=russell1997/&gt;&lt;ref name="Burkert1971"&gt;{{cite book |last=Burkert |first=Walter |author-link=Walter Burkert |date=1 June 1972 |title=Lore and Science in Ancient Pythagoreanism |url=https://books.google.com/?id=0qqp4Vk1zG0C&amp;printsec=frontcover&amp;dq=Pythagoreanism#v=onepage&amp;q=Pythagoreanism |location=Cambridge, Massachusetts |publisher=Harvard University Press |isbn=978-0-674-53918-1 |pages=306–308 |ref=harv}}&lt;/ref&gt;&lt;ref name="Kahn2001"&gt;{{cite book |last=Kahn |first=Charles H. |date=2001 |title=Pythagoras and the Pythagoreans: A Brief History |url=https://books.google.com/?id=GKUtAwAAQBAJ&amp;pg=PA72&amp;dq=Pythagoreanism#v=snippet&amp;q=Empedocles%20spherical |location=Indianapolis, Indiana and Cambridge, England |publisher=Hackett Publishing Company |isbn=978-0-87220-575-8 |page=53 |ref=harv}}&lt;/ref&gt; which was attributed to both the philosophers [[Pythagoras]] and [[Parmenides]].&lt;ref name="Burkert1971"/&gt;&lt;ref name="Kahn2001"/&gt; By the end of the 5th century BC, the [[sphericity]] of Earth was universally accepted among Greek intellectuals.&lt;ref&gt;{{cite book |last=Dicks |first=D. R. |date=1970 |title=Early Greek Astronomy to Aristotle |location=Ithaca, New York |publisher=Cornell University Press |isbn=978-0-8014-0561-7 |page=68 |ref=harv}}&lt;/ref&gt; Earth was generally believed to be [[Geocentric model|the center of the universe]] until the 16th century, when scientists first conclusively demonstrated that it was [[heliocentrism|a moving object]], comparable to the other planets in the Solar System.&lt;ref name=arnett20060716/&gt; Due to the efforts of influential Christian scholars and clerics such as [[James Ussher]], who sought to determine the age of Earth through analysis of genealogies in Scripture, Westerners before the 19th century generally believed Earth to be a few thousand years old at most. It was only during the 19th century that geologists realized [[Earth's age]] was at least many millions of years.&lt;ref&gt;{{Cite book |title=Physical Geology: Exploring the Earth |last=Monroe |first=James |publisher=Thomson Brooks/Cole |year=2007 |isbn=978-0-495-01148-4 |location= |pages=263–65 |last2=Wicander |first2=Reed |last3=Hazlett |first3=Richard}}&lt;/ref&gt;
 
 [[William Thomson, 1st Baron Kelvin|Lord Kelvin]] used [[thermodynamics]] to estimate the age of Earth to be between 20 million and 400&amp;nbsp;million years in 1864, sparking a vigorous debate on the subject; it was only when radioactivity and [[Radiometric dating|radioactive dating]] were discovered in the late 19th and early 20th centuries that a reliable mechanism for determining Earth's age was established, proving the planet to be billions of years old.&lt;ref&gt;{{Cite book |title=An Equation for Every Occasion: Fifty-Two Formulas and Why They Matter |last=Henshaw |first=John M. |publisher=Johns Hopkins University Press |year=2014 |isbn=978-1-421-41491-1 |location= |pages=117–18}}&lt;/ref&gt;&lt;ref&gt;{{Cite book |title=Lord Kelvin and the Age of the Earth |last=Burchfield |first=Joe D. |publisher=University of Chicago Press |year=1990 |isbn=978-0-226-08043-7 |location= |pages=13–18}}&lt;/ref&gt; The perception of Earth shifted again in the 20th century when humans first viewed it from orbit, and especially with photographs of Earth returned by the [[Apollo program]].&lt;ref&gt;{{cite news |url=http://alcalde.texasexes.org/2012/06/neil-degrasse-tyson-on-why-space-matters-watch/ |title=Neil deGrasse Tyson: Why Space Matters |work=[[The Alcalde]] |first=Rose |last=Cahalan |date=5 June 2012 |accessdate=21 January 2016}}&lt;/ref&gt;
 {{clear}}
@@ -1293,7 +1294,7 @@ Scientific investigation has resulted in several culturally transformative shift
 [[Category:Places]]
 [[Category:Planets of the Solar System]]
 [[Category:Terrestrial planets]]</text>
-      <sha1>kco3rqz8tqpjcibaojekxfvxtzo30db</sha1>
+      <sha1>rc75jvm1cecdlohhr6zl1cvh4vqabmo</sha1>
     </revision>
   </page>
   <page>
@@ -2877,14 +2878,14 @@ Cultural forces intentionally or unintentionally, have an influence upon the lan
     <ns>0</ns>
     <id>21830</id>
     <revision>
-      <id>869087155</id>
-      <parentid>869085003</parentid>
-      <timestamp>2018-11-16T09:26:12Z</timestamp>
+      <id>870237019</id>
+      <parentid>870235152</parentid>
+      <timestamp>2018-11-23T11:56:01Z</timestamp>
       <contributor>
-        <username>Teratix</username>
-        <id>33667451</id>
+        <username>Mean as custard</username>
+        <id>10962546</id>
       </contributor>
-      <comment>Reverted 2 edits by [[Special:Contributions/47.9.91.15|47.9.91.15]] ([[User talk:47.9.91.15|talk]]): Rv [[WP:REFSPAM|refspam]]. ([[WP:TW|TW]])</comment>
+      <comment>Undid revision 870235152 by [[Special:Contributions/Ssamcat|Ssamcat]] ([[User talk:Ssamcat|talk]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="72010">{{short description|The phenomena of the physical world, and  life in general}}

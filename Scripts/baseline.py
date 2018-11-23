@@ -3,7 +3,7 @@ import os
 
 class Baseline:
 
-	def __init__(self, origin_category, baseline_number):
+	def __init__(self, origin_category = "Category:Main topic classifications", baseline_number = 20, folder = "Baseline"):
 
 		#dynamic values
 		self.origin_category = origin_category
@@ -14,7 +14,7 @@ class Baseline:
 		self.index = {}
 
 		#Data structure
-		self.datapath = "../Baseline"
+		self.datapath = "../"+ folder
 		self.rawpath = self.datapath + "/rawdata"
 		self.plainpath = self.datapath + "/plaindata"
 
@@ -164,8 +164,6 @@ class Baseline:
 		Use WikiExtractor to get clear Text
 		'''
 
-		print(os.listdir(self.rawpath))
-
 		for file in os.listdir(self.rawpath):
 			print("read document " + file)
 			os.system("../wikiextractor/WikiExtractor.py "+self.rawpath+"/"+file+" -o "+self.plainpath+"/"+file.split(".")[0]+" --json")
@@ -179,12 +177,12 @@ def main():
 	# number of articles you want from each category
 	baseline_number = 20
 
-	BL = Baseline(origin_category, baseline_number)
+	folder = "Baseline"
+
+	BL = Baseline(origin_category, baseline_number, folder)
 
 	BL.get_rawdata()
 	BL.convert_plain()
-
-
 
 
 if __name__== "__main__":

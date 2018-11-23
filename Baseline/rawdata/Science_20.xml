@@ -3534,16 +3534,15 @@ Because of their non-empirical nature, formal sciences are construed by outlinin
     <ns>0</ns>
     <id>54251016</id>
     <revision>
-      <id>868004702</id>
-      <parentid>868003743</parentid>
-      <timestamp>2018-11-09T10:54:06Z</timestamp>
+      <id>870198488</id>
+      <parentid>870197461</parentid>
+      <timestamp>2018-11-23T03:56:49Z</timestamp>
       <contributor>
-        <ip>70.48.149.70</ip>
+        <ip>70.51.53.32</ip>
       </contributor>
-      <comment>/* Space sciences */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="65946">{{main|Discipline (academia)}}
+      <text xml:space="preserve" bytes="66027">{{main|Discipline (academia)}}
 [[File:Disciplines mind map.jpg|thumb|Mind map of top level disciplines and professions]]
 The following [[Outline (list)|outline]] is provided as an overview of an topical guide to academic disciplines:
 
@@ -5440,6 +5439,7 @@ There is no consensus on how some academic disciplines should be classified (e.g
 ** [[Molecular genetics]]
 ** [[Parasitology]]
 * [[Clinical physiology]]
+* [[Cosmetology]]
 * [[Decontamination]]
 * [[Dentistry]] ([[Outline of dentistry and oral health|outline]])
 ** [[Dental hygienist|Dental hygiene]] and [[epidemiology]]
@@ -5488,6 +5488,7 @@ There is no consensus on how some academic disciplines should be classified (e.g
 ** [[Pediatrics]]
 * [[Pharmacy]]
 * [[Pharmaceutical sciences]]
+* [[Pharmacognosy]]
 * [[Physical fitness]]
 ** [[Aerobics]]
 ** [[Personal fitness training]]
@@ -5498,6 +5499,7 @@ There is no consensus on how some academic disciplines should be classified (e.g
 ** [[General practice]]
 * [[Psychiatry]] ([[Outline of psychiatry|outline]])
 * [[Psychology]] ([[Outline of psychology|outline]])
+* [[Psychosomatic medicine|Psychosomatic]]
 * [[Psychotherapy]]
 * [[Public health]]
 * [[Radiology]]
@@ -5793,7 +5795,7 @@ There is no consensus on how some academic disciplines should be classified (e.g
 [[Category:Education-related lists]]
 [[Category:Science-related lists]]
 [[Category:Higher education-related lists]]</text>
-      <sha1>qptxs93e1bx6yofstkgg9t0zbp4mmk5</sha1>
+      <sha1>r4g7kdqxhzc7izydhygadyljsz46ug1</sha1>
     </revision>
   </page>
   <page>
@@ -8009,15 +8011,15 @@ partnering mangrove scientists and community participants
     <ns>0</ns>
     <id>38890</id>
     <revision>
-      <id>869421635</id>
-      <parentid>869421343</parentid>
-      <timestamp>2018-11-18T14:25:27Z</timestamp>
+      <id>870227013</id>
+      <parentid>870226993</parentid>
+      <timestamp>2018-11-23T09:47:21Z</timestamp>
       <contributor>
-        <username>DVdm</username>
-        <id>262666</id>
+        <username>JackintheBox</username>
+        <id>30011325</id>
       </contributor>
       <minor/>
-      <comment>Reverted edits by [[Special:Contributions/2A02:C7D:59B2:9A00:B1B5:392F:8211:B0F1|2A02:C7D:59B2:9A00:B1B5:392F:8211:B0F1]] ([[User talk:2A02:C7D:59B2:9A00:B1B5:392F:8211:B0F1|talk]]) ([[WP:HG|HG]]) (3.4.4)</comment>
+      <comment>Reverted edits by [[Special:Contributions/2409:4063:2319:8BC1:0:0:250F:8AC|2409:4063:2319:8BC1:0:0:250F:8AC]] ([[User talk:2409:4063:2319:8BC1:0:0:250F:8AC|talk]]) ([[WP:HG|HG]]) (3.4.4)</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="48259">{{other uses}}
@@ -10558,14 +10560,14 @@ The scientific fields mentioned below are generally described by the science the
     <ns>0</ns>
     <id>26700</id>
     <revision>
-      <id>868046874</id>
-      <parentid>868039617</parentid>
-      <timestamp>2018-11-09T17:13:56Z</timestamp>
+      <id>870239319</id>
+      <parentid>870201189</parentid>
+      <timestamp>2018-11-23T12:23:08Z</timestamp>
       <contributor>
-        <username>Praemonitus</username>
-        <id>18426370</id>
+        <username>Headbomb</username>
+        <id>1461430</id>
       </contributor>
-      <comment>/* Medieval science */ +ref.</comment>
+      <comment>Reverted to revision 868046874 by [[Special:Contributions/Praemonitus|Praemonitus]] ([[User talk:Praemonitus|talk]]): Previous version is better, especially when mentionning theorists and experimentalists. ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="152475">{{about|the general term}}

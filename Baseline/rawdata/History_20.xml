@@ -1807,97 +1807,6 @@ In the nineteenth century, theories of racial unity such as [[Pan-Germanism]], [
     </revision>
   </page>
   <page>
-    <title>Historical demography</title>
-    <ns>0</ns>
-    <id>10817881</id>
-    <revision>
-      <id>849506472</id>
-      <parentid>838389710</parentid>
-      <timestamp>2018-07-09T13:35:03Z</timestamp>
-      <contributor>
-        <username>DuncanHill</username>
-        <id>1739907</id>
-      </contributor>
-      <comment>/* Further reading */ Weidenfeld &amp; Nicolson, not Weidenfeld &amp; Nicholson</comment>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="8537">{{hatnote|This articles deals with methodology. For the study of population in different parts of the world see [[Demographic history]].}}
-
-'''Historical demography''' is the [[quantitative study]] of [[human population]] in the past. It is concerned with population size, with the three basic components of population change--[[fertility]], [[Mortality rate|mortality]], and  [[Human migration|migration]], and with population characteristics related to those components, such as marriage, [[socioeconomic status]], and the configuration of families.
-
-==Sources==
-The sources of historical demography vary according to the period and topics of the study.
-
-For the recent period - beginning in the early nineteenth century in most European countries, and later in the rest of the world - historical demographers make use of data collected by governments, including [[census]]es and [[vital statistics (government records)|vital statistics]].&lt;ref name="EoPH"&gt;[http://www.answers.com/topic/historical-demography Historical Demography] in [[Encyclopedia of Public Health]], Retrieved on 3 May 2005&lt;/ref&gt;
-
-In the early modern period, historical demographers rely heavily on ecclesiastical records of baptisms, marriages, and burials, using methods developed by French historian [[Louis Henry]], as well as hearth and poll tax records.
-
-For population size, sources can also include the size of cities and towns, the size and density of smaller settlements, relying on [[field survey]] techniques, the presence or absence of agriculture on [[marginal land]], and inferences from historical records. For population health and life expectancy, [[paleodemography]], based on the study of skeletal remains, is another important approach for populations that precede the modern era, as is the study of ages of death recorded on funerary monuments.
-
-The PUMS (Public User Microdata Samples) data set allows researchers to analyze contemporary and historical data sets.&lt;ref&gt;Sylvia Andrews, "Public User Microdata Samples (PUMS): Do-lt-Yourself Census Data." ''Indiana Libraries'' (2014) 13#2 pp: 19-26. [https://journals.iupui.edu/index.php/IndianaLibraries/article/viewFile/16733/pdf_198 Online]&lt;/ref&gt;
-
-==Development of  techniques==
-Historical analysis has played a central role in the study of population, from [[Thomas Malthus]] in the eighteenth century to major twentieth-century demographers such as [[Ansley Coale]] and [[Samuel H. Preston]]. The French historian [[Louis Henry]] (1911-1991) was chiefly responsible for the development of historical demography as a distinct subfield of demography.&lt;ref name="Rosental"&gt;Paul-André Rosental, [http://www.cairn.info/article.php?ID_REVUE=POPE&amp;ID_NUMPUBLIE=POPE_301&amp;ID_ARTICLE=POPE_301_0097 The Novelty of an Old Genre: Louis Henry and the Founding of Historical Demography], ''Population'' (English edition), Volume 58 –2003/1, Retrieved on 3 May 2007&lt;/ref&gt; In recent years, new research in historical demography has proliferated owing to the development of massive new population data collections, including the Demographic Data Base in Umeå, Sweden,&lt;ref&gt;http://www.ddb.umu.se/index_eng.html, Retrieved on 3 June 2009&lt;/ref&gt; the Historical Sample of the Netherlands,&lt;ref&gt;http://www.iisg.nl/hsn/, Retrieved on 3 June 2009&lt;/ref&gt; and the [[Integrated Public Use Microdata Series]] (IPUMS).
-
-According to Willigan and Lynch, the main sources used by demographic historians include archaeological methods, parish registers starting about 1500 in Europe, civil registration records, enumerations, national [[census]] beginning about 1800, genealogies and family reconstruction studies, population registers,&lt;ref&gt;Susan Cotts Watkins and Myron P. Gutmann. "Methodological issues in the use of population registers for fertility analysis." ''Historical Methods: A Journal of Quantitative and Interdisciplinary History'' (1983) 16#3: 109-120.&lt;/ref&gt; and organizational and institutional records.  Statistical methods have included model life tables, time series analysis, event history analysis, causal model building and hypothesis testing, As well as theories of the demographic transition and the epidemiological transition.&lt;ref&gt;Willigan and  Lynch, ''Sources and methods of historical demography'' (1982)&lt;/ref&gt;&lt;ref&gt;David S. Reher, and Roger Schofield. ''Old and new methods in historical demography'' (Clarendon Press 1993), 426 pp.&lt;/ref&gt;
-
-==See also==
-* [[Classical demography]]
-* [[Demographic history]]
-* [[Demographic transition]]
-* [[Demography]]
-* [[Early modern demography]]
-* [[Medieval demography]]
-* [[Paleodemography]]
-* [[Population reconstruction]]
-* [[Prehistoric demography]]
-* [[Quantitative history]]
-* [[World population]]
-
-===Techniques===
-*[[Gross reproduction rate]]
-*[[Population growth]] 
-*[[Sub-replacement fertility]] 
-*[[Total fertility rate]]
-* [[:Category:Demographic history by country or region]]
-
-==References==
-&lt;!--See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how to generate footnotes using the &lt;ref(erences/)&gt; tags--&gt;
-{{Reflist}}
-
-==Further reading==
-* Alter, George C. "Generation to Generation Life Course, Family, and Community." ''Social Science History'' (2013) 37#1 pp: 1-26. [http://ssh.dukejournals.org/content/37/1/1.short abstract]
-* Alter, George C., et al. "Introduction: Longitudinal analysis of historical-demographic data." ''Journal of Interdisciplinary History'' (2012) 42#4 pp: 503-517. [http://mtw160-198.ippl.jhu.edu/journals/journal_of_interdisciplinary_history/v042/42.4.alter.pdf Online]
-* Alter, George C., et al.  "Completing Life Histories with Imputed Exit Dates: A Method for Historical Data from Passive Registration Systems," ''Population'' (2009) 64:293–318.
-* Arriaga, Eduardo E. "A New Approach to the Measurements of Urbanization" ''Economic Development &amp; Cultural Change'' (1970) 18#2 pp 206–18 [https://www.jstor.org/stable/1152610 in JSTOR]
-* Coale, Ansley J. ''Regional Model Life Tables and Stable Populations'' (2nd ed. 1983)
-* Gutmann, Myron P. et al. eds. ''Navigating Time and Space in Population Studies'' (2012) [https://www.amazon.com/Navigating-Space-Population-Studies-International/dp/9400745052/ excerpt and text search]
-* Henry, Louis. ''Population: analysis and models'' (London: Edward Arnold, 1976)
-* Henry, Louis. ''On the measurement of human fertility: selected writings of Louis Henry'' (Elsevier Pub. Co, 1972)
-* Henry, Louis. "The verification of data in historical demography." ''Population studies'' 22.1 (1968): 61-81.
-* Nusteling, Hubert. "Fertility in historical demography and a homeostatic method for reconstituting populations in pre-statistical periods." ''Historical Methods: A Journal of Quantitative and Interdisciplinary History'' (2005) 38#3 pp: 126-142. DOI:10.3200/HMTS.38.3.126-142
-* Smith, Daniel Scott. "A perspective on demographic methods and effects in social history." ''William and Mary Quarterly'' (1982): 442-468. [https://www.jstor.org/stable/1919581 in JSTOR]
-* Reher, David S., and Roger Schofield. ''Old and new methods in historical demography'' (Clarendon Press 1993), 426 pp.
-* Swanson,  David A.  and Jacob S. Siegel. ''The Methods and Materials of Demography'' (2nd ed. 2004); rewritten version of Henry S. Shryock and Jacob S. Siegel, ''The Methods and Materials of Demography'' (1976); compendium of techniques
-* Swedlund, Alan C. "Historical demography as population ecology." ''Annual Review of Anthropology'' (1978) pp: 137-173.
-* van de Walle, Etienne. "Historical Demography" in Dudley L. Poston and Michael Micklin, eds. ''Handbook of Population'' (Springer US, 2005) pp 577–600
-* Watkins, Susan Cotts, and Myron P. Gutmann. "Methodological issues in the use of population registers for fertility analysis." ''Historical Methods: A Journal of Quantitative and Interdisciplinary History'' (1983) 16#3: 109-120.
-* Willigan, J. Dennis,  and Katherine A. Lynch, ''Sources and Methods of Historical Demography'', (New York: Academic Press, 1982)   505 p. [http://www.popline.org/node/396847#sthash.qsC0swEv.dpuf Abstract]
-* Wrigely, E. A., ed. ''An Introduction to English Historical Demography'', London: Weidenfeld &amp; Nicolson, 1966.
-
-==External links==
-* [http://historicaldemography.net/ International Commission for Historical Demography]
-* [http://www.h-net.msu.edu/~demog/ H-Demog], an international scholarly online discussion list on demographic history
-* [http://www.populstat.info/ POPULATION STATISTICS in historical perspective]
-
-{{Authority control}}
-
-[[Category:Fields of history|Demography]]
-[[Category:Population]]</text>
-      <sha1>hzswqq6rggnob4swktjkps6c5sqywpe</sha1>
-    </revision>
-  </page>
-  <page>
     <title>Historical figure</title>
     <ns>0</ns>
     <id>11325429</id>
@@ -2642,6 +2551,111 @@ In 21st-century Germany, the history curriculum is controlled by the 16 states, 
 [[Category:History| ]]
 [[Category:Humanities]]</text>
       <sha1>ltm0su20op9su0k62frfeclz76vb2a3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>History of the Lurs</title>
+    <ns>0</ns>
+    <id>59134195</id>
+    <revision>
+      <id>870181599</id>
+      <parentid>870181217</parentid>
+      <timestamp>2018-11-23T00:30:15Z</timestamp>
+      <contributor>
+        <username>Shadegan</username>
+        <id>8476986</id>
+      </contributor>
+      <minor/>
+      <comment>Shadegan moved page [[The history of the Lurs]] to [[History of the Lurs]]: Grammar edit</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="31184">'''Lurs''' (also Lors), are an [[Iranian people]] living mainly in western and south-western [[Iran]].&lt;ref&gt;{{cite web|url=http://www.culturalsurvival.org/publications/cultural-survival-quarterly/iran/lurs-iran |title=The Lurs of Iran |publisher=Cultural Survival |date= |accessdate=2015-09-21}}&lt;/ref&gt; There are also a significant population of [[Iraqi Lurs]] in eastern and central parts of [[Iraq]],&lt;ref name="Erik John Anonby 2003 pp 171-197"&gt;Erik John Anonby (2003). "Update on Luri: How many languages?" ''Journal of the Royal Asiatic Society'' (Third Series), 13, pp 171-197. doi:10.1017/S1356186303003067.&lt;/ref&gt;  mainly known as [[Feyli Lurs|Feyli]]s.&lt;ref&gt;http://www.ncciraq.org/images/infobygov/NCCI_Wassit_Governorate_Profile.pdf&lt;/ref&gt;&lt;ref name="H. Field 1939"&gt;H. Field, ''Contributions to the Anthropology of Iran'', Chicago, 1939.&lt;/ref&gt;&lt;ref&gt;G. R. Fazel, "Lur", in ''Muslim Peoples: A World Ethnographic Survey'', ed. R. V. Weekes (Westport, 1984), pp. 446–447; S. Amanollahi, ''Qom-e Lor'' (Tehran, 1991), p. 8&lt;/ref&gt;&lt;ref&gt;E.B. Soane, ''To Mesopotamia and Kurdistan in disguise, with historical Notices of the  Kurdish Tribes and the Chaldeans of Kurdistan''. London: John Murray, 1926. Vol II, p. 120-124&lt;/ref&gt; The word Luristan or Lorestan, is attributed to the areas inhabited by the Lurs.&lt;ref name=l1&gt;{{یادکرد کتاب | نام خانوادگی =پشتدار | نام =علی‌محمد | پیوند نویسنده = | عنوان =لرها و لرستان از دیدگاه ولادیمیر مینورسکی | ترجمه = | جلد =۷ | سال =۱۳۷۶ | ناشر =علوم انسانی «ایران شناخت» |مکان = | شابک = | صفحه =۱۶۰ تا ۱۸۳ | پیوند =http://www.noormags.com/view/fa/articlepage/716110 | تاریخ بازبینی =۵ ژوئن ۲۰۱۳}}&lt;/ref&gt;&lt;ref name=britannica&gt;{{یادکرد وب| نشانی = http://www.britannica.com/EBchecked/topic/348190/Lorestan| عنوان = Lorestān| تاریخ بازدید =۱۱ سپتامبر ۲۰۱۴| نویسنده =| تاریخ =| ناشر =[[دانشنامه بریتانیکا]]| زبان = انگلیسی| نشانی بایگانی = https://archive.today/SOeDy| تاریخ بایگانی = ۱۱ سپتامبر ۲۰۱۴}}&lt;/ref&gt;&lt;ref name=luristan-04&gt;{{یادکرد وب| نشانی =http://www.iranicaonline.org/articles/luristan-04-origin-nomadism| عنوان = LURISTAN iv. The Origin of Nomadism| تاریخ بازدید =۱۱ سپتامبر ۲۰۱۴| نویسنده =| تاریخ =| ناشر =[[دانشنامه ایرانیکا]]| زبان = انگلیسی| نشانی بایگانی =https://archive.today/Cf8f5| تاریخ بایگانی = ۱۱ سپتامبر ۲۰۱۴}}&lt;/ref&gt;&lt;ref&gt;{{پک|بختیاری|۱۳۸۳|ک=تاریخ بختیاری|ص=۶۲}}&lt;/ref&gt;&lt;ref name=loghatnaameh2&gt;{{یادکرد وب| نشانی = https://www.loghatnaameh.org/dehkhodaworddetail-c4eea2e27cb443da9506b20cb181a5fb-fa.html| عنوان = لرستان| تاریخ بازدید =۱۲ اکتبر ۲۰۱۴| نویسنده =| تاریخ =| ناشر =[[لغت‌نامه دهخدا]]| زبان = فارسی| نشانی بایگانی = https://archive.today/FKPuM| تاریخ بایگانی = ۱۲ اکتبر ۲۰۱۴}}&lt;/ref&gt; The boundaries of Luristan is begin from some eastern Iraqi plains and stretch to the west and southwest of Iran.&lt;ref name=l1 /&gt;&lt;ref name=britannica /&gt;&lt;ref name=luristan-04 /&gt; Before the Safavid era, the limits of the name Lorestan was included the [[Feyli Lurs|Feyli]], [[Bakhtiari people|Bakhtiari]] and [[Southern Lurs|Southern Lurish]] settlements. After the rule of the Safavids, the Bakhtiari settlement was named Bakhtiari region, and the geography of the Lorestan name was limited to the present provinces of Lorestan and Ilam. The area was also divided into two parts: Poshtkuh and Pishkuh, in the Qajar dynasty. Today, Lorestan is the name of one of the western provinces of Iran.
+
+== Origin ==
+There are several disputes over the origin of the Lurs and they are believed to be from the Elamite and Kassite origin&lt;ref&gt;{{cite book|DUPLICATE_last= Edwards|DUPLICATE_first= I.E.S.|DUPLICATE_last= Gadd| DUPLICATE_first= C.J.|last= Hammond|first= G.L.|title=The Cambridge Ancient History|year=1971|edition=2nd|publisher= Camberidge University Press|isbn=9780521077910|page=644|url=https://books.google.com/?id=slR7SFScEnwC&amp;dq=elamite+lurs}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last= Potts|first= D.S|title=The Archaeology of Elam: Formation and Transformation of an Ancient Iranian State (Cambridge World Archaeology)|year=1999|edition=2nd|publisher= Camberidge University Press|isbn=9780521564960|page=45|url=https://books.google.com/?id=mc4cfzkRVj4C&amp;pg=PA45&amp;lpg=PA45&amp;dq=proto-lurs+elamite#v=onepage&amp;q=proto-lurs%20elamite&amp;f=false}}&lt;/ref&gt; or a Medean or Persian tribe of Aryan origin.&lt;ref&gt;{{cite web|url=http://www.culturalsurvival.org/publications/cultural-survival-quarterly/iran/lurs-iran |title=The Lurs of Iran |publisher=Cultural Survival |date= |accessdate=2015-09-21}}&lt;/ref&gt; However, nowadays they speak an Iranian language and consider themselves as pure Iranians.
+=== Name ===
+The word Lur for the first time is seen in the writings of some historians and geographers of the 10th century and later in the form of اللور, اللر and لور (Lur). [[Hamdallah Mustawfi]] in [[Tarikh-i guzida|Tarikh-e gozida]] (1330 AD) referred to the settlement of Lurish tribes in Levant and then their mass migration towards the current Lurish-inhabited areas. Several hyphothesis are discussed about the origin of the name Lur or Lor. It is attributed to a person called Lur or Lohraseb and some believe that the name refers to the area of first settlement of this ethnic group. The word Ler or Lir (literally Forst or forest mountain) is a probable source for this word.&lt;ref&gt;H.Mostawfi. 2000. Tarikhe Gozide (in Persian). Amir Kabir Publications, Tehran&lt;/ref&gt;
+
+== Early History ==
+Luristan is mainly a mountainous juicy and lush area with prosperous  pasturages.  There are several dominant tree species like oak, elm, walnut and almond around Luristan.[[File:Cave painting in Doushe cave, Lorstan, Iran, 8th millennium BC.JPG|thumb|left|200px|[[Cave painting]] in Doushe cave, Lorestan, Iran, 8th millennium BC]]
+[[File:Disc-headed pin zoom (2) Bronze Beaker Luristan 1000 BC (Rietberg museum).JPG|thumb|right|200px|Zoom of a disc-headed pin (pin, female figure). Found in Lorestan, [[Rietberg Museum]], [[Zürich]]]]
+The ancient history of Lorestan is closely intertwined with the rest of the [[Ancient Near East]]. In the 3rd and 4th millennium BC, migrant tribes settled down in the mountainous area of the Zagros Mountains. The [[Kassites]], an ancient people who spoke neither an [[Indo-European languages|Indo-European]] nor a [[Semitic languages|Semitic language]], originated in Lorestān. They would control [[Babylonia]] after the fall of the [[Old Babylonian Empire]] ca. 1531 BC and until ca. 1155 BC.
+Luristan was invaded and settled by the Iranian [[Medes]] in the 2nd millennium BC. The Medes absorbed the indigenous inhabitants of the region, primarily the [[Kassites]] as well as the [[Gutians]], by the time the area was conquered by the [[Achaemenid Empire|Persians]] in the 1st millennium BC.
+In February 2017, archeological discoveries related to the [[Achaemenid]] era were made in Lorestan for the first time.&lt;ref&gt;{{Cite web | url=http://www.irna.ir/en/News/82418319/ | title=Archeologist: First signs of Achaemenids discovered in Western Iran}}&lt;/ref&gt; The history of Aryan settlement in Luristan, precedes more than 1000 years BC. From the Indo-European ethnic groups, first, the Medes settled in areas known as Lorestan. Between 625 and 700 BC, other tribes like the Scythians settled in Lorestan.
+=== Elam ===
+The first people who ruled areas of Lorestan were Elamites. The extent of the influence of the Elamites has been to the present Mamassani area. They were indigenous peoples of Iran, but there is no proper knowledge of how communities are formed and the beginning of their history. However, They were able to establish a state before the arrival of Aryan ethnic groups in parts of western Iran.&lt;ref name=loor1&gt;{{یادکرد وب| نشانی = http://loor.ir/News.asp?nid=2970&amp;ln=fa| عنوان = آیا لر آریاییست یا عیلامی و کاسی؟| تاریخ بازدید =۱۳ سپتامبر ۲۰۱۴| نویسنده =| تاریخ =۲۶ شهریور ۱۳۸۹| ناشر =نشریه اینترنتی مردم لر| زبان =فارسی| نشانی بایگانی = https://archive.today/Waga| تاریخ بایگانی =۱۳ سپتامبر ۲۰۱۴}}&lt;/ref&gt;
+The Elam government included Khuzestan, modern Lorestan, Poshtkuh (Ilam provice and some western Iraqi areas), Bakhtiari mountains and Southern Lurish settelment. Babylonians called the land of Elamites Elam or Elamto, meaning "the mountain" and perhaps "the land of sunrise".
+Elamite is generally accepted to be a [[language isolate]] and thus unrelated to the much later arriving Persian and Iranic languages. In accordance to geographical and archaeological matching, historians argue that the Elamites to be the Proto-[[Lurs|Lurs]], whose language became [[Iranian languages|Iranian]] only in the middle ages.&lt;ref&gt;{{cite book|DUPLICATE_last= Edwards|DUPLICATE_first= I.E.S.|DUPLICATE_last= Gadd| DUPLICATE_first= C.J.|last= Hammond|first= G.L.|title=The Cambridge Ancient History|year=1971|edition=2nd|publisher= Camberidge University Press|isbn=9780521077910|page=644|url=https://books.google.com/?id=slR7SFScEnwC&amp;dq=elamite+lurs}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last= Potts|first= D.S|title=The Archaeology of Elam: Formation and Transformation of an Ancient Iranian State (Cambridge World Archaeology)|year=1999|edition=2nd|publisher= Camberidge University Press|isbn=9780521564960|page=45|url=https://books.google.com/?id=mc4cfzkRVj4C&amp;pg=PA45&amp;lpg=PA45&amp;dq=proto-lurs+elamite#v=onepage&amp;q=proto-lurs%20elamite&amp;f=false}}&lt;/ref&gt;&lt;ref name=Grugni&gt;{{cite journal | last1 = Grugni | first1 = V | last2 = Battaglia | first2 = V | last3 = Hooshiar Kashani | first3 = B | last4 = Parolo | first4 = S | last5 = Al-Zahery | first5 = N ''et al. '' | year = 2012 | title = Ancient Migratory Events in the Middle East: New Clues from the Y-Chromosome Variation of Modern Iranians | url = | journal = PLoS ONE | volume = 7 | issue = 7| page = e41252 | doi=10.1371/journal.pone.0041252 | pmid=22815981 | pmc=3399854}}&lt;/ref&gt;
+
+==== Elamite cities ====
+The major cities of the Elamites were Shush, Ahvaz, Madakto and Kheidalou. [[Walther Hinz]] believes that the current KhorramAbad in the era of the Elamites was the capital of a dynasty called Simashki.
+In the course of several thousand years, the Elamites maintained their identity against strong tribes such as [[Sumerians]], [[Akkadians]], [[Babylonians]], and [[Assyrians]].
+Eventually, they were defeated by their enemy of Assyria in 654 BC because of internal disputes and wars.
+The rise of the Elamites and the formation of the Elamite government in the north of Khuzestan plain is the most important political event of Iran in the third millennium BC. Since then, before the arrival of the Medes and Persians, what we know from the history of the land of Iran is only the political history of Elamite.
+
+=== Kassites ===
+Kassites entered to the Iranian plateau from the highlands of the Caucasus and Azerbaijan before the Aryan migration and then settled  the southwest of Iran. Kassites along with Elam, dominated parts of Lorestan and had an extraordinary skill in making bronze artifacts. They were considered as the most important Zagros mountain tribes and were engaged to livestock breeding. They spoke in a language that was affiliated with Elamite.
+They were brave and warrior riders and repeatedly entered into battle with their neighbors, including Elamites and Babylonians. They even managed to overthrow the government of Babylon and ruled theBabylon for six centuries. The rule of the Kassites in Babylonia ended as a result of their defeat from the Elamites. After the defeat from the Elamites, they returned to their mountainous land of Lorestan.&lt;ref&gt;{{یادکرد وب|نویسنده = |نشانی =http://pardis.150m.com/kassi572.pdf |عنوان =قوم کاسی | ناشر =مهدی رازانی |تاریخ = |تاریخ بازدید =۳ آذر ۱۳۹۱}}&lt;/ref&gt;&lt;ref&gt;{{یادکرد|نویسنده =گرانتوسگی |کتاب =تاریخ ایران از زمان باستان تا امروز| ناشر = تهران |صفحه = |تاریخ =۱۳۴۵}}&lt;/ref&gt;&lt;ref&gt;{{یادکرد|نویسنده =پیگولووسکایا |کتاب =تاریخ ایران از عهد باستان تا قرن ۱۸| ناشر = تهران |صفحه = |تاریخ =۱۳۵۳}}&lt;/ref&gt;
+
+=== Achaemenids to Sassanids ===
+During the rule of Achaemenid, Lorestan was part of the rule of the Kassites and when the Achaemenids moved from Babylon to Hamadan, they had to cross the Lorestan area and pay ransom to the Kassites.&lt;ref&gt;{{یادکرد وب|نویسنده = |نشانی =http://www.encyclopaediaislamica.com/madkhal2.php?sid=4454 |عنوان =جبال (۱) (جمع جَبَل) یا کورة جَبَل یا قُهِستان یا قوهستان (معرّب کوهستان) یا بلاد جبال | ناشر =دانشنامه جهان اسلام |تاریخ = |تاریخ بازدید =۱ ژوئن ۲۰۱۱|زبان=فارسی}}&lt;/ref&gt; Pahle was the name of a vast land in west of Iran which was included many cities and areas in the current Zagros. The province of Pahla was named after the Sasanian times and the word Pahlavi refers to the people, the language, and the alphabet related to the this region. At the time of the Achaemenids, the current Lorestan, along with Ilam and Khuzestan, were the third state of this great empire. During the Parthian period, this land was one of the Satraps (states) of this dynasty anf finally, during the Sassanid period, the area was named "Pahla".&lt;ref&gt;{{یادکرد وب|نویسنده = |نشانی =http://www.encyclopaediaislamica.com/madkhal2.php?sid=2899 |عنوان =پَهلَوی | ناشر =دانشنامه جهان اسلام |تاریخ = |تاریخ بازدید =۱ ژوئن ۲۰۱۱|زبان=فارسی}}&lt;/ref&gt;
+== Islamic era ==
+Inspite of several resistance efforts, the Arab conquest of Iran, led to the end of the Sasanid Empire in 651 and the eventual decline of the Zoroastrian religion in Iran. Iran (including Lurish territory) was under the absolute sovereignty of Arabs for two centuries. Lur people, however, managed to maintain the language and many of their customs. Until the end of the third century AH, the district of Lorestan paid the taxes to Kufa and was directly governed by the Caliphs. Different free-seeking revolts led to gradual reestablishment of Iranian local dynasties in the beginning of the ninth century.
+After the Arab dominance, Luristan was under control of [[Hasanwayhids]], [[Buyids]] and [[Seljuq dynasty|Seljuqids]], respectively.
+
+By the middle of the tenth century, the total Lurish-inhabited areas were known as Luristan. Along with the gradual weakening of Seljuks, several autonomous atabeg were formed across Iran. Luristan Atabegs or Hazaraspids established an autonomous state in the Lurish-inhabited areas. After that, the territory was divided into two parts: Lur-e-kuchek (Minor Luristan) and Lur-e-bozorg (Major Luristan). The former corresponded to modern Luristan and Ilam provinces and some areas in the current western Iraq while the latter included modern Bakhtiari, Kuhgiluye-Boir Ahmed, Mamasani and some coastal areas in Bushehr. In spite of all these invasions, the Lurs maintained their territorial integrity, absorbed the invaders, and eventually established two local dynasties known as Atabak or Atabeg during the twelfth century.
+Hazaraspids (Atabaks of Luristan) is the name of Lur dynasty that ruled a large area of Iran for a long while (1148-1424). Their territory included almost all the current Lurish-inhabited regions. Luristan Atabeg then divided in two Atabegs; the Minor Luristan (Lore kučak) and the Major Luristan (Lore bozorg) with Khorram Abad and Idaj as their capitals, respectively.&lt;ref&gt;{{یادکرد وب|نویسنده = |نشانی =http://www.iranicaonline.org/articles/hazaraspids |عنوان =هزاراسپیان | ناشر =دانشنامه ایرانیکا |تاریخ  = |تاریخ بازدید =‎۶ آبان ۱۳۸۹|زبان=انگلیسی}}&lt;/ref&gt;
+
+==== Lor-e-Bozorg (Major Luristan) ====
+A big  part of the Lurish areas came under the control of a local dynasty known as Lur-e bozorg Atabegs during the twelfth century. It was established in 1155 AD. The area under the control of major Luristan rulers (modern Bakhtiari, Kuhgiluyeh and Boyer Ahmed, Mamasani and parts of Khuzistan, Bushehr and Isfahan provinces) was included a vast territory extending from the Dez River in the north Khuzistan to the central areas of [[Fars province|Fars]] in the southern Iran. In spite of evidences indicating the economic and social proserity, the Atabak dynasty finally extinct by [[Ibrahim Sultan ibn Shahrukh]] invasion in 1423. As a result the territorial unity and the economic prosperity of the Major Luristan was terminated. The territory was divided into tribal sectins without a centralized coherence. During the Safavid period (1501-1750), Major Luristan was divided into three parts: the northern part became known as [[Bkhtiari people|Bakhtiari]], the central part as [[Kuhgiluyeh and Boyer Ahmad|Kuhgilu]], and the southern part as [[Mamasani]].
+
+==== Lor-e-Kuchek (Minor Luristan) ====
+Traditionally the Minor Luristan corresponded to current provinces of Luristan and Ilam and some Feyli-inhabited areas in Iraq (belt of mountainous region stretching from the plains of the Tigris in the west to the Diz River in the east).Shojaeddin Khorshid establshed the dynasty as the Atabakan-i-Luristan, which lasted from 1184 to 1597. The rulers established their capital in Khorramabad (currently the provincial capital of [[Luristan province]].
+
+===== Lurish Walies dynasty =====
+The Atabak dynasty was replaced by the Wali dynasty (1596-1929). The founder of the new dynasty was Husain Khan, whose father had married the aunt of the last Atabak, and on the basis of this kinship tie Husain Khan later received the position of ruler of Lur-j-kuchek. The Walis played a significant role in the political affairs of Iran. They guarded southwestern Iran against the Ottomans, who constantly attacked the western and southwestern borders of the country. Ali Mardan Khan was appointed the commander-in-chief of the entire Iranian armed forces dur downfall of the Safavids, when the country was invaded by the Afghans in the early eighteenth century (De Bode 1845).
+
+The reign of the Walis coincided with several dynasties of Iran including: Safavid (1501-1736), Afshar (1736-1750), Zand (1750-1794), Qajar (1796-1925) and the beginning of the Pahlavi(1924-1929). The last two dynasties, namely the Qajar and Pahlavi, are responsible for the political weakness of the Lurs and the decline of the Wali dynasty. Thus, the Lurs maintained their political integrity under the Safavids and Afshars, while they ruled over Iran during the Zand dynasty. However, when the Qajars came to power, they divided Lur-i-kuchek into two parts, Luristan and Posht-kuh. From this time on, the domain of the Walis was limited to Posht-kuh only, while Luristan came under the direct control of the central government. Thus, a governor-general, usually a member of the royal family, was appointed by the king and sent to Luristan. Yet during the Qajar dynasty, Luristan was continually in a state of anarchy. The Qajars were unable to subdue the tribes of Luristan and hence, except for some short periods, there was no peace in Luristan. As a matter of fact, the Qajar dynasty lost total control over Luristan after the assassination of Nasir al-Din Shah in 1896. In short, the division of Lur-i-kuchek by the Qajar dynasty weakened the political strength of the Walis and reduced the Lurs' political influence. Furthermore, the inability of the Qajars to establish law and order in Luristan contributed to the expansion of pastoral nomadism and the destruction of settled communities. Consequently, Luristan suffered politically as well as economically under Qajar rule.
+
+The Qajar dynasty was overthrown by Reza Khan, the founder of the Pahlavi dynasty, in 1925. The Pahlavi dynasty (1925-1979) is best characterized as a dictatorial monarchy with absolute rule, that is, the concentration of power in the monarch's hands. The regime built an army whose strength was without precedent in the history of Iran. The army was used against Lurs and other groups who refused to give up their power to the new regime. Through bloody confrontations between the new monarch and the Lurs (as well as other peoples in Iran), the Pahlavi dynasty eventually crushed the powers of the Lurs. Thus, Reza Shah ended the Wali dynasty of Posht-kuh, executed or exiled many of the Lur leaders, forcefully sedentarized the nomadic pastoral tribes and changed the territorial integrity of Lur-i-kuchek.
+
+== Modern history ==
+==== The Lurs under the Pahlavi Regime ====
+
+While the Qajar dynasty was responsible for the spread of anarchy among the Lurs, the Pahlavi-dynasty was responsible for their political disorganization, social disruption and the loss of political freedom and semi-independent status. For the first time in their long history, the Lurs were stripped of their traditional rights and political freedom by the Pahlavi dynasty. When Reza Shah took power, he established a centralized government, transferring power from the provincial communities to Tehran. He carried out his plan through the use of military operations against various provincial communities, including the Lurs. A key element to Reza Shah's success was that the Lurs were not unified so he could attack each group separately. Furthermore, Reza Shah used one tribe to fight against another. As the Lurs were defeated, Reza Shah took the following measures to keep them under control: 1) tribal leaders were removed from their positions of authority and were replaced by military officials, 2) many of the leaders, were executed, imprisoned or exiled to other parts of Iran, 3) some tribes were exiled to distant lands, 4) all pastoral nomadic tribes, which formed the majority of the Lur population, were forceably sedentarized without sufficient provisions, 5) all tribesmen were disarmed, 6) the use of the traditional black tent was outlawed, 7) tribesmen were ordered to abandon their traditional costume and were forced to wear Western clothes; however, this rule was not totally carried out, and 8) governmental offices were established in order to carry out the state policies.
+
+The above policies were intended to subjugate the Lurs to the central government. Reza Shah altered the traditional sociopolitical organization of the Lurs without providing opportunities for their participation in local or national government. Undoubtedly the establishment of the central state demanded the integration of various regions and ethnic groups. However, that need not entail political deprivation and the lack of respect for members of the different tribal or ethnic groups. Under the Pahlavi regime, however, the establishment of the modern state came to mean precisely that - the expansion of state domination and disruption of the traditional political organization without the slightest opportunity for peoples to participate in local or national politics.
+
+Reza Shah was deposed by the British and Russians in 1941, and was replaced by his son Mohammed Reza Shah, who ruled from 1941 to 1979. The reign of Mohammed Reza Shah witnessed further centralization of state power and the disintegration of traditional political organization among the Lurs. The enforcement of the land reform program and the nationalization of the forests and pastureland (1962-63 along with various forces of modernization including the expansion of capitalism, urbanism and modern schooling gradually changed many aspects of the Lurs' culture.
+
+Under the Pahlavi regime, the Lurs lost their freedom and their semi-independent status, and the Lurs' territories were divided into several administrative units without any regard for traditional boundaries. For instance, Lur-i-kuchek has been limited to modern Luristan while Posht-kuh, formerly ruled by the Wali dynasty, was incorporated into Ilam province. The most dramatic change caused by the Pahlavi regime was the loss of freedom and the semi-independent status of the Lurs. Prior to the establishment of the Pahlavi Regime, basic decisions were made within the local communities. For instance, the Bakhtiari was ruled by a local dynasty who paid certain tributes to the central government, while internal affairs were taken care of by the members of that dynasty. In Luristan, each tribal group acted as a semi-independent unit. In Posht-kuh, the Walis were supreme, while the tribes of Kuh-Gilu-Boir Ahmed and those of Mamasani also enjoyed the same internal freedom. The Pahlavi regime, however, sent high-ranking officials from Tehran to supervise the Lur territories. Just prior to the recent revolution, all governors-general were directly appointed by the Shah without taking into consideration the existence of the Lurs' communities. Lurs, like other Iranians, were prohibited from organizing political parties, forming associations or expressing themselves through mass media and public gatherings.
+
+Second, Iranian oil is extracted from the mountain slopes of Luristan, Bakhtiari and Kuh-Gilu-Boir Ahmed provinces, but the Lurs were deprived from their share of oil revenue, particularly during the reign of Mohammed Reza Shah. The money derived from oil went to the pockets of the Tehranis, creating regional economic inequalities.
+
+Third, despite the fact that the Pahlavi regime provided elementary and, to some extent, secondary education for the Lurs, it failed to provide them with opportunities for higher education. Until a few years prior to the revolution, not a single institution of higher education was established among the Lurs, nor were they given scholarships or financial support. The Pahlavi regime was thus responsible for depriving the Lurs of access to higher and prestigious positions. High-ranking Lur families were the only exceptions; they could afford to send their children to universities either in Iran or outside the country.
+
+Modern education was used during the Pahlavi rule as a way to undermine local cultural values. School curriculum was prepared in Tehran without taking the cultural diversity among the Iranian peoples into consideration. Not a single course in the entire elementary, high school or university curricula reflected the history, geography or sociocultural values of the Lurs.
+
+In sum, the Lurs lost their sociopolitical integrity under the Pahlavi dynasty. They were integrated into the "modern" state without any opportunity for effective participation in the decision-making process that affected their lives.
+
+==== The Lurs under the Islamic Regime ====
+
+It is too early to evaluate the sociopolitical conditions of the Lurs under the present regime. So far, political parties, associations and local newspapers have not yet emerged. Administrative boundaries of the Lurs' territories remain unchanged from those of the Pahlavi regime. While it is difficult to speculate about the future of the Lurs under the current regime, considering the fact that the present regime is concerned more with an Islamic community rather than with a country of diverse ethnic groups, it seems unlikely that there will be considerable change in the near future.
+
+==Genetics==
+
+Considering their [[Y-Chromosome|NRY]] variation, the Lurs are distinguished from other Iranian groups by their relatively elevated frequency of [[Human Y-chromosome DNA haplogroup|Y-DNA]] [[Haplogroup R1b (Y-DNA)|Haplogroup R1b]] (specifically, of subclade R1b1a2a-L23).&lt;ref name=Grugni/&gt; Together with its other clades, the [[Haplogroup R-M173 (Y-DNA)|R1]] group comprises the single most common haplogroup among the Lurs.&lt;ref name=Grugni/&gt;&lt;ref name=RSpencer&gt;{{cite journal | last1 = Wells | first1 = R. Spencer| year = 2001 | title = The Eurasian Heartland: A continental perspective on Y-chromosome diversity | url = | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 98 | issue = 18| pages = 10244–9 | doi=10.1073/pnas.171305098 | pmid=11526236 | pmc=56946|display-authors=etal}}&lt;/ref&gt; [[Haplogroup J-M172 (Y-DNA)|Haplogroup J2a]] (subclades J2a3a-M47, J2a3b-M67, J2a3h-M530, more specifically) is the second most commonly occurring patrilineage in the Lurs and is associated with the [[Demic diffusion|diffusion]] of agriculturalists from the Neolithic [[Mesopotamia|Near East]] c. 8000-4000 BCE.&lt;ref name=RSpencer/&gt;&lt;ref&gt;Semino O, Passarino G, Oefner P J, Lin A A, Arbuzova S, Beckman L E, de Benedictis G, Francalacci P, Kouvatsi A, Limborska S, et al. (2000) Science 290:1155–1159&lt;/ref&gt;&lt;ref&gt;Underhill P A, Passarino G, Lin A A, Shen P, Foley R A, Mirazon-Lahr M, Oefner P J, Cavalli-Sforza L L (2001) Ann Hum Genet 65:43–62&lt;/ref&gt;&lt;ref&gt;{{cite journal | last1 = Semino | first1 = Ornella | last2 = Magri | first2 = Chiara | last3 = Benuzzi | first3 = Giorgia | last4 = Lin | first4 = Alice A. | last5 = Al-Zahery | first5 = Nadia | last6 = Battaglia | first6 = Vincenza | last7 = MacCioni | first7 = Liliana | last8 = Triantaphyllidis | first8 = Costas| year = 2004 | title = Origin, Diffusion, and Differentiation of Y-Chromosome Haplogroups E and J: Inferences on the Neolithization of Europe and Later Migratory Events in the Mediterranean Area | url = | journal = The American Journal of Human Genetics | volume = 74 | issue = 5| pages = 1023–34 | doi=10.1086/386295 | pmid=15069642 | pmc=1181965|display-authors=etal}}&lt;/ref&gt; Another haplogroup reaching a frequency above 10% is that of [[Haplogroup G-M201 (Y-DNA)|G2a]], with subclade [[Haplogroup G-P303 (Y-DNA)|G2a3b]] accounting for most of this.&lt;ref name=Grugni2&gt;{{cite journal | last1 = Grugni | first1 = V | last2 = Battaglia | first2 = V | last3 = Hooshiar Kashani | first3 = B | last4 = Parolo | first4 = S | last5 = Al-Zahery | first5 = N| year = 2012 | title = Ancient Migratory Events in the Middle East: New Clues from the Y-Chromosome Variation of Modern Iranians | url = | journal = PLoS ONE | volume = 7 | issue = 7| page = e41252 | doi = 10.1371/journal.pone.0041252 | pmid=22815981 | pmc=3399854|display-authors=etal}}&lt;/ref&gt; Also significant is haplogroup [[Haplogroup E-M215 (Y-DNA)#Sub Clades of E-M78|E1b1b1a1b]], for which the Lurs display the highest frequency in Iran.&lt;ref name=Grugni2/&gt; Lineages [[Haplogroup Q-M242 (Y-DNA)|Q1b1]] and [[Haplogroup Q-M346 (Y-DNA)|Q1a3]] present at 6%, and [[Haplogroup T-M184 (Y-DNA)|T]] at 4%.&lt;ref name=Grugni2/&gt;
+
+== See also ==
+==References==
+{{Reflist}}
+
+[[Category:Lur people]]
+[[Category:History]]
+[[Category:History of Iran]]
+[[Category:Iranian people]]
+[[Category:History of ethnic groups in Iran]]</text>
+      <sha1>61wc1kuyexf4dlggbrc3dcspwt841z8</sha1>
     </revision>
   </page>
   <page>

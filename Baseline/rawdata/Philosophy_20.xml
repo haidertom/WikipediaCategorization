@@ -417,18 +417,15 @@ The term "concept" is traced back to 1554–60 (Latin ''[[Wikt:conceptus|concept
     <ns>0</ns>
     <id>276872</id>
     <revision>
-      <id>869948015</id>
-      <parentid>869947575</parentid>
-      <timestamp>2018-11-21T11:35:34Z</timestamp>
+      <id>870204213</id>
+      <parentid>869948015</parentid>
+      <timestamp>2018-11-23T04:54:01Z</timestamp>
       <contributor>
-        <username>Jauerback</username>
-        <id>4088067</id>
+        <ip>60.241.74.18</ip>
       </contributor>
-      <minor/>
-      <comment>Reverted edits by [[Special:Contribs/Amandeep1508|Amandeep1508]] ([[User talk:Amandeep1508|talk]]) to last version by Jauerback</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="47022">[[Critical_thinking|critical thinking]][[Critical_thinking|critical thinking]][[Critical_thinking]][[File:Head of Socrates in Palazzo Massimo alle Terme (Rome).JPG|thumb|
+      <text xml:space="preserve" bytes="46923">[[File:Head of Socrates in Palazzo Massimo alle Terme (Rome).JPG|thumb|
 Sculpture of Socrates
 ]]
 {{Use dmy dates|date=April 2012}}
@@ -671,7 +668,7 @@ Searching for evidence of critical thinking in discourse has roots in a definiti
 [[Category:Logic]]
 [[Category:Reasoning]]
 [[Category:Mind]]</text>
-      <sha1>r21cu29lahm3lweexmyq40my8opv7pp</sha1>
+      <sha1>sehbp8utvme01sb7ioz9tlxex77cs2z</sha1>
     </revision>
   </page>
   <page>
