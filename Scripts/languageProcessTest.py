@@ -5,8 +5,9 @@ import BloomFilter
 
 path = '../TestArticle/plaindata/Arts_50/AA/wiki_00'
 lang = lp.languageProcess(path)
-test = lang.getHighFreqWordsAsDict()
-print(test)
+test = lang.getWords()
+test2 = [word for word in test if any(ch.isdigit() for ch in word)]
+print(test2)
 
 
 

@@ -10,11 +10,14 @@ import sys
 import io
 import re
 import nltk
+from collections import defaultdict
+
 class languageProcess:
     def __init__(self,path):
         # Set lists with character/words to exclude
         self.stop    = set(stopwords.words('english'))
         self.exclude = set(string.punctuation)
+        self.words = set(nltk.corpus.words.words())
         # Set lematizer to increase Frequency for words with the same word stem
         self.lemma   = WordNetLemmatizer()
         self.path=path
@@ -28,12 +31,26 @@ class languageProcess:
     def clean(self,doc):
     # remove stop words & punctuation, and lemmatize words
         s_free  = " ".join([i for i in doc.lower().split() if i not in self.stop])
-        p_free  = ''.join(ch for ch in s_free if ch not in self.exclude)
-        lemm    = " ".join(self.lemma.lemmatize(word) for word in p_free.split())
-        words   = lemm.split()
-
+        p_free  = "".join(ch for ch in s_free if ch not in self.exclude)
+        tokens = nltk.word_tokenize(p_free)
+        tagged = nltk.pos_tag(tokens)
+        nouns = [item[0] for item in tagged if item[1][0] == 'N']
+        #test = [word for word in tagged]
+        #print(test)
+        lemm    = [self.lemma.lemmatize(word) for word in nouns]
+        #elclude numbers
+        noDigit = [word for word in lemm if not any(ch.isdigit() for ch in word)]
         # only take words which are greater than 2 characters
-        cleaned = [word for word in words if len(word) > 2]
+        #only take english words
+        onlyEng= [word for word in noDigit if word.lower() in self.words or not word.isalpha()]
+        # remove words that appear only once
+        frequency = defaultdict(int)
+        for token in onlyEng:
+            frequency[token] += 1
+
+        moreThan1 = [token for token in onlyEng  if frequency[token] > 1]
+
+        cleaned = [word for word in moreThan1 if len(word) > 2]
         return cleaned
     def getWords(self):
         return_tokens=[]

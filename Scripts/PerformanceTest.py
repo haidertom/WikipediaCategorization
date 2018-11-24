@@ -5,6 +5,7 @@ import os
 import LSIsimilarity
 import operator
 import json
+import csv
 
 BFdict = {}
 LSIs = LSIsimilarity.LSIsimilarity()
@@ -88,13 +89,25 @@ def check_article(mfw,title, category,validpath = "../TestArticle/plaindata"):
         if cate in resultsLSI:
             resultsLSI[cate]={'testedarticle':testedarticle,'value':resultsLSI[cate]/testedarticle}
         else: resultsLSI[cate]={'testedarticle':testedarticle,'value':0}
-    return [resultsBF,resultsLSI]
-    #LSI
-    
-    #return [valid_dict,LSIs.compare(testarticle2)]
-    return valid_dict
+    return {'bloomfilter':resultsBF,'LSI':resultsLSI}
+def write2csv(baseline,nestedFile,):
+    with open('../TestResults/'+baseline+'.csv','w',newline="") as f:
+        writer = csv.writer(f,delimiter = ',')
+        # Write CSV Header, If you dont need that, remove this line
+        writer.writerow(["Algorithmus",
+                "Baseline",
+                "Category",
+                "testedFiles",
+                "correctFiles"])
 
-
+        for key, value in nestedFile.items():
+            for key2,value2 in value.items():
+                writer.writerow([str(key),
+                    str(baseline),
+                    str(key2),
+                    str(value2['testedarticle']),
+                    str(value2['value']),
+                ])
 
 def main():
     mfw=150
@@ -102,12 +115,7 @@ def main():
     title = "Space"
     category = "Category:Universe"
     vali_dict = check_article(mfw,title, category)
-    print(vali_dict)
-    path = '../RandomBaseline/plaindata'
-    categories=os.listdir(path)
-    #for cat in categories:
-    #	print(cat,vali_dict[0][cat],abs(vali_dict[1][cat]))
-        #print("%-30s%-30f"%(key, value/mfw))
+    write2csv('RandomBaseline01',vali_dict)
 
 
 if __name__== "__main__":
