@@ -3,14 +3,18 @@ import BloomFilter
 
 
 
-path = '../DataSnippets/Baseline/Space/wiki/AA/wiki_00'
+path = '../TestArticle/plaindata/Arts_50/AA/wiki_00'
 lang = lp.languageProcess(path)
-test = lang.getHighFreqWords()
+test = lang.getHighFreqWordsAsDict()
+print(test)
+
+
+
+'''
 
 spaceBF = BloomFilter.BloomFilter()
 
 counter = 0
-
 
 for article in test:
 	for word in article.most_common(30):
@@ -33,3 +37,4 @@ for word in checkwords:
 print("Number of checkd words: " + str(len(checkwords)))
 print("Number identical words: " + str(match_words))
 print("Percentage of identical words: " + str(match_words/(len(checkwords))))
+'''

@@ -40,6 +40,13 @@ class languageProcess:
         for d in self.data:
             text=d['text']
             text_clean=self.clean(text)
+            return_tokens+=(text_clean)
+        return return_tokens
+    def getWordsNested(self):
+        return_tokens=[]
+        for d in self.data:
+            text=d['text']
+            text_clean=self.clean(text)
             return_tokens.append(text_clean)
         return return_tokens
     def getHighFreqWords(self):
@@ -50,3 +57,12 @@ class languageProcess:
             tokens.append(nltk.FreqDist(text_clean))
 
         return tokens
+    def getHighFreqWordsAsDict(self):
+        tokens={}
+        for d in self.data:
+            text=d['text']
+            text_clean=self.clean(text)
+            tokens[d['title']]=nltk.FreqDist(text_clean)
+
+        return tokens
+

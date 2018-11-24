@@ -10,7 +10,7 @@ class LSIsimilarity:
     def __init__(self):
         self.articles=[]
         #path = '/home/kdane/Desktop/Computationaltools/WikipediaCategorization-master/WikipediaCategorization-master/Baseline/plaindata'
-        path = '../WikipediaCategorization-master/Baseline/plaindata'
+        path = '../Baseline/plaindata'
         #articles=[]
         self.categories=os.listdir(path)
         #Save all base articles in an array of arrays

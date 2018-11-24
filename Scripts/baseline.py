@@ -183,13 +183,13 @@ def main():
 	origin_category = "Category:Main topic classifications"
 
 	# number of articles you want from each category
-	baseline_number = 20
+	baseline_number = 50
 
-	folder = "RandomBaseline"
+	folder = "TestArticle"
 
 	BL = Baseline(origin_category, baseline_number, folder)
 
-	#BL.get_rawdata()
+	BL.get_rawdata()
 	BL.convert_plain()
 
 
