@@ -18,9 +18,9 @@ class LSIsimilarity:
         self.categories=os.listdir(basepath)
         for cat in self.categories:
             filepath = basepath+"/"+cat+"/AA/wiki_00"
-            #Save all base articles in an array of arrays
-            self.articles += [lp.languageProcess(filepath).getWords()]
-            self.num_topics+=1
+            if os.path.exists(filepath):               #Save all base articles in an array of arrays
+                self.articles += [lp.languageProcess(filepath).getWords()]
+                self.num_topics+=1
         #Check if the dictionary/corpus/index is already created if so load it donot create a new one
         #if (os.path.exists("dictionary1.dict")):
         #    self.dictionary = corpora.Dictionary.load("dictionary1.dict")
@@ -51,7 +51,7 @@ class LSIsimilarity:
         sims = self.index[vec_lsi]
         sims=list(enumerate(sims))
         
-        return  { self.categories[i]:sims[i][1] for i in range(len(self.categories))}
+        return  { self.categories[i]:sims[i][1] for i in range(self.num_topics)}
         
         #Visualize the result in percentage for better readability
         #for i in range(0, len(self.categories)):

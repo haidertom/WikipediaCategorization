@@ -23,7 +23,7 @@ class languageProcess:
             for line in open(self.path, 'r'):
                 self.data.append(json.loads(line))
         else:
-            print('path does not exist')
+            print('LanguageProcess.py: path does not exist')
 #source: https://appliedmachinelearning.blog/2017/08/28/topic-modelling-part-1-creating-article-corpus-from-simple-wikipedia-dump/
     def clean(self,doc):
     # remove stop words & punctuation, and lemmatize words
@@ -42,12 +42,12 @@ class languageProcess:
             text_clean=self.clean(text)
             return_tokens+=(text_clean)
         return return_tokens
-    def getWordsNested(self):
-        return_tokens=[]
+    def getWordsAsDict(self):
+        return_tokens={}
         for d in self.data:
             text=d['text']
             text_clean=self.clean(text)
-            return_tokens.append(text_clean)
+            return_tokens[d['title']]=text_clean
         return return_tokens
     def getHighFreqWords(self):
         tokens=[]
@@ -63,6 +63,5 @@ class languageProcess:
             text=d['text']
             text_clean=self.clean(text)
             tokens[d['title']]=nltk.FreqDist(text_clean)
-
         return tokens
 
