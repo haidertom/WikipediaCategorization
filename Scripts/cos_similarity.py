@@ -1,4 +1,5 @@
 import os
+import os
 import numpy as np
 import languageProcess as lp
 from sklearn.metrics.pairwise import cosine_similarity
@@ -15,7 +16,7 @@ class LSIsimilarity:
         #Save all base articles in an array of arrays
         for cat in self.categories:
             filepath = path+"/"+cat+"/AA/wiki_00"
-            self.articlescos += [lp.languageProcess(filepath).getWords()]
+            self.articlescos += [lp.languageProcess(filepath).getWordscos_sim()]
      #This function will train the model only once and then it will simply load the model from memory and  perform comparison.
     def compare(self, quary):
         self.articlescos.append(quary)
