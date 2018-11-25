@@ -10,8 +10,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 class LSIsimilarity:
     def __init__(self):
         self.articles=[]
-        path = '/home/kdane/Desktop/Computationaltools/WikipediaCategorization-master/WikipediaCategorization-master/Baseline/plaindata1'
-        #path = '../WikipediaCategorization-master/Baseline/plaindata'
+        #path = '/home/kdane/Desktop/Computationaltools/WikipediaCategorization-master/WikipediaCategorization-master/Baseline/plaindata1'
+        path = '../Baseline/plaindata'
         self.categories=os.listdir(path)
         #Save all base articles in an array of arrays
         for cat in self.categories:
