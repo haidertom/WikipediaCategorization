@@ -44,13 +44,13 @@ class languageProcess:
         #only take english words
         onlyEng= [word for word in noDigit if word.lower() in self.words or not word.isalpha()]
         # remove words that appear only once
-        frequency = defaultdict(int)
-        for token in onlyEng:
-            frequency[token] += 1
+        #frequency = defaultdict(int)
+        #for token in onlyEng:
+        #    frequency[token] += 1
 
-        moreThan1 = [token for token in onlyEng  if frequency[token] > 1]
+        #moreThan1 = [token for token in onlyEng  if frequency[token] > 1]
 
-        cleaned = [word for word in moreThan1 if len(word) > 2]
+        cleaned = [word for word in onlyEng if len(word) > 2]
         return cleaned
     def getWords(self):
         return_tokens=[]
