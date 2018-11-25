@@ -32,6 +32,7 @@ class languageProcess:
     # remove stop words & punctuation, and lemmatize words
         s_free  = " ".join([i for i in doc.lower().split() if i not in self.stop])
         p_free  = "".join(ch for ch in s_free if ch not in self.exclude)
+        #exclude all non 
         tokens = nltk.word_tokenize(p_free)
         tagged = nltk.pos_tag(tokens)
         nouns = [item[0] for item in tagged if item[1][0] == 'N']
@@ -61,9 +62,12 @@ class languageProcess:
         return return_tokens
     #Kidane have added this function
     def getWordscos_sim(self):
+        return_tokens=[]
         for d in self.data:
             text=d['text']
-        return text
+            text_clean=self.clean(text)
+            return_tokens+=text_clean
+        return return_tokens
     def getWordsAsDict(self):
         return_tokens={}
         for d in self.data:
