@@ -59,6 +59,11 @@ class languageProcess:
             text_clean=self.clean(text)
             return_tokens+=(text_clean)
         return return_tokens
+    #Kidane have added this function
+    def getWordscos_sim(self):
+        for d in self.data:
+            text=d['text']
+        return text
     def getWordsAsDict(self):
         return_tokens={}
         for d in self.data:
