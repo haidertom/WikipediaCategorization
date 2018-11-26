@@ -53,8 +53,6 @@ def check_article(mfw,title, category,validpath = "../TestArticle/plaindata"):
         article = lp.languageProcess(filepath)
         testarticle =   article.getHighFreqWordsAsDict()
         testarticle2=   article.getWordsAsDict()
-        #testarticle2=   article.getWords()
-        #Iterate over all testarticle
         testedarticle=0
         for key,val in testarticle.items():
             if key not in data['Category:'+cate.split('_')[0]]:
@@ -115,7 +113,7 @@ def main():
     title = "Space"
     category = "Category:Universe"
     vali_dict = check_article(mfw,title, category)
-    write2csv('RandomBaseline01',vali_dict)
+    write2csv('RandomBaseline03',vali_dict)
 
 
 if __name__== "__main__":
