@@ -9,8 +9,8 @@ from gensim.models import LsiModel
 class LSIsimilarity:
     def __init__(self):
         self.articles=[]
-        path = '/home/kdane/Desktop/Computationaltools/WikipediaCategorization-master/WikipediaCategorization-master/Baseline/plaindata'
-        #path = '../WikipediaCategorization-master/'
+        #path = '/home/kdane/Desktop/Computationaltools/WikipediaCategorization-master/WikipediaCategorization-master/Baseline/plaindata'
+        path = '../WikipediaCategorization-master/'
         #articles=[]
         self.num_topics=0
         #"../Baseline/plaindata"
