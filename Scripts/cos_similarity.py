@@ -1,5 +1,4 @@
 import os
-import os
 import numpy as np
 import languageProcess as lp
 from sklearn.metrics.pairwise import cosine_similarity
@@ -7,24 +6,35 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 class LSIsimilarity:
     #articlescos=[]
+    path = '/home/kdane/Desktop/Computationaltools/WikipediaCategorization-master/WikipediaCategorization-master/Baseline/plaindata1'
     def __init__(self):
-        self.articlescos=[]
-        path = '/home/kdane/Desktop/Computationaltools/WikipediaCategorization-master/WikipediaCategorization-master/Baseline/plaindata1'
+
+        #path = '/home/kdane/Desktop/Computationaltools/WikipediaCategorization-master/WikipediaCategorization-master/Baseline/plaindata1'
         #path = '../WikipediaCategorization-master/Baseline/plaindata'
         #articles=[]
-        self.categories=os.listdir(path)
+        self.categories=os.listdir(self.path)
         #Save all base articles in an array of arrays
-        for cat in self.categories:
+        '''for cat in self.categories:
             filepath = path+"/"+cat+"/AA/wiki_00"
-            self.articlescos += [lp.languageProcess(filepath).getWordscos_sim()]
+            self.articlescos += [lp.languageProcess(filepath).getWordscos_sim()]'''
      #This function will train the model only once and then it will simply load the model from memory and  perform comparison.
     def compare(self, quary):
-        self.articlescos.append(quary)
+        ress={}
+        articlescos=[]
+        for cat in self.categories:
+            filepath = self.path+"/"+cat+"/AA/wiki_00"
+            articlescos += [lp.languageProcess(filepath).getWordscos_sim()]
+        articlescos.append(quary)
         vectorizer = CountVectorizer(min_df = 1, stop_words = 'english')
-        dtm = vectorizer.fit_transform(self.articlescos)
+        dtm = vectorizer.fit_transform(articlescos)
         #print(self.categories)
         for i in range (0 ,len(self.categories)):
-            print("This is cosine similarity",self.categories[i],"-->",cosine_similarity(dtm.toarray()[i].reshape(1, -1), dtm.toarray()[27].reshape(1, -1))[0][0]*100,"%")
+            res=cosine_similarity(dtm.toarray()[i].reshape(1, -1), dtm.toarray()[27].reshape(1, -1))[0][0]*100
+            #print("This is cosine similarity",self.categories[i],"-->",cosine_similarity(dtm.toarray()[i].reshape(1, -1), dtm.toarray()[27].reshape(1, -1))[0][0]*100,"%")
+            ress[self.categories[i]]= res
+
+        return ress
+
 
 #This is a document about Education, I copied it from wikipedia.
 #quary_edu="Effective education is a learning experience.Education brings about an inherent and permanent change in a person's thinking and capacity to do things.Many people have a superficial concept of education; equating it with doing a particular course or obtaining a particular qualification.Qualifications and courses however do not always equate with effective education.People can undertake courses without any significant permanent change People can achieve qualifications without changing How Good is a Qualification? There's no escaping the fact that good learning takes time.Reading a book and understanding what you read, does not mean that you have been educated or permanently changedif you don't integrate what you read into your attitudes and memory. Similarly, attending a course and hearing a lecture doesn't mean you have changed or been educated.Real education is very different to just having access to (or being exposed to) information about something. Real education embeds things into one's brain, and anyone who understands learning will understand that this comes from repeated exposure and use of information or skills.Sadly, in today's world, people want to fast track everything: but learning is something that cannot usually be fast tracked.Shorter courses simply mean that less is learnt."
@@ -33,8 +43,10 @@ class LSIsimilarity:
 
 for i in range(0, 7):
     lsa =LSIsimilarity()
-    print("This a bout Education quary-------------------------------------------------------------------------------")
-    lsa.compare(quary_edu)
-    lsa =LSIsimilarity()
-    print("This a bout universe quary-------------------------------------------------------------------------------")
-    lsa.compare(quary_uni)
+    #print("This a bout Education quary-------------------------------------------------------------------------------")
+    print(lsa.compare(quary_edu))
+    #lsa =LSIsimilarity()
+    #print("This a bout universe quary-------------------------------------------------------------------------------")
+    #lsa.compare(quary_uni)
+
+
