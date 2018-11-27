@@ -65,9 +65,9 @@ class languageProcess:
         return_tokens=[]
         for d in self.data:
             text=d['text']
-            text_clean=self.clean(text)
-            return_tokens+=text_clean
-        return return_tokens
+        #+text_clean=self.clean(text)
+            #return_tokens+=text_clean
+        return text
     def getWordsAsDict(self):
         return_tokens={}
         for d in self.data:
