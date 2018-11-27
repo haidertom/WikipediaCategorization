@@ -11,7 +11,7 @@ BFdict = {}
 LSIs = LSIsimilarity.LSIsimilarity()
 
 #This function trains both algorithms with the same baseline
-def train_Baseline(mfw,basepath="../Baseline/plaindata"):
+def train_Baseline(mfw,basepath="../RandomBaseline/plaindata"):
 #Bloomfilter
     #iterate over given Baseline folder -> get category baseline
     categories = os.listdir(basepath)
@@ -32,10 +32,10 @@ def train_Baseline(mfw,basepath="../Baseline/plaindata"):
                 BFdict[cat].train(word[0])
 #LSI
     #Create LSI object
-    LSIs.train(basepath="../Baseline/plaindata")
+    LSIs.train(basepath="../RandomBaseline/plaindata")
 def check_article(mfw,validpath = "../TestArticle/plaindata"):
     #get article which should be excluded from testarticles
-    with open('../Baseline/zz_index.json') as f:
+    with open('../RandomBaseline/zz_index.json') as f:
         data = json.load(f)
 
     #Get all categories as list
@@ -79,7 +79,7 @@ def check_article(mfw,validpath = "../TestArticle/plaindata"):
         resultsBF[cate]=BFcategoryResults.copy()
         resultsLSI[cate]=LSIcategoryResults.copy()
         #print([key for key,value in resultsBF.items()])
-    write2csv('Baseline01',{'bloomfilter':resultsBF,'LSI':resultsLSI})
+    write2csv('RandomBaseline01',{'bloomfilter':resultsBF,'LSI':resultsLSI})
     #return {'bloomfilter':resultsBF,'LSI':resultsLSI}
 
 
@@ -114,7 +114,7 @@ def write2csv(baseline,nestedFile):
 
 def main():
     mfw=50
-    train_Baseline(mfw,"../Baseline/plaindata/")
+    train_Baseline(mfw,"../RandomBaseline/plaindata/")
     check_article(mfw)
     #write2csv('RandomBaseline04',vali_dict)
     #print(vali_dict['bloomfilter'])
