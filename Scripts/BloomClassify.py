@@ -15,7 +15,7 @@ class BloomClassify:
 
 		self.total = self.num * self.art
 
-		self.basepath = "../Baseline/plaindata"
+		self.basepath = "../RandomBaseline/plaindata"
 
 		self.BFdict = {}
 
