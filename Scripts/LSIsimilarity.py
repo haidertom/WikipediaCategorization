@@ -52,7 +52,6 @@ class LSIsimilarity:
     def compare(self, quary):
         #Vectorize your query doc with ur dictionary
         self.query_path=self.dictionary.doc2bow(quary)
-        print()
         vec_lsi = self.lsi[self.query_path]
         #Compute similarity of the query document to base articles(model)
         sims = self.index[vec_lsi]

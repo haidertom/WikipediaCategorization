@@ -193,7 +193,7 @@ def main():
 	# number of articles you want from each category
 	baseline_number = 1000
 
-	folder = "Baseline"
+	folder = "BigBaseline"
 
 	BL = Baseline(origin_category, baseline_number, folder)
 
