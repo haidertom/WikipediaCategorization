@@ -13,7 +13,10 @@ class LSIsimilarity:
     #This function trains the model
     def train(self,basepath='../Baseline/plaindata'):
         self.categories=os.listdir(basepath)
+        if '.DS_Store' in self.categories:
+            self.categories.remove('.DS_Store')
         for cat in self.categories:
+            print("Train category: ",cat)
             cat_articles=[]
             path = basepath+"/"+cat
             dir_no=sum(os.path.isdir(path+"/"+i) for i in os.listdir(path))
