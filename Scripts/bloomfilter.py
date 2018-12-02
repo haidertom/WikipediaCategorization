@@ -19,11 +19,7 @@ class BloomFilter:
 		p : False Positive probability
 		'''
 
-<<<<<<< HEAD
 		self.n= n+1000
-=======
-		self.n= 10000
->>>>>>> d625bf44f928889e9f2226111b05743a3c10b835
 		self.p = 0.05
 		self.size = int(-(self.n * math.log(self.p))/(math.log(2)**2))
 		self.hash_count = int((self.size/self.n) * math.log(2))
