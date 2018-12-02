@@ -16,7 +16,8 @@ class Baseline:
 		self.index = {}
 
 		#Data structure
-		self.datapath = "../"+ folder
+		self.basepath = "../"+ folder
+		self.datapath = self.basepath +"/"+str(baseline_number)
 		self.rawpath = self.datapath + "/rawdata"
 		self.plainpath = self.datapath + "/plaindata"
 
@@ -96,6 +97,9 @@ class Baseline:
 		category = category.split(":")[1]
 
 		#check if Directory exists
+		if not os.path.exists(self.basepath):
+			os.mkdir(self.basepath)
+
 		if not os.path.exists(self.datapath):
 			os.mkdir(self.datapath)
 
@@ -103,7 +107,7 @@ class Baseline:
 			os.mkdir(self.rawpath)
 
 		#wirte text to the file(s)
-
+		print("writing files...")
 		for i, data in enumerate(self.get_dumptext(titles)):
 
 			filename = self.rawpath+"/"+category+"_"+str(self.baseline_number)+"_"+str(i)+".xml"
@@ -133,6 +137,8 @@ class Baseline:
 		# loop over all main categories
 		for cat in main_categories:
 
+			print("looking for titles in category: {} ".format(cat))
+
 			self.index[cat] = []
 
 			for title in self.get_titles(cat):
@@ -160,14 +166,22 @@ class Baseline:
 							#if len(self.index[cat]) > self.baseline_number:
 							#	break
 
-					# potentially loop further to get more articles
+				# loop further to get more articles
+				subsubcategories = self.get_subcategories(subcat)
+
+				for subsubcat in subsubcategories:
+
+					for title in self.get_titles(subsubcat):
+						if title not in self.index.values(): #check for duplicates
+							self.index[cat].append(title)
 
 			#used for treesearch
 			#self.index[cat] = self.index[cat][0:self.baseline_number] # cut to base_linenumber
 
 			#pick random articles
+			print("found {} titles in category: {} ".format(len(self.index[cat]), cat))
 			self.index[cat] = list(self.index[cat][i] for i in [random.randint(0, len(self.index[cat])-1) for i in range(self.baseline_number)])
-
+			print("added {} titles to category: {} ".format(len(self.index[cat]), cat))
 			#write articles in file
 			self.write_rawdata((self.index[cat]) , cat)
 
@@ -191,9 +205,9 @@ def main():
 	origin_category = "Category:Main topic classifications"
 
 	# number of articles you want from each category
-	baseline_number = 1000
+	baseline_number = 50
 
-	folder = "BigBaseline"
+	folder = "Baseline"
 
 	BL = Baseline(origin_category, baseline_number, folder)
 
