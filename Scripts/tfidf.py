@@ -14,4 +14,4 @@ class TfIdf():
 
 	# function tfidf takes document length and number of word occurences and calculate tf-idf factor
 	def tfidf(self, no_of_occurences,total_length, total_num_of_doc, no_of_doc_it_appeard_in ):
-		return tf(no_of_occurences,total_length) * idf(total_num_of_doc,no_of_doc_it_appeard_in)
+		return self.tf(no_of_occurences,total_length) * self.idf(total_num_of_doc,no_of_doc_it_appeard_in)

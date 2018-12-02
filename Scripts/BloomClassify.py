@@ -1,7 +1,6 @@
 import languageProcess as lp
 import BloomFilter
 from tfidf import TfIdf
-
 from baseline import Baseline
 
 import os
@@ -11,7 +10,7 @@ class BloomClassify:
 
 		self.num = num 	#number of most frequent words
 
-		self.art = 20 # number of articles
+		self.art = 1000 # number of articles
 
 		self.total = self.num * self.art
 
