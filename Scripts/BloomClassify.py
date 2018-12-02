@@ -108,7 +108,7 @@ class BloomClassify:
 			# transfer to sorted list
 			print(self.min)
 			trunc = int(self.min*0.1)
-			self.TFIDFdict[cat] = sorted(self.TFIDFdict[cat], key=self.TFIDFdict[cat].__getitem__, reverse=True)[:trunc]
+			self.TFIDFdict[cat] = sorted(self.TFIDFdict[cat], key=self.TFIDFdict[cat].__getitem__, reverse=True)[:self.total]
 			print("added {} words to {}".format(len(self.TFIDFdict[cat]), cat))
 		pass
 
@@ -252,13 +252,8 @@ class BloomClassify:
 
 		category = category[0]
 
-<<<<<<< HEAD
 		filepath = "../Validation/AA/wiki_00"
 
-=======
-		filepath = "../Validation/plaindata/"+category+"/AA/wiki_00"
-		print(filepath)
->>>>>>> d625bf44f928889e9f2226111b05743a3c10b835
 		testarticle = lp.languageProcess(filepath).getHighFreqWords()
 
 		vali_dict = {}
@@ -307,7 +302,7 @@ class BloomClassify:
 
 def main():
 
-	CL = BloomClassify(num = 50, art = 20, baselineFolder="../RandomBaseline/plaindata")
+	CL = BloomClassify(num = 25, art = 20, baselineFolder="../RandomBaseline/plaindata")
 
 	#CL.get_mfw()
 	CL.get_tfidf()
@@ -316,9 +311,9 @@ def main():
 	#CL.load_BL()
 	#CL.similarity_matrix(mfw = 0, tfidf = 1)
 
-	title = "Football"
+	title = "Space"
 
-	vali_dict = CL.check_single_article(title, numOfCheckWords = 50)
+	vali_dict = CL.check_single_article(title, numOfCheckWords = 25)
 
 	for key,value in vali_dict.items():
 	 	print("%-30s%-30f"%(key, value))

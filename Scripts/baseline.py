@@ -180,11 +180,8 @@ class Baseline:
 
 			#pick random articles
 			print("found {} titles in category: {} ".format(len(self.index[cat]), cat))
-
 			self.index[cat] = [self.index[cat][i] for i in random.sample(range(1, (len(self.index[cat])-1)), self.baseline_number)]
-
 			print(len(self.index[cat]))
-
 			print("added {} unique titles to category: {} ".format(len(set(self.index[cat])), cat))
 			#write articles in file
 			self.write_rawdata((self.index[cat]) , cat)
