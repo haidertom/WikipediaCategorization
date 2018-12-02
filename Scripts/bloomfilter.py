@@ -11,7 +11,7 @@ import mmh3
 
 class BloomFilter:
 
-	def __init__(self):
+	def __init__(self, n=10000):
 		'''
 		Setup variables in here
 
@@ -19,7 +19,7 @@ class BloomFilter:
 		p : False Positive probability
 		'''
 
-		self.n= 50000
+		self.n= n+1000
 		self.p = 0.05
 		self.size = int(-(self.n * math.log(self.p))/(math.log(2)**2))
 		self.hash_count = int((self.size/self.n) * math.log(2))

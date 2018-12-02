@@ -2,14 +2,14 @@ import languageProcess as lp
 #import BloomFilter
 from baseline import Baseline
 import os
-import LSIsimilarity
+#import LSIsimilarity
 import operator
 import json
 import csv
 import BloomClassify as BC
 
 BFdict = {}
-LSIs = LSIsimilarity.LSIsimilarity()
+#LSIs = LSIsimilarity.LSIsimilarity()
 CL = BC.BloomClassify(num = 50,baselineFolder="../BigBaseline/plaindata")
 
 #This function trains both algorithms with the same baseline
@@ -59,7 +59,7 @@ def check_article(validpath = "../TestArticle/plaindata"):
                 #Create result dictionary for all categories
                 #valid_dict = {}
             #check all Bloomfilters ( different Bloomfilter are stored in BFdict)
-                
+
                 #for cat in BFdict.keys():
                 #    valid_dict[cat] = 0
                 #    for word in val.most_common(mfw):
@@ -76,7 +76,7 @@ def check_article(validpath = "../TestArticle/plaindata"):
         resultsBF[cate]=BFcategoryResults.copy()
         resultsLSI[cate]=LSIcategoryResults.copy()
         #print([key for key,value in resultsBF.items()])
-    write2csv('BigBaseline01',{'bloomfilter':resultsBF,'LSI':resultsLSI})
+    write2csv('BigBaseline02',{'bloomfilter':resultsBF,'LSI':resultsLSI})
     #return {'bloomfilter':resultsBF,'LSI':resultsLSI}
 
 #This function writes the testresults to a csv file
