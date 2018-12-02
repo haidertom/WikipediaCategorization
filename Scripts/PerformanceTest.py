@@ -18,6 +18,7 @@ def train_Baseline(basepath="../BigBaseline/plaindata"):
     #CL.get_mfw()
     CL.get_tfidf_1000()
     CL.train_BL(mfw = 0, tfidf = 1)
+    CL.save_BL()
     #LSI
     #LSIs.train(basepath="../BigBaseline/plaindata")
     #Create LSI object

@@ -184,11 +184,12 @@ class BloomClassify:
 		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.num)+'_'+str(self.art)+'_'+'.pkl'
 		with open(name, 'wb') as f:
 			pickle.dump(self.BFdict, f, pickle.HIGHEST_PROTOCOL)
-
+		print("saved Traindata")
 	def load_BL(self):
 		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.num)+'_'+str(self.art)+'_'+'.pkl'
 		with open(name, 'rb') as f:
 			self.BFdict = pickle.load(f)
+		print("loaded Traindata")
 
 	def check_article(self, article,numOfCheckWords):
 
@@ -322,5 +323,5 @@ def main():
 	# 	print("%-30s%-30f"%(key, value/CL.num))
 	#
 
-if __name__== "__main__":
-  main()
+#if __name__== "__main__":
+#  main()
