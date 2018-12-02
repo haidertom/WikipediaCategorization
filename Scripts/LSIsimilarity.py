@@ -42,9 +42,9 @@ class LSIsimilarity:
             self.index = similarities.MatrixSimilarity(self.lsi[self.corpus])
             self.index.save('index1000.index')
         #Compute the tf*idf/lsi/and index
-        tfidf = models.TfidfModel(self.corpus)
-        corpus_tfidf = tfidf[self.corpus]
-        self.lsi = models.LsiModel(corpus_tfidf, id2word=self.dictionary, num_topics=self.num_topics)
+        self.tfidf = models.TfidfModel(self.corpus)
+        self.corpus_tfidf = self.tfidf[self.corpus]
+        self.lsi = models.LsiModel(self.corpus_tfidf, id2word=self.dictionary, num_topics=self.num_topics)
     def optimize(self, sim):
         if(sim<0):
             sim*=-1
