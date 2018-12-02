@@ -1,24 +1,45 @@
 import languageProcess as lp
-#import BloomFilter
+import BloomFilter
 from baseline import Baseline
 import os
-#import LSIsimilarity
+import LSIsimilarity
 import operator
 import json
 import csv
 import BloomClassify as BC
 
 BFdict = {}
+<<<<<<< HEAD
 #LSIs = LSIsimilarity.LSIsimilarity()
 CL = BC.BloomClassify(num = 50, art = 1000, baselineFolder="../TestArticle/plaindata")
 
+=======
+LSIs = LSIsimilarity.LSIsimilarity()
+CL = BC.BloomClassify(num = 50,baselineFolder="../Baseline/10/plaindata")
+def save_Testarticle(name,savedict,cate):
+    name = 'trainedObjects/'+ name +'_'+cate+'_500_.pkl'
+    with open(name, 'wb') as f:
+        pickle.dump(savedict, f, pickle.HIGHEST_PROTOCOL)
+    print("saved Traindata")
+def load_Testarticle(name,category):
+    name = 'trainedObjects/'+ name +'_'+category+'_500_.pkl'
+    with open(name, 'rb') as f:
+        print("loaded Traindata",name)
+        return pickle.load(f)
+>>>>>>> 67b67922328f3eeba56cd64618e6de923b371aa1
 #This function trains both algorithms with the same baseline
 def train_Baseline(basepath="../TestArticle/plaindata"):
     #Bloomfilter
     #CL.get_mfw()
+<<<<<<< HEAD
     CL.get_tfidf_1000()
     CL.train_BL(mfw = 0, tfidf = 1)
     CL.save_BL()
+=======
+    #CL.get_tfidf_1000()
+    #CL.train_BL(mfw = 0, tfidf = 1)
+    CL.load_BL()
+>>>>>>> 67b67922328f3eeba56cd64618e6de923b371aa1
     #LSI
     #LSIs.train(basepath="../BigBaseline/plaindata")
     #Create LSI object
@@ -70,9 +91,15 @@ def check_article(validpath = "../TestArticle/plaindata"):
                 valid_dict['title']=key
                 BFcategoryResults.append(valid_dict)
 
+<<<<<<< HEAD
                 #lsiRes=LSIs.compare(testarticle2[key])
                 #lsiRes['title']=key
                 #LSIcategoryResults.append(lsiRes)
+=======
+                lsiRes=LSIs.compare(testarticle2[key])
+                lsiRes['title']=key
+                LSIcategoryResults.append(lsiRes)
+>>>>>>> 67b67922328f3eeba56cd64618e6de923b371aa1
         resultsBF[cate]=BFcategoryResults.copy()
         resultsLSI[cate]=LSIcategoryResults.copy()
         #print([key for key,value in resultsBF.items()])
