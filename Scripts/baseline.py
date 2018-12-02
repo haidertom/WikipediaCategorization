@@ -71,24 +71,23 @@ class Baseline:
 		'''
 		gets text from article in titles, all titles in the same category
 		'''
-		DATA = []
-		titles = [titles[x:x+50] for x in range(0, len(titles), 50)]
+		#DATA = []
 
-		for t in titles:
-			PARAMS = {
-				'action': 'query',
-				'prop':'revisions',
-				'rvprop':'content',
-				'titles': "|".join(t),
-				'export':1,
-				'exportnowrap':1,
-				'format': "json"
-				}
-			S = requests.Session()
-			R = S.get(url=self.URL, params=PARAMS)
-			DATA.append(R.text)
+		#for t in titles:
+		PARAMS = {
+			'action': 'query',
+			'prop':'revisions',
+			'rvprop':'content',
+			'titles': "|".join(titles),
+			'export':1,
+			'exportnowrap':1,
+			'format': "json"
+			}
+		S = requests.Session()
+		return S.get(url=self.URL, params=PARAMS).text
+			#DATA.append(R.text)
 
-		return DATA
+		#return DATA
 
 	def write_rawdata(self, titles, category):
 		'''
@@ -108,11 +107,14 @@ class Baseline:
 
 		#wirte text to the file(s)
 		print("writing files...")
-		for i, data in enumerate(self.get_dumptext(titles)):
+		titles = [titles[x:x+50] for x in range(0, len(titles), 50)]
+		for idx,t in enumerate(titles):
+				
+		#for i, data in enumerate(self.get_dumptext(titles)):
 
-			filename = self.rawpath+"/"+category+"_"+str(self.baseline_number)+"_"+str(i)+".xml"
+			filename = self.rawpath+"/"+category+"_"+str(self.baseline_number)+"_"+str(idx)+".xml"
 			with open(filename, 'w') as the_file:
-				the_file.write(data)
+				the_file.write(self.get_dumptext(t))
 
 	def write_index(self, index):
 		'''
@@ -177,13 +179,9 @@ class Baseline:
 
 			#pick random articles
 			print("found {} titles in category: {} ".format(len(self.index[cat]), cat))
-<<<<<<< HEAD
-			self.index[cat] = [self.index[cat][i] for i in random.sample(range(1, (len(self.index[cat])-1)), self.baseline_number)]
-=======
 
 			self.index[cat] = [self.index[cat][i] for i in random.sample(range(0, len(self.index[cat])-1), self.baseline_number)]
 
->>>>>>> fc772131ae9f948984a0fd074e810cc4a6d49fa4
 			print(len(self.index[cat]))
 			print("added {} unique titles to category: {} ".format(len(set(self.index[cat])), cat))
 			#write articles in file
@@ -209,7 +207,7 @@ def main():
 	origin_category = "Category:Main topic classifications"
 
 	# number of articles you want from each category
-	baseline_number = 5000
+	baseline_number = 10000
 
 	folder = "Baseline"
 
