@@ -12,6 +12,7 @@ import os
 from pprint import pprint
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
+from nltk.stem import PorterStemmer
 import string
 import sys
 import io
@@ -27,6 +28,7 @@ class languageProcess:
         self.words = set(nltk.corpus.words.words())
         # Set lematizer to increase Frequency for words with the same word stem
         self.lemma   = WordNetLemmatizer()
+        self.stem = PorterStemmer()
         self.path=path
         self.data=[]
         if os.path.exists(self.path):
@@ -46,8 +48,9 @@ class languageProcess:
         #test = [word for word in tagged]
         #print(test)
         lemm    = [self.lemma.lemmatize(word) for word in nouns]
+        stem = [self.stem.stem(word) for word in lemm]
         #elclude numbers
-        noDigit = [word for word in lemm if not any(ch.isdigit() for ch in word)]
+        noDigit = [word for word in stem if not any(ch.isdigit() for ch in word)]
         # only take words which are greater than 2 characters
         #only take english words
         onlyEng= [word for word in noDigit if word.lower() in self.words or not word.isalpha()]

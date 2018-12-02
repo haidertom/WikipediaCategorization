@@ -15,7 +15,7 @@ class BloomClassify:
 
 		self.total = self.num * self.art
 
-		self.basepath = "../Baseline/plaindata"
+		self.basepath = "../RandomBaseline/plaindata"
 
 		self.BFdict = {}
 
@@ -123,24 +123,24 @@ class BloomClassify:
 				self.BFdict[cat].train(word)
 		pass
 
-	def check_article(self, title, category):
+	def check_article(self, article,numOfCheckWords):
 
-		Base = Baseline(folder="Validation")
+		#Base = Baseline(folder="Validation")
 
-		Base.write_rawdata(title, category)
-		Base.convert_plain()
+		#Base.write_rawdata(title, category)
+		#Base.convert_plain()
 
-		self.valipath = "../Validation/plaindata"
+		#self.valipath = "../Validation/plaindata"
 
-		category = os.listdir(self.valipath)
-		if '.DS_Store' in category:
-			category.remove('.DS_Store')
+		#category = os.listdir(self.valipath)
+		#if '.DS_Store' in category:
+		#	category.remove('.DS_Store')
 
-		category = category[0]
+		#category = category[0]
 
-		filepath = "../Validation/plaindata/"+category+"/AA/wiki_00"
+		#filepath = "../Validation/plaindata/"+category+"/AA/wiki_00"
 
-		testarticle = lp.languageProcess(filepath).getHighFreqWords()
+		#testarticle = lp.languageProcess(filepath).getHighFreqWords()
 
 		vali_dict = {}
 
@@ -149,14 +149,14 @@ class BloomClassify:
 
 			vali_dict[cat] = 0
 
-			for word in testarticle[0].most_common(self.num):
+			for word in article.most_common(numOfCheckWords):
 			 	if (self.BFdict[cat].classify(word[0])):
 						vali_dict[cat]+=1
-
+			vali_dict[cat]=vali_dict[cat]/numOfCheckWords
 		return vali_dict
 
 
-
+'''
 def main():
 
 	CL = BloomClassify(num = 50)
@@ -184,6 +184,6 @@ def main():
 
 
 
-
-if __name__== "__main__":
-  main()
+'''
+#if __name__== "__main__":
+#  main()
