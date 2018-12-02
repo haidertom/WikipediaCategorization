@@ -1,6 +1,9 @@
 import languageProcess as lp
 import BloomFilter
 from tfidf import TfIdf
+import csv
+import pickle
+
 from baseline import Baseline
 
 import os
@@ -23,7 +26,6 @@ class BloomClassify:
 		self.AWdict = {}
 
 		self.TFIDFdict = {}
-
 
 	def get_mfw(self):
 		'''
@@ -121,6 +123,7 @@ class BloomClassify:
 			for word in TrainDict[cat]:
 				self.BFdict[cat].train(word)
 		pass
+
 	def get_tfidf_1000(self):
 		'''
 		Calculates the tfidf for all words and sorts them in a list
@@ -134,7 +137,7 @@ class BloomClassify:
 
 			path = self.basepath+"/"+cat
 			dir_no=sum(os.path.isdir(path+"/"+i) for i in os.listdir(path))
-			
+
 			for no in range(dir_no):
 				filepath = self.basepath+"/"+cat+"/"+cat+"_1000_"+str(no)+"/AA/wiki_00"
 				print(filepath)
@@ -177,6 +180,16 @@ class BloomClassify:
 
 		pass
 
+	def save_BL(self):
+		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.num)+'_'+str(self.art)+'_'+'.pkl'
+		with open(name, 'wb') as f:
+			pickle.dump(self.BFdict, f, pickle.HIGHEST_PROTOCOL)
+
+	def load_BL(self):
+		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.num)+'_'+str(self.art)+'_'+'.pkl'
+		with open(name, 'rb') as f:
+			self.BFdict = pickle.load(f)
+
 	def check_article(self, article,numOfCheckWords):
 
 		#Base = Baseline(folder="Validation")
@@ -210,31 +223,104 @@ class BloomClassify:
 		return vali_dict
 
 
+	def check_single_article(self, title, category):
+
+		Base = Baseline(folder="Validation")
+
+		Base.write_rawdata(title, category)
+		Base.convert_plain()
+
+		self.valipath = "../Validation/plaindata"
+
+		category = os.listdir(self.valipath)
+		if '.DS_Store' in category:
+			category.remove('.DS_Store')
+
+		category = category[0]
+
+		filepath = "../Validation/plaindata/"+category+"/AA/wiki_00"
+
+		testarticle = lp.languageProcess(filepath).getHighFreqWords()
+
+		vali_dict = {}
+
+		#check all Bloomfilters
+		for cat in self.BFdict.keys():
+
+			vali_dict[cat] = 0
+
+			for word in testarticle[0].most_common(self.num):
+			 	if (self.BFdict[cat].classify(word[0])):
+						vali_dict[cat]+=1
+
+		return vali_dict
+
+
+	def similarity_matrix(self, mfw = 0, tfidf = 1):
+
+		# train with MFW
+		if mfw:
+			TrainDict = self.MFWdict
+
+		# train with tfidf
+		if tfidf:
+			TrainDict = self.TFIDFdict
+
+		file = "../TestResults"+"/BF_similarity_matrix"+str(self.num)+"_"+str(self.art)+".csv"
+
+		with open(file, 'w') as the_file:
+
+			writer = csv.writer(the_file,delimiter = ',')
+
+			description = ["number of most frequent words:", self.num, "number of articles per category:", self.art]
+			writer.writerow(description)
+
+			header = [" "]
+			header.extend(TrainDict.keys())
+			writer.writerow(header)
+
+			for c in TrainDict.keys():
+
+				counter =  []
+				for cat in TrainDict.keys():
+					counter.append(len([1 for word in TrainDict[cat] if self.BFdict[c].classify(word)])/self.total)
+
+				row = [c]
+				row.extend(counter)
+				writer.writerow(row)
+		pass
+
 
 def main():
 
-	CL = BloomClassify(num = 50,baselineFolder='../BigBaseline/plaindata')
+	CL = BloomClassify(num = 50)
 
 	#CL.get_mfw()
-	CL.get_tfidf_1000()
-
-	title = "Amari distance"
-	category = "Category:Mathematics"
-
-
+	CL.get_tfidf()
 	CL.train_BL(mfw = 0, tfidf = 1)
-	vali_dict = CL.check_article(title, category)
+	CL.save_BL()
+	#CL.load_BL()
 
-	for key,value in vali_dict.items():
-		print("%-30s%-30f"%(key, value/CL.num))
+	#CL.similarity_matrix(mfw = 0, tfidf = 1)
 
-	CL.train_BL(mfw = 0, tfidf = 1)
+	#
+	#title = "Amari distance"
+	#category = "Category:Mathematics"
 
-	vali_dict = CL.check_article(title, category)
 
-	for key,value in vali_dict.items():
-		print("%-30s%-30f"%(key, value/CL.num))
-
+	# CL.train_BL(mfw = 1, tfidf = 0)
+	# vali_dict = CL.check_article(title, category)
+	#
+	# for key,value in vali_dict.items():
+	# 	print("%-30s%-30f"%(key, value/CL.num))
+	#
+	# CL.train_BL(mfw = 0, tfidf = 1)
+	#
+	#vali_dict = CL.check_single_article(title, category)
+	#
+	#for key,value in vali_dict.items():
+	# 	print("%-30s%-30f"%(key, value/CL.num))
+	#
 
 if __name__== "__main__":
   main()
