@@ -142,15 +142,8 @@ class Baseline:
 			self.index[cat] = []
 
 			for title in self.get_titles(cat):
-				if title not in self.index.values(): # check for duplicates
+				if not any(title in e for e in self.index.values()): #check for duplicates
 					self.index[cat].append(title)
-
-					#used of tree search
-					#if len(self.index[cat]) > self.baseline_number:
-					#	break
-
-			#used for tree search
-			#if len(self.index[cat]) < self.baseline_number:
 
 			#get subcategories of a main category
 			subcategories = self.get_subcategories(cat)
@@ -158,22 +151,19 @@ class Baseline:
 			# loop over subcategories of a main category
 			for subcat in subcategories:
 
-				for title in self.get_titles(subcat):
-					if title not in self.index.values(): #check for duplicates
-						self.index[cat].append(title)
+				for title2 in self.get_titles(subcat):
+					if not any(title2 in e for e in self.index.values()): #check for duplicates
+						self.index[cat].append(title2)
 
-							#used for treesearch
-							#if len(self.index[cat]) > self.baseline_number:
-							#	break
 
 				# loop further to get more articles
 				subsubcategories = self.get_subcategories(subcat)
 
 				for subsubcat in subsubcategories:
 
-					for title in self.get_titles(subsubcat):
-						if title not in self.index.values(): #check for duplicates
-							self.index[cat].append(title)
+					for title3 in self.get_titles(subsubcat):
+						if not any(title3 in e for e in self.index.values()): #check for duplicates
+							self.index[cat].append(title3)
 
 			#used for treesearch
 			#self.index[cat] = self.index[cat][0:self.baseline_number] # cut to base_linenumber
@@ -181,7 +171,7 @@ class Baseline:
 			#pick random articles
 			print("found {} titles in category: {} ".format(len(self.index[cat]), cat))
 
-			self.index[cat] = [self.index[cat][i] for i in random.sample(range(1, (len(self.index[cat])-1)), self.baseline_number)]
+			self.index[cat] = [self.index[cat][i] for i in random.sample(range(0, len(self.index[cat])-1), self.baseline_number)]
 
 			print(len(self.index[cat]))
 
