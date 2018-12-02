@@ -135,12 +135,7 @@ class Baseline:
 		main_categories = self.get_subcategories(self.origin_category)
 
 		# loop over all main categories
-<<<<<<< HEAD
-		for cat in main_categories[23:]:
-
-=======
 		for cat in main_categories[1:]:
->>>>>>> 67b67922328f3eeba56cd64618e6de923b371aa1
 			print("looking for titles in category: {} ".format(cat))
 
 			self.index[cat] = []
@@ -209,11 +204,7 @@ def main():
 	origin_category = "Category:Main topic classifications"
 
 	# number of articles you want from each category
-<<<<<<< HEAD
 	baseline_number = 50
-=======
-	baseline_number = 5000
->>>>>>> 67b67922328f3eeba56cd64618e6de923b371aa1
 
 	folder = "Baseline"
 
