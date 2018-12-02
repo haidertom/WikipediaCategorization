@@ -205,9 +205,15 @@ def main():
 	origin_category = "Category:Main topic classifications"
 
 	# number of articles you want from each category
+<<<<<<< HEAD
 	baseline_number = 50
 
 	folder = "Baseline"
+=======
+	baseline_number = 500
+
+	folder = "TestArticle500"
+>>>>>>> d625bf44f928889e9f2226111b05743a3c10b835
 
 	BL = Baseline(origin_category, baseline_number, folder)
 
