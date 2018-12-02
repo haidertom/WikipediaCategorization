@@ -71,24 +71,23 @@ class Baseline:
 		'''
 		gets text from article in titles, all titles in the same category
 		'''
-		DATA = []
-		titles = [titles[x:x+50] for x in range(0, len(titles), 50)]
+		#DATA = []
 
-		for t in titles:
-			PARAMS = {
-				'action': 'query',
-				'prop':'revisions',
-				'rvprop':'content',
-				'titles': "|".join(t),
-				'export':1,
-				'exportnowrap':1,
-				'format': "json"
-				}
-			S = requests.Session()
-			R = S.get(url=self.URL, params=PARAMS)
-			DATA.append(R.text)
+		#for t in titles:
+		PARAMS = {
+			'action': 'query',
+			'prop':'revisions',
+			'rvprop':'content',
+			'titles': "|".join(titles),
+			'export':1,
+			'exportnowrap':1,
+			'format': "json"
+			}
+		S = requests.Session()
+		return S.get(url=self.URL, params=PARAMS).text
+			#DATA.append(R.text)
 
-		return DATA
+		#return DATA
 
 	def write_rawdata(self, titles, category):
 		'''
@@ -108,11 +107,14 @@ class Baseline:
 
 		#wirte text to the file(s)
 		print("writing files...")
-		for i, data in enumerate(self.get_dumptext(titles)):
+		titles = [titles[x:x+50] for x in range(0, len(titles), 50)]
+		for idx,t in enumerate(titles):
+				
+		#for i, data in enumerate(self.get_dumptext(titles)):
 
-			filename = self.rawpath+"/"+category+"_"+str(self.baseline_number)+"_"+str(i)+".xml"
+			filename = self.rawpath+"/"+category+"_"+str(self.baseline_number)+"_"+str(idx)+".xml"
 			with open(filename, 'w') as the_file:
-				the_file.write(data)
+				the_file.write(self.get_dumptext(t))
 
 	def write_index(self, index):
 		'''
@@ -135,7 +137,7 @@ class Baseline:
 		main_categories = self.get_subcategories(self.origin_category)
 
 		# loop over all main categories
-		for cat in main_categories[1:]:
+		for cat in main_categories[2:]:
 			print("looking for titles in category: {} ".format(cat))
 
 			self.index[cat] = []
@@ -153,6 +155,7 @@ class Baseline:
 				for title2 in self.get_titles(subcat):
 					if not any(title2 in e for e in self.index.values()): #check for duplicates
 						self.index[cat].append(title2)
+
 
 				# loop further to get more articles
 				subsubcategories = self.get_subcategories(subcat)
@@ -204,7 +207,7 @@ def main():
 	origin_category = "Category:Main topic classifications"
 
 	# number of articles you want from each category
-	baseline_number = 50
+	baseline_number = 10000
 
 	folder = "Baseline"
 
