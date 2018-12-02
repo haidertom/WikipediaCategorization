@@ -2,6 +2,7 @@ import languageProcess as lp
 import BloomFilter
 from tfidf import TfIdf
 import csv
+import pickle
 
 from baseline import Baseline
 
@@ -122,6 +123,7 @@ class BloomClassify:
 			for word in TrainDict[cat]:
 				self.BFdict[cat].train(word)
 		pass
+
 	def get_tfidf_1000(self):
 		'''
 		Calculates the tfidf for all words and sorts them in a list
@@ -178,6 +180,16 @@ class BloomClassify:
 
 		pass
 
+	def save_BL(self):
+		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.num)+'_'+str(self.art)+'_'+'.pkl'
+		with open(name, 'wb') as f:
+			pickle.dump(self.BFdict, f, pickle.HIGHEST_PROTOCOL)
+
+	def load_BL(self):
+		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.num)+'_'+str(self.art)+'_'+'.pkl'
+		with open(name, 'rb') as f:
+			self.BFdict = pickle.load(f)
+
 	def check_article(self, article,numOfCheckWords):
 
 		#Base = Baseline(folder="Validation")
@@ -209,6 +221,40 @@ class BloomClassify:
 						vali_dict[cat]+=1
 			vali_dict[cat]=vali_dict[cat]/numOfCheckWords
 		return vali_dict
+
+
+	def check_single_article(self, title, category):
+
+		Base = Baseline(folder="Validation")
+
+		Base.write_rawdata(title, category)
+		Base.convert_plain()
+
+		self.valipath = "../Validation/plaindata"
+
+		category = os.listdir(self.valipath)
+		if '.DS_Store' in category:
+			category.remove('.DS_Store')
+
+		category = category[0]
+
+		filepath = "../Validation/plaindata/"+category+"/AA/wiki_00"
+
+		testarticle = lp.languageProcess(filepath).getHighFreqWords()
+
+		vali_dict = {}
+
+		#check all Bloomfilters
+		for cat in self.BFdict.keys():
+
+			vali_dict[cat] = 0
+
+			for word in testarticle[0].most_common(self.num):
+			 	if (self.BFdict[cat].classify(word[0])):
+						vali_dict[cat]+=1
+
+		return vali_dict
+
 
 	def similarity_matrix(self, mfw = 0, tfidf = 1):
 
@@ -252,14 +298,14 @@ def main():
 	#CL.get_mfw()
 	CL.get_tfidf()
 	CL.train_BL(mfw = 0, tfidf = 1)
-	CL.similarity_matrix(mfw = 0, tfidf = 1)
+	CL.save_BL()
+	#CL.load_BL()
 
-
-
+	#CL.similarity_matrix(mfw = 0, tfidf = 1)
 
 	#
-	# title = "Amari distance"
-	# category = "Category:Mathematics"
+	#title = "Amari distance"
+	#category = "Category:Mathematics"
 
 
 	# CL.train_BL(mfw = 1, tfidf = 0)
@@ -270,9 +316,9 @@ def main():
 	#
 	# CL.train_BL(mfw = 0, tfidf = 1)
 	#
-	# vali_dict = CL.check_article(title, category)
+	#vali_dict = CL.check_single_article(title, category)
 	#
-	# for key,value in vali_dict.items():
+	#for key,value in vali_dict.items():
 	# 	print("%-30s%-30f"%(key, value/CL.num))
 	#
 
