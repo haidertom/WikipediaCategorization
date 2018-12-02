@@ -1,16 +1,16 @@
 import languageProcess as lp
-#import BloomFilter
+import BloomFilter
 from baseline import Baseline
 import os
-#import LSIsimilarity
+import LSIsimilarity
 import operator
 import json
 import csv
 import BloomClassify as BC
 import pickle
 BFdict = {}
-#LSIs = LSIsimilarity.LSIsimilarity()
-CL = BC.BloomClassify(num = 50,baselineFolder="../BigBaseline/plaindata")
+LSIs = LSIsimilarity.LSIsimilarity()
+CL = BC.BloomClassify(num = 50,baselineFolder="../Baseline/10/plaindata")
 def save_Testarticle(name,savedict,cate):
     name = 'trainedObjects/'+ name +'_'+cate+'_500_.pkl'
     with open(name, 'wb') as f:
@@ -27,7 +27,7 @@ def train_Baseline(basepath="../Baseline/1000/plaindata"):
     #CL.get_mfw()
     #CL.get_tfidf_1000()
     #CL.train_BL(mfw = 0, tfidf = 1)
-    #CL.save_BL()
+    CL.load_BL()
     #LSI
     LSIs.train(basepath="../Baseline/1000/plaindata")
     #Create LSI object
@@ -79,7 +79,6 @@ def check_article(validpath = "../TestArticle500/plaindata"):
         LSIcategoryResults=[]
         checkedarticles=0
         for key,val in testarticle.items():
-<<<<<<< HEAD
             #get exclude file per category
             if key not in data['Category:'+cate.split('_')[0]]:
                 testedarticle+=1
@@ -96,22 +95,10 @@ def check_article(validpath = "../TestArticle500/plaindata"):
                 valid_dict = CL.check_article(testarticle[key],50)
                 valid_dict['title']=key
                 BFcategoryResults.append(valid_dict)
-=======
-            if testedarticle <50:
-                #get exclude file per category
-                checkedarticles+=1
-                if key not in data['Category:'+cate.split('_')[0]]:
-                    testedarticle+=1
-                    print(testedarticle)
 
-                    #valid_dict = CL.check_article(testarticle[key],50)
-                    #valid_dict['title']=key
-                    #BFcategoryResults.append(valid_dict)
->>>>>>> d625bf44f928889e9f2226111b05743a3c10b835
-
-                    lsiRes=LSIs.compare(testarticle2[key])
-                    lsiRes['title']=key
-                    LSIcategoryResults.append(lsiRes)
+                lsiRes=LSIs.compare(testarticle2[key])
+                lsiRes['title']=key
+                LSIcategoryResults.append(lsiRes)
         resultsBF[cate]=BFcategoryResults.copy()
         resultsLSI[cate]=LSIcategoryResults.copy()
         #print([key for key,value in resultsBF.items()])

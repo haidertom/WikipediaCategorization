@@ -135,8 +135,7 @@ class Baseline:
 		main_categories = self.get_subcategories(self.origin_category)
 
 		# loop over all main categories
-		for cat in main_categories:
-
+		for cat in main_categories[1:]:
 			print("looking for titles in category: {} ".format(cat))
 
 			self.index[cat] = []
@@ -165,8 +164,16 @@ class Baseline:
 						if not any(title3 in e for e in self.index.values()): #check for duplicates
 							self.index[cat].append(title3)
 
-			#used for treesearch
-			#self.index[cat] = self.index[cat][0:self.baseline_number] # cut to base_linenumber
+					if len(self.index[cat])<self.baseline_number:
+						# loop further to get more articles
+						subsubsubcategories = self.get_subcategories(subsubcat)
+
+						for subsubsubcat in subsubsubcategories:
+
+							for title4 in self.get_titles(subsubsubcat):
+								if not any(title4 in e for e in self.index.values()): #check for duplicates
+									self.index[cat].append(title4)
+
 
 			#pick random articles
 			print("found {} titles in category: {} ".format(len(self.index[cat]), cat))
@@ -199,7 +206,7 @@ def main():
 	origin_category = "Category:Main topic classifications"
 
 	# number of articles you want from each category
-	baseline_number = 10000
+	baseline_number = 5000
 
 	folder = "Baseline"
 
