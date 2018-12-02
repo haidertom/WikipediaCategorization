@@ -180,8 +180,12 @@ class Baseline:
 
 			#pick random articles
 			print("found {} titles in category: {} ".format(len(self.index[cat]), cat))
-			self.index[cat] = list(self.index[cat][i] for i in [random.randint(0, len(self.index[cat])-1) for i in range(self.baseline_number)])
-			print("added {} titles to category: {} ".format(len(self.index[cat]), cat))
+
+			self.index[cat] = [self.index[cat][i] for i in random.sample(range(1, (len(self.index[cat])-1)), self.baseline_number)]
+
+			print(len(self.index[cat]))
+
+			print("added {} unique titles to category: {} ".format(len(set(self.index[cat])), cat))
 			#write articles in file
 			self.write_rawdata((self.index[cat]) , cat)
 
@@ -205,15 +209,9 @@ def main():
 	origin_category = "Category:Main topic classifications"
 
 	# number of articles you want from each category
-<<<<<<< HEAD
 	baseline_number = 50
 
 	folder = "Baseline"
-=======
-	baseline_number = 500
-
-	folder = "TestArticle500"
->>>>>>> d625bf44f928889e9f2226111b05743a3c10b835
 
 	BL = Baseline(origin_category, baseline_number, folder)
 
