@@ -1,0 +1,844 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>French paradox</title>
+    <ns>0</ns>
+    <id>319138</id>
+    <revision>
+      <id>866315863</id>
+      <parentid>866315463</parentid>
+      <timestamp>2018-10-29T16:41:48Z</timestamp>
+      <contributor>
+        <username>Pbsouthwood</username>
+        <id>10044298</id>
+      </contributor>
+      <comment>Adding [[Wikipedia:Short description|short description]]: "A catchphrase that summarises the apparent paradox that French people have a relatively low incidence of heart disease while having a diet relatively rich in saturated fats" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28611">{{short description|A catchphrase that summarises the apparent paradox that French people have a relatively low incidence of heart disease while having a diet relatively rich in saturated fats}}
+{{pp-move-indef|small=yes}}
+{{Use dmy dates|date=July 2013}}
+[[File:Brie 01.jpg|thumb|right|Cheese, like this [[Brie de Meaux]], is high in saturated fats, and is a popular food in [[French cuisine]].]]
+The '''French paradox'''  is a [[catchphrase]], first used in the late 1980s, that summarizes the apparently paradoxical [[epidemiological]] observation that [[French people]] have a relatively low [[Incidence (epidemiology)|incidence]] of [[coronary heart disease]] (CHD), while having a diet relatively rich in [[saturated fat]]s,&lt;ref name="ferrieres"&gt;{{cite journal | author = Ferrieres, J. | year = 2004 | url = http://heart.bmj.com/cgi/content/extract/90/1/107 | title = The French Paradox; Lessons for other countries | journal = Heart | volume = 90 | pages = 107–111 | doi = 10.1136/heart.90.1.107 | pmid = 14676260 | issue = 1 | pmc = 1768013}}&lt;/ref&gt; in apparent contradiction to the [[Saturated fat and cardiovascular disease|widely held belief that the high consumption of such fats is a risk factor for CHD]].  The paradox is that if the thesis linking saturated fats to CHD is valid, the French ought to have a higher rate of CHD than comparable countries where the per capita consumption of such fats is lower.
+
+The French paradox implies two important possibilities. The first is that the hypothesis linking saturated fats to CHD is not completely valid (or, at the extreme, is entirely invalid). The second possibility is that the link between saturated fats and CHD is valid, but that some additional factor in the French diet or lifestyle mitigates this risk—presumably with the implication that if this factor can be identified, it can be incorporated into the diet and lifestyle of other countries, with the same lifesaving implications observed in France. Both possibilities have generated considerable media interest, as well as some scientific research.
+
+It has also been suggested that the French paradox is an illusion, created in part by differences in the way that French authorities collect health statistics, as compared to other countries, and in part by the long-term effects, in the coronary health of French citizens, of changes in dietary patterns which were adopted years earlier.&lt;ref name="Law &amp; Wald"&gt;{{cite journal |author1=Law, M.  |author2=Wald, N. | year = 1999 | title = Why heart disease mortality is low in France: the time lag explanation | journal = British Medical Journal | volume = 318 | pages = 1471–1480 | doi = 10.1136/bmj.318.7196.1471 | issue = 7196}}&lt;/ref&gt;
+
+==Identifying and quantifying the French paradox==
+The term "French Paradox" was first used in ''The Letter'', the newsletter of the [[International Organisation of Vine and Wine]], in 1986. In 1989, theatre Professor George Riley Kernodle of the [[University of Arkansas]] used the term in a chapter in his book ''Theatre In History'', later republished as a separate academic paper.&lt;ref&gt;{{cite book|author=George Riley Kernodle|title=Theatre In History|publisher=[[University of Arkansas]] Press|date=December 1, 1989|ISBN=978-1557280121}}&lt;/ref&gt;
+
+In 1991, Serge Renaud, a scientist from [[Bordeaux University]], France—considered today the father of the phrase—presented the results of his scientific study into the term and actual scientific data behind the perception of the phrase.&lt;ref name=LancetSimini&gt;{{cite journal | title = Serge Renaud: from French paradox to Cretan miracle | journal = The Lancet | volume = 355 | issue = 9197 | pages = 48 | author = B. Simini | doi = 10.1016/S0140-6736(05)71990-5 | year = 2000 | pmid=10615898}}&lt;/ref&gt; This was followed by a public documentary broadcast on the American [[CBS News]] television channel, ''[[60 Minutes]]''.
+
+Renaud's observations regarding the apparent disconnect between French patterns of high saturated fat consumption and their low rates of cardiovascular disease can be quantified using data from the Food and Agriculture Organization of the United Nations.&lt;ref&gt;[http://faostat.fao.org/faostat/servlet/XteServlet3?Areas=68&amp;Areas=231&amp;Items=2941&amp;Items=2740&amp;Items=2741&amp;Items=2901&amp;Items=2733&amp;Elements=684&amp;Years=2002&amp;Format=Table&amp;Xaxis=Years&amp;Yaxis=Countries&amp;Aggregate=&amp;Calculate=&amp;Domain=FS&amp;ItemTypes=FS.NonPrimaryLivestockAndProducts&amp;language=EN FAOSTAT] {{Dead link|date=March 2010}}&lt;/ref&gt;{{Primary source inline|date=November 2015}} In 2002, the average French person consumed 108&amp;nbsp;grams per day of fat from animal sources, while the average American consumed only 72 grams. The French eat four times as much butter, 60 percent more cheese and nearly three times as much pork. Although the French consume only slightly more total fat (171 g/d vs 157 g/d), they consume much more saturated fat because Americans consume a much larger proportion of fat in the form of vegetable oil, with most of that being soybean oil.&lt;ref&gt;[http://faostat.fao.org/faostat/servlet/XteServlet3?Areas=68&amp;Areas=231&amp;Items=2571&amp;Items=2573&amp;Items=2914&amp;Elements=684&amp;Years=2002&amp;Format=Table&amp;Xaxis=Years&amp;Yaxis=Countries&amp;Aggregate=&amp;Calculate=&amp;Domain=FS&amp;ItemTypes=FS.CropsAndProducts&amp;language=EN FAOSTAT] {{Dead link|date=March 2010}}&lt;/ref&gt; However, according to data from the [[British Heart Foundation]],&lt;ref&gt;[http://www.heartstats.org/datapage.asp?id=744ytfytfy Tab 3.5 RSD web08: Age-standardised rate of finished consultant episodes for operations for CHD by sex and local authority, all ages and under 75 years, 2001/06, England (Table)&lt;!-- Bot generated title --&gt;] {{webarchive |url=https://web.archive.org/web/20090204082418/http://www.heartstats.org/datapage.asp?id=744ytfytfy |date=4 February 2009 }}&lt;/ref&gt; in 1999, rates of death from [[coronary heart disease]] among males aged 35–74 years were 115 per 100,000 people in the U.S. but only 83 per 100,000 in France.
+
+In 1991, Renaud extended his studies in partnership with then junior researchers, [[cardiologist]] Michel de Lorgeril and [[dietician]] Patricia Salen. The three enhanced Renaud's study, with their paper concluding that: a diet based on southwestern [[Mediterranean cuisine]]; which is high in [[omega-3]] oils, antioxidants and includes "moderate consumption" of [[red wine]]; created lower cases of [[cancer]], [[myocardial infarction]] and [[cardiovascular disease]]; partly through increasing HDL cholesterol whilst reducing LDL cholesterol.&lt;ref name=LancetSimini/&gt;
+
+== Statistical illusion hypothesis ==
+In 1999, Malcolm Law and Nicholas Wald published a study in the ''[[British Medical Journal]]'',&lt;ref name="Law &amp; Wald" /&gt;  using data from a 1994 study of alcohol and diet to explain how the French paradox might actually be an illusion, caused by two statistical distortions.
+
+First, Law and Wald attributed about 20% of the difference in the observed rates of CHD between France and the United Kingdom to the [[under-certification]] of CHD in France, relative to the UK.
+
+Second, Law and Wald presented a time-lag hypothesis: if there were a delay in serum cholesterol concentrations increasing and a subsequent increase in [[ischaemic heart disease]] mortality, then the current rate of mortality from CHD is more likely to be linked to past levels of serum cholesterol and fat consumption than to current serum cholesterol levels and patterns of fat consumption. They wrote,
+
+&lt;blockquote&gt;We propose that the difference is due to the time lag between increases in consumption of animal fat and serum cholesterol concentrations and the resulting increase in mortality from heart disease—similar to the recognised time lag between smoking and lung cancer. Consumption of animal fat and serum cholesterol concentrations increased only recently in France but did so decades ago in Britain.
+
+Evidence supports this explanation: mortality from heart disease across countries, including France, correlates strongly with levels of animal fat consumption and serum cholesterol in the past (30 years ago)....&lt;/blockquote&gt;
+
+In addition, the French population has become increasingly overweight. A study published by the [[French Institute of Health and Medical Research]] (INSERM) revealed an increase in obesity from 8.5% in 1997 to 14.5% in 2009, with women showing a greater tendency toward obesity than men.&lt;ref&gt;{{cite news |title= Nestlé Bringing American-Style Diet Plans to Europe |author=Matthew Saltmarsh |date=7 March 2010 |newspaper=The New York Times |url=https://www.nytimes.com/2010/03/08/business/global/08diet.html }}&lt;/ref&gt;
+
+==Impact==
+Much commentary has been based on the assumption that the French paradox is real and is not the statistical distortion posited by Law and Wald.  If the French paradox is regarded as real, the  most obvious implication is that under certain circumstances, it is possible for individuals to consume a diet rich in saturated fats, and nonetheless avoid cardiovascular disease. Therefore, proposed explanations for the paradox have attracted considerable interest in other countries, including the creation of considerable demand for foods or supplements said to explain the paradox. The search for an explanation for the paradox has also led to some additional research.
+
+===Cultural impact===
+The overall impact of the popular perception, in the English-speaking world, that the French paradox is a real phenomenon, has been to give added credibility to health claims associated with specific French dietary practices.
+
+This was seen most dramatically when, in 1991, an early account of the then-novel concept of the French paradox was aired in the United States on ''[[60 Minutes]].'' The broadcast left the impression    that France's high levels of red wine consumption accounted for much of the country's lower incidence of cardiac disease. Within a year, the consumption of [[red wine]] in the United States had increased by 40%&lt;ref&gt;{{cite book | last = Phillips | first = Rod | title = Alcohol: A History | publisher = University of North Carolina Press Books | year = 2014 | pages = 517 | isbn = 978-1-4696-1760-2}}&lt;/ref&gt; and some wine sellers began promoting their products as "[[health food]]."&lt;ref&gt;[http://articles.baltimoresun.com/1992-11-06/news/1992311065_1_french-paradox-alcohol-red-wine]&lt;/ref&gt;
+
+The cultural impact of the French paradox can be seen in the large number of book titles in the diet-and-health field which purport to give the reader access to the secrets behind the paradox: 
+*''The Fat Fallacy: The French Diet Secrets to Permanent Weight Loss'' (William Clower, 2003);
+*''The French Don't Diet Plan: 10 Simple Steps to Stay Thin for Life'' (William Clower, 2006)
+*''French Women Don't Get Fat'' (Mireille Guiliano, 2004, which became a #1 best-seller in 2006)
+*''Cholesterol and The French Paradox'' (Frank Cooper, 2009);
+*''The French Women Don't Get Fat Cookbook'' (Mireille Guiliano, 2010).
+
+Other books sought to boost their credibility by reference to the French paradox.  The American edition of ''[[Dukan Diet|The Dukan Diet]]'', written by Pierre Dukan, a Paris-based doctor, is marketed with the subtitle, “The real reason the French stay thin.”
+
+===Scientific impact===
+The existence of the French paradox has caused some researchers to speculate that the link between dietary consumption of saturated fats and coronary heart disease might not be as strong as had previously been imagined. This has resulted in a review of the earlier studies which had suggested this link.
+
+Some researchers have thrown into question the entire claimed connection between natural saturated fat consumption and cardiovascular disease. In 2006 this view received some indirect support from the results of the [[Nurses' Health Study]] run by the [[Women's Health Initiative]]. After accumulating approximately 8 years of data on the diet and health of 49,000 post-menopausal American women, the researchers found that the balance of saturated versus unsaturated fats did not appear to affect heart disease risk, whereas the consumption of [[trans fat]] was associated with significantly increased risk of cardiovascular disease.&lt;ref&gt;{{cite journal | author = Couzin, Jennifer | url = http://www.sciencemag.org/cgi/content/summary/311/5762/755 | title = Women's Health: Study Yields Murky Signals on Low-Fat Diets and Disease | journal = Science | year = 2006 | volume = 311 | issue = 5762 | pmid = 16469884 | pages = 755 | doi = 10.1126/science.311.5762.755}}&lt;/ref&gt;
+
+Similarly, the authors of a 2009 review of dietary studies concluded that there was insufficient evidence to establish a causal link between consumption of saturated fats and coronary heart disease risk.&lt;ref&gt;{{cite journal | url = http://archinte.ama-assn.org/cgi/content/short/169/7/659 | title = A Systematic Review of the Evidence Supporting a Causal Link Between Dietary Factors and Coronary Heart Disease |author1=Andrew Mente |author2=Lawrence de Koning |author3=Harry S. Shannon |author4=Sonia S. Anand | journal = Arch Intern Med | year = 2009 | volume = 169 | issue = 7 | pages = 659–669 | doi = 10.1001/archinternmed.2009.38 | pmid = 19364995}}&lt;/ref&gt;
+
+==Possible explanations==
+
+===Explanations based on the high per capita consumption of red wine in France===
+It has been suggested that France's high [[red wine]] consumption is a primary factor in the trend. This hypothesis was expounded in a ''[[60 Minutes]]'' broadcast in 1991.&lt;ref&gt;[http://www.cbsnews.com/video/watch/?id=4750380n The French Paradox], ''CBS News'', 23 January 2009&lt;/ref&gt; The program catalysed a large increase in North American demand for red wines from around the world. It is believed that one of the components of red wine potentially related to this effect is [[resveratrol]];&lt;ref&gt;[https://www.sciencedaily.com/releases/2008/11/081126122203.htm Potentially Universal Mechanism Of Aging Identified], ''ScienceDaily'', 27 November 2008&lt;/ref&gt;  however, the authors of a 2003 study concluded that the amount of resveratrol absorbed by drinkers of red wine is small enough that it is unlikely to explain the paradox.&lt;ref&gt;{{cite journal |doi=10.1016/S0009-9120(02)00397-1 |title=Absorption of three wine-related polyphenols in three different matrices by healthy subjects |year=2003 |last1=Goldberg |first1=David M. |last2=Yan |first2=Joseph |last3=Soleas |first3=George J. |journal=Clinical Biochemistry |volume=36 |pages=79–87 |pmid=12554065 |issue=1}}&lt;/ref&gt;
+[[File:Red Wine Glass.jpg|thumb|right|A glass of red wine]]
+
+====Alcohol in wine====
+{{Main|Alcohol and cardiovascular disease}}
+
+Research suggests that moderate drinkers are less likely to suffer [[Myocardial infarction|heart attack]]s than are abstainers or heavy drinkers (see [[alcohol and cardiovascular disease]] for details). Therefore, the alcohol in wine might be a factor in the French paradox.
+
+However, the difference between U.S. annual ''per capita'' alcohol consumption (9.2 litres per year)&lt;ref&gt;WHO [http://www.who.int/substance_abuse/publications/global_alcohol_report/profiles/usa.pdf report on alcohol consumption in the United States of America]&lt;/ref&gt; and French consumption (12.2 litres per year) is only 3 litres per year more.&lt;ref&gt;WHO [http://www.who.int/substance_abuse/publications/global_alcohol_report/profiles/fra.pdf report on alcohol consumption in France]&lt;/ref&gt;
+
+There is a lack of medical consensus about whether moderate consumption of beer, wine, or distilled spirits has a stronger association with longevity. Of ten major studies, three found stronger evidence for wine, three for beer, three for liquor, and one study found no difference between alcoholic beverages.&lt;ref&gt;{{cite book | last = Edell | first = D. | title = Eat, Drink and be Merry: America’s Doctor Tells You Why the Health Experts are Wrong | publisher = HarperCollins | year = 1999 | pages = 191–192 | isbn = 0-06-019155-4}}&lt;/ref&gt;
+
+====Resveratrol====
+{{Main|Resveratrol}}
+
+Wines, particularly red wines, are a source of low levels of [[resveratrol]]. High doses of resveratrol have been linked to longevity and cancer prevention in other species.&lt;ref name=Liu2007&gt;{{cite journal|last=Liu|first=BL|author2=Zhang, X|author3= Zhang, W|author4= Zhen, HN|title=New enlightenment of French Paradox: resveratrol's potential for cancer chemoprevention and anti-cancer therapy.|journal=Cancer biology &amp; therapy|date=December 2007|volume=6|issue=12|pages=1833–6|pmid=18087218|url=http://www.landesbioscience.com/journals/cbt/article/5161/|doi=10.4161/cbt.6.12.5161}}&lt;/ref&gt;
+Although research continues on resveratrol, the concentration in wine seems too low to account for the French paradox.
+
+====Polyphenols====
+[[Oligomeric procyanidins]] have been proposed to offer protection to human vascular cells,&lt;ref&gt;{{cite journal | doi = 10.1038/444566a | title = Oenology: Red wine procyanidins and vascular health | year = 2006 | last1 = Corder | first1 = R. | last2 = Mullen | first2 = W. | last3 = Khan | first3 = N. Q. | last4 = Marks | first4 = S. C. | last5 = Wood | first5 = E. G. | last6 = Carrier | first6 = M. J. | last7 = Crozier | first7 = A. | journal = Nature | volume = 444 | issue = 7119 | pages = 566 | pmid = 17136085}}&lt;/ref&gt; with other research indicating that red wine polyphenols reduce absorption of [[malondialdehyde]] which is implicated in elevating levels of [[low-density lipoprotein]] in the onset of [[arteriosclerosis]].&lt;ref&gt;{{cite journal|pmid=22530973|year=2012|author1=Kanner|first1=J|title=Protection by polyphenols of postprandial human plasma and low-density lipoprotein modification: The stomach as a bioreactor|journal=Journal of Agricultural and Food Chemistry|volume=60|issue=36|pages=8790–6|last2=Gorelik|first2=S|last3=Roman|first3=S|last4=Kohen|first4=R|doi=10.1021/jf300193g}}&lt;/ref&gt;
+
+However, once digested and metabolized, the role of polyphenols to assert possible health effects in humans cannot be determined.&lt;ref name="lpi"&gt;{{cite web|url=http://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals/flavonoids|title=Flavonoids|publisher=Linus Pauling Institute, Micronutrient Information Center, Oregon State University|date=2015|accessdate=8 June 2015}}&lt;/ref&gt; Although polyphenols are speculated to be part of the health-promoting effects of wine consumption, no evidence exists to date that ingesting polyphenols from red wine or food sources actually provides health benefits.&lt;ref name="EFSA"&gt;{{cite journal|author=EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA)2, 3 European Food Safety Authority (EFSA), Parma, Italy|url=https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2010.1489 |title=Scientific Opinion on the substantiation of health claims related to various food(s)/food constituent(s) and protection of cells from premature aging, antioxidant activity, antioxidant content and antioxidant properties, and protection of DNA, proteins and lipids from oxidative damage pursuant to Article 13(1) of Regulation (EC) No 1924/20061|journal= EFSA Journal|year= 2010|volume= 8|issue=2|page=1489|doi=10.2903/j.efsa.2010.1489}}&lt;/ref&gt;
+
+=== Explanations based on aspects of the French diet===
+
+====The French diet is rich in short-chain saturated fatty acids and poor in trans fats====
+In his 2009 book ''Cholesterol and The French Paradox'', Frank Cooper argues that the French paradox is due to the lack of hydrogenated and [[trans fats]] in the French diet.&lt;ref&gt;Cooper, Frank A. ''Cholesterol and The French Paradox''. Lulu.com Publishing, 2009, pp 136–149.&lt;/ref&gt; The French diet is based on natural [[saturated fats]] such as butter, cheese and cream that the human body finds easy to metabolize, because they are rich in shorter saturated fatty acids ranging from the 4-carbon [[butyric acid]] to the 16-carbon [[palmitic acid]]. But the American diet includes greater amounts of saturated fats made via [[hydrogenation|hydrogenating]] vegetable oils which include longer 18- and 20-carbon fatty acids.  In addition, these hydrogenated fats include small quantities of [[trans fats]] which may have associated health risks.&lt;ref&gt;{{cite journal | last = Hu | first = FB |author2=van Dam RM |author3=Liu S.Hu FB |author4=van Dam RM |author5=Liu S
+ | title = Diet and risk of Type II diabetes: the role of types of fat and carbohydrate | journal = Diabetologia | year = 2001 | volume = 44 | issue = 7 | pages = 805–17 | pmid = 11508264 | doi = 10.1007/s001250100547}}&lt;/ref&gt;&lt;ref&gt;{{cite journal | last = Clarke | first = Robert  |author2=Lewington, Sarah  | title = Trans fatty acids and coronary heart disease | journal = BMJ | year = 2006 | volume = 333 | issue = 7561 | pages = 214 | doi = 10.1136/bmj.333.7561.214 | pmid = 16873835 | pmc = 1523500 }}&lt;/ref&gt;&lt;ref&gt;
+{{cite web 
+ |title=The Eye Digest – Macular degeneration info 
+ |publisher=University of Illinois Eye &amp; Ear Infirmary, Chicago, IL 
+ |date=19 May 2009 
+ |url=http://www.agingeye.net/maculardegen/maculardegeninformation.php 
+ |accessdate=2010-01-26 
+ |page=Reviewed = 05/19/2009 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20100110032447/http://www.agingeye.net/maculardegen/maculardegeninformation.php 
+ |archivedate=10 January 2010 
+ |df=dmy 
+ }}
+&lt;/ref&gt;
+
+====Explanations relying on multiple factors====
+In his 2003 book, ''The Fat Fallacy: The French Diet Secrets to Permanent Weight Loss'', Will Clower suggests the French paradox may be narrowed down to a few key factors, namely:
+* Good fats versus bad fats — French people get up to 80% of their fat intake from dairy and vegetable sources, including [[whole milk]], cheeses, and whole milk [[yogurt]].
+* Higher quantities of fish (at least three times a week).
+* Smaller portions, eaten more slowly and divided among courses that let the body begin to digest food already consumed before more food is added.
+* Lower sugar intake — American low-fat and no-fat foods often contain high concentrations of sugar. French diets avoid these products preferring full-fat versions without added sugar.
+* Low incidence of snacks between meals.
+* Avoidance of common American food items, such as soda, deep-fried foods, snack foods, and especially prepared foods which can typically make up a large percentage of the foods found in American grocery stores.
+
+Clower tends to downplay the common beliefs that wine consumption and smoking are greatly responsible for the French paradox. While a higher percentage of French people smoke, this is not greatly higher than the U.S. (35% in France vs. 25% in U.S.) and is unlikely to account for the weight difference between countries.
+
+[[Mireille Guiliano]], author of the 2006 bestseller ''French Women Don't Get Fat'',&lt;ref&gt;[https://query.nytimes.com/gst/fullpage.html?res=9405E3D71530F93AA35757C0A9609C8B63 Paperback best sellers], ''[[The New York Times]]'', 9 April 2006&lt;/ref&gt; agrees that the weight differences are not due to French smoking habits.  She points out that the smoking rates for women in France and the U.S. are virtually identical.&lt;ref name=mireilleguiliano&gt;[https://web.archive.org/web/20080124145431/http://www.mireilleguiliano.com/qanda.htm Arhive.org]&lt;/ref&gt; Guiliano explains the key factors to the French woman's ability to stay slim as:
+* Smaller portion sizes: - she advocates the 50% rule, i.e. asking for half of whatever food one is offered, "la moitié, s'il vous plaît" in French [http://frenchwomendontgetfat.com/french_phrases/L]
+* Savoring food to increase the feeling of satisfaction, choosing a small amount of high quality food rather than larger amounts of low quality food
+* Eating 3 meals a day and not snacking
+* Taking in plenty of liquid such as water, herbal tea and soup
+* Sitting down and eating mindfully (no multitasking and eating while standing up, watching TV, or reading)
+* Emphasizing freshness, variety, balance, and, above all, pleasure&lt;ref name=mireilleguiliano/&gt;
+
+==== Whole diet ====
+In his 2008 book ''[[In Defense of Food]]'', [[Michael Pollan]] suggests the explanation is not any single nutrient, but the combination of nutrients found in unprocessed food; not any one nutrient, nor the amount of carbohydrates or fats or proteins, but the whole length and breadth of nutrients found in "natural" foods as opposed to "processed" foods.&lt;ref&gt;Pollan, Michael ''In Defense of Food''. Penguin Press, 2008.&lt;/ref&gt;
+
+==== Higher fruit and vegetable intake ====
+It has been suggested that a higher intake of fruit and vegetables in the diet may lower the risk of cardiovascular diseases.&lt;ref&gt;{{cite journal|pmid=23736950|year=2013|author1=Hartley|first1=L|title=Increased consumption of fruit and vegetables for the primary prevention of cardiovascular diseases|journal=The Cochrane Database of Systematic Reviews|issue=6|pages=CD009874|last2=Igbinedion|first2=E|last3=Holmes|first3=J|last4=Flowers|first4=N|last5=Thorogood|first5=M|last6=Clarke|first6=A|last7=Stranges|first7=S|last8=Hooper|first8=L|last9=Rees|first9=K|doi=10.1002/14651858.CD009874.pub2|pmc=4176664}}&lt;/ref&gt;
+
+==== Early life nutrition ====
+One proposed explanation of the French paradox regards possible effects ([[epigenetic]] or otherwise) of dietary improvements in the first months and years of life, exerted across multiple generations. Following defeat in the [[Franco-Prussian War]] in 1871, the French government introduced an aggressive nutritional program providing high quality foods to pregnant women and young children with the aim of fortifying future generations of soldiers (the program was implemented about three decades prior to an analogous initiative in England in response to the [[Boer War]]). It has been suggested that the particular timing of this historical intervention  might help explain the relatively low rates of obesity and heart disease found in France.&lt;ref name=Newnham2009&gt;{{cite journal|last=Newnham|first=JP|author2=Pennell, CE|author3= Lye, SJ|author4= Rampono, J|author5= Challis, JR|title=Early life origins of obesity|journal=Obstetrics and gynecology clinics of North America|date=June 2009|volume=36|issue=2|pages=227–44, xii|doi=10.1016/j.ogc.2009.03.004|pmid=19501311}}&lt;/ref&gt;
+
+== See also ==
+* {{annotated link|French cuisine}}
+* {{annotated link|Israeli paradox}}
+* {{annotated link|List of paradoxes}}
+* {{annotated link|Mediterranean diet}}
+* {{annotated link|Mexican paradox}}
+* {{annotated link|Saturated fat and cardiovascular disease}}
+* {{annotated link|Stroke Belt}}
+* {{annotated link|Health effects of wine}}
+
+==References==
+
+===Bibliography===
+*{{cite journal|title=Prévenir l'infarctus (Preventing heart attack)|author1=Michel de Lorgeril |author2=Patricia Salen |editor=Thierry Souccar|date=2011}}
+*{{cite book|title=Cholestérol, mensonges et propagande (Cholestérol, lies and propaganda)|author=Michel de Lorgeril|editor=Thierry Souccar|date=2008|ISBN=9782365490481}}
+*{{cite journal|title=Dites à votre médecin que le cholestérol est innocent (Tell your doctor that cholesterol is innocent)|author=Michel de Lorgeril|editor=Thierry Souccar|date=2007}}
+*{{cite journal|title=Le régime crétois (The Mediterranean Regime)|author=Serge Renaud|editor=Odile Jacob|date=2004}}
+*{{cite journal|title=Le régime santé (The Health Plan)|author=Serge Renaud|editor=Odile Jacob|date=1998}}
+*{{cite book|author=George Riley Kernodle|title=Theatre In History|publisher=[[University of Arkansas]] Press|date=December 1, 1989|ISBN=978-1557280121}}
+
+===Notes===
+{{reflist|30em}}
+
+===Other sources===
+* {{Cite journal |author1=Abdulla, A.  |author2=Badaway, B. | year = 2001 | title = Moderate alcohol consumption as a cardiovascular risk factor: the role of homocycteine and the need to re-explain the 'French Paradox' | journal = Alcohol and Alcoholism | volume = 36 | pages = 185–188 | doi = 10.1093/alcalc/36.3.185 | issue = 3}}
+* Perdue, W. Lewis, ''et al.'' ''the French Paradox and Beyond''. Sonoma, CA: Renaissance, 1993.
+* {{Cite journal |author1=Rozin, P. |author2=Kabnick, K. |author3=Pete, E. |author4=Fischler, C. |author5= Shields, C. |last-author-amp=yes | year = 2003 | title = The ecology of eating: Part of the French paradox results from lower food intake in French than Americans, because of smaller portion sizes | journal = Psychological Science | volume = 14 | pages = 450–454 | pmid = 12930475 | issue = 5 | doi=10.1111/1467-9280.02452}}
+
+==External links==
+* [http://www.economist.com/science/displaystory.cfm?story_id=10423439 How To Live Forever] ''[[The Economist]]'' 3 January 2008
+
+{{alcohealth}}
+
+{{portal bar|Drink}}
+
+{{DEFAULTSORT:French Paradox}}
+[[Category:Cardiovascular diseases]]
+[[Category:Health in France]]
+[[Category:Health paradoxes]]
+[[Category:Wine]]
+[[Category:Epidemiology]]
+[[Category:Public health]]</text>
+      <sha1>cxfx4dfy19jcs8ermqq6t5r8tfbzvqr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Institute for Healthcare Advancement</title>
+    <ns>0</ns>
+    <id>23174612</id>
+    <revision>
+      <id>858745672</id>
+      <parentid>852489417</parentid>
+      <timestamp>2018-09-09T09:18:45Z</timestamp>
+      <contributor>
+        <username>Rathfelder</username>
+        <id>398607</id>
+      </contributor>
+      <comment>-[[Category:Foundations based in the United States]]; ±[[Category:Medical and health foundations]]→[[Category:Medical and health foundations in the United States]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4406">The '''Institute for Healthcare Advancement''' ('''IHA''') is a [[Non-profit organization|not-for-profit]], private operating [[Foundation (United States law)|foundation]] providing [[health care]] and improving [[health literacy]] at the national level.  It is located in [[La Habra, California]].
+
+==Local services==
+It provides children's medical and dental healthcare services at the Friends of Children Health Center.
+
+The La Habra Family Resource Center is located on the Las Lomas Elementary School grounds. It is a complete, family-centered support system, working with community resources that can address the health, emotional, social, and academic needs of children and their families.
+
+==Health literacy publications==
+It published easy-to-read 'What to Do For Health' books,&lt;ref&gt;[http://www.hsph.harvard.edu/healthliteracy/curricula/for_health.html  “What To Do For Health” Book Series and Curriculum] Health Literacy Studies: Curricula, Harvard School of Public Health&lt;/ref&gt; used by the states of California and South Dakota, health plans, [[Head Start Program|Head Start]]s, health departments, and more; these books help reduce emergency room visits and costs.&lt;ref&gt;[http://www.anderson.ucla.edu/x2682.xml New research proves that a dose of hands-on health care training can transform parents' abilities to care for common childhood ailments at home - and save Medicaid millions of dollars annually.] Press Releases November 2007. UCLA/Johnson &amp; Johnson Health Care Institute. Retrieved 2009-06-10&lt;/ref&gt; 
+
+Health Education Literacy Program (H.E.L.P.) Curriculum is an ESL (English as a Second Language) curriculum.&lt;ref&gt;[http://www.iha4health.org/default.aspx/MenuItemID/232/MenuGroup/_Health+Literacy.htm HELP Curriculum FAQ] IHA. HELP files available for download.&lt;/ref&gt; As learners begin to master reading, writing, and speaking in English, they are also learning healthcare skills to become effective child caregivers. This project was funded through an English literacy and civics education grant from the Louisiana State Department of Education.&lt;ref&gt;[http://www.doe.state.la.us/Lde/family/987.html Louisiana State Literacy Resource Center]&lt;/ref&gt;
+
+It has developed easy to use [[Multilingualism|bilingual]] versions of [[advance health care directive]]s in English, [[Spanish language|Spanish]], [[Chinese language|Chinese]], and [[Vietnamese language|Vietnamese]]; a [[Khmer language|Khmer]] version is being developed. It has been approved for use in [[California]] and may be downloaded for free.&lt;ref&gt;[http://www.iha4health.org/default.aspx/MenuItemID/266/MenuGroup/_Home.htm Easy to Use California Advance Health Care Directive] IHA. Retrieved 2009-06-11&lt;/ref&gt;
+
+==Health Literacy Conference==
+It sponsors an annual national Health Literacy Conference for healthcare professionals and educators to teach them about health literacy, the latest research, and how to improve their [[patient education]]. It presents three awards for outstanding achievements in health literacy in the categories of Research, Innovative Programs, and Published Materials.&lt;ref&gt;[http://www.iha4health.org/html/2008%20%20Health%20Literacy%20Awards.doc 2008 IHA Health Literacy Award Winners] Press release May 5, 2008 IHA. Word document&lt;/ref&gt;&lt;ref&gt;2009 [https://www.reuters.com/article/pressRelease/idUS234996+07-May-2009+MW20090507 Institute for Healthcare Advancement Honors Three for Excellence in Low Literacy Research, Programs and Publications] [[Reuters]] May 7, 2009. Retrieved 2009-06-11&lt;/ref&gt;
+
+===Annual themes===
+*2002 Health Literacy - State of the Art
+*2003 Organizational Solutions
+*2004 Clinical and Educational Solutions
+*2005 Culture, Language and Clinical Issues
+*2006 Beyond the Written Word: Alternative Solutions
+*2007 Chronic Illness Management
+*2008 Primary Care - Best Practices and Skill Building
+*2009 Health Literacy - Bridging Research and Practice &lt;ref&gt;[http://www.iha4health.org/default.aspx/MenuItemID/190/MenuGroup/_Home.htm 2009 Health Literacy Conference] links to agenda, daily recaps, closing session, and abstracts from the Poster Session&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.iha4health.org/ Official Institute for Healthcare Advancement website]
+
+[[Category:Medical and health foundations in the United States]]
+[[Category:Health education]]
+[[Category:Organizations based in Orange County, California]]
+[[Category:La Habra, California]]</text>
+      <sha1>0wchifdd433aerx037oi2u01gmgz7g9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>National Day of Mourning (Canadian observance)</title>
+    <ns>0</ns>
+    <id>4931001</id>
+    <revision>
+      <id>869860651</id>
+      <parentid>848607667</parentid>
+      <timestamp>2018-11-20T21:10:28Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Speedily moving category Labour relations to [[:Category:Labor relations]] per [[WP:CFDS|CFDS]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9273">{{Infobox holiday
+|type=secular
+|holiday_name=National Day of Mourning 
+|duration= 1 day
+|scheduling = 28th day of April
+|frequency=annual
+|observedby=Canada
+|image =
+|caption=
+|date=28th day of April
+|longtype=
+|week_ordinal=
+|weekday=
+|month=April
+|celebrations=flag at half-mast, [[Moment of silence]], lighting candles, donning ribbons and black armbands
+|relatedto=[[Labor Day]]; [[Workers' Memorial Day]]
+}}
+The '''National Day of Mourning''', or '''Workers’ Mourning Day''' is observed in [[Canada]] on 28 April. It commemorates workers who have been killed, injured or suffered illness due to workplace related hazards and occupational exposures.
+
+Workers' Memorial Day was started when two labour activists, Colin Lambert and Dr. Ray Sentes, were driving in early April 1983 to a union meeting, and were stopped by a funeral procession for a firefighter that had been killed in the line of duty&lt;ref&gt;{{Citation|last=BC Labour Heritage Centre|title=Day of Mourning The Untold Story (2017)|date=2017-04-20|url=https://www.youtube.com/watch?v=hP0JvrXjmgo&amp;feature=youtu.be|accessdate=2018-05-09}}&lt;/ref&gt;. They worried that other workers who died because of work did not receive similar honours, and recalled how members of the United Steelworkers in Elliott Lake held each year a "Workers' Remembrance Day" for uranium miners who had succumbed to exposures. Lambert and Sentes sought endorsements from union officials for the idea to hold a national day of mourning, and the Canadian Union of Public Employees (CUPE) passed a resolution to that effect at its annual convention in 1983, and the Canadian Labour Congress followed suit at its annual convention the following year. The AFL-CIO declared a day of mourning in 1989 and a "workers' Memorial Day" is observed in over 100 countries.
+
+In December 1990, this day became a national observance in Canada with the passing of the Workers Mourning Day Act, so that on April 28, 1991, it was officially the National Day of Mourning for persons killed or injured in the workplace; making April 28, an official Workers’ Mourning Day.&lt;ref name="Manchester"&gt;[[Greater Manchester Hazards Centre]] Fact Sheet 28 April 2006 (GMHC is part of the [[Hazards Campaign]] recognised and affiliated to the UK [[Trades Union Congress]]) Author Hilda Palmer, (no ISBN); available at {{cite web |url=http://www.gmhazards.org.uk/WMDLft06.pdf |title=Archived copy |accessdate=2010-03-28 |deadurl=yes |archiveurl=https://web.archive.org/web/20060518055811/http://www.gmhazards.org.uk/WMDLft06.pdf |archivedate=2006-05-18 |df= }} Also '''Safety Express' March/ April 2006 Page 5'' 'April 28th is...Workers' Memorial Day' (no ISBN); published by The [[Royal Society for the Prevention of Accidents]] ([[ROSPA]]) UK [[registered charity]] No. 207823&lt;/ref&gt;&lt;ref name="ohs"&gt;TUC Certificate in Occupational Health &amp; Safety course notes 2004/5 Section C page 69 (no ISBN); more info available at {{cite web |url=http://www.tuc.org.uk/h_and_s/index.cfm?mins=293 |title=Archived copy |accessdate=2010-03-24 |deadurl=yes |archiveurl=https://web.archive.org/web/20100217003146/http://www.tuc.org.uk/h_and_s/index.cfm?mins=293 |archivedate=2010-02-17 |df= }}&lt;/ref&gt;
+
+Injuries and deaths in the workplace continue to be a matter of important concern across Canada. Many Canadians members work hard each day in an effort to minimize accidents and incidents.  Risk is an inherent element of many jobs, and this is why safety should be one of the core values in any workplace. Since its inception, the observance has spread to over 80 countries around the world, but is known is most other countries as the [[Workers' Memorial Day]]. The date 28 April was picked because on that day in 1914, the [http://www.thecanadianencyclopedia.ca/en/article/workers-compensation/ Workers Compensation Act] received its third reading. In 2001 the [[International Labour Organization]] first observed World Day for Safety and Health at Work on this day.  Commemorating those who have been hurt or killed in the workplace shows respect for the fallen, while serving as a reminder of the importance of occupational health and safety.
+
+The Canadian flag is flown at half-mast from sunrise to sunset on all federal government buildings, including on Parliament Hill. Workers and employees observe this day in various ways including lighting candles, donning ribbons and black armbands, and observing a moment of silence at 1100 hrs. The purpose of Day of Mourning is twofold- to remember and honour those lives lost or injured and to renew the commitment to improving health and safety in the workplace - to prevent further deaths, injuries and diseases from work.
+
+==Young Workers==
+Young workers aged from 15-24 are more likely than any other group to be injured on the job, in fact 1/3 of all injuries occur in this age group, and males are twice as likely to be injured as female workers.&lt;ref name="YoungStats"&gt;[[WorkSafeBC]] Young Workers Rights and Facts, http://www.labourheritagecentre.ca/wordpress/wp-content/uploads/2016/03/6-FactSheet-Bugged-Revision-3-.pdf.&lt;/ref&gt; The highest rate of injury happens in construction and hospitality industries. These rates have led to specific laws in many provinces that provide for additional and special training for young and new workers.&lt;ref name="Young"&gt;[[WorkSafeBC]] Young Workers Resource and Fact Page, http://www2.worksafebc.com/Topics/YoungWorker/Home.asp.&lt;/ref&gt; Due to these statistics, there has been renewed push to use this holiday to educate young workers of their rights in schools.&lt;ref name="Schools"&gt;Day of Mourning, BC Schools Project, http://www.labourheritagecentre.ca/domschoolsproject/&lt;/ref&gt;
+
+==Canadian monuments==
+Major monuments in Canada have been erected and dedicated to workers whose lives have been who have been killed and injured on the job.&lt;ref&gt;{{ccohs|date=2015 04 27|url=http://www.ccohs.ca/events/mourning/ |title=Monuments Canada }}.&lt;/ref&gt;
+
+* The Canadian Young Workers Memorial Quilt -The LifeQuilt with individual, personalized quilted blocks commemorated 100 young workers is a memorial dedicated to the thousands of young women and men between the ages of 14 and 24 killed on the job.&lt;ref&gt;{{date=2015 04 27|url=http://lifequilt.ca/ |title=Young Workers Memorial Life Quilt }}.&lt;/ref&gt;
+* [[Canadian Labour Congress]] Monument, [[Vincent Massey Park]], [[Ottawa|Ottawa, Ontario]], Canada - This monument was dedicated on April 28, 1987, one year after the Canadian Labour Congress had officially established April 28 as the Day of Mourning to workers killed and injured on the job.&lt;ref&gt;{{date=2015 04 27|url=http://www.ccohs.ca/events/mourning/labourcongress.html|title="Dead But Not Forgotten–Monuments to Workers" a book by Ed Thomas }}.&lt;/ref&gt;
+* Falconbridge Mural, [[Sudbury, Ontario]], Canada
+* Miner's Memorial [[Kirkland Lake, Ontario]] Canada
+* [[Rideau Canal]] Fabric Mural Memorial, [[Kingston, Ontario]], Canada
+* Fire Fighter's Monument, [[Saskatoon, Saskatchewan]], Canada
+* "Breaking Ground" Hoggs Hollow Memorial, [[Toronto]], [[Ontario]], Canada
+* 'Their Light Shall Always Shine' Memorial Park, New Glasgow, Nova Scotia is a park and memorial dedicated to the 26 miners who lost their lives in a horrific mining explosion on May 9, 1992. http://ns1763.ca/pictouco/westraymem.html
+* "Broken Families Obelisk" Grant Notley Park, [[Edmonton]], [[Alberta]], Canada
+* Welland Canal Fallen Workers Memorial, [[St. Catharines]], [[Ontario]], Canada
+
+The [http://www.labourheritagecentre.ca/ BC Labour Heritage Centre] maintains an [http://www.labourheritagecentre.ca/workermemorialmap/ interactive map] recording all monuments and plaques dedicated to working class people in British Columbia, over fifty sites of which are Day of Mourning specific.
+
+==International monuments==
+Monuments around the world have been erected and dedicated to workers whose lives have been who have been killed and injured on the job.&lt;ref&gt;{{ccohs|date=2015 04 27|url=http://www.ccohs.ca/events/mourning/ |title=Monuments International }}.&lt;/ref&gt;
+* [[Hoover Dam]] Monument, [[Boulder City, Nevada]], USA
+* Airplane and Fishermen Monument, [[Hedinsfjordur, Iceland]]
+* Workers Memorial Day Stained Glass Window, [[Birmingham, England]]
+* Deceased Workers Memorial Forest [Adelaide South Australia}
+*National Deceased Workers Memorial (Workers Glade) [Canberra Australia]
+
+==See also==
+*[[Labor Day]]
+*[[Workers' Memorial Day]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.hrsdc.gc.ca/eng/labour/health_safety/day_mourning.shtml National Day of Mourning at the Government of Canada]
+*[http://www.ccohs.ca/events/mourning/ National Day of Mourning at Canadian Centre for Occupational Health and Safety (CCOHS)]
+*[http://www.iapa.ca/main/about_iapa/2006_apr19_press.aspx Press release from the Industrial Accident Prevention Associate]
+*[http://www.ilo.org/public/english/protection/safework/worldday/ World Day for Safety and Health at Work- ILO]
+*[http://www.ciws.ca Canadian Injured Workers Society]
+
+{{Occupational safety and health}}
+
+{{DEFAULTSORT:National Day Of Mourning (Canadian Observance)}}
+[[Category:Safety]]
+[[Category:Labor relations]]
+[[Category:Risk management]]
+[[Category:Working conditions]]
+[[Category:Occupational safety and health]]
+[[Category:April observances]]</text>
+      <sha1>9owxrvjemip1t27r6plu6x5dgp3hydn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Online patient education</title>
+    <ns>0</ns>
+    <id>25627242</id>
+    <revision>
+      <id>761406615</id>
+      <parentid>757080204</parentid>
+      <timestamp>2017-01-22T20:45:11Z</timestamp>
+      <contributor>
+        <username>Me, Myself, and I are Here</username>
+        <id>17619453</id>
+      </contributor>
+      <comment>cap, bold, punct., simplify heading</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4081">'''Online patient education''', also known as '''online patient engagement''', is a method of providing medical information and education to patients using [[learning management systems]] delivered through the Internet.&lt;ref&gt;Evaluation of bariatric Centers of Excellence Web sites for functionality and efficacy. Surg Obes Relat Dis. 2008 Sep-Oct;4(5):571-4&lt;/ref&gt; It is a type of computer-based instruction and includes web seminars, downloadable materials, interactive learning courses, and audio/visual presentations. Generally, online patient education is supplemented with in-person consultations tailored to each individual.
+
+==General usage==
+Health professionals use online patient education to prepare patients for medical procedures, administer intake and informed consent paperwork, educate patients about health conditions, provide information about preventive care, encourage healthy behavior and lifestyle changes, etc. Health insurance companies use online patient education to inform patients about coverage policies. 
+
+Online patient education is gaining popularity as home Internet access becomes more common and medical practices increasingly utilize digital technologies.&lt;ref&gt;Issues in patient education Journal of Midwifery &amp; Women's Health, Volume 49, Issue 3, Pages 203-209&lt;/ref&gt;&lt;ref&gt;Computers in Patient Education. Comput Inform Nurs 21(2):88-96, 2003&lt;/ref&gt; Patients either view online patient education programs and materials in a medical office or from their homes or other remote locations with Internet access. Content may include interactive features such as quizzes, live question and answer sessions (in moderated web seminars), and the ability to complete and submit forms.
+
+==Patient education by type==
+
+===On location===
+Any education delivered verbally by a healthcare provider to a single patient or group of patients can be considered as On Location patient education. Although this is still the most commonly used patient education method it is time consuming, can have consistency problems, and relies heavily on the individual patient ability to absorb, understand, and retain the verbal information.
+
+===Paper based===
+The second most common method. Any information brochure at a healthcare provider office falls under this category. The benefits of printed materials is that patients can refer back to the information
+
+===Web based===
+Patient education that is made available by a healthcare provider via his/her website, specific portal, or EHR. Web based education can be provided in an [[Asynchronous learning|Asynchronous]] and [[Synchronous learning|Synchronous]] styles.
+
+==Advantages==
+Educating patients with online technology can be advantageous&lt;ref&gt;Online patient education: A superior alternative to in-person information seminars Surgery for Obesity and Related Diseases, Volume 5, Issue 3, Pages S44-S45&lt;/ref&gt; for both medical practices and patients because it gives health care providers the opportunity to create comprehensive educational materials that are consistently presented, rather than relying on face-to-face meetings in which information is presented by a staff member.&lt;ref&gt;Patients Postoperatively Forget Aspects of Preoperative Patient Education. Obesity Surgery, 15, 2005 1066-1069&lt;/ref&gt; Patients need not possess advanced computer/web skills to use this method of learning. A survey of 3200 patients revealed that even patients who are not computer literate are satisfied with online patient education as means of learning about medical care.
+
+==Applications==
+{{Empty section|date=June 2011}}
+
+== References ==
+&lt;!--- See [[Wikipedia:Footnotes]] on how to create references using &lt;ref&gt;&lt;/ref&gt; tags which will then appear here automatically --&gt;
+{{Reflist}}
+
+== External links ==
+* [http://www.onlinepatienteducation.com/ Online Patient Education]
+* [http://www.info-surge.com/ A sample solution]
+* [http://participatorymedicine.org/ Society for Participatory Medicine]
+
+{{Telemedicine navbox}}
+
+[[Category:Health education]]
+[[Category:Telehealth]]
+[[Category:Telemedicine]]
+[[Category:Electronic health records]]</text>
+      <sha1>q8k9futac1qntwx10st2btazf0m056s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pharmacoeconomics</title>
+    <ns>0</ns>
+    <id>6989424</id>
+    <revision>
+      <id>858719607</id>
+      <parentid>843534443</parentid>
+      <timestamp>2018-09-09T04:47:29Z</timestamp>
+      <contributor>
+        <username>Somej</username>
+        <id>386329</id>
+      </contributor>
+      <comment>/* See also */  * [[Health Technology Assessment]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3755">{{other uses|PharmacoEconomics (journal)}}
+{{Multiple issues|
+{{confusing|date=October 2011}}
+{{citation style|date=October 2011}}
+}}
+
+'''Pharmacoeconomics''' refers to the scientific discipline that compares the value of one pharmaceutical drug or drug therapy to another.&lt;ref&gt;{{cite journal|last=Mueller|first=C|author2=Shur, C. |author3=O'Connell, J. |title=Prescription Drug Spending: The Impact of Age and Chronic Disease Status.|journal=American Journal of Public Health|year=1997|volume=87|issue=10|pages=1626–29|doi=10.2105/ajph.87.10.1626|pmc=1381124}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|doi=10.2165/11537580-000000000-00000|pmid=20513161|pages=609–613|title=Time for Cooperation in Health Economics among the Modelling Community|journal=PharmacoEconomics|volume=28|issue=8|year=2010|last1=Arnold|first1=Renée J.G.|last2=Ekins|first2=Sean}}&lt;/ref&gt; It is a sub-discipline of [[health economics]]. A pharmacoeconomic study evaluates the cost (expressed in monetary terms) and effects (expressed in terms of monetary value, efficacy or enhanced [[quality of life]]) of a pharmaceutical product. Pharmacoeconomic studies serve to guide optimal healthcare resource allocation, in a standardized and scientifically grounded manner.
+
+== Economic evaluation ==
+Pharmacoeconomics centers on the [[economic evaluation]] of [[Pharmaceutical drug|pharmaceuticals]], and can use [[cost-minimization analysis]], [[cost-benefit analysis]], [[cost-effectiveness analysis]] or [[cost-utility analysis]]. [[Quality-adjusted life year]]s have become the dominant outcome of interest in pharmacoeconomic evaluations, and many studies employ a cost-per-QALY analysis. Economic evaluations are carried out alongside [[randomized controlled trial]]s and using methods of decision-analytic modeling. Pharmacoeconomics is a useful method of economic evaluation of various treatment options. As more expensive drugs are being developed and licensed it has become imperative especially in context of developing countries where resources are scarce to apply the principles of pharmacoeconomics for various drugs and treatment options so that maximum improvement in quality of life can be achieved in minimum cost.&lt;ref&gt;Deepak Bhosle, Asif sayyed*, Shaikh Huzaif, Alimuddin Shaikh, Vasundhara Bhople, Ayman Ali Khan.PHARMACOECONOMICS IN INDIAN CONTEXT. International journal of current pharmceutical and clinical research vol 7 issue 1 -2017 11-14 http://ijcpcr.com/download.php?id=262&amp;f=1482469439(ijcpcr).pdf&lt;/ref&gt;
+
+== In policy ==
+In 1993, [[Australia]] became the first nation to use pharmacoeconomic analysis as part of the process for deciding whether new drugs should be subsidized by the [[Federation of Australia|Federal Government]]. The [[Pharmaceutical Benefits Advisory Committee]] (PBAC) advises Federal Government ministers on whether new drugs should be placed on a list for of drugs that consumers can then purchase from pharmacies at a subsidized price. Since 1993, this approach to evaluating costs and benefits is used in Canada, Finland, New Zealand, Norway, Sweden, and the UK.
+
+== See also ==
+* [[Cost-effectiveness analysis]]
+* [[Cost-utility analysis]]
+* [[Health economics]]
+* [[Health technology assessment|Health Technology Assessment]]
+* [[List of pharmaceutical companies]]
+* [[PharmacoEconomics (journal)]]
+* [[Quality-adjusted life year]]
+
+== References ==
+{{Reflist|30em}}
+* {{cite book|last1=Rascati|first1=Karen|title= Essentials of Pharmacoeconomics|date=2013|publisher=Wolters/Kluwer – Lippincott Williams &amp; Wilkins|location=Philadelphia|isbn= 978-1-4511-7593-6}}
+
+==External links==
+* [http://www.ispor.org/ International Society For Pharmacoeconomics and Outcomes Research]
+
+[[Category:Health economics]]
+[[Category:Pharmaceutical industry]]</text>
+      <sha1>mj4som5jqxhvqttgw9ru1tjlytd1vgd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shenkui</title>
+    <ns>0</ns>
+    <id>41700249</id>
+    <revision>
+      <id>863675659</id>
+      <parentid>863628992</parentid>
+      <timestamp>2018-10-12T08:17:42Z</timestamp>
+      <contributor>
+        <username>JJMC89</username>
+        <id>24812038</id>
+      </contributor>
+      <minor/>
+      <comment>Orphaning prior to deletion per [[Wikipedia:Templates for discussion/Log/2018 April 7#Template:Incomplete|TfD]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6987">{{Italic title}}
+{{More citations needed|date=February 2015}}
+{{Infobox medical condition (new)
+| name            =  Shenkui
+| synonym         = 
+| image           = 
+| width           = 
+| alt             = 
+| caption         = 
+| pronounce       = shen-kʼuei
+| field           = &lt;!-- from Wikidata, can be overwritten --&gt;
+| symptoms        =
+| onset           =
+| duration        =
+| causes          =
+| risks           =
+| diagnosis       =
+| differential    =
+| prevention      =
+| treatment       =
+| medication      =
+| frequency       =
+| deaths          =
+}}
+
+'''''Shenkui''''' is a [[culture bound syndrome]] native to [[China]] in which the individual suffers somatic symptoms with anxiety, believed to be caused by a loss of semen.&lt;ref&gt;[http://www.bookrags.com/tandf/culture-bound-syndromes-tf/ ]{{dead link|date=February 2015}}&lt;/ref&gt;&lt;ref name="Wen Wang 1981"/&gt; And in [[Traditional Chinese Medicine]], shen (kidney) is the reservoir of vital essence in semen ([[Jing (Chinese medicine)|ching]]) and k’uei signifies deficiency.&lt;ref name="Wen Wang 1981"/&gt; In [[simplified Chinese]] it is called 肾亏, [[Traditional Chinese]] 腎虧, and in [[pinyin]] Shènkuī.
+
+Shenkui or shen-k'uei is one of several Chinese culture-bound syndromes locally ascribed to loss (or fear of loss) of [[Yin and yang|Yang]] ([[Chinese language|Chinese]]: 陽). In [[Traditional Chinese Medicine]], Shenkui is believed to result from a deficiency in yang, obtained through the loss of semen. Semen is believed to be "lost" through excessive sexual activity or masturbation, [[nocturnal emission]]s, "white urine" which is believed to [[spermaturia|contain semen]], or other mechanisms. Symptoms within the Chinese diagnostic system include dizziness, backache, tiredness, weakness, insomnia, frequent dreams, and complaints of sexual dysfunction (such as premature ejaculation or impotence). From an [[ethnopsychiatric]] perspective, additional symptoms are preoccupation with sexual performance, potential semen loss, and bodily complaints which may be taken as symptoms of lost yang.&lt;ref&gt;{{cite web |url=http://homepage.mac.com/mccajor/cbs_smn.html |archive-url=https://web.archive.org/web/20061231185015/http://homepage.mac.com/mccajor/cbs_smn.html |dead-url=yes |archive-date=December 31, 2006 |accessdate=January 21, 2014 |df= }}&lt;/ref&gt;
+
+Losing semen reduces Yang, causing an unbalance in the body. Nocturnal emissions, too much intercourse, and masturbation resulting in ejaculation lower the levels of semen, causing loss of Yang. Somatic symptoms may include body soreness, aches, lack of energy, fatigue, and possibly problems in sexual performance.&lt;ref&gt;{{cite web|last=Goleman |first=Daniel |url=https://www.nytimes.com/1995/12/05/science/making-room-on-the-couch-for-culture.html?sec=health&amp;spon=&amp;pagewanted=all |title=Making Room on the Couch for Culture |publisher=NYTimes.com |date=1995-12-05 |accessdate=2015-02-21}}&lt;/ref&gt;
+
+A person suffering form Shenkui may endure body aches, dizziness, tiredness, inability to sleep, and sexual dysfunction, all for which no physical cause can explain.&lt;ref&gt;{{cite web|url=http://listverse.com/2009/08/21/top-10-bizarre-cultural-disorders/ |title=Top 10 Bizarre Cultural Disorders |publisher=Listverse |date= |accessdate=2015-02-21}}&lt;/ref&gt;
+
+The passing of semen too often is avoided  because it is believed to be crucial to a person’s health and safety. It is believed to be life-threatening if too much semen is lost.&lt;ref name="quizletiv"&gt;{{cite web|url=http://quizlet.com/2122697/culture-bound-syndromes-in-the-dsm-iv-tr-flash-cards/ |title=Culture-Bound Syndromes in the DSM-IV-TR flashcards |publisher=Quizlet |date= |accessdate=2015-02-21}}&lt;/ref&gt;{{Better source|reason=Please don't cite someone's flashcards. Quizlet is not a reliable source by any metric.|date=November 2015}}
+
+"Chinese martial artists that remained celibate through years and years of extensive training were believed to be most powerful, therefore maintaining the power of one’s vital essence."&lt;ref name="quizletiv"/&gt;{{Better source|reason=Please don't cite someone's flashcards. Quizlet is not a reliable source by any metric.|date=November 2015}}
+
+==Signs and symptoms==
+Symptoms include:&lt;ref name="Wen Wang 1981"&gt;Wen Jung-Kwang, Wang Ching-Lun. Shen-k'uei syndrome: a culture-specific sexual neurosis in Taiwan. In: Kleinman A, Lin Tsung-yi, eds. Normal and abnormal behavior in Chinese cultures. Dordrecht, Reidel, 1981: 357- 369.&lt;/ref&gt;
+* Dizziness
+* Backache
+* Tiredness
+* Weakness
+* Insomnia
+* Frequent dreams
+* Sexual dysfunctions; premature ejaculation or impotence.
+
+==Origin==
+Chinese folk beliefs hold that the [[Yin and yang|Yin]] ([[Chinese language|Chinese]]: 陰) represents femininity, slow, cold, wet, passive, water, the moon, and nighttime. And that Yang represents masculinity, fast, dry, hot, aggressive, fire, the sun, and daytime.&lt;ref&gt;{{cite web|url=http://www.webspawner.com/users/pakli/crossculturalco.html |accessdate=January 21, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20120805130214/http://www.webspawner.com/users/pakli/crossculturalco.html |archivedate=August 5, 2012 }}&lt;/ref&gt;
+
+Loss of yang would result in an abundance of Yin. It is also believed that if a case of Shenkui is severe enough, it could result in death. 
+Informal or incomplete education about [[sexual health]] in China leaves a lot of room for folk beliefs to thrive. Often, advertisements support such beliefs to encourage use of traditional medicines. In Chinese folk beliefs, the loss of semen can cause imbalance in the body, leaving you with aches and pains and trouble performing.&lt;ref&gt;{{Cite journal|jstor=412460 |title= From Yang and Yin to and or but |author1= Charles E. Osgood |author2= Meredith Martin Richards |work= Language |volume=49 |date= June 1973 |pages=380–412 |publisher= [[Linguistic Society of America]] |doi=10.2307/412460 }}&lt;/ref&gt;
+
+==Treatment==
+Specific treatments are not mentioned. The affected person may go to a medical clinic that specializes in sexual health. If no medical problems are found, therapy may be used to help deal with stress, or anxiety medicines may be used.
+
+Disorders, who they affect, and how they affect are different within each culture. In order to diagnose someone, it is necessary to make the effort to understand their home culture. Whether it is a culture bound syndrome or not, a person’s background determines how they see and interpret their own symptoms and how it must be treated.&lt;ref&gt;{{cite news|last=Goleman |first=Daniel |url=https://www.nytimes.com/1995/12/05/science/making-room-on-the-couch-for-culture.html?sec=health&amp;spon=&amp;pagewanted=all |title=Making Room on the Couch for Culture |publisher=NYTimes.com |date=1995-12-05 |accessdate=2015-02-21}}&lt;/ref&gt;
+
+==See also==
+*[[Cross-cultural psychiatry]]
+*[[Koro (medicine)|Koro]]
+*[[Dhat syndrome]]
+
+==References==
+{{Reflist}}
+
+[[Category:Culture-bound syndromes]]
+[[Category:Traditional Chinese medicine]]
+[[Category:Sexual health]]</text>
+      <sha1>2p9ydasank6tj4uwcdas4w6uee1thms</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Short-arm inspection</title>
+    <ns>0</ns>
+    <id>25627238</id>
+    <revision>
+      <id>796383701</id>
+      <parentid>796313571</parentid>
+      <timestamp>2017-08-20T13:27:23Z</timestamp>
+      <contributor>
+        <username>DragonflySixtyseven</username>
+        <id>62058</id>
+      </contributor>
+      <comment>probably true, but we'll need proof</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2356">[[File:Recruit's Progress- Medical Inspection Art.IWMARTLD2909.jpg|thumb|right|Painting by [[Carel Weight]] of British Army recruits undergoing medical inspection, 1942 ([[Imperial War Museum]] art collection)]]
+The term "'''short-arm inspection'''" is a [[military]] [[euphemism]] referring to the routine medical inspection of male soldiers' [[penis]]es ("short arms") for signs of [[sexually-transmitted disease]]s and other medical problems.&lt;ref&gt;[http://www.merriam-webster.com/dictionary/short%20arm%20inspection merriam-webster.com]&lt;/ref&gt;
+
+The precise origin of the term is uncertain; however, American&lt;ref name=Evans&gt;{{cite book|last1=Evans|first1=Martin Marix|title=American Voices of World War I: Primary Source Documents, 1917-1920|date=2014|publisher=Routledge|isbn=1135969787|pages=11–12|url=https://books.google.com/books?id=I8K2AgAAQBAJ&amp;dq=short+arm+inspection+wwi&amp;source=gbs_navlinks_s|accessdate=17 September 2014}}&lt;/ref&gt; and [[Australian]] troops are known to have used the term during the [[First World War]].&lt;ref&gt;[https://web.archive.org/web/20070522093343/http://www.anu.edu.au/andc/res/aus_words/wwi/S.php  Glossary of WWI slang: S], at the Australian National Dictionary Centre (via [[archive.org]]); version archived May 22, 2007&lt;/ref&gt;
+
+==Examples==
+The practice within the [[Imperial Japanese Army]] during World War 2 was described by an anonymous American soldier, who had been forced to work as a truck driver while held as a prisoner of war, and who came into daily close contact with Japanese soldiers.&lt;ref&gt;{{cite journal | url=https://archive.org/stream/1945-01IntelligenceBulletinVol03No05#page/n1/mode/2up | title=The Japanese G.I. | journal=Intelligence Bulletin |date=January 1945  | volume=III | issue=5 | pages=9 |publisher=Military Intelligence Service, War Department}}&lt;/ref&gt;
+
+{{quote|When a Jap G.I. turns in with a venereal disease, he gets a good beating and loses what few privileges have been allowed to him. For this reason, they go to civilian doctors or to drug stores, and try to doctor themselves. Many of them are infected. Short-arm inspection is held only on rare occasions. In fact, there was only one such inspection during the time I was a prisoner.|American, former prisoner of war (1945)}}
+
+==References==
+&lt;references/&gt;
+
+[[Category:Euphemisms]]
+[[Category:Military life]]
+[[Category:Sexual health]]</text>
+      <sha1>pmpx5xo4kwv77g9fa5vr2ufkouxgkcf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Therac-25</title>
+    <ns>0</ns>
+    <id>315212</id>
+    <revision>
+      <id>870804609</id>
+      <parentid>870804228</parentid>
+      <timestamp>2018-11-27T03:03:12Z</timestamp>
+      <contributor>
+        <ip>124.106.56.217</ip>
+      </contributor>
+      <comment>/* Design */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10167">The '''Therac-25''' was a computer-controlled [[radiation therapy]] machine produced by [[Atomic Energy of Canada Limited]] (AECL) in 1982 after the Therac-6 and Therac-20 units (the earlier units had been produced in partnership with [[Compagnie General Radiographique|CGR]] of [[France]]).
+
+It was involved in at least six accidents between 1985 and 1987, in which patients were given massive [[radiation poisoning|overdoses of radiation]].&lt;ref name="baase"&gt;{{cite book|last1=Baase|first1=Sara|date=2008|title=A Gift of Fire|publisher=Pearson Prentice Hall}}&lt;/ref&gt;{{rp|425}} Because of [[race condition|concurrent programming errors]], it sometimes gave its patients radiation doses that were hundreds of times greater than normal, resulting in death or serious injury.&lt;ref name="Raj"&gt;{{cite journal|url=http://www.cs.umd.edu/class/spring2003/cmsc838p/Misc/therac.pdf |last1=Leveson |first1=Nancy G. |last2=Turner |first2=Clark S.|date=July 1993|title=An Investigation of the Therac-25 Accidents|work=IEEE Computer|volume=26|number=7|pages=18–41}}&lt;/ref&gt; These accidents highlighted the dangers of software [[control system|control]] of safety-critical systems, and they have become a standard case study in [[health informatics]] and [[software engineering]].  Additionally the overconfidence of the engineers&lt;ref name="baase"/&gt;{{rp|428}} and lack of proper [[due diligence]] to resolve reported [[software bugs]], is highlighted as an extreme case where the engineers' overconfidence in their initial work and failure to believe the end users' claims caused drastic repercussions.
+
+== Design ==
+
+The Machine offered two modes of [[radiation therapy]]:&lt;ref name="Safeware"&gt;{{cite web|last1=Levenson|first1=Nancy|title=Safeware: System Safety and Computers. Appendix A: Medical Devices: The Therac-25|url=http://sunnyday.mit.edu/papers/therac.pdf|publisher=Addison-Wesley|date=1995}}&lt;/ref&gt;
+* Direct [[Electron therapy|electron-beam therapy]], in which a narrow low-current beam of high-energy (5 [[Electronvolt|MeV]] to 25 MeV) electrons was scanned over the treatment area by magnets;
+* [[Megavoltage X-rays|Megavolt X-ray]] (or Photon) therapy, which delivered a fixed wide beam of [[X-ray]]s, produced by colliding a narrow 100-times higher current beam of 25 MeV electrons with a target, then passing the emitted X-rays through both a flattening filter and a [[collimator]].
+
+It also included a "Field light" mode, which allowed the patient to be correctly positioned by illuminating the treatment area with visible light.
+
+== Problem description ==
+
+The six documented accidents occurred when the high-current electron beam generated in X-ray mode was delivered directly to patients. Two software faults were to blame:&lt;ref name="Safeware" /&gt; One, when the operator incorrectly selected X-ray mode before quickly changing to electron mode, allowed the electron beam to be set for X-ray mode without the X-ray target being in place. A second fault allowed the electron beam to activate during field-light mode, during which no beam scanner was active or target was in place.
+
+Previous models had hardware interlocks to prevent such faults, but the Therac-25 had removed them, depending instead on software checks for safety.
+
+The high-current electron beam struck the patients with approximately 100 times the intended dose of radiation, and over a narrower area, delivering a potentially lethal dose of [[beta radiation]]. The feeling was described by patient Ray Cox as "an intense electric shock", causing him to scream and run out of the treatment room.&lt;ref name=Phasers_On_Stun_pp11-16&gt;{{cite book|last1=Casey|first1=Steven|title=Set Phasers On Stun - Design and Human Error|publisher=Aegean Publishing Company|pages=11–16}}&lt;/ref&gt; Several days later, [[radiation burn]]s appeared, and the patients showed the symptoms of [[radiation poisoning]]; in three cases, the injured patients later died as a result of the overdose.&lt;ref&gt;{{cite web|last1=Rose|first1=Barbara Wade|title=Fatal Dose - Radiation Deaths linked to AECL Computer Errors|url=http://www.ccnr.org/fatal_dose.html|website=www.ccnr.org|accessdate=14 June 2016}}&lt;/ref&gt;
+
+== Root causes ==
+
+A commission concluded that the primary reason should be attributed to the bad software design and development practices, and not explicitly to several coding errors that were found. In particular, the software was designed so that it was realistically impossible to test it in a clean [[automated testing|automated]] way.&lt;ref name="Leveson"&gt;{{cite news|url=http://sunnyday.mit.edu/papers/therac.pdf |title=Medical Devices: The Therac-25 Accidents |author= [[Nancy G. Leveson|Leveson, Nancy]], University of Washington |work=Safeware: System Safety, and Computers|publisher=Addison-Wesley|date=1995|edition=Update of the 1993 IEEE Computer article}}&lt;/ref&gt;
+
+Researchers who investigated the accidents found several contributing causes. These included the following institutional causes:
+
+* AECL did not have the software code independently [[code review|reviewed]].
+* AECL did not consider the design of the software during its assessment of how the machine might produce the desired results and what failure modes existed. These form parts of the general techniques known as [[reliability modeling]] and [[risk management]].
+* The system noticed that something was wrong and halted the X-ray beam, but merely displayed the word "MALFUNCTION" followed by a number from 1 to 64. The user manual did not explain or even address the error codes, so the operator pressed the P key to override the warning and proceed anyway.
+* AECL personnel, as well as machine operators, initially did not believe complaints. This was likely due to overconfidence.&lt;ref name="baase"/&gt;{{rp|428}}
+* AECL had never tested the Therac-25 with the combination of software and hardware until it was assembled at the hospital.
+
+The researchers also found several [[engineering]] issues:
+
+* The failure occurred only when a particular nonstandard sequence of keystrokes was entered on the [[VT-100]] terminal which controlled the [[PDP-11]] computer: an "X" to (erroneously) select 25&amp;nbsp;MeV photon mode followed by "cursor up", "E" to (correctly) select 25 MeV Electron mode, then "Enter", all within eight seconds.&lt;ref name="Leveson" /&gt; This sequence of keystrokes was improbable, and so the problem did not occur often and went unnoticed for a long time.&lt;ref name="Phasers_On_Stun_pp11-16"/&gt;
+* The design did not have any hardware [[Interlock (engineering)|interlocks]] to prevent the electron-beam from operating in its high-energy mode without the target in place.
+* The engineer had [[code reuse|reused]] software from older models. Such methods manifest in so called [[cargo cult programming]] where there is blind reliance on previously created code that is poorly understood and may or may not be applicable. These models had hardware interlocks that masked their software defects. Those hardware safeties had no way of reporting that they had been triggered, so there was no indication of the existence of faulty software commands.
+* The hardware provided no way for the software to verify that sensors were working correctly (see ''[[open-loop controller]]''). The table-position system was the first implicated in Therac-25's failures; the manufacturer revised it with redundant switches to cross-check their operation.
+* The equipment control [[process (computing)|task]] did not properly [[Mutual exclusion|synchronize]] with the operator interface task, so that [[race condition]]s occurred if the operator changed the setup too quickly. This was missed during testing, since it took some practice before operators were able to work quickly enough to trigger this [[failure mode]].
+* The software set a [[flag (computing)|flag variable]] by incrementing it, rather than by setting it to a fixed non-zero value. Occasionally an [[arithmetic overflow]] occurred, causing the flag to return to zero and the software to bypass safety checks.
+
+The software was written in [[assembly language]] that might require more attention for testing and good design. However the choice of language by itself is not listed as a primary cause in the report. The machine also used its own operating system.
+
+Leveson notes that a lesson to be drawn from the incident is to not assume that reused software is safe: 
+"A naive assumption is often made that reusing software or using commercial off-the-shelf software will increase safety because the software will have been exercised extensively. Reusing software modules does not guarantee safety in the new system to which they are transferred..."&lt;ref name="Leveson" /&gt; This blind faith in poorly understood software coded paradigms is known as cargo cult programming. In response to incidents like those associated with Therac-25, the [[IEC 62304]] standard was created, which introduces development life cycle standards for medical device software and specific guidance on using [[software of unknown pedigree]].&lt;ref name="mddi"&gt;{{cite journal |url=http://www.mddionline.com/article/developing-medical-device-software-iec-62304 |title=Developing Medical Device Software to IEC 62304 |last=Hall |first=Ken |work=MDDI - Medical Device and Diagnostic Industry |date=June 1, 2010 |accessdate=2016-12-12}}&lt;/ref&gt;
+
+== See also ==
+* [[IEC 62304]]
+* [[Ionizing radiation]]
+* [[List of civilian radiation accidents]]
+* [[Nuclear and radiation accidents]]
+* [[Radiation protection]]
+
+== Notes ==
+
+{{reflist|30em}}
+
+== Further reading ==
+* {{cite book|author=Gallagher, Troy|url=http://neptune.netcomp.monash.edu.au/cpe9001/assets/readings/www_uguelph_ca_~tgallagh_~tgallagh.html|title=THERAC-25 Computerized Radiation Therapy|deadurl=yes|archiveurl=https://web.archive.org/web/20071212183729/http://neptune.netcomp.monash.edu.au/cpe9001/assets/readings/www_uguelph_ca_~tgallagh_~tgallagh.html|archivedate=2007-12-12|df=}} (short summary of the Therac-25 Accidents)
+
+{{Nuclear Technology}}
+
+[[Category:Software bugs]]
+[[Category:Health disasters]]
+[[Category:Nuclear medicine]]
+[[Category:Health disasters in Canada]]
+[[Category:Engineering failures]]
+[[Category:Radiation accidents and incidents]]</text>
+      <sha1>or1zomcjf2nfz7xe6wzt0ofmgadtar0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wireless electronic devices and health</title>
+    <ns>0</ns>
+    <id>2605490</id>
+    <revision>
+      <id>870465980</id>
+      <parentid>865744756</parentid>
+      <timestamp>2018-11-25T00:40:00Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <minor/>
+      <comment>Alter: template type, issue. Add: newspaper, citeseerx, website. Removed parameters. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12622">{{Hatnote|For mobile phones, see [[Mobile phone radiation and health]].}}
+{{Antennas|safety/regulation}}
+
+The [[World Health Organization]] (WHO) has researched [[electromagnetic field]]s (EMFs) and their alleged  effects on public health, concluding that such exposures within recommended limits  do not produce any known adverse health effect.&lt;ref&gt;{{Cite web|url= http://www.who.int/peh-emf/en/|title= Electromagnetic fields (EMF)|accessdate=2008-01-22|date= |website= |language= |publisher= [[World Health Organization]]}} “Electromagnetic fields of all frequencies represent one of the most common and fastest growing environmental influences, about which anxiety and speculation are spreading. All populations are now exposed to varying degrees of EMF, and the levels will continue to increase as technology advances.”&lt;/ref&gt;&lt;ref name="auto"&gt;{{Cite web|url= http://www.who.int/peh-emf/research/en/|title= WHO EMF Research|accessdate=2012-03-27|date= |website= |publisher= [[World Health Organization]]}}&lt;/ref&gt;
+
+In response to public concern, the WHO established the ''International EMF Project'' in 1996 to assess the scientific evidence of possible health effects of EMF in the frequency range from 0 to 300&amp;nbsp;GHz. They have stated that although extensive research has been conducted into possible health effects of exposure to many parts of the frequency spectrum, all reviews conducted so far have indicated that, as long as exposures are below the limits recommended in the [[International Commission on Non-Ionizing Radiation Protection|ICNIRP]] (1998) EMF guidelines, which cover the full frequency range from 0–300&amp;nbsp;GHz, such exposures do not produce any known adverse health effect.&lt;ref name="auto"/&gt; Stronger or more frequent exposures to EMF can be unhealthy, and in fact serve as the basis for [[Directed-energy weapon|electromagnetic weapon]]ry.
+
+International guidelines on exposure levels to [[microwave]] frequency EMFs such as ICNIRP limit the power levels of wireless devices and it is uncommon for wireless devices to exceed the guidelines. These guidelines only take into account thermal effects, as nonthermal effects have not been conclusively demonstrated.&lt;ref&gt;{{Cite book|last= Levitt|first= B. Blake|authorlink= |title= Electromagnetic Fields : a consumer's guide to the issues and how to protect ourselves|publisher = [[Harcourt (publisher)|Harcourt Brace]]|year= 1995|location= San Diego|pages = 29–38|isbn= 978-0-15-628100-3|oclc= 32199261}}&lt;/ref&gt; The official stance of the British [[Health Protection Agency]] is that “[T]here is no consistent evidence to date that WiFi and WLANs adversely affect the health of the general population”, but also that “...it is a sensible precautionary approach...to keep the situation under ongoing review...”.&lt;ref name="HPAWiFi"&gt;{{Cite web|url= http://www.hpa.org.uk/webw/HPAweb&amp;Page&amp;HPAwebAutoListName/Page/1199451940308|title= WiFi Summary|accessdate=2010-01-09|date= |website= |language= |publisher= [[Health Protection Agency]]}}&lt;/ref&gt;
+
+In 2011, [[International Agency for Research on Cancer|International Agency for Research on Cancer (IARC)]], an agency of the [[World Health Organization]], classified wireless radiation as [[List of IARC Group 2B carcinogens|Group 2B]]&amp;nbsp;– possibly carcinogenic. That means that there "could be some risk" of carcinogenicity, so additional research into the long-term, heavy use of wireless devices needs to be conducted.&lt;ref name="WHO_IARC_110531"&gt;{{cite press release|url= http://www.iarc.fr/en/media-centre/pr/2011/pdfs/pr208_E.pdf |format= PDF|title= IARC classifies radiofrequency electromagnetic fields as possibly carcinogenic to humans|work= [[World Health Organization]] press release N° 208|publisher= [[International Agency for Research on Cancer]]|date= 2011-05-31|accessdate= 2011-06-02}}&lt;/ref&gt;
+
+==Exposure difference to mobile phones==
+{{Main|Mobile phone radiation and health}}
+Users of wireless devices are typically exposed for much longer periods than for [[mobile phone]]s and the strength of wireless devices is not significantly less.  Whereas a [[UMTS|Universal Mobile Telecommunications System (UMTS)]] mobile phone can range from 21 [[dBm]] (125&amp;nbsp;mW) for Power Class 4 to 33 [[dBm]] (2W) for Power class 1, a [[wireless router]] can range from a typical 15 [[dBm]] (30&amp;nbsp;mW) strength to 27 [[dBm]] (500&amp;nbsp;mW) on the high end.&lt;ref&gt;[[dBm]]&lt;/ref&gt;
+
+However, wireless routers are typically located significantly farther away from users' heads than a mobile phone the user is handling, resulting in far less exposure overall.  The [[Health Protection Agency]] (HPA) says that if a person spends one year in a location with a Wi-Fi hotspot, they will receive the same dose of radio waves as if they had made a 20-minute call on a mobile phone.&lt;ref&gt;{{Cite news|title= Wi-fi health fears are 'unproven'|url= http://news.bbc.co.uk/1/hi/technology/6676129.stm|work= [[BBC News]]|publisher= [[BBC]]|date= 2007-05-21|accessdate=2008-01-22}}&lt;/ref&gt;
+
+The HPA also says that due to the mobile phone's adaptive power ability, a DECT cordless phone's radiation could actually exceed the radiation of a mobile phone.  The HPA explains that while the DECT cordless phone's radiation has an average output power of 10&amp;nbsp;mW, it is actually in the form of 100 bursts per second of 250&amp;nbsp;mW, a strength comparable to some mobile phones.&lt;ref&gt;http://www.hpa.org.uk/Topics/Radiation/UnderstandingRadiation/InformationSheets/info_CordlessTelephones/&lt;/ref&gt;
+
+==Wireless LAN==
+Most [[wireless LAN]] equipment is designed to work within predefined standards. Wireless access points are also often close to humans, but the drop off in power over distance is fast, following the [[inverse-square law]].&lt;ref name="Foster2007"&gt;{{Cite journal|last= Foster|first= Kenneth R|title= Radiofrequency exposure from wireless LANs utilizing Wi-Fi technology|date=March 2007|journal= Health Physics|volume= 92|issue= 3|pages= 280–289|doi= 10.1097/01.HP.0000248117.74843.34|pmid= 17293700}}&lt;/ref&gt;  However, wireless laptops are typically used close to humans.  [[WiFi]] had been anecdotally linked to [[electromagnetic hypersensitivity]]&lt;ref&gt;{{cite news| url=http://www.cbc.ca/canada/toronto/story/2010/08/15/ontario-wifi.html | work=CBC News | title=Ont. parents suspect Wi-Fi making kids sick | date=2010-08-16}}&lt;/ref&gt; but research into electromagnetic hypersensitivity has found no systematic evidence supporting claims made by sufferers.&lt;ref&gt;{{Cite journal|title = Electromagnetic Hypersensitivity: A Systematic Review of Provocation Studies|url = http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&amp;an=00006842-200503000-00010|journal = Psychosomatic Medicine|pages = 224–232|volume = 67|issue = 2|doi = 10.1097/01.psy.0000155664.13300.64|first = G James|last = Rubin|first2 = Jayati Das|last2 = Munshi|first3 = Simon|last3 = Wessely|pmid=15784787|year=2005|citeseerx = 10.1.1.543.1328}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|title = Radiofrequency electromagnetic field exposure and non-specific symptoms of ill health: A systematic review|url = http://www.sciencedirect.com/science/article/pii/S0013935108000601|journal = Environmental Research|date = 2008-06-01|pages = 277–287|volume = 107|issue = 2|doi = 10.1016/j.envres.2008.02.003|first = Martin|last = Röösli|pmid=18359015}}&lt;/ref&gt;
+
+The [[Health Protection Agency|HPA's]] position is that “...radio frequency (RF) exposures from WiFi are likely to be lower than those from [[mobile phone]]s.” It also saw “...no reason why schools and others should not use WiFi equipment.”&lt;ref name="HPAWiFi"/&gt; In October 2007, the HPA launched a new “systematic” study into the effects of WiFi networks on behalf of the UK government, in order to calm fears that had appeared in the media in a recent period up to that time".&lt;ref name="HPAWiFiStudy"&gt;{{Cite web|url= http://www.hpa.org.uk/webw/HPAweb&amp;HPAwebStandard/HPAweb_C/1195733726123?p=1171991026241|title= Health Protection Agency announces further research into use of WiFi|accessdate=2008-08-28|date= |website= |language= |publisher= [[Health Protection Agency]]}}&lt;/ref&gt; Dr Michael Clark, of the HPA, says published research on [[mobile phones]] and [[radio masts and towers|masts]] does not add up to an indictment of WiFi.&lt;ref&gt;{{cite news|url=http://www.thetimes.co.uk/tto/health/article1789149.ece|title=Wi-fi: should we be worried?|author=Nicki Daniels|newspaper=The Times|date=11 December 2006|accessdate=26 May 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Bioinitiative Report|url=http://www.bioinitiative.org/|accessdate=5 October 2013}}&lt;/ref&gt;
+
+==Other devices==
+[[Radio frequency]] in the microwave and radio spectrum is used in a number of practical devices for professional and home use, such as:
+* [[Digital Enhanced Cordless Telecommunications|DECT]] and other [[cordless telephone|cordless phones]] operating at a wide  range of frequencies
+* [[Remote control]] devices for opening gates, etc.
+* Portable two-way [[radio]] communication devices, such as [[walkie-talkies]], etc.
+* Wireless [[security]] (alarm) systems
+* Wireless security [[video cameras]]
+* Radio links between buildings for [[data communication]]
+* [[Baby monitor]]s
+* [[Smart meter]]s for electric energy
+* [[Bluetooth]] and other personal area network devices - e.g., wireless headphones, smart watches.
+* Implantable medical devices - pacemakers, implanted defibrillators
+
+In addition, electrical and electronic devices of all kinds emit EM fields around their working circuits, generated by [[alternating current|oscillating currents]]. Humans are in daily contact with [[computer]]s, [[computer monitor|video display monitors]], [[television]] screens, [[microwave oven]]s, [[fluorescent lamps]], [[electric motors]] of several kinds (such as [[washing machines]], kitchen appliances [like electric can openers, blenders, and mixers], water pumps, etc.) and many others. A study of bedroom exposure in 2009 showed the highest [[extremely low frequency|ELF]]-EF from bedside lights and the highest ELF-MF from transformer devices, while the highest RF-ELF came from DECT cordless phones and outside cellphone base stations; all exposures were well below [[International Commission on Non-Ionizing Radiation Protection]] (ICNIRP) guideline levels.&lt;ref name="Tomitsch2009"&gt;{{Cite journal|last1= Tomitsch|first1= Johannes|last2= Dechant|first2= Engelbert|last3= Frank|first3= Wilhelm|title= Survey of electromagnetic field exposure in bedrooms of residences in lower Austria|date= 2009-09-24|journal= Bioelectromagnetics|issue= 3|doi= 10.1002/bem.20548 |pmid= 19780092|volume=31|pages=200–8}}&lt;/ref&gt;
+
+The highest typical daily exposure, according to a study of 2009, came from cellphone base stations, cellphones and DECT cordless phones, with the highest exposure locations in trains, airports and buses.&lt;ref name="Frei2009"&gt;{{Cite journal|last1= Frei|first1= Patrizia|last2= Mohler|first2= Evelyn|last3= Neubauer|first3= Georg|last4= Theis|first4= Gaston|last5= Bürgi|first5= Alfred|last6= Fröhlich|first6= Jürg|last7= Braun-Fahrländer|first7= Charlotte|last8= Bolte|first8= John|last9= Egger|first9= Matthias|last10= Röösli|first10= Martin|title= Temporal and spatial variability of personal exposure to radio frequency electromagnetic fields|date=August 2009|journal= Environmental Research|volume= 109|issue= 6|pages= 779–785|doi= 10.1016/j.envres.2009.04.015 |pmid= 19476932}}&lt;/ref&gt; The typical background power of electromagnetic fields in the home can vary from zero to 5 milliwatts per meter squared.{{Citation needed|date=April 2008}} Long-term effects of these electromagnetic fields on human and animal health are still unknown.
+
+Some implanted medical devices use radio frequency communication - both to report status, and to allow changing device behavior.  Emissions from wireless electronic devices can interfere with the functioning of these devices, thereby adversely affecting the health of the user.  Users of such implanted devices are usually cautioned to avoid close exposure to other wireless devices.
+
+==See also==
+*[[Electromagnetic radiation and health]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://www.hpa.org.uk/webw/HPAweb&amp;Page&amp;HPAwebAutoListName/Page/1199451940308 WiFi information] at the UK [[Health Protection Agency]]
+*[http://www.bioinitiative.org/ BioInitiative Report] research consortium
+
+{{Radiation}}
+
+{{DEFAULTSORT:Wireless Electronic Devices And Health}}
+[[Category:Bluetooth]]
+[[Category:Wireless]]
+[[Category:Environmental health]]
+[[Category:Public health]]
+[[Category:Radiobiology]]
+[[Category:Radiation health effects]]</text>
+      <sha1>podrldf47ptrsc80507es11hrz7ovkc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Women &amp; Health</title>
+    <ns>0</ns>
+    <id>17792367</id>
+    <revision>
+      <id>859073785</id>
+      <parentid>859073713</parentid>
+      <timestamp>2018-09-11T14:51:06Z</timestamp>
+      <contributor>
+        <username>Hmarif131</username>
+        <id>34627762</id>
+      </contributor>
+      <comment>/* External links */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1920">{{Infobox journal
+| title = Women &amp; Health
+| cover =
+| editor = Ellen B. Gold
+| discipline = [[Women's health]]
+| abbreviation = Women Health
+| publisher = [[Routledge]]
+| country =
+| frequency = 8/year
+| history = 1976-present
+| openaccess =
+| impact = 1.377
+| impact-year = 2015
+| website = http://www.tandfonline.com/action/aboutThisJournal?journalCode=wwah20
+| link1 = http://www.tandfonline.com/toc/wwah20/current
+| link1-name = Online access
+| link2 = http://www.tandfonline.com/loi/wwah20
+| link2-name = Online archive
+| JSTOR =
+| OCLC = 02337206
+| LCCN = 76648355
+| CODEN = WOHEDI
+| ISSN = 0363-0242
+| eISSN = 1541-0331
+}}
+'''''Women &amp; Health''''' is a [[Peer review|peer-reviewed]] [[healthcare journal]] established in 1976. It covers research in the field of [[women's health]]. The [[editor-in-chief]] is Ellen B. Gold ([[University of California, Davis]]).
+
+According to the ''[[Journal Citation Reports]]'', the journal has a 2015 [[impact factor]] of 1.377, ranking it 9th out of 40 journals in the category "Women's Studies" and 86th in the category "Public, Environmental &amp; Occupational Health".&lt;ref name=WoS&gt;{{cite book |year=2016 |chapter=Journals Ranked by Impact: Women's Studies and Public, Environmental &amp; Occupational Health |title=2015 [[Journal Citation Reports]] |publisher=[[Thomson Reuters]] |edition=Social Sciences |series=[[Web of Science]]}}&lt;/ref&gt;
+
+== See also ==
+* [[List of women's studies journals]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{Official website|1=http://www.tandfonline.com/action/aboutThisJournal?journalCode=wwah20}}
+* [http://www.momycenter.com Women's official Site]
+{{DEFAULTSORT:Women and Health}}
+[[Category:English-language journals]]
+[[Category:Healthcare journals]]
+[[Category:Publications established in 1976]]
+[[Category:Taylor &amp; Francis academic journals]]
+[[Category:Women's health]]
+[[Category:Works about midwifery]]
+
+
+{{Womens-journal-stub}}</text>
+      <sha1>0y7hca7gh1abifcsno9ub12vgjujesn</sha1>
+    </revision>
+  </page>
+</mediawiki>
