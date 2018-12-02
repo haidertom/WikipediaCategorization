@@ -1,6 +1,7 @@
 import languageProcess as lp
 import BloomFilter
 from tfidf import TfIdf
+import csv
 
 from baseline import Baseline
 
@@ -24,7 +25,6 @@ class BloomClassify:
 		self.AWdict = {}
 
 		self.TFIDFdict = {}
-
 
 	def get_mfw(self):
 		'''
@@ -155,32 +155,71 @@ class BloomClassify:
 
 		return vali_dict
 
+	def similarity_matrix(self, mfw = 0, tfidf = 1):
+
+		# train with MFW
+		if mfw:
+			TrainDict = self.MFWdict
+
+		# train with tfidf
+		if tfidf:
+			TrainDict = self.TFIDFdict
+
+		file = "../TestResults"+"/BF_similarity_matrix"+str(self.num)+"_"+str(self.art)+".csv"
+
+		with open(file, 'w') as the_file:
+
+			writer = csv.writer(the_file,delimiter = ',')
+
+			description = ["number of most frequent words:", self.num, "number of articles per category:", self.art]
+			writer.writerow(description)
+
+			header = [" "]
+			header.extend(TrainDict.keys())
+			writer.writerow(header)
+
+			for c in TrainDict.keys():
+
+				counter =  []
+				for cat in TrainDict.keys():
+					counter.append(len([1 for word in TrainDict[cat] if self.BFdict[c].classify(word)])/self.total)
+
+				row = [c]
+				row.extend(counter)
+				writer.writerow(row)
+		pass
 
 
 def main():
 
 	CL = BloomClassify(num = 50)
 
-	CL.get_mfw()
+	#CL.get_mfw()
 	CL.get_tfidf()
-
-	title = "Amari distance"
-	category = "Category:Mathematics"
-
-
-	CL.train_BL(mfw = 1, tfidf = 0)
-	vali_dict = CL.check_article(title, category)
-
-	for key,value in vali_dict.items():
-		print("%-30s%-30f"%(key, value/CL.num))
-
 	CL.train_BL(mfw = 0, tfidf = 1)
+	CL.similarity_matrix(mfw = 0, tfidf = 1)
 
-	vali_dict = CL.check_article(title, category)
 
-	for key,value in vali_dict.items():
-		print("%-30s%-30f"%(key, value/CL.num))
 
+
+	#
+	# title = "Amari distance"
+	# category = "Category:Mathematics"
+
+
+	# CL.train_BL(mfw = 1, tfidf = 0)
+	# vali_dict = CL.check_article(title, category)
+	#
+	# for key,value in vali_dict.items():
+	# 	print("%-30s%-30f"%(key, value/CL.num))
+	#
+	# CL.train_BL(mfw = 0, tfidf = 1)
+	#
+	# vali_dict = CL.check_article(title, category)
+	#
+	# for key,value in vali_dict.items():
+	# 	print("%-30s%-30f"%(key, value/CL.num))
+	#
 
 
 
