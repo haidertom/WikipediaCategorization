@@ -2,6 +2,7 @@ import requests
 import os
 import random
 
+
 class Baseline:
 
 	def __init__(self, origin_category = "Category:Main topic classifications", baseline_number = 20, folder = "Baseline"):
@@ -69,19 +70,22 @@ class Baseline:
 		'''
 		gets text from article in titles, all titles in the same category
 		'''
+		DATA = []
+		titles = [titles[x:x+50] for x in range(0, len(titles), 50)]
 
-		PARAMS = {
-			'action': 'query',
-			'prop':'revisions',
-			'rvprop':'content',
-			'titles': titles,
-			'export':1,
-			'exportnowrap':1,
-			'format': "json"
-		}
-		S = requests.Session()
-		R = S.get(url=self.URL, params=PARAMS)
-		DATA = R.text
+		for t in titles:
+			PARAMS = {
+				'action': 'query',
+				'prop':'revisions',
+				'rvprop':'content',
+				'titles': "|".join(t),
+				'export':1,
+				'exportnowrap':1,
+				'format': "json"
+				}
+			S = requests.Session()
+			R = S.get(url=self.URL, params=PARAMS)
+			DATA.append(R.text)
 
 		return DATA
 
@@ -98,10 +102,13 @@ class Baseline:
 		if not os.path.exists(self.rawpath):
 			os.mkdir(self.rawpath)
 
-		#wirte text to the file
-		filename = self.rawpath+"/"+category+"_"+str(self.baseline_number)+".xml"
-		with open(filename, 'w') as the_file:
-			the_file.write(self.get_dumptext(titles))
+		#wirte text to the file(s)
+
+		for i, data in enumerate(self.get_dumptext(titles)):
+
+			filename = self.rawpath+"/"+category+"_"+str(self.baseline_number)+"_"+str(i)+".xml"
+			with open(filename, 'w') as the_file:
+				the_file.write(data)
 
 	def write_index(self, index):
 		'''
@@ -162,7 +169,7 @@ class Baseline:
 			self.index[cat] = list(self.index[cat][i] for i in [random.randint(0, len(self.index[cat])-1) for i in range(self.baseline_number)])
 
 			#write articles in file
-			self.write_rawdata("|".join(self.index[cat]) , cat) # join to one string and spereate with | --> for api call
+			self.write_rawdata((self.index[cat]) , cat)
 
 		#indexing all categories and titles for later use
 		self.write_index(self.index)
@@ -173,9 +180,10 @@ class Baseline:
 		'''
 
 		for file in os.listdir(self.rawpath):
-			print("read document " + file)
-			os.system("../wikiextractor/WikiExtractor.py "+self.rawpath+"/"+file+" -o "+self.plainpath+"/"+file.split(".")[0]+" --json")
+			cat = file.split("_")[0]
 
+			print("read document " + file)
+			os.system("../wikiextractor/WikiExtractor.py "+self.rawpath+"/"+file+" -o "+self.plainpath+"/"+cat+"/"+file.split(".")[0]+" --json")
 
 def main():
 
@@ -183,9 +191,9 @@ def main():
 	origin_category = "Category:Main topic classifications"
 
 	# number of articles you want from each category
-	baseline_number = 50
+	baseline_number = 1000
 
-	folder = "TestArticle"
+	folder = "Baseline"
 
 	BL = Baseline(origin_category, baseline_number, folder)
 

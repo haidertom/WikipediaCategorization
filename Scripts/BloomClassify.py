@@ -164,8 +164,8 @@ def main():
 	CL.get_mfw()
 	CL.get_tfidf()
 
-	title = "Amateur sports"
-	category = "Category:Universe"
+	title = "Amari distance"
+	category = "Category:Mathematics"
 
 
 	CL.train_BL(mfw = 1, tfidf = 0)
