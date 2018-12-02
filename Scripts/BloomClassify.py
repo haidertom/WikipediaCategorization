@@ -240,7 +240,7 @@ class BloomClassify:
 		category = category[0]
 
 		filepath = "../Validation/plaindata/"+category+"/AA/wiki_00"
-
+		print(filepath)
 		testarticle = lp.languageProcess(filepath).getHighFreqWords()
 
 		vali_dict = {}
