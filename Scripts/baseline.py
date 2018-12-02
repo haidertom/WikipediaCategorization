@@ -137,7 +137,7 @@ class Baseline:
 		main_categories = self.get_subcategories(self.origin_category)
 
 		# loop over all main categories
-		for cat in main_categories[1:]:
+		for cat in main_categories[2:]:
 			print("looking for titles in category: {} ".format(cat))
 
 			self.index[cat] = []
