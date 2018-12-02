@@ -1,0 +1,984 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>All Quiet on the Western Front</title>
+    <ns>0</ns>
+    <id>2152</id>
+    <revision>
+      <id>870878026</id>
+      <parentid>869590070</parentid>
+      <timestamp>2018-11-27T15:30:23Z</timestamp>
+      <contributor>
+        <username>Jip Orlando</username>
+        <id>26636090</id>
+      </contributor>
+      <minor/>
+      <comment>Cleaned up using [[WP:AutoEd|AutoEd]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32718">{{About|the 1929 novel}}
+{{Use mdy dates|date=May 2016}}
+{{Infobox book
+| name = All Quiet on the Western Front
+| author = [[Erich Maria Remarque]]
+| language = German
+| country = Germany
+| genre = [[War novel]]
+| publisher = [[Propyläen Verlag]]
+| isbn =
+| title_orig = Im Westen nichts Neues
+| translator = [[Arthur Wesley Wheen|A. W. Wheen]]
+| image = Remarque Im Westen nichts Neues 1929.jpg
+| caption = 1st edition cover
+| illustrator = [[Carl Laemmle]]
+| cover_artist = [[Erich Maria Remarque]]
+| series =
+| pub_date = January 29, 1929
+| english_pub_date = [[Little, Brown and Company]], 1929
+| pages = 200
+| oclc = 295972o
+}}
+'''''All Quiet on the Western Front''''' ({{lang-de|Im Westen nichts Neues|lit=In the West Nothing New}}) is a novel by [[Erich Maria Remarque]], a German veteran of [[World War I]]. The book describes the German soldiers' extreme physical and mental stress during the war, and the detachment from civilian life felt by many of these soldiers upon returning home from the front.
+
+The novel was first published in November and December 1928 in the German newspaper ''[[Vossische Zeitung]]'' and in book form in late January 1929. The book and its sequel, ''[[The Road Back]]'' (1930), were among the books banned and [[Nazi book burnings|burned]] in [[Nazi Germany]]. ''All Quiet on the Western Front'' sold 2.5 million copies in 22 languages in its first 18 months in print.&lt;ref&gt;{{cite journal
+  | last = Eksteins
+  | first = Modris
+  | title = All Quiet on the Western Front and the Fate of a War
+  | journal = Journal of Contemporary History
+  | volume = 15
+  | issue = 2
+  | page = 353
+  | publisher = [[SAGE Publications]]
+  | date = April 1980
+  | doi = 10.1177/002200948001500207 }}
+&lt;/ref&gt;
+
+In 1930, the book was adapted as an Academy-Award-winning [[All Quiet on the Western Front (1930 film)|film of the same name]], directed by [[Lewis Milestone]]. It was adapted again in 1979 by [[Delbert Mann]], this time as [[All Quiet on the Western Front (1979 film)|a television film]] starring [[Richard Thomas (actor)|Richard Thomas]] and [[Ernest Borgnine]].
+
+==Title and translation==
+The English translation by [[Arthur Wesley Wheen]] gives the title as '' All Quiet on the Western Front''. The literal translation of "Im Westen nichts Neues" is "In the West Nothing New," with "West" being the [[Western Front (World War I)|Western Front]]; the phrase refers to the content of an official communiqué at the end of the novel.
+
+[[Brian O Murdoch|Brian Murdoch's]] 1993 translation would render the phrase as "there was nothing new to report on the Western Front" within the narrative. Explaining his retention of the original book-title, he says:
+
+&lt;blockquote&gt;
+Although it does not match the German exactly, Wheen's title has justly become part of the English language and is retained here with gratitude.
+&lt;/blockquote&gt;
+
+The phrase "all quiet on the Western Front" has become a colloquial expression meaning stagnation, or lack of visible change, in any context.&lt;ref&gt;{{Cite news|url=https://idioms.thefreedictionary.com/all+quiet+on+the+Western+Front|title=all quiet on the Western Front|work=TheFreeDictionary.com|access-date=2017-12-29}}&lt;/ref&gt;
+
+==Plot summary==
+The book tells the story of Paul Bäumer who belongs to a group of German soldiers on the [[Western Front (World War I)|Western Front]] during [[World War I]]. The patriotic speeches of his teacher Kantorek had led the whole class to volunteer for military service shortly after the start of [[World War I]]. His class was "scattered over the platoons amongst [[Frisians|Frisian]] fishermen, peasants, and labourers." Bäumer arrives at the [[Western Front (World War I)|Western Front]] with his friends and schoolmates (Leer, Müller, Kropp and a number of other characters). There they meet Stanislaus Katczinsky, an older soldier, nicknamed Kat, who becomes Paul's mentor. While fighting at the front, Bäumer and his comrades have to engage in frequent battles and endure the treacherous and filthy conditions of trench warfare.
+
+At the beginning of the book, Remarque writes, "This book is to be neither an accusation nor a confession, and least of all an adventure, for death is not an adventure to those who stand face to face with it. It will try simply to tell of a generation of men who, even though they may have escaped (its) shells, were destroyed by the war."&lt;ref name="DestroyedByWar" /&gt; The book does not focus on heroic stories of bravery, but rather gives a view of the conditions in which the soldiers find themselves. The monotony between battles, the constant threat of [[artillery]] fire and bombardments, the struggle to find food, the lack of training of young recruits (meaning lower chances of survival), and the overarching role of random chance in the lives and deaths of the soldiers are described in detail. They had been forced into the army.
+
+The battles fought here have no names and seem to have little overall significance, except for the impending possibility of injury or death for Bäumer and his comrades. Only pitifully small pieces of land are gained, about the size of a football field, which are often lost again later. Remarque often refers to the living soldiers as old and dead, emotionally drained and shaken. "We are not youth any longer. We don't want to take the world by storm. We are fleeing from ourselves, from our life. We were eighteen and had begun to love life and the world; and we had to shoot it to pieces."
+
+Paul's visit on leave to his home highlight the cost of the war on his psyche. The town has not changed since he went off to war; however, he finds that he does "not belong here anymore, it is a foreign world."  He feels disconnected from most of the townspeople. His father asks him "stupid and distressing" questions about his war experiences, not understanding "that a man cannot talk of such things."  An old schoolmaster lectures him about strategy and advancing to Paris while insisting that Paul and his friends know only their "own little sector" of the war but nothing of the big picture.
+
+Indeed, the only person he remains connected to is his dying mother, with whom he shares a tender, yet restrained relationship. The night before he is to return from leave, he stays up with her, exchanging small expressions of love and concern for each other. He thinks to himself, "Ah! Mother, Mother! How can it be that I must part from you?  Here I sit and there you are lying; we have so much to say, and we shall never say it."  In the end, he concludes that he "ought never to have come [home] on leave."
+
+Paul feels glad to be reunited with his comrades. Soon after, he volunteers to go on a patrol and kills a man for the first time in hand-to-hand combat. He watches the man die, in pain for hours. He feels remorse and asks forgiveness from the man's corpse. He is devastated and later confesses to Kat and Albert, who try to comfort him and reassure him that it is only part of the war.
+They are then sent on what Paul calls a "good job." They must guard a supply depot in a village that was evacuated due to being shelled too heavily. During this time, the men are able to adequately feed themselves, unlike the near-starvation conditions in the German trenches. In addition, the men enjoy themselves while living off the spoils from the village and officers' luxuries from the supply depot (such as fine cigars). While evacuating the villagers (enemy civilians), Paul and Albert are taken by surprise by artillery fired at the civilian convoy and wounded by a shell. On the train back home, Albert takes a turn for the worse and cannot complete the journey, instead being sent off the train to recuperate in a Catholic hospital.
+Paul uses a combination of bartering and manipulation to stay by Albert's side. Albert eventually has his leg amputated, while Paul is deemed fit for service and returned to the front.
+
+By now, the war is nearing its end and the German Army is retreating. In despair, Paul watches as his friends fall one by one. It is the death of Kat that eventually makes Paul careless about living. In the final chapter, he comments that peace is coming soon, but he does not see the future as bright and shining with hope. Paul feels that he has no aims or goals left in life and that their generation will be different and misunderstood.
+
+In October 1918, Paul is finally killed on a remarkably peaceful day. The situation report from the frontline states a simple phrase: "All quiet on the Western Front." Paul's corpse displays a calm expression on its face, "as though almost glad the end had come."
+
+==Themes==
+One of the major themes of the novel is the difficulty of soldiers to revert to civilian life after having experienced extreme combat situations. Remarque comments in the preface that "[This book] will try simply to tell of a generation of men who, even though they may have escaped its shells, were destroyed by the war."&lt;ref name="DestroyedByWar"&gt;{{cite book |url=https://books.google.com/?id=5UVJYPUw18AC&amp;pg=PA48&amp;dq=%22It+will+try+simply+to+tell+of+a+generation+of+men+who,+even+though+they+may+have+escaped+its+shells,+were+destroyed+by+the+war.%22 |title=Erich Maria Remarque's All Quiet on the Western Front |page=48 |year=2009}}&lt;/ref&gt; This internal destruction can be found as early as the first chapter as Paul comments that, although all the boys are young, their youth has left them. In addition, the massive loss of life and negligible gains from the fighting are constantly emphasized. Soldiers' lives are thrown away by their commanding officers who are stationed comfortably away from the front, ignorant of the daily terrors of the front line.
+
+==Main characters==
+[[Image:AllQuietOnTheWesternFront.jpg|thumb|Cover of first English language edition. The design is based upon a German [[war bonds]] poster by [[Fritz Erler (painter)|Fritz Erler]].]]
+
+===Albert Kropp===
+Kropp was in Paul's class at school and is described as the clearest thinker of the group as well as the smallest. Kropp is wounded towards the end of the novel and undergoes a [[leg amputation]]. Both he and Bäumer end up spending time in a [[Catholic]] hospital together, Bäumer suffering from shrapnel wounds to the leg and arm. Though Kropp initially plans to commit [[suicide]] if he requires an amputation, the book suggests he postponed suicide because of the strength of military camaraderie. Kropp and Bäumer part ways when Bäumer is recalled to his regiment after recovering. Paul comments that saying farewell was "very hard, but it is something a soldier learns to deal with."&lt;ref&gt;Chapter Ten of All Quiet on the Western Front&lt;/ref&gt;
+
+===Haie Westhus===
+Haie is described as being tall and strong, and a [[peat]]-digger by profession. Overall, his size and behavior make him seem older than Paul, yet he is the same age as Paul and his school-friends (roughly 19 at the start of the book). Haie, in addition, has a good sense of humour. During combat, he is injured in his back, fatally (Chapter 6)—the resulting wound is large enough for Paul to see Haie's breathing lung when Himmelstoß (Himmelstoss) carries him to safety.
+
+===Friedrich Müller===
+Müller is about 18 and a half years of age, one of Bäumer's classmates, when he also joins the German army as a volunteer to go to the war. Carrying his old school books with him to the battlefield, he constantly reminds himself of the importance of learning and education. Even while under enemy fire, he "mutters propositions in physics". He became interested in Kemmerich's boots and inherits them when Kemmerich dies early in the novel. He is killed later in the book after being shot point-blank in the stomach with a "light pistol" (flare gun). As he was dying "quite conscious and in terrible pain", he gave his boots which he inherited from Kemmerich to Paul.
+
+===Stanislaus "Kat" Katczinsky===
+Kat has the most positive influence on Paul and his comrades on the battlefield. Katczinsky was a cobbler ([[shoemaker]]) in civilian life; he is older than Paul Bäumer and his comrades, about 40 years old, and serves as their leadership figure. He also represents a literary model highlighting the differences between the younger and older soldiers. While the older men have already had a life of professional and personal experience before the war, Bäumer and the men of his age have had little life experience or time for personal growth.
+
+Kat is also well known for his ability to scavenge nearly any item needed, especially food. At one point he secures four boxes of lobster. Bäumer describes Kat as possessing a [[Extrasensory perception|sixth sense]]. One night, Bäumer along with a group of other soldiers are holed up in a factory with neither rations nor comfortable bedding. Katczinsky leaves for a short while, returning with straw to put over the bare wires of the beds. Later, to feed the hungry men, Kat brings bread, a bag of horse flesh, a lump of fat, a pinch of salt and a pan in which to cook the food.
+
+Kat is hit by shrapnel at the end of the story, leaving him with a smashed shin. Paul carries him back to camp on his back, only to discover upon their arrival that a stray splinter had hit Kat in the back of the head and killed him on the way. He is thus the last of Paul's close friends to die in battle. It is Kat's death that eventually makes Bäumer indifferent as to whether he survives the war or not, yet certain that he can face the rest of his life without fear. "Let the months and the years come, they can take nothing from me, they can take nothing more. I am so alone, and so without hope that I can confront them without fear."
+
+=== Tjaden ===
+One of Bäumer's non-schoolmate friends. Before the war, Tjaden was a locksmith. A big eater with a grudge against the former postman-turned corporal Himmelstoß (thanks to his strict "disciplinary actions"), he manages to forgive Himmelstoß later in the book. Throughout the book, Paul frequently remarks on how much of an eater he is, yet somehow manages to stay as "thin as a rake". He appears in the sequel, ''[[The Road Back]]''.
+
+==Minor characters==
+
+===Kantorek===
+Kantorek was the [[schoolmaster]] of Paul and his friends, including  Kropp, Leer, Müller, and Behm. Behaving "in a way that cost [him] nothing," Kantorek is a strong supporter of the war and encourages Bäumer and other students in his class to join the war effort. Among twenty enlistees was Joseph Behm, the first of the class to die in battle. In an example of tragic irony, Behm was the only one who did not want to enter the war.
+
+Kantorek is a hypocrite, urging the young men he teaches to fight in the name of patriotism, while not voluntarily enlisting himself. In a twist of fate, Kantorek is later called up as a soldier as well. He very reluctantly joins the ranks of his former students, only to be drilled and taunted by Mittelstädt, one of the students he had earlier persuaded to enlist.
+
+===Peter Leer===
+Leer is an intelligent soldier in Bäumer's company, and one of his classmates. He is very popular with women; when he and his comrades meet three French women, he is the first to seduce one of them. Bäumer describes Leer's ability to attract women by saying "Leer is an old hand at the game". In chapter 11, Leer is hit by a shell fragment, which also hits Bertinck. The shrapnel tears open Leer's hip, causing him to bleed to death quickly. His death causes Paul to ask himself, "What use is it to him now that he was such a good mathematician in school?"&lt;ref&gt;''All Quiet on the Western Front'' (London: Putnam &amp; Company Ltd, 1970 reprint), p. 240.&lt;/ref&gt;
+
+===Bertinck===
+Lieutenant Bertinck is the leader of Bäumer's [[Company (military)|company]]. His men have a great respect for him, and Bertinck has great respect for his men. He permits them to eat the rations of the men that had been killed in action, standing up to the chef Ginger who would only allow them their allotted share. Bertinck is genuinely despondent when he learns that few of his men had survived an engagement.
+
+When he and the other characters are trapped in a trench under heavy attack, Bertinck, who has been injured in the firefight, spots a flamethrower team advancing on them. He gets out of cover and takes aim on the flamethrower but misses, and gets hit by enemy fire. With his next shot he kills the flamethrower, and immediately afterwards an enemy shell explodes on his position blowing off his chin. The same explosion also fatally wounds Leer.
+
+===Himmelstoss===
+Corporal Himmelstoss (spelled Himmelstoß in some editions) was a postman before enlisting in the war. He is a power-hungry corporal with special contempt for Paul and his friends, taking sadistic pleasure in punishing the minor infractions of his trainees during their basic training in preparation for their deployment. Paul later figures that the training taught by Himmelstoss made them "hard, suspicious, pitiless, and tough" but most importantly it taught them comradeship. However, Bäumer and his comrades have a chance to get back at Himmelstoss because of his punishments, mercilessly whipping him on the night before they board trains to go to the front.
+
+Himmelstoss later joins them at the front, revealing himself as a coward who shirks his duties for fear of getting hurt or killed, and pretends to be wounded because of a scratch on his face. Paul Bäumer beats him because of it and when a lieutenant comes along looking for men for a trench charge, Himmelstoss joins and leads the charge. He carries Haie Westhus's body to Bäumer after he is fatally wounded. Matured and repentant through his experiences Himmelstoß later asks for forgiveness from his previous charges. As he becomes the new staff cook, to prove his friendship he secures two pounds of sugar for Bäumer and half a pound of butter for Tjaden.
+
+===Detering===
+Detering is a farmer who constantly longs to return to his wife and farm. He is also fond of horses and is angered when he sees them used in combat. He says, "It is of the vilest baseness to use horses in the war," when the group hears several wounded horses writhe and scream for a long time before dying during a bombardment. He tries to shoot them to put them out of their misery, but is stopped by Kat to keep their current position hidden. He is driven to desert when he sees a cherry tree in blossom, which reminds him of home too much and inspires him to leave. He is found by military police and court-martialed, and is never heard from again.
+
+===Josef Hamacher===
+Hamacher is a patient at the Catholic hospital where Paul and Albert Kropp are temporarily stationed. He has an intimate knowledge of the workings of the hospital. He also has a "Special Permit," certifying him as sporadically not responsible for his actions due to a head wound, though he is clearly quite sane and exploiting his permit so he can stay in the hospital and away from the war as long as possible.
+
+===Franz Kemmerich===
+A young boy of only 19 years. Franz Kemmerich had enlisted in the army for World War I along with his best friend and classmate, Bäumer. Kemmerich is shot in the leg early in the story; his injured leg has to be amputated, and he dies shortly after. In anticipation of Kemmerich's imminent death, Müller was eager to get his boots. While in the hospital, someone steals Kemmerich's watch that he intended to give to his mother, causing him great distress and prompting him to ask about his watch every time his friends visit him in the hospital. Paul later finds the watch and hands it over to Kemmerich's mother, only to lie and say Franz died instantly and painlessly when questioned.
+
+===Joseph Behm===
+A student in Paul's class who is described as youthful and overweight. Behm was the only student that was not quickly influenced by Kantorek's patriotism to join the war, but eventually, due to pressure from friends and Kantorek, he joins the war. He is the first of Paul's friends to die. He is blinded in [[no man's land]] and believed to be dead by his friends. The next day, when he is seen walking blindly around [[no-man's-land]], it is discovered that he was only unconscious. However, he is killed before he can be rescued.
+
+==Publication and reception==
+From November 10 to December 9, 1928, ''All Quiet on the Western Front'' was published in serial form in ''[[Vossische Zeitung]]'' magazine. It was released in book form the following year to smashing success, selling one and a half million copies that same year. Although publishers had worried that interest in [[World War I]] had waned more than 10 years after the [[Armistice of 11 November 1918|armistice]], Remarque's realistic depiction of trench warfare from the perspective of young soldiers struck a chord with the war's survivors—soldiers and civilians alike—and provoked strong reactions, both positive and negative, around the world.
+
+With ''All Quiet on the Western Front'', Remarque emerged as an eloquent spokesman for a generation that had been, in his own words, "destroyed by war, even though it might have escaped its shells." Remarque's harshest critics, in turn, were his countrymen, many of whom felt the book denigrated the German war effort, and that Remarque had exaggerated the horrors of war to further his pacifist agenda. The strongest voices against Remarque came from the emerging [[Nazi Party]] and its ideological allies. In 1933, when the Nazis rose to power, ''All Quiet on the Western Front'' became one of the first [[degenerate art|degenerate books]] to be publicly burnt;&lt;ref&gt;{{cite web|url=http://www.history.com/this-day-in-history/remarque-publishes-all-quiet-on-the-western-front|title=Nov 10, 1928: Remarque publishes All Quiet on the Western Front|work=[[History.com]]|accessdate=June 3, 2013}}&lt;/ref&gt; in 1930, screenings of the [[All Quiet on the Western Front (1930 film)|Academy Award-winning film based on the book]] were met with Nazi-organized protests and mob attacks on both movie theatres and audience members.&lt;ref name=SI&gt;{{cite web|last1=Sauer|first1=Patrick|title=The Most Loved and Hated Novel About World War I|url=http://www.smithsonianmag.com/history/most-loved-and-hated-novel-about-world-war-I-180955540/|website=Smithsonian.com|publisher=Smithsonian Institution|accessdate=June 21, 2015|date=June 16, 2015}}&lt;/ref&gt;
+
+However, objections to Remarque’s portrayal of the German army personnel during World War I were not limited to the Nazis. Dr. Karl Kroner ([[:de:Karl Kroner|de]]) objected to Remarque’s depiction of the medical personnel as being inattentive, uncaring, or absent from frontline action. Dr. Kroner was specifically worried that the book would perpetuate German stereotypes abroad that had subsided since the First World War. He offered the following clarification: “People abroad will draw the following conclusions: if German doctors deal with their own fellow countrymen in this manner, what acts of inhumanity will they not perpetuate against helpless prisoners delivered up into their hands or against the populations of occupied territory?”&lt;ref name="clardy"&gt;{{cite web|url=http://modernism.research.yale.edu/wiki/index.php/All_Quiet_on_the_Western_Front#Reception|archive-url=https://web.archive.org/web/20130615102102/http://modernism.research.yale.edu/wiki/index.php/All_Quiet_on_the_Western_Front#Reception|dead-url=yes|archive-date=June 15, 2013|title=All Quiet on the Western Front: Reception|author=Patrick Clardy|work=Yale Modernism Lab|accessdate=June 3, 2013}}&lt;/ref&gt;&lt;ref name="barker"&gt;{{cite book|first1=Christine R.|last1=Barker|first2=Rex William|last2=Last|title=Erich Maria Remarque|location=New York|publisher=Barnes &amp; Noble Books|year=1979}}&lt;/ref&gt;
+
+A fellow patient of Remarque’s in the military hospital in [[Duisburg]] objected to the negative depictions of the nuns and patients, and of the general portrayal of soldiers: “There were soldiers to whom the protection of homeland, protection of house and homestead, protection of family were the highest objective, and to whom this will to protect their homeland gave the strength to endure any extremities.”&lt;ref name="barker"/&gt;
+
+These criticisms suggest that perhaps experiences of the war and the personal reactions of individual soldiers to their experiences may be more diverse than Remarque portrays them; however, it is beyond question that Remarque gives voice to a side of the war and its experience that was overlooked or suppressed at the time. This perspective is crucial to understanding the true effects of World War I. The evidence can be seen in the lingering depression that Remarque and many of his friends and acquaintances were suffering a decade later.&lt;ref name="clardy"/&gt;
+
+In contrast, ''All Quiet on the Western Front'' was trumpeted by [[pacifists]] as an anti-war book.&lt;ref name="barker"/&gt; Remarque makes a point in the opening statement that the novel does not advocate any political position, but is merely an attempt to describe the experiences of the soldier.&lt;ref&gt;{{cite book|first=Hans|last=Wagner|url=https://books.google.com/books?hl=uk&amp;id=sPH4NyyUlmAC&amp;dq=0-87249-740-2&amp;q=night+in+lisbon#v=snippet&amp;q=night%20in%20lisbon&amp;f=false|title=Understanding Erich Maria Remarque|location=Columbia, SC|publisher=University of South Carolina Press|year=1991}}&lt;/ref&gt;
+
+The main artistic criticism was that it was a mediocre attempt to cash in on public sentiment.{{citation needed|date=July 2016}} The enormous popularity the work received was a point of contention for some literary critics, who scoffed at the fact that such a simple work could be so earth-shattering.{{citation needed|date=July 2016}} Much of this literary criticism came from [[Salomo Friedlaender]], who wrote a book ''Hat Erich Maria Remarque wirklich gelebt?'' "Did Erich Maria Remarque really live?" (under pen name Mynona), which was, in its turn, criticized in: ''Hat Mynona wirklich gelebt?'' "Did Mynona really live?" by [[Kurt Tucholsky]].&lt;ref&gt;Kurt Tucholsky (under pen name Ignaz Wrobel), [http://www.textlog.de/tucholsky-mynona-wirklich.html ''Hat Mynona wirklich gelebt?''], ''Die Weltbühne'', December 31, 1929, No. 1, p. 15&lt;/ref&gt; Friedlaender’s criticism was mainly personal in nature—he attacked Remarque as being ego-centric and greedy. Remarque publicly stated that he wrote ''All Quiet on the Western Front'' for personal reasons, not for profit, as Friedlaender had charged.&lt;ref name="clardy" /&gt;&lt;ref name="barker" /&gt;   {{Interlanguage link multi|Max Joseph Wolff|de}} wrote a parody titled ''Vor Troja nichts Neues'' (''Compared to Troy, Nothing New'') under the pseudonym ''Emil Marius Requark''.&lt;ref&gt;[http://d-nb.info/578423782 Catalogue entry] for ''Vor Troja nichts Neues'' in the German National Library, retrieved January 29, 2014&lt;/ref&gt;
+
+==Adaptations==
+
+===Film===
+[[File:AllQuietWesternFrontPosterA.jpg|thumb|Poster for the movie ''All Quiet on the Western Front'' (1930), featuring star [[Lew Ayres]]]]
+
+{{Main|All Quiet on the Western Front (1930 film)}}
+In 1930, an American film of the novel was made, directed by [[Lewis Milestone]]; with a screenplay by [[Maxwell Anderson]], [[George Abbott]], [[Del Andrews]], [[C. Gardner Sullivan]]; and with uncredited work by [[Walter Anthony]] and Milestone. It stars [[Louis Wolheim]], [[Lew Ayres]], [[John Wray (actor)|John Wray]], [[Arnold Lucy]], and [[Ben Alexander (actor)|Ben Alexander]].
+
+The film won the [[Academy Award for Best Picture]] in 1930 for its producer [[Carl Laemmle Jr.]], the [[Academy Award for Directing]] for [[Lewis Milestone]], and the Academy Award for Outstanding Production. It was the first all-talking non-musical film to win the Best Picture Oscar. It also received two further nominations: [[Academy Award for Best Cinematography|Best Cinematography]], for [[Arthur Edeson]], and [[Academy Award for Writing Adapted Screenplay|Best Writing Achievement]] for Abbott, Anderson, and Andrews.&lt;ref&gt;{{cite web|title=The 3rd Academy Awards – 1931|url=https://www.oscars.org/oscars/ceremonies/1931|website=Oscars|publisher=Academy of Motion Picture Arts and Sciences|accessdate=1 September 2016}}&lt;/ref&gt;
+
+In 2016, it was confirmed that [[Roger Donaldson]] will direct a remake of ''All Quiet on the Western Front'' starring [[Travis Fimmel]] as Katczinsky.&lt;ref&gt;{{cite web|last1=Kay|first1=Jeremy|title='Warcraft' star Travis Fimmel to lead 'All Quiet On The Western Front'|url=http://m.screendaily.com/5100147.article|website=ScreenDaily|publisher=MBI Ltd.|accessdate=1 September 2016}}&lt;/ref&gt;
+
+===Television film===
+{{Main|All Quiet on the Western Front (1979 film)}}
+In 1979, the film was remade for CBS television by [[Delbert Mann]], starring [[Richard Thomas (actor)|Richard Thomas]] of ''[[The Waltons]]'' as Paul Bäumer and [[Ernest Borgnine]] as Kat. The movie was filmed in [[Czechoslovakia]].&lt;ref&gt;{{cite web|title=All Quiet on the Western Front (1979)|url=https://www.imdb.com/title/tt0078753/?ref_=nv_sr_3|website=IMDb|publisher=IMDb.com, Inc.|accessdate=1 September 2016}}&lt;/ref&gt;
+
+===Music===
+[[Elton John]]'s album ''[[Jump Up! (Elton John album)|Jump Up!]]'' (1982) features the song, "[[All Quiet on the Western Front (song)|All Quiet on the Western Front]]" (written by Elton and [[Bernie Taupin]]). The song is a sorrowful rendition of the novel's story ("It's gone all quiet on the Western Front / Male Angels sigh / ghosts in a flooded trench / As Germany dies").
+
+[[Bob Dylan]], during his Nobel Laureate lecture, cited this book as one that had a profound effect on this songwriting.&lt;ref&gt;{{cite web | url = https://www.nobelprize.org/nobel_prizes/literature/laureates/2016/dylan-lecture.html | title = Bob Dylan - Nobel Lecture | last = Dylan | first = Bob | date = 5 June 2017 | website = www.nobelprize.org | publisher = Nobel Media AB | access-date = 14 November 2017 | quote = ...would work its way into more than a few of my songs.  All Quiet on the Western Front was another book that did.}}&lt;/ref&gt;
+
+===Radio===
+On November 9, 2008, a radio adaptation of the novel was broadcast on [[BBC Radio 3]], starring [[Robert Lonsdale]] as Paul Bäumer and Shannon Graney as Katczinsky. Its screenplay was written by Dave Sheasby, and the show was directed by David Hunter.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/programmes/b00fd2tv |title=BBC Radio 3 – Drama on 3, All Quiet on the Western Front |publisher=Bbc.co.uk |date=November 9, 2008 |accessdate=February 7, 2013}}&lt;/ref&gt;
+
+=== Audiobooks ===
+In 2000, [[Recorded Books]] released an [[audiobook]] of the text, read by [[Frank Muller]].&lt;ref&gt;{{cite web | url = https://www.recordedbooks.com/title-details/9780788734410 | title = All Quiet on the Western Front| website = recordedbooks.com |publisher = [[Recorded Books]] | access-date = 2017-07-27}}&lt;/ref&gt;
+
+In 2010, [[Hachette Audio]] UK published an audiobook adaptation of the novel, narrated by Tom Lawrence. It was well received by critics&lt;ref&gt;{{Cite web|url=http://audiobookjungle.com/all-quiet-on-the-western-front-audiobook/|title=All Quiet on the Western Front – Audiobook Reviews In All Genres|website=audiobookjungle.com|access-date=April 10, 2016}}&lt;/ref&gt; and listeners.
+
+===Comics===
+In 1952, the novel was adapted into comic book form as part of the ''[[Classics Illustrated]]'' series.&lt;ref&gt;{{cite web|url=https://www.comics.org/issue/515209/|title=GCD :: Issue :: Classics Illustrated #95 [O] - All Quiet on the Western Front|author=|date=|website=www.comics.org|accessdate=March 27, 2018}}&lt;/ref&gt;
+
+==See also==
+{{portal|Novels}}
+* [[Bildungsroman]]
+* [[List of books with anti-war themes]]
+
+==References==
+&lt;references /&gt;
+
+==External links==
+{{Wikiquote}}
+{{commons category}}
+* [https://web.archive.org/web/20050321023449/http://www.cliffsnotes.com/WileyCDA/LitNote/id-6.html CliffsNotes]
+* [http://www.sparknotes.com/lit/allquiet/ Spark Notes]
+* Schneider, Thomas: [https://encyclopedia.1914-1918-online.net/article/all_quiet_on_the_western_front_novel/ All Quiet on the Western Front (novel)], in: [https://encyclopedia.1914-1918-online.net/home.html/ 1914-1918-online. International Encyclopedia of the First World War].
+
+{{Remarque}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:All Quiet On The Western Front}}
+[[Category:1929 German language novels]]
+[[Category:1929 German novels]]
+[[Category:Anti-war novels]]
+[[Category:Censored books]]
+[[Category:Censorship in the arts]]
+[[Category:German novels adapted into films]]
+[[Category:Novels adapted into television programs]]
+[[Category:Novels by Erich Maria Remarque]]
+[[Category:Novels first published in serial form]]
+[[Category:Roman à clef novels]]
+[[Category:Works originally published in Vossische Zeitung]]
+[[Category:World War I novels]]
+[[Category:Novels set in Europe]]
+[[Category:Little, Brown and Company books]]</text>
+      <sha1>ptf1rsqe54jc8ykjnwobip70zy7g12z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Chak-pur</title>
+    <ns>0</ns>
+    <id>41776880</id>
+    <revision>
+      <id>774700282</id>
+      <parentid>676323070</parentid>
+      <timestamp>2017-04-10T04:11:17Z</timestamp>
+      <contributor>
+        <ip>59.102.101.226</ip>
+      </contributor>
+      <comment>It should have said "traditional tools" but it only said "tradition" so that was fixed</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="839">'''Chak-pur''' are the traditional tools used in [[Tibetan people|Tibetan]] [[sandpainting]] to produce ''[[mandala]]s''. They are conically shaped metal funnels and often have ridges down the sides. Normally about {{convert|12|-|18|inch}} in length, they taper to a fine point and are made with varying diameter holes at the end in order to disperse the sand in a controlled way. A Tibetan monk will usually tap glide a piece of wood over the ridges in order to slowly allow the sand to emerge through the hole through the vibrations created.&lt;ref&gt;{{cite web|url=http://www.mysticalartsoftibet.org/mandala.htm|title=Mandala Sand Painting|publisher=Drepung Loseling Monastery|accessdate=16 August 2015}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+[[Category:Artistic techniques]]
+[[Category:Sand paintings]]
+[[Category:Tibetan art]]
+
+{{tibet-stub}}</text>
+      <sha1>p42pc3b06xrhg1x0ppl3uqnt1zv5dl4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Chief creative officer</title>
+    <ns>0</ns>
+    <id>6422341</id>
+    <revision>
+      <id>870222625</id>
+      <parentid>870160311</parentid>
+      <timestamp>2018-11-23T08:47:02Z</timestamp>
+      <contributor>
+        <username>Orenburg1</username>
+        <id>10248457</id>
+      </contributor>
+      <minor/>
+      <comment>sp</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4804">A '''chief creative officer''' ('''CCO''') is the highest ranking position of the creative team within a company. Depending on the type of company, this position may be responsible for the overall look and feel of [[marketing]], [[Mass media|media]], and [[brand]]ing associated with the organization. The CCO may also be charged with managing, developing, and leading the team of [[creative director]]s, [[art director]]s, [[designer]]s, and [[copywriter]]s.
+
+==Overall description==
+The CCO directs a company's creative output, developing the artistic design strategy that defines the company's brand.&lt;ref name="do"&gt;Written By: Terry Masters, Edited By: Allegra J. Lingo [http://www.wisegeek.com/what-does-a-chief-creative-officer-do.htm "What Does a Chief Creative Officer Do"], 14 October 2014, Retrieved on 30 October 2014&lt;/ref&gt; The CCO creates the unique image of the firm and deliver this distinctive design to consumers and to create a clear [[brand image]] which is a fundamental and essential work throughout the company. Advertisements present a certain memorable artistic design while also structured to accomplish functional goals. The CCO ensures that the design and functionality combine harmoniously so the firm can present a product that successfully represents its creative brand.&lt;ref name="do" /&gt;
+
+CCOs, in some cases are called [[creative directors]], are demanded in firms which involve creative thinking and artistic design. The position of generic head of marketing is usually replaced by chief creative officer in advertising firms.&lt;ref name="do" /&gt; The power of chief creative officer can even be compared to [[Chief executive officer|CEO]] and at the early stages of a small company, usually at the start of [[partnerships]], the CCO and the CEO manage jointly.&lt;ref name="do" /&gt;
+
+==Notable chief creative officers==
+*[[Riccardo Tisci]] of [[Burberry]]&lt;ref&gt;[https://www.burberryplc.com/en/news-and-media/press-releases/corporate/2018/burberry-appoints-riccardo-tisci-as-chief-creative-officer.html Burberry appoints Riccardo Tisci as Chief Creative Officer]. [[Burberry]]. 1 March 2018&lt;/ref&gt;
+*[[Raf Simons]] of [[Calvin Klein]]&lt;ref&gt;[https://fashionista.com/2018/02/fashion-creative-directors-2018-guide Your Creative Director Cheat Sheet for the Fall 2018 Shows]. FASHIONISTA. 6 February 2018&lt;/ref&gt;
+*[[Jennifer Lee (filmmaker)|Jennifer Lee]] of [[Walt Disney Animation Studios]]&lt;ref&gt;{{cite web |title=Walt Disney and Pixar Animation Studios Name Chief Creative Officers - The Walt Disney Company |url=https://www.thewaltdisneycompany.com/walt-disney-and-pixar-animation-studios-name-chief-creative-officers/ |website=The Walt Disney Company |date=19 June 2018}}&lt;/ref&gt;
+*[[Pete Docter]] of [[Pixar]]&lt;ref&gt;{{cite web |title=Walt Disney and Pixar Animation Studios Name Chief Creative Officers - The Walt Disney Company |url=https://www.thewaltdisneycompany.com/walt-disney-and-pixar-animation-studios-name-chief-creative-officers/ |website=The Walt Disney Company |date=19 June 2018}}&lt;/ref&gt;
+*[[Jessica Alba]] of [[The Honest Company]]&lt;ref&gt;[http://wwd.com/beauty-industry-news/beauty/jessica-alba-honest-beauty-launch-ulta-10342165/ "Jessica Alba’s Honest Beauty to Launch in Ulta"]&lt;/ref&gt;
+*[[Scott Aukerman]] of [[Earwolf]]
+*[[Burnie Burns]] of [[Rooster Teeth Productions]]&lt;ref&gt;[https://www.youtube.com/watch?v=3ODSGbbWf7g "Burnie Burns"]&lt;/ref&gt;
+*[[Nick Cannon]] of [[Radio Shack]]&lt;ref&gt;{{cite web|url=http://www.prnewswire.com/news-releases/nick-cannon-joins-radioshack-as-chief-creative-officer-300186936.html|title=Nick Cannon Joins RadioShack As Chief Creative Officer|website=PR Newswire|accessdate=12 April 2016}}&lt;/ref&gt;
+*[[Clive Davis]] of [[Sony Music Entertainment]]&lt;ref&gt;[http://www.zoominfo.com/p/Clive-Davis/17264028 "Mr. Clive Jay Davis"]&lt;/ref&gt;
+*[[Bran Ferren]] of [[Applied Minds|Applied Minds LLC]], and [[Walt Disney Imagineering]]
+*[[John Gaburick]] of [[Impact Wrestling]]
+*[[Hugh Hefner]] of [[Playboy Enterprises]]&lt;ref&gt;[http://www.biography.com/people/hugh-hefner-9333521#synopsis "Hugh Hefner Biography"]&lt;/ref&gt;
+*[[Geoff Johns]] of [[DC Entertainment]]&lt;ref&gt;[http://www.dcentertainment.com/management/geoff-johns "Geoff Johns"]&lt;/ref&gt;
+*[[Jared Leto]] of [[Fandor (film site)|Fandor]]
+*[[Hisao Oguchi]] of [[Sega Sammy Holdings]]
+*[[Joe Quesada]] of [[Marvel Entertainment]]
+*[[Will.I.Am]] of [[3D Systems]] &lt;ref&gt;{{cite web|title=3D Systems Appoints will.i.am as Its Chief Creative Officer|url=http://www.3dsystems.com/press-releases/3d-systems-appoints-william-its-chief-creative-officer|website=3D Systems|accessdate=12 April 2016}}&lt;/ref&gt;
+
+==References==
+
+{{Reflist}}
+
+{{Corporate titles}}
+
+[[Category:Arts occupations]]
+[[Category:Communication design]]
+[[Category:Corporate titles|C]]
+[[Category:Business terms]]
+[[Category:Management occupations]]
+
+
+{{corp-stub}}</text>
+      <sha1>lnroqj7pcw8h6ec632cylvahh0f8ak2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Funk art</title>
+    <ns>0</ns>
+    <id>12856145</id>
+    <revision>
+      <id>822838453</id>
+      <parentid>821519999</parentid>
+      <timestamp>2018-01-28T20:20:03Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12358">[[Image:I'm All A TWit, acrylic reverse painting on vinyl window shade with enamel on wood by Jim Nutt, 1969, Pennsylvania Academy of Fine Art.jpg|thumb|[[Jim Nutt]], ''I'm All A TWit'', 1969, acrylic reverse painting on vinyl window shade with enamel on wood [[Pennsylvania Academy of Fine Arts]].]]
+'''Funk art''' is an American [[art movement]] that was a reaction against the nonobjectivity of [[abstract expressionism]].&lt;ref name="Selz"/&gt; An [[anti-establishment]] movement, Funk art brought [[figurative art|figuration]] back as subject matter in [[painting]] again rather than limiting itself to the non-figurative, abstract forms that abstract expressionists such as [[Jackson Pollock]] and [[Mark Rothko]] were depicting. The movement’s name was derived from the [[jazz]] musical term "[[funk]]y", describing the passionate, sensuous, and quirky. During the 1920s, jazz was thought of as very basic, unsophisticated music, and many people believed Funk was an unrefined style of art as well.&lt;ref name="Albright"/&gt; The term [[funk]] also had negative connotations because the word had an association with a foul odor.&lt;ref name="Shields"/&gt; Throughout the 1960s and 1970s, Funk was a popular art form, mainly in California's [[Bay Area]] in the United States. Although discussed as a cohesive movement, Funk artists did not feel as if they belonged to a [[collective]] art style or group.&lt;ref name="Karlstrom"&gt;Karlstrom, Paul J. ''Peter Selz: Sketches of a Life in Art''. Berkeley: University of California Press, 2012.&lt;/ref&gt; This is because while its artists shared the same attitudes and created similar works, they were not necessarily working together.&lt;ref name="Albright"/&gt;
+
+==History==
+
+===Bay Area===
+The Funk art movement was a regional art movement, most predominant in [[Northern California]]. Some notable cities where the Funk movement was concentrated in consisted of [[Berkeley, California|Berkeley]], [[Marin County]], [[Big Sur]], and [[North Beach, San Francisco|North Beach]].&lt;ref name="Albright"/&gt; Many Funk artists began as [[Bay Area Figurative Movement]] painters in the 1950s. The movement originated from the bohemian underground in the Bay Area.&lt;ref name="Engelbach"&gt;Engelbach, Barbara ''Looking for Mushrooms: Beat Poets, Hippies, Funk, Minimal Art San Francisco 1955-68''. Köln König: Museum Ludwig, Köln, 2008.&lt;/ref&gt; During the 1960s, the Bay Area, specifically [[San Francisco]], was a free and spiritual environment due to its [[beatnik]] art culture and the youth political activism reacting against the [[Vietnam War]] going on at the time.&lt;ref name="Engelbach"/&gt; A variety of different cultures existed in the city, including poetry, jazz, and art. The freedom of thinking and culture was one of the main reasons that Funk art, a combination of both painting and sculpture, could develop and prosper in the Bay Area.&lt;ref name="Selz"/&gt;
+
+The Funk art that occurred throughout Northern California was the exact opposite of the "Fetish Finish" sculptures made in [[Southern California]] and the "primary structures" constructed in New York at the time.&lt;ref name="Selz"&gt;Selz, Peter. ''Funk''. Berkeley: The Regents of the University of California, 1967.&lt;/ref&gt; Funk art in the Bay Area was unique and not similar to any other movement of the 1960s.  [[Jess Collins|Jess]], [[Wally Hedrick]], [[Jay DeFeo]], [[Viola Frey]], [[Wallace Berman]] and [[Bruce Conner]] were notable Funk artists who emerged from the Bay Area. Jess was one of the earliest and most influential Funk artists.&lt;ref name="Albright"/&gt; In 1967, [[Peter Selz]], the first director of the University of Art Museum in Berkeley, California, organized a Funk Show there. Selz wanted to showcase the strange mindset in California through an array of Funk pieces.&lt;ref name="Karlstrom"/&gt; The exhibition featured works from [[Peter Voulkos]], [[Mowry Baden]] and [[Bruce Conner]], and it brought national recognition to the movement for the first time.&lt;ref name="Albright"&gt;Albright, Thomas. ''[[Art in the San Francisco Bay Area (book)|Art in the San Francisco Bay Area 1945-1980]]''. Berkeley: University of California Press, 1985. {{ISBN|0520051939}}&lt;/ref&gt; Before this show, not many people outside of the Bay Area had seen or heard of Funk works, which relieved artists of pressures to become successful.&lt;ref name="Selz"/&gt;
+
+==Characteristics and techniques==
+The characteristics and techniques of Funk art works were more important than the subject matter.
+
+===Self-identification===
+Unlike earlier movements, such as [[Dada]] and [[Surrealism]], Funk art was not concerned with public [[morality]]. Its artists were committed to identifying with their works on a personal level instead of the social or existential. Through their absurdist works, Funk artists demonstrated personal feelings, emotions and processes and in this way their work had a closer [[nature v culture|relationship to nature rather than to culture]]. The works had creative freedom and demonstrated the artists' lives, personalities and experiences.&lt;ref name="Karlstrom"/&gt; Funk artists treated their work with a sense of humor, senselessness, confrontation, vulgar sexuality and [[autobiographical]] references.&lt;ref name="Selz"/&gt; In their pieces, Funk artists are sometimes self-deprecating and [[ironic]].  Although the works are humorous, they sometimes cover a more serious undertone.&lt;ref name="Shields"/&gt; Since there was no clear meaning in many pieces, Funk art contains a sense of ambiguity.
+
+===Found objects===
+Funk art was inspired by [[popular culture]], contains attitude and uses an unlikely mixture of materials and techniques. One of the movement's main characteristics is that it incorporates found objects from [[Consumerism|consumer culture]]. It was a part of the larger movement called [[Assemblage (art)|Assemblage]], which also included paintings that were composed of three-dimensional objects.&lt;ref name="Karlstrom"/&gt; [[Bruce Conner]] was known for his assemblage works, including ''Arachne'', ''Spider Lady'', ''For Marilyn'', ''Cosmic Death Song'', and ''Tick Tock Jelly Clock Cosmotron''.&lt;ref name="Albright"/&gt; Many of the Funk [[assemblage (art)|assemblage]] pieces were composed of thrown out garbage to demonstrate that Funk art was not a part of consumer culture.&lt;ref name="Shields"/&gt; The pieces are usually three dimensional, but they resemble paintings more than sculptures.&lt;ref name="Selz"/&gt; [[Jess Collins|Jess]] and [[Wally Hedrick]] were two of the first Funk artists to use found objects in their works.&lt;ref name="Albright"/&gt; The objects used tended to be items that were not meant to be noticed.&lt;ref name="Selz"/&gt; The idea of using ordinary subject matter and common objects in art was influenced by [[Robert Rauschenberg]] and [[Jasper Johns]].&lt;ref name="Selz"/&gt; This concept is also influenced by the pieces of the [[Dada]] movement because both art movements use everyday objects and have a sense of freedom.The objects and debris used in works symbolized decay many of the time.&lt;ref name="Karlstrom"/&gt; Due to the artists lack of concern with impeccable technique, durability or form, the works each possessed a somewhat sloppy finish.
+
+==Ceramics==
+Non-functional ceramic art was an important element in the Funk art movement, especially in Regina{{Where|date=June 2015}} and the [[San Francisco Bay Area]].&lt;ref name="Albright"/&gt; Funk art ceramics were primarily composed from clay and possessed themes that were thought of as inappropriate by artists belonging to other movements.&lt;ref name="Shields"/&gt;  Similar to its three dimensional paintings, Funk ceramics contained vulgar male humor, as well as sexual references.&lt;ref name="Shields"&gt;Shields, Scott A. "California Funk." ''Ceramics Monthly 56.9'' (2008): 38-41. Academic Search Complete. Web. 12 Mar. 2012.&lt;/ref&gt; Like other Funk works, the ceramics also used funny and absurd styles and images to relay the message that people should not take art or themselves too seriously. The ceramics were unrefined and blatant, and they all possessed the idea of a functionless sculpture for sculptures sake.&lt;ref name="Shields"/&gt;
+
+===Robert Arneson===
+[[Robert Arneson]] started the ceramic art movement within Funk art in the Bay Area.  Before him, ceramics were considered more of a craft rather than a prestigious art form.&lt;ref name="Albright"/&gt; After him, ceramics caught on as a serious form of art nationally.{{cn|date=June 2015}} [[Robert Arneson]] created many ceramic sculptures, which eventually became a common work of Funk artists. Some believe his ceramics were influenced by [[pop art]] sculptures because they were of mundane, everyday objects. A main difference was that [[Robert Arneson]] also included personal elements to his sculptures, which was a defining factor of Funk art.&lt;ref name="Shields"/&gt; His works were playful and full of color.&lt;ref name="Shields"/&gt;
+[[Robert Arneson]], along with other Funk artists, such as [[Roy De Forest]], [[Manuel Neri]], and [[William T. Wiley]] taught at the [[University of California, Davis]], which was a center for the movement.&lt;ref&gt;Smithsonian Archives of American Art, Interview with Bruce Nauman http://www.aaa.si.edu/collections/oralhistories/transcripts/nauman80.htm&lt;/ref&gt; Students from [[University of California, Davis]], such as Margaret Dodd, [[David Gilhooly]], [[Victor Cicansky]], Chris Unterseher, and Peter Vandenberge, continued Arneson's ceramics tradition.
+
+In 1967, [[Robert Arneson]] drafted ceramicist [[Clayton Bailey]] to cover his classes at [[University of California, Davis]] while he took a [[sabbatical]].&lt;ref name=WOW&gt;{{cite book|last=Linhares|first=Diana L. Daniels ; with essays by Philip E.|title=Clayton Bailey's world of wonders|year=2011|publisher=Crocker Art Museum|location=Sacramento, CA|isbn=978-1-8840-3822-8|pages=22|author2=Frank, Patrick}}&lt;/ref&gt; Bailey, who hailed from [[Wisconsin]], had been pursuing a personal, but similar artistic vision to what had been happening with the Funk art movement in northern California.&lt;ref&gt;{{cite book|last=Linhares|first=Diana L. Daniels ; with essays by Philip E.|title=Clayton Bailey's world of wonders|year=2011|publisher=Crocker Art Museum|location=Sacramento, CA|isbn=978-1-8840-3822-8|pages=21|author2=Frank, Patrick}}&lt;/ref&gt; In 1968, Bailey permanently relocated to the Bay Area,&lt;ref name="WOW"/&gt; where he soon became a key figure in the region's  developing Funk art scene.&lt;ref&gt;{{cite book|last=Linhares|first=Diana L. Daniels ; with essays by Philip E.|title=Clayton Bailey's world of wonders|year=2011|publisher=Crocker Art Museum|location=Sacramento, CA|isbn=978-1-8840-3822-8|pages=44|author2=Frank, Patrick}}&lt;/ref&gt;
+
+==Exhibitions==
+
+Founded in [[Folsom, California]], in 1962, the [[Candy Store Gallery]] played a key role in promoting Funk art by means of regular exhibitions until its closure in 1992.&lt;ref&gt;{{cite book|last=Linhares|first=Diana L. Daniels ; with essays by Philip E.|title=Clayton Bailey's world of wonders|year=2011|publisher=Crocker Art Museum|location=Sacramento, CA|isbn=978-18840-3822-8|pages=8|author2=Frank, Patrick}}&lt;/ref&gt;
+
+==Important figures of the Funk art school==
+* [[Robert Arneson]]
+* [[Clayton Bailey]]
+* [[Mark Bulwinkle]]&lt;ref name=honolulu11&gt;Honolulu Museum of Art, ''Spalding House: Self-guided Tour, Sculpture Garden, p. 19&lt;/ref&gt;  
+* [[Bruce Conner]]
+* [[Roy De Forest]]
+* [[Robert H. Hudson]]
+* [[Ed Kienholz]]
+* [[Manuel Neri]]
+* [[Gladys Nilsson]]
+* [[Jim Nutt]]
+* [[Peter Saul]]
+* [[Carlos Villa]] &lt;ref&gt;{{Cite news|url=https://openspace.sfmoma.org/2013/03/carlos-villa-1936-2013-3/|title=Carlos Villa passed 1936–2013|last=Cobb|first=Chris|date=March 24, 2013|work=SFMOMA Open Space|access-date=Dec 6, 2017|archive-url=https://www.webcitation.org/6vVU56BD7|archive-date=Dec 6, 2017|dead-url=}}&lt;/ref&gt;
+* [[William T. Wiley]]
+* [[David Gilhooly]]
+* [[Patti Warashina]]
+* [[Viola Frey]]
+
+== References ==
+&lt;references/&gt;
+
+==Sources==
+* Daniels, Diana L., ''Clayton Bailey's World of Wonders'', Sacramento, Crocker Art Museum, 2011.
+* Dempsey, Amy, ''Styles, Schools and Movements, The Essential Encyclopaedic Guide to Modern Art'', New York, Thames &amp; Hudson, 2005.
+* San Jose Museum of Art, ''The Lighter Side of Bay Area Figuration'', San Jose, California, San Jose Museum of Art, 2000.
+
+==External links==
+* [http://www.canadianclayandglass.ca/ The Canadian Clay &amp; Glass Gallery]
+
+[[Category:Art movements]]</text>
+      <sha1>gdpivnwyqljiy8y41vig1nm2n8c2xym</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Futurist Painting: Technical Manifesto</title>
+    <ns>0</ns>
+    <id>45389345</id>
+    <revision>
+      <id>784834503</id>
+      <parentid>783701983</parentid>
+      <timestamp>2017-06-10T10:20:14Z</timestamp>
+      <contributor>
+        <username>Magic links bot</username>
+        <id>30707369</id>
+      </contributor>
+      <minor/>
+      <comment>Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1643">The '''''Futurist Painting: Technical Manifesto''''' (1910) by [[Umberto Boccioni]] (1882-1916) was the first exposition of the theoretical underpinnings of [[Italian Futurists|Italian Futurist]] painting.&lt;ref&gt;Tisdall, Caroline, and Angelo Bozzolla. (1977) ''Futurism''. London: [[Thames &amp; Hudson]], p. 32. {{ISBN|0500201595}}&lt;/ref&gt;
+
+==Publication==
+The manifesto was first published as a leaflet in ''[[Poesia (magazine)|Poesia]]'', in Milan, 11 April 1910.&lt;ref&gt;[[Umbro Apollonio|Apollonio, Umbro]], (Ed.) (1973) ''Futurist Manifestos''. London: Thames &amp; Hudson, p. 27. {{ISBN|0500201323}}&lt;/ref&gt; Apart from Boccioni, it was signed by [[Carlo Carrà]], [[Luigi Russolo]], [[Giacomo Balla]] and [[Gino Severini]], although they did not necessarily all contribute to the text. The translation most often used in English is from the ''[[Exhibition of Works by the Italian Futurist Painters]]'' at the [[Sackville Gallery]] in London, March 1912.
+
+==Antecedents==
+The manifesto built on the publication of the ''[[Manifesto of Futurism]]''  by [[Filippo Marinetti]] in ''[[Le Figaro]]'' in Paris in 1909 and Boccioni's ''[[Manifesto of the Futurist Painters]]'' published as a leaflet in ''Poesia'', 11 February 1910, neither of which had described in detail how Futurist ideas would be represented on the canvas.
+
+==References==
+{{Reflist}}
+
+{{Italic title}}
+
+[[Category:Futurist painting| ]]
+[[Category:Art manifestos]]
+[[Category:Umberto Boccioni]]
+[[Category:Futurism]]
+[[Category:Futurist paintings]]
+[[Category:Italian Futurist painters| ]]
+[[Category:1910 in art]]
+[[Category:1910 in Italy]]
+[[Category:1910 documents]]
+
+
+{{-}}
+{{art-stub}}</text>
+      <sha1>4ft8sn6i7wfy4qi9pf2or360v2kqi6o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Genre fiction</title>
+    <ns>0</ns>
+    <id>210085</id>
+    <revision>
+      <id>868984950</id>
+      <parentid>868217394</parentid>
+      <timestamp>2018-11-15T17:49:14Z</timestamp>
+      <contributor>
+        <username>CommonsDelinker</username>
+        <id>2304267</id>
+      </contributor>
+      <comment>Removing [[:c:File:BramStoker.jpg|BramStoker.jpg]], it has been deleted from Commons by [[:c:User:Jcb|Jcb]] because: No [[:c:COM:Source|source]] since 7 November 2018.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="38997">{{original research|date=September 2009}}
+'''Genre fiction''', also known as '''popular fiction''', is a term used in the book-trade for [[fiction|fictional works]] written with the intent of fitting into a specifically [[literary genre]], in order to appeal to readers and fans already familiar with that genre.&lt;ref&gt;{{cite web|last=French|first=Christy Tillery|title=Literary Fiction vs Genre Fiction|url=http://www.authorsden.com/visit/viewArticle.asp?id=18884|work=AuthorsDen|accessdate=10 April 2013}}&lt;/ref&gt; 
+
+Although Genre fiction is generally distinguished from [[literary fiction]], a number of major literary figures have also written genre fiction, for example, [[John Banville]], publishes crime novels as Benjamin Black, and both [[Doris Lessing]], and [[Margaret Atwood]] have written science fiction. [[Georges Simenon]], the creator of the [[Maigret]] [[detective novel]]s, has been described by [[André Gide]] as "the most novelistic of novelists in French literature".&lt;ref&gt;Charles E. Claffey, ''The Boston Globe September'',  10, 1989 Contributing to this report was Boston Globe book editor Mark Feeney. http://articles.sun-sentinel.com/1989-09-10/features/8903020475_1_inspector-maigret-georges-simenon-detective-story&lt;/ref&gt;
+
+The main genres are crime, fantasy, romance, science fiction, western, inspirational, historical fiction and horror. More commercially oriented genre fiction has been dismissed by literary critics as poorly written or escapist.&lt;ref name=time/&gt;
+
+==Genre and the marketing of fiction==
+
+In the publishing industry the term "category fiction" is often used as a synonym for genre fiction, with the categories serving as the familiar shelf headings within the fiction section of a bookstore, such as [[Western fiction|Western]] or mystery.
+
+The uncategorized section is known in the industry as "general fiction", but in fact many of the titles in this usually large section are often themselves genre novels that have been placed in the general section because sellers believe they will appeal, due to their high quality or other special characteristics, to a wider audience than merely the readers of that genre.{{citation needed|date=September 2018}}
+
+Adult fans are often embarrassed to read genre fiction in public,&lt;ref name=wollheim200606&gt;{{Cite magazine|url=http://www.locusmag.com/2006/Issues/06Wollheim.html|title=Locus Online: Betsy Wollheim interview excerpts|magazine=Locus |date=June 2006 | access-date=2017-12-06}}&lt;/ref&gt; but authors known for literary fiction have written novels under pseudonyms.&lt;ref&gt;{{cite news|last=Merritt|first=Stephanie|title=Forget 'serious' novels, I've turned to a life of crime|url=https://www.theguardian.com/books/2010/feb/14/crime-fiction-merritt-sj-parris|work=The Guardian|accessdate=11 April 2013|location=London|date=14 February 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=STASIO|first=MARILYN|title=Next Victim|url=https://www.nytimes.com/2008/04/20/books/review/Stasio-t.html?pagewanted=print&amp;_r=0|work=The New York Times|accessdate=11 April 2013|date=20 April 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=KAKUTANI|first=MICHIKO|title=Critic's Notebook; Kill! Burn! Eviscerate! Bludgeon! It's Literary Again to Be Horrible.|url=https://www.nytimes.com/1989/11/21/books/critic-s-notebook-kill-burn-eviscerate-bludgeon-it-s-literary-again-be-horrible.html?pagewanted=all&amp;src=pm|work=The New York Times|accessdate=11 April 2013|date=21 November 1989}}&lt;/ref&gt; With the demise of the hardback book, distinctions between genre fiction and literary fiction may begin to blur, with appropriate changes in marketing.&lt;ref&gt;{{cite news|last=Hill|first=Dave|title=Comment is free:  Hard to say goodbye|url=https://www.theguardian.com/commentisfree/2007/nov/26/oneofthethingsthat1?INTCMP=SRCH|work=The Guardian|accessdate=11 April 2013|location=London|date=26 November 2007}}&lt;/ref&gt;
+
+Though a production not promoted by secondary criticism it is popular literature that holds the largest market share.{{clarify|date=September 2018}} Romance fiction had an estimated $1.375 billion share in the US book market in 2007. Religion/inspirational literature followed with $819 million, science fiction/fantasy with $700 million, mystery with $650 million and then classic literary fiction with $466 million.&lt;ref&gt;See the page [http://www.rwanational.org/cs/the_romance_genre/romance_literature_statistics Romance Literature Statistics: Overview] {{webarchive|url=https://web.archive.org/web/20071223085813/http://www.rwanational.org/cs/the_romance_genre/romance_literature_statistics |date=2007-12-23 }} (visited March 16, 2009) of ''[http://www.rwanational.org/cs/home Romance Writers of America] {{webarchive|url=https://web.archive.org/web/20101203140439/http://www.rwanational.org/cs/home |date=2010-12-03 }}'' homepage. The subpages offer further statistics for the years since 1998.&lt;/ref&gt;
+
+==History of genres==
+{{See also|History of fantasy|History of science fiction}}
+[[Genre]] began as an absolute classification system for [[ancient Greek literature]]. [[Poetry]], [[prose]], and [[drama]] each had a specific and calculated style that related to the theme of the story.  Among the genres were the [[epic (genre)|epic]] in poetry and [[tragedy]] and [[comedy]] for plays.&lt;ref&gt;Hadas, Moses (1950). ''A History of Greek Literature''. New York, NY: Columbia University Press.&lt;/ref&gt; In later periods other genres such as the [[chivalric romance]], [[opera]], and [[prose fiction]] developed.
+
+Though the [[novel]] is often seen as a modern genre, [[Ian Watt]], in ''The Rise of the Novel'' (1957) suggests that the novel first came into being in the early 18th century,&lt;ref name=Obituary&gt;{{cite web|title=Literary critic Ian Watt dies after a long illness|url=http://news.stanford.edu/pr/99/991217watt.html|website=Stanford News Service|accessdate=8 August 2015}}&lt;/ref&gt; it has also been described as possessing "a continuous and comprehensive history of about two thousand years", from the time of both [[Classical Greece]] and [[Classical Rome|Rome]].&lt;ref name="The True Story of the Novel"&gt;Margaret Anne Doody, [https://books.google.com/books?id=BBYU6jyA3MUC&amp;pg=PA1 ''The True Story of the Novel'']. New Brunswick, NJ: Rutgers University Press, 1996, rept. 1997, p. 1. Retrieved 25 April 2014.&lt;/ref&gt;
+
+The "romance" is a closely related long prose narrative. [[Walter Scott]] defined it as "a fictitious narrative in prose or verse; the interest of which turns upon marvellous and uncommon incidents", whereas in the novel "the events are accommodated to the ordinary train of human events and the modern state of society".&lt;ref&gt;"Essay on Romance", ''Prose Works'' volume vi, p.129, quoted in "Introduction" to Walter Scott's ''Quentin Durward'', ed. Susan Maning. Oxford: Oxford University Press, 1992, p.xxv.&lt;/ref&gt; However, many romances, including the [[Historical novel|historical romance]]s of Scott,&lt;ref&gt;"Introduction" to Walter Scott's ''Quentin Durward'', ed. Susan Maning, pp.xxv-xxvii.&lt;/ref&gt; [[Emily Brontë]]'s ''[[Wuthering Heights]]''&lt;ref name="Moers, Ellen 1978"&gt;Moers, Ellen. ''Literary Women: The Great Writers''[1976] (London: The Women’s Press, 1978)&lt;/ref&gt; and [[Herman Melville]]'s ''[[Moby-Dick]]'',&lt;ref&gt;[https://www.theguardian.com/books/2014/jan/13/100-best-novels-observer-moby-dick] Robert McCrum, "The Hundred best novels: Moby Dick", ''The Observer'', Sunday 12 January 2014.&lt;/ref&gt; are also frequently called novels, and Scott describes romance as a "kindred term". Romance, as defined here, should not be confused with the genre fiction love romance or [[romance novel]]. Other European languages do not distinguish between romance and novel: "a novel is ''le roman'', ''der Roman'', ''il romanzo''."&lt;ref name="Doody 1996, p. 15"&gt;Doody (1996), p. 15.&lt;/ref&gt;
+
+Genre fiction developed from various subgenres of the novel (and its "romance" version) during the nineteenth century, along with the growth of the [[mass-marketing]] of fiction in the twentieth century: this includes the [[gothic novel]], [[fantasy]], [[science fiction]], [[adventure novel]], [[historical romance]], and the [[detective novel]]. Some scholars see precursors to the genre fiction [[romance novel]]s in [[literary fiction]] of the 18th and 19th centuries, including [[Samuel Richardson]]'s [[sentimental novel]] ''[[Pamela, or Virtue Rewarded]]'' (1740) and the novels of [[Jane Austen]] such as ''[[Pride and Prejudice]]'' (1813).&lt;ref&gt;Pamela Regis, ''A Natural History of the Romance Novel'', University of Pennsylvania Press, 2007.&lt;/ref&gt;
+
+==The genres==
+{{mainlist|List of literary genres}}
+The following are some of the main genres as they are used in contemporary publishing:
+
+===Crime===
+{{Main article|Crime fiction|Detective fiction}}
+Crime fiction is the [[literary genre]] that fictionalises [[crime]]s, their detection, criminals, and their [[Motive (law)|motives]]. It is usually distinguished from [[Literary fiction|mainstream]] fiction and other genres such as [[historical fiction]] or [[science fiction]], but the boundaries are indistinct. Crime fiction has multiple [[subgenres]],&lt;ref&gt;{{Cite journal|url = http://search.informit.com.au/documentSummary;dn=990082541924074;res=IELAPA|title = May I Suggest Murder?: An Overview of Crime Fiction for Readers' Advisory Services Staff|last = Franks|first = Rachel|date = 2011|journal = Australian Library Journal|doi = |pmid = |access-date = 18 January 2016|volume = 60|issue = 2}}&lt;/ref&gt; including [[detective fiction]] (such as the [[whodunit]]), [[courtroom drama]], [[hardboiled|hard-boiled]] fiction, [[mystery fiction]], and [[legal thriller]]s. [[Suspense]] and mystery are key elements to the genre.
+
+===Fantasy===
+{{Main article|Fantasy|History of fantasy|Fantasy literature}}
+[[Fantasy]] is a [[genre]] of [[fiction]] that uses [[magic (paranormal)|magic]] or other [[supernatural]] elements as a main [[Plot (narrative)|plot]] element, [[Theme (literature)|theme]], or [[Setting (fiction)|setting]]. Many works within the genre take place in [[imaginary world]]s where magic and [[Legendary creature|magical creatures]] are common. Fantasy is generally distinguished from the genres of [[science fiction]] and [[horror fiction|horror]] by the expectation that it steers clear of scientific and macabre themes, respectively, though there is a great deal of overlap among the three, all of which are subgenres of [[speculative fiction]]. In [[popular culture]], the fantasy genre predominantly features a [[Medievalism|medieval]]-type setting.
+
+===Romance===
+{{Main article|Romance novel}}
+The [[romance novel]] or "romantic novel" primarily focuses on the relationship and [[Romance (love)|romantic love]] between two&amp;nbsp;people, and must have an "emotionally satisfying and optimistic ending."&lt;ref name="rwadefn"&gt;{{cite web   | title = The Romance Genre Overview | publisher = [[Romance Writers of America]]  | url =http://www.rwa.org/p/cm/ld/fid=578  | accessdate = November 26, 2013}}&lt;/ref&gt; There are many subgenres of the romance novel including [[fantasy]], [[Historical romance|historical]], [[science fiction]], same sex romantic fiction, and [[paranormal fiction]].
+
+There is a [[literary fiction]] form of romance, which [[Walter Scott]] defined as "a fictitious narrative in prose or verse; the interest of which turns upon marvellous and uncommon incidents".&lt;ref&gt;Walter Scott, "Essay on Romance", ''Prose Works'' volume vi, p. 129, quoted in "Introduction" to Walter Scott's ''Quentin Durward'', Susan Maning, ed Oxford: Oxford University Press, 1992.&lt;/ref&gt;
+
+According to ''Romance Writers of America''{{'s}} data,&lt;ref&gt;[https://www.rwa.org/p/cm/ld/fid=582 Romance Writers of America]&lt;/ref&gt; the most important subgenres are: [[Category romance|Contemporary series romance]], [[Contemporary romance]], [[Historical romance]], [[Paranormal romance]], [[Romantic suspense]], [[Inspirational fiction|Inspirational romance]], Romantic suspense (series).
+*Other: [[chick-lit]], [[erotic romance novels|erotic romance]], [[women's fiction]], [[Young Adult Romance Literature|Young adult romance]].
+
+===Science fiction===
+{{Main article|Science fiction}}
+Science fiction is a [[genre]] of [[speculative fiction]] dealing with [[imagination|imaginative]] concepts such as [[future|futuristic]] [[science]] and [[technology]], [[spaceflight|space travel]], [[Time travel in fiction|time travel]], [[faster than light travel]], [[parallel universe (fiction)|parallel universes]] and [[extraterrestrial life]]. Science fiction often explores the potential consequences of scientific and other [[innovation]]s, and has been called a "literature of ideas".&lt;ref name="Science Fiction: The Literature of Ideas"&gt;{{cite web |author1=Marg Gilks |author2=Paula Fleming |author3=Moira Allen | title = Science Fiction: The Literature of Ideas | work = | publisher =WritingWorld.com | year =2003 | url = http://www.writing-world.com/sf/sf.shtml | accessdate = }}&lt;/ref&gt; It usually eschews the [[supernatural]], and unlike the related genre of [[fantasy]], historically science fiction stories were intended to have at least pretense of [[science|science-based fact or theory]] at the time the story was created, but this connection has become tenuous or non-existent in much of science fiction.&lt;ref&gt;{{cite web|url=http://www.loa.org/sciencefiction/introduction.jsp |title=Archived copy |accessdate=November 8, 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150506221319/http://www.loa.org/sciencefiction/introduction.jsp |archivedate=May 6, 2015 }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://web.mit.edu/comm-forum/papers/jenkins_mi.html |title=Media and Imagination: A Short History of American Science Fiction |publisher=Web.mit.edu |date= |accessdate=2015-12-17}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Misa |url=http://misabuckley.com/does-the-science-in-science-fiction-matter/ |title=Does the Science in Science Fiction Matter? |publisher=Misa Buckley |date=2013-03-25 |accessdate=2015-12-17}}&lt;/ref&gt;
+
+===Western===
+{{Main article|Western fiction}}
+Western fiction is defined primarily by being set in the [[Western United States|American West]] in the second half of the 19th century and, secondarily, by featuring heroes who are rugged, individualistic horsemen ([[cowboy]]s). Other genres, such as romance, have subgenres that make use of the Western setting.
+
+===Inspirational===
+{{Main article|Inspirational fiction}}
+Inspirational fiction is fictional works with faith-based themes.  It may be targeted at a specific demographic, such as Christians.  Modern inspirational fiction has grown to encompass non-traditional subgenres, such as inspirational thrillers.
+
+===Horror===
+{{Main article|Horror fiction}}
+[[Horror fiction]] aims to frighten or disgust its readers.  Although many horror novels feature supernatural phenomena or monsters, it is not required.  Early horror took much inspiration from [[Romanticism]] and [[Gothic fiction]].  Modern horror, such as [[cosmic horror]] and [[splatterpunk]], tends to be less melodramatic and more explicit.  Horror is often mixed with other genres.
+
+==Critical appraisal and controversy==
+Although frequently ignored or ridiculed by literary critics, genre fiction has achieved a measure of acceptance among some modern critics, with [[Stephen King]] being awarded the [[National Book Award|Medal for Distinguished Contribution to American Letters]];&lt;ref name=natbook&gt;[http://www.nationalbook.org/amerletters.html "Distinguished Contribution to American Letters "], National Book Foundation, Retrieved March 11, 2011.&lt;/ref&gt; but this polarized opinions and led to debate on genre fiction's literary merit.  Negative comments about genre fiction have sparked responses from ''[[Time (magazine)|Time]]'',&lt;ref name=time&gt;{{cite news|last=Grossman|first=Lev|title=Literary Revolution in the Supermarket Aisle: Genre Fiction Is Disruptive Technology|url=http://entertainment.time.com/2012/05/23/genre-fiction-is-disruptive-technology/|work=Time|accessdate=11 April 2013|date=23 May 2012}}&lt;/ref&gt;  ''[[Salon (website)|Salon]]'',&lt;ref&gt;{{cite web|last=Nelson|first=Erik|title=Stephen King: You can be popular and good|url=http://www.salon.com/2012/07/06/stephen_king_you_can_be_popular_and_good/|work=Salon|accessdate=11 April 2013}}&lt;/ref&gt; ''[[the Atlantic]]'',&lt;ref&gt;{{cite web|last=Jacobs|first=Alan|title=A Defense of Stephen King, Master of the Decisive Moment|url=https://www.theatlantic.com/entertainment/archive/2012/07/a-defense-of-stephen-king-master-of-the-decisive-moment/260187/|work=The Atlantic|accessdate=11 April 2013}}&lt;/ref&gt; and the ''[[Los Angeles Review of Books]]''.&lt;ref&gt;{{cite web |last=Dickey |first=Colin |title=King &amp; I: Stephen King and a Balanced Diet |url=http://lareviewofbooks.org/article.php?type=&amp;id=784&amp;fulltext=1&amp;media= |work=Los Angeles Review of Books |accessdate=11 April 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130414150715/http://lareviewofbooks.org/article.php?type=&amp;id=784&amp;fulltext=1&amp;media= |archivedate=14 April 2013 |df= }}&lt;/ref&gt; Nobel laureate [[Doris Lessing]] described science fiction as "some of the best [[social fiction]] of our time", and called [[Greg Bear]], author of ''[[Blood Music (novel)|Blood Music]]'', "a great writer". &lt;ref&gt;''[http://www.dorislessing.org/boston.html Doris Lessing: Hot Dawns]'', interview by Harvey Blume in ''Boston Book Review''&lt;/ref&gt;
+
+A number of major literary figures have written works of genre fiction. [[Graham Greene]] at the time of his death in 1991 had a reputation as a writer of both deeply serious novels on the theme of Catholicism,&lt;ref&gt;{{cite web|url=https://www.theguardian.com/books/2004/oct/03/biography.grahamgreene|title=More Sherry trifles|author=Ian Thomson|publisher=
+The Observer|date=3 October 2004 }}&lt;/ref&gt; and of "suspense-filled stories of detection".&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=_G2mAAAAIAAJ&amp;pg=PA23#v=onepage&amp;q&amp;f=false|page=23|title=Graham Greene: The Major Novels|author=Lynette Kohn|publisher=Stanford University Press|date= 1961}}&lt;/ref&gt; Acclaimed during his lifetime, he was shortlisted in 1966&lt;ref name="nobelprize1966"&gt;[https://www.nobelprize.org/nomination/literature/1966.html Candidates for the 1966 Nobel Prize in Literature]&lt;/ref&gt; for the [[Nobel Prize for Literature]].&lt;ref name=Prize&gt;{{cite book|url=https://books.google.com/books?id=LJtz0iWO4O4C&amp;pg=PA364#v=onepage&amp;q&amp;f=false|page=264|title=Encyclopedia of the Essay|author=Robert C. Steensma|publisher=Taylor &amp; Francis|date= 1997}}&lt;/ref&gt;
+
+In the 2000s, the [[BBC]] defended itself against charges that it had sneered at genre fiction,&lt;ref&gt;{{cite news|last=Flood|first=Alison|title=BBC denies 'sneering' at genre fiction|url=https://www.theguardian.com/books/2011/apr/21/bbc-genre-fiction?INTCMP=SRCH|work=The Guardian|accessdate=11 April 2013|location=London|date=21 April 2011}}&lt;/ref&gt; while the [[Man Booker]]&lt;ref&gt;{{cite news|last=Flood|first=Alison|title=Science fiction author hits out at Booker judges|url=https://www.theguardian.com/books/2009/sep/18/science-fiction-booker-prize|work=The Guardian|accessdate=11 April 2013|location=London|date=18 September 2009}}&lt;/ref&gt; and [[National Book Awards]]&lt;ref&gt;{{cite web|last=Miller|first=Laura|title=National Book Awards: Genre fiction dissed again|url=http://www.salon.com/2012/10/11/national_book_awards_genre_fiction_dissed_again/|work=Salon|accessdate=11 April 2013}}&lt;/ref&gt; have been criticized for ignoring genre fiction in their selection process. 
+
+Some critics have claimed that reading romance and suspense thrillers makes readers more sensitive, because these novels focus on interpersonal relationships.&lt;ref&gt;Fong, K., Mullin, J.B., &amp; Mar, R.A. (2013). "What you read matters: The role of fiction genre in prediction interpersonal sensitivity". ''Psychology of Aesthetics, Creativity, And The Arts'', 7(4), 370-376.&lt;/ref&gt;
+
+==19th-century British and Irish genre fiction==
+
+{{refimprove section|date=March 2016}}
+
+[[Sir John Barrow]]'s descriptive [[The Eventful History of the Mutiny and Piratical Seizure of HMS Bounty|1831 account]] of the [[Mutiny on the Bounty]] immortalised the Royal Navy ship {{HMS|Bounty}} and her people. The legend of [[Dick Turpin]] was popularised when the 18th-century English [[highwayman]]'s exploits appeared in the novel ''[[Rookwood (novel)|Rookwood]]'' in 1834.
+
+Although pre-dated by [[John Ruskin]]'s ''[[The King of the Golden River]]'' in 1841, the history of the modern [[fantasy literature|fantasy]] genre is generally said to begin with [[George MacDonald]], the influential author of ''[[The Princess and the Goblin]]'' and ''[[Phantastes]]'' (1858). [[William Morris]] was a popular English poet who also wrote several fantasy novels during the latter part of the nineteenth century. [[Wilkie Collins]]' [[epistolary novel]] ''[[The Moonstone]]'' (1868), is generally considered the first [[Detective fiction|detective novel]] in the English language, while ''[[The Woman in White (novel)|The Woman in White]]'' is regarded as one of the finest [[sensation novels]]. [[H. G. Wells]]'s (1866–1946) writing career began in the 1890s with science fiction novels like ''[[The Time Machine]]'' (1895), and ''[[The War of the Worlds]]'' (1898) which describes an invasion of late Victorian England by [[Martian]]s, and Wells is seen, along with Frenchman [[Jules Verne]] (1828–1905), as a major figure in the development of the science fiction genre. He also wrote realistic fiction about the lower middle class in novels like ''[[Kipps]]'' (1905) and ''[[The History of Mr Polly]]'' (1910).
+
+[[Penny dreadful]] publications were an alternative to mainstream works, and were aimed at working class adolescents, introducing the infamous [[Sweeney Todd]]. The premier [[ghost story]] writer of the 19th century was the Irish writer [[Sheridan Le Fanu]]. His works include the macabre mystery novel ''[[Uncle Silas]]'' 1865, and his Gothic novella ''[[Carmilla]]'' 1872, tells the story of a young woman's susceptibility to the attentions of a female vampire. The [[vampire literature|vampire genre]] fiction began with [[John William Polidori]]'s "[[The Vampyre]]" (1819). This short story was inspired by the life of [[George Gordon Byron, 6th Baron Byron|Lord Byron]] and his poem ''[[The Giaour]]''. An important later work is ''[[Varney the Vampire]]'' (1845), where many standard vampire conventions originated: Varney has fangs, leaves two puncture wounds on the neck of his victims, and has hypnotic powers and superhuman strength. Varney was also the first example of the "sympathetic vampire", who loathes his condition but is a slave to it.&lt;ref&gt;Skal, David J. (1996). ''V is for Vampire'', p.99. New York: Plume. {{ISBN|0-452-27173-8}}.&lt;/ref&gt; [[Bram Stoker]], yet another Irish writer, was the author of seminal horror work ''[[Dracula]]'' and featured as its primary antagonist the vampire [[Count Dracula]], with the [[vampire hunter]] [[Abraham Van Helsing]] his arch-enemy. ''Dracula'' has been attributed to a number of [[literary genre]]s including [[vampire literature]], [[horror fiction]], [[gothic novel]] and [[invasion literature]].
+
+[[Image:PortraitOfACD.JPG|thumb|165px|[[Sir Arthur Conan Doyle]] was born in Scotland of Irish parents but his [[Sherlock Holmes]] stories have typified a fog-filled London for readers worldwide]]
+[[Sir Arthur Conan Doyle]]'s [[Sherlock Holmes]] is a brilliant London-based "consulting detective", famous for his intellectual prowess, skilful use of astute observation, deductive reasoning and forensic skills to solve difficult cases. Holmes' [[archenemy]] [[Professor Moriarty]], is widely considered to be the first true example of a [[supervillain]], while Sherlock Holmes has become a by-word for a detective. Conan Doyle wrote four novels and fifty-six short stories featuring Holmes, from 1880 up to 1907, with a final case in 1914. All but four Conan Doyle stories are narrated by Holmes' friend, assistant, and biographer, [[John Watson (Sherlock Holmes)|Dr John H. Watson]].
+
+The [[Lost World (genre)|Lost World]] literary genre was inspired by real stories of archaeological discoveries by imperial adventurers. [[H. Rider Haggard]] wrote one of the earliest examples, ''[[King Solomon's Mines]]'' in 1885. Contemporary European politics and diplomatic manoeuvrings informed [[Anthony Hope]]'s swashbuckling [[Ruritanian romance|Ruritanian adventure novels]] ''[[The Prisoner of Zenda]]'' 1894, and ''[[Rupert of Hentzau]]'', 1898.
+
+[[F. Anstey]]'s [[comic novel]] ''[[Vice Versa (book)|Vice Versa]]'' 1882, sees a father and son magically switch bodies. Satirist [[Jerome K. Jerome]]'s ''[[Three Men in a Boat]]'' 1889, is a humorous account of a boating holiday on the river [[Thames]]. Grossmith brothers [[George Grossmith|George]] &amp; [[Weedon Grossmith|Weedon]]'s ''[[Diary of a Nobody]]'' 1892, is also considered a classic work of humour.
+
+==20th-century genre fiction==
+
+===Early 20-century===
+[[Erskine Childers (author)|Erskine Childers]]' ''[[The Riddle of the Sands]]'' (1903), defined the [[spy novel]] and Follett has also called it "the first modern [[Thriller (genre)|thriller]]".&lt;ref name=follett&gt;{{cite web |url=http://ken-follett.com/suspense/index.html |title=The Art of Suspense |first=Ken |last=Follett |work=ken-follett.com |year=2016 |accessdate=11 May 2016}}&lt;/ref&gt;
+
+[[Emma Orczy]]'s ''[[The Scarlet Pimpernel]]'' (1903) was originally a highly successful play, when staged in London in 1905. The novel ''The Scarlet Pimpernel'' was published soon after the play opened and was an immediate success. Orczy gained a following of readers in Britain and throughout the world. The popularity of the novel, which recounted the adventures of a member of the English gentry in the [[French Revolution]]ary period, encouraged her to write a number of sequels for her "reckless daredevil" over the next 35 years. The play was performed to great acclaim in France, Italy, Germany and Spain, while the novel was translated into 16 languages. Subsequently, the story has been adapted for television, film, a [[The Scarlet Pimpernel (musical)|musical]] and other media. Baroness Orczy's character ''[[The Old Man in the Corner]]'' (1908) was among the earliest [[armchair detective]]s to be created. Her short stories about ''[[Lady Molly of Scotland Yard]]'' (1910) were an early example of a female detective as main character.
+
+[[John Buchan]] wrote the [[adventure novel]]s on ''[[Prester John (novel)|Prester John]]'' (1910) and four novels telling the adventures of [[Richard Hannay]], of which the first, ''[[The Thirty-Nine Steps]]'' (1915) is the best known. Novels featuring a gentleman adventurer were popular in the [[interwar period]], exemplified by the series of [[H. C. McNeile]] with ''[[Bulldog Drummond]]'' (1920), and [[Leslie Charteris]], whose many books chronicled the adventures of [[Simon Templar]], alias ''[[Simon Templar#Publishing history|The Saint]]''.
+
+[[Image:Agatha Christie.png|upright=0.7|thumb|[[Agatha Christie]]]]
+
+The [[medievalist]] scholar [[M. R. James]] wrote highly regarded ghost stories (1904–1928) in contemporary settings.
+
+This was called the [[Golden Age of Detective Fiction]]. [[Agatha Christie]], a writer of crime novels, short stories and plays, is best remembered for her 80 detective novels and her successful West End theatre plays. Christie's works, particularly those featuring the detectives [[Hercule Poirot]] or [[Miss Marple]], made her one of the most important and innovative writers in the development of the genre. Her most influential novels include ''[[The Murder of Roger Ackroyd]]'' (1926); one of her most controversial novels, its innovative [[twist ending]] had a significant impact on the genre), ''[[Murder on the Orient Express]]'' (1934), ''[[Death on the Nile]]'' (1937) and ''[[And Then There Were None]]'' (1939). Other female writers dubbed "Queens of crime" include [[Dorothy L. Sayers]] ([[gentleman detective]], [[Lord Peter Wimsey]]), [[Margery Allingham]] ([[Albert Campion]], supposedly created as a parody of Sayers' Wimsey,&lt;ref&gt;{{cite web|url=http://www.strandmag.com/campion.htm|title=The Great Detectives: Albert Campion|work=Strand Mag}}&lt;/ref&gt;) and New Zealander [[Ngaio Marsh]] ([[Roderick Alleyn]]). [[Georgette Heyer]] recreated the [[historical romance]] genre since 1921, and also wrote detective fiction (1932–1953).
+
+[[Image:Tolkien 1916.jpg|upright=0.7|thumb|[[J. R. R. Tolkien]]]]
+
+A major work of science fiction, from the early 20th century, is ''[[A Voyage to Arcturus]]'' by Scottish writer [[David Lindsay (novelist)|David Lindsay]], first published in 1920. It combines [[fantasy]], philosophy, and science fiction in an exploration of the nature of good and evil and their relationship with existence. It has been described by critic and philosopher [[Colin Wilson]] as the "greatest novel of the twentieth century",&lt;ref&gt;[http://www.scifidimensions.com/Nov03/arcturus.htm Book Review: A Voyage to Arcturus (1920) by David Lindsay] {{webarchive |url=https://web.archive.org/web/20141215000000/http://www.scifidimensions.com/Nov03/arcturus.htm |date=December 15, 2014 }} – Review by Paul M. Kieniewicz 2003&lt;/ref&gt; and was a central influence on [[C. S. Lewis]]'s ''[[Space Trilogy]]''.&lt;ref&gt;Kathryn Lindskoog – [http://www.discovery.org/scripts/viewDB/index.php?command=view&amp;id=882 „A Voyage to Arcturus, C. S. Lewis, and The Dark Tower“].&lt;/ref&gt; Also [[J. R. R. Tolkien]] said he read the book "with avidity", and praised it as a work of philosophy, religion, and morality.&lt;ref&gt;{{cite web|url=http://www.thebookladysblog.com/2011/08/17/the-top-ten-books-that-influenced-j-r-r-tolkien/|title=thebookladysblog.com|publisher=}}&lt;/ref&gt; It was made widely available in paperback form when published as one of the precursor volumes to the [[Ballantine Adult Fantasy series]] in 1968.
+
+From the early 1930s to late 1940s, an informal [[literary]] discussion group associated with the English faculty at the University of Oxford, were the "[[Inklings]]". Its leading members were the major [[high fantasy|fantasy]] novelists; [[C. S. Lewis]] and [[J. R. R. Tolkien]]. Lewis is known for ''[[The Screwtape Letters]]'' (1942), ''[[The Chronicles of Narnia]]'' (1950–1956) and ''[[The Space Trilogy]]'' (1938–1945), while Tolkien is best known as the author of ''[[The Hobbit]]'' (1937), ''[[The Lord of the Rings]]'' (1954–1955), and ''[[The Silmarillion]]'' (1977).
+
+===Later 20th-century===
+In [[Thriller (genre)|thriller]] writing, [[Ian Fleming]] created the character [[James Bond 007]] in January 1952, while on holiday at his Jamaican estate, Goldeneye. Fleming chronicled Bond's adventures in twelve novels, including ''[[Casino Royale (novel)|Casino Royale]]'' (1953), ''[[Live and Let Die (novel)|Live and Let Die]]'' (1954), ''[[Dr. No (novel)|Dr. No]]'' (1958), ''[[Goldfinger (novel)|Goldfinger]]'' (1959), ''[[Thunderball (novel)|Thunderball]]'' (1961), ''[[The Spy Who Loved Me (novel)|The Spy Who Loved Me]]'' (1962), and nine short story works.
+
+In contrast to the larger-than-life spy capers of Bond, [[John le Carré]] was an author of [[spy fiction|spy novels]] who depicted a shadowy world of espionage and counter-espionage, and his best known novel ''[[The Spy Who Came in from the Cold]]'' (1963), is often regarded as one of the greatest in the genre. [[Frederick Forsyth]] writes thriller novels, including ''[[The Day of the Jackal]]'' (1971), ''[[The Odessa File]]'' (1972), ''[[The Dogs of War (novel)|The Dogs of War]]'' (1974) and ''[[The Fourth Protocol]]'' (1984). [[Ken Follett]] writes spy thrillers, his first success being ''[[Eye of the Needle (novel)|Eye of the Needle]]'' (1978), followed by ''[[The Key to Rebecca]]'' (1980), as well as historical novels, notably ''[[The Pillars of the Earth]]'' (1989), and its sequel ''[[World Without End (Follett novel)|World Without End]]'' (2007). [[Elleston Trevor]] is remembered for his 1964 adventure story ''[[The Flight of the Phoenix]]'', while the thriller novelist [[A. J. Quinnell|Philip Nicholson]] is best known for ''[[Man on Fire (Quinnell novel)|Man on Fire]]''. [[Peter George (author)|Peter George]]'s ''[[Red Alert (novel)|Red Alert]]'' (1958), is a Cold War thriller.
+
+[[War novel]]s include [[Alistair MacLean]] thriller's ''[[The Guns of Navarone (novel)|The Guns of Navarone]]'' (1957), ''[[Where Eagles Dare]]'' (1968), and [[Jack Higgins]]' ''[[The Eagle Has Landed (novel)|The Eagle Has Landed]]'' (1975). [[Patrick O'Brian]]'s [[sea story|nautical]] historical novels feature the ''[[Aubrey–Maturin series]]'' set in the [[Royal Navy]], the first being ''[[Master and Commander]]'' (1969).
+
+The "father of [[Wicca]]", [[Gerald Gardner (Wiccan)|Gerald Gardner]], began propagating his own version of [[witchcraft]] in the 1950s. Having claimed to have been initiated into the [[New Forest coven]] in 1939, Gardner published his books ''[[Witchcraft Today]]'' (1954) and ''[[The Meaning of Witchcraft]]'' (1959), the foundational texts for the religion of Wicca. [[Ronald Welch]]'s [[Carnegie Medal (literary award)|Carnegie Medal]] winning novel ''[[Knight Crusader]]'' is set in the 12th century and gives a depiction of the [[Third Crusade]], featuring the Christian leader and King of England [[Richard the Lionheart]].
+
+In crime fiction, the [[murder mystery|murder mysteries]] of [[Ruth Rendell]] and [[P. D. James]] are popular.
+
+[[Nigel Tranter]] wrote historical novels of celebrated Scottish warriors; [[Robert the Bruce]] in ''[[Historical novels by Nigel Tranter set between 1286 and 1603#Robert the Bruce trilogy|The Bruce Trilogy]]'', and [[William Wallace]] in ''[[Historical novels by Nigel Tranter set between 1286 and 1603#The Wallace|The Wallace]]'' (1975), works noted by academics for their accuracy.
+
+====Science fiction====
+[[Image:Clarke sm.jpg|upright=0.7|left|thumb|[[Arthur C. Clarke]]]]
+
+[[John Wyndham]] wrote [[Apocalyptic and post-apocalyptic fiction|post-apocalyptic]] science fiction, his most notable works being ''[[The Day of the Triffids]]'' (1951), and ''[[The Midwich Cuckoos]]'' (1957). [[George Langelaan]]'s ''[[The Fly (George Langelaan)|The Fly]]'' (1957), is a science fiction short story. [[List of science fiction authors|Science fiction novelist]] [[Arthur C. Clarke]]'s ''[[2001: A Space Odyssey (novel)|2001: A Space Odyssey]]'' (1968), is based on his various short stories, particularly ''[[The Sentinel (short story)|The Sentinel]]'' (1951). His other major novels include ''[[Rendezvous with Rama]]'' (1972), and ''[[The Fountains of Paradise]]'' (1979). [[Brian Aldiss]] is Clarke's contemporary.
+
+[[Michael Moorcock]] (born 1939) is a writer, primarily of science fiction and fantasy, who has also published a number of literary novels. He was involved with the 'New Wave' of science fiction writers "part of whose aim was to invest the genre with literary merit"&lt;ref&gt;''The Oxford Companion to English Literature'', p. 674.&lt;/ref&gt; Similarly [[J. G. Ballard]] (born 1930) "became known in the 1960s as the most prominent of the 'New Wave' science fiction writers".&lt;ref&gt;''The Oxford Companion to English Literature'', p. 64.&lt;/ref&gt; A later major figure in science fiction was [[Iain M. Banks]] who created a fictional anarchist, socialist, and utopian society named "[[The Culture]]". The novels that feature in it include ''[[Excession]]'' (1996), and ''[[Inversions (novel)|Inversions]]'' (1998). He also published mainstream novels, including the highly controversial ''[[The Wasp Factory]]'' in 1984. Nobel prize winner [[Doris Lessing]] also published a sequence of five science fiction novels the ''[[Canopus in Argos]]: Archives'' between 1979 and 1983.
+
+====Fantasy====
+[[Image:10TerryPratchett02.jpg|upright=0.7|left|thumb|[[Terry Pratchett]]]]
+
+[[Terry Pratchett]] is best known for his ''[[Discworld]]'' series of comic fantasy novels, that begins with ''[[The Colour of Magic]]'' (1983), and includes ''[[Mort]]'' (1987), ''[[Hogfather]]'' (1996), and ''[[Night Watch (Discworld)|Night Watch]]'' (2002). Pratchett's other most notable work is the 1990 novel ''[[Good Omens]]''.
+
+[[Philip Pullman]]'s fantasy trilogy ''[[His Dark Materials]]'' comprises ''[[Northern Lights (novel)|Northern Lights]]'' (1995), ''[[The Subtle Knife]]'' (1997), and ''[[The Amber Spyglass]]'' (2000). It follows the [[coming-of-age]] of two children as they wander through a series of [[parallel universe (fiction)|parallel universes]] against a backdrop of epic events.
+
+[[Neil Gaiman]] is a writer of science fiction, fantasy short stories and novels, whose notable works include ''[[Stardust (novel)|Stardust]]'' (1998), ''[[Coraline]]'' (2002), ''[[The Graveyard Book]]'' (2009), and ''[[The Sandman (Vertigo)|The Sandman]]'' series.
+
+[[Alan Moore]]'s works include ''[[Watchmen]]'', ''[[V for Vendetta]]'' set in a [[dystopia]]n future UK, ''[[The League of Extraordinary Gentlemen]]'', and ''[[From Hell]]'', speculating on the identity and motives of [[Jack the Ripper]].
+
+[[Douglas Adams]] wrote the five-volume [[Comic science fiction|science fiction comedy]] series ''[[The Hitchhiker's Guide to the Galaxy]]'', and also wrote the humorous fantasy detective novel ''[[Dirk Gently's Holistic Detective Agency]]''.
+
+====Horror====
+[[Clive Barker]] horror novels include ''[[The Hellbound Heart]]'' (1986), and works in fantasy, ''[[Weaveworld]]'' (1987), ''[[Imajica]]'' and ''[[Abarat]]'' (2002).
+
+==Age categories==
+Most genres of fiction may also be segmented by the age of the intended reader:
+* [[Children's fiction]]
+* Juvenile fiction or [[young adult fiction]]
+* Adult [[fiction]]
+
+==See also==
+{{columns-list|colwidth=30em|
+*[[Action fiction]]
+*[[Formula fiction]]
+*[[Genre studies]]
+*[[Historical fiction]]
+*[[Melodrama]]
+*[[Plot device]]
+*[[Stock character]]
+*[[Thriller (genre)]]
+}}
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+* Forbes, Jamie M. (1998). "Fiction Dictionary". In Herman, Jeff, ''Writer's Guide to Book Editors, Publishers, and Literary Agents 1999–2000'', pp.&amp;nbsp;861–871. Rocklin, California: Prima Publishing.
+* Gelder, Ken (2004). ''Popular Fiction: The Logics and Practices of a Literary Field''. London and New York: Routledge.  {{ISBN|0-415-35647-4}}
+* {{cite book
+ | last = Johnson-Woods
+ | first = Toni
+ | authorlink = Toni Johnson-Woods
+ | year = 2005
+ | title = Pulp: A collectors book of Australian pulp fiction covers
+ | publisher = Australian National Library
+ | location= Australia
+ | isbn = 0-642-10766-1
+ }}
+* Schneider-Mayerson, Matthew (2010). ''[https://www.academia.edu/706187/Popular_Fiction_Studies_The_Advantages_of_a_New_Field Popular Fiction Studies: The Advantages of a New Field]." Studies in Popular Culture, vol. 33, no 1 (2010): 21-35
+* Sutherland, John (1981). ''Bestsellers: Popular Fiction of the 1970s''. London and Boston: Routledge. {{ISBN|0-7100-0750-7}}
+* [[Peter Swirski|Swirski, Peter]] (2005). ''From Lowbrow to Nobrow''.  Montreal, London: McGill-Queen's University Press.  {{ISBN|978-0-7735-3019-5}}
+
+[[Category:Fiction]]
+[[Category:Genres]]
+[[Category:Theme]]
+[[Category:Literary theory]]</text>
+      <sha1>bmeu1g1hjkcrwl5e7vqnajb3uzsj545</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grand Center Arts District, St. Louis</title>
+    <ns>0</ns>
+    <id>2503603</id>
+    <revision>
+      <id>860864613</id>
+      <parentid>860365433</parentid>
+      <timestamp>2018-09-23T15:54:25Z</timestamp>
+      <contributor>
+        <username>Jon Phillips</username>
+        <id>472219</id>
+      </contributor>
+      <comment>/* See also */ added cortex to see also</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6228">{{Infobox St. Louis neighborhood
+&lt;!-- Basic info  ----------------&gt;
+| neighborhood       = Grand Center Arts District
+| neighborhoodnumber = 77
+| wards              = [[Ward 19, St. Louis City|19]]
+&lt;!-- images -----------&gt;
+| image      = Fox_theater_stl.jpg
+| caption    = The Fox Theatre is one of the largest theatres in Grand Center.
+| map        = STL Neighborhood Map 77.PNG
+| mapcaption = Location of Grand Center within [[St. Louis]]
+&lt;!-- Statistics    ---------------------&gt;
+| area_sq_mi           = 0.57
+| population           = 3,562
+| population_as_of     = 2010
+| population_footnotes = &lt;ref&gt;[http://stlcin.missouri.org/nbr/neighprofile.cfm?neighnum=77 Census Summary By Neighborhoods]&lt;/ref&gt;
+&lt;!-- Area/postal codes &amp; others --------&gt;
+| zipcodes = Parts of 63106, 63108, 63113
+| areacode = 314
+| website  = [http://stlouis-mo.gov/neighborhoods/profile.cfm?neighborhood=Covenant%20Blu%20Grand%20Center stlouis-mo.gov]
+}}
+
+The '''Grand Center Arts District''' is located in the '''[[Midtown St. Louis]] ''' '''[[Historic district (United States)|Historic District]] ''' on the [[National Register of Historic Places]] north of the [[Saint Louis University]] campus. Referred to colloquially as Grand Center, the neighborhood was formally known as Covenant Blu-Grand Center.&lt;ref&gt;http://dynamic.stlouis-mo.gov/census/neigh_comp.cfm&lt;/ref&gt; The neighborhood is a member of the [[Global Cultural Districts Network]].  
+
+Grand Center is the site of numerous arts and entertainment venues including the [[Fox Theatre (St. Louis)|Fox Theatre]], [[Powell Symphony Hall]] (home of the [[St. Louis Symphony Orchestra]]), the [[Contemporary Art Museum Saint Louis]], the [[Pulitzer Arts Foundation]], the [[Sheldon Concert Hall]], [[Clyde C. Miller Career Academy]], and Jazz St. Louis.
+
+The neighborhood is an eclectic mix of restored historic structures and newer buildings with street art and neon signage centered on Strauss Park at the intersection of [[Grand Boulevard (St. Louis)|Grand Boulevard]] and Washington Ave. It includes [[Third Baptist Church (St. Louis, Missouri)|Third Baptist Church]], the St. Louis Black Repertory Theatre Company,&lt;ref&gt;http://www.theblackrep.org&lt;/ref&gt;  the [[Grand Center Arts Academy]], [[KDHX | KDHX Community Media]], [[KWMU|St. Louis Public Radio (KWMU)]], the [[Kranzberg Arts Foundation|Kranzberg Arts Center]], and the headquarters of the [[KETC |Nine Network of Public Media (KETC)]], a PBS affiliate.&lt;ref name="Bartek"&gt;{{cite news|url=https://www.stlbeacon.org/#!/content/27507/grandcenter101212|title=The allure of the arts: New businesses thrive in Grand Center|last=Bartek|first=Elizabeth|date=18 October 2012|work=[[St. Louis Beacon]]|accessdate=10 November 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20130720014459/https://www.stlbeacon.org/#!/content/27507/grandcenter101212|archivedate=20 July 2013|df=}}&lt;/ref&gt; It is near the [[Grand (St. Louis MetroLink)|Grand MetroLink station]].
+
+==Gallery==
+{{Gallery
+| width = 130
+| lines = 3
+|Image:Sheldonconcerthall.jpg|[[The Sheldon | The Sheldon Concert Hall]], built 1912
+|Image:Pulitzerfoundation.jpg|[[Pulitzer Arts Foundation]], 2001
+|Image:ContinentalBuildingSTL.jpg|The [[Continental Life Building]], dates from the 1930s
+|Image:Stl contemporary art museum.jpg|[[Contemporary Art Museum St. Louis]], 2003
+|Image:Powell Symphony Hall.jpg|[[Powell Symphony Hall]], built in 1925
+|Image:Ketc.jpg|[[KETC|Nine Network]] public television station studios and headquarters, 1998
+|Image:City.House_and_Jazz_Bistro_in_Grand_Center,_St._Louis,_Missouri.jpg|City House (1874), Jazz St. Louis, and [[Continental Life Building]]
+}}
+
+==Demographics==
+{{Historical populations|type=USA
+|2000 |2758
+|2010 |3562
+| footnote = &lt;ref&gt;http://dynamic.stlouis-mo.gov/census/neighborhood.cfm&lt;/ref&gt;
+}}
+
+In 2010 Grand Center's population was 56.3% Black, 35.0% White, 6.5% Asian, 1.4% Two or More Races, and 0.7% Some Other Race. 2.3% of the population was of Hispanic or Latino origin.&lt;ref&gt;http://dynamic.stlouis-mo.gov/census/neigh_comp.cfm&lt;/ref&gt;
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|-
+! Racial composition  !! 2010&lt;ref&gt;{{cite web |url=http://dynamic.stlouis-mo.gov/census/neighborhood.cfm |title=The City of St. Louis Missouri |publisher=City of St. Louis}}&lt;/ref&gt; !! 2000&lt;ref&gt;{{cite web |url=http://dynamic.stlouis-mo.gov/census/neighborhood.cfm |title=The City of St. Louis Missouri |publisher=City of St. Louis}}&lt;/ref&gt;   
+|-
+| [[White American|White]] || 35.0% || 18.9% 
+|-
+| [[African American|Black or African American]] || 56.3% || 77.7% 
+|-
+| [[Hispanic and Latino Americans|Hispanic or Latino]] (of any race) || 2.3% || 2.5% 
+|-
+| [[Asian American|Asian]] || 6.5% || 1.1% 
+|}
+
+==Further reading==
+
+===Articles===
+*[http://www.slfp.com/GrandCenter.html "Grand Center Stars As Premier Entertainment District,"] ''St. Louis Front Page'', 2006. ''(Online article providing recent description of Grand Center.)''
+
+==See also==
+* [[Midtown St. Louis]]
+* [[Grand Boulevard (St. Louis)]]
+* [[Neighborhoods of St. Louis]]
+* [[Kranzberg Arts Foundation]]
+* [[Cortex Innovation Community]]
+
+== References ==
+{{reflist|2}}
+
+==External links==
+*[http://www.grandcenter.org/ Grand Center Arts District's official website]
+*[http://www.slfp.com/GrandCenter.html District info from ''St. Louis Front Page'']
+*[http://www.third-baptist.org/ Third Baptist Church website]
+*[http://www.pulitzerarts.org/ Pulitzer Arts Foundation website]
+*[http://www.contemporarystl.org/ Contemporary Art Museum St. Louis website]
+*[http://www.TheSheldon.org/ The Sheldon Concert Hall and Art Galleries website]
+*[http://www.ketc.org/ KETC, PBS, The Nine Network website]
+*[http://www.dancestlouis.org/ Dance St. Louis website]
+*[http://portfoliogallerystl.org// The Portfolio Art Gallery website]
+*[http://jazzstl.org/jazz-at-the-bistro/directions/ Jazz St. Louis at the Bistro website]
+*[http://www.iphf.org/ International Photography Hall of Fame and Museum website]
+
+{{Stl neighborhoods}}
+
+{{coord|38.6427|-90.2305|dim:1000_region:US-MO|display=title}}
+
+[[Category:Neighborhoods in St. Louis]]
+[[Category:Arts districts]]
+[[Category:Entertainment districts in the United States]]
+[[Category:Midtown St. Louis]]
+
+
+{{StLouis-geo-stub}}</text>
+      <sha1>o4eec480qvg4umstndbh8hprow16l61</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Poet as legislator</title>
+    <ns>0</ns>
+    <id>40476642</id>
+    <revision>
+      <id>857286550</id>
+      <parentid>841230894</parentid>
+      <timestamp>2018-08-30T19:16:13Z</timestamp>
+      <contributor>
+        <ip>205.175.119.181</ip>
+      </contributor>
+      <comment>/* Romantic peaks */ Corrected link to Percy Bysshe Shelley</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4374">The theme of '''poet as legislator''' reached its [[Grandiosity|grandiose]] peak in the [[Romanticism|Romantic era]],&lt;ref&gt;C. Prendergast ed., ''Cultural Materialism'' (1995) p. 222&lt;/ref&gt; epitomised in the view of the lonely, alienated poet as 'unacknowledged legislator' to the whole world.&lt;ref&gt;Richard Holmes, ''Dr Johnson and Mr Savage'' (1994) p. 51&lt;/ref&gt;
+
+However the concept had a long prehistory in Western culture, with classical figures like [[Orpheus]] or [[Solon]] being appealed to as precedents for the poet's civilising role.&lt;ref&gt;D. Griffin, ''Patriotism and Poetry in Eighteenth-Century Britain'' (2005) p. 70&lt;/ref&gt;
+
+==Classical origins==
+
+[[Plato]]'s opposition to poets in his ideal Republic was predicated on the contemporary existence of [[Homer]]ic expounders who claimed that "a man ought to regulate the tenour of his whole life by this poet's directions".&lt;ref&gt;J. L. Davies/D. J. Vaughan trans., ''The Republic of Plato'' (1908) p. 352&lt;/ref&gt; Plato only allowed the already censured poet to guide the young, to be an acknowledged legislator at the price of total external control.&lt;ref&gt;E. B. Castle, ''Ancient Education and Today'' (1969) p. 91&lt;/ref&gt;
+
+Less threatened by the poetic role, the Romans by contrast saw poetry, with [[Horace]], as primarily pleasing, and only secondarily as instructive.&lt;ref&gt;M. H. Abrams, ''The Mirror and the Lamp'' (1971) p. 16&lt;/ref&gt;
+
+==Renaissance and Augustan views==
+
+Building the view of the fifteenth century Florentine [[Neoplatonism in the Renaissance|Neoplatonists]] on the poet as seer,&lt;ref&gt;M. H. Abrams, ''The Mirror and the Lamp'' (1971) p. 272&lt;/ref&gt; however, [[Sir Philip Sidney]] developed a more powerful concept of the poet as overtopping the philosopher, historian and lawyer to stand out as "the monarch...of all sciences.&lt;ref&gt;J. A van Dorsten ed, ''Sidney: A Defence of Poetry'' (1984) p. 39&lt;/ref&gt;
+
+Such a viewpoint was more or less institutionalised in [[Augustan literature]], Johnson's [[Rasselas]] maintaining for example that the poet "must write as the interpreter of nature and the legislator of mankind"&lt;ref&gt;Samuel Johnson, ''Rasselas'' (1905) p. 42&lt;/ref&gt; – a fully public, even patriotic role moreover&lt;ref&gt;D. Griffin, ''Patriotism and Poetry in Eighteenth-Century Britain'' (2005) p. 71-2&lt;/ref&gt;
+
+==Romantic peaks==
+
+By contrast the Romantic view of the poet as ''unackowledged'' legislator emerges at the turm of the century in the writing of [[William Godwin]], with his anarchic view of the poet as "the legislator of generations and the moral instructor of the world".&lt;ref&gt;Quoted in J. A. Carlson, ''England's First Family of Writers'' (2007) p. 267&lt;/ref&gt;
+
+It received its most memorable formulation however in [[Percy Bysshe Shelley]]'s 1820 "[[A Defence of Poetry]]".&lt;ref&gt;I. Ousby ed., ''The Cambridge Guide to Literature in English'' (1995) p. 245&lt;/ref&gt; Shelley maintained that, through their powers of imaginative understanding, 'Poets' (in the widest sense, of ancient Greece) were able to identify and formulate emerging socio-cultural trends; and were as a result "the hierophants of an unapprehended inspiration...the unacknowledged legislators of the world".&lt;ref&gt;Quoted in M. H. Abrams, ''The Mirror and the Lamp'' (1971) p. 332&lt;/ref&gt;
+
+==Modernist irony==
+
+The grand claims of the Romantics began to give way in the twentieth century to a more ironic stance&lt;ref&gt;S. Chatterji, ''Memories of a Lost War'' (2001) p. 70&lt;/ref&gt; – [[Yeats]] speaking for his calling in general when he wrote "We have no gift to set a statesman right".&lt;ref&gt;W. B. Yeats, ''The Poems'' (1984) p. 155&lt;/ref&gt;
+
+What remained of the Shelley claim was to be further diminished by [[Postmodernism]]'s distrust for grand narratives, if not perhaps destroyed entirely.&lt;ref&gt;[http://call-for-papers.sas.upenn.edu/node/33792 Tools of the Sacred]&lt;/ref&gt;
+
+==See also==
+{{Columns-list|colwidth=22em|
+* [[Bard]]
+* [[Christopher Hitchens]]
+* [[Clerisy]]
+* [[Mark Akenside]]
+* [[Matthew Arnold]]
+* [[Pushkin]]
+* [[The arts and politics]]
+* [[Václav Havel]]
+}}
+
+== References ==
+&lt;!--- See http://en.wikipedia.org/wiki/Wikipedia:Footnotes on how to create references using &lt;ref&gt;&lt;/ref&gt; tags which will then appear here automatically --&gt;
+{{Reflist|30em}}
+
+&lt;!--- Categories ---&gt;
+
+[[Category:Articles created via the Article Wizard]]
+[[Category:Arts]]
+[[Category:Aesthetics]]
+[[Category:English male poets]]
+[[Category:Romanticism]]</text>
+      <sha1>4qt2d555qv75nn8npfr4dq4nrm2dqoz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Process art</title>
+    <ns>0</ns>
+    <id>10063162</id>
+    <revision>
+      <id>870265284</id>
+      <parentid>870263075</parentid>
+      <timestamp>2018-11-23T16:25:30Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor/>
+      <comment>Dating maintenance tags: {{Citation needed}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7306">'''Process art''' is an [[artistic movement]] as well as a creative sentiment where the end product of ''art'' and ''craft'', the ''[[:wikt:objet d’art|objet d’art]]'' ([[work of art]]/[[found object]]), is not the principal focus. The 'process' in process art refers to the process of the formation of art: the gathering, sorting, collating, associating, patterning, and moreover the initiation of actions and proceedings.  Process art is concerned with the actual ''doing'' and how actions can be defined as an actual work of art; seeing the art as pure human expression. Process art often [[logical consequence|entails]] an inherent motivation, rationale, and [[intentionality]]. Therefore, art is viewed as a creative journey or process, rather than as a deliverable or end product.{{Citation needed|date=November 2018}}
+
+==Movement==
+Process art has been entitled as a creative movement in the US and Europe in the mid-1960s. It has roots in Performance Art, the [[Dada]] movement and, more traditionally, the drip paintings of [[Jackson Pollock]], and in its employment of [[serendipity]]. Change and transience are marked themes in the process art movement. The [[Solomon R. Guggenheim Museum|Guggenheim Museum]] states that [[Robert Morris (artist)|Robert Morris]] in 1968 had a groundbreaking exhibition and essay defining the movement and the Museum Website states:&lt;blockquote&gt;
+Process Artists were involved in issues attendant to the body, random occurrences, [[improvisation]], and the liberating qualities of nontraditional materials such as wax, felt, and latex. Using these, they created eccentric forms in erratic or irregular arrangements produced by actions such as cutting, hanging, and dropping, or organic processes such as growth, condensation, freezing, or decomposition.&lt;ref&gt;Source:  {{cite web |url=http://www.guggenheimcollection.org/site/glossary_Process_art.html |title=Archived copy |accessdate=2007-09-27 |deadurl=yes |archiveurl=https://web.archive.org/web/20070927200906/http://www.guggenheimcollection.org/site/glossary_Process_art.html |archivedate=2007-09-27 |df= }} (accessed: Thursday, March 15, 2007)&lt;/ref&gt;
+&lt;/blockquote&gt; The ephemeral nature and insubstantiality of materials was often showcased and highlighted, as is demonstrated in this review of [[William Basinski]] and his work titled ''The Disintegration Loops I-IV'' by Joe Tangari for [[Pitchfork Media]]: &lt;blockquote&gt; You are slowly being destroyed. It's imperceptible in the scheme of a day or a week or even a year, but you are aging, and your body is degrading. As your cells synthesize the very proteins that allow you to live, they also release free radicals, oxidants that literally perforate your tissue and cause you to grow progressively less able to perform as you did at your peak. By the time you reach 80, you will literally be full of holes, and though you'll never notice a single one of them, you will inevitably feel their collective effect. Aging and degradation are forces of nature, functions of living, and understanding them can be as terrifying as it is gratifying.
+
+It's not the kind of thing you can say often, but I think William Basinski's ''Disintegration Loops'' are a step toward that understanding-- the music itself is not so much composed as it is this force of nature, this inevitable decay of all things, from memory to physical matter, made manifest in music. During the summer of 2001, [[William Basinski]] set about transferring a series of 20-year-old tape loops he'd had in storage to a digital file format, and was startled when this act of preservation began to devour the tapes he was saving. As they played, flakes of magnetic material were scraped away by the reader head, wiping out portions of the music and changing the character and sound of the loops as they progressed, the recording process playing an inadvertent witness to the destruction of Basinski's old music.
+
+In essence, Basinski is improvising using nothing so much as the passage of time as his instrument, and the result is the most amazing piece of processmusic I've ever heard, an encompassing soundworld as lulling as it is apocalyptic.&lt;ref&gt;Source: http://pitchfork.com/reviews/albums/577-the-disintegration-loops-i-iv/ (accessed: Saturday, February 16, 2013)&lt;/ref&gt;&lt;/blockquote&gt;
+The process art movement and the [[environmental art]] movement are directly related:
+&lt;blockquote&gt;
+Process Artists engage the primacy of organic systems, using perishable, insubstantial, and transitory materials such as dead rabbits, steam, fat, ice, cereal, sawdust, and grass. The materials are often left exposed to natural forces: gravity, time, weather, temperature, etc.&lt;ref&gt;Source: http://www.artandculture.com/cgi-bin/WebObjects/ACLive.woa/wa/movement?id=1037  (accessed:  Thursday, March 15, 2007)&lt;/ref&gt; 
+&lt;/blockquote&gt;
+
+In process art, as in the [[Arte Povera]] movement, nature itself is lauded as art; the symbolization and representation of nature, often rejected.{{Citation needed|date=November 2018}}
+
+===Antecedent===
+The process art movement has precedent in indigenous rites, shamanic and religious rituals, cultural forms such as [[sandpainting]], [[sun dance]], and the [[tea ceremony]] are fundamentally related pursuits.{{Citation needed|date=November 2018}}
+
+Aspects of the process of the construction of a [[Vajrayana]] [[Buddhist]] sand [[mandala]] (a [[subset]] of sandpainting) of [[Medicine Buddha]] by monks from [[Namgyal Monastery]] in Ithaca, New York that began February 26, 2001 and concluded March 21, 2001 has been captured and web-exhibited&lt;ref&gt;Source:  http://www.ackland.org/art/exhibitions/buddhistart/construction.htm (accessed: Monday, December 22, 2008)&lt;/ref&gt; by the Ackland's Yager Gallery of Asian Art. The dissolution of the mandala was on June 8, 2001.
+
+===Relationship to other disciplines and movements===
+Process art shares fundamental features with a number of other fields, including the [[Expressive therapies | expressive therapies]] and [[Transformative arts| transformative arts]], both of which pivot around how the creative process of engaging in artistic activities can precipitate personal [[Introspection | insight]], individual healing, and [[Social change | social change]], independent of the perceived value attributed to the obejct of creation.{{Citation needed|date=November 2018}}
+
+Additionally, process art is integral to [[Arts-based research| arts-based research]], which uses creative process and artistic expression to investigate subjects that resist description or representation through other modes of inquiry.&lt;ref&gt;Barone, T. and Eisner, E., Arts Based Research. Thousand Oaks, CA, USA: Sage, (2012).&lt;/ref&gt;&lt;ref&gt; McNiff, S., Art-Based Research. London, UK: Jessica Kingsley Publishers, 1998.&lt;/ref&gt;
+
+== Artists ==
+{{list|date=December 2016}}
+*[[Lynda Benglis]]
+*[[Joseph Beuys]]
+*[[Chris Drury (artist)|Chris Drury]] 
+*[[Eva Hesse]]
+*[[Gary Kuehn]]
+*[[Barry Le Va]]
+*[[Bruce Nauman]]
+*[[Robert Morris (artist)|Robert Morris]]
+*[[Richard Serra]]
+*[[Keith Sonnier]]
+*[[Aida Tomescu]]
+*[[Richard Van Buren]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Wheeler, D. (1991). ''Art Since the Midcentury: 1945 to the Present''.
+
+{{DEFAULTSORT:Process Art}}
+[[Category:Art movements]]
+[[Category:Modern art]]
+[[Category:Contemporary art]]</text>
+      <sha1>1acsgoi7jc5jsg07kf488rnm7swobll</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rasika</title>
+    <ns>0</ns>
+    <id>7772650</id>
+    <revision>
+      <id>858011345</id>
+      <parentid>745785984</parentid>
+      <timestamp>2018-09-04T14:01:08Z</timestamp>
+      <contributor>
+        <username>Cpt.a.haddock</username>
+        <id>16645784</id>
+      </contributor>
+      <minor/>
+      <comment>Removing from [[Category:Hindustani music]] using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1444">{{For|the actress known as Rasika|Sangeetha Krish}}
+{{Refimprove|date=July 2013}}
+A '''rasika''' is a term for an [[aesthete]] of [[Hindustani classical music]].&lt;ref name="Martínez2001"&gt;{{cite book|author=José Luiz Martínez|title=Semiosis in Hindustani Music|url=https://books.google.com/books?id=OwJRnFIcM4cC&amp;pg=PA166|accessdate=14 July 2013|date=1 January 2001|publisher=Motilal Banarsidass Publ.|isbn=978-81-208-1801-9|pages=166–}}&lt;/ref&gt; The term is derived from [[Sanskrit]] meaning full of Passion, elegant; with discrimination. Connoisseur - An expert able to appreciate a field; especially in the fine arts.
+
+A '''rasika''' is a term for audience in Sinhalese
+
+== In the context of carnatic music ==
+A '''rasika''', in [[carnatic music]] terminology, is a person who has some knowledge of carnatic music and is able to appreciate carnatic music. In carnatic music concerts (or [[katcheri]], as they are called), the audience is usually called rasikas.&lt;ref name="Srikantiah"&gt;{{cite book|author=Jyotsna Srikanth, Rathna Srikantiah|title=Carnatic Music Learning Series - Volume 1, English|url=https://books.google.com/books?id=q0gTgJ7EfoIC&amp;pg=PT58|accessdate=14 July 2013|publisher=Carnatic Music - English|pages=58–|id=GGKEY:20L2WJTSC5R}}&lt;/ref&gt;
+
+== References ==
+{{Reflist}}
+
+[[Category:Carnatic music]]
+[[Category:Sanskrit words and phrases]]
+[[Category:Aesthetics]]
+[[Category:Hindustani music terminology]]
+
+
+{{India-music-stub}}</text>
+      <sha1>6uewraz7lzx2vpuhi1wcntayr8ukgd4</sha1>
+    </revision>
+  </page>
+</mediawiki>

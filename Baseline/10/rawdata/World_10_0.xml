@@ -1,0 +1,2534 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>BWF World Ranking</title>
+    <ns>0</ns>
+    <id>36880490</id>
+    <revision>
+      <id>871166196</id>
+      <parentid>871166151</parentid>
+      <timestamp>2018-11-29T10:47:02Z</timestamp>
+      <contributor>
+        <username>Sdrqaz</username>
+        <id>27233032</id>
+      </contributor>
+      <minor/>
+      <comment>/* Players with highest career rank 2–5 */ Update to 29 November 2018</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="55930">The '''BWF World Ranking''' is the official ranking of the [[Badminton World Federation]] for badminton players who participate in tournaments sanctioned by [[Badminton World Federation]]. It is used to determine the qualification for the [[BWF World Championships|World Championships]] and [[Badminton at the Summer Olympics|Summer Olympic Games]],&lt;ref name="ranking law"&gt;{{cite web|title=5.3.3.1 World Ranking System |url=http://system.bwf.website/documents/folder_1_81/folder_1_82/New-Regulations-2018/5.3.3.1%20World%20Ranking%20System.pdf |website=Bwfbadminton.org |publisher=Badminton World Federation}}&lt;/ref&gt; as well as [[BWF World Tour]] tournaments.&lt;ref&gt;{{cite web|title=BWF World Tour |url=http://bwfcorporate.com/events/bwf-world-tour/ |publisher=BWF Corporate}}&lt;/ref&gt; Seedings of draws at all BWF-sanctioned tournaments are conducted using the BWF World Ranking.&lt;ref&gt;{{cite web|title=General Competition Regulations|url=http://bwfbadminton.org/file.aspx?id=524457&amp;dl=1|website=Bwfbadminton.org|publisher=Badminton World Federation}}&lt;/ref&gt;
+Players under 19 years of age are eligible to rank in the [[BWF World Junior Ranking]], which were introduced in January 2011. The following lists are the rankings:&lt;ref&gt;{{cite web|title=World Junior ranking|url=http://bwfbadminton.org/page.aspx?id=16443|website=Bwfbadminton.org|publisher=Badminton World Federation|access-date=2013-08-15|archive-url=https://web.archive.org/web/20101130125839/http://www.bwfbadminton.org/page.aspx?id=16443|archive-date=2010-11-30|dead-url=yes|df=}}&lt;/ref&gt;
+
+==Overview==
+The ranking points are awarded based on the level and progress of the tournament from each player/pair. Ranking points calculated are based on the tournaments each players/pairs participate in from the last 52 weeks. If a player or pair has participated in ten or fewer World Ranking tournaments, then the ranking is worked out by adding together the points won at tournaments in the last 52 weeks. If a player or pair has participated in 11 or more World Ranking tournaments, only the 10 highest points scored in the tournaments during the 52-week period count towards their ranking. The highest possible ranking points are 116,000.&lt;ref name="ranking law" /&gt;&lt;ref name="World Ranking System"&gt;{{cite web|title=Overview Ranking|url=http://bwfbadminton.org/page.aspx?id=15370|website=Bwfbadminton.org|publisher=Badminton World Federation|access-date=2013-08-15|archive-url=https://web.archive.org/web/20100814200157/http://www.bwfbadminton.org/page.aspx?id=15370|archive-date=2010-08-14|dead-url=yes|df=}}&lt;/ref&gt;&lt;ref&gt;{{cite web| url= https://www.badmintonmonthly.com/best-badminton-players/| title= Best Badminton Players }} Thursday, September 21, 2017&lt;/ref&gt;
+
+==Points system==
+Points were awarded according to the following table from 2007 to 2017:&lt;ref name="World Ranking System"/&gt;
+
+=== 2007-2017 system ===
+{| class="wikitable"
+|-
+!Tournament
+!width=75|Winner
+!width=75|Runner-up
+!width=75|3/4
+!width=75|5/8
+!width=75|9/16
+!width=75|17/32
+!width=75|33/64
+!width=75|65/128
+!width=75|129/256
+!width=75|257/512
+!width=75|513/1024
+|-
+|'''BWF tournaments&lt;br /&gt;([[BWF World Championships|World Championships]] and [[Badminton at the Summer Olympics|Olympic Games]])'''{{ref|1|1}}
+|align=right|12,000||align=right|10,200||align=right|8,400||align=right|6,600||align=right|4,800||align=right|3,000||align=right|1,200||align=right|600||align=right|240||align=right|120||align=right|60
+|-
+|'''[[BWF Super Series Masters Finals|Super Series Masters Finals]]&lt;br /&gt;[[BWF Super Series|Super Series Premier]]'''
+|align=right|11,000||align=right|9,350||align=right|7,700||align=right|6,050||align=right|4,320||align=right|2,660||align=right|1,060||align=right|520|| || ||
+|-
+|'''[[BWF Super Series|Super Series]]'''
+|align=right|9,200||align=right|7,800||align=right|6,420||align=right|5,040||align=right|3,600||align=right|2,220||align=right|880||align=right|430||align=right|170||align=right|80||align=right|40
+|-
+|'''[[BWF Grand Prix Gold and Grand Prix|Grand Prix Gold]]'''
+|align=right|7,000||align=right|5,950||align=right|4,900||align=right|3,850||align=right|2,750||align=right|1,670||align=right|660||align=right|320||align=right|130||align=right|60||align=right|30
+|-
+|'''[[BWF Grand Prix Gold and Grand Prix|Grand Prix]]'''
+|align=right|5,500||align=right|4,680||align=right|3,850 ||align=right|3,030||align=right|2,110||align=right|1,290||align=right|510||align=right|240||align=right|100 ||align=right|45||align=right|30
+|-
+|'''International Challenge'''
+|align=right|4,000||align=right|3,400||align=right|2,800||align=right|2,200||align=right|1,520||align=right|920||align=right|360||align=right|170||align=right|70||align=right|30||align=right|20
+|-
+|'''International Series'''
+|align=right|2,500||align=right|2,130||align=right|1,750||align=right|1,370||align=right|920 ||align=right|550||align=right|210||align=right|100||align=right|40||align=right|20||align=right|10
+|-
+|'''Future Series'''
+|align=right|1,700||align=right|1,420||align=right|1,170||align=right|920||align=right|600||align=right|350||align=right|130||align=right|60||align=right|20||align=right|10||align=right|5
+|}
+
+:{{Note|1|1}} – At the Olympic Games, third place receives 9,200 points while fourth place receives 8,400 points.
+
+=== 2018-2021 system ===
+Since 2018, BWF has started a new system for counting points:
+{| class="wikitable"
+|-
+!Tournament
+!width=75|Winner
+!width=75|Runner-up
+!width=75|3/4
+!width=75|5/8
+!width=75|9/16
+!width=75|17/32
+!width=75|33/64
+!width=75|65/128
+!width=75|129/256
+!width=75|257/512
+!width=75|513/1024
+|-
+| colspan="12" | '''Grade 1 – BWF tournaments'''
+|-
+| [[BWF World Championships|World Championships]] 
+| align=right | 13,000 
+| align=right | 11,000 
+| align=right | 9,200 
+| align=right | 7,200 
+| align=right | 5,200 
+| align=right | 3,200 
+| align=right | 1,300 
+| bgcolor="grey" align=right | 650 
+| bgcolor="grey" align=right | 260 
+| bgcolor="grey" align=right | 130 
+| bgcolor="grey" align=right | 65
+|-
+| [[Badminton at the Summer Olympics|Olympic Games]]{{ref|2|1}} 
+| align=right | 13,000 
+| align=right | 11,000 
+| align=right | {{ref|2|1}}9,200 
+| align=right | 7,200 
+| align=right | 5,200 
+| align=right | 3,200 
+| align=right | 1,300 
+| bgcolor="grey" align=right | 650 
+| bgcolor="grey" align=right | 260 
+| bgcolor="grey" align=right | 130 
+| bgcolor="grey" align=right | 65 
+|-
+| colspan="12" | '''Grade 2 – [[BWF World Tour]]'''
+|-
+| Level 1 (Finals)
+| align=right | 12,000 
+| align=right | 10,200 
+| align=right | 8,400 
+| align=right | 6,600 
+| align=right | 4,800 
+| bgcolor="grey" align=right | 3,000 
+| bgcolor="grey" align=right | 1,200 
+| bgcolor="grey" align=right | 600 
+| bgcolor="grey" align=right | 240 
+| bgcolor="grey" align=right | 120 
+| bgcolor="grey" align=right | 60 
+|-
+| [[BWF World Tour|Level 2]] (Super 1000)
+| align=right | 12,000 
+| align=right | 10,200 
+| align=right | 8,400 
+| align=right | 6,600 
+| align=right | 4,800 
+| align=right | 3,000 
+| bgcolor="grey" align=right | 1,200 
+| bgcolor="grey" align=right | 600 
+| bgcolor="grey" align=right | 240 
+| bgcolor="grey" align=right | 120 
+| bgcolor="grey" align=right | 60 
+|-
+| [[BWF World Tour|Level 3]] (Super 750)
+| align=right | 11,000 
+| align=right | 9,350 
+| align=right | 7,700 
+| align=right | 6,050 
+| align=right | 4,320 
+| align=right | 2,660 
+| bgcolor="grey" align=right | 1,060 
+| bgcolor="grey" align=right | 520 
+| bgcolor="grey" align=right | 210 
+| bgcolor="grey" align=right | 100 
+| bgcolor="grey" align=right | 50 
+|-
+| [[BWF World Tour|Level 4]] (Super 500)
+| align=right | 9,200 
+| align=right | 7,800 
+| align=right | 6,420 
+| align=right | 5,040 
+| align=right | 3,600 
+| align=right | 2,220 
+| align=right | 880 
+| align=right | 430 
+| bgcolor="grey" align=right | 170 
+| bgcolor="grey" align=right | 80 
+| bgcolor="grey" align=right | 40 
+|-
+| [[BWF World Tour|Level 5]] (Super 300)
+| align=right | 7,000 
+| align=right | 5,950 
+| align=right | 4,900 
+| align=right | 3,850 
+| align=right | 2,750 
+| align=right | 1,670 
+| align=right | 660 
+| align=right | 320 
+| bgcolor="grey" align=right | 130 
+| bgcolor="grey" align=right | 60 
+| bgcolor="grey" align=right | 30 
+|-
+| [[BWF World Tour|Level 6]] (Super 100)
+| align=right | 5,500 
+| align=right | 4,680 
+| align=right | 3,850 
+| align=right | 3,030 
+| align=right | 2,110 
+| align=right | 1,290 
+| align=right | 510 
+| align=right | 240 
+| bgcolor="grey" align=right | 100 
+| bgcolor="grey" align=right | 45 
+| bgcolor="grey" align=right | 30 
+|-
+| colspan="12" | '''Grade 3'''
+|-
+| International Challenge
+| align=right | 4,000 
+| align=right | 3,400 
+| align=right | 2,800 
+| align=right | 2,200 
+| align=right | 1,520 
+| align=right | 920 
+| align=right | 360 
+| align=right | 170 
+| align=right | 70 
+| bgcolor="grey" align=right | 30 
+| bgcolor="grey" align=right | 20 
+|-
+| International Series
+| align=right | 2,500 
+| align=right | 2,130 
+| align=right | 1,750 
+| align=right | 1,370 
+| align=right | 920 
+| align=right | 550 
+| align=right | 210 
+| align=right | 100 
+| align=right | 40 
+| bgcolor="grey" align=right | 20 
+| bgcolor="grey" align=right | 10 
+|-
+| Future Series
+| align=right | 1,700 
+| align=right | 1,420 
+| align=right | 1,170 
+| align=right | 920 
+| align=right | 600 
+| align=right | 350 
+| align=right | 130 
+| align=right | 60 
+| align=right | 20 
+| bgcolor="grey" align=right | 10 
+| bgcolor="grey" align=right | 5 
+|}
+
+:{{Note|2|1}} – At the Olympic Games 3rd place will receive 10,100 points. Fourth place will receive 9200 points.
+
+==Current rankings==
+{{col-begin}}
+{{col-2}}
+
+===Men's singles===
+{| class="sortable wikitable"
+|-
+! colspan=5 | BWF World Rankings (Men's Singles)&lt;br/&gt;{{as of|2018|November|29|lc=y}}&lt;ref&gt;{{cite web |url=http://bwf.tournamentsoftware.com/ranking/category.aspx?id=19442&amp;category=472 |title=BWF World Rankings - BWF – Men's Singles |website=BWF Tournament Software |publisher=Badminton World Federation}}&lt;/ref&gt;
+|-
+!# !! !! !!Player !!Points 
+|-
+!1
+|align="center"| {{steady}} || {{flagicon|JPN}} || [[Kento Momota]] || 100,870
+|-
+!2
+|align="center"| {{steady}} || {{flagicon|CHN}} || [[Shi Yuqi]] || 87,282
+|-
+!3
+|align="center"| {{steady}} || {{flagicon|TPE}} || [[Chou Tien-chen]] || 82,024
+|-
+!4
+|align="center"| {{steady}} || {{flagicon|DEN}} || [[Viktor Axelsen]] || 75,974
+|-
+!5
+|align="center"| {{steady}} || {{flagicon|CHN}} || [[Chen Long]] || 72,378
+|-
+!6
+|align="center"| {{steady}} || {{flagicon|KOR}} || [[Son Wan-ho]] || 69,482
+|-
+!7
+|align="center"| {{steady}} || {{flagicon|INA}} || [[Anthony Sinisuka Ginting]] || 64,335
+|-
+!8
+|align="center"| {{steady}} || {{flagicon|IND}} || [[Srikanth Kidambi]] || 63,365
+|-
+!9
+|align="center"| {{steady}} || {{flagicon|JPN}} || [[Kenta Nishimoto]] || 60,387
+|-
+!10
+|align="center"| {{steady}} || {{flagicon|INA}} || [[Tommy Sugiarto]] || 58,040
+|-
+!11
+|align="center"| {{steady}} || {{flagicon|INA}} || [[Jonatan Christie]] || 57,403
+|-
+!12
+|align="center"| {{steady}} || {{flagicon|HKG}} || [[Ng Ka Long]] || 54,198
+|-
+!13
+|align="center"| {{steady}} || {{flagicon|CHN}} || [[Lin Dan]] || 53,343
+|-
+!14
+|align="center"| {{increase}} 2 || {{flagicon|IND}} || [[Sameer Verma]] || 52,351
+|-
+!15
+|align="center"| {{decrease}} 1 || {{flagicon|MAS}} || [[Lee Chong Wei]] || 52,233
+|-
+!16
+|align="center"| {{decrease}} 1 || {{flagicon|THA}} || [[Khosit Phetpradab]] || 50,092
+|-
+!17
+|align="center"| {{steady}} || {{flagicon|THA}} || [[Kantaphon Wangcharoen]] || 48,160
+|-
+!18
+|align="center"| {{increase}} 1 || {{flagicon|JPN}} || [[Kanta Tsuneyama]] || 47,067
+|-
+!19
+|align="center"| {{increase}} 1 || {{flagicon|DEN}} || [[Anders Antonsen]] || 45,987
+|-
+!20
+|align="center"| {{increase}} 1 || {{flagicon|THA}} || [[Suppanyu Avihingsanon]] || 45,985
+|-
+|}
+
+{{col-2}}
+
+===Women's singles===
+{| class="sortable wikitable"
+|-
+! colspan=5 | BWF World Rankings (Women's Singles)&lt;br/&gt;{{as of|2018|November|29|lc=y}}&lt;ref&gt;{{cite web |url=http://bwf.tournamentsoftware.com/ranking/category.aspx?id=19442&amp;category=473 |title=BWF World Rankings – BWF - Women's Singles |website=BWF Tournament Software |publisher=Badminton World Federation}}&lt;/ref&gt;
+|-
+!# !! !! !!Player !!Points
+|-
+!1
+|align="center"| {{steady}} || {{flagicon|TPE}} || [[Tai Tzu-ying]] || 100,267
+|-
+!2
+|align="center"| {{steady}} || {{flagicon|JPN}} || [[Akane Yamaguchi]] || 85,413
+|-
+!3
+|align="center"| {{steady}} || {{flagicon|CHN}} || [[Chen Yufei]] || 85,179
+|-
+!4
+|align="center"| {{steady}} || {{flagicon|ESP}} || [[Carolina Marín]] || 82,426
+|-
+!5
+|align="center"| {{steady}} || {{flagicon|JPN}} || [[Nozomi Okuhara]] || 81,757
+|-
+!6
+|align="center"| {{steady}} || {{flagicon|IND}} || [[P. V. Sindhu]] || 81,614
+|-
+!7
+|align="center"| {{steady}} || {{flagicon|CHN}} || [[He Bingjiao]] || 74,679
+|-
+!8
+|align="center"| {{steady}} || {{flagicon|THA}} || [[Ratchanok Intanon]] || 72,087
+|-
+!9
+|align="center"| {{steady}} || {{flagicon|IND}} || [[Saina Nehwal]] || 64,914
+|-
+!10
+|align="center"| {{steady}} || {{flagicon|KOR}} || [[Sung Ji-hyun]] || 58,563
+|-
+!11
+|align="center"| {{steady}} || {{flagicon|JPN}} || [[Sayaka Takahashi]] || 58,056
+|-
+!12
+|align="center"| {{steady}} || {{flagicon|USA}} || [[Zhang Beiwen]] || 56,590
+|-
+!13
+|align="center"| {{steady}} || {{flagicon|CHN}} || [[Gao Fangjie]] || 54,076
+|-
+!14
+|align="center"| {{steady}} || {{flagicon|THA}} || [[Nitchaon Jindapol]] || 53,122
+|-
+!15
+|align="center"| {{steady}} || {{flagicon|INA}} || [[Gregoria Mariska Tunjung]] || 51,440
+|-
+!16
+|align="center"| {{steady}} || {{flagicon|CAN}} || [[Michelle Li (badminton)|Michelle Li]] || 50,241
+|-
+!17
+|align="center"| {{steady}} || {{flagicon|DEN}} || [[Mia Blichfeldt]] || 48,032
+|-
+!18
+|align="center"| {{steady}} || {{flagicon|JPN}} || [[Aya Ohori]] || 47,366
+|-
+!19
+|align="center"| {{increase}} 1 || {{flagicon|CHN}} || [[Cai Yanyan]] || 47,130
+|-
+!20
+|align="center"| {{increase}} 1 || {{flagicon|DEN}} || [[Line Kjærsfeldt]] || 46,539
+|-
+|}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+
+===Men's doubles===
+{| class="sortable wikitable"
+|-
+! colspan=5 | BWF World Rankings (Men's Doubles)&lt;br/&gt;{{as of|2018|November|29|lc=y}}&lt;ref&gt;{{cite web |url=http://bwf.tournamentsoftware.com/ranking/category.aspx?id=19442&amp;category=474 |title=BWF World Rankings - BWF – Men's doubles |website=BWF Tournament Software |publisher=Badminton World Federation}}&lt;/ref&gt;
+|-
+!# !! !! !!Player !!Points
+|-
+!rowspan=2|1
+|rowspan=2 align="center"| {{steady}} || {{flagicon|INA}} || [[Marcus Fernaldi Gideon]] ||rowspan=2| 106,283
+|-
+| {{flagicon|INA}} || [[Kevin Sanjaya Sukamuljo]]
+|-
+!rowspan=2|2
+|rowspan=2 align="center"| {{steady}} || {{flagicon|CHN}} || [[Li Junhui]] ||rowspan=2| 80,195
+|-
+| {{flagicon|CHN}} || [[Liu Yuchen]]
+|-
+!rowspan=2|3
+|rowspan=2 align="center"| {{steady}} || {{flagicon|JPN}} || [[Takeshi Kamura]] ||rowspan=2| 79,965
+|-
+| {{flagicon|JPN}} || [[Keigo Sonoda]]
+|-
+!rowspan=2|4
+|rowspan=2 align="center"| {{steady}} || {{flagicon|TPE}} || [[Chen Hung-ling]] ||rowspan=2| 69,141
+|-
+| {{flagicon|TPE}} || [[Wang Chi-lin]]
+|-
+!rowspan=2|5
+|rowspan=2 align="center"| {{steady}} || {{flagicon|CHN}} || [[Liu Cheng (badminton)|Liu Cheng]] ||rowspan=2| 67,480
+|-
+| {{flagicon|CHN}} || [[Zhang Nan (badminton)|Zhang Nan]]
+|-
+!rowspan=2|6
+|rowspan=2 align="center"| {{increase}} 1 || {{flagicon|INA}} || [[Fajar Alfian]] ||rowspan=2| 66,346
+|-
+| {{flagicon|INA}} || [[Muhammad Rian Ardianto]]
+|-
+!rowspan=2|7
+|rowspan=2 align="center"| {{decrease}} 1 || {{flagicon|DEN}} || [[Kim Astrup]] ||rowspan=2| 64,620
+|-
+| {{flagicon|DEN}} || [[Anders Skaarup Rasmussen]]
+|-
+!rowspan=2|8
+|rowspan=2 align="center"| {{steady}} || {{flagicon|JPN}} || [[Hiroyuki Endo]] ||rowspan=2| 62,398
+|-
+| {{flagicon|JPN}} || [[Yuta Watanabe (badminton)|Yuta Watanabe]]
+|-
+!rowspan=2|9
+|rowspan=2 align="center"| {{steady}} || {{flagicon|INA}} || [[Mohammad Ahsan]] ||rowspan=2| 61,050
+|-
+| {{flagicon|INA}} || [[Hendra Setiawan]]
+|-
+!rowspan=2|10
+|rowspan=2 align="center"| {{increase}} 1 || {{flagicon|CHN}} || [[Han Chengkai]] ||rowspan=2| 60,560
+|-
+| {{flagicon|CHN}} || [[Zhou Haodong]]
+|-
+!rowspan=2|11
+|rowspan=2 align="center"| {{decrease}} 1 || {{flagicon|JPN}} || [[Takuto Inoue]] ||rowspan=2| 60,132
+|-
+| {{flagicon|JPN}} || [[Yuki Kaneko (badminton)|Yuki Kaneko]]
+|-
+!rowspan=2|12
+|rowspan=2 align="center"| {{steady}} || {{flagicon|DEN}} || [[Mads Conrad-Petersen]] ||rowspan=2| 59,453
+|-
+| {{flagicon|DEN}} || [[Mads Pieler Kolding]]
+|-
+!rowspan=2|13
+|rowspan=2 align="center"| {{steady}} || {{flagicon|TPE}} || [[Liao Min-chun]] ||rowspan=2| 59,280
+|-
+| {{flagicon|TPE}} || [[Su Cheng-heng]]
+|-
+!rowspan=2|14
+|rowspan=2 align="center"| {{steady}} || {{flagicon|CHN}} || [[He Jiting]] ||rowspan=2| 58,322
+|-
+| {{flagicon|CHN}} || [[Tan Qiang]]
+|-
+!rowspan=2|15
+|rowspan=2 align="center"| {{steady}} || {{flagicon|MAS}} || [[Goh V Shem]] ||rowspan=2| 56,474
+|-
+| {{flagicon|MAS}} || [[Tan Wee Kiong]]
+|-
+!rowspan=2|16
+|rowspan=2 align="center"| {{increase}} 1 || {{flagicon|DEN}} || [[Mathias Boe]] ||rowspan=2| 53,840
+|-
+| {{flagicon|DEN}} || [[Carsten Mogensen]]
+|-
+!rowspan=2|17
+|rowspan=2 align="center"| {{decrease}} 1 || {{flagicon|TPE}} || [[Lee Jhe-huei]] ||rowspan=2| 53,088
+|-
+| {{flagicon|TPE}} || [[Lee Yang]]
+|-
+!rowspan=2|18
+|rowspan=2 align="center"| {{increase}} 1 || {{flagicon|IND}} || [[Satwiksairaj Rankireddy]] ||rowspan=2| 50,906
+|-
+| {{flagicon|IND}} || [[Chirag Shetty]]
+|-
+!rowspan=2|19
+|rowspan=2 align="center"| {{decrease}} 1 || {{flagicon|INA}} || [[Berry Angriawan]] ||rowspan=2| 50,290
+|-
+| {{flagicon|INA}} || [[Hardianto]]
+|-
+!rowspan=2|20
+|rowspan=2 align="center"| {{steady}} || {{flagicon|ENG}} || [[Marcus Ellis]] ||rowspan=2| 49,658
+|-
+| {{flagicon|ENG}} || [[Chris Langridge]]
+|-
+|}
+
+{{col-2}}
+
+===Women's doubles===
+{| class="sortable wikitable"
+|-
+! colspan=5 | BWF World Rankings (Women's Doubles)&lt;br/&gt;{{as of|2018|November|29|lc=y}}&lt;ref&gt;{{cite web |url=http://bwf.tournamentsoftware.com/ranking/category.aspx?id=19442&amp;category=475 |title=BWF World Rankings - BWF – Women's doubles |website=BWF Tournament Software |publisher=Badminton World Federation}}&lt;/ref&gt;
+|-
+!# !! !! !!Player !!Points
+|-
+!rowspan=2|1
+|rowspan=2 align="center"| {{steady}} || {{flagicon|JPN}} || [[Yuki Fukushima]] ||rowspan=2| 98,908
+|-
+| {{flagicon|JPN}} || [[Sayaka Hirota]]
+|-
+!rowspan=2|2
+|rowspan=2 align="center"| {{steady}} || {{flagicon|JPN}} || [[Misaki Matsutomo]] ||rowspan=2| 89,792
+|-
+| {{flagicon|JPN}} || [[Ayaka Takahashi]]
+|-
+!rowspan=2|3
+|rowspan=2 align="center"| {{steady}} || {{flagicon|JPN}} || [[Mayu Matsumoto]] ||rowspan=2| 86,290
+|-
+| {{flagicon|JPN}} || [[Wakana Nagahara]]
+|-
+!rowspan=2|4
+|rowspan=2 align="center"| {{steady}} || {{flagicon|INA}} || [[Greysia Polii]] ||rowspan=2| 80,565
+|-
+| {{flagicon|INA}} || [[Apriyani Rahayu]]
+|-
+!rowspan=2|5
+|rowspan=2 align="center"| {{steady}} || {{flagicon|CHN}} || [[Chen Qingchen]] ||rowspan=2| 79,456
+|-
+| {{flagicon|CHN}} || [[Jia Yifan]]
+|-
+!rowspan=2|6
+|rowspan=2 align="center"| {{steady}} || {{flagicon|JPN}} || [[Shiho Tanaka]] ||rowspan=2| 76,001
+|-
+| {{flagicon|JPN}} || [[Koharu Yonemoto]]
+|-
+!rowspan=2|7
+|rowspan=2 align="center"| {{steady}} || {{flagicon|KOR}} || [[Lee So-hee]] ||rowspan=2| 71,939
+|-
+| {{flagicon|KOR}} || [[Shin Seung-chan]]
+|-
+!rowspan=2|8
+|rowspan=2 align="center"| {{steady}} || {{flagicon|THA}} || [[Jongkolphan Kititharakul]] ||rowspan=2| 65,702
+|-
+| {{flagicon|THA}} || [[Rawinda Prajongjai]]
+|-
+!rowspan=2|9
+|rowspan=2 align="center"| {{steady}} || {{flagicon|BUL}} || [[Gabriela Stoeva]] ||rowspan=2| 63,950
+|-
+| {{flagicon|BUL}} || [[Stefani Stoeva]]
+|-
+!rowspan=2|10
+|rowspan=2 align="center"| {{steady}} || {{flagicon|JPN}} || [[Ayako Sakuramoto]] ||rowspan=2| 61,870
+|-
+| {{flagicon|JPN}} || [[Yukiko Takahata]]
+|-
+!rowspan=2|11
+|rowspan=2 align="center"| {{steady}} || {{flagicon|CHN}} || [[Du Yue]] ||rowspan=2| 57,188
+|-
+| {{flagicon|CHN}} || [[Li Yinhui]]
+|-
+!rowspan=2|12
+|rowspan=2 align="center"| {{increase}} 1 || {{flagicon|INA}} || [[Della Destiara Haris]] ||rowspan=2| 55,980
+|-
+| {{flagicon|INA}} || [[Rizki Amelia Pradipta]]
+|-
+!rowspan=2|13
+|rowspan=2 align="center"| {{decrease}} 1 || {{flagicon|DEN}} || [[Kamilla Rytter Juhl]] ||rowspan=2| 55,784
+|-
+| {{flagicon|DEN}} || [[Christinna Pedersen]]
+|-
+!rowspan=2|14
+|rowspan=2 align="center"| {{steady}} || {{flagicon|JPN}} || [[Nami Matsuyama]] ||rowspan=2| 49,840
+|-
+| {{flagicon|JPN}} || [[Chiharu Shida]]
+|-
+!rowspan=2|15
+|rowspan=2 align="center"| {{steady}} || {{flagicon|DEN}} || [[Maiken Fruergaard]] ||rowspan=2| 49,338
+|-
+| {{flagicon|DEN}} || [[Sara Thygesen]]
+|-
+!rowspan=2|16
+|rowspan=2 align="center"| {{steady}} || {{flagicon|JPN}} || [[Naoko Fukuman]] ||rowspan=2| 48,840
+|-
+| {{flagicon|JPN}} || [[Kurumi Yonao]]
+|-
+!rowspan=2|17
+|rowspan=2 align="center"| {{increase}} 2 || {{flagicon|MAS}} || [[Chow Mei Kuan]] ||rowspan=2| 47,952
+|-
+| {{flagicon|MAS}} || [[Lee Meng Yean]]
+|-
+!rowspan=2|18
+|rowspan=2 align="center"| {{decrease}} 1 || {{flagicon|INA}} || [[Anggia Shitta Awanda]] ||rowspan=2| 45,454
+|-
+| {{flagicon|INA}} || [[Ni Ketut Mahadewi Istirani]]
+|-
+!rowspan=2|19
+|rowspan=2 align="center"| {{decrease}} 1 || {{flagicon|KOR}} || [[Jung Kyung-eun]] ||rowspan=2| 44,380
+|-
+| {{flagicon|KOR}} || [[Chang Ye-na]]
+|-
+!rowspan=2|20
+|rowspan=2 align="center"| {{steady}} || {{flagicon|CHN}} || [[Tang Jinhua]] ||rowspan=2| 43,630
+|-
+| {{flagicon|CHN}} || [[Yu Xiaohan]]
+|-
+|}
+
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+
+===Mixed doubles===
+{| class="sortable wikitable"
+|-
+! colspan=5 | BWF World Rankings (Mixed Doubles)&lt;br/&gt;{{as of|2018|November|29|lc=y}}&lt;ref&gt;{{cite web |url=http://bwf.tournamentsoftware.com/ranking/category.aspx?id=19442&amp;category=476 |title=BWF World Rankings - BWF – Mixed doubles |website=BWF Tournament Software |publisher=Badminton World Federation}}&lt;/ref&gt;
+|-
+!# !! !! !!Player !!Points
+|-
+!rowspan=2|1
+|rowspan=2 align="center"| {{steady}} || {{flagicon|CHN}} || [[Zheng Siwei]] ||rowspan=2| 108,600
+|-
+| {{flagicon|CHN}} || [[Huang Yaqiong]]
+|-
+!rowspan=2|2
+|rowspan=2 align="center"| {{steady}} || {{flagicon|CHN}} || [[Wang Yilü]] ||rowspan=2| 85,350
+|-
+| {{flagicon|CHN}} || [[Huang Dongping]]
+|-
+!rowspan=2|3
+|rowspan=2 align="center"| {{steady}} || {{flagicon|JPN}} || [[Yuta Watanabe (badminton)|Yuta Watanabe]] ||rowspan=2| 75,440
+|-
+| {{flagicon|JPN}} || [[Arisa Higashino]]
+|-
+!rowspan=2|4
+|rowspan=2 align="center"| {{steady}} || {{flagicon|INA}} || [[Tontowi Ahmad]] ||rowspan=2| 75,370
+|-
+| {{flagicon|INA}} || [[Liliyana Natsir]]
+|-
+!rowspan=2|5
+|rowspan=2 align="center"| {{steady}} || {{flagicon|HKG}} || [[Tang Chun Man]] ||rowspan=2| 71,400
+|-
+| {{flagicon|HKG}} || [[Tse Ying Suet]]
+|-
+!rowspan=2|6
+|rowspan=2 align="center"| {{steady}} || {{flagicon|MAS}} || [[Chan Peng Soon]] ||rowspan=2| 65,260
+|-
+| {{flagicon|MAS}} || [[Goh Liu Ying]]
+|-
+!rowspan=2|7
+|rowspan=2 align="center"| {{steady}} || {{flagicon|THA}} || [[Dechapol Puavaranukroh]] ||rowspan=2| 65,250
+|-
+| {{flagicon|THA}} || [[Sapsiree Taerattanachai]]
+|-
+!rowspan=2|8
+|rowspan=2 align="center"| {{steady}} || {{flagicon|DEN}} || [[Mathias Christiansen]] ||rowspan=2| 63,200
+|-
+| {{flagicon|DEN}} || [[Christinna Pedersen]]
+|-
+!rowspan=2|9
+|rowspan=2 align="center"| {{steady}} || {{flagicon|ENG}} || [[Chris Adcock]] ||rowspan=2| 62,320
+|-
+| {{flagicon|ENG}} || [[Gabby Adcock]]
+|-
+!rowspan=2|10
+|rowspan=2 align="center"| {{steady}} || {{flagicon|CHN}} || [[Zhang Nan (badminton)|Zhang Nan]] ||rowspan=2| 60,830
+|-
+| {{flagicon|CHN}} || [[Li Yinhui]]
+|-
+!rowspan=2|11
+|rowspan=2 align="center"| {{steady}} || {{flagicon|MAS}} || [[Goh Soon Huat]] ||rowspan=2| 59,550
+|-
+| {{flagicon|MAS}} || [[Shevon Jemie Lai]]
+|-
+!rowspan=2|12
+|rowspan=2 align="center"| {{steady}} || {{flagicon|INA}} || [[Hafiz Faisal]] ||rowspan=2| 59,440
+|-
+| {{flagicon|INA}} || [[Gloria Emanuelle Widjaja]]
+|-
+!rowspan=2|13
+|rowspan=2 align="center"| {{steady}} || {{flagicon|CHN}} || [[He Jiting]] ||rowspan=2| 58,530
+|-
+| {{flagicon|CHN}} || [[Du Yue]]
+|-
+!rowspan=2|14
+|rowspan=2 align="center"| {{increase}} 1 || {{flagicon|ENG}} || [[Marcus Ellis]] ||rowspan=2| 54,850
+|-
+| {{flagicon|ENG}} || [[Lauren Smith (badminton)|Lauren Smith]]
+|-
+!rowspan=2|15
+|rowspan=2 align="center"| {{decrease}} 1 || {{flagicon|INA}} || [[Praveen Jordan]] ||rowspan=2| 53,370
+|-
+| {{flagicon|INA}} || [[Melati Daeva Oktavianti]]
+|-
+!rowspan=2|16
+|rowspan=2 align="center"| {{steady}} || {{flagicon|TPE}} || [[Wang Chi-lin]] ||rowspan=2| 47,430
+|-
+| {{flagicon|TPE}} || [[Lee Chia-hsin]]
+|-
+!rowspan=2|17
+|rowspan=2 align="center"| {{steady}} || {{flagicon|INA}} || [[Ricky Karanda Suwardi]] ||rowspan=2| 42,460
+|-
+| {{flagicon|INA}} || [[Debby Susanto]]
+|-
+!rowspan=2|18
+|rowspan=2 align="center"| {{increase}} 2 || {{flagicon|GER}} || [[Mark Lamsfuß]] ||rowspan=2| 42,280
+|-
+| {{flagicon|GER}} || [[Isabel Herttrich]]
+|-
+!rowspan=2|19
+|rowspan=2 align="center"| {{decrease}} 1 || {{flagicon|KOR}} || [[Seo Seung-jae]] ||rowspan=2| 41,690
+|-
+| {{flagicon|KOR}} || [[Chae Yoo-jung]]
+|-
+!rowspan=2|20
+|rowspan=2 align="center"| {{decrease}} 1 || {{flagicon|DEN}} || [[Niclas Nøhr]] ||rowspan=2| 41,390
+|-
+| {{flagicon|DEN}} || [[Sara Thygesen]]
+|-
+|}
+{{col-2}}
+
+===World team rankings===
+{| class="sortable wikitable"
+|-
+! colspan=4 | BWF World Team Rankings&lt;br/&gt;{{as of|2018|October|4|lc=y}}&lt;ref&gt;{{cite web |title=BWF World Team Rankings |url=http://bwf.tournamentsoftware.com/ranking/ranking.aspx?rid=97 |website=BWF Tournament Software |publisher=Badminton World Federation}}&lt;/ref&gt;
+|-
+!# !!Country !!Confederation !!Points
+|-
+!1
+|{{bd|Japan}}
+||[[Badminton Asia Confederation|BAC]]
+|align=right|11,400
+|-
+!2
+|{{bd|China}}
+|[[Badminton Asia Confederation|BAC]]
+|align=right|11,200
+|-
+!3
+|{{bd|Indonesia}}
+|[[Badminton Asia Confederation|BAC]]
+|align=right|8,900
+|-
+!4
+|{{bd|Denmark}}
+|[[Badminton Europe|BE]]
+|align=right|8,600
+|-
+!5
+|{{bd|Thailand}}
+|[[Badminton Asia Confederation|BAC]]
+|align=right|7,650
+|-
+!6
+|{{bd|Chinese Taipei}}
+|[[Badminton Asia Confederation|BAC]]
+|align=right|7,400
+|-
+!7
+|{{bd|South Korea}}
+|[[Badminton Asia Confederation|BAC]]
+|align=right|7,100
+|-
+!8
+|{{bd|Malaysia}}
+|[[Badminton Asia Confederation|BAC]]
+|align=right|6,900
+|-
+!9
+|{{bd|India}}
+|[[Badminton Asia Confederation|BAC]]
+|align=right|5,700
+|-
+!10
+|{{bd|Hong Kong}}
+|[[Badminton Asia Confederation|BAC]]
+|align=right|5,200
+|-
+!11
+|{{bd|Russia}}
+|[[Badminton Europe|BE]]
+|align=right|4,750
+|-
+!12
+|{{bd|Germany}}
+|[[Badminton Europe|BE]]
+|align=right|4,250
+|-
+!13
+|{{bd|England}}
+|[[Badminton Europe|BE]]
+|align=right|4,018
+|-
+!14
+|{{bd|Canada}}
+|[[Badminton Pan Am|BPA]]
+|align=right|4,000
+|-
+!15
+|{{bd|France}}
+|[[Badminton Europe|BE]]
+|align=right|3,750
+|-
+!16
+|{{bd|Bulgaria}}
+|[[Badminton Europe|BE]]
+|align=right|3,380
+|-
+!17
+|{{bd|United States}}
+|[[Badminton Pan Am|BPA]]
+|align=right|3,350
+|-
+!18
+|{{bd|Netherlands}}
+|[[Badminton Europe|BE]]
+|align=right|2,750
+|-
+!19
+|{{bd|Singapore}}
+|[[Badminton Asia Confederation|BAC]]
+|align=right|2,700
+|-
+!20
+|{{bd|Vietnam}}
+|[[Badminton Asia Confederation|BAC]]
+|align=right|2,650
+|}
+{{col-end}}
+
+==Year-end number one players==
+{{Category see also|World No. 1 badminton players}}&lt;ref&gt;{{cite web|title=Historical Ranking|url=http://bwfcorporate.com/players/historical-rankings/|website=Bwfbadminton.org|publisher=Badminton World Federation}}&lt;/ref&gt;
+{| class="wikitable"
+!Year
+!Men's Singles
+!Women's Singles
+!Men's Doubles
+!Women's Doubles
+!Mixed Doubles
+|-
+|2008
+|{{flagicon|MAS}} [[Lee Chong Wei]]
+|{{flagicon|HKG}} [[Zhou Mi (badminton)|Zhou Mi]]
+|{{flagicon|INA}} [[Markis Kido]]&lt;br /&gt;{{flagicon|INA}} [[Hendra Setiawan]]
+|{{flagicon|CHN}} [[Du Jing]]&lt;br /&gt;{{flagicon|CHN}} [[Yu Yang (badminton)|Yu Yang]]
+|{{flagicon|INA}} [[Nova Widianto]]&lt;br /&gt;{{flagicon|INA}} [[Liliyana Natsir]]
+|-
+|2009
+|{{flagicon|MAS}} [[Lee Chong Wei]]
+|{{flagicon|CHN}} [[Wang Yihan]]
+|{{flagicon|MAS}} [[Koo Kien Keat]]&lt;br /&gt;{{flagicon|MAS}} [[Tan Boon Heong]]
+|{{flagicon|CHN}} [[Ma Jin]]&lt;br /&gt;{{flagicon|CHN}} [[Wang Xiaoli]]
+|{{flagicon|KOR}} [[Lee Yong-dae]]&lt;br /&gt;{{flagicon|KOR}} [[Lee Hyo-jung]]
+|-
+|2010
+|{{flagicon|MAS}} [[Lee Chong Wei]]
+|{{flagicon|CHN}} [[Wang Xin (badminton)|Wang Xin]]
+|{{flagicon|DEN}} [[Mathias Boe]]&lt;br /&gt;{{flagicon|DEN}} [[Carsten Mogensen]]
+|{{flagicon|TPE}} [[Cheng Wen-hsing]]&lt;br /&gt;{{flagicon|TPE}} [[Chien Yu-chin]]
+|{{flagicon|DEN}} [[Thomas Laybourn]]&lt;br /&gt;{{flagicon|DEN}} [[Kamilla Rytter Juhl]]
+|-
+|2011
+|{{flagicon|MAS}} [[Lee Chong Wei]]
+|{{flagicon|CHN}} [[Wang Yihan]]
+|{{flagicon|CHN}} [[Cai Yun]]&lt;br /&gt;{{flagicon|CHN}} [[Fu Haifeng]]
+|{{flagicon|CHN}} [[Wang Xiaoli]]&lt;br /&gt;{{flagicon|CHN}} [[Yu Yang (badminton)|Yu Yang]]
+|{{flagicon|CHN}} [[Zhang Nan (badminton)|Zhang Nan]]&lt;br /&gt;{{flagicon|CHN}} [[Zhao Yunlei]]
+|-
+|2012
+|{{flagicon|MAS}} [[Lee Chong Wei]]
+|{{flagicon|CHN}} [[Li Xuerui]]
+|{{flagicon|DEN}} [[Mathias Boe]]&lt;br /&gt;{{flagicon|DEN}} [[Carsten Mogensen]]
+|{{flagicon|CHN}} [[Tian Qing]]&lt;br /&gt;{{flagicon|CHN}} [[Zhao Yunlei]]
+|{{flagicon|CHN}} [[Xu Chen]]&lt;br /&gt;{{flagicon|CHN}} [[Ma Jin]]
+|-
+|2013
+|{{flagicon|MAS}} [[Lee Chong Wei]]
+|{{flagicon|CHN}} [[Li Xuerui]]
+|{{flagicon|INA}} [[Mohammad Ahsan]] &lt;br /&gt;{{flagicon|INA}} [[Hendra Setiawan]]
+|{{flagicon|CHN}} [[Wang Xiaoli]]&lt;br /&gt;{{flagicon|CHN}} [[Yu Yang (badminton)|Yu Yang]]
+|{{flagicon|CHN}} [[Zhang Nan (badminton)|Zhang Nan]]&lt;br /&gt;{{flagicon|CHN}} [[Zhao Yunlei]]
+|-
+|2014
+|{{flagicon|CHN}} [[Chen Long]]
+|{{flagicon|CHN}} [[Li Xuerui]]
+|{{flagicon|KOR}} [[Lee Yong-dae]]&lt;br /&gt;{{flagicon|KOR}} [[Yoo Yeon-seong]]
+|{{flagicon|CHN}} [[Tian Qing]]&lt;br /&gt;{{flagicon|CHN}} [[Zhao Yunlei]]
+|{{flagicon|CHN}} [[Zhang Nan (badminton)|Zhang Nan]]&lt;br /&gt;{{flagicon|CHN}} [[Zhao Yunlei]]
+|-
+|2015
+|{{flagicon|CHN}} [[Chen Long]]
+|{{flagicon|ESP}} [[Carolina Marín]]
+|{{flagicon|KOR}} [[Lee Yong-dae]]&lt;br /&gt;{{flagicon|KOR}} [[Yoo Yeon-seong]]
+|{{flagicon|CHN}} [[Luo Ying]]&lt;br /&gt;{{flagicon|CHN}} [[Luo Yu]]
+|{{flagicon|CHN}} [[Zhang Nan (badminton)|Zhang Nan]]&lt;br /&gt;{{flagicon|CHN}} [[Zhao Yunlei]]
+|-
+|2016
+|{{flagicon|MAS}} [[Lee Chong Wei]]
+|{{Flagicon|TPE}} [[Tai Tzu-ying]]
+|{{Flagicon|MAS}} [[Goh V Shem]]&lt;br /&gt;{{Flagicon|MAS}} [[Tan Wee Kiong]]
+|{{Flagicon|JPN}} [[Misaki Matsutomo]]&lt;br /&gt;{{Flagicon|JPN}} [[Ayaka Takahashi]]
+|{{Flagicon|CHN}} [[Zheng Siwei]]&lt;br /&gt;{{Flagicon|CHN}} [[Chen Qingchen]]
+|-
+|2017
+|{{flagicon|DEN}} [[Viktor Axelsen]]
+|{{Flagicon|TPE}} [[Tai Tzu-ying]]
+|{{flagicon|INA}} [[Marcus Fernaldi Gideon]]&lt;br /&gt;{{flagicon|INA}} [[Kevin Sanjaya Sukamuljo]]
+|{{flagicon|CHN}} [[Chen Qingchen]]&lt;br /&gt;{{flagicon|CHN}} [[Jia Yifan]]
+|{{Flagicon|CHN}} [[Zheng Siwei]]&lt;br /&gt;{{Flagicon|CHN}} [[Chen Qingchen]]
+|}
+
+==Number one ranked players==
+{{category see also|World No. 1 badminton players}}
+
+The following is a list of players who have achieved the number one position since 1 January 2009 (active players in purple, and current number 1 players are marked in '''bold'''):
+
+{| class="sortable wikitable"
+|-
+! Country !! Player !! Event !! Date reached !! Total weeks
+|- style="background:#d8bfd8;"
+| {{flag|MAS}} || [[Lee Chong Wei]] || {{abbr|MS|Men's singles}} || 1 January 2009 || 349
+|- 
+| {{flag|HKG}} || [[Zhou Mi (badminton)|Zhou Mi]] || {{abbr|WS|Women's singles}} || 1 January 2009 || 17
+|- 
+| {{flag|INA}} || [[Markis Kido]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 1 January 2009 ||rowspan=2| 35
+|- 
+| {{flag|INA}} || [[Hendra Setiawan]]
+|- 
+| {{flag|CHN}} || [[Du Jing]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 1 January 2009 ||rowspan=2| 11
+|- 
+| {{flag|CHN}} || [[Yu Yang (badminton)|Yu Yang]]
+|- 
+| {{flag|INA}} || [[Nova Widianto]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 1 January 2009 ||rowspan=2| 47
+|- 
+| {{flag|INA}} || [[Liliyana Natsir]]
+|- 
+| {{flag|MAS}} || [[Wong Pei Tty]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 15 January 2009 ||rowspan=2| 25
+|- 
+| {{flag|MAS}} || [[Chin Eei Hui]]
+|- 
+| {{flag|DEN}} || [[Tine Baun]] || {{abbr|WS|Women's singles}} || 22 January 2009 || 22
+|- 
+| {{flag|KOR}} || [[Jung Jae-sung]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 22 January 2009 ||rowspan=2| 24
+|- 
+| {{flag|KOR}} || [[Lee Yong-dae]]
+|- 
+| {{flag|TPE}} || [[Chien Yu-chin]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 22 January 2009 ||rowspan=2| 37
+|- 
+| {{flag|TPE}} || [[Cheng Wen-hsing]]
+|- 
+| {{flag|KOR}} || [[Lee Yong-dae]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 18 June 2009 ||rowspan=2| 39
+|- 
+| {{flag|KOR}} || [[Lee Hyo-jung]]
+|- 
+| {{flag|CHN}} || [[Zhao Yunlei]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 20 August 2009 ||rowspan=2| 6
+|- 
+| {{flag|CHN}} || [[Cheng Shu]]
+|- 
+| {{flag|CHN}} || [[Wang Lin (badminton)|Wang Lin]] || {{abbr|WS|Women's singles}} || 24 September 2009 || 5
+|- 
+| {{flag|MAS}} || [[Koo Kien Keat]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 24 September 2009 ||rowspan=2| 55
+|- 
+| {{flag|MAS}} || [[Tan Boon Heong]]
+|- 
+| {{flag|CHN}} || [[Zhang Yawen]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 24 September 2009 ||rowspan=2| 6
+|- 
+| {{flag|CHN}} || [[Zhao Tingting]]
+|- 
+| {{flag|CHN}} || [[Wang Yihan]] || {{abbr|WS|Women's singles}} || 29 October 2009 || 116
+|- 
+| {{flag|CHN}} || [[Ma Jin]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 26 November 2009 ||rowspan=2| 36
+|-
+| {{flag|CHN}} || [[Wang Xiaoli]]
+|- 
+| {{flag|CHN}} || [[Zheng Bo]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 21 January 2010 ||rowspan=2| 8
+|- 
+| {{flag|CHN}} || [[Ma Jin]]
+|- 
+| {{flag|DEN}} || [[Thomas Laybourn]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 24 June 2010 ||rowspan=2| 14
+|- 
+| {{flag|DEN}} || [[Kamilla Rytter Juhl]]
+|- 
+| {{flag|POL}} || [[Robert Mateusiak]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 26 August 2010 ||rowspan=2| 1
+|- 
+| {{flag|POL}} || [[Nadieżda Zięba]]
+|- 
+| {{flag|CHN}} || [[Wang Xin (badminton)|Wang Xin]] || {{abbr|WS|Women's singles}} || 23 September 2010 || 14
+|- style="background:#d8bfd8;"
+| {{flag|DEN}} || [[Mathias Boe]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 11 November 2010 ||rowspan=2| 68
+|- style="background:#d8bfd8;"
+| {{flag|DEN}} || [[Carsten Mogensen]]
+|- 
+| {{flag|CHN}} || [[Wang Shixian]] || {{abbr|WS|Women's singles}} || 13 January 2011 || 33
+|- 
+| {{flag|CHN}} || [[Zhang Nan (badminton)|Zhang Nan]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 2 February 2011 ||rowspan=2| 237
+|- 
+| {{flag|CHN}} || [[Zhao Yunlei]]
+|- 
+| {{flag|CHN}} || [[Wang Xiaoli]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 28 April 2011 ||rowspan=2| 136
+|- 
+| {{flag|CHN}} || [[Yu Yang (badminton)|Yu Yang]]
+|- 
+| {{flag|CHN}} || [[Cai Yun]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 23 June 2011 ||rowspan=2| 54
+|- 
+| {{flag|CHN}} || [[Fu Haifeng]]
+|- style="background:#d8bfd8;"
+| {{flag|CHN}} || [[Lin Dan]] || {{abbr|MS|Men's singles}} || 21 June 2012 || 14
+|- 
+| {{flag|CHN}} || [[Xu Chen]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 16 August 2012 ||rowspan=2| 57
+|- 
+| {{flag|CHN}} || [[Ma Jin]]
+|- 
+| {{flag|CHN}} || [[Tian Qing]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 20 September 2012 ||rowspan=2| 43
+|- 
+| {{flag|CHN}} || [[Zhao Yunlei]]
+|- style="background:#d8bfd8;"
+| {{flag|CHN}} || [[Li Xuerui]] || {{abbr|WS|Women's singles}} || 20 December 2012 || 124
+|- style="background:#d8bfd8;"
+| {{flag|KOR}} || [[Ko Sung-hyun]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 30 May 2013 ||rowspan=2| 25
+|- style="background:#d8bfd8;"
+| {{flag|KOR}} || [[Lee Yong-dae]]
+|- style="background:#d8bfd8;"
+| {{flag|INA}} || [[Mohammad Ahsan]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 21 November 2013 ||rowspan=2| 38
+|- style="background:#d8bfd8;"
+| {{flag|INA}} || [[Hendra Setiawan]]
+|- 
+| {{flag|CHN}} || [[Bao Yixin]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 29 May 2014 ||rowspan=2| 22
+|- 
+| {{flag|CHN}} || [[Tang Jinhua]]
+|- style="background:#d8bfd8;"
+| {{flag|KOR}} || [[Lee Yong-dae]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 14 August 2014 ||rowspan=2| 117
+|- style="background:#d8bfd8;"
+| {{flag|KOR}} || [[Yoo Yeon-seong]]
+|- style="background:#d8bfd8;"
+| {{flag|JPN}} || [[Misaki Matsutomo]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 30 October 2014 ||rowspan=2| 127
+|- style="background:#d8bfd8;"
+| {{flag|JPN}} || [[Ayaka Takahashi]]
+|- style="background:#d8bfd8;"
+| {{flag|CHN}} || [[Chen Long]] || {{abbr|MS|Men's singles}} || 24 December 2014 || 76
+|- style="background:#d8bfd8;"
+| {{flag|IND}} || [[Saina Nehwal]] || {{abbr|WS|Women's singles}} || 2 April 2015 || 14
+|- style="background:#d8bfd8;"
+| {{flag|DEN}} || [[Joachim Fischer Nielsen]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 2 April 2015 ||rowspan=2| 1
+|- style="background:#d8bfd8;"
+| {{flag|DEN}} || [[Christinna Pedersen]]
+|- style="background:#d8bfd8;"
+| {{flag|ESP}} || [[Carolina Marín]] || {{abbr|WS|Women's singles}} || 11 June 2015 || 66
+|- 
+| {{flag|CHN}} || [[Luo Ying]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 17 December 2015 ||rowspan=2| 13
+|- 
+| {{flag|CHN}} || [[Luo Yu]]
+|- style="background:#d8bfd8;"
+| {{flag|THA}} || [[Ratchanok Intanon]] || {{abbr|WS|Women's singles}} || 21 April 2016 || 2
+|- 
+| {{flag|KOR}} || [[Ko Sung-hyun]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 29 September 2016||rowspan=2| 10
+|- 
+| {{flag|KOR}} || [[Kim Ha-na]]
+|- style="background:#d8bfd8;"
+| {{flag|MAS}} || [[Goh V Shem]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 10 November 2016 ||rowspan=2| 18
+|- style="background:#d8bfd8;"
+| {{flag|MAS}} || [[Tan Wee Kiong]]
+|- style="background:#d8bfd8;"
+| '''{{flag|TPE}}''' || '''[[Tai Tzu-ying]]''' || '''{{abbr|WS|Women's singles}}''' || '''1 December 2016''' || '''103'''
+|- style="background:#d8bfd8;"
+| {{flag|CHN}} || [[Zheng Siwei]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 22 December 2016||rowspan=2| 69
+|- style="background:#d8bfd8;"
+| {{flag|CHN}} || [[Chen Qingchen]]
+|- style="background:#d8bfd8;"
+| '''{{flag|INA}}''' || '''[[Marcus Fernaldi Gideon]]''' ||rowspan=2| '''{{abbr|MD|Men's doubles}}''' ||rowspan=2| '''16 March 2017''' ||rowspan=2| '''74'''
+|- style="background:#d8bfd8;"
+| '''{{flag|INA}}''' || '''[[Kevin Sanjaya Sukamuljo]]'''
+|- style="background:#d8bfd8;"
+| {{flag|CHN}} || [[Li Junhui]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 6 April 2017 ||rowspan=2| 10
+|- style="background:#d8bfd8;"
+| {{flag|CHN}} || [[Liu Yuchen]]
+|- style="background:#d8bfd8;"
+| {{flag|KOR}} || [[Son Wan-ho]] || {{abbr|MS|Men's singles}} || 25 May 2017 || 17
+|- style="background:#d8bfd8;"
+| {{flag|DEN}} || [[Viktor Axelsen]] || {{abbr|MS|Men's singles}} || 29 September 2017 || 51
+|- style="background:#d8bfd8;"
+| {{flag|CHN}} || [[Chen Qingchen]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 26 October 2017 ||rowspan=2| 37
+|- style="background:#d8bfd8;"
+| {{flag|CHN}} || [[Jia Yifan]]
+|- style="background:#d8bfd8;"
+| {{flag|IND}} || [[Srikanth Kidambi]] || {{abbr|MS|Men's singles}} || 12 April 2018 || 1
+|- style="background:#d8bfd8;"
+| {{flag|CHN}} || [[Wang Yilü]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 12 April 2018 ||rowspan=2| 5
+|- style="background:#d8bfd8;"
+| {{flag|CHN}} || [[Huang Dongping]]
+|- style="background:#d8bfd8;"
+| {{flag|JPN}} || [[Akane Yamaguchi]] || {{abbr|WS|Women's singles}} || 19 April 2018 || 2
+|- style="background:#d8bfd8;"
+| {{flag|INA}} || [[Tontowi Ahmad]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 3 May 2018 ||rowspan=2| 11
+|- style="background:#d8bfd8;"
+| {{flag|INA}} || [[Liliyana Natsir]]
+|- style="background:#d8bfd8;"
+| '''{{flag|JPN}}''' || '''[[Yuki Fukushima]]''' ||rowspan=2| '''{{abbr|WD|Women's doubles}}''' ||rowspan=2| '''21 June 2018''' ||rowspan=2| '''19'''
+|- style="background:#d8bfd8;"
+| '''{{flag|JPN}}''' || '''[[Sayaka Hirota]]'''
+|- style="background:#d8bfd8;"
+| '''{{flag|CHN}}''' || '''[[Zheng Siwei]]''' ||rowspan=2| '''{{abbr|XD|Mixed doubles}}''' ||rowspan=2| '''9 August 2018''' ||rowspan=2| '''17'''
+|- style="background:#d8bfd8;"
+| '''{{flag|CHN}}''' || '''[[Huang Yaqiong]]'''
+|- style="background:#d8bfd8;"
+| '''{{flag|JPN}}''' || '''[[Kento Momota]]''' || '''{{abbr|MS|Men's singles}}''' || '''27 September 2018''' || '''10'''
+|-
+|}
+
+''Last update: 29 November 2018''
+
+==Players with highest career rank 2–5==
+
+The following is a list of players who were ranked world no. 5 or higher but not no. 1 in the period since the introduction of the BWF computer rankings (active players in purple):
+{{col-begin}}
+{{col-break}}
+{| class="sortable wikitable"
+|-
+! colspan="4"|&lt;center&gt;'''World number 2'''&lt;/center&gt;
+|-
+! !! Player !! Event !! Date reached
+|- 
+| {{flagicon|CHN}} || [[He Hanbin]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 1 January 2009
+|- 
+| {{flagicon|CHN}} || [[Yu Yang (badminton)|Yu Yang]]
+|- 
+| {{flagicon|DEN}} || [[Lars Paaske]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 19 March 2009
+|- 
+| {{flagicon|DEN}} || [[Jonas Rasmussen]]
+|-
+| {{flagicon|DEN}} || [[Peter Gade]] || {{abbr|MS|Men's singles}} || 16 April 2009
+|-
+| {{flagicon|CHN}} || [[Chen Jin (badminton)|Chen Jin]] || {{abbr|MS|Men's singles}} || 2 July 2009
+|- 
+| {{flagicon|KOR}} || [[Ha Jung-eun]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 5 November 2009
+|-
+| {{flagicon|KOR}} || [[Kim Min-jung (badminton)|Kim Min-jung]]
+|- 
+| {{flagicon|INA}} || [[Hendra Aprida Gunawan]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 26 August 2010
+|- 
+| {{flagicon|INA}} || [[Vita Marissa]]
+|- 
+| {{flagicon|JPN}} || [[Miyuki Maeda]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 11 November 2010
+|- 
+| {{flagicon|JPN}} || [[Satoko Suetsuna]]
+|- 
+| {{flagicon|THA}} || [[Sudket Prapakamol]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 9 December 2010
+|- 
+| {{flagicon|THA}} || [[Saralee Thoungthongkam]]
+|- 
+| {{flagicon|INA}} || [[Taufik Hidayat]] || {{abbr|MS|Men's singles}} || 16 December 2010
+|- style="background:#d8bfd8;"
+| {{flagicon|KOR}} || [[Ko Sung-hyun]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 2 February 2011
+|- style="background:#d8bfd8;"
+| {{flagicon|KOR}} || [[Yoo Yeon-seong]]
+|- 
+| {{flagicon|CHN}} || [[Tao Jiaming]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 18 August 2011
+|- 
+| {{flagicon|CHN}} || [[Tian Qing]]
+|- 
+| {{flagicon|CHN}} || [[Bao Yixin]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 1 November 2012
+|- 
+| {{flagicon|CHN}} || [[Zhong Qianxin]]
+|- 
+| {{flagicon|GER}} || [[Juliane Schenk]] || {{abbr|WS|Women's singles}} || 20 June 2013
+|- 
+| {{flagicon|CHN}} || [[Ma Jin]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 11 July 2013
+|- 
+| {{flagicon|CHN}} || [[Tang Jinhua]]
+|- 
+| {{flagicon|DEN}} || [[Kamilla Rytter Juhl]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 24 October 2013
+|- 
+| {{flagicon|DEN}} || [[Christinna Pedersen]]
+|- 
+| {{flagicon|JPN}} || [[Hiroyuki Endo]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 6 March 2014
+|- 
+| {{flagicon|JPN}} || [[Kenichi Hayakawa]]
+|- style="background:#d8bfd8;"
+| {{flagicon|DEN}} || [[Jan Ø. Jørgensen]] || {{abbr|MS|Men's singles}} || 22 January 2015
+|- 
+| {{flagicon|CHN}} || [[Liu Cheng (badminton)|Liu Cheng]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 26 November 2015
+|- 
+| {{flagicon|CHN}} || [[Bao Yixin]]
+|- 
+| {{flagicon|INA}} || [[Nitya Krishinda Maheswari]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 28 January 2016
+|- 
+| {{flagicon|INA}} || [[Greysia Polii]]
+|- 
+| {{flagicon|CHN}} || [[Tang Yuanting]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 14 April 2016
+|- 
+| {{flagicon|CHN}} || [[Yu Yang (badminton)|Yu Yang]]
+|- 
+| {{flagicon|CHN}} || [[Fu Haifeng]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 25 August 2016
+|- 
+| {{flagicon|CHN}} || [[Zhang Nan (badminton)|Zhang Nan]]
+|- style="background:#d8bfd8;"
+| {{flagicon|KOR}} || [[Kim Gi-jung]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 22 September 2016
+|- style="background:#d8bfd8;"
+| {{flagicon|KOR}} || [[Kim Sa-rang (badminton)|Kim Sa-rang]]
+|- 
+| {{flagicon|CHN}} || [[Chai Biao]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 6 October 2016
+|- 
+| {{flagicon|CHN}} || [[Hong Wei]]
+|- style="background:#d8bfd8;"
+| {{flagicon|INA}} || [[Praveen Jordan]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 27 October 2016
+|- style="background:#d8bfd8;"
+| {{flagicon|INA}} || [[Debby Susanto]]
+|- style="background:#d8bfd8;"
+| {{flagicon|KOR}} || [[Jung Kyung-eun]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 10 November 2016
+|- style="background:#d8bfd8;"
+| {{flagicon|KOR}} || [[Shin Seung-chan]]
+|- style="background:#d8bfd8;"
+| {{flagicon|JPN}} || [[Takeshi Kamura]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 26 January 2017
+|- style="background:#d8bfd8;"
+| {{flagicon|JPN}} || [[Keigo Sonoda]]
+|- style="background:#d8bfd8;"
+| {{flagicon|KOR}} || [[Sung Ji-hyun]] || {{abbr|WS|Women's singles}} || 16 March 2017
+|- style="background:#d8bfd8;"
+| {{flagicon|IND}} || [[P. V. Sindhu]] || {{abbr|WS|Women's singles}} || 7 April 2017
+|- style="background:#d8bfd8;"
+| {{flagicon|CHN}} || [[Lu Kai (badminton)|Lu Kai]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 13 April 2017
+|- style="background:#d8bfd8;"
+| {{flagicon|CHN}} || [[Huang Yaqiong]]
+|- style="background:#d8bfd8;"
+| {{flagicon|CHN}} || [[Shi Yuqi]] || {{abbr|MS|Men's singles}} || 24 August 2017
+|- style="background:#d8bfd8;"
+| {{flagicon|KOR}} || [[Chang Ye-na]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 9 November 2017 
+|- style="background:#d8bfd8;"
+| {{flagicon|KOR}} || [[Lee So-hee]]
+|- style="background:#d8bfd8;"
+| {{flagicon|CHN}} || [[Liu Cheng (badminton)|Liu Cheng]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 21 June 2018
+|- style="background:#d8bfd8;"
+| {{flagicon|CHN}} || [[Zhang Nan (badminton)|Zhang Nan]]
+|- style="background:#d8bfd8;"
+| {{flagicon|HKG}} || [[Tang Chun Man]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 21 June 2018
+|- style="background:#d8bfd8;"
+| {{flagicon|HKG}} || [[Tse Ying Suet]]
+|}
+
+{{col-break}}
+
+{| class="sortable wikitable"
+|-
+! colspan="4"|&lt;center&gt;'''World number 3'''&lt;/center&gt;
+|-
+! !! Player !! Event !! Date reached
+|- 
+| {{flagicon|CHN}} || [[Lu Lan]] || {{abbr|WS|Women's singles}} || 1 January 2009
+|- 
+| {{flagicon|KOR}} || [[Lee Kyung-won]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 22 January 2009
+|- 
+| {{flagicon|KOR}} || [[Lee Hyo-jung]]
+|-
+| {{flagicon|CHN}} || [[Yang Wei (badminton)|Yang Wei]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 5 March 2009
+|- 
+| {{flagicon|CHN}} || [[Zhang Jiewen]]
+|- 
+| {{flagicon|FRA}} || [[Pi Hongyan]] || {{abbr|WS|Women's singles}} || 2 April 2009
+|-
+| {{flagicon|CHN}} || [[Xie Xingfang]] || {{abbr|WS|Women's singles}} || 25 June 2009
+|-
+| {{flagicon|CHN}} || [[Jiang Yanjiao]] || {{abbr|WS|Women's singles}} || 21 January 2010
+|- 
+| {{flagicon|CHN}} || [[Guo Zhendong]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 1 July 2010
+|- 
+| {{flagicon|CHN}} || [[Xu Chen]]
+|- 
+| {{flagicon|INA}} || [[Simon Santoso]] || {{abbr|MS|Men's singles}} || 26 August 2010
+|- 
+| {{flagicon|BUL}} || [[Petya Nedelcheva]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 25 November 2010
+|- 
+| {{flagicon|RUS}} || [[Anastasia Russkikh]]
+|- 
+| {{flagicon|TPE}} || [[Fang Chieh-min]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 9 December 2010
+|- 
+| {{flagicon|TPE}} || [[Lee Sheng-mu]]
+|- 
+| {{flagicon|JPN}} || [[Mizuki Fujii]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 18 August 2011
+|- 
+| {{flagicon|JPN}} || [[Reika Kakiiwa]]
+|- style="background:#d8bfd8;"
+| {{flagicon|MAS}} || [[Chan Peng Soon]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 22 November 2012
+|- style="background:#d8bfd8;"
+| {{flagicon|MAS}} || [[Goh Liu Ying]]
+|- 
+| {{flagicon|CHN}} || [[Du Pengyu]] || {{abbr|MS|Men's singles}} || 17 January 2013
+|- 
+| {{flagicon|JPN}} || [[Shizuka Matsuo]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 25 April 2013
+|- 
+| {{flagicon|JPN}} || [[Mami Naito]]
+|- 
+| {{flagicon|JPN}} || [[Kenichi Tago]] || {{abbr|MS|Men's singles}} || 31 October 2013
+|- style="background:#d8bfd8;"
+| {{flagicon|INA}} || [[Tommy Sugiarto]] || {{abbr|MS|Men's singles}} || 19 December 2013
+|- style="background:#d8bfd8;"
+| {{flagicon|KOR}} || [[Ko Sung-hyun]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 22 January 2015
+|- style="background:#d8bfd8;"
+| {{flagicon|KOR}} || [[Shin Baek-cheol]]
+|- 
+| {{flagicon|TPE}} || [[Lee Sheng-mu]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 12 March 2015
+|- 
+| {{flagicon|TPE}} || [[Tsai Chia-hsin]]
+|- style="background:#d8bfd8;"
+| {{flagicon|JPN}} || [[Nozomi Okuhara]] || {{abbr|WS|Women's singles}} || 17 March 2016
+|- style="background:#d8bfd8;"
+| {{flagicon|CHN}} || [[Zhang Nan (badminton)|Zhang Nan]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 8 June 2017
+|- style="background:#d8bfd8;"
+| {{flagicon|CHN}} || [[Li Yinhui]]
+|- style="background:#d8bfd8;"
+| {{flagicon|INA}} || [[Greysia Polii]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 20 September 2018
+|- style="background:#d8bfd8;" 
+| {{flagicon|INA}} || [[Apriyani Rahayu]]
+|- style="background:#d8bfd8;"
+| {{flagicon|TPE}} || [[Chou Tien-chen]] || {{abbr|MS|Men's singles}} || 25 October 2018
+|- style="background:#d8bfd8;"
+| {{flagicon|CHN}} || [[Chen Yufei]] || {{abbr|WS|Women's singles}} || 15 November 2018
+|- style="background:#d8bfd8;"
+| {{flagicon|JPN}} || [[Mayu Matsumoto]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 15 November 2018
+|- style="background:#d8bfd8;"
+| {{flagicon|JPN}} || [[Wakana Nagahara]]
+|- style="background:#d8bfd8;"
+| {{flagicon|JPN}} || [[Yuta Watanabe (badminton)|Yuta Watanabe]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 22 November 2018
+|- style="background:#d8bfd8;"
+| {{flagicon|JPN}} || [[Arisa Higashino]]
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-break}}
+{| class="sortable wikitable"
+|-
+! colspan="4"|&lt;center&gt;'''World number 4'''&lt;/center&gt;
+|-
+! !! Player !! Event !! Date reached
+|- style="background:#d8bfd8;"
+| {{flagicon|INA}} || [[Sony Dwi Kuncoro]] || {{abbr|MS|Men's singles}} || 1 January 2009
+|- 
+| {{flagicon|CHN}} || [[Zhu Lin (badminton)|Zhu Lin]] || {{abbr|WS|Women's singles}} || 1 January 2009
+|- 
+| {{flagicon|MAS}} || [[Mohd Zakry Abdul Latif]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 1 January 2009
+|- 
+| {{flagicon|MAS}} || [[Mohd Fairuzizuan Mohd Tazari]]
+|- 
+| {{flagicon|INA}} || [[Liliyana Natsir]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 1 January 2009
+|- 
+| {{flagicon|INA}} || [[Vita Marissa]]
+|- 
+| {{flagicon|ENG}} || [[Anthony Clark (badminton)|Anthony Clark]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 1 January 2009
+|- 
+| {{flagicon|ENG}} || [[Donna Kellogg]]
+|- 
+| {{flagicon|HKG}} || [[Wang Chen (badminton)|Wang Chen]] || {{abbr|WS|Women's singles}} || 15 January 2009
+|- 
+| {{flagicon|THA}} || [[Boonsak Ponsana]] || {{abbr|MS|Men's singles}} || 2 December 2010
+|- 
+| {{flagicon|RUS}} || [[Valeria Sorokina]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 16 December 2010
+|- 
+| {{flagicon|RUS}} || [[Nina Vislova]]
+|- 
+| {{flagicon|THA}} || [[Duanganong Aroonkesorn]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 13 January 2011
+|- 
+| {{flagicon|THA}} || [[Kunchala Voravichitchaikul]]
+|- 
+| {{flagicon|KOR}} || [[Ko Sung-hyun]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 2 June 2011
+|- 
+| {{flagicon|KOR}} || [[Ha Jung-eun]]
+|- 
+| {{flagicon|CHN}} || [[Hong Wei]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 17 January 2013
+|- 
+| {{flagicon|CHN}} || [[Shen Ye]]
+|- style="background:#d8bfd8;"
+| {{flagicon|HKG}} || [[Hu Yun]] || {{abbr|MS|Men's singles}} || 30 May 2013
+|- 
+| {{flagicon|KOR}} || [[Jang Ye-na]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 14 August 2014
+|- 
+| {{flagicon|KOR}} || [[Kim So-young]]
+|- 
+| {{flagicon|CHN}} || [[Liu Xiaolong]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 12 March 2015
+|-
+| {{flagicon|CHN}} || [[Qiu Zihan]]
+|-
+| {{flagicon|CHN}} || [[Sun Yu (badminton)|Sun Yu]] || {{abbr|WS|Women's singles}} || 22 December 2016
+|- style="background:#d8bfd8;"
+| {{flagicon|ENG}} || [[Chris Adcock]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 24 August 2017
+|- style="background:#d8bfd8;"
+| {{flagicon|ENG}} || [[Gabby Adcock]]
+|- style="background:#d8bfd8;"
+| {{flagicon|JPN}} || [[Shiho Tanaka]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 31 May 2018
+|- style="background:#d8bfd8;"
+| {{flagicon|JPN}} || [[Koharu Yonemoto]]
+|- style="background:#d8bfd8;"
+| {{flagicon|DEN}} || [[Mads Conrad-Petersen]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 21 June 2018
+|- style="background:#d8bfd8;"
+| {{flagicon|DEN}} || [[Mads Pieler Kolding]]
+|- style="background:#d8bfd8;"
+| {{flagicon|TPE}} || [[Chen Hung-ling]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 25 October 2018
+|- style="background:#d8bfd8;"
+| {{flagicon|TPE}} || [[Wang Chi-lin]]
+|- style="background:#d8bfd8;"
+| {{flagicon|DEN}} || [[Mathias Christiansen]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 25 October 2018
+|- style="background:#d8bfd8;"
+| {{flagicon|DEN}} || [[Christinna Pedersen]]
+|}
+
+{{col-break}}
+
+{| class="sortable wikitable"
+|-
+! colspan="4"|&lt;center&gt;'''World number 5'''&lt;/center&gt;
+|-
+! !! Player !! Event !! Date reached
+|- 
+| {{flagicon|INA}} || [[Alvent Yulianto Chandra]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 26 November 2009
+|- 
+| {{flagicon|INA}} || [[Hendra Aprida Gunawan]]
+|- 
+| {{flagicon|CHN}} || [[Tao Jiaming]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 26 August 2010
+|- 
+| {{flagicon|CHN}} || [[Zhang Yawen]]
+|- 
+| {{flagicon|ENG}} || [[Nathan Robertson]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 25 November 2010
+|- 
+| {{flagicon|ENG}} || [[Jenny Wallwork]]
+|- style="background:#d8bfd8;"
+| {{flagicon|VIE}} || [[Nguyễn Tiến Minh]] || {{abbr|MS|Men's singles}} || 2 December 2010
+|- 
+| {{flagicon|CHN}} || [[Pan Pan (badminton)|Pan Pan]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 16 December 2010
+|- 
+| {{flagicon|CHN}} || [[Tian Qing]]
+|- 
+| {{flagicon|CHN}} || [[Liu Xin (badminton)|Liu Xin]] || {{abbr|WS|Women's singles}} || 14 April 2011
+|- 
+| {{flagicon|INA}} || [[Greysia Polii]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 12 May 2011
+|- 
+| {{flagicon|INA}} || [[Meiliana Jauhari]]
+|- 
+| {{flagicon|KOR}} || [[Bae Yeon-ju]] || {{abbr|WS|Women's singles}} || 2 June 2011
+|- 
+| {{flagicon|TPE}} || [[Chen Hung-ling]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 3 November 2011
+|- 
+| {{flagicon|TPE}} || [[Cheng Wen-hsing]]
+|- 
+| {{flagicon|CHN}} || [[Chai Biao]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 22 December 2011
+|- 
+| {{flagicon|CHN}} || [[Guo Zhendong]]
+|- 
+| {{flagicon|INA}} || [[Mohammad Ahsan]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 9 August 2012
+|- 
+| {{flagicon|INA}} || [[Bona Septano]]
+|- 
+| {{flagicon|KOR}} || [[Eom Hye-won]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 25 April 2013
+|- 
+| {{flagicon|KOR}} || [[Jang Ye-na]]
+|- 
+| {{flagicon|KOR}} || [[Jung Kyung-eun]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 26 September 2013
+|- 
+| {{flagicon|KOR}} || [[Kim Ha-na]]
+|- 
+| {{flagicon|JPN}} || [[Reika Kakiiwa]] ||rowspan=2| {{abbr|WD|Women's doubles}} ||rowspan=2| 17 April 2014
+|- 
+| {{flagicon|JPN}} || [[Miyuki Maeda]]
+|- 
+| {{flagicon|KOR}} || [[Seo Seung-jae]] ||rowspan=2| {{abbr|XD|Mixed doubles}} ||rowspan=2| 17 May 2018
+|- 
+| {{flagicon|KOR}} || [[Kim Ha-na]]
+|- style="background:#d8bfd8;"
+| {{flagicon|DEN}} || [[Kim Astrup]] ||rowspan=2| {{abbr|MD|Men's doubles}} ||rowspan=2| 27 September 2018
+|- style="background:#d8bfd8;"
+| {{flagicon|DEN}} || [[Anders Skaarup Rasmussen]]
+|}
+{{col-end}}
+
+''Last update: 29 November 2018''
+
+==References==
+{{reflist}}
+
+{{International badminton}}
+{{Sport world rankings}}
+{{Top ten badminton players}}
+
+[[Category:Badminton World Federation|Ranking]]
+[[Category:Badminton records and statistics]]
+[[Category:Sports world rankings]]</text>
+      <sha1>s0bmccwxdjbwzm2cnqyc0ehlriafgg3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>FISA Improvements Act</title>
+    <ns>0</ns>
+    <id>41687529</id>
+    <revision>
+      <id>797461901</id>
+      <parentid>771299093</parentid>
+      <timestamp>2017-08-27T05:49:42Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17155">{{Infobox United States federal proposed legislation
+| name            = FISA Improvements Act
+| fullname        = A bill to consolidate the congressional oversight provisions of the Foreign Intelligence Surveillance Act of 1978 and for other purposes. 
+| introduced in the = 113th
+| sponsored by    = [[Dianne Feinstein]]
+| number of co-sponsors = 0
+| public law url  = 
+| cite public law = &lt;!--{{USPL|XXX|YY}} where X is the congress number and Y is the law number--&gt;
+| cite statutes at large = &lt;!--{{usstat}} can be used--&gt;
+| acts affected    = &lt;!--list, if applicable; make wikilinks where possible--&gt;
+| acts repealed   = &lt;!--list, if applicable; make wikilinks where possible--&gt;
+| title affected   = &lt;!--US code titles changed--&gt;
+| sections created = &lt;!--{{USC}} can be used--&gt;
+| sections affected = &lt;!--list, if applicable; make wikilinks where possible--&gt;
+| agenciesaffected = &lt;!--list of federal agencies that would be affected by the legislation, wikilinks where possible--&gt;
+| introducedin    = Senate
+| introducedbill  = {{USBill|113|S.|1631}}
+| introducedby    = [[Dianne Feinstein]]
+| introduceddate  = October 31, 2013
+| committees      = [[United States Senate Select Committee on Intelligence]]
+}}
+{{Global surveillance}}
+
+The '''FISA Improvements Act''' is a proposed act&lt;ref&gt;{{cite web|url=http://thomas.loc.gov/cgi-bin/query/z?c113:S.1631:|title=S.1631 -- FISA Improvements Act of 2013 (Placed on Calendar Senate - PCS)|publisher=Library of Congress (THOMAS)|date=2013-11-12}}&lt;/ref&gt; by Senator [[Dianne Feinstein]], Chair of the [[Senate Intelligence Committee]].  Prompted by the disclosure of [[National Security Agency|NSA]] surveillance by [[Edward Snowden]], it would establish the surveillance program as legal, but impose some limitations on availability of the data.  Opponents say the bill would codify warrantless access to many communications of American citizens for use by domestic law enforcement.&lt;ref&gt;{{cite web|author=Spencer Ackerman in Washington |url=https://www.theguardian.com/world/2013/nov/15/feinstein-bill-nsa-warrantless-searches-surveillance |title=Feinstein promotes bill to strengthen NSA's hand on warrantless searches &amp;#124; World news |publisher=theguardian.com |date=2013-11-15 |accessdate=2014-01-23}}&lt;/ref&gt;
+
+==Overview==
+
+In the wake of the [[Edward Snowden|Snowden disclosures]], [[Barack Obama|President Obama]] and many lawmakers&lt;ref&gt;{{cite web|url=https://news.yahoo.com/obama-nsa-review-quest-public-trust-204947298--politics.html|title=For Obama, NSA review a quest for public trust|author=Julie Pace|date=2014-01-16|publisher=[[Associated Press]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.usatoday.com/story/news/nation/2013/09/26/senate-change-nsa-program/2877899/|title=Lawmakers debate how to change NSA surveillance program|author=Kevin Johnson|publisher=[[USA Today]]|date=2013-09-26}}&lt;/ref&gt;  believed that restoration of public trust would require legislative changes.  More than 20 bills have been written with the goal of reining in government surveillance powers.&lt;ref&gt;{{cite web|url=http://www.slate.com/blogs/future_tense/2013/10/29/sensenbrenner_and_leahy_s_usa_freedom_act_seeks_to_curb_nsa_domestic_spying.html|title=U.S. Lawmakers Launch Assault on NSA Domestic Snooping|publisher=Slate|author=Ryan Gallagher|date=2013-10-29}}&lt;/ref&gt;
+
+On October 28, 2013, Senator Dianne Feinstein, long described as a staunch defender of the [[National Security Agency]] (NSA), announced that a "total review of all intelligence programs is necessary".&lt;ref&gt;{{cite web|url=http://www.techdirt.com/articles/20131028/15370525042/feinstein-never-upset-about-spying-american-public-is-furious-about-nsa-spying-foreign-leaders.shtml |title=Five Reactions To Dianne Feinstein Finally Finding Something About The NSA To Get Angry About |publisher=Techdirt |date=2013-10-29 |accessdate=2014-01-23}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.feinstein.senate.gov/public/index.cfm/press-releases?ID=61f9511e-5d1a-4bb8-92ff-a7eaa5becac0 |title=Feinstein Statement on Intelligence Collection of Foreign Leaders - Press Releases - News Room - United States Senator Dianne Feinstein |publisher=Feinstein.senate.gov |date=2012-12-05 |accessdate=2014-01-23}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.techdirt.com/articles/20130816/02462124204/ |title=How Could Dianne Feinstein Not Have Seen The Report Laying Out NSA Abuses? |publisher=Techdirt |date=2013-08-16 |accessdate=2014-01-23}}&lt;/ref&gt;
+
+A bill was introduced by Feinstein on October 31, 2013.  Amendments were offered and rejected.&lt;ref&gt;{{cite web|url=http://www.techdirt.com/articles/20131115/17113325262/senate-intelligence-committee-rejects-bunch-attempts-to-amend-dianne-feinsteins-fake-nsa-reform-bill.shtml |title=Senate Intelligence Committee Rejects A Bunch Of Attempts To Amend Dianne Feinstein's Fake NSA Reform Bill |publisher=Techdirt |date=2013-11-15 |accessdate=2014-01-23}}&lt;/ref&gt;  The same day it was introduced, the bill passed the [[United States Senate Select Committee on Intelligence]] by a vote of 11-4.&lt;ref&gt;{{cite web|url=http://www.feinstein.senate.gov/public/index.cfm/press-releases?ID=3aa4ed70-e80b-4c2b-afd6-dc2e5bc75a7b |title=Senate Intelligence Committee Approves FISA Improvements Act - Press Releases - News Room - United States Senator Dianne Feinstein |publisher=Feinstein.senate.gov |date=2012-12-05 |accessdate=2014-01-23}}&lt;/ref&gt;  The committee's report on the bill was published on November 12.&lt;ref name="autogenerated1"&gt;{{cite web|url=http://thomas.loc.gov/cgi-bin/cpquery/?&amp;sid=cp11305RrJ&amp;r_n=sr119.113&amp;dbname=cp113&amp;sel=DOC&amp; |title=Committee Reports - 113th Congress (2013-2014) - Senate Report 113-119 |publisher=Thomas.loc.gov |date= |accessdate=2014-01-23}}&lt;/ref&gt;
+
+Feinstein issued a press release saying that the bill would impose restrictions on how data is collected, including prohibiting bulk collection of the content of communications, and place a limit of five years on retention of the data.  It would make unauthorized access to data obtained under the FISA orders punishable by ten years in prison.  The bill would make the [[FISA court]] require "reasonable articulable suspicion" of association with international terrorism before records are reviewed.  It also would set limits on the number of people with access to the data, and set limits on the number of "hops" (contact intermediaries) that can be searched.  It would require the NSA to make an annual report of the number of queries made and the number of FBI investigations or probable cause orders issued.  The bill would also require intelligence agencies to report violations of law to Congress, require a review once per by the Attorney General of collection procedures, and permit the FISA court to invite independent [[amicus curiae]] perspectives on cases.  It would  require [[Senate confirmation]] of appointments of the [[Director of the National Security Agency|NSA director]] and [[NSA Inspector General]].&lt;ref&gt;{{cite web|url=http://www.feinstein.senate.gov/public/index.cfm/press-releases?ID=3aa4ed70-e80b-4c2b-afd6-dc2e5bc75a7b|title=Senate Intelligence Committee Approves FISA Improvements Act|date=2013-10-31|author=Dianne Feinstein}}&lt;/ref&gt;
+
+[[MSNBC]] reported that the bill "purports to ban the NSA's controversial bulk collection of communications records under Section 215 of the [[Patriot Act]]" but "basically allows the NSA to continue bulk collection."&lt;ref&gt;{{cite web|author=Adam Serwer |url=http://www.msnbc.com/msnbc/fisa-215-feinstein-nsa |title=Feinstein gives the NSA what it wants |publisher=MSNBC |date=2013-03-05 |accessdate=2014-01-23}}&lt;/ref&gt;&lt;ref name="autogenerated2"&gt;{{cite web|last=Koebler |first=Jason |url=http://motherboard.vice.com/blog/the-nsas-biggest-supporter-is-worried-about-drone-privacy-issues |title=The NSA's Biggest Supporter Is Worried About Drone Privacy Issues &amp;#124; Motherboard |publisher=Motherboard.vice.com |date=2014-01-15 |accessdate=2014-01-23}}&lt;/ref&gt;  Feinstein defended data collection in her press release, saying that "The threats we face—from terrorism, proliferation and cyber attack, among others—are real, and they will continue. Intelligence is necessary to protect our national and economic security, as well as to stop attacks against our friends and allies around the world."&lt;ref&gt;{{cite web|url=http://www.thewire.com/national/2013/11/senate-intelligence-approves-new-surveillance-rules/71162/|title=Senate Intelligence Approves New Surveillance Rules|date=2013-11-01|publisher=The Wire|author=Brian Feldman}}&lt;/ref&gt;
+
+==Response==
+
+===Senate Intelligence Committee===
+The Senate Intelligence Committee report recommended the bill, saying that the program was "an effective counterterrorism tool" and "was determined by the Department of Justice in two Administrations and by at least fifteen different judges serving on the Foreign Intelligence Surveillance Court (FISC) to be lawful."  While noting that the committee had encountered inadvertent violations of the law, the majority reported "It remains the case that, through seven years of oversight of this metadata program under Section  215, the Committee has not identified a single case in which a government official engaged in a willful effort to circumvent  or violate Section 215 in the conduct of the bulk telephone metadata program."  The committee endorsed measures to codify and enhance privacy protections, saying these measures "could not have been enacted absent the declassification of lawful intelligence activities that were, until recently, properly classified, as to do so would have revealed the programs to our adversaries and thereby compromised their effectiveness."  However, it condemned the disclosures and said that the leaks "have not exposed government wrongdoing."&lt;ref name=committee&gt;{{cite web|url=http://beta.congress.gov/congressional-report/113th-congress/senate-report/119/1|title=S. Rept. 113-119 - FISA Improvements Act of 2013|date=2013-11-12}}&lt;/ref&gt;
+
+In a minority view attached to the report, Senators [[Ron Wyden]], [[Mark Udall]], and [[Martin Heinrich]] wrote "this bill would codify the government's authority to collect the phone records of huge numbers of law-abiding Americans, and also to conduct warrantless searches for individual Americans' phone calls and emails. We respectfully but firmly disagree with this approach."  Feinstein's response in the report was that the bill "does not provide any new legislative authority with which the government may acquire call records or any other information under Section 215--in fact, it narrows the existing authority for it."&lt;ref name=committee /&gt;
+
+=== Interest groups ===
+The [[American Civil Liberties Union]] (ACLU) urged opposition, calling the bill a "dream come true for the NSA".&lt;ref name="autogenerated2"/&gt;&lt;ref&gt;{{cite web|url=https://www.aclu.org/blog/national-seurity-technology-and-liberty/sen-dianne-feinsteins-nsa-reforms-bad-privacy-bad |accessdate=January 23, 2014 }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt; The Electronic Frontier Foundation (EFF) called the bill a "fake fix" that would "permanently entrench" current surveillance practices.&lt;ref&gt;{{cite web|url=http://www.courthousenews.com/2013/11/13/62864.htm|title=Senate's Bill Is a 'Fake Fix' to Domestic Spying|author=Jack Bouboushian|publisher=Courthouse News Service|date=2013-11-13}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.eff.org/deeplinks/2013/10/sen-feinsteins-nsa-bill-will-codify-and-extend-mass-surveillance|title=Sen. Dianne Feinsteins New NSA Bill Will Codify and Extend Mass Surveillance of Americans|date=2013-10-31|publisher=EFF.org}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://action.eff.org/o/9042/p/dia/action3/common/public/?action_KEY=9437 |title=Take Action &amp;#124; Electronic Frontier Foundation |publisher=Action.eff.org |date= |accessdate=2014-01-23}}&lt;/ref&gt;
+
+The ACLU and EFF were among fifty-four "civil liberties and public interest groups" that authored a coalition letter to Congressional leadership urging them to oppose the act.&lt;ref&gt;{{cite web|url=https://www.eff.org/deeplinks/2013/12/54-civil-liberties-and-public-interest-organizations-oppose-fisa-improvements-act |title=54 Civil Liberties and Public Interest Organizations Oppose the FISA Improvements Act &amp;#124; Electronic Frontier Foundation |publisher=Eff.org |date=2013-12-18 |accessdate=2014-01-23|author = [[Accessnow.org|Access]], [[Advocacy for Principled Action in Government]], [[AIDS Policy Project]], [[American Civil Liberties Union]], [[American Library Association]], [[Amicus]], [[Arab American Institute]], [[Bill of Rights Defense Committee]], [[Brennan Center for Justice]] at [[NYU Law School]], [[Campaign for Liberty]], [[Center for Democracy and Technology]], [[Center for Rights]], [[Charity &amp; Security Network]], [[Citizens for Responsibility and Ethics in Washington]] (CREW), [[The Constitution Project]], [[Council on American-Islamic Relations]], [[CREDO Mobile]], [[Cyber Privacy Project]], [[Defending Dissent Foundation]], [[Demand Progress]], [[DownsizeDC.org]], [[Electronic Frontier Foundation]], [[F2C: Freedom to Connect]], [[Fight for the Future]], [[Firedoglake]], [[Floor64]], [[Free Press Action Fund]], [[Free Software Foundation]], [[Freedom of the Press Foundation]], [[Government Accountability Project]], [[Greenpeace USA]], [[Human Rights Watch]], [[InFo - The Foundation for Innovation and Internet Freedom]], [[Liberty Coalition]], [[Media Alliance]], [[Media Mobilizing Project]], [[Montgomery County Civil Rights Coalition]], [[National Association of Criminal Defense Lawyers]], [[National Coalition Against Censorship]], [[New America Foundation]]'s [[Open Technology Institute]], [[OpenMedia International]], [[OpenTheGovernment.org]], [[Participatory Politics Foundation]], [[PEN American Center]], [[PolitiHacks]], [[Privacy Rights Clearinghouse]], [[Progressive Change Campaign Committee]], [[Project On Government Oversight]], [[Public Knowledge]], [[reddit]], [[RootsAction.org]], [[TechFreedom]], [[The Rutherford Institute]], and [[ThoughtWorks]]}}&lt;/ref&gt;
+
+===Media===
+One area of concern raised by ''[[The Guardian]]'', crediting blogger [[Marcy Wheeler]], regards a "backdoor search provision" which could allow domestic U.S. law enforcement agencies warrantless access to the data.  A FISA court document declassified in 2011&lt;ref&gt;{{cite web|url=http://www.lawfareblog.com/wp-content/uploads/2013/08/162016974-FISA-court-opinion-with-exemptions.pdf|title=[redacted] Memorandum Opinion|publisher=United States Foreign Intelligence Surveillance Court|date=2011-08-03}}&lt;/ref&gt; and a leak by [[Edward Snowden]] previously published by the newspaper&lt;ref&gt;{{cite web|url=https://www.theguardian.com/world/2013/aug/09/nsa-loophole-warrantless-searches-email-calls|title=NSA loophole allows warrantless search for US citizens' emails and phone calls|publisher=The Guardian|date=2013-08-09|author1=James Ball |author2=Spencer Ackerman }}&lt;/ref&gt; indicated that generally searches of the database for "[[US person|U. S. Persons]]" was not permitted, but contained a provision that:
+:"While the FAA 702 minimization procedures approved on 3 October 2011 now allow for use of certain United States person names and identifiers as query terms when reviewing collected FAA 702 data, analysts may NOT/NOT [not repeat not] implement any USP [US persons] queries until an effective oversight process has been developed by NSA and agreed to by DOJ/ODNI [Office of the Director of National Intelligence]."
+According to ''The Guardian'', Section 6 of the Act "blesses" such a procedure, permitting intelligence agencies to search "the contents of communications" collected overseas for U.S. persons provided that the purpose pertained to "foreign intelligence information".&lt;ref&gt;{{cite web|url=https://www.theguardian.com/world/2013/nov/15/feinstein-bill-nsa-warrantless-searches-surveillance|title=Feinstein promotes bill to strengthen NSA's hand on warrantless searches|publisher=The Guardian|author=Spencer Ackerman|date=2013-11-15}}&lt;/ref&gt;  The provision was also criticized by Senator [[Ron Wyden]], who said that the bill "would give intelligence agencies wide latitude to conduct warrantless searches for American phone calls and emails", instead supporting the [[USA Freedom Act]] by Senators [[Patrick Leahy]] and [[F. James Sensenbrenner]] that would require a search warrant to obtain the information.  Sensenbrenner called Feinstein's bill an effort "for the first time in our country's history to allow unrestrained spying on the American people."&lt;ref&gt;{{cite web|url=http://www.thenation.com/article/177248/these-lawmakers-have-plan-rein-nsa-spying|title=These Lawmakers Have a Plan to Rein In NSA Spying |author=Robert Scheer|publisher=The Nation|date=2013-11-19}}&lt;/ref&gt;
+
+==See also==
+* [[USA Freedom Act]], a legislative bill to end US government bulk collection.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN01631:@@@L&amp;summ2=m Summary of FISA Improvements Act]
+* [http://thomas.loc.gov/cgi-bin/query/z?c113:S.+1631: Full Text of the FISA Improvements Act]
+
+[[Category:Proposed legislation of the 113th United States Congress]]
+[[Category:Global surveillance]]</text>
+      <sha1>emiycsczkknh3qjy45572bf0o04wvl1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>FIVB Beach Volleyball World Rankings</title>
+    <ns>0</ns>
+    <id>18859701</id>
+    <revision>
+      <id>859458601</id>
+      <parentid>855737784</parentid>
+      <timestamp>2018-09-14T05:21:20Z</timestamp>
+      <contributor>
+        <username>Smasongarrison</username>
+        <id>16185737</id>
+      </contributor>
+      <comment>/* top */copy edit with [[Wikipedia:AutoWikiBrowser/General_fixes|General fixes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5531">The '''FIVB Beach Volleyball World Rankings''' is a ranking system for men's and women's national teams in [[beach volleyball]]. The teams of the member nations of [[FIVB]], beach volleyball and [[volleyball]]'s world governing body, are ranked based on their competitions results with the most successful teams being ranked highest.
+
+The rankings are used in international competitions to define the seeded teams and arrange them in pools. Specific procedures for seeding and pooling are established by the FIVB in each competition's formula.
+
+== Rankings ==
+{{Col-begin}}
+{{Col-1-of-2}}
+
+===Men===
+
+{| class="wikitable" 
+|-
+|colspan=4 align="center"|'''Top 20 Rankings as of May 7, 2018'''.&lt;ref&gt;[http://www.fivb.org/EN/BeachVolleyball/WRanking_M.asp 2018 FIVB World Ranking - Men]; FIVB&lt;/ref&gt;
+|-
+|- style="font-size:10pt;font-weight:bold"
+! Rank
+! Pair
+! Points
+|-
+|align=right|1
+|{{flagicon|USA}} [[Phil Dalhausser]] &amp; [[Nick Lucena]]
+|align=center|5,220
+|-
+|align=right|2
+|{{flagicon|POL}} [[Bartosz Łosiak]] &amp; [[Piotr Kantor]]
+|align=center|5,080
+|-
+|align=right|3
+|{{flagicon|NED}} [[Alexander Brouwer]] &amp; [[Robert Meeuwsen]]
+|align=center|4,480
+|-
+|align=right|4
+|{{flagicon|RUS}} [[Viacheslav Krasilnikov]] &amp; [[Nikita Liamin]]
+|align=center|4,380
+|-
+|align=right|5
+|{{flagicon|ITA}} [[Paolo Nicolai]] &amp; [[Daniele Lupo]]
+|align=center|4,360
+|-
+|align=right|6
+|{{flagicon|BRA}} [[Evandro Oliveira]] &amp; [[André Stein]]
+|align=center|4,300
+|-
+|align=right|7
+|{{flagicon|LAT}} [[Jānis Šmēdiņš]] &amp; [[Aleksandrs Samoilovs]]
+|align=center|4,120
+|-
+|align=right|8
+|{{flagicon|BRA}} [[Alison Cerutti]] &amp; [[Bruno Oscar Schmidt]]
+|align=center|4,100
+|-
+|align=right|9
+|{{flagicon|ESP}} [[Pablo Herrera (beach volleyball)|Pablo Herrera]] &amp; [[Adrián Gavira]]
+|align=center|3,880
+|-
+|align=right|10
+|{{flagicon|AUT}} [[Clemens Doppler]] &amp; [[Alexander Horst]]
+|align=center|3,796
+|-
+|align=right|11
+|{{flagicon|LAT}} [[Mārtiņš Pļaviņš]] &amp; [[Edgars Tocs]]
+|align=center|3,450
+|-
+|align=right|12
+|{{flagicon|POL}} [[Michał Bryl]] &amp; [[Grzegorz Fijałek]]
+|align=center|3,240
+|-
+|align=right|13
+|{{flagicon|CAN}} [[Sam Schachter]] &amp; [[Sam Pedlow]]
+|align=center|3,120
+|-
+|align=right|14
+|{{flagicon|BRA}} [[Álvaro Morais Filho]] &amp; [[Saymon Santos]]
+|align=center|3,060
+|-
+|align=right|14
+|{{flagicon|NOR}} [[Anders Mol]] &amp; [[Christian Sørum]]
+|align=center|3,060
+|-
+|align=right|16
+|{{flagicon|BEL}} [[Dries Koekelkoren]] &amp; [[Tom van Walle]]
+|align=center|3,000
+|-
+|align=right|17
+|{{flagicon|USA}} [[Jake Gibb]] &amp; [[Taylor Crabb]]
+|align=center|2,970
+|-
+|align=right|18
+|{{flagicon|MEX}} [[Juan Virgen]] &amp; [[Lombardo Ontiveros]]
+|align=center|2,920
+|-
+|align=right|19
+|{{flagicon|BRA}} [[Pedro Solberg Salgado]] &amp; [[Gustavo Carvalhaes]]
+|align=center|2,860
+|-
+|align=right|20
+|{{flagicon|BRA}} [[Vitor Felipe]] &amp; [[Gustavo Carvalhaes]]
+|align=center|2,680
+|}
+{{Col-2-of-2}}
+
+===Women===
+{| class="wikitable" 
+|-
+|colspan=4 align="center"|'''Top 20 Rankings as of May 7, 2018'''.&lt;ref&gt;[http://www.fivb.org/EN/BeachVolleyball/WRanking_W.asp 2018 FIVB World Ranking - Women]; FIVB&lt;/ref&gt;
+|-
+|- style="font-size:10pt;font-weight:bold"
+! Rank
+! Pair
+! Points
+|-
+|align=right|1
+|{{flagicon|CAN}} [[Melissa Humana-Paredes]] &amp; [[Sarah Pavan]]
+|align=center|6,080
+|-
+|align=right|2
+|{{flagicon|GER}} [[Julia Sude]] &amp; [[Chantal Laboureur]]
+|align=center|4,480
+|-
+|align=right|3
+|{{flagicon|BRA}} [[Bárbara Seixas]] &amp; [[Fernanda Alves]]
+|align=center|4,400
+|-
+|align=right|4
+|{{flagicon|BRA}} [[Larissa França]] &amp; [[Talita Antunes]]
+|align=center|4,360
+|-
+|align=right|5
+|{{flagicon|CZE}} [[Barbora Hermannová]] &amp; [[Markéta Sluková]]
+|align=center|4,220
+|-
+|align=right|6
+|{{flagicon|BRA}} [[Ágatha Bednarczuk]] &amp; [[Eduarda Lisboa]]
+|align=center|4,160
+|-
+|align=right|7
+|{{flagicon|BRA}} [[Maria Elisa Antonelli|Maria Antonelli]] &amp; [[Carolina Solberg Salgado]]
+|align=center|3,880
+|-
+|align=right|8
+|{{flagicon|CZE}} [[Kristýna Kolocová]] &amp; [[Michala Kvapilová]]
+|align=center|3,560
+|-
+|align=right|8
+|{{flagicon|USA}} [[Brooke Sweat]] &amp; [[Summer Ross]]
+|align=center|3,560
+|-
+|align=right|10
+|{{flagicon|SUI}} [[Nina Betschart]] &amp; [[Tanja Hüberli]]
+|align=center|3,420
+|-
+|align=right|11
+|{{flagicon|SUI}} [[Joana Heidrich]] &amp; [[Anouk Vergé-Dépré]]
+|align=center|3,380
+|-
+|align=right|12
+|{{flagicon|AUS}} [[Mariafe Artacho del Solar]] &amp; [[Taliqua Clancy]]
+|align=center|3,216
+|-
+|align=right|13
+|{{flagicon|CAN}} [[Heather Bansley]] &amp; [[Brandie Wilkerson]]
+|align=center|3,160
+|-
+|align=right|14
+|{{flagicon|GER}} [[Isabel Schneider]] &amp; [[Victoria Bieneck]]
+|align=center|3,040
+|-
+|align=right|15
+|{{flagicon|USA}} [[Kelly Claes]] &amp; [[Sara Hughes]]
+|align=center|2,920
+|-
+|align=right|16
+|{{flagicon|GER}} [[Karla Borger]] &amp; [[Margareta Kozuch]]
+|align=center|2,700
+|-
+|align=right|17
+|{{flagicon|GER}} [[Sandra Ittlinger]] &amp; [[Kim Behrens]]
+|align=center|2,680
+|-
+|align=right|18
+|{{flagicon|GER}} [[Laura Ludwig]] &amp; [[Kira Walkenhorst]]
+|align=center|2,524
+|-
+|align=right|19
+|{{flagicon|UKR}} [[Valentyna Davidova]] &amp; [[Ievgeniia Shchypkova]]
+|align=center|2,360
+|-
+|align=right|20
+|{{flagicon|RUS}} [[Svetlana Kholomina]] &amp; [[Ekaterina Makroguzova]]
+|align=center|2,220
+|}
+{{Col-end}}
+
+== See also==
+*[[Beach volleyball at the 2008 Summer Olympics - Qualification]] for the rankings going into the 2008 Summer Olympics
+
+== Notes and references ==
+{{Reflist|2}}
+
+{{International Beach Volleyball}}
+{{Sport world rankings}}
+
+[[Category:Beach volleyball|World rankings]]
+[[Category:Sports world rankings|Beach volleyball]]</text>
+      <sha1>5kptmj6rs7q5wlch4rqagj8v6opm38n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Global Cosmopolitans</title>
+    <ns>0</ns>
+    <id>12838773</id>
+    <revision>
+      <id>855283613</id>
+      <parentid>804631497</parentid>
+      <timestamp>2018-08-17T05:55:52Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Global civics to [[:Category:Global citizenship]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 July 27]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1244">'''Global Cosmopolitans''' refers to "a talented population of highly educated [[multilingual]] people that have lived, worked and studied for extensive periods in different cultures. While their international identities have diverse starting points and experiences, their views of the world and themselves are profoundly affected by both the realities of living in different cultures and their manner of coping with the challenges that emerge.".&lt;ref&gt;{{cite book|last1=Brimm|first1=Linda|title=Global Cosmopolitans, The Creative Edge of Difference|date=2010|publisher=Insead Business Press Series, Palgrave Macmillan|isbn=978-0230230781|pages=4|url=https://www.amazon.com/Global-Cosmopolitans-Creative-Difference-Business/dp/0230230784}}&lt;/ref&gt;
+
+The term was developed by Linda Brimm, Professor of [[Organizational Behavior]] at [[INSEAD]] and further explored in her book ''[https://www.amazon.com/Global-Cosmopolitans-Creative-Difference-Business/dp/0230230784 Global Cosmopolitans: The Creative Edge of Difference]''.
+
+== See also ==
+* [[Cosmopolitanism]]
+* [[Global citizenship]]
+* [[World Citizen]]
+
+==References==
+{{Reflist}}
+
+[[Category:Global citizenship]]
+[[Category:Globalization]]
+[[Category:Cosmopolitanism]]
+
+
+{{globalization-stub}}</text>
+      <sha1>l9j20pnrjfmadha7w763243fedpctwp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Global citizenship education</title>
+    <ns>0</ns>
+    <id>43616057</id>
+    <revision>
+      <id>870409906</id>
+      <parentid>870409548</parentid>
+      <timestamp>2018-11-24T16:37:26Z</timestamp>
+      <contributor>
+        <ip>2405:205:3386:AD55:29C5:B7AD:D200:2F16</ip>
+      </contributor>
+      <comment>/* Council for Global Citizenship Education, India (and global) */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28518">'''Global citizenship education''' ('''GCE''') is a form of [[civics|civic learning]] that involves students' active participation in projects that address [[global issue|global]] [[global issue|issue]]s of a social, political, economic, or environmental nature. The two main elements of GCE are '[[global consciousness]]';  the moral or ethical aspect of global issues, and 'global competencies', or skills meant to enable learners to participate in changing and developing the world. The promotion of GCE was a response by governments and NGOs to the emergence of [[supranational institution]], [[trade bloc|regional economic blocs]], and the development of [[information and communications technology|information and]] [[information and communications technology|communications technologies]]. These have allresulted in the emergence of a more globally oriented and collaborative approach to education. GCE addresses themes such as peace and human rights, intercultural understanding, citizenship education, respect for diversity and tolerance, and inclusiveness.Schools in action, global citizens for sustainable development: a guide for students
+
+== Definition and origins ==
+[[Global citizenship]] consists of voluntary practices oriented to human rights, social justice, and environmentalism at the local, regional, and global level. Unlike national citizenship, global citizenship does not denote any legal status  or allegiance to an actual form of government.  The emergence of regional economic blocs, supra-national political institutions such as the [[European Union|European]] [[European Union|Union]], and the advancement of ICTs, has caused governments to try to prepare national populations to be competitive in the global jobs market. This has led to the introduction of global citizenship education  programs at primary, secondary, and tertiary level, but also at independent [[NGO]]s, [[grass roots]] organizations, and other large scale educational organizations, such as the [[International Baccalaureate Organization]] and [[UNESCO]].
+
+The most important features of global citizenship education are voluntary action that can extend from local to international collectives; the practice of cultural empathy; and a focus on active participation in social and political life at the local and global level. In the late 1990s, [[OXFAM]] UK designed a curriculum for global citizenship education
+which stressed "the 'active' role of global citizens".In this approach, individuals and groups both inside and outside the educational sector might take action that addresses human rights, trade, poverty, health, and environmental issues, for example. This is sometimes called the 'global consciousness' aspect of GCE. However, organizations such as UNESCO have also begun to emphasize 'global competencies', including science and technology into their GCE [[curricula]], to "strengthen linkages between education and economic development".
+
+== Emergence and development ==
+In the present era of [[globalization]], the recognition of global interdependence on the part of the general public has led to a higher degree of interest in global citizenship in education. No Though modern schooling may have been oriented to education suitable for the nation-state throughout the 19th and 20th centuries, in the 21st century, citizenship is understood in global terms, so that schooling might improve individual nations' global competitiveness. Many universities worldwide have responded to the need for a globally oriented education by sending their students to study abroad in increasing numbers, and some have announced that this will soon become a mandatory degree requirement.
+
+Many governments also now promote GCE for the cohesion of society. The large numbers of people migrating across national borders means that the  diversity of ethnic, religious, and linguistic groups, "has raised [...] complex and difficult questions about citizenship, human rights, democracy, and education".   In addition, global issues related to [[sustainability]], such as the world's future energy arrangements, have also been incorporated into the domain of global citizenship education.
+
+== Competences ==
+While GCE can take different forms, it has some common elements, which include fostering in learners the following competences:&lt;ref&gt;UNESCO. 2014. ''Global Citizenship Education. Preparing Learners for the Challenges of the 21st Century''. Paris, UNESCO.&lt;/ref&gt;&lt;ref name=":0"&gt;{{Cite book|url=http://unesdoc.unesco.org/images/0024/002428/242887e.pdf|title=Level-setting and recognition of learning outcomes: The use of level descriptors in the twenty-first century|last=Keevy|first=James|last2=Chakroun|first2=Borhene|publisher=Paris, UNESCO|year=2015|isbn=978-92-3-100138-3|location=|pages=30–31}}&lt;/ref&gt;
+* An attitude supported by an understanding of multiple levels of identity, and the potential for a collective identity that transcends individual cultural, religious, ethnic or other differences (such as a sense of belongingness to common humanity, and respect for diversity);
+* A deep knowledge of global issues and universal values such as justice, equality, dignity and respect (such as understanding of the process of globalization, interdependence/ interconnectedness, the global challenges which cannot be adequately or uniquely addressed by nation states, sustainability as the main concept of the future);
+* Cognitive skills to think critically, systemically and creatively, including adopting a multi-perspective approach that recognizes different dimensions, perspectives and angles of issues (such as reasoning and problem-solving skills supported by a multi-perspective approach);
+* Non-cognitive skills, including social skills such as empathy and con ict resolution, and communication skills and aptitudes for networking and interacting with people of different backgrounds, origins, cultures and perspectives (such as global empathy, sense of solidarity); and
+* Behavioural capacities to act collaboratively and responsibly to find global solutions to global challenges, and to strive for the collective good.&lt;ref name=":0" /&gt;
+
+== Pedagogy ==
+
+Most educators agree that "global citizenship is a learned and nurtured behavior",&lt;ref&gt;Tarrant, 2010:442&lt;/ref&gt; and the most widely used classroom strategy for developing global skills is project-based learning. This pedagogical technique can be utilized in the case of almost any school subject, "[and] is the primary pedagogical strategy in the discourse of global competencies. Educators see it as an important method for developing the tools- technical and emotional- for success in the global society".&lt;ref&gt;Dill, 2013:14&lt;/ref&gt; With the aim of nurturing students' potential to be both learners and citizens, the project-based approach has been used successfully in community-based learning, for example.&lt;ref&gt;Melaville &amp; Berg et al, 2006&lt;/ref&gt;
+
+Another important pedagogical feature of GCE is learning through communicative practices outside the classroom that "harness […] the educational force of the wider culture".&lt;ref name="Catalano, 2013:3"&gt;Catalano, 2013:3&lt;/ref&gt; If students are encouraged "to see themselves as political agents",&lt;ref name="Catalano, 2013:3"/&gt; educators assume they are more likely to acquire the knowledge, skills and abilities that enable them to  become agents of change.&lt;ref&gt;Catalano, 2013&lt;/ref&gt; Another important element of the student-centered participatory nature of GCED, is that students, through their engagement with others via [[Social network services|Social Network Services]], create their own forms of global citizenship through dialogue, learning, and action.&lt;ref&gt;Bourn, 2009&lt;/ref&gt; This is  an important element, for example, in the activities of grassroots organizations like 'GIN' ([[Global Issues Network]]), which involves students and teachers in projects that address global issues such as human rights, trade rules, and deforestation.&lt;ref name="Dill, 2013"&gt;Dill, 2013&lt;/ref&gt; Such student-driven, student-led projects combine both the 'global consciousness' and 'global competence' aspects of GCED.
+
+;'Global consciousness' and 'global competence'
+
+Organizations implementing GCE programs, such as UNESCO, now emphasize the importance of expanding both students' 'global consciousness' and 'global competence'.&lt;ref name="Dill, 2013"/&gt; 'Global consciousness' represents the ethical or moral dimension of global citizenship, whereas 'global competence' "features a blend of the technical-rational and the dispositional or attitudinal".&lt;ref&gt;Dill, 2013:11&lt;/ref&gt;
+
+However, some view global consciousness and global competence as being closely related.&lt;ref&gt;Grudinski Hall, 2007&lt;/ref&gt; The OECD, for instance, focuses on global competencies called 'psychosocial resources', of which there are three main types: "using tools interactively (technology and language skills), interacting in heterogeneous groups (cooperation, empathy), and acting autonomously (realizing one's identity, conducting life plans, defending and asserting rights".&lt;ref&gt;Dill, 2013: 12&amp;ndash;13&lt;/ref&gt;
+
+== Key learner attributes ==
+GCE identifies three learner attributes, which refer to the traits and qualities that global citizenship education aims to develop in learners and correspond to the key learning outcomes mentioned earlier. These are: informed and critically literate; socially connected and respectful of diversity; ethically responsible and engaged. The three learner attributes draw on a review of the literature and of citizenship education conceptual frameworks, a review of approaches and curricula, as well as technical consultations and recent work by UNESCO on global citizenship education.&lt;ref name=":02"&gt;{{Cite book|url=http://unesdoc.unesco.org/images/0023/002329/232993e.pdf|title=Global Citizenship Education: topics and learning objectives|last=UNESCO|first=|publisher=Paris, UNESCO|year=2015|isbn=978-92-3-100102-4|location=|pages=20–21, 44–46}}&lt;/ref&gt;
+
+=== Informed and critically literate ===
+Learners develop their understanding of the world, global themes, governance structures and systems, including politics, history and economics; understand the rights and responsibilities of individuals and groups (for example, women’s and children’s rights, indigenous rights, corporate social responsibility); and, recognise the interconnectedness of local, national and global issues, structures and processes. Learners develop the skills of critical inquiry (for example, where to find information and how to analyse and use evidence), [[media literacy]] and an understanding of how information is mediated and communicated. They develop their ability to inquire into global themes and issues (for example, globalisation, interdependence, migration, peace and conflict, sustainable development) by planning investigations, analysing data and communicating their findings. A key issue is the way in which language is used and, more specifically, how critical literacy is affected by the dominance of the English language and how this influences non-English speakers’ access to information.&lt;ref name=":02" /&gt;
+
+=== Socially connected and respectful of diversity ===
+Learners learn about their identities and how they are situated within multiple relationships (for example, family, friends, school, local community, country), as a basis for understanding the global dimension of citizenship. They develop an understanding of difference and diversity (for example, culture, language, gender, sexuality, religion), of how beliefs and values influence people’s views about those who are different, and of the reasons for, and impact of, inequality and discrimination. Learners also consider common factors that transcend difference, and develop the knowledge, skills, values and attitudes required for respecting difference and living with others.&lt;ref name=":02" /&gt;
+
+=== Ethically responsible and engaged ===
+Learners explore their own beliefs and values and those of others. They understand how beliefs and values inform social and political decision-making at local, national, regional and global levels, and the challenges for governance of contrasting and conflicting beliefs and values. Learners also develop their understanding of social justice issues in local, national, regional and global contexts and how these are interconnected. Ethical issues (for example, relating to [[climate change]], [[consumerism]], [[Economic globalization|economic globalisation]], [[fair trade]], migration, poverty and wealth, sustainable development, [[terrorism]], war) are also addressed. Learners are expected to reflect on ethical conflicts related to social and political responsibilities and the wider impact of their choices and decisions. Learners also develop the knowledge, skills, values and attitudes to care for others and the environment and to engage in civic action. These include compassion, empathy, collaboration, dialogue, social entrepreneurship and active participation. They learn about opportunities for engagement as citizens at local, national and global levels, and examples of individual and collective action taken by others to address global issues and social injustice.&lt;ref name=":02" /&gt;
+
+== Examples ==
+
+=== High Resolves, Australia ===
+[https://highresolves.org/ High Resolves] is a secondary school educational initiative (implemented by the FYA, the only national, independent non-profit organisation for young people in Australia) consisting of a Global Citizenship Programme for Year 8 students and a Global Leadership Programme for Year 9 and 10 students. It aims to enable students to consider their personal role in developing their society as a global community through workshops, simulations, leadership skills training and hands-on action projects.&lt;ref name=":02" /&gt;
+
+=== ''Developing the global dimension in the school curriculum,'' England ===
+In England, the Department for Education and Skills produced ''Developing the global dimension in the school curriculum'', a publication for head teachers, teachers, senior managers and those with responsibility for curriculum development. It aims to show how the global dimension can be integrated in the curriculum and across the school. It provides examples of how to integrate the global dimension from age 3 to age 16, outlining eight key concepts – global citizenship, conflict resolution, diversity, human rights, interdependence, sustainable development, values and perceptions, and social justice. For example, it gives guidance for the promotion of personal, social and emotional development of the youngest learners through discussion of photographs of children from around the world, activities, stories, and discussion of different places children have visited.&lt;ref name=":02" /&gt;
+
+=== Activate, South Africa ===
+'''Activate''' is a network of young leaders in South Africa which aims to bring about change though creative solutions to problems in society. Youth from all backgrounds and provinces in the country participate in a two-year programme. In the first year, there are three residential training programmes, working on a particular task. In the second year, participants form action groups on specific tasks, taking their work into the public domain. In one example, an Activator describes how he works in his local community to discourage young people away from joining gangs and engaging in substance abuse. He draws on his own negative experiences with gangs and drugs, having served seven years in jail. On being interviewed, he states: “My vision for South Africa is to see young people standing up and becoming role models... Be yourself, be real and pursue your dreams”.&lt;ref&gt;{{Cite web|url=http://www.activateleadership.co.za/blog/5-mins-with-fernando#sthash.dRCXMqPx.dpuf|title=Activate Change Drivers|last=|first=|date=|website=Activate|archive-url=|archive-date=|dead-url=|access-date=}}&lt;/ref&gt;&lt;ref name=":02" /&gt;
+
+=== Council for Global Citizenship Education, India (and global) ===
+[https://www.globalcitizenshipfoundation.org/council-for-gced Council for Global Citizenship Education] — part of the [https://www.globalcitizenshipfoundation.org/ Global Citizenship Foundation], a non-profit organisation based in India — is an initiative for schools to adopt a participatory whole-school approach to global citizenship education. The initiative fosters continuous professional development (CPD) of educators; teacher led contextualization, design, and development of GCED curriculum; engagement of children through the '[https://www.globalcitizenshipfoundation.org/hundred-acts 100 Acts of Global Citizenship]' School Challenge; and community through a Global Citizenship Festival at '100 Acts of Global Citizenship' participating schools. It has also been implemented in 10 States of India.
+
+=== Peace First, United States and Colombia ===
+Peace First, a non-profit organisation based in the United States, has a programme in which youth volunteers work with children to design and implement community projects in a participatory way. The rationale is that children are natural creative thinkers and problem solvers. The programme focuses on developing social and emotional skills of self- awareness, empathy, inclusivity and relationships. It has also been implemented in rural areas of Colombia through a partnership between local governments and Colombian NGOs. Peace First has additionally developed a curriculum that can be used in schools. It addresses themes such as friendship, fairness, cooperation, con ict resolution and consequences of actions through experiential activities and cooperative games. For example, 1st graders learn about communicating their feelings, 3rd graders develop skills and awareness around communication and cooperation, 4th graders practice courage and taking a stand and 5th graders explore how to resolve and de-escalate conflicts.&lt;ref name=":02" /&gt;
+
+=== Tokyo Global Engineering Corporation, Japan (and global) ===
+'''Tokyo Global Engineering Corporation''' is an education-services organization that provides capstone education programs free of charge to engineering students and other stakeholders. These programs are intended to complement—but not to replace—coursework required by academic degree programs of study. The programs are educational opportunities, and students are not paid money for their participation. All correspondence among members is completed via e-mail, and all meetings are held via Skype, with English as the language of instruction and publication. Students and other stakeholders are never asked to travel or leave their geographic locations, and are encouraged to publish organizational documents in their personal, primary languages, when English is a secondary language.
+
+== Connection to Education for Sustainable Development (ESD) ==
+{{Main|Education for sustainable development}}
+
+GCE and ESD pursue the same vision: It is all about empowering learners of all ages to become proactive contributors to a more just, peaceful, tolerant, inclusive and sustainable world. Both GCED and ESD:
+* focus not only on the content and outcome of what is learned, but also on the process of how it is learned and in what type of environment it is learned.
+* emphasize action, change and transformation.
+* place importance on acquiring values and attitudes relevant to addressing global challenges.
+* foster skills for collaboration, communication and critical thinking.&lt;ref name=":1"&gt;{{Cite book|url=http://unesdoc.unesco.org/images/0024/002463/246352e.pdf|title=Schools in action, global citizens for sustainable development: a guide for students|last=UNESCO|first=|publisher=Paris, UNESCO|year=2017|isbn=978-92-3-100179-6|location=|pages=10, 12}}&lt;/ref&gt;
+Both GCE and ESD help learners understand the interconnected world in which they live and the complexities of the global challenges faced.&lt;ref&gt;UNESCO. 2010. Teaching and Learning for a Sustainable Future: A multimedia teacher education programme. UNESCO, Paris. &lt;nowiki&gt;http://www.unesco.org/education/tlsf/mods/theme_d/mod22.html&lt;/nowiki&gt;&lt;/ref&gt; GCE and ESD help learners to develop their knowledge, skills, attitudes and values so that they can address these challenges responsibly and effectively now and in the future.&lt;ref&gt;{{Cite book|url=http://unesdoc.unesco.org/images/0024/002468/246888e.pdf|title=Schools in action, global citizens for sustainable development: a guide for teachers|last=UNESCO|first=|publisher=Paris, UNESCO|year=2016|isbn=978-92-3-100180-2|location=|pages=12}}&lt;/ref&gt;&lt;ref&gt;UNESCO. Global Citizenship Education: Unesco’s approach. &lt;nowiki&gt;http://www.unesco.org/new/&lt;/nowiki&gt; leadmin/MULTIMEDIA/HQ/ED/pdf/questions- answers-21jan-EN.pdf&lt;/ref&gt;
+
+== Objections ==
+
+Some fundamentalist critics believe GCE might undermine religious education and promote secular values.&lt;ref name="Schattle, 2008"&gt;Schattle, 2008&lt;/ref&gt; Others are concerned that the pedagogical approach of most global citizenship education curricula are too often produced in particular Northern, Western contexts.&lt;ref&gt;Andreotti and de Souza, 2012:18&lt;/ref&gt; Some critics claim that GCE curricula promote values that are too individualistic.&lt;ref name="Dill, 2013"/&gt; Dill,&lt;ref&gt;2013&lt;/ref&gt; for example, claims that "the majority of the world experiences social and communal life not in terms of isolated individuals, but as collective identities and traditions. For many of these groups, the dominant forms of global citizenship education and its moral order will be experienced as coercive and unjust',&lt;ref&gt;Dill, 2013:33&lt;/ref&gt; so 'global' citizenship curriculum should be seen as a local practice, "which diverse cultures will conceptualize and construct differently".&lt;ref&gt;Myers, 2006:13&lt;/ref&gt;
+
+== See also ==
+* [[Climate-friendly school]]
+* [[UNESCO ASPNet|UNESCO ASPnet]]
+* [[Climate change education (CCE)|Climate Change Education (CCE)]]
+* [[Education 2030 Agenda]]
+
+== Sources ==
+{{Free-content attribution
+| title = Level-setting and recognition of learning outcomes: The use of level descriptors in the twenty-first century
+| author = Keevey, James; Chakroun, Borhene
+| publisher = UNESCO
+| page numbers = 30-31
+| source = UNESCO
+| documentURL = http://unesdoc.unesco.org/images/0024/002428/242887e.pdf
+| license statement URL = http://www.unesco.org/ulis/cgi-bin/ulis.pl?catno=242887&amp;set=0058D22B8C_1_128&amp;gp=1&amp;lin=1&amp;ll=1
+| license = CC-BY-SA IGO 3.0
+}}
+{{Free-content attribution
+| title = Schools in action, global citizens for sustainable development: a guide for students
+| author = UNESCO
+| publisher = UNESCO
+| page numbers =10, 12 
+| source = UNESCO
+| documentURL = http://unesdoc.unesco.org/images/0024/002463/246352e.pdf
+| license statement URL = http://www.unesco.org/ulis/cgi-bin/ulis.pl?catno=246352&amp;set=0058D8F9D7_1_154&amp;gp=1&amp;lin=1&amp;ll=1
+| license = CC-BY-SA IGO 3.0
+}}
+{{Free-content attribution
+| title = Schools in action, global citizens for sustainable development: a guide for teachers
+| author = UNESCO
+| publisher = UNESCO
+| page numbers = 12
+| source = UNESCO
+| documentURL = http://unesdoc.unesco.org/images/0024/002468/246888e.pdf
+| license statement URL = http://www.unesco.org/ulis/cgi-bin/ulis.pl?catno=246888&amp;set=0058D906C5_0_100&amp;gp=1&amp;lin=1&amp;ll=1
+| license = CC-BY-SA IGO 3.0
+}}
+{{Free-content attribution
+| title = Global Citizenship Education: topics and learning objectives
+| author = UNESCO
+| publisher = UNESCO
+| page numbers =20-21, 44-46 
+| source = UNESCO
+| documentURL = http://unesdoc.unesco.org/images/0023/002329/232993e.pdf
+| license statement URL = http://www.unesco.org/ulis/cgi-bin/ulis.pl?catno=232993&amp;set=0058DD3E4D_2_402&amp;gp=1&amp;lin=1&amp;ll=1
+| license = CC-BY-SA IGO 3.0
+}}
+
+== References ==
+{{reflist|18em}}
+
+== Bibliography ==
+
+* {{Cite book|title = Postcolonial Perspectives on Global Citizenship Education|last = Andreotti|first = V.D.O.|publisher = Routledge|year = 2012|isbn = 0415884969|location = New York|pages = |last2 = de Souza|first2 = T.M.}}
+* {{cite journal|last1=Asaoka|first1=T|last2=Yano|first2=J|title=The contribution of 'study abroad' programs to Japanese internationalization|journal=Journal of Studies in International Education|date=2009|volume=13|issue=2|pages=174–188|url=http://jsi.sagepub.com/content/13/2/174.abstract}}
+* {{cite journal|last1=Banks|first1=James A.|title=Teaching for Social Justice, Diversity, and Citizenship in a Global World|journal=The Educational Forum|date=31 December 2004|volume=68|issue=4|pages=296–305|doi=10.1080/00131720408984645|url=http://202.154.59.182/ejournal/files/Fs04banks.pdf}}
+* {{cite journal|last1=Banks|first1=J. A.|title=Diversity, Group Identity, and Citizenship Education in a Global Age|journal=Educational Researcher|date=1 April 2008|volume=37|issue=3|pages=129–139|doi=10.3102/0013189X08317501}}
+* Bourn, D. (2009) Students as Global Citizens. In: Jones, E. (ed), ''Internationalisation and the Student Voice: Higher Education Perspectives''. London: Routledge
+* Burke Wood, P., 2008. The Impossibility of Global Citizenship. ''Brock Education'', Vol. 17, pp.&amp;nbsp;22&amp;ndash;37.
+* Caruana, V and Spurling, N (2007) The Internationalisation of UK Higher Education: a Review of Selected Material, ''Higher Education Academy'', pp.&amp;nbsp;30&amp;ndash;31.
+* Catalano, T., 2013. Occupy: A case illustration of social movements in global citizenship education. ''DigitalCommons@UniversityofNebraska-Lincoln''
+* Davies, L., 2008. Global Citizenship Education. ''Encyclopedia of Peace Education'', Teachers College, Columbia. http://www.tc.edu/centers/epe
+* {{cite journal|last1=Davies|first1=Ian|last2=Evans|first2=Mark|last3=Reid|first3=Alan|title=GLOBALISING CITIZENSHIP EDUCATION? A CRITIQUE OF 'GLOBAL EDUCATION' AND 'CITIZENSHIP EDUCATION'|journal=British Journal of Educational Studies|volume=53|issue=1|pages=66–89|doi=10.1111/j.1467-8527.2005.00284.x|year=2005}}
+* {{cite book|last=Dill|first=Jeffrey S.|title=The Longings and Limits of Global Citizenship Education: The Moral Pedagogy of Schooling in a Cosmopolitan Age|publisher=Routledge|isbn=978-1-136-69024-2}}
+* Green, M., 2012. Defining Global Citizenship. http://globalhighered.wordpress.com/2012/03/11/global-citizenship/
+* Grudzinski-Hall, M.N., 2007. ''How Do College and University Undergraduate Level Global Citizenship Programs Advance the Development and Experiences of Global Competencies?'' Thesis, (PhD). Drexel University.
+* Keating, A., Hinderliter, O., &amp; Philippou, S., 2009. Citizenship education curricula: the changes and challenges presented by global and European integration, ''Journal of Curriculum Studies'', 41:2, pp.&amp;nbsp;145&amp;ndash;158.
+* Melaville, A., Berg, A.C., and Blank, M.J., 2006. Report: Community-Based Learning &amp;ndash; Engaging Students for Success and Citizenship. ''Coalition for Community Schools''.
+* {{cite journal|last1=Myers|first1=John P.|title=Rethinking the Social Studies Curriculum in the Context of Globalization: Education for Global Citizenship in the U.S|journal=Theory &amp; Research in Social Education|volume=34|issue=3|pages=370–394|doi=10.1080/00933104.2006.10473313|year=2006}}
+* Pigozzi, M.J., 2006. A UNESCO view of global citizenship education. ''Educational Review'', Vol. 58, No.1, pp.&amp;nbsp;1&amp;ndash;4.
+* Rapoport, A., 2009. A Forgotten Concept: Global Citizenship Education and State Social Studies Standards. ''The Journal of Social Studies Research'', Vol.33, No.1, pp.&amp;nbsp;91&amp;ndash;112.
+* Schattle, H., 2008. Education for global citizenship: Illustrations of ideological pluralism and adaptation. ''Journal of Political Ideologies'', 13:1, pp.&amp;nbsp;73&amp;ndash;94.
+* Singh, M. and Shrestha, M. (2006) Immigration, Identity and Education for Social Justice: Robust Hope in this Era of Contested Cultural Globalisation. In: ''British Educational Research Association Annual Conference'', 6&amp;ndash;9 September 2006, University of Warwick.
+* Starik, M., and Kanashiro, P., 2013. Toward a Theory of Sustainability Management: Uncovering and Integrating the Nearly Obvious. ''Organization Environment'', 26:7, pp.&amp;nbsp;7&amp;ndash;30.
+* Tarrant, M.A., 2010. A Conceptual Framework for Exploring the Role of Studies Abroad in Nurturing Global Citizenship. ''Journal of Studies in International Education'', Vol. 14, No.5, pp.&amp;nbsp;433&amp;ndash;451.
+* Tully, J., 2005. Two Meanings of Global Citizenship: Modern and Diverse. ''The Meanings of Global Citizenship Conference''. Liu Center and Trudeau Foundation, UBC, September 9&amp;ndash;10, 2005.
+
+{{Globalization}}
+
+[[Category:Citizenship]]
+[[Category:Global studies]]
+[[Category:Global citizenship]]</text>
+      <sha1>hwct18q86rzyoq08h0lixp9in82oja3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Healthy Life Years</title>
+    <ns>0</ns>
+    <id>20392665</id>
+    <revision>
+      <id>871226797</id>
+      <parentid>871223902</parentid>
+      <timestamp>2018-11-29T18:54:37Z</timestamp>
+      <contributor>
+        <username>YasmineMohamed99</username>
+        <id>34679907</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8663">{{More footnotes|date=December 2008}}
+The '''Healthy Life Years''' indicator (HLY) is a European structural indicator computed by [https://web.archive.org/web/20120301003227/http://epp.eurostat.ec.europa.eu/portal/page/portal/product_details/dataset?p_product_code=HLTH_HLYE Eurostat]. It is one of the summary measures of population health, known as health expectancies,&lt;ref&gt;[http://www.eurohex.eu/pdf/Glossary_v4.pdf Glossary EurOhex website]&lt;/ref&gt; composite measures of health that combine [[Mortality rate|mortality]] and [[morbidity]] data to represent overall population health on a single indicator.&lt;ref&gt;J.-M. Robine. ''Summarizing health status''. In: Pencheon D, Guest C, Melzer D, Gray JAM, editors. Oxford Handbook of Public Health Practice. 2nd ed. Oxford: Oxford University Press; 2006. p.&amp;nbsp;160-168&lt;/ref&gt; HLY measures the number of remaining years that a person of a certain age is expected to live without disability. It is actually a disability-free [[life expectancy]].
+
+== History ==
+The European Union has decided to include a small set of health expectancies among its European Community Health Indicators (ECHI) to provide synthetic measures of disability, chronic morbidity, and perceived health. Therefore the Minimum European Health Module (MEHM), composed of 3 general questions covering these dimensions,&lt;ref&gt;B. Cox, H. Van Oyen, E. Cambois, C. Jagger, S. Le Roy, J-M Robine, I.Romieu. The reliability of the Minimum European Health Module. ''International Journal of Public Health'' 2009;(54):55-60 (DOI 10.1007/s00038-009-7104-y), p57&lt;/ref&gt; has been introduced into the Eurostat EU-Statistics on Income and Living Conditions Survey (EU-SILC)&lt;ref&gt;[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1177:EN:NOT Regulation (EC) No 1177/2003 of the European Parliament and of the Council of 16 June 2003 concerning Community statistics on income and living conditions (EU-SILC)]&lt;/ref&gt; to improve the comparability of health expectancies between countries. In addition life expectancy without long term activity limitation, based on the disability question, was selected in 2004 to be one of the structural indicators to be examined every year, during the European Spring Council for assessing the EU strategic goals ([[Lisbon Strategy]]) under the name of “Healthy Life Years” (HLY)'''.&lt;ref&gt;[http://ec.europa.eu/health/ph_information/indicators/lifeyears_en.htm Health Life Years in the core of the Lisbon Strategy ]&lt;/ref&gt; '''Furthermore the European Union is co-funding a Joint Action on Chronic Diseases and Promoting Healthy Ageing across the Life Cycle (CHRODIS-JA).&lt;ref&gt;http://www.chrodis.eu/&lt;/ref&gt; This aims to promote and facilitate a process of exchange and transfer of good practices between European countries and regions, addressing chronic conditions, with a specific focus on health promotion and prevention of chronic conditions, multi-morbidity and diabetes.'''   
+
+Detailed information on the Health Expectancies in Europe are available from the EurOhex Advanced research on European health expectancies&lt;ref&gt;[http://www.eurohex.eu EurOhex]&lt;/ref&gt; while latest Healthy Life Years values can be found on the general public website devoted to the Healthy Life Years.&lt;ref&gt;[http://www.healthy-life-years.eu healthy-life-years.eu]&lt;/ref&gt;
+
+== Context ==
+Dramatic increases in [[life expectancy]] in the most developed countries - and therefore in the countries of the European Union - constitute one of the most remarkable advances of the last decades. But why prolong life if this is to be accompanied by increases in severe mental and physical impairment? Thus a further challenge confronts the European Community:
+:''increasing life expectancy in good health.''
+
+In this context, the classical mortality indicators are no longer sufficient to monitor the health status of European populations. The availability of health expectancy indicators dividing life expectancy into life spent in different states of health is useful to health authorities in the field of [[public health]] and [[health policy|health policies]] provided that these indicators allow comparisons over time and between geographic areas and between socio-economic groups in society. As the post-war generation reaches retirement, the pace of ageing will increase dramatically in our European societies, with profound social effects. HLY is an important indicator :
+* Health of a population is inherently difficult to measure because it is often defined differently among individuals, populations, cultures, and even across time periods.
+* Many studies focus on measures such as physical impairment or disability in functional tasks or presence of a specific chronic disease. Self-assessed health, being much more global and subjective in nature, can incorporate a variety of aspects of health including cognitive and emotional as well as physical status, and therefore provide insights into the needs of an [[ageing]] society. Hence, self-assessed health measures as HLY may be a particularly important indicator of the potential demand for health services and long-term care needs.
+* The two components of the calculation of the HLY are life tables and self-perceived disability assessed by health surveys. From 1995 to 2001, data from the Eurostat European Community Household Panel (ECHP) survey have been used for the EU-15 Member States. Its successor, the Eurostat EU-SILC has been used from 2005 onwards for the EU-25 and then 27 Member States.{{cn|date=April 2015}}
+
+== Example ==
+[[File:HLY 2010.jpg|thumb|Healthy Life Years in Europe - 2010]]
+* The HLY estimates are provided for the 27 EU Member States using the EU-SILC data for 2010 (see graph above)
+* The first analyses of the healthy life years values disclose significant inequalities among the European countries.&lt;ref&gt;C. Jagger, C. Gillies, F. Mascone, E. Cambois, H. Van Oyen, W.J. Nusselder, J.-M. Robine, EHLEIS team. Inequalities in healthy life years in the 25 countries of the European Union in 2005: a cross-national meta-regression analysis. ''The Lancet'' 2008;372(9656):2124-2131 (DOI 10.1016/S0140-6736(08)61594-9)&lt;/ref&gt;
+
+==Statistical Findings==
+Different estimations are made for men and women. In 2015, the number of healthy years of women in the EU-28 was estimated to be at 63.3 years and of men to be at 62.6 years. The interesting part of this is that the gender gap was considerably smaller in regards to healthy life years than to overall life expectancy. This would imply that biologically, gender would not really affect the rate and time at which humans would become healthy yet gender would play a role in how long human beings would be able to live in an unhealthy state. 
+
+==Data Sources and their Availability==
+Eurostat calculates information about the healthy life years at three different ages during a person's life. One is at birth, another is at age 50, and the third is at age 65, with an indicator used separately for men and women. The data is calculated and collected by using mortality statistics as well as self perceived longstanding activity limitations- a dimension that captures longstanding limitation in regards to health and/or disability to perform usual and frequent activities. 
+An example of a question that might be asked concerning the longstanding activity limitation is: "For the last six months, to what extent have you been limited because of a health problem in activities that people usually do?" Some available answers are "severely limited", "limited but not severely", or "not limited at all". 
+
+
+==See also==
+* [[Disability-adjusted life year]]
+* [[Quality-adjusted life year]]
+
+== References ==
+{{reflist|colwidth=30em}}
+* J.-M. Robine, C. Jagger, Euro-REVES group. Creating a coherent set of indicators to monitor health across Europe: the Euro-REVES 2 project. ''European Journal of Public Health'' 2003;13(3):6-14.
+
+== External links ==
+* [http://www.healthy-life-years.eu/ Healthy Life Years]
+* [http://www.eurohex.eu EurOhex]
+* [http://ec.europa.eu/eurostat/statistics-explained/index.php/Healthy_life_years_statistics Healthy life years statistics]
+* [http://ec.europa.eu/health/index_en.htm Europa - Public Health]
+* [http://ec.europa.eu/health/heidi/ Heidi Wiki]
+* [http://reves.site.ined.fr/en/ REVES, the International Network on Health Expectancy and the Disability Process]
+* [http://www.healthypeople.gov/ US Healthy People]
+* [http://www.who.int/en/ WHO | World Health Organization]
+* [http://ec.europa.eu/health-eu/  Health-EU Portal] the official public health portal of the European Union
+* [http://www.health-success.co.uk UK Health Success]
+[[Category:Ageing]]
+[[Category:Global health]]</text>
+      <sha1>2t4rqsehkx146fdd9vi7xzudoa5iabt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>International Forum of Independent Audit Regulators</title>
+    <ns>0</ns>
+    <id>58845410</id>
+    <revision>
+      <id>865586588</id>
+      <parentid>865261178</parentid>
+      <timestamp>2018-10-24T20:59:23Z</timestamp>
+      <contributor>
+        <username>Veryproicelandic</username>
+        <id>23790359</id>
+      </contributor>
+      <comment>added some links, removed that flag, cleaned up the syntax, re-stubbed it...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="701">{{use dmy dates|date=October 2018}}
+{{use Indian English|date=October 2018}}
+The '''International Forum of Independent Audit Regulators (IFIAR)''' was established in India in 2006 to conduct [[audit]]s of Indian businesses. It has 52 independent [[Financial audit|audit]] regulators as members.&lt;ref&gt;{{citation |title=What is National Financial Reporting Authority? |url=https://www.thehindu.com/business/Economy/what-is-national-financial-reporting-authority/article23280972.ece |work=[[The Hindu]] |date=17 March 2018 }}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+[[Category:Auditing organizations]]
+[[Category:Organizations established in 2006]]
+[[Category:International organizations]]
+
+
+{{India-org-stub}}</text>
+      <sha1>1ouqew6jhfj0qa22ty2pbf7fl5qvh72</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Journal of World History</title>
+    <ns>0</ns>
+    <id>14109447</id>
+    <revision>
+      <id>798742863</id>
+      <parentid>772577443</parentid>
+      <timestamp>2017-09-03T15:32:24Z</timestamp>
+      <contributor>
+        <username>Worldbruce</username>
+        <id>7329773</id>
+      </contributor>
+      <minor/>
+      <comment>fixed deprecated image syntax</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2200">{{Infobox journal
+| title = Journal of World History
+| cover = Journal of World History (Dec 2006) Cover.gif
+| editor = [[Fabio Lopez-Lazaro]]
+| discipline = [[World history]]
+| abbreviation = J. World Hist.
+| publisher = [[University of Hawaii Press]]
+| country = United States
+| frequency = Quarterly
+| history = 1990&amp;ndash;present
+| openaccess = 
+| impact = 
+| impact-year = 
+| website = http://www.uhpress.hawaii.edu/t-journal-of-world-history.aspx
+| link1 = http://muse.jhu.edu/journals/journal_of_world_history/
+| link1-name = Online access at [[Project MUSE]]
+| JSTOR = 10456007
+| OCLC = 474784178
+| LCCN = 90640778
+| CODEN = JWHIEC
+| ISSN = 1045-6007
+| eISSN = 1527-8050
+}}
+The '''''Journal of World History''''' is a [[Peer review|peer-reviewed]] [[academic journal]] that presents historical analysis from a global point of view, focusing especially on forces that cross the boundaries of [[culture]]s and [[civilization]]s, including large-scale population movements, economic fluctuations, transfers of [[technology]], the spread of [[infectious disease]]s, long-distance trade, and the spread of [[religious faith]]s, ideas, and values.
+
+The journal was established in 1990 by [[Jerry H. Bentley]] at the [[University of Hawaii|University of Hawai{{okina}}i]] to serve as the official journal of the [[World History Association]]. It is published by the [[University of Hawaii Press|University of Hawai{{okina}}i Press]]. Initially produced twice a year, it became a quarterly in 2003.
+
+In 2000, it was included in [[Project MUSE]], which now contains archives going back to vol. 7 (1996). In 2009, it was included in [[JSTOR]], with a [[moving wall]] of 3 years.
+
+==External links==
+* {{Official website|http://www.uhpress.hawaii.edu/t-journal-of-world-history.aspx}}
+* [http://www.thewha.org/ World History Association]
+
+[[Category:World history]]
+[[Category:History journals]]
+[[Category:Publications established in 1990]]
+[[Category:University of Hawaii Press academic journals]]
+[[Category:Quarterly journals]]
+[[Category:English-language journals]]
+[[Category:1990 establishments in Hawaii]]
+[[Category:Academic journals published by university presses]]
+
+
+{{history-journal-stub}}</text>
+      <sha1>mw7dpvq4351vyk3cqpkqsd399tr3zyg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Overconsumption</title>
+    <ns>0</ns>
+    <id>188418</id>
+    <revision>
+      <id>862941930</id>
+      <parentid>852098686</parentid>
+      <timestamp>2018-10-07T18:25:37Z</timestamp>
+      <contributor>
+        <ip>45.72.251.150</ip>
+      </contributor>
+      <comment>"affect on" → "effect on"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19947">{{multiple issues|
+{{Globalize|date=January 2012}}
+{{Update|date=September 2010}}
+}}
+&lt;!-- China has greatly increased consumption in the past year along with the United States --&gt;
+[[File:Energy per capita.png|thumb|300px|[[World energy resources and consumption|Energy consumption]] per capita per country in 2001]]
+[[File:CO2 per capita per country.png|thumb|300px|[[List of countries by carbon dioxide emissions per capita|CO&lt;sub&gt;2&lt;/sub&gt; emission per capita]] per year per country pre-2006]]
+'''Overconsumption''' is a situation where [[resource consumption|resource use]] has outpaced the [[sustainable]] [[carrying capacity|capacity]] of the [[ecosystem]].  A prolonged pattern of overconsumption leads to [[environmental degradation]] and the eventual [[resource depletion|loss of resource]] bases.
+
+Generally, the discussion of overconsumption parallels that of [[human overpopulation]];&lt;ref&gt;{{cite journal| last1=Ceballos|first1=Gerardo|last2=Ehrlich|first2=Paul R |last3=Dirzo|first3=Rodolfo|date=23 May 2017|title=Biological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines|url=http://www.pnas.org/content/early/2017/07/05/1704949114.full|journal=[[Proceedings of the National Academy of Sciences of the United States of America|PNAS]]|volume=114|issue=30|pages=E6089–E6096|doi=10.1073/pnas.1704949114|quote=Much less frequently mentioned are, however, the ultimate drivers of those immediate causes of biotic destruction, namely, human overpopulation and continued population growth, and overconsumption, especially by the rich. These drivers, all of which trace to the fiction that perpetual growth can occur on a finite planet, are themselves increasing rapidly.|pmc=5544311|pmid=28696295}}&lt;/ref&gt; that is the more people, the more [[Consumption (economics)|consumption]] of [[raw material]]s takes place to sustain their lives. But, humanity's overall impact on the planet is affected by many factors besides the raw number of people. Their lifestyle (including overall affluence and resource utilization) and the pollution they generate (including [[carbon footprint]]) are equally important. Currently, the inhabitants of the [[developed nation]]s of the world consume resources at a rate almost 32 times greater than those of the developing world, who make up the majority of the human population (7.4 billion people).&lt;ref name="NYTimes_Diamond"&gt;Diamond, Jared: (2008-01-02). [https://www.nytimes.com/2008/01/02/opinion/02diamond.html "What's Your Consumption Factor?"] ''[[The New York Times]]''&lt;/ref&gt;
+
+However, the developing world is a growing market of consumption. These nations are quickly gaining more purchasing power and it is expected that the Global South, which includes cities in Asia, Latin America and Africa, will account for 56% of consumption growth by 2030.&lt;ref&gt;Richard Dobbs, James Manyika, Jonathan Woetzel, Jaana Remes, Jesko Perrey, Greg Kelly, Kanaka Pattabiraman, and Hemant Sharma. (2016, March). Urban world: The global consumers to watch. Retrieved November 05, 2017, from https://www.mckinsey.com/global-themes/urbanization/urban-world-the-global-consumers-to-watch&lt;/ref&gt; This means that consumption rates will plateau for the developed nations and shift more into these developing countries. 
+
+The theory of overpopulation reflects issues of [[Carrying capacity#Humans|carrying capacity]] without taking into account per capita consumption, by which developing nations are evaluated to consume more than their land can support. It is expected that world population growth will increase by 41% from 2000 to 2050, reaching a height of 8.9 billion people. On top of the rapid growth expectancy, it will be highly concentrated in the developing nations. This poses issues with inequality of consumption as well. The nations that will come into consumer dominance must abstain from abusing certain forms of consumption, especially energy consumption of CO2.&lt;ref&gt;RICHARD FLORIDA. (2016, April 14). Big Cities Are the Future of Global Consumption. Retrieved November 5, 2017, from https://www.citylab.com/life/2016/04/big-cities-are-the-future-of-global-consumption/478128/&lt;/ref&gt; [[Green party|Green parties]] and the [[ecology movement]] often argue that consumption per person, or [[ecological footprint]], is typically lower in poor than in rich nations.
+
+==Causes==
+In understanding the effects of over-consumption, it is pertinent to understand what causes the phenomenon. There is a spectrum of goods and services that the world population constantly consume. These range from food and beverage, clothing and footwear, housing, energy, technology,  transportation, education, health and personal care, financial services and other utilities.&lt;ref&gt;The World Bank Group - www.worldbank.org. (n.d.). The developing world’s 4.5 billion low-income people already a $5 trillion market. Retrieved November 05, 2017, from http://datatopics.worldbank.org/consumption/market&lt;/ref&gt; Each of these require a different resource and once that resource is exploited to a certain point, that qualifies as over consumption. Since the developing nations are rising quickly into the consumer class, it is important to note the trends happening in these nations. According to the World Bank, the highest shares of consumption lie in food and beverage and clothing and footwear. This applies regardless of sector of income. &lt;ref&gt;The World Bank Group - www.worldbank.org. (n.d.). The developing world’s 4.5 billion low-income people already a $5 trillion market. Retrieved November 05, 2017, from http://datatopics.worldbank.org/consumption/market&lt;/ref&gt;
+
+Two main factors of why we buy so much and so often is due to planned and perceived obsolescence.&lt;ref&gt;https://www.youtube.com/watch?v=9GorqroigqM&lt;/ref&gt; This factor of production was introduced first in the United States and it revolves around the design of products and with these methods, the products are intentionally designed to get rid of after a short amount of time. As of 2012, only 1% of goods purchased were still in use after 6 months. This is due to planned and perceived obsolescence. When it is planned, designers create products that will not be able to work after a certain amount of time but they work for enough time to ensure the customers will come back to buy again. Perceived obsolescence comes in a lot with fashion and trends and fueled by advertising and media consumption. Through this technique, consumers are convinced that certain products do not have value anymore because it is out of style, and in order to have value, consumers must buy more up to date styles. Here is where fast fashion was born. 
+As of 2015, the top five consumer markets in the world included the United States, Japan, Germany, China and France. &lt;ref&gt;The 25 Largest Consumer's Markets ... And The Outlook For 2015. (n.d.). Retrieved November 05, 2017, from https://www.internationalbusinessguide.org/25-largest-consumers-markets-outlook-2015/&lt;/ref&gt;
+
+==Effects==
+{{See also|I PAT}}
+A fundamental effect of overconsumption is a reduction in the planet's [[carrying capacity]]. Excessive unsustainable consumption will exceed the long term carrying capacity of its environment ([[Overshoot (ecology)|ecological overshoot]]) and subsequent resource depletion, [[environmental degradation]] and reduced [[ecosystem health]].
+
+Looking at the two largest sectors of over consumption, the fashion and food industries, we can see most of the harmful effects on the Earth starting here. The fashion industry has created a new venue, fast fashion, which in 2013 produced 15.1 million tons of textile waste and of that, 12.8 million tons were thrown out.  The United States, being the largest consumer market, deals with excess clothing by exporting it to poorer, developing nations but this solution is not sustainable because the demand will go down as cheap clothing becomes more readily available. Another way of disposal is to throw out into landfills or burn up in incinerators which is the least sustainable disposal solution. &lt;ref&gt;Tan, Z. Y. (2016, April 10). What Happens When Fashion Becomes Fast, Disposable And Cheap? Retrieved November 05, 2017, from https://www.npr.org/2016/04/08/473513620/what-happens-when-fashion-becomes-fast-disposable-and-cheap
+&lt;/ref&gt;
+
+The food industry is the other largest sector of consumption and studies show that people waste a fifth of food products just through disposal or overconsumption. The UN Food and Agriculture Organization collected data and found that by the time food reaches the consumer, 9% (160 million tons) goes uneaten and 10% is lost to overconsumption - meaning consumers ate more than the calorie intake requirement. Other aspects of losses surrounding dry matter came at each stage in the food system, the highest amount being from livestock production at 43.9%, transportation accounted for 18% and consumer waste accounting for 12.2% loss. When the consumer takes in too much, this not only explains losses in the beginning of the stage at production (and over production) but also lends itself to overconsumption of energy and protein, having harmful effects on the body. &lt;ref&gt;Beer, E. (2017, February 27). Consumer waste and livestock biggest inefficiencies in food production: Study. Retrieved November 05, 2017, from https://www.foodnavigator.com/Article/2017/02/27/Consumer-waste-and-livestock-biggest-inefficiencies-in-food-production-Study
+&lt;/ref&gt;
+
+
+The scale of modern life's overconsumption has enabled an [[overclass]] to exist, displaying  [[affluenza]] and [[obesity]] &lt;ref&gt;{{cite web|last1=Nierenberg|first1=Danielle|title=State of the World 2006: a Worldwatch Institute report on progress toward a sustainable society|url=https://www.worldcat.org/title/state-of-the-world-2006-a-worldwatch-institute-report-on-progress-toward-a-sustainable-society/oclc/62865904|website=Worldcat|publisher=New York; London: W.W. Norton|accessdate=4 May 2018}}&lt;/ref&gt;. However once again both of these claims are controversial with the latter being correlated to other factors more so than over-consumption. Within the topic of overconsumption there are many other ideas that should be considered in order to find the true cause of it. Some important events that coincide are poverty, population and the development of an area.&lt;ref&gt;{{cite web|title=Overpopulation and overconsumption|url=https://www.bmj.com/content/306/6888/1285|website=BMJ|publisher=BMJ|accessdate=6 May 2018}}&lt;/ref&gt; Overconsumption can also lead to a decline in the economy and financial instability. &lt;ref&gt;{{cite web|last1=Vidal|first1=John|title=World needs to stabilise population and cut consumption, says Royal Society|url=https://www.theguardian.com/environment/2012/apr/26/earth-population-consumption-disasters|website=The Guardian|accessdate=6 May 2018}}&lt;/ref&gt;
+
+In the long term, these effects can lead to increased conflict over dwindling resources &lt;ref&gt;[http://www.globalissues.org/EnvIssues/Population/Result.asp Effects of Over-Consumption and Increasing Populations]. 26 September 2001. Retrieved on 19 June 2007&lt;/ref&gt; and in the worst case a [[Malthusian catastrophe]]. [[Lester Brown]] of the [[Earth Policy Institute]], has said: "It would take 1.5 Earths to sustain our present level of consumption.  Environmentally, the world is in an overshoot mode."&lt;ref&gt;{{cite book |last=Brown |first=Lester R. |title=World on the Edge: How to Prevent Environmental and Economic Collapse |publisher=Norton |series=Earth Policy Institute |year=2011 |page=7 |isbn =113654075X}}&lt;/ref&gt;
+
+As of 2012, the United States alone was using 30% of the world’s resources and if everyone were to consume at that rate, we would need 3-5 planets to sustain this type of living. Resources are quickly becoming depleted, with about ⅓ already gone. With new consumer markets rising in the developing countries which account for a much higher percent of the world’s population, this number can only rise. &lt;ref&gt;https://www.youtube.com/watch?v=9GorqroigqM&lt;/ref&gt;
+
+===Economic growth===
+The [[Worldwatch Institute]] said China and India, with their booming economies, along with the United States, are the three planetary forces that are shaping the global [[biosphere]].&lt;ref&gt;{{Cite book|last=Renner|first=Michael|title=State of the world 2005: A Worldwatch Institute Report on progress toward a sustainable society.|url=http://www.worldwatch.org/node/3866|accessdate=2009-09-14|date=January 2006|publisher=[[W.W. Norton]]|location=New York|isbn=0-393-32666-7|oclc=57470324|chapter=Chapter 1: China, India, and the New World Order|chapterurl=http://www.worldwatch.org/node/3992}}&lt;/ref&gt; The [[State of the World (book series)|State of the World]] 2005 report said the two countries' high [[economic growth]] exposed the reality of severe pollution. The report states that
+&lt;blockquote&gt;The world's ecological capacity is simply insufficient to satisfy the ambitions of China, India, Japan, Europe and the United States as well as the aspirations of the rest of the world in a sustainable way.&lt;/blockquote&gt;
+
+==Footprint==
+{{main article|Ecological footprint}}
+{{quote box|align=right|width=25em|quote=If everyone consumed resources at the US level, you will need another four or five Earths.|source=—[[Paul R. Ehrlich]], biologist&lt;ref&gt;[https://www.theguardian.com/environment/2017/feb/25/half-all-species-extinct-end-century-vatican-conference Biologists say half of all species could be extinct by end of century]. ''[[The Guardian]].'' February 25, 2017.&lt;/ref&gt;}}
+The idea of overconsumption is also strongly tied to the idea of an ecological footprint.  The term “ecological footprint” refers to the “resource accounting framework for measuring human demand on the biosphere.”  Currently, China is roughly 11 times lower in per capita footprint, yet has a population that is more than four times the size of the USA.  It is estimated that if China developed to the level of the United States that world consumption rates would roughly double.&lt;ref name="NYTimes_Diamond" /&gt;  According to Scientific American, one person from China uses 53 times fewer resources than the average American.&lt;ref&gt;{{Cite web|url=https://www.scientificamerican.com/article/american-consumption-habits/|title=American Consumption|last=|first=|date=|website=|access-date=}}&lt;/ref&gt;
+
+A 2018 study published in ''[[Science (journal)|Science]]'' postulates that meat consumption is set to increase as the result of [[human population growth]] and rising affluence, which will increase greenhouse gas emissions and further reduce [[biodiversity]].&lt;ref&gt;{{cite news |last= Devlin|first=Hannah |date=July 19, 2018 |title=Rising global meat consumption 'will devastate environment'|url=https://www.theguardian.com/environment/2018/jul/19/rising-global-meat-consumption-will-devastate-environment|work=The Guardian |location= |access-date=July 26, 2018 }}&lt;/ref&gt;
+
+==Counteractions==
+The most obvious solution to the issue of overconsumption is to simply slow the rate at which materials are becoming [[Resource depletion|depleted]]. Less consumption naturally has negative effects on economies - so instead, countries must look to curb consumption rates while allowing for new industries, such as [[renewable energy]] and [[recycling]] technologies, to flourish and deflect some of the economic burden. A fundamental shift in the global economy may be necessary in order to account for the current change that is taking place or that will need to take place. Movements and lifestyle choices related to stopping overconsumption include: [[anti-consumerism]], [[freeganism]], [[green economics]], [[ecological economics]], [[degrowth]], [[frugality]], [[Downshifting (lifestyle)|downshifting]], [[simple living]], [[The Minimalists|minimalism]], and thrifting.
+
+Recent grassroots movements have been coming up with creative ways to decrease the amount of goods we consume. [[The Freecycle Network]] is a network of people in one's community that are willing to trade goods for other goods or services. It is a new take on thrifting while still being beneficial to both parties.&lt;ref&gt;{{Cite web|url=https://www.freecycle.org/|title=The Freecycle Network|website=www.freecycle.org|language=en|access-date=2017-05-18}}&lt;/ref&gt;&lt;br /&gt;
+Other researchers and movements such as [[the Zeitgeist Movement]] suggest a new socioeconomic model which, through a structural increase of [[efficiency]], collaboration and locality in production as well as effective [[sharing economy|sharing]], increased [[modularity]], sustainability and optimal design of products, are expected to reduce resource-consumption.&lt;ref&gt;[http://www.thezeitgeistmovement.com/faq The Zeitgeist Movement - Frequently Asked Questions] {{webarchive|url=https://web.archive.org/web/20120815095626/http://thezeitgeistmovement.com/faq |date=2012-08-15 }} Retrieved on 6 May 2014&lt;/ref&gt;
+Added information about overconsumption and excess garbage and its effect on urban communities and the environment. Solutions offered include consumers using market forces to influence businesses towards more sustainable manufacturing and products. &lt;ref&gt;Derraik, J. (2002). The pollution of the marine environment by plastic debris: a review. Marine Pollution Bulletin, 22(9), pp. 842-852. https://doi.org/10.1016/S0025-326X(02)00220-5 &lt;/ref&gt;
+
+==See also==
+{{Portal|Sustainable Development|Environment}}
+{{div col|colwidth=22em}}
+*[[Artificial demand]]
+*[[Collaborative consumption]]
+*[[Conspicuous consumption]]
+*[[Consumption (economics)]]
+*[[Degrowth]]
+*[[Environmental studies]]
+*[[Externality]]
+*[[Mottainai]]
+*[[Overexploitation]]
+*[[Overshoot (population)]]
+*[[Peak copper]]
+*[[Peak oil]]
+*[[Preorder economy]]
+*[[Santosha]] (renunciation of the need to acquire)
+*[[Steady-state economy]]
+*''[[Surplus: Terrorized into Being Consumers]]'' (film)
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{Cite journal|last1=Ivanova |first1=Diana  |last2=  Stadler|first2= Konstantin|last3= Steen-Olsen|first3= Kjartan |last4=  Wood |first4=  Richard|last5=  Vita|first5= Gibran |last6= Tukker|first6= Arnold|last7=  Hertwich|first7=Edgar G. |date = 18 December 2015 | title = Environmental Impact Assessment of Household Consumption |journal=[[Journal of Industrial Ecology]] |volume= 20 |issue=3| pages =526–536 | url = |doi=10.1111/jiec.12371|format=|pmid=| bibcode=}}
+
+==External links==
+* [http://www.earthhealing.info/fifty.htm Fifty Possible Ways to Challenge Over-Commercialism] by Albert J. Fritsch, SJ, PhD
+* [http://www.spiked-online.com/newsite/article/670 Why people hate fat Americans] by [[Daniel Ben-Ami]]
+* [http://www.optimumpopulation.org Optimum Population Trust]
+* [https://www.un.org/esa/sustdev/documents/agenda21/english/agenda21chapter4.htm UN Division for Sustainable Development, Agenda 21, Chapter 4 – "Changing Consumption Patterns"]
+* [http://www.footprintnetwork.org/en/index.php/GFN/page/footprint_for_nations/ Footprint For Nations]
+* ''[http://www.storyofstuff.org/movies-all/story-of-stuff/ The Story of Stuff]'' (video)
+* [http://www.nationmaster.com/graph/ene_oil_con-energy-oil-consumption Energy statistics-Oil Consumption by Country]
+* [http://www.google.com/publicdata?ds=wb-wdi&amp;met=eg_use_pcap_kg_oe&amp;tdim=true&amp;dl=en&amp;hl=en&amp;q=world+energy+use+graph World Energy Use Graph]
+* [http://www.data360.org/dsg.aspx?Data_Set_Group_Id=591 Global GDP by Country]
+* [http://habitat.igc.org/agenda21/ch-06.html]
+
+{{Human impact on the environment}}
+{{Population}}
+{{Population country lists}}
+{{Sustainability}}
+{{Environmental social science}}
+{{Fast culture}}
+{{biological organisation}}
+{{Globalization|state=autocollapse}}
+
+[[Category:Consumerism]]
+[[Category:Waste minimisation]]
+[[Category:Peak oil]]
+[[Category:Population ecology]]
+[[Category:World population]]
+[[Category:Global issues]]
+[[Category:Environmental controversies]]
+[[Category:Environmental social science concepts]]
+[[Category:Human activities with impact on the environment]]</text>
+      <sha1>m3otwqcsd7p9dackzz3t27kqa7ayipy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Study of global communication</title>
+    <ns>0</ns>
+    <id>26692723</id>
+    <revision>
+      <id>871517724</id>
+      <parentid>871517671</parentid>
+      <timestamp>2018-12-01T16:57:29Z</timestamp>
+      <contributor>
+        <username>Headbomb</username>
+        <id>1461430</id>
+      </contributor>
+      <comment>/* Global cultural industries */ ce</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="43182">{{very long|date=November 2016}}
+
+'''Global communication''' is the term used to describe ways to connect, share, relate and mobilize across geographic, political, economic, social and cultural divides. It redefines soft and hard power as well as information power and diplomacy in ways not considered by traditional theories of [[International relations theory|international relations]]. {{Citation needed|date=October 2017}}
+
+Global Communication implies a transfer of knowledge and ideas from centers of power to peripheries and the imposition of a new intercultural hegemony by means of the "[[soft power]]" of global news and entertainment.&lt;ref&gt;{{cite journal|last1=Tehranian|first1=Maijd|title=Global Communication and international relations: changing paradigms and policies|journal=The International Journal of Peace Studies|url=http://www.gmu.edu/}}&lt;/ref&gt;
+
+The '''study of global communication''' is an interdisciplinary field that studies the continuous flows of information used in transferring values, opinions, knowledge, culture across boundaries. {{Citation needed|date=October 2017}}
+
+=="International" Or "Global"==
+With the end of the twentieth century and the turn of a new millennium, the global arena and the field of international communication were undergoing significant changes.&lt;ref name=":9" /&gt; Some authors started to use the term global communication because it goes beyond the bounds of individual states and emphasizes communication between and among peoples across borders and, importantly, the rise of transnational media corporations.&lt;ref name=":4" /&gt;
+
+[[International communication]] traditionally refers to communication between and among nation-states and connotes issues of national sovereignty, control of national information resources, and the supremacy of national governments.
+
+Nevertheless, earlier International communication theories have failed to develop models or research agendas that match the reality of the contemporary role of global communication {{Citation needed|date=October 2017}}. The old theories only explain part of the global picture and the theories of modernization, dependency, and cultural imperialism have failed to satisfactorily explain global communication.&lt;ref name=":3" /&gt;
+
+The term "global", implies a declining role of the state and state sovereignty. As a term, "international" has within it notions of bilateral or multilateral decisions. "Global" could be seen as an aspiration, also as a fear, of the weakening of the state. In addition, global may imply something more pervasive, more geographically inclusive than international. {{Citation needed|date=October 2017}}
+
+==History==
+
+The study of global communication increased dramatically after World War II due to military considerations coupled with their economic and political implications. Earlier attempts at theorizing have failed to develop models or research agendas that match the reality of the contemporary role of global communication {{Citation needed|date=October 2017}}.
+
+More global communication research was written in the decade from 1945–1955; most of the research of the 1950s dealt with propaganda and the cold war. By 1970, global communication research had grown to include a great variety of subjects, especially comparative mass communication systems,&lt;ref&gt;{{cite book |edition=1st |title=The Handbook of Comparative Communication Research |url= |publisher=Routledge |date=2012-03-21 |location=New York, NY |isbn=978-0-415-80275-8 }}&lt;/ref&gt; communication and national development and propaganda and public opinion.&lt;ref name=":4"&gt;{{cite book |last1=Frederick |first1=Howard H. |title=Global communication and international relations |url=https://books.google.com/?id=RBsQAQAAMAAJ|isbn=9780534193447 |date=1993-01-01 }}&lt;/ref&gt;
+
+From the point of view of global communication scholars, previous theories of [[Modernization theory|modernization]], dependency, and [[cultural imperialism]] have failed to satisfactorily explain global communication. The old theories only explain part of the global picture.&lt;ref name=":3"&gt;{{cite book |last1=Mcphail |first1=Thomas L. |title=Global Communication Theories, stakeholders, and Trends |date=2002 |url=https://books.google.com/books/about/Global_Communication.html?id=MAco-KZGZNIC|isbn=9781444358100 }}&lt;/ref&gt;
+
+===Technological development===
+The emergence of global communication technologies may be considered the origin of the field of global communication in the nineteenth century.&lt;ref name=":4" /&gt; Numerous technical advances such as the creation of a new major global communication phenomenon, [[Telecommunication convergence|convergence]], digital environments and the internet are some of the major engines driving the change from [[international communication]] to global communication.&lt;ref name=":3" /&gt;
+
+===Global power shifts===
+With the collapse of the [[Soviet Union's collapse|Soviet Union]], the shadow of [[Cold War]] has lifted to reveal shifting political, economic, and cultural alliances and conflicts. The increasing importance of these currents, especially in the cultural sphere, demands a reconsideration of the nature of the international communication field within the rubric of international relations.&lt;ref name=":9"&gt;{{Cite book|title = Global Communication in Transition: The End of Diversity?|url = https://www.amazon.com/Global-Communication-Transition-Diversity-Values-ebook/dp/B00YFRD9G6/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1450650195&amp;sr=1-2&amp;keywords=global+communication+in+transition|publisher = SAGE Publications, Inc|date = 1996-02-05|first = Hamid|last = Mowlana}}&lt;/ref&gt;
+
+===News agencies and propaganda===
+Three key players are usually recognized as the founders of the international [[News agency|news agencies]]. In 1835, [[Charles-Louis Havas]] created the world's first news agency; In 1849, [[Bernhard Wolff]] started publishing stock market news and daily reports from Paris, London, Amsterdam, and Frankfurt; In 1849, [[Paul Reuter|Paul Julius Freiherr von Reuter]] established his own commercial service, the [[Reuters|Reuter]] agency, and organized a worldwide exchange of news in 1870.
+
+In 1859, Reuter, [[Havas]] and the German [[Wolffs Telegraphisches Bureau|Wolff]] agency reached an agreement to exchange news from all over the world, which was known as the League of Allied Agencies, or the " Ring Combination".&lt;ref&gt;{{Cite book|title = "The Ring Combination": Information, Power, and the World News Agency Cartel|url = https://books.google.com/books?id=YDVlAAAAMAAJ|publisher = University of Chicago, Department of History|date = 1999-01-01|first = Alexander Scott|last = Nalbach}}&lt;/ref&gt; In 1848, [[Associated Press|American News Agency Associated Press]] was founded and was formally admitted into the "Ring Combination" in 1887.&lt;ref name=":4" /&gt;
+
+There are some major factors that point to the growing importance of global communication in the world of the twenty-first century:&lt;ref name=":4" /&gt;
+# world population explosion
+
+# from [[geopolitics]] to [[Gaia philosophy|gaiapolitics]]
+
+# increased [[cross-cultural communication]]
+# changing concept of community
+# greater [[Centralisation|centralization of control]]
+# information explosion
+# changes in technologies
+# greater dependence on global communication
+# greater [[interdependence]] and democracy
+# impact of communication on peace and war
+
+== Theoretical approaches and perspectives ==
+
+=== Transcultural political economy ===
+
+Transcultural Political Economy is a concept that is presented in Global Communications by Paula Chakravartty and Yeuzhi Zhao. This concept looks at global communications and media studies in three major areas: global flows of information and culture, decentralizing the conceptual parameters of global information and media studies, and the normative debates in global communications in the context of neoliberalism. Transcultural Political Economy is a multidisciplinary study that focuses on the tensions between political economy and cultural studies. It "integrate[s] institutional and cultural analyzes and address urgent questions in global communications in the context of economic integration, empire formation, and the tensions associated with adapting new privatized technologies, neoliberalized and globalized institutional structures, and hybrid cultural forms and practices". Transcultural Political Economy addresses the issues surrounding the practice of neoliberalism and its creation of unequal power structures within the world system. 
+&lt;ref&gt;Chakravartty, P. &amp; Zhao, Y. (2008). Global Communications: toward a transcultural political economy. Rowman &amp; Littlefield.&lt;/ref&gt;
+
+=== Globalization theory ===
+{{See also|Globalization}}
+
+Globalization theory was popularized in the 1990s as a model for understanding global communication. The concept of [[globalization]] inspired a number of theories from various schools of thought in communication studies that each emphasize different aspects of [[globalization]].&lt;ref name=":0"&gt;{{cite book |title=Globalization, development and the mass media |last=Sparks |first=Colin |publisher=Sage Publications |year=2007 |isbn=978-0-7619-6161-1 |location=Thousand Oaks, California |pages=126–149}}&lt;/ref&gt; Many globalization theories highlight actors in the business sector as leaders in the processes of global integration. Transnationalizing business is often celebrated as progression toward a more interconnected world.&lt;ref name=":0" /&gt; Globalization theories are often associated with theories of modernity.&lt;ref name=":0" /&gt; Some scholars view globalization as the social, political, economic, and cultural integration of societies into a capitalist system; Others see globalization as a successor to modernity, while some see it as an iteration of imperialism.&lt;ref name=":0" /&gt; Some question the usefulness and legitimacy of globalization theory, arguing that it does not adequately conceptualize current international relations or function as a lens through which to examine everyday events.&lt;ref&gt;{{cite journal |title=Globalization Theory: A Post Mortem |url=http://www.ingentaconnect.com/content/pal/ip/2005/00000042/00000001/art00002 |journal=International Politics |date=2005-03-01 |pages=2–74 |volume=42 |issue=1 |doi=10.1057/palgrave.ip.8800098 |first=Justin |last=Rosenberg}}&lt;/ref&gt; Many scholars criticize globalization theories as overzealous toward and unrealistic about the extent of global integration.&lt;ref&gt;{{cite book |title=Why the World Isn't Flat in International Politics: Enduring concepts and contemporary issues |last=Ghemawat |first=Pankaj |publisher=Pearson Education |year=2011 |isbn=978-0-205-77876-8 |location=United States |pages=322–327}}&lt;/ref&gt; Some scholars criticize social theorists for offering opinions and predictions based on theory with little practical evidence.&lt;ref name=":0" /&gt; In contrast, some scholars work to dispute the pessimistic views of globalization theory.&lt;ref&gt;{{cite book |editor1-last=Art |editor1-first=Robert J. |editor2-last=Jervis |editor2-first=Robert |title=International politics: enduring concepts and contemporary issues |last1=Micklethwait |first1=John |last2=Woolridge |first2=Adrian |chapter=Why the Globalization Backlash is Stupid in International Politics |publisher=Pearson Education |year=2011 |isbn= |location=United States |pages=348–354}}&lt;/ref&gt;
+
+=== World systems theory ===
+World-system theory is a macro-sociological perspective that seeks to explain the dynamics of the "capitalist world economy" as a "total social system". A world-system is what Wallerstein terms a "world-economy", integrated through the market rather than a political centre, in which two or more regions are interdependent with respect to necessities like food, fuel, and two or more polities compete for domination without the emergence of one single centre forever.&lt;ref&gt;Goldfrank, Walter L. (2000). "Paradigm Regained? The Rules of Wallerstein's World-System Method. Journal of World-Systems Research. Vol. 6. N. 2 pp. 150-195&lt;/ref&gt; World-system theory was first articulated by Immanuel Wallerstein. There are three major sources of the world-system theory which conceived by Wallerstein: the Annales school's general methodology, Marx's focus on accumulation process and competitive class struggles and so on, and dependence theory's neo-Marxist explanation of development processes.&lt;ref&gt;Thomas Barfield (1998), ''[https://books.google.com/books?id=V5dkKYyHclwC&amp;pg=PA498&amp;dq=&amp;redir_esc=y The dictionary of anthropology, Wiley-Blackwell]'', {{ISBN|1-57718-057-7}},&lt;/ref&gt;
+
+Referring to the transnational division of labor, world-system divides the world into core countries, peripheral countries, semi-peripheral countries and external areas. The core countries usually developed a strong central governments, extensive bureaucracies and large mercenary armies, which permit the local bourgeoisie to obtain control over international commerce and extract capital surpluses from the trade for benefits.&lt;ref name=":6"&gt;Paul Halsall(1997) [https://legacy.fordham.edu/halsall/mod/Wallerstein.asp Modern History Sourcebook: ''Summary of Wallerstein on World System Theory''.]&lt;/ref&gt; The peripheral countries often lack strong central governments or been controlled by core countries, they export raw materials and rely on coercive labor practices.&lt;ref name=":6" /&gt; Semi-peripheries which served as buffers between the core and the peripheries. They retain limited but declining access to international banking and the production of high-cost high-quality manufactured goods.[3] External areas such as Russia maintain their own economic systems, they want to remain outside the modern world economy.&lt;ref name=":6" /&gt;
+
+=== Modernisation theory ===
+
+The theory of modernization was developed by Daniel Lerner (1958) in the "Passing of traditional society." Lerner's description of "modernised" is an individual having the ability to be empathetic and being able to see oneself in another person's situation. This concept has come from the transition of traditional societies to modern societies, where modern societies is distinctively industrial, urban, literate, and participant. This theory looks at development in a linear fashion, concluding that nations need to develop into a modern society to make it a sustainable and flourishing nation. Developing modernized societies include technological advancement, and developing media sectors to help create a participatory culture. 
+&lt;ref&gt;Lerner, D. (1958). The passing of traditional society: Modernising the Middle East. Free Press.&lt;/ref&gt;
+
+=== Post-colonialism ===
+''See also:'' [[Post-structuralism]], [[imperialism]], [[modernity]],
+
+Post-colonialism is a theoretical approach to looking at literature that examines the colonizer-colonized experience. It deals with the adaptation of formerly colonized nations and their development in cultural, political, economical aspects. Some Notable theoreticians include: [[Frantz Fanon]], [[Edward Said]], [[Gayatri Spivak]], [[R Siva Kumar]], [[Dipesh Chakrabarty]], [[Derek Gregory]].
+
+=== Cultural imperialism ===
+Cultural imperialism is a mighty civilization exerts culture influence over another. Less economically prominent cultures often import culture from Western countries, which have the economic means to produce a majority of the world's cultural media, mostly via the global transmission of media.&lt;ref&gt;Dan Ketchum, [http://classroom.synonym.com/meaning-cultural-imperialism-7841.html What Is the Meaning of Cultural Imperialism?]&lt;/ref&gt; The weak civilization adopts the mighty civilization's customs, philosophies, worldviews and general ways of life. The theoretical foundations of the academic study of cultural imperialism mostly come from Michel Foucault's concept of biopower, governmentality and Edward Saïd's concept of Post-colonialism, which theories see cultural imperialism as the cultural legacy of colonialism or forms of Western hegemony. Media effect study which integrated with political-economy traditional is the core argument of cultural imperialism. There are two opposite effects of media study. The negative one is that Western media imposes socio-political conflicts to the developing country and the latter one's resistance to the media effects to preserve their traditional cultural identities.&lt;ref&gt;G. K., &amp; Tan. A.S. (1987), ''American TV in the Philippines: A test of cultural impact''. Journalism Quarterly&lt;/ref&gt; The positive effects are the issues of the process of civilization such as women's right or racial equality with exposing to Western media.&lt;ref&gt;Kang, J. G., &amp; Morgan, M. (1988). ''Culture clash: Impact of U.S. television in Korea''. Journalism Quarterly&lt;/ref&gt; Now the term of cultural imperialism usually refers to America's global culture expansion to the rest of world, which include brand name products, video media, fast food and so on.
+
+=== Communication for development (C4D) ===
+[[Communication for Development|Communication for Development (C4D)]] is a [[Praxis (process)|praxis]] oriented aspect of global communication studies that approaches [[Global Development|global development]] with a focus on action and participation for social change enacted through communication systems.&lt;ref name=":1"&gt;{{Cite book|title = Evaluating Communication for Development: A Framework for Social Change|last = Lennie &amp; Tacchi|first = |publisher = Routledge|year = 2013|isbn = |location = New York|pages = }}&lt;/ref&gt; C4D underlines "voice, citizenship and collective action" as central values that promote citizen-led development where the visiting party provides guidance rather than direction within the host community.&lt;ref name=":2"&gt;{{Cite book|title = Speaking up and talking back?: Media empowerment and civic engagement among east and southern African youth|last = Tufte, Wildermuth, Hansen-Skovmoes, &amp; Mitullah|first = |publisher = [UNESCO] International Clearinghouse on Children, Youth and Media, Nordicom.|year = 2013|isbn = |location = Göteborg, Sweden|pages = }}&lt;/ref&gt; C4D often incorporates bottom-up theories of social change with the aim to create sustainable change which is believed to be more likely to occur if the efforts are planned, implemented, and sustained by community members themselves.&lt;ref name=":2" /&gt; Some development workers and academics suggest that a shared definition of communication for development should be clarified, because disagreement within the field can detract from the characteristics that most scholars view as central to current development, including [[participatory action research]] (PAR).&lt;ref name=":2" /&gt; Many C4D projects revolve around media systems as a central site for social change,&lt;ref name=":2" /&gt; which differentiates C4D from other approaches to development. Theories behind C4D highlight that development projects should be contextually situated and that communication technology will affect different types of social change accordingly.&lt;ref name=":1" /&gt;
+
+=== Global media studies ===
+Global media studies is a field of media study in a global scope. Media study deals with the content, history and effects of media. Media study often draws on theories and methods from the disciplines of cultural studies, rhetoric, philosophy, communication studies, feminist theory, political economy and sociology.&lt;ref&gt;Dayan, Daniel and Katz, Elihu (1992). ''Media Events''. London, England: Harvard University Press. {{ISBN|0-674-55956-8}}.&lt;/ref&gt; Among these study approaches, political economic analysis is non-ignorable in understanding the current media and communication developments. But the political economic research has become more resilient because of stronger empirical studies, and the potential connections to policy-making and alternative praxis.&lt;ref&gt;Janet Wasko (2009). Global Media Studies. Television &amp; New Media. Volume 10 Number 1 January 2009 167-168.&lt;/ref&gt;
+
+Each country has its own distinct media ecosystem. The media of mainland China is state-run, so the political subjects are under the strict regulations set by the government while other areas such as sports, finance, and increasingly lucrative entertainment industry face less regulation from government.&lt;ref&gt;''[http://www.cfr.org/about/ Council on Foreign Relations.]''&lt;/ref&gt; Canada has a well-developed media sector, but the mass media is threatened by the direct outcome of American economic and cultural imperialism which hinder the form of Canada's media identity.&lt;ref&gt;Irving, John A. (1969). ''Mass Media in Canada''. The Ryerson Press. p. 225.&lt;/ref&gt; Many of the media in America are controlled by large for-profit corporations who reap revenues from advertisings, subscriptions and the sale of copyrighted materials. Currently, six corporations (Comcast, The Walt Disney Company, News Corporation, Time Warner, Viacom and CBS Corporation) have controlled roughly 90% of the America media.&lt;ref&gt;Ashley Lutz (2012) ''[http://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6 These 6 Corporations Control 90% Of The Media In America.]'' Business Insider. 14 June 2012.&lt;/ref&gt; Such successes come from the policies of the federal government or the tendency to natural monopolies in the industry.
+
+== Central debates ==
+
+=== Global power shifts ===
+
+[[Frog#Locomotion|Immanuel Wallerstein]]'s world system theory develops a basic framework to understand global power shifts in the rise of the modern world. Wallerstein proposes four different categories: '''core, semi-periphery, periphery, and external''', in terms of different region's relative position in the world system. The core regions are the ones that benefited the most from the capitalist world economy, such as England and France. The peripheral areas relied on and exported raw materials to the core, such as Eastern Europe and Latin America. The semi-peripheries are either core regions in decline or peripheries attempting to improve their relative position in the world system, such as Portugal and Spain. The external areas managed to remain outside the modern world economy, such as Russia.&lt;ref name="LoC"&gt;[http://www.sociosite.net/topics/texts/wallerstein_summary.php/ Summary of Wallerstein on World System Theory]&lt;/ref&gt;
+
+There are two basic types of global power shifts in the 21st century. One is traditional power transition amongst states, which follows Wallerstein's world system theory. For instance, the global power shifts from the West to the East since the rise of Asia. The other is power diffusion, the way that power move from states to non-states actors. For instance, "climate change, drug trade, financial flows, pandemics, all these things that cross borders outsider the control of governments."&lt;ref&gt;http://www.ted.com/talks/joseph_nye_on_global_power_shifts/transcript?language=en#t-832180/&lt;/ref&gt;
+
+=== Global public sphere ===
+[[Public sphere]] theory, attributed to [[Jürgen Habermas|Jurgen Habermas]], is a theory that in its basic premise conceives of [[democratic governments]] as those that can stand criticism that comes from public spheres. [[Public sphere]]s are places, physical or imagined, where people discuss any kind of topic, particularly topics of a societal or political nature. Global public sphere is, therefore, a public that is made of people from across the globe, who come together to discuss and act on issues that concern them.&lt;ref&gt;{{Cite web|title = International Communication Theory in Transition: Parameters of the New Global Public Sphere|url = http://web.mit.edu/comm-forum/papers/volkmer.html|website = web.mit.edu|accessdate = 2015-12-21}}&lt;/ref&gt; The concept of global public sphere is linked to the shift of public sphere, from restricted to nation-state, to made of individuals and groups connected across as well as within borders.&lt;ref name=":10"&gt;{{Cite web|title = International Communication Theory in Transition: Parameters of the New Global Public Sphere|url = http://web.mit.edu/comm-forum/papers/volkmer.html|website = web.mit.edu|accessdate = 2015-12-25}}&lt;/ref&gt;
+
+Since Plato, it can be argued that philosophers have been thinking about versions of a common space for all people to debate in; however, a global public sphere that can fit the description above began to appear much later. In the second half of the 20th century, the legacy of World War II and technological advancements created a new sense of the global and started the economic and political phenomena that we now call [[globalization]]. This includes the expansion of humankind into space, which gave individuals the sense of a global unity, the growth of satellite technology, which allowed for people across the globe to view the same television channels, and the internet, which can provide access to an unprecedented amount of information and spaces to connect with other people.&lt;ref name=":10" /&gt;
+
+=== Cultural industries ===
+The term "[[culture industry]]" appeared in the [[post-war period]]. At that time, culture and industry were argued to be opposites.&lt;ref name=":02"&gt;{{cite web |url = http://unctad.org/en/Docs/ditctab20103_en.pdf|title = Creative Economy 2010 Report|date = 2010|publisher = UNCTAD}}&lt;/ref&gt; [[Cultural industry|Cultural industries]]" are also referred to as the "[[Creative industries]].
+
+==== Definitions and scope of cultural industries ====
+
+In the present day, there remain different interpretations of culture as an industry. For some, cultural industries are simply those industries that produce cultural goods and services.&lt;ref name=":02" /&gt;
+
+In the [[UNESCO|United Nations Educational, Scientific and Cultural Organization]] (UNESCO), the cultural industries are regarded as those industries that "combine the creation, production and commercialization of contents which are intangible and cultural in nature. These contents are typically protected by copyright and they can take the form of goods or services". According to [[UNESCO]], an essential part of cultural industries is that they are "central in promoting and maintaining cultural diversity and in ensuring democratic access to culture".&lt;ref&gt;{{cite web |url=http://en.unesco.org/themes/protecting-our-heritage-and-fostering-creativity |title=Protecting Our Heritage and Fostering Creativity |date= |accessdate= |website= |publisher= |last= |first=}}&lt;/ref&gt; "Cultural industries" combines the cultural and economic, which gives the cultural industries a distinctive profile.&lt;ref name=":02" /&gt;
+
+In France, the "cultural industries" have recently been defined as a set of economic activities that combine the functions of conception, creation and production of culture with more industrial functions in the large-scale manufacture and commercialization cultural products.&lt;ref&gt;{{cite journal |url = http://www.culturecommunication.gouv.fr/Politiques-ministerielles/Etudes-et-statistiques|title = de la prospective et des statistiques|last = |first = |date = 2006|journal = Département des études|doi = |pmid = |access-date = }}&lt;/ref&gt;
+
+In Canada, economic activities involved in the preservation of heritage are also included in the definition of culture.&lt;ref&gt;{{Cite web|url=http://www.statcan.gc.ca/pub/87-542-x/2011001/section/s3-eng.htm|title=Defining culture|website=www.statcan.gc.ca|access-date=2016-11-02}}&lt;/ref&gt;
+
+==== Global cultural industries ====
+Since the rise of the cultural industries has occurred simultaneously with [[economic globalization]], cultural industries have close connections with globalization and global communication.
+
+[[Herbert Schiller]] argued that the 'entertainment, communications and information (ECI) complex were having a direct impact on culture and human consciousness.&lt;ref&gt;{{Cite book|title = Communication and Culture Domination|last = Schiller|first = Herbert|publisher = International Arts and Science Press|year = 1976|isbn = |location = New York|pages = 3}}&lt;/ref&gt; As [[Herbert Schiller|Schiller]] argued, the result of transnational corporate expansion is the perpetuation of [[cultural imperialism]], defined as "the sum of the processes by which a society is brought into the modern world system and how its dominating stratum is attracted, pressured, forced, and sometimes bribed into shaping social institutions to correspond to, or even promote, the values and structures of the dominating centre of the system".&lt;ref&gt;{{Cite book|title = Communication and Cultural Domination|last = Schiller|first = Herbert|publisher = International Arts and Science press|year = 1976|isbn = |location = New York|pages = 9}}&lt;/ref&gt;
+
+The second wave of transnational corporate expansion, which began in the 1970s with the emergence of [[Free trade zone|Export Processing Zones]] in developing countries, is focused on the development of [[global production networks]].&lt;ref name=":7"&gt;{{Cite book|title=Global Creative Industries|last=Flew|first=Terry|publisher=Polity Press|year=2013|isbn=978-0-7456-4839-2|location=Cambridge, UK|pages=19–24}}&lt;/ref&gt; This process was described as a "new international division of labour" (NIDL) by the German political economists Frӧbel et al. (1980).
+
+Ernst and Kim have argued that GPNs are changing the nature of the multinational corporation itself, from "stand alone overseas investment projects, to "global network [[flagship]]s" that integrate their dispersed supply, knowledge and customer bases into global and regional production networks", entailing a shift from top-down hierarchical models of corporate control to increasingly networked and collective forms of organization.&lt;ref&gt;{{Cite journal|url = |title = Global Production Networks, Knowledge Diffusion, and Local Capacity Formation|last = Ernst |first=D. |last2=Kim |first2=L. |date = 2002|journal = Research Policy |volume=31|doi = |pmid = |access-date = }}&lt;/ref&gt;
+
+==== Global media empires ====
+The largest firms in media and media-related industries have a very high international profile.&lt;ref name=":7" /&gt; Global media empires such as [[The Walt Disney Company|Disney]], [[News Corporation]], [[Time Warner|Time-Warner]] and [[Viacom]]-[[CBS]] now derive 25-45 per cent of their revenues outside of the United States.&lt;ref&gt;{{Cite book|title = Understanding Global Media|last = Flew.T|first = |publisher = Palgrave Macmillan|year = 2007|isbn = |location = Basingstoke, UK|pages = }}&lt;/ref&gt;
+
+It is often argued that the global media are dominated by a small number of powerful media [[Conglomerate (company)|conglomerates]]. Herman and McChesney (1997) argued that the global media were "dominated by three or four dozen large [[Multinational corporation|transnational corporations]] (TNCs) with fewer than ten mostly US-based media conglomerates towering over the global market."&lt;ref&gt;{{Cite book|title = The Global Media: The New Missionaries of Global Capitalism|last = Herman,E.S &amp; McChesney, R.W|first = |publisher = Cassell|year = 1997|isbn = |location = London|pages = }}&lt;/ref&gt; Similarly, [[Manfred Steger]] has observed that " to a very large extent, the global cultural flows of our time are generated and directed by global media empires that rely on powerful communication technologies to spread their message."&lt;ref name=":8"&gt;{{Cite book|title = Globalization: A Very Short Introduction|last = Steger.M|first = |publisher = Oxford University Press|year = 2003|isbn = |location = Oxford|pages = }}&lt;/ref&gt; He also argued that during the last two decades, a few very large TNCs would come to dominate the global market for entertainment, news, television, and film.&lt;ref name=":8" /&gt;
+
+=== Diaspora ===
+[[Diaspora]] is often confused with [[wikt:exodus|exodus]]. Diasporas are minority groups that have a sense of connection with a larger community outside of the borders they currently inhabit, and through diasporic media create a sense of a larger identity and community, whether imagined or real.&lt;ref name=":13" /&gt; In scholarly work about diaspora in communication studies, the view of nation and culture as interchangeable terms is no longer prevalent. [[Stuart Hall (cultural theorist)|Stuart Hall]] theorized of hybridity, which he distinguished from "old style pluralism", "nomadic voyaging of the postmodern", and "global homogenization". Hybridity is the retention of an original identity and strong ties to an original country and tradition, but with the understanding that there is no unchanged, ideal nation of the past that they can return to. To be hybrid is to also adapt to a new culture and tradition without simply assimilating in it, but rather negotiating a place between the "original" and "new" cultures.&lt;ref name=":11" /&gt; In Communication studies, diaspora is discussed as the identity that unifies people across time and space, sometimes existing in physical spaces and other times existing in imagined 'non-spaces'. However, it has been argued that the concept of 'diaspora' implies ethnic homogeneity and essentializes identity to only ethnicity.&lt;ref name=":13" /&gt; One of the most cited and well-known works in the field of diasporic media is [[Hamid Naficy]]'s work on exiled Iranian Americans' creation of cable television in the United States.&lt;ref name=":11" /&gt;
+
+Diasporic media refer to media that address the needs of particular ethnic, religious, and/or linguistic groups that live in multicultural settings {{Citation needed|date=October 2017}} . Diasporic media can be in the diaspora's traditional language or in another language, and they can include news or media from the "origin" country or they can contain the diaspora's local news or media. Diasporic media can be created in radio, television, film, music, in newspapers, magazines, and other publishing, as well as online. It can be argued that the development and spread of satellite television is an instrumental element of the growth of diasporic media today. Satellite television allowed migrants to access the news and popular culture from their homeland, as well as allowing people who speak the same language to access the same channels that might be produced outside of the "homeland"&lt;ref name=":13"&gt;{{Cite journal|title = Diasporic Media Across Europe: Multicultural Societies and the Universalism–Particularism Continuum|journal = Journal of Ethnic and Migration Studies|pages = 481–498|volume = 31|issue = 3|doi = 10.1080/13691830500058794|first = Myria|last = Georgiou|year = 2005}}&lt;/ref&gt;
+
+Contemporary studies of diaspora show that diasporic media are part of the change in the tendency Immanuel Wallerstein described in his world systems theory. The world systems theory postulates that much of the flow of people in the world has been from the 'periphery', or economically-developing states, towards the centre; which are often metropolitan, economically-wealthy states that grew their wealth in colonialist entrepreneurship. However, contrary to the movement of people, the flow of information (including media products), has tended to be from the centre to the periphery.&lt;ref name=":11"&gt;{{Cite journal|url = |title = Go with the Flow: Diasporas and Media|last = Sinclair|first = John|date = February 2000|journal = Television &amp; New Media|doi = |pmid = |access-date = |last2 = Cunningham|first2 = Stuart|issue = 1:1}}&lt;/ref&gt;
+
+=== Technology and media ===
+The advancement of media and technology have played the pivotal role in process of [[globalization]] and global communication.&lt;ref name=":03"&gt;{{Cite book|title = Understanding the media|last = Devereux|first = Eoin|publisher = SAGE|year = 2007|isbn = 9781412929912|location = London, Los Angeles|pages = 28–30}}&lt;/ref&gt; [[Cable television]], [[Integrated Services Digital Network|ISDN]], [[digitalization]], direct broadcast [[satellite]]s as well as the [[Internet]] have created a situation where vast amounts of information can be transferred around the globe in a matter of seconds.&lt;ref name=":03" /&gt;
+
+During the early 20th century, [[Telegraphy|telegraph]], [[telephony]], and [[radio]] started the process of global communication.&lt;ref name=":12"&gt;{{Cite journal|url = |title = Global Media, Historic Development of|last = Monroe|first = E. Price|date = 2003|journal = Encyclopedia of International Media and Communications, Volume 2|doi = |pmid = |access-date = }}&lt;/ref&gt;  As media technologies developed intensely, they were thought to create, in Marshall McLuhan’ s famous words, a ‘‘global village.’’&lt;ref name=":12" /&gt; The launch of [[Sputnik 1|Sputnik]], the world’ s first [[artificial satellite]], on October 4, 1957, marked the beginning of technologies that would further interconnect the world.  The first live global television broadcast occurred when [[Neil Armstrong]] stepped onto the moon in July 1969.  In November 1972, pay TV caused expansion of cable when [[Service Electric]] offered Home Box Office over its cable system. By 2000, over direct broadcast satellite, a household could receive channels from all over the world. Now with the [[World Wide Web]], [[Smartphone|smart phones]], [[Tablet computer|tablet devices]], smart televisions and other digital media devices, billions of people are now able to access media content that was once tied to particular communications media ([[Input/output|print]], broadcast) or platforms ([[newspaper]]s, [[magazine]]s, [[radio]], [[television]], [[Film|cinema]]).&lt;ref name=":7" /&gt;
+
+=== Justice ===
+Justice in communication studies includes, but is not limited to, the concern with democratic process and fostering democratic publics  {{Citation needed|date=October 2017}} . [[Jürgen Habermas|Jurgen Habermas]] theorized of [[public sphere]] (in ''[[The Structural Transformation of the Public Sphere]]'') as the space that is created whenever matters of common concern are discussed between the state and civil society. Thus, public sphere includes not only the media, but also public protest in the form of marches, demonstrations, et cetera. There are, however, critiques of political economy in whose view it is impossible to work within the current system to produce democratic publics. Such a critique is that produced by [[Karl Marx]], who saw institutions such as parliament, the state, the 'acceptable' public sphere, economic enterprises, and so on as structurally produced and perpetuated by a capitalist system, and thus they can not be mobilized to change it. In such a system, there can only be illusory justice, which is fair only within the logic of the system. This illusion of justice is produced through dominating [[ideology]].&lt;ref name=":14"&gt;{{Cite journal|title = Social Justice and Communication: Mill, Marx, and Habermas|url = https://link.springer.com/article/10.1007/s11211-009-0091-6|journal = Social Justice Research|date = 2009-02-19|issn = 0885-7466|pages = 134–155|volume = 22|issue = 1|doi = 10.1007/s11211-009-0091-6|language = en|first = Martin|last = Morris}}&lt;/ref&gt;
+
+Another issue of justice in communication studies is the question of decolonizing research methods and theoretical discourse {{Citation needed|date=October 2017}} . The idea of decolonizing research comes from a rejection of the functionalist approach, which assumed that research can be conducted in a vacuum, free of ideology or the researcher's biases. This approach assumed cultures to be unchanging, homogenous, and isolated from each other. The purpose of decolonizing research and discourse is to 'uncloak' research as an unbiased power structure, and produce research that is more self-aware. The approach in decolonizing research methods attempts to create methodologies that treat the people in the study as participants or partners, rather than subjects - which is a term that in itself carries strong connotations of colonialism. Decolonizing research also involves moving away from Eurocentric models that are assumed to work anywhere else, and instead to create work that is more useful in local contexts. Decolonial approaches specifically seek to produce knowledge about the mechanisms and effects of colonialism. These approaches allow former subjects to 'talk back', which is a reflection of independent agency, on the colonizer's own terms of research, rather than to be 'given' a voice, which is an unequal power structure.&lt;ref&gt;{{Cite journal|title = Decolonial Methodologies: Social Justice Perspectives in Intercultural Technical Communication Research|url = https://dx.doi.org/10.2190/TW.44.3.e|journal = Journal of Technical Writing and Communication|pages = 297–327|volume = 44|issue = 3|doi = 10.2190/tw.44.3.e|first = Godwin Y.|last = Agboka|year = 2014}}&lt;/ref&gt;
+
+==References==
+&lt;!--- See [[Wikipedia:Footnotes]] on how to create references using &lt;ref&gt;&lt;/ref&gt; tags which will then appear here automatically --&gt;
+{{Reflist}}
+
+==External links==
+
+=== Institutions, programs, and associations ===
+* Simon Fraser University, Communication University of China – ''[https://www.sfu.ca/communication/graduate/prospective-students/master-of-arts-double-degree.html Global Communication MA Double Degree Program]''
+* Annenberg School for Communication in University of Pennsylvania - ''[http://www.global.asc.upenn.edu Center for Global Communication Studies]''
+* Oxford University – ''[http://www.oxfordglobalmedia.com Global Media]''
+* Chinese University of Hong Kong - [http://pg.com.cuhk.edu.hk/pgp_global/ ''Master of Arts in Global Communication'']
+* LSE - [http://www.lse.ac.uk/study/graduate/taughtProgrammes2016/mscglobalmediaandcommunications.aspx ''MSc Double Degree in Global Media and Communications with Annenberg School, USC or Fudan University'']
+* Saint Petersburg State University (SPbU), Freie Universität Berlin (FU) - [http://www.polsoz.fu-berlin.de/en/kommwiss/studium/master-Global-Communication-and-International-Journalism/index.html ''Global Communication and International Journalism, Double Degree Master's Program'']
+* The George Washington University - ''[http://elliott.gwu.edu/global-communication Global Communication M.A Program]''
+* University of Washington - ''[http://www.com.washington.edu/graduate-students/areas-of-study/global-communication/ Global Communication]''
+* Brown University - ''[https://www.brown.edu/academics/college/special-programs/international-study/programs/brown-1/brown-1-cuhks-master-arts-global-communication Brown +1: CUHK's Master of Arts in Global Communication]''
+* Kennesaw State University - ''[http://www.kennesaw.edu/maigc/program.php Master of Arts in Integrated Global Communication]''
+* Utah State University - [https://www.usu.edu/degrees/index.cfm?id=247 Global Communication: BA]
+* New York University Steinhardt School - [http://steinhardt.nyu.edu/mcc/masters/studentbios/global_and_transcultural ''Global and Transcultural Communication'']
+* United Nations University(Tokyo) - [http://fgc.unu.edu/en/about#overview ''Fukushima Global Communication Program'']
+* University of Helsinki - [http://www.helsinki.fi/globalmedia/ ''Master's Degree Program in Media and Global Communication'']
+* Tilburg University - [https://www.tilburguniversity.edu/education/masters-programmes/global-communication/ ''Master of Global Communication'']
+* University of Canberra Summer Program - ''[http://www.isep.org/students/programs/canberra/ Global Communications]''
+
+{{DEFAULTSORT:Study Of Global Communication}}
+[[Category:Communication]]
+[[Category:World]]
+[[Category:Communication studies]]
+[[Category:Cultural exchange]]
+[[Category:International relations]]</text>
+      <sha1>j20uveisud0yz5dwz5b743mn38qtcou</sha1>
+    </revision>
+  </page>
+</mediawiki>

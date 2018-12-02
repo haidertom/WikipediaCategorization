@@ -22,14 +22,14 @@ def load_Testarticle(name,category):
         print("loaded Traindata",name)
         return pickle.load(f)
 #This function trains both algorithms with the same baseline
-def train_Baseline(basepath="../BigBaseline/plaindata"):
+def train_Baseline(basepath="../Baseline/1000/plaindata"):
     #Bloomfilter
     #CL.get_mfw()
     #CL.get_tfidf_1000()
     #CL.train_BL(mfw = 0, tfidf = 1)
     #CL.save_BL()
     #LSI
-    LSIs.train(basepath="../BigBaseline/plaindata")
+    LSIs.train(basepath="../Baseline/1000/plaindata")
     #Create LSI object
     pass
     #iterate over given Baseline folder -> get category baseline

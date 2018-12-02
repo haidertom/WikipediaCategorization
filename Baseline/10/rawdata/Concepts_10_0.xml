@@ -1,0 +1,1197 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Archiv für Begriffsgeschichte</title>
+    <ns>0</ns>
+    <id>28231080</id>
+    <revision>
+      <id>845729940</id>
+      <parentid>798440106</parentid>
+      <timestamp>2018-06-13T18:47:42Z</timestamp>
+      <contributor>
+        <username>Johnpacklambert</username>
+        <id>2308770</id>
+      </contributor>
+      <comment>added [[Category:1955 establishments in Germany]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1986">{{Infobox Journal
+| title        = Archiv für Begriffsgeschichte
+| cover        = 
+| editor       =
+| discipline   = [[Philosophy]]
+| language     = [[German language|German]]
+| abbreviation = Arch. Begr.
+| publisher    =
+| country      = 
+| frequency    = 
+| history      = 1955–present
+| openaccess   = 
+| impact       = 
+| impact-year  = 
+| website      = http://www.meiner.de/index.php?cPath=4_31&amp;content=recherche&amp;katseite=1
+| link1        = 
+| link1-name   = 
+| link2        = 
+| link2-name   = 
+| RSS          = 
+| atom         = 
+| JSTOR        = 
+| OCLC         = 
+| LCCN         = 
+| CODEN        = 
+| ISSN         = 0003-8946
+| eISSN        = 
+}}
+
+'''''Archiv für Begriffsgeschichte''''' (''''''Archive for Conceptual History'''''') is a German [[peer review|peer-reviewed]] [[academic journal]]. It was founded by [[Erich Rothacker]], and is published by Christian Bermes, Ulrich Dierse and Michael Erler. The editor is Annika Hand.
+
+== Themes ==
+
+The journal publishes works on concepts of the history of philosophy and sciences, both from the European and from non-European traditions, on mythological and religious concepts, and on concepts of common parlance which have a characteristic significance for a special era or culture. The journal also embraces articles on revealing metaphors, on problems at translating concepts, as well as on theory and criticism of the method of conceptual history.
+
+== See also ==
+* [[List of philosophy journals]]
+* [[History of philosophy]]
+* [[Conceptualism]]
+
+== External links ==
+* [http://www.meiner.de/index.php?cPath=4_31&amp;content=recherche&amp;katseite=1/ ''Archiv für Begriffsgeschichte''] online
+
+{{Philosophy journals}}
+
+{{DEFAULTSORT:Archiv fur Begriffsgeschichte}}
+[[Category:Philosophy journals]]
+[[Category:History of philosophy journals]]
+[[Category:German-language journals]]
+[[Category:Publications established in 1955]]
+[[Category:Conceptualism]]
+[[Category:1955 establishments in Germany]]
+
+
+
+
+{{philo-journal-stub}}</text>
+      <sha1>2vdea1ize1h3vc2p8snlg1wwmng5ma9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Canon (basic principle)</title>
+    <ns>0</ns>
+    <id>33944016</id>
+    <revision>
+      <id>864279178</id>
+      <parentid>840208673</parentid>
+      <timestamp>2018-10-16T07:52:08Z</timestamp>
+      <contributor>
+        <username>Tinton5</username>
+        <id>9806113</id>
+      </contributor>
+      <comment>stub goes to bottom</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2533">The concept of '''canon''' is very broad; in a general sense it refers to being a rule or a body of rules.
+
+There are definitions that state it as: “the body of rules, principles, or standards accepted as axiomatic and universally binding in a field of study or art”.&lt;ref&gt;{{cite web|url=http://dictionary.reference.com/browse/canon |title=Define Canon|publisher=Dictionary.reference.com|date= |accessdate=2015-04-07}}&lt;/ref&gt; This can be related to such topics as literary canons or the canons of rhetoric, which is a topic within itself that describes the rules of giving a speech. There are five key principles, and when grouped together, are the principles set for giving speeches as seen with regard to [[Rhetoric]]. This is one such example of how the term canon is used in regard to rhetoric.&lt;ref&gt;WordNet 3.1. retrieved 2011-12-03 from: [http://wordnetweb.princeton.edu/perl/webwn?s=canon&amp;sub=Search+WordNet&amp;o2=&amp;o0=1&amp;o8=1&amp;o1=1&amp;o7=&amp;o5=&amp;o9=&amp;o6=&amp;o3=&amp;o4=&amp;h= Canon Search Word.]&lt;/ref&gt;&lt;ref&gt;W.C Sayers (1915–1916) established a system of canons of classification Sayers, W.C. (1915-1916). ''Canons of classification applied to "The subject", "The expansive", "The decimal" and "The Library of Congress" classifications: A study in bibliographical classification method.'' Lindon: Grafton.&lt;/ref&gt;&lt;ref&gt;[[S. R. Ranganathan]]  developed a theory of facet analysis which he presented as a detailed series of 46 canons, 13 postulates and 22 principles.  in ''Prolegomena to library classification''. New York: Asia Publishing House. Spiteri, Louise (1998). A Simplified Model for Facet Analysis: Ranganathan 101. Canadian  Journal of Information and Library Science—Revue Canadienne des Sciences de l'Information et de Bibliotheconomie, 23(1-2), 1-30., Retrieved from:  http://iainstitute.org/en/learn/research/a_simplified_model_for_facet_analysis.php&lt;/ref&gt;&lt;ref&gt;{{cite book|last1=Toye|first1=Richard| authorlink = Richard Toye |title=Rhetoric A Very Short Introduction|date=2013|publisher=Oxford University Press|location=Oxford, United Kingdom|isbn=978-0-19-965136-8}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Canon|url=http://dictionary.reference.com/browse/canon|website=Dictionary.com|publisher=Random House, Inc.|accessdate=September 29, 2014}}&lt;/ref&gt;
+
+==See also==
+{{wiktionary|canon|canonical}}
+* [[Axiom]]
+* [[Canon (disambiguation)|Canon]]
+* [[Canon law (Catholic Church)]]
+* [[Norm (philosophy)]]
+* [[Principle]]
+* [[Rule of inference]]
+* [[Rhetoric]]
+
+==References==
+{{Reflist}}
+
+[[Category:Principles]]
+[[Category:Logic]]
+
+{{Philo-stub}}</text>
+      <sha1>tipdjo89x9s7oflc7qfrkdfnq9z6k3j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Comply or explain</title>
+    <ns>0</ns>
+    <id>29358535</id>
+    <revision>
+      <id>698814066</id>
+      <parentid>621020894</parentid>
+      <timestamp>2016-01-08T11:46:45Z</timestamp>
+      <contributor>
+        <username>FlippyFlink</username>
+        <id>11983765</id>
+      </contributor>
+      <comment>Added: [[Category:Principles]] and [[Category:Concepts]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1634">'''Comply or explain''' is a regulatory approach used in the [[United Kingdom]], [[Germany]], the [[Netherlands]] and other countries in the field of corporate governance and financial supervision. Rather than setting out binding laws, government regulators (in the UK, the [[Financial Reporting Council]], in Germany, under the [[Aktiengesetz]]) set out a code, which listed companies may either comply with, or if they do not comply, explain publicly why they do not. The [[UK Corporate Governance Code]], the [[German Corporate Governance Code]] (or Deutscher Corporate Governance Kodex) and the Dutch Corporate Governance Code 'Code Tabaksblat' ([[:nl:code-Tabaksblat]]) use this approach in setting minimum standards for companies in their [[audit]] committees, [[remuneration]] committees and recommendations for how good companies should divide authority on their boards.
+
+The purpose of "comply or explain" is to "let the market decide" whether a set of standards is appropriate for individual companies. Since a company may deviate from the standard, this approach rejects the view that "one size fits all", but because of the requirement of disclosure of explanations to market investors, anticipates that if investors do not accept a company's explanations, then investors will sell their shares, hence creating a "market sanction", rather than a legal one. The concept was first introduced after the recommendations of the [[Cadbury Report]] of 1992.
+
+==See also==
+*[[UK company law]]
+*[[German company law]]
+
+[[Category:Principles]]
+[[Category:Concepts]]
+[[Category:United Kingdom company law]]
+[[Category:Corporate law]]</text>
+      <sha1>kwtcnjmdolcrv2go4poc5yiuce4wb69</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Negative electron</title>
+    <ns>0</ns>
+    <id>22453449</id>
+    <redirect title="Electron" />
+    <revision>
+      <id>816735166</id>
+      <parentid>284414199</parentid>
+      <timestamp>2017-12-23T08:44:42Z</timestamp>
+      <contributor>
+        <username>PlanetStar</username>
+        <id>4050153</id>
+      </contributor>
+      <comment>added [[Category:Negative concepts]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="54">#REDIRECT [[Electron]]
+
+[[Category:Negative concepts]]</text>
+      <sha1>1v2xi9vtj2gk39go5m8w69ps92h7dzw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Occam's razor</title>
+    <ns>0</ns>
+    <id>36797</id>
+    <revision>
+      <id>869746753</id>
+      <parentid>869433539</parentid>
+      <timestamp>2018-11-20T03:06:53Z</timestamp>
+      <contributor>
+        <username>Humanengr</username>
+        <id>6063935</id>
+      </contributor>
+      <minor/>
+      <comment>/* Religion */ link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="79976">{{For|the aerial theatre company|Ockham's Razor Theatre Company}}
+[[File:William of Ockham - Logica 1341.jpg|thumb|William of Ockham]]
+'''Occam's razor''' (also '''Ockham's razor''' or '''Ocham's razor'''; [[Latin]]: ''lex parsimoniae'' "'''law of parsimony'''") is the problem-solving principle that the simplest solution tends to be the correct one. When presented with competing [[hypothesis|hypotheses]] to solve a problem, one should select the solution with the fewest assumptions. The idea is attributed to English [[Franciscan]] friar [[William of Ockham]] (c. 1287–1347), a scholastic philosopher and theologian.
+
+In science, Occam's razor is used as an [[Abductive reasoning|abductive]] [[heuristic]] in the development of theoretical models, rather than as a rigorous arbiter between candidate models.&lt;ref name="fn_(100)"&gt;Hugh G. Gauch, ''Scientific Method in Practice, Cambridge University Press'', 2003, {{ISBN|0-521-01708-4}}, {{ISBN|978-0-521-01708-4}}.&lt;/ref&gt;&lt;ref name="fn_(101)"&gt;{{cite journal |last1=Hoffman |first1=Roald |last2=Minkin |first2=Vladimir I. |last3=Carpenter |first3=Barry K. |title=Ockham's Razor and Chemistry |journal=International Journal for Philosophy of Chemistry |date=1997 |volume=3 |pages=3–28 |url=http://www.hyle.org/journal/issues/3/hoffman.htm |accessdate=12 July 2018}}&lt;/ref&gt; In the [[scientific method]], Occam's razor is not considered an irrefutable principle of [[logic]] or a scientific result; the preference for simplicity in the scientific method is based on the [[falsifiability]] criterion. For each accepted explanation of a phenomenon, there may be an extremely large, perhaps even incomprehensible, number of possible and more complex alternatives.  Since one can always burden failing explanations with [[ad hoc hypotheses|''ad hoc'' hypotheses]] to prevent them from being falsified, simpler theories are preferable to more complex ones because they are more [[test method|testable]].&lt;ref name="fn_(109)"&gt;{{cite book |origyear=2004 |year=2010 |author=Alan Baker |chapter=Simplicity |title=Stanford Encyclopedia of Philosophy |chapter-url=http://plato.stanford.edu/entries/simplicity/ |publisher=Stanford University |place=California |issn=1095-5054 }}&lt;/ref&gt;&lt;ref name="fn_(110)"&gt;{{cite journal |year=2008 |last1=Courtney |first1=A. |last2=Courtney |first2=M. |title=Comments Regarding 'On the Nature of Science' |arxiv=0812.4932 |journal=Physics in Canada |volume=64 |issue=3 |pages=7–8|bibcode=2008arXiv0812.4932C }}&lt;/ref&gt;&lt;ref name="fn_(114)"&gt;{{cite book |first=Elliott |last=Sober |chapter=Let's Razor Occam's Razor |pages=73–93 |editor-first=Dudley |editor-last=Knowles |title=Explanation and Its Limits |publisher=Cambridge University Press |year=1994}}&lt;/ref&gt;
+
+== History ==
+The term ''Occam's razor'' did not appear until a few centuries after [[William of Ockham]]'s death in 1347. [[Libert Froidmont]], in his ''On Christian Philosophy of the Soul'', takes credit for the phrase, speaking of "''novacula occami''".&lt;ref&gt;{{Cite book|title=Ockam's Razor: A User's Manual|last=Sober|first=Elliott|publisher=Cambridge University Press|year=2015|isbn=1107692539|location=|pages=4|quote=|via=}}&lt;/ref&gt; Ockham did not invent this principle, but the "razor"—and its association with him—may be due to the frequency and effectiveness with which he used it.&lt;ref&gt;Roger Ariew, Ockham's Razor: A Historical and Philosophical Analysis of Ockham's Principle of Parsimony, 1976&lt;/ref&gt; Ockham stated the principle in various ways, but the most popular version, "Entities are not to be multiplied without necessity" ({{lang|la|Non sunt multiplicanda entia sine necessitate}}) was formulated by the Irish [[Franciscans|Franciscan]] philosopher [[John Punch (theologian)|John Punch]] in his 1639 commentary on the works of [[Duns Scotus]].&lt;ref name="commentary"&gt;Johannes Poncius's commentary on John Duns Scotus's ''Opus Oxoniense,'' book III, dist. 34, q. 1. in John Duns Scotus ''Opera Omnia'', vol.15, Ed. Luke Wadding, Louvain (1639), reprinted Paris: Vives, (1894) p.483a&lt;/ref&gt;
+
+=== Formulations before William of Ockham ===
+[[File:Pluralitas.jpg|thumb|Part of a page from Duns Scotus' book  ''Commentaria oxoniensia ad IV libros magistri Sententiarus'', novis curis edidit p. Marianus Fernandez Garcia (1914, p. 211)': "{{lang|la|Pluralitas non est ponenda sine necessitate}}", i.e., "Plurality is not to be posited without necessity"]]
+
+The origins of what has come to be known as Occam's razor are traceable to the works of earlier philosophers such as [[John Duns Scotus]] (1265–1308), [[Robert Grosseteste]] (1175–1253), [[Maimonides]] (Moses ben-Maimon, 1138–1204), and even [[Aristotle]] (384–322&amp;nbsp;BC).&lt;ref&gt;Aristotle, ''Physics'' 189a15, ''On the Heavens'' 271a33. See also Franklin, ''op cit.'' note 44 to chap. 9.&lt;/ref&gt;&lt;ref&gt;{{cite journal | last1 = Charlesworth | first1 = M. J. | year = 1956 | title = Aristotle's Razor | url = | journal = Philosophical Studies (Ireland) | volume = 6 | issue = | pages = 105–112 | doi=10.5840/philstudies1956606}}&lt;/ref&gt; Aristotle writes in his ''[[Posterior Analytics]]'', "We may assume the superiority {{lang|la|ceteris paribus}} [other things being equal] of the demonstration which derives from fewer postulates or hypotheses."&lt;ref&gt;Wikipedians, [https://books.google.com/books?id=WIXP-3VhztgC ''Complexity and Dynamics''] {{webarchive|url=https://web.archive.org/web/20160617112734/https://books.google.com/books?id=WIXP-3VhztgC |date=17 June 2016 }} citing [[Richard McKeon]] (tr.) Aristotle's ''Posterior Analytics'' (1963) p.&amp;nbsp;150&lt;/ref&gt; [[Ptolemy]] ({{nowrap|c. AD 90 – c. AD 168}}) stated, "We consider it a good principle to explain the phenomena by the simplest hypothesis possible."&lt;ref name="Franklin"&gt;{{cite book|authorlink=James Franklin (philosopher)|first=James|last=Franklin|year= 2001|title= The Science of Conjecture: Evidence and Probability before Pascal|publisher=The Johns Hopkins University Press}} Chap 9. p.&amp;nbsp;241.&lt;/ref&gt;
+
+Phrases such as "It is vain to do with more what can be done with fewer" and "A plurality is not to be posited without necessity" were commonplace in 13th-century [[Scholasticism|scholastic]] writing.&lt;ref name="Franklin"/&gt; Robert Grosseteste, in ''Commentary on'' [Aristotle's] ''the Posterior Analytics Books'' (''Commentarius in Posteriorum Analyticorum Libros'') (c. 1217–1220), declares: "That is better and more valuable which requires fewer, other circumstances being equal... For if one thing were demonstrated from many and another thing from fewer equally known premises, clearly that is better which is from fewer because it makes us know quickly, just as a universal demonstration is better than particular because it produces knowledge from fewer premises. Similarly in natural science, in moral science, and in metaphysics the best is that which needs no premises and the better that which needs the fewer, other circumstances being equal."&lt;ref&gt;[[Alistair Cameron Crombie]], ''Robert Grosseteste and the Origins of Experimental Science 1100–1700'' (1953) pp. 85–86&lt;/ref&gt;
+
+The ''[[Summa Theologica]]'' of [[Thomas Aquinas]] (1225–1274) states that "it is superfluous to suppose that what can be accounted for by a few principles has been produced by many." Aquinas uses this principle to construct an objection to [[God's existence]], an objection that he in turn answers and refutes generally (cf. ''[[quinque viae]]''), and specifically, through an argument based on [[causality]].&lt;ref&gt;{{cite web |url=http://www.newadvent.org/summa/1002.htm#article3 |title=SUMMA THEOLOGICA: The existence of God (Prima Pars, Q. 2) |publisher=Newadvent.org |accessdate=2013-03-26 |deadurl=no |archiveurl=https://web.archive.org/web/20130428053715/http://www.newadvent.org/summa/1002.htm#article3 |archivedate=28 April 2013 |df=dmy-all }}&lt;/ref&gt; Hence, Aquinas acknowledges the principle that today is known as Occam's razor, but prefers causal explanations to other simple explanations (cf. also [[Correlation does not imply causation]]).
+
+=== William of Ockham ===
+[[William of Ockham]] (''circa'' 1287–1347) was an English Franciscan friar and [[theologian]], an influential medieval [[philosopher]] and a [[nominalist]]. His popular fame as a great logician rests chiefly on the maxim attributed to him and known as Occam's razor. The term ''razor'' refers to distinguishing between two hypotheses either by "shaving away" unnecessary assumptions or cutting apart two similar conclusions.
+
+While it has been claimed that Occam's razor is not found in any of William's writings,&lt;ref&gt;{{cite web |url=http://boingboing.net/2013/02/11/what-ockham-really-said.html |title=What Ockham really said |publisher=Boing Boing |first=Jacques |last=Vallee |date=2013-02-11 |accessdate=2013-03-26 |deadurl=no |archiveurl=https://web.archive.org/web/20130331171919/http://boingboing.net/2013/02/11/what-ockham-really-said.html |archivedate=31 March 2013 |df=dmy-all }}&lt;/ref&gt; one can cite statements such as {{Lang|la|Numquam ponenda est pluralitas sine necessitate}}[https://en.wikiquote.org/wiki/William%20of%20Occam] ("Plurality must never be posited without necessity"), which occurs in his theological work on the [[The Four Books of Sentences|''Sentences of Peter Lombard'']] (''Quaestiones et decisiones in quattuor libros Sententiarum Petri Lombardi''; ed. Lugd., 1495, i, dist. 27, qu. 2, K).
+
+Nevertheless, the precise words sometimes attributed to William of Ockham, {{lang|la|Entia non sunt multiplicanda praeter necessitatem}} (Entities must not be multiplied beyond necessity),&lt;ref&gt;{{cite book |last=Bauer |first=Laurie |year=2007 |title=The linguistics Student's Handbook |location=Edinburgh |publisher= Edinburgh University Press}} p. 155.&lt;/ref&gt; are absent in his extant works;&lt;ref&gt;{{cite book |last=Flew |first=Antony |author-link= Antony Flew |year=1979 |title=A Dictionary of Philosophy |location=London |publisher=Pan Books}} p. 253.&lt;/ref&gt; this particular phrasing comes from [[John Punch (theologian)|John Punch]],&lt;ref&gt;[[Alistair Cameron Crombie|Crombie, Alistair Cameron]] (1959), ''Medieval and Early Modern Philosophy'', Cambridge, MA: Harvard, Vol. 2, p. 30.&lt;/ref&gt; who described the principle as a "common axiom" (''axioma vulgare'') of the Scholastics.&lt;ref name="commentary"/&gt; William of Ockham's contribution seems to restrict the operation of this principle in matters pertaining to miracles and God's power; so, in the [[Eucharist]], a plurality of miracles is possible, simply because it pleases God.&lt;ref name="Franklin"/&gt;
+
+This principle is sometimes phrased as {{lang|la|Pluralitas non est ponenda sine necessitate}} ("Plurality should not be posited without necessity").&lt;ref name="Britannica"&gt;{{cite web |url=http://www.britannica.com/EBchecked/topic/424706/Ockhams-razor |title=Ockham's razor |year=2010 |work=Encyclopædia Britannica |publisher=Encyclopædia Britannica Online |accessdate=12 June 2010 |deadurl=no |archiveurl=https://web.archive.org/web/20100823154602/http://www.britannica.com/EBchecked/topic/424706/Ockhams-razor |archivedate=23 August 2010 |df=dmy-all }}&lt;/ref&gt; In his ''Summa Totius Logicae'', i. 12, William of Ockham cites the principle of economy, {{lang|la|Frustra fit per plura quod potest fieri per pauciora}} ("It is futile to do with more things that which can be done with fewer"; Thorburn, 1918, pp.&amp;nbsp;352–53; [[William Kneale (logician)|Kneale]] and Kneale, 1962, p.&amp;nbsp;243.)
+
+=== Later formulations ===
+To quote [[Isaac Newton]], "We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances. Therefore, to the same natural effects we must, as far as possible, assign the same causes."&lt;ref name="Hawking"&gt;{{Cite book|title=On the Shoulders of Giants|first=Stephen |last=Hawking|authorlink=Stephen Hawking|url=https://books.google.com/?id=0eRZr_HK0LgC&amp;pg=PA731|page=731|isbn=0-7624-1698-X|year=2003|publisher=Running Press|accessdate=2016-02-24}}&lt;/ref&gt;&lt;ref&gt;Primary source: {{harvtxt|Newton|2011|p=387}} wrote the following two "philosophizing rules" at the beginning of part&amp;nbsp;3 of the [[Philosophiæ Naturalis Principia Mathematica|Principia]] 1726 edition.
+
+: Regula I. Causas rerum naturalium non plures admitti debere, quam quæ &amp; veræ sint &amp; earum phænomenis explicandis sufficient.
+: Regula II. Ideoque effectuum naturalium ejusdem generis eædem assignandæ sunt causæ, quatenus fieri potest.&lt;/ref&gt;
+
+[[Bertrand Russell]] offers a particular version of Occam's razor: "Whenever possible, substitute constructions out of known entities for inferences to unknown entities."&lt;ref&gt;{{cite web|url=http://plato.stanford.edu/entries/logical-construction/|title=Logical Constructions|publisher=}}&lt;/ref&gt;
+
+Around 1960, [[Ray Solomonoff]] founded the [[Solomonoff's theory of inductive inference|theory of universal inductive inference]], the theory of prediction based on observations; for example, predicting the next symbol based upon a given series of symbols. The only assumption is that the environment follows some unknown but computable probability distribution. This theory is a mathematical formalization of Occam's razor.&lt;ref name="ReferenceA"&gt;Induction: From Kolmogorov and Solomonoff to De Finetti and Back to Kolmogorov JJ McCall – Metroeconomica, 2004 – Wiley Online Library.&lt;/ref&gt;&lt;ref name="ReferenceB"&gt;{{cite journal|first=A. N.|last=Soklakov|title=Occam's Razor as a formal basis for a physical theory|year=2002|journal=Foundations of Physics Letters|volume=15|issue=2|pages=107 | arxiv=math-ph/0009007|bibcode=2000math.ph...9007S |doi=10.1023/A:1020994407185}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|first1=Samuel |last1=Rathmanner|first2=Marcus |last2=Hutter| authorlink2=Marcus Hutter| title=A philosophical treatise of universal induction|journal=Entropy|volume=13| issue=6|pages=1076–1136|year=2011| arxiv=1105.5721| doi=10.3390/e13061076|bibcode=2011Entrp..13.1076R}}&lt;/ref&gt;
+
+Another technical approach to Occam's razor is [[Ontological commitment#Ontological parsimony|ontological parsimony]].&lt;ref name=Baker&gt;
+{{cite web |last=Baker |first=Alan |title=Simplicity |work=The Stanford Encyclopedia of Philosophy (Summer 2011 Edition) |editor-first=Edward N. |editor-last=Zalta |url=http://plato.stanford.edu/archives/sum2011/entries/simplicity/#OntPar |date=February 25, 2010}}&lt;/ref&gt; Parsimony means spareness and is also referred to as the Rule of Simplicity. This is considered a strong version of Occam's razor.&lt;ref name="math.ucr.edu"&gt;{{cite web|url=http://math.ucr.edu/home/baez/physics/General/occam.html|title=What is Occam's Razor?|website=math.ucr.edu|deadurl=no|archiveurl=https://web.archive.org/web/20170706234202/http://math.ucr.edu/home/baez/physics/General/occam.html|archivedate=6 July 2017|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite book |title=Everywhere The Soles of Your Feet Shall Tread |url=https://books.google.com/books?id=shdlDQAAQBAJ&amp;pg=PT30 |author=Stormy Dawn |date=17 July 2017 |isbn=9781480838024 }}&lt;/ref&gt; A variation used in medicine is called the "[[Zebra (medicine)|Zebra]]": a doctor should reject an exotic medical diagnosis when a more commonplace explanation is more likely, derived from [[Theodore Woodward]]'s dictum "When you hear hoofbeats, think of horses not zebras".&lt;ref&gt;{{cite book |last=Sotos |first=John G. |year=2006 |origyear=1991 |title=Zebra Cards: An Aid to Obscure Diagnoses |location=Mt. Vernon, VA |publisher=Mt. Vernon Book Systems |isbn=978-0-9818193-0-3}}&lt;/ref&gt;
+
+[[Ernst Mach]] formulated the stronger version of Occam's razor into [[physics]], which he called the Principle of Economy stating: "Scientists must use the simplest means of arriving at their results and exclude everything not perceived by the senses."&lt;ref&gt;{{cite journal |title=The Philosophical Views of Ernst Mach |first=Erich |last=Becher |journal=The Philosophical Review |volume=14 |issue=5 |year=1905 |pages=535–562 |doi=10.2307/2177489 |jstor=2177489}}&lt;/ref&gt;
+
+This principle goes back at least as far as Aristotle, who wrote "Nature operates in the shortest way possible."&lt;ref name="math.ucr.edu"/&gt; The idea of parsimony or simplicity in deciding between theories, though not the intent of the original expression of Occam's razor, has been assimilated into our culture as the widespread layman's formulation that "the simplest explanation is usually the correct one."&lt;ref name="math.ucr.edu"/&gt;
+
+== Justifications ==
+
+=== Aesthetic ===
+Prior to the 20th century, it was a commonly held belief that nature itself was simple and that simpler hypotheses about nature were thus more likely to be true. This notion was deeply rooted in the aesthetic value that simplicity holds for human thought and the justifications presented for it often drew from [[theology]]. [[Thomas Aquinas]] made this argument in the 13th century, writing, "If a thing can be done adequately by means of one, it is superfluous to do it by means of several; for we observe that nature does not employ two instruments [if] one suffices."&lt;ref&gt;Pegis 1945.&lt;/ref&gt;
+
+Beginning in the 20th century, [[epistemology|epistemological]] justifications based on [[Inductive reasoning|induction]], [[logic]], [[pragmatism]], and especially [[probability theory]] have become more popular among philosophers.{{Who|date=July 2014}}
+
+=== Empirical ===
+Occam's razor has gained strong empirical support in helping to converge on better theories (see "Applications" section below for some examples).
+
+In the related concept of [[overfitting]], excessively complex models are affected by [[statistical noise]] (a problem also known as the bias-variance trade-off), whereas simpler models may capture the underlying structure better and may thus have better [[predictive inference|predictive]] performance. It is, however, often difficult to deduce which part of the data is noise (cf. [[model selection]], [[test set]], [[minimum description length]], [[Bayesian inference]], etc.).
+
+==== Testing the razor ====
+The razor's statement that "other things being equal, simpler explanations are generally better than more complex ones" is amenable to empirical testing. Another interpretation of the razor's statement would be that "simpler hypotheses are generally better than the complex ones". The procedure to test the former interpretation would compare the track records of simple and comparatively complex explanations. If one accepts the first interpretation, the validity of Occam's razor as a tool would then have to be rejected if the more complex explanations were more often correct than the less complex ones (while the converse would lend support to its use). If the latter interpretation is accepted, the validity of Occam's razor as a tool could possibly be accepted if the simpler hypotheses led to correct conclusions more often than not.
+
+[[File:Leprechaun or Clurichaun.png|thumb|Possible explanations can become needlessly complex. It is coherent, for instance, to add the involvement of [[leprechaun]]s to any explanation, but Occam's razor would prevent such additions unless they were necessary.]]
+
+Some increases in complexity are sometimes necessary. So there remains a justified general bias toward the simpler of two competing explanations. To understand why, consider that for each accepted explanation of a phenomenon, there is always an infinite number of possible, more complex, and ultimately incorrect, alternatives. This is so because one can always burden a failing explanation with an [[ad hoc hypothesis]]. Ad hoc hypotheses are justifications that prevent theories from being falsified. Even other empirical criteria, such as [[consilience]], can never truly eliminate such explanations as competition. Each true explanation, then, may have had many alternatives that were simpler and false, but also an infinite number of alternatives that were more complex and false. But if an alternative ad hoc hypothesis were indeed justifiable, its implicit conclusions would be empirically verifiable. On a commonly accepted repeatability principle, these alternative theories have never been observed and continue to escape observation.{{clarify|date=September 2017}} In addition, one does not say an explanation is true if it has not withstood this principle.
+
+Put another way, any new, and even more complex, theory can still possibly be true. For example, if an individual makes [[supernatural]] claims that [[leprechauns]] were responsible for breaking a vase, the simpler explanation would be that he is mistaken, but ongoing ad hoc justifications (e.g. "... and that's not me on the film; they tampered with that, too") successfully prevent outright falsification. This endless supply of elaborate competing explanations, called [[saving hypothesis|saving hypotheses]], cannot be ruled out—except by using Occam's razor.&lt;ref name=Stanovich2007&gt;Stanovich, Keith E. (2007). ''How to Think Straight About Psychology''. Boston: Pearson Education, pp. 19–33.&lt;/ref&gt;&lt;ref&gt;[http://skepdic.com/adhoc.html Carroll, Robert T. "Ad hoc hypothesis." ''The Skeptic's Dictionary''. 22 June 2008.] {{webarchive|url=https://web.archive.org/web/20090427010136/http://www.skepdic.com/adhoc.html |date=27 April 2009 }}&lt;/ref&gt;&lt;ref&gt;Swinburne 1997 and Williams, Gareth T, 2008.&lt;/ref&gt; A study of the predictive validity of Occam's razor found 32 published papers that included 97 comparisons of economic forecasts from simple and complex forecasting methods. None of the papers provided a balance of evidence that complexity of method improved forecast accuracy. In the 25 papers with quantitative comparisons, complexity increased forecast errors by an average of 27 percent.&lt;ref&gt;{{cite journal | last1 = Green | first1 = K. C. | last2 = Armstrong | first2 = J. S. | year = 2015 | title = Simple versus complex forecasting: The evidence | doi = 10.1016/j.jbusres.2015.03.026 | journal = Journal of Business Research | volume = 68| issue = 8| pages = 1678–1685 }} {{paywall}}&lt;/ref&gt;
+
+=== Practical considerations and pragmatism ===
+{{See also|Pragmatism|Problem of Induction}}
+
+=== Mathematical ===
+One justification of Occam's razor is a direct result of basic [[probability theory]]. By definition, all assumptions introduce possibilities for error; if an assumption does not improve the accuracy of a theory, its only effect is to increase the probability that the overall theory is wrong.
+
+There have also been other attempts to derive Occam's razor from probability theory, including notable attempts made by [[Harold Jeffreys]] and [[Edwin Thompson Jaynes|E. T. Jaynes]]. The probabilistic (Bayesian) basis for Occam's razor is elaborated by [[David J. C. MacKay]] in chapter 28 of his book ''Information Theory, Inference, and Learning Algorithms'',&lt;ref&gt;{{cite web | title=Information Theory, Inference, and Learning Algorithms | url=http://www.inference.phy.cam.ac.uk/itprnn/book.pdf | deadurl=no | archiveurl=https://web.archive.org/web/20120915043535/http://www.inference.phy.cam.ac.uk/itprnn/book.pdf | archivedate=15 September 2012 | df=dmy-all }}&lt;/ref&gt; where he emphasizes that a prior bias in favour of simpler models is not required.
+
+[[William H. Jefferys]] and [[James Berger (statistician)|James O. Berger]] (1991) generalize and quantify the original formulation's "assumptions" concept as the degree to which a proposition is unnecessarily accommodating to possible observable data.&lt;ref name="Jefferys"&gt;{{cite journal|last=Jefferys|first=William H.|last2=Berger |first2=James O.|title=Ockham's Razor and Bayesian Statistics |journal=[[American Scientist]]|year=1991|volume=80|issue=1|pages=64–72|jstor=29774559|url=http://quasar.as.utexas.edu/papers/ockham.pdf|deadurl=no|archiveurl=https://web.archive.org/web/20050304065538/http://quasar.as.utexas.edu/papers/ockham.pdf|archivedate=4 March 2005|df=dmy-all}} (preprint available as "Sharpening Occam's Razor on a Bayesian Strop").&lt;/ref&gt; They state, "A hypothesis with fewer adjustable parameters will automatically have an enhanced posterior probability, due to the fact that the predictions it makes are sharp."&lt;ref name="Jefferys" /&gt; The model they propose balances the precision of a theory's predictions against their sharpness{{vague|date=September 2016}}—preferring theories that sharply{{vague|date=September 2016}} make correct predictions over theories that accommodate a wide range of other possible results. This, again, reflects the mathematical relationship between key concepts in [[Bayesian inference]] (namely [[marginal probability]], [[conditional probability]], and [[posterior probability]]).
+
+The [[bias–variance tradeoff]] is a framework that incorporates the Occam's razor principal in its balance between overfitting (i.e. variance minimization) and underfitting (i.e. bias minimization).&lt;ref&gt;{{cite book |last1=Spall |first1=James C. |title=Introduction to Stochastic Search and Optimization: Estimation, Simulation, and Control |date=11 March 2005 |publisher=John Wiley &amp; Sons |isbn=9780471441908 |pages=330–331 }}&lt;/ref&gt;
+
+=== Other philosophers ===
+
+==== Karl Popper ====
+[[Karl Popper]] argues that a preference for simple theories need not appeal to practical or aesthetic considerations. Our preference for simplicity may be justified by its [[falsifiability]] criterion: we prefer simpler theories to more complex ones "because their empirical content is greater; and because they are better testable" (Popper 1992). The idea here is that a simple theory applies to more cases than a more complex one, and is thus more easily falsifiable. This is again comparing a simple theory to a more complex theory where both explain the data equally well.
+
+==== Elliott Sober ====
+The philosopher of science [[Elliott Sober]] once argued along the same lines as Popper, tying simplicity with "informativeness": The simplest theory is the more informative, in the sense that it requires less information to a question.&lt;ref name=Sober975&gt;{{Cite book |last=Sober |first=Elliott |authorlink=Elliott Sober |year=1975 |title=Simplicity |location=Oxford |publisher=[[Clarendon Press]] |isbn=978-0-19-824407-3}}&lt;/ref&gt; He has since rejected this account of simplicity, purportedly because it fails to provide an [[epistemology|epistemic]] justification for simplicity. He now believes that simplicity considerations (and considerations of parsimony in particular) do not count unless they reflect something more fundamental. Philosophers, he suggests, may have made the error of hypostatizing simplicity (i.e., endowed it with a ''[[sui generis]]'' existence), when it has meaning only when embedded in a specific context (Sober 1992). If we fail to justify simplicity considerations on the basis of the context in which we use them, we may have no non-circular justification: "Just as the question 'why be rational?' may have no non-circular answer, the same may be true of the question 'why should simplicity be considered in evaluating the plausibility of hypotheses?'"&lt;ref name=Sober2002&gt;{{Cite book |last=Sober |first=Elliott |year=2004 |title=Simplicity, Inference and Modeling: Keeping it Sophisticatedly Simple |editor1-first=Arnold |editor1-last=Zellner |editor2-first=Hugo A. |editor2-last=Keuzenkamp |editor2-link=Hugo A. Keuzenkamp |editor3-first=Michael |editor3-last=McAleer |url=https://books.google.com/?id=-YdbBN-O-JAC&amp;printsec=frontcover&amp;dq=zellner+simplicity |chapter-url=https://books.google.com/books?id=J_CDXu24qZUC&amp;pg=RA1-PA13&amp;lpg=RA1-PA13&amp;dq=sober+rival+hypotheses&amp;source=bl&amp;ots=RE5JV8dLeZ&amp;sig=wuW-OJY6w-1MXAwGLjbV_r3mLeU&amp;hl=en&amp;sa=X&amp;ei=CSUdUNaMFaehiAepuIA4&amp;sqi=2&amp;ved=0CDoQ6AEwAg |chapter=What is the Problem of Simplicity? |pages=13–31 |place=Cambridge, U.K.|publisher=Cambridge University Press |isbn=0-521-80361-6 |postscript=&amp;nbsp;&amp;nbsp;{{ISBN|0-511-00748-5}} (eBook [Adobe Reader])|accessdate=4 August 2012}} [https://web.archive.org/web/20060901082031/http://philosophy.wisc.edu/sober/TILBURG.pdf paper as pdf]&lt;/ref&gt;
+
+==== Richard Swinburne ====
+
+[[Richard Swinburne]] argues for simplicity on logical grounds:
+
+{{quote|... the simplest hypothesis proposed as an explanation of phenomena is more likely to be the true one than is any other available hypothesis, that its predictions are more likely to be true than those of any other available hypothesis, and that it is an ultimate ''a priori'' epistemic principle that simplicity is evidence for truth.|Swinburne 1997}}
+
+According to Swinburne, since our choice of theory cannot be determined by data (see [[Underdetermination]] and [[Duhem-Quine thesis]]), we must rely on some criterion to determine which theory to use. Since it is absurd to have no logical method for settling on one hypothesis amongst an infinite number of equally data-compliant hypotheses, we should choose the simplest theory: "Either science is irrational [in the way it judges theories and predictions probable] or the principle of simplicity is a fundamental synthetic a priori truth." (Swinburne 1997).
+
+==== Ludwig Wittgenstein ====
+From the ''[[Tractatus Logico-Philosophicus]]'':
+
+* 3.328 "If a sign is not necessary then it is meaningless. That is the meaning of Occam's Razor."
+: (If everything in the symbolism works as though a sign had meaning, then it has meaning.)
+* 4.04 "In the proposition there must be exactly as many things distinguishable as there are in the state of affairs, which it represents. They must both possess the same logical (mathematical) multiplicity (cf. Hertz's Mechanics, on Dynamic Models)."
+* 5.47321 "Occam's Razor is, of course, not an arbitrary rule nor one justified by its practical success. It simply says that unnecessary elements in a symbolism mean nothing. Signs which serve one purpose are logically equivalent; signs which serve no purpose are logically meaningless."
+
+and on the related concept of "simplicity":
+
+* 6.363 "The procedure of induction consists in accepting as true the simplest law that can be reconciled with our experiences."
+
+== Applications ==
+
+=== Science and the scientific method ===
+[[File:Heliocentric.jpg|thumb|250px|right|[[Andreas Cellarius]]'s illustration of the Copernican system, from the ''[[Harmonia Macrocosmica]]'' (1660). Future positions of the sun, moon and other solar system bodies can be calculated using a [[Geocentrism|geocentric]] model (the earth is at the centre) or using a [[Heliocentrism#The view of modern science|heliocentric model]] (the sun is at the centre). Both work, but the geocentric model arrives at the same conclusions through a much more complex system of calculations than the heliocentric model. This was pointed out in a preface to [[Copernicus]]' first edition of ''[[De revolutionibus orbium coelestium]]''.]]
+In [[science]], Occam's razor is used as a [[heuristic]] to guide scientists in developing theoretical models rather than as an arbiter between published models.&lt;ref name="fn_(100)"/&gt;&lt;ref name="fn_(101)"/&gt; In [[physics]], parsimony was an important heuristic in [[Albert Einstein]]'s formulation of [[special relativity]],&lt;ref name="fn_(102)"&gt;{{cite journal |language=German |first=Albert |last=Einstein |authorlink=Albert Einstein |title=Does the Inertia of a Body Depend Upon Its Energy Content? |journal=Annalen der Physik |pages=639–41 |year=1905 |issue=18}}&lt;/ref&gt;&lt;ref name="fn_(103)"&gt;L. Nash, The Nature of the Natural Sciences, Boston: Little, Brown (1963).&lt;/ref&gt; in the development and application of the [[principle of least action]] by [[Pierre Louis Maupertuis]] and [[Leonhard Euler]],&lt;ref name="fn_(104)"&gt;{{cite journal |language=French |first=P. L. M. |last=de Maupertuis |title=Mémoires de l'Académie Royale |page=423 |year=1744}}&lt;/ref&gt; and in the development of [[quantum mechanics]] by [[Max Planck]], [[Werner Heisenberg]] and [[Louis de Broglie]].&lt;ref name="fn_(101)"/&gt;&lt;ref name="fn_(105)"&gt;{{cite journal |language=French |first=L. |last=de Broglie |title=Annales de Physique |pages=22–128 |year=1925 |issue=3/10}}&lt;/ref&gt;
+
+In [[chemistry]], Occam's razor is often an important heuristic when developing a model of a [[reaction mechanism]].&lt;ref name="fn_(107)"&gt;RA Jackson, Mechanism: An Introduction to the Study of Organic Reactions, Clarendon, Oxford, 1972.&lt;/ref&gt;&lt;ref name="fn_(108)"&gt;Carpenter, B. K. (1984). ''Determination of Organic Reaction Mechanism'', New York: Wiley-Interscience.&lt;/ref&gt; Although it is useful as a heuristic in developing models of reaction mechanisms, it has been shown to fail as a criterion for selecting among some selected published models.&lt;ref name="fn_(101)"/&gt; In this context, Einstein himself expressed caution when he formulated Einstein's Constraint: "It can scarcely be denied that the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience".&lt;!-- ref: "On the Method of Theoretical Physics" The Herbert Spencer Lecture, delivered at Oxford (10 June 1933); also published in ''Philosophy of Science'', Vol. 1, No. 2 (April 1934), pp. 163–169., p. 165. --&gt; An often-quoted version of this constraint (which cannot be verified as posited by Einstein himself)&lt;ref&gt;{{cite web|url=http://quoteinvestigator.com/2011/05/13/einstein-simple/|title=Everything Should Be Made as Simple as Possible, But Not Simpler|publisher=|deadurl=no|archiveurl=https://web.archive.org/web/20120529075018/http://quoteinvestigator.com/2011/05/13/einstein-simple/|archivedate=29 May 2012|df=dmy-all}}&lt;/ref&gt; says "Everything should be kept as simple as possible, but not simpler."
+
+In the scientific method, parsimony is an [[epistemological]], [[Metaphysics|metaphysical]] or [[heuristic]] preference, not an irrefutable principle of [[logic]] or a scientific result.&lt;ref name="fn_(109)"/&gt;&lt;ref name="fn_(110)"/&gt;&lt;ref name="fn_(114)" /&gt; As a logical principle, Occam's razor would demand that scientists accept the simplest possible theoretical explanation for existing data. However, science has shown repeatedly that future data often support more complex theories than do existing data. Science prefers the simplest explanation that is consistent with the data available at a given time, but the simplest explanation may be ruled out as new data become available.&lt;ref name="fn_(100)"/&gt;&lt;ref name="fn_(110)"/&gt; That is, science is open to the possibility that future experiments might support more complex theories than demanded by current data and is more interested in designing experiments to discriminate between competing theories than favoring one theory over another based merely on philosophical principles.&lt;ref name="fn_(109)"/&gt;&lt;ref name="fn_(110)"/&gt;&lt;ref name="fn_(114)" /&gt;
+
+When scientists use the idea of parsimony, it has meaning only in a very specific context of inquiry. Several background assumptions are required for parsimony to connect with plausibility in a particular research problem. The reasonableness of parsimony in one research context may have nothing to do with its reasonableness in another. It is a mistake to think that there is a single global principle that spans diverse subject matter.&lt;ref name="fn_(114)" /&gt;
+
+It has been suggested that Occam's razor is a widely accepted example of extraevidential consideration, even though it is entirely a metaphysical assumption. There is little [[empirical evidence]] that the world is actually simple or that simple accounts are more likely to be true than complex ones.&lt;ref name="fn_(120)"&gt;{{cite journal |date=4 February 1994 |author1=Naomi Oreskes |author2=Kristin Shrader-Frechette |author3=Kenneth Belitz |title=Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences |journal=Science |volume=263 |pages=641–646 |url=http://www.nssl.noaa.gov/users/brooks/public_html/feda/papers/Oreskes1.pdf |postscript=&amp;nbsp;&amp;nbsp;see note 25 |issue=5147 |bibcode=1994Sci...263..641O |doi=10.1126/science.263.5147.641 |pmid=17747657 |deadurl=no |archiveurl=https://web.archive.org/web/20130502042408/http://www.nssl.noaa.gov/users/brooks/public_html/feda/papers/Oreskes1.pdf |archivedate=2 May 2013 |df=dmy-all }}&lt;/ref&gt;
+
+Most of the time, Occam's razor is a conservative tool, cutting out "crazy, complicated constructions" and assuring "that hypotheses are grounded in the science of the day", thus yielding "normal" science: models of explanation and prediction.&lt;ref name="fn_(101)" /&gt; There are, however, notable exceptions where Occam's razor turns a conservative scientist into a reluctant revolutionary. For example, [[Max Planck]] interpolated between the [[Wien approximation|Wien]] and [[Rayleigh–Jeans law|Jeans]] radiation laws and used Occam's razor logic to formulate the quantum hypothesis, even resisting that hypothesis as it became more obvious that it was correct.&lt;ref name="fn_(101)"/&gt;
+
+Appeals to simplicity were used to argue against the phenomena of meteorites, [[ball lightning]], [[continental drift]], and [[reverse transcriptase]]{{fact|date=August 2018}}. One can argue for atomic building blocks for matter, because it provides a simpler explanation for the observed reversibility of both mixing and chemical reactions as simple separation and rearrangements of atomic building blocks. At the time, however, the [[atomic theory]] was considered more complex because it implied the existence of invisible particles that had not been directly detected. [[Ernst Mach]] and the logical positivists rejected [[John Dalton]]'s [[atomic theory]] until the reality of atoms was more evident in [[Brownian motion]], as shown by [[Albert Einstein]].&lt;ref name=Pojman2009&gt;{{cite book |year=2009 |author=Paul Pojman |chapter=Ernst Mach |title=The Stanford Encyclopedia of Philosophy |chapter-url=http://plato.stanford.edu/entries/ernst-mach/ |place=California |publisher=Stanford University |issn=1095-5054 }}&lt;/ref&gt;
+
+In the same way, postulating the [[Luminiferous aether|aether]] is more complex than transmission of light through a [[vacuum]]. At the time, however, all known waves propagated through a physical medium, and it seemed simpler to postulate the existence of a medium than to theorize about wave propagation without a medium. Likewise, Newton's idea of light particles seemed simpler than Christiaan Huygens's idea of waves, so many favored it. In this case, as it turned out, neither the wave—nor the particle—explanation alone suffices, as [[wave–particle duality|light behaves like waves and like particles]].
+
+Three axioms presupposed by the scientific method are realism (the existence of objective reality), the existence of natural laws, and the constancy of natural law. Rather than depend on provability of these axioms, science depends on the fact that they have not been objectively falsified. Occam's razor and parsimony support, but do not prove, these axioms of science. The general principle of science is that theories (or models) of natural law must be consistent with repeatable experimental observations. This ultimate arbiter (selection criterion) rests upon the axioms mentioned above.&lt;ref name="fn_(110)"/&gt;
+
+There are examples where Occam's razor would have favored the wrong theory given the available data. Simplicity principles are useful philosophical preferences for choosing a more likely theory from among several possibilities that are all consistent with available data. A single instance of Occam's razor favoring a wrong theory falsifies the razor as a general principle.&lt;ref name="fn_(110)"/&gt; Michael Lee and others&lt;ref&gt;{{cite journal | last1 = Lee | first1 = M. S. Y. | year = 2002 | title = Divergent evolution, hierarchy and cladistics | url = | journal = [[Zoologica Scripta|Zool. Scripta]] | volume = 31 | issue = 2| pages = 217–219 | doi = 10.1046/j.1463-6409.2002.00101.x }} {{paywall}}&lt;/ref&gt; provide cases in which a parsimonious approach does not guarantee a correct conclusion and, if based on incorrect working hypotheses or interpretations of incomplete data, may even strongly support a false conclusion.
+
+If multiple models of natural law make exactly the same testable predictions, they are equivalent and there is no need for parsimony to choose a preferred one. For example, Newtonian, Hamiltonian and Lagrangian classical mechanics are equivalent. Physicists have no interest in using Occam's razor to say the other two are wrong. Likewise, there is no demand for simplicity principles to arbitrate between wave and matrix formulations of quantum mechanics. Science often does not demand arbitration or selection criteria between models that make the same testable predictions.&lt;ref name="fn_(110)"/&gt;
+
+=== Biology ===
+Biologists or philosophers of biology use Occam's razor in either of two contexts both in [[evolution|evolutionary biology]]: the units of selection controversy and [[systematics]]. [[George C. Williams (biologist)|George C. Williams]] in his book ''[[Adaptation and Natural Selection]]'' (1966) argues that the best way to explain [[altruism]] among animals is based on low-level (i.e., individual) selection as opposed to high-level group selection. Altruism is defined by some evolutionary biologists (e.g., R. Alexander, 1987; W. D. Hamilton, 1964) as behavior that is beneficial to others (or to the group) at a cost to the individual, and many posit individual selection as the mechanism that explains altruism solely in terms of the behaviors of individual organisms acting in their own self-interest (or in the interest of their genes, via kin selection). Williams was arguing against the perspective of others who propose selection at the level of the group as an evolutionary mechanism that selects for altruistic traits (e.g., D. S. Wilson &amp; E. O. Wilson, 2007). The basis for Williams' contention is that of the two, individual selection is the more parsimonious theory. In doing so he is invoking a variant of Occam's razor known as [[Morgan's Canon]]: "In no case is an animal activity to be interpreted in terms of higher psychological processes, if it can be fairly interpreted in terms of processes which stand lower in the scale of psychological evolution and development." (Morgan 1903).
+
+However, more recent biological analyses, such as [[Richard Dawkins]]' ''[[The Selfish Gene]]'', have contended that Morgan's Canon is not the simplest and most basic explanation. Dawkins argues the way evolution works is that the genes propagated in most copies end up determining the development of that particular species, i.e., natural selection turns out to select specific genes, and this is really the fundamental underlying principle that automatically gives individual and group selection as [[Emergent evolution|emergent]] features of evolution.
+
+[[Zoology]] provides an example. [[Muskox]]en, when threatened by [[Gray wolf|wolves]], form a circle with the males on the outside and the females and young on the inside. This is an example of a behavior by the males that seems to be altruistic. The behavior is disadvantageous to them individually but beneficial to the group as a whole and was thus seen by some to support the group selection theory.  Another interpretation is kin selection: if the males are protecting their offspring, they are protecting copies of their own alleles.  Engaging in this behavior would be favored by individual selection if the cost to the male musk ox is less than half of the benefit received by his calf – which could easily be the case if wolves have an easier time killing calves than adult males.  It could also be the case that male musk oxen would be individually less likely to be killed by wolves if they stood in a circle with their horns pointing out, regardless of whether they were protecting the females and offspring.  That would be an example of regular natural selection – a phenomenon called "the selfish herd".
+
+[[Systematics]] is the branch of [[biology]] that attempts to establish patterns of genealogical relationship among biological taxa. It is also concerned with their classification. There are three primary camps in systematics: cladists, pheneticists, and evolutionary taxonomists. The cladists hold that [[genealogy]] alone should determine classification, pheneticists contend that overall similarity is the determining criterion, while evolutionary taxonomists say that both genealogy and similarity count in classification.&lt;ref&gt;{{cite book|last1=Sober|first1=Elliot|title=Reconstructing the Past: Parsimony, Evolution, and Inference|date=1998|publisher=The MIT Press|location=Massachusetts Institute of Technology|isbn=0-262-69144-2|page=7|edition=2nd}}&lt;/ref&gt;
+
+It is among the cladists that Occam's razor is to be found, although their term for it is ''cladistic parsimony''. Cladistic parsimony (or [[maximum parsimony]]) is a method of phylogenetic inference in the construction of types of [[phylogenetic trees]] (more specifically, cladograms). [[Cladistics|Cladograms]] are branching, tree-like structures used to represent hypotheses of relative degree of relationship, based on shared, derived character states. Cladistic parsimony is used to select as the preferred hypothesis of relationships the cladogram that requires the fewest implied character state transformations. Critics of the cladistic approach often observe that for some types of tree, parsimony consistently produces the wrong results, regardless of how much data is collected (this is called statistical inconsistency, or [[long branch attraction]]). However, this criticism is also potentially true for any type of phylogenetic inference, unless the model used to estimate the tree reflects the way that evolution actually happened.  Because this information is not empirically accessible, the criticism of statistical inconsistency against parsimony holds no force.&lt;ref&gt;Brower, AVZ. 2017.  Statistical consistency and phylogenetic inference: a brief review.  Cladistics. (early view:  {{DOI|10.1111/cla.12216}})&lt;/ref&gt;  For a book-length treatment of cladistic parsimony, see [[Elliott Sober]]'s ''Reconstructing the Past: Parsimony, Evolution, and Inference'' (1988). For a discussion of both uses of Occam's razor in biology, see Sober's article "Let's Razor Ockham's Razor" (1990).
+
+Other methods for inferring evolutionary relationships use parsimony in a more traditional way. [[Likelihood function|Likelihood]] methods for phylogeny use parsimony as they do for all likelihood tests, with hypotheses requiring few differing parameters (i.e., numbers of different rates of character change or different frequencies of character state transitions) being treated as null hypotheses relative to hypotheses requiring many differing parameters. Thus, complex hypotheses must predict data much better than do simple hypotheses before researchers reject the simple hypotheses. Recent advances employ [[information theory]], a close cousin of likelihood, which uses Occam's razor in the same way.
+
+[[Francis Crick]] has commented on potential limitations of Occam's razor in biology. He advances the argument that because biological systems are the products of (an ongoing) natural selection, the mechanisms are not necessarily optimal in an obvious sense. He cautions: "While Ockham's razor is a useful tool in the physical sciences, it can be a very dangerous implement in biology. It is thus very rash to use simplicity and elegance as a guide in biological research."&lt;ref&gt;Crick 1988, p. 146.&lt;/ref&gt;
+
+In [[biogeography]], parsimony is used to infer ancient [[Historical migration|migrations]] of [[species]] or [[population]]s by observing the geographic distribution and relationships of existing [[organism]]s. Given the phylogenetic tree, ancestral migrations are inferred to be those that require the minimum amount of total movement.
+
+=== Religion ===
+{{Main| Existence of God}}
+
+In the [[philosophy of religion]], Occam's razor is sometimes applied to the [[existence of God]]. [[William of Ockham]] himself was a Christian. He believed in God, and in the authority of Scripture; he writes that "nothing ought to be posited without a reason given, unless it is self-evident (literally, known through itself) or known by experience or proved by the authority of Sacred Scripture."&lt;ref&gt;{{cite encyclopedia |contribution-url=http://plato.stanford.edu/entries/ockham/ |publisher=Stanford |title=Encyclopedia of Philosophy |contribution=William Ockham |accessdate=2016-02-24}}&lt;/ref&gt; Ockham believed that an explanation has no sufficient basis in reality when it does not harmonize with reason, experience, or the Bible. However, unlike many theologians of his time, Ockham did not believe God could be logically proven with arguments. To Ockham, science was a matter of discovery, but theology was a matter of [[revelation]] and [[faith]]. He states: "only faith gives us access to theological truths. The ways of God are not open to reason, for God has freely chosen to create a world and establish a way of salvation within it apart from any necessary laws that human logic or rationality can uncover."&lt;ref&gt;Dale T Irvin &amp; Scott W Sunquist. ''History of World Christian Movement Volume, I: Earliest Christianity to 1453'', p. 434. {{ISBN|9781570753961}}.&lt;/ref&gt;
+
+[[St. Thomas Aquinas]], in the ''[[Summa Theologica]]'', uses a formulation of Occam's razor to construct an objection to the idea that God exists, which he refutes directly with a counterargument:&lt;ref&gt;{{cite web |url=http://www.newadvent.org/summa/1002.htm |title=SUMMA THEOLOGICA: The existence of God (Prima Pars, Q. 2) |publisher=Newadvent.org |accessdate=2013-03-26 |deadurl=no |archiveurl=https://web.archive.org/web/20130428053715/http://www.newadvent.org/summa/1002.htm |archivedate=28 April 2013 |df=dmy-all }}&lt;/ref&gt;
+
+&lt;blockquote&gt;Further, it is superfluous to suppose that what can be accounted for by a few principles has been produced by many. But it seems that everything we see in the world can be accounted for by other principles, supposing God did not exist. For all natural things can be reduced to one principle which is nature; and all voluntary things can be reduced to one principle which is human reason, or will. Therefore there is no need to suppose God's existence.&lt;/blockquote&gt;
+
+In turn, Aquinas answers this with the ''[[quinque viae]]'', and addresses the particular objection above with the following answer:
+
+&lt;blockquote&gt;Since nature works for a determinate end under the direction of a higher agent, whatever is done by nature must needs be traced back to God, as to its first cause. So also whatever is done voluntarily must also be traced back to some higher cause other than human reason or will, since these can change or fail; for all things that are changeable and capable of defect must be traced back to an immovable and self-necessary first principle, as was shown in the body of the Article.&lt;/blockquote&gt;
+
+Rather than argue for the necessity of a god, some theists base their belief upon grounds independent of, or prior to, reason, making Occam's razor irrelevant. This was the stance of [[Søren Kierkegaard]], who viewed belief in God as a [[leap of faith]] that sometimes directly opposed reason.&lt;ref&gt;McDonald 2005.&lt;/ref&gt; This is also the doctrine of [[Gordon Clark]]'s [[presuppositional apologetics]], with the exception that Clark never thought the leap of faith was contrary to reason (see also [[Fideism]]).
+
+Various [[Arguments for the existence of God|arguments in favor of God]] establish God as a useful or even necessary assumption. Contrastingly some anti-theists hold firmly to the belief that assuming the existence of God introduces unnecessary complexity (Schmitt 2005, e.g., the [[Ultimate Boeing 747 gambit]]).
+
+Another application of the principle is to be found in the work of [[George Berkeley]] (1685–1753). Berkeley was an idealist who believed that all of reality could be explained in terms of the mind alone. He invoked Occam's razor against [[materialism]], stating that matter was not required by his metaphysic and was thus eliminable. One potential problem with this belief is that it's possible, given Berkeley's position, to find [[Solipsism|solipsism]] itself more in line with the razor than a God-mediated world beyond a single thinker.
+
+Occam's razor may also be recognized in the apocryphal story about an exchange between [[Pierre-Simon Laplace]] and [[Napoleon]]. It is said that in praising Laplace for one of his recent publications, the emperor asked how it was that the name of God, which featured so frequently in the writings of [[Lagrange]], appeared nowhere in Laplace's. At that, he is said to have replied, "It's because I had no need of that hypothesis."&lt;ref&gt;p. 282, [https://books.google.com/books?id=88xZAAAAcAAJ ''Mémoires du docteur F. Antommarchi, ou les derniers momens de Napoléon''] {{webarchive|url=https://web.archive.org/web/20160514072842/https://books.google.com/books?id=88xZAAAAcAAJ |date=14 May 2016 }}, vol. 1, 1825, Paris: Barrois L'Ainé&lt;/ref&gt; Though some point to this story as illustrating Laplace's [[atheism]], more careful consideration suggests that he may instead have intended merely to illustrate the power of [[methodological naturalism]], or even simply that the fewer [[premise|logical premises]] one assumes, the [[List of mathematical jargon#strong|stronger]] is one's conclusion.
+
+In his article "Sensations and Brain Processes" (1959), [[J. J. C. Smart]] invoked Occam's razor with the aim to justify his preference of the mind-brain identity theory over [[mind-body dualism|spirit-body dualism]]. Dualists state that there are two kinds of substances in the universe: physical (including the body) and spiritual, which is non-physical. In contrast, identity theorists state that everything is physical, including consciousness, and that there is nothing nonphysical. Though it is impossible to appreciate the spiritual when limiting oneself to the physical, Smart maintained that identity theory explains all phenomena by assuming only a physical reality. Subsequently, Smart has been severely criticized for his use (or misuse) of Occam's razor and ultimately retracted his advocacy of it in this context. [[Paul Churchland]] (1984) states that by itself Occam's razor is inconclusive regarding duality. In a similar way, Dale Jacquette (1994) stated that Occam's razor has been used in attempts to justify eliminativism and reductionism in the philosophy of mind. Eliminativism is the thesis that the ontology of [[folk psychology]] including such entities as "pain", "joy", "desire", "fear", etc., are eliminable in favor of an ontology of a completed neuroscience.
+
+=== Penal ethics ===
+In penal theory and the philosophy of punishment, parsimony refers specifically to taking care in the distribution of [[punishment]] in order to avoid excessive punishment. In the [[utilitarianism|utilitarian]] approach to the philosophy of punishment, [[Jeremy Bentham]]'s "parsimony principle" states that any punishment greater than is required to achieve its end is unjust. The concept is related but not identical to the legal concept of [[proportionality (law)|proportionality]]. Parsimony is a key consideration of the modern [[restorative justice]], and is a component of utilitarian approaches to punishment, as well as the [[prison abolition movement]]. Bentham believed that true parsimony would require punishment to be individualised to take account of the [[sensibility]] of the individual—an individual more sensitive to punishment should be given a proportionately lesser one, since otherwise needless pain would be inflicted. Later utilitarian writers have tended to abandon this idea, in large part due to the impracticality of determining each alleged criminal's relative sensitivity to specific punishments.&lt;ref&gt;{{cite journal | last1 = Tonry | first1 = Michael | year = 2005 | title =  Obsolescence and Immanence in Penal Theory and Policy | url = https://web.archive.org/web/20060623074821/http://www.columbialawreview.org/pdf/Tonry-Web.pdf | journal = [[Columbia Law Review]] | volume = 105 | issue = | pages = 1233–1275 }}&lt;/ref&gt;
+
+=== Probability theory and statistics ===
+Marcus Hutter's universal artificial intelligence builds upon [[Solomonoff's theory of inductive inference|Solomonoff's mathematical formalization of the razor]] to calculate the expected value of an action.
+
+There are various papers in scholarly journals deriving formal versions of Occam's razor from probability theory, applying it in [[statistical inference]], and using it to come up with criteria for penalizing complexity in statistical inference. Papers&lt;ref name="ReferenceC"&gt;Chris S. Wallace and David M. Boulton; ''Computer Journal'', Volume 11, Issue 2, 1968 Page(s):185–194, "An information measure for classification."&lt;/ref&gt;&lt;ref name="auto"&gt;Chris S. Wallace and David L. Dowe; ''Computer Journal'', Volume 42, Issue 4, Sep 1999 Page(s):270–283, "Minimum Message Length and Kolmogorov Complexity."&lt;/ref&gt; have suggested a connection between Occam's razor and [[Kolmogorov complexity]].&lt;ref name="Volker"&gt;{{cite web|url=http://volker.nannen.com/pdf/short_introduction_to_model_selection.pdf|title=A short introduction to Model Selection, Kolmogorov Complexity and Minimum Description Length|last=Nannen|first=Volker|accessdate=2010-07-03|deadurl=no|archiveurl=https://web.archive.org/web/20100602044851/http://volker.nannen.com/pdf/short_introduction_to_model_selection.pdf|archivedate=2 June 2010|df=dmy-all}}&lt;/ref&gt;
+
+One of the problems with the original formulation of the razor is that it only applies to models with the same explanatory power (i.e., it only tells us to prefer the simplest of equally good models). A more general form of the razor can be derived from Bayesian model comparison, which is based on [[Bayes factor]]s and can be used to compare models that don't fit the observations equally well. These methods can sometimes optimally balance the complexity and power of a model. Generally, the exact Occam factor is intractable, but approximations such as [[Akaike information criterion]], [[Bayesian information criterion]], [[Variational Bayesian methods]], [[false discovery rate]], and [[Laplace's method]] are used. Many [[artificial intelligence]] researchers are now employing such techniques, for instance through work on [[Occam Learning]] or more generally on the [[Free energy principle]].
+
+Statistical versions of Occam's razor have a more rigorous formulation than what philosophical discussions produce. In particular, they must have a specific definition of the term ''simplicity'', and that definition can vary. For example, in the [[Andrey Kolmogorov|Kolmogorov]]–[[Gregory Chaitin|Chaitin]] [[minimum description length]] approach, the subject must pick a [[Turing machine]] whose operations describe the basic operations ''believed'' to represent "simplicity" by the subject. However, one could always choose a Turing machine with a simple operation that happened to construct one's entire theory and would hence score highly under the razor. This has led to two opposing camps: one that believes Occam's razor is objective, and one that believes it is subjective.
+
+==== Objective razor ====
+The minimum instruction set of a [[universal Turing machine]] requires approximately the same length description across different formulations, and is small compared to the [[Kolmogorov complexity]] of most practical theories. [[Marcus Hutter]] has used this consistency to define a "natural" Turing machine of small size as the proper basis for excluding arbitrarily complex instruction sets in the formulation of razors.&lt;ref&gt;{{cite web|url=http://www.hutter1.net/ait.htm|title=Algorithmic Information Theory|publisher=|deadurl=no|archiveurl=https://web.archive.org/web/20071224043538/http://www.hutter1.net/ait.htm|archivedate=24 December 2007|df=dmy-all}}&lt;/ref&gt; Describing the program for the universal program as the "hypothesis", and the representation of the evidence as program data, it has been formally proven under [[Zermelo–Fraenkel set theory]] that "the sum of the log universal probability of the model plus the log of the probability of the data given the model should be minimized."&lt;ref&gt;Paul M. B. Vitányi and Ming Li; ''IEEE Transactions on Information Theory'', Volume 46, Issue 2, Mar 2000 Page(s):446–464, "Minimum Description Length Induction, Bayesianism and Kolmogorov Complexity."&lt;/ref&gt; Interpreting this as minimising the total length of a two-part message encoding model followed by data given model gives us the [[minimum message length]] (MML) principle.&lt;ref name="ReferenceC"/&gt;&lt;ref name="auto"/&gt;
+
+One possible conclusion from mixing the concepts of Kolmogorov complexity and Occam's razor is that an ideal data compressor would also be a scientific explanation/formulation generator. Some attempts have been made to re-derive known laws from considerations of simplicity or compressibility.&lt;ref name="ReferenceB" /&gt;&lt;ref&gt;{{Cite journal|arxiv=physics/0001020|title= Why Occam's Razor|journal=Foundations of Physics Letters|volume=17|issue=3|pages=255–266|last1=Standish|first1=Russell K|year=2000|doi=10.1023/B:FOPL.0000032475.18334.0e|bibcode=2004FoPhL..17..255S}}&lt;/ref&gt;
+
+According to [[Jürgen Schmidhuber]], the appropriate mathematical theory of Occam's razor already exists, namely, [[Ray Solomonoff|Solomonoff's]] [[Solomonoff's theory of inductive inference|theory of optimal inductive inference]]&lt;ref&gt;{{cite journal | last1 = Solomonoff | first1 = Ray | authorlink = Ray Solomonoff | year = 1964 | title = A formal theory of inductive inference. Part I. | url = | journal = Information and Control | volume = 7 | issue = 1–22| page = 1964 | doi=10.1016/s0019-9958(64)90223-2}}&lt;/ref&gt; and its extensions.&lt;ref&gt;{{cite book |authorlink=Jürgen Schmidhuber |first=J. |last=Schmidhuber |year=2006 |chapter=The New AI: General &amp; Sound &amp; Relevant for Physics |editor1-first=B. |editor1-last=Goertzel |editor2-first=C. |editor2-last=Pennachin |title=Artificial General Intelligence |pages=177–200 |arxiv=cs.AI/0302012}}&lt;/ref&gt; See discussions in David L. Dowe's "Foreword re C. S. Wallace"&lt;ref&gt;{{cite journal |first=David L. |last=Dowe |year=2008 |title=Foreword re C. S. Wallace |journal=Computer Journal |volume=51 |issue=5 |pages=523–560 |doi=10.1093/comjnl/bxm117}}&lt;/ref&gt; for the subtle distinctions between the [[algorithmic probability]] work of Solomonoff and the MML work of [[Chris Wallace (computer scientist)|Chris Wallace]], and see Dowe's "MML, hybrid Bayesian network graphical models, statistical consistency, invariance and uniqueness"&lt;ref&gt;David L. Dowe (2010): "MML, hybrid Bayesian network graphical models, statistical consistency, invariance and uniqueness. A formal theory of inductive inference." ''Handbook of the Philosophy of Science''{{spaced ndash}}(HPS Volume 7) Philosophy of Statistics, Elsevier 2010 Page(s):901–982. https://web.archive.org/web/20140204001435/http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.185.709&amp;rep=rep1&amp;type=pdf&lt;/ref&gt; both for such discussions and for (in section 4) discussions of MML and Occam's razor. For a specific example of MML as Occam's razor in the problem of decision tree induction, see Dowe and Needham's "Message Length as an Effective Ockham's Razor in Decision Tree Induction".&lt;ref&gt;Scott Needham and David L. Dowe (2001):" Message Length as an Effective Ockham's Razor in Decision Tree Induction." Proc. 8th International Workshop on Artificial Intelligence and Statistics (AI+STATS 2001), Key West, Florida, U.S.A., Jan. 2001 Page(s): 253–260 {{cite web |url=http://www.csse.monash.edu.au/~dld/Publications/2001/Needham+Dowe2001_Ockham.pdf |title=Archived copy |accessdate=2015-09-02 |deadurl=no |archiveurl=https://web.archive.org/web/20150923211645/http://www.csse.monash.edu.au/~dld/Publications/2001/Needham+Dowe2001_Ockham.pdf |archivedate=23 September 2015 |df=dmy-all }}&lt;/ref&gt;
+
+== Controversial aspects of the razor ==
+Occam's razor is not an embargo against the positing of any kind of entity, or a recommendation of the simplest theory come what may.{{Refn|"Ockham's razor does not say that the more simple a hypothesis, the better."&lt;ref name=SkepticDict2012&gt;{{cite book |author=Robert T. Carroll |authorlink=Robert Todd Carroll |chapter=Occam's Razor |title=The Skeptic's Dictionary |chapter-url=http://www.skepdic.com/occam.html |postscript=&amp;nbsp;&amp;nbsp;Last updated 18 February 2012 |accessdate=2016-02-24 |deadurl=no |archiveurl=https://web.archive.org/web/20160301193834/http://www.skepdic.com/occam.html |archivedate=1 March 2016 |df=dmy-all }}&lt;/ref&gt;|group=lower-alpha}} Occam's razor is used to adjudicate between theories that have already passed "theoretical scrutiny" tests and are equally well-supported by evidence.{{Refn|"Today, we think of the principle of parsimony as a heuristic device. We don't assume that the simpler theory is correct and the more complex one false. We know from experience that more often than not the theory that requires more complicated machinations is wrong. Until proved otherwise, the more complex theory competing with a simpler explanation should be put on the back burner, but not thrown onto the trash heap of history until proven false."&lt;ref name="SkepticDict2012" /&gt;|group=lower-alpha}} Furthermore, it may be used to prioritize empirical testing between two equally plausible but unequally testable hypotheses; thereby minimizing costs and wastes while increasing chances of falsification of the simpler-to-test hypothesis.
+
+Another contentious aspect of the razor is that a theory can become more complex in terms of its structure (or [[syntax]]), while its [[ontology]] (or [[semantics]]) becomes simpler, or vice versa.{{Refn|"While these two facets of simplicity are frequently conflated, it is important to treat them as distinct. One reason for doing so is that considerations of parsimony and of elegance typically pull in different directions. Postulating extra entities may allow a theory to be formulated more simply, while reducing the ontology of a theory may only be possible at the price of making it syntactically more complex."&lt;ref name="fn_(109)"/&gt;|group=lower-alpha}} Quine, in a discussion on definition, referred to these two perspectives as "economy of practical expression" and "economy in grammar and vocabulary", respectively.&lt;ref&gt;{{cite book|first=W V O|last=Quine|author-link= W. V. Quine|year=1961|chapter=Two dogmas of empiricism|title= From a logical point of view|location=Cambridge|publisher=Harvard University Press|pages=20–46|isbn=0-674-32351-3}}&lt;/ref&gt;
+
+[[Galileo Galilei]] lampooned the ''misuse'' of Occam's razor in his ''[[Dialogue Concerning the Two Chief World Systems|Dialogue]]''. The principle is represented in the dialogue by Simplicio. The telling point that Galileo presented ironically was that if one really wanted to start from a small number of entities, one could always consider the letters of the alphabet as the fundamental entities, since one could construct the whole of human knowledge out of them.
+
+== Anti-razors ==
+Occam's razor has met some opposition from people who have considered it too extreme or rash. [[Walter Chatton]] (c. 1290–1343) was a contemporary of William of Ockham (c. 1287–1347) who took exception to Occam's razor and Ockham's use of it. In response he devised his own ''anti-razor:'' "If three things are not enough to verify an affirmative proposition about things, a fourth must be added, and so on." Although there have been a number of philosophers who have formulated similar anti-razors since Chatton's time, no one anti-razor has perpetuated in as much notability as Chatton's anti-razor, although this could be the case of the Late Renaissance Italian motto of unknown attribution ''Se non è vero, è ben trovato'' ("Even if it is not true, it is well conceived") when referred to a particularly artful explanation.
+
+Anti-razors have also been created by [[Gottfried Wilhelm Leibniz]] (1646–1716), [[Immanuel Kant]] (1724–1804), and [[Karl Menger]] (1902–1985). Leibniz's version took the form of a [[principle of plenitude]], as [[Arthur Lovejoy]] has called it: the idea being that God created the most varied and populous of possible worlds. Kant felt a need to moderate the effects of Occam's razor and thus created his own counter-razor: "The variety of beings should not rashly be diminished."&lt;ref&gt;{{cite book|title=The Critique of Pure Reason|year=1929|publisher=Palgrave Macmillan|url=http://www.hkbu.edu.hk/~ppp/cpr/toc.html|author=[[Immanuel Kant]]|editor=Norman Kemp-Smith transl|accessdate=27 October 2012|page=92|quote=Entium varietates non temere esse minuendas|deadurl=no|archiveurl=https://web.archive.org/web/20120516172030/http://www.hkbu.edu.hk/~ppp/cpr/toc.html|archivedate=16 May 2012|df=dmy-all}}&lt;/ref&gt;
+
+Karl Menger found mathematicians to be too parsimonious with regard to variables, so he formulated his Law Against Miserliness, which took one of two forms: "Entities must not be reduced to the point of inadequacy" and "It is vain to do with fewer what requires more." A less serious but (some{{Who|date=May 2015}} might say) even more extremist anti-razor is [['Pataphysics]], the "science of imaginary solutions" developed by [[Alfred Jarry]] (1873–1907). Perhaps the ultimate in anti-reductionism, "'Pataphysics seeks no less than to view each event in the universe as completely unique, subject to no laws but its own." Variations on this theme were subsequently explored by the Argentine writer [[Jorge Luis Borges]] in his story/mock-essay "[[Tlön, Uqbar, Orbis Tertius]]". There is also [[Crabtree's Bludgeon]], which cynically states that "[n]o set of mutually inconsistent observations can exist for which some human intellect cannot conceive a coherent explanation, however complicated."
+
+== See also ==
+{{Portal|Thinking|Logic|Science}}
+{{col div|colwidth=20em}}
+* [[Algorithmic information theory]]
+* [[Assume a can opener]]
+* [[Chekhov's gun]]
+* [[Common sense]]
+* [[Conjunction fallacy]]
+* [[Cladistics]]
+* [[Duck test]]
+* [[Eliminative materialism]]
+* [[Explanatory power]]
+* [[Falsifiability]]
+* [[Framing (social sciences)]]
+* [[Greedy reductionism]]
+* [[Hanlon's razor]]
+* [[Hickam's dictum]]
+* [[Hitchens's razor]]
+* [[Inductive probability]]
+* [[KISS principle]]
+* [[McNamara fallacy]]
+* [[Metaphysical naturalism]]
+* [[Minimum description length]]
+* [[Minimum message length]]
+* [[Newton's flaming laser sword]]
+* [[Philosophy of science]]
+* [[Principle of least astonishment]]
+* [[Pseudoscience]]
+* [[Rationalism]]
+* [[Razor (philosophy)]]
+* [[Regress argument]]
+* [[Scientific method]]
+* [[Scientific reductionism]]
+* [[Scientific skepticism]]
+* [[Simplicity]]
+* [[Sparse Matrix]]
+* [[Spherical cow]]
+{{colend}}
+
+== Notes ==
+{{reflist|group=lower-alpha}}
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+{{Refbegin|30em}}
+
+* {{Cite book
+ | last=Ariew
+ | first=Roger
+ | year=1976
+ | title=Ockham's Razor: A Historical and Philosophical Analysis of Ockham's Principle of Parsimony
+ | publisher=Champaign-Urbana, University of Illinois
+ }}
+* {{Cite journal
+ | last=Charlesworth
+ | first=M. J.
+ | title=Aristotle's Razor
+ | journal=Philosophical Studies
+ | year=1956
+ | volume=6
+ | pages=105–112
+ | doi=10.5840/philstudies1956606
+ }}
+* {{Cite book
+ | last=Churchland
+ | first=Paul M.
+ | authorlink=Paul Churchland
+ | year=1984
+ | title=Matter and Consciousness
+ | location=Cambridge, Massachusetts
+ | publisher=[[MIT Press]]
+ | duplicate_isbn=| isbn=0-262-53050-3
+ }}
+* {{Cite book
+ | last=Crick
+ | first=Francis H. C.
+ | authorlink=Francis Crick
+ | year=1988
+ | title=[[What Mad Pursuit: A Personal View of Scientific Discovery]]
+ | location=New York, New York
+ | publisher=[[Basic Books]]
+ | duplicate_isbn=| isbn=0-465-09137-7
+ }}
+* {{Cite journal
+ |last        = Dowe
+ |first       = David L.
+ |author2     = Steve Gardner
+ |author3     = Graham Oppy
+ |title       = Bayes not Bust! Why Simplicity is no Problem for Bayesians
+ |journal     = British Journal for the Philosophy of Science
+ |date        = December 2007
+ |volume      = 58
+ |pages       = 709–754
+ |doi         = 10.1093/bjps/axm033
+ |issue       = 4
+}}
+* {{Cite book
+ | last=Duda
+ | first=Richard O.
+ |author2=Peter E. Hart |author3=David G. Stork
+  | year=2000
+ | title=Pattern Classification
+ | edition=2nd
+ | pages=487–489
+ | publisher=[[John Wiley &amp; Sons|Wiley-Interscience]]
+ | isbn=0-471-05669-3
+ }}
+* {{Cite journal
+ | last=Epstein
+ | first=Robert
+ | title=The Principle of Parsimony and Some Applications in Psychology
+ | journal=Journal of Mind Behavior
+ | year=1984
+ | volume=5
+ | pages=119–130
+ }}
+* {{Cite journal
+ | last=Hoffmann
+ | first=Roald
+ | author2=Vladimir I. Minkin |author3=Barry K. Carpenter
+ | title=Ockham's Razor and Chemistry
+ | journal=Hyle
+ | year=1997
+ | volume=3
+ | pages=3–28
+ | url=http://www.hyle.org/journal/issues/3/hoffman.htm
+ | accessdate=2006-04-14
+ }}
+* {{Cite book
+ | last=Jacquette
+ | first=Dale
+ | year=1994
+ | title=Philosophy of Mind
+ | pages=34–36
+ | location=Engleswoods Cliffs, New Jersey
+ | publisher=[[Prentice Hall]]
+ | duplicate_isbn=| isbn=0-13-030933-8
+ }}
+* {{Cite book
+ | last=Jaynes
+ | first=Edwin Thompson
+ | authorlink=Edwin Thompson Jaynes
+ | year=1994
+ | title=Probability Theory: The Logic of Science
+ | chapter=Model Comparison and Robustness
+ | chapterurl=http://omega.math.albany.edu:8008/ETJ-PS/cc24f.ps
+ | url=http://omega.math.albany.edu:8008/JaynesBook.html
+ | isbn=0-521-59271-2
+ }}
+* {{Cite journal
+ | last=Jefferys
+ | first=William H.
+ |author2=Berger, James O.
+ | title=Ockham's Razor and Bayesian Statistics
+ | journal=American Scientist
+ | year=1991
+ | volume=80
+ | pages=64–72
+ }} (Preprint available as "[http://quasar.as.utexas.edu/papers/ockham.pdf Sharpening Occam's Razor on a Bayesian Strop]").
+* {{Cite book
+ | last=Katz
+ | first=Jerrold
+ | year=1998
+ | title=Realistic Rationalism
+ | publisher=MIT Press
+ | isbn=0-262-11229-9
+ }}
+* {{Cite book
+ | last=Kneale
+ | first=William
+ |author2=Martha Kneale
+ | year=1962
+ | title=The Development of Logic
+ | location=London
+ | publisher=[[Oxford University Press]]
+ | duplicate_isbn=| page=243
+ | isbn=0-19-824183-6
+ }}
+* {{Cite book
+ | last=MacKay
+ | first=David J. C.
+ | authorlink=David J.C. MacKay
+ | year=2003
+ | title=Information Theory, Inference and Learning Algorithms
+ | publisher=[[Cambridge University Press]]
+ | duplicate_isbn=| url=http://www.inference.phy.cam.ac.uk/mackay/itila/book.html
+ | isbn=0-521-64298-1
+ | accessdate=2016-02-24
+ }}
+* {{Cite journal
+ | last=Maurer
+ | first=A.
+ | title=Ockham's Razor and Chatton's Anti-Razor
+ | journal=Medieval Studies
+ | year=1984
+ | volume=46
+ | pages=463–475
+ }}
+* {{cite web
+ | last=McDonald
+ | first=William
+ | year=2005
+ | url=http://plato.stanford.edu/entries/kierkegaard/
+ | title=Søren Kierkegaard
+ | publisher=[[Stanford Encyclopedia of Philosophy]]
+ | accessdate=2006-04-14
+ }}
+* {{Cite journal
+ | last=Menger
+ | first=Karl
+ | title=A Counterpart of Ockham's Razor in Pure and Applied Mathematics: Ontological Uses
+ | journal=Synthese
+ | year=1960
+ | volume=12
+ | pages=415–428
+ | doi=10.1007/BF00485426
+ | issue=4
+ }}
+* {{Cite book
+ |last=Morgan 
+ |first=C. Lloyd 
+ |year=1903 
+ |title=An Introduction to Comparative Psychology 
+ |url=http://spartan.ac.brocku.ca/~lward/Morgan/Morgan_1903/Morgan_1903_toc.html 
+ |archive-url=https://web.archive.org/web/20050412025647/http://spartan.ac.brocku.ca/~lward/Morgan/Morgan_1903/Morgan_1903_toc.html 
+ |dead-url=yes 
+ |archive-date=12 April 2005 
+ |accessdate=2006-04-15 
+ |edition=2nd 
+ |publisher=W. Scott 
+ |location=London 
+ |page=59 
+ |chapter=Other Minds than Ours 
+ |chapterurl=http://spartan.ac.brocku.ca/~lward/Morgan/Morgan_1903/Morgan_1903_03.html 
+ |isbn=0-89093-171-2 
+ |df= 
+}}
+
+* {{Cite book|ref=harv
+
+ | last1=Newton
+ | first1=Isaac
+ | author1-link=Isaac Newton
+ | year=2011
+ | origyear=1726
+ | title=[[Philosophiæ Naturalis Principia Mathematica]]
+ | edition=3rd
+ | publisher=[[Henry Pemberton]]
+ | location=London
+ | isbn=978-1-60386-435-0
+ }}
+* {{Cite journal
+ | last=Nolan
+ | first=D.
+ | title=Quantitative Parsimony
+ | journal=[[British Journal for the Philosophy of Science]]
+ | year=1997
+ | volume=48
+ | issue=3
+ | pages=329–343
+ | doi=10.1093/bjps/48.3.329
+ }}
+* {{Cite book
+ | last=Pegis
+ | first=A. C., translator
+ | year=1945
+ | title=Basic Writings of St. Thomas Aquinas
+ | location=New York
+ | publisher=Random House
+ | page=129
+ | isbn=0-87220-380-8
+ }}
+* {{Cite book
+ | last=Popper
+ | first=Karl
+ | year=1992
+ | title=The Logic of Scientific Discovery
+ | edition=2nd
+ | publisher=Routledge
+ | location=London
+ | pages=121–132
+ |orig-year=First composed 1934 (''Logik der Forschung'')
+ | chapter=7. Simplicity
+ | isbn=84-309-0711-4
+ }}
+* {{Cite journal
+ | last=Rodríguez-Fernández
+ | first=J. L.
+ | title=Ockham's Razor
+ | journal=Endeavour
+ | year=1999
+ | volume=23
+ | pages=121–125
+ | doi=10.1016/S0160-9327(99)01199-0
+ | issue=3
+ }}
+* {{cite web
+ | last=Schmitt
+ | first=Gavin C.
+ | year=2005
+ | url=http://framingbusiness.net/php/2005/ockhamatheism.php
+ | archiveurl=https://web.archive.org/web/20070211004045/http://framingbusiness.net/php/2005/ockhamatheism.php
+ | archivedate=2007-02-11
+ | title=Ockham's Razor Suggests Atheism
+ | accessdate=2006-04-15
+ }}
+* {{Cite journal
+ | last=Smart
+ | first=J. J. C.
+ | year=1959
+
+ | title=Sensations and Brain Processes
+
+ | journal=[[The Philosophical Review]]
+ | volume=68 | issue=2 | pages=141–156
+ | doi=10.2307/2182164
+ | jstor=2182164
+}}
+* {{Cite book
+ | last=Sober
+ | first=Elliott
+ | year=1975
+ | title=Simplicity
+ | location=Oxford
+ | publisher=[[Oxford University Press]]
+ }}
+* {{Cite journal|last=Sober |first=Elliott |title=The Principle of Parsimony |journal=British Journal for the Philosophy of Science |year=1981 |volume=32 |pages=145–156 |doi=10.1093/bjps/32.2.145 |issue=2 |url=http://commonsenseatheism.com/wp-content/uploads/2010/04/Sober-The-Principle-of-Parsimony.pdf |accessdate=4 August 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20111215051421/http://commonsenseatheism.com/wp-content/uploads/2010/04/Sober-The-Principle-of-Parsimony.pdf |archivedate=15 December 2011 }}
+* {{Cite book
+ | last=Sober
+ | first=Elliott
+ | year=1990
+ | editor=Dudley Knowles
+ | title=Explanation and its Limits
+ | chapter=Let's Razor Ockham's Razor
+ | location=Cambridge
+ | publisher=[[Cambridge University Press]]
+ | pages=73–94
+ | isbn=
+}}
+
+* {{cite web|last=Sober |first=Elliott |year=2002 |url=http://philosophy.wisc.edu/sober/TILBURG.pdf |title=What is the Problem of Simplicity? |editor-last=Zellner |accessdate=4 August 2012 |display-editors=etal |deadurl=yes |archiveurl=https://web.archive.org/web/20061108113237/http://philosophy.wisc.edu/sober/TILBURG.pdf |archivedate=8 November 2006 }}
+* {{Cite book
+ | last=Swinburne
+ | first=Richard
+ | year=1997
+ | title= Simplicity as Evidence for Truth
+ | location=Milwaukee, Wisconsin
+ | publisher=[[Marquette University Press]]
+ | isbn=0-87462-164-X
+ }}
+* {{Cite journal
+ | last=Thorburn
+ | first=W. M.
+ | title=The Myth of Occam's Razor
+ | journal=Mind
+ | year=1918
+ | volume=27
+ | issue=107
+ | pages=345–353
+ | url=http://en.wikisource.org/wiki/The_Myth_of_Occam%27s_Razor
+ | doi=10.1093/mind/XXVII.3.345
+ }}
+* {{Cite book
+ | last=Williams
+ | first=George C.
+ | year=1966
+ | title=Adaptation and natural selection: A Critique of some Current Evolutionary Thought
+ | location=Princeton, New Jersey
+ | publisher=[[Princeton University Press]]
+ | isbn=0-691-02615-7
+}}
+{{Refend}}
+
+== External links ==
+{{commons category}}
+
+{{Wikiquote|William of Occam}}
+
+{{wiktionary|Occam's razor|parsimony}}
+
+* {{planetmath reference|id=6371|title=Occam's Razor}}
+* [https://www.bbc.co.uk/programmes/b007m0w4 Ockham's Razor], BBC Radio 4 discussion with Sir Anthony Kenny, Marilyn Adams &amp; Richard Cross (''In Our Time'', May 31, 2007)
+
+{{philosophy of religion}}
+
+{{Philosophical logic}}
+
+{{Use dmy dates|date=September 2010}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Occam's Razor}}
+[[Category:Adages]]
+[[Category:Reductionism]]
+[[Category:Heuristics]]
+[[Category:Principles]]
+[[Category:Philosophy of science]]
+[[Category:Arguments against the existence of God]]
+[[Category:Ontology]]
+[[Category:Razors (philosophy)]]</text>
+      <sha1>2f066yj3a43x4d07qqsf6k13rtynnm6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organizing principle</title>
+    <ns>0</ns>
+    <id>19777249</id>
+    <revision>
+      <id>857930561</id>
+      <parentid>857930385</parentid>
+      <timestamp>2018-09-03T23:34:49Z</timestamp>
+      <contributor>
+        <ip>174.18.169.159</ip>
+      </contributor>
+      <comment>/* See also */ removed link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2833">An '''organizing principle''' is a core assumption from which everything else by proximity can derive a classification or a value.  It is like a central reference point that allows all other objects to be located, often used in a [[conceptual framework]]. Having an organizing principle might help one simplify and get a handle on a particularly complicated domain or phenomenon.  On the other hand, it might create a deceptive prism that colors one's judgment.
+
+== Examples ==
+
+* In a [[The Brookings Institution|Brookings Institution]] article, [[James Steinberg]] describes how [[counter-terrorism]] has become the organizing principle of U.S. national security.&lt;ref&gt;{{cite web
+  |url= http://www.brookings.edu/articles/2002/summer_terrorism_steinberg.aspx
+  |title= Counterterrorism: A New Organizing Principle for American National Security?
+  |accessdate= October 14, 2008
+  |author= James B. Steinberg
+  |date= October 14, 2008
+  |publisher= [[The Brookings Institution]]
+}}&lt;/ref&gt;
+* The idea of the [[solar system]] is based on the organizing principle that the sun is located at a central point, and all planets rotate around it.
+* Most modern [[cities]] are based on the organizing principle of the [[Grid plan]] in order to better manage transportation and [[Address (geography)|addressing]].
+* Most religions can be described by social scientists as built around an organizing principle that allows for the sustainable or improvable [[recursion]] of a unique population.&lt;ref&gt;[[Michael Corballis]] (June 10, 2011), "[http://www.scienceandreligiontoday.com/2011/06/10/what-is-recursion-and-how-did-it-affect-the-evolution-of-the-human-mind/ What Is Recursion and How Did It Affect the Evolution of the Human Mind?]" ''Science &amp; Religion Today''. Retrieved July 20, 2013.&lt;/ref&gt;
+* Organizations can be constructed around a set of organizing principles, such as concepts, priorities, or goals. For example, an organization may intend to be innovative, international, quality and agile.
+* The central organising principle of the [[Welsh Government]] is [[sustainability]].
+* [[Legitimation Code Theory]] is an explanatory framework in the [[sociology of knowledge]] and education that seeks to understand different social fields of practices in terms of their operating principles, which determines the basis of success and failure.&lt;ref&gt;Maton, K. (2014), 'Knowledge and Knowers: Towards a Realist Sociology of Education', London: Routledge, {{isbn|978-0-415-47999-8}}.&lt;/ref&gt;
+
+==See also==
+* [[Unit of analysis]]
+* [[Concept Driven Strategy]]
+* [[Frame analysis]]
+* [[Framing (disambiguation)|Framing]]
+* [[Concept]]
+* [[Pragmatism]]
+* [[Attractor]]
+* [[Reden]]
+
+==References==
+{{Reflist}}
+
+* * *
+
+[[Category:Principles]]
+[[Category:Strategy]]
+[[Category:Concepts]]
+[[Category:Assumption]]
+
+{{philosophy-stub}}
+{{sociology-stub}}</text>
+      <sha1>f51619bfb7ub2ggo4wy7z597646sqd4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Principle</title>
+    <ns>0</ns>
+    <id>1005874</id>
+    <revision>
+      <id>853198955</id>
+      <parentid>851961302</parentid>
+      <timestamp>2018-08-03T02:53:10Z</timestamp>
+      <contributor>
+        <username>Scottyoak2</username>
+        <id>4652171</id>
+      </contributor>
+      <minor/>
+      <comment>Fixing style/layout: 2x heading-style, 2x whitespace</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7949">{{hatnote|Not to be confused with [[Principal (disambiguation)|Principal]]. For other uses, see [[Principle (disambiguation)]].}}
+[[File:Statua Iustitiae.jpg|thumb|170px|The [[Blind justice (concept)|concept of blind justice]] is a moral principle.&lt;ref&gt;Jacoby, Jeff.  [http://archive.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/05/10/lady_justices_blindfold/ "Lady Justice's blindfold."] ''Boston.com''.  10 May 2009.  25 October 2017.&lt;/ref&gt;]]
+A '''principle''' is a concept or value that is a guide for behavior or evaluation. In [[law]], it is a [[Legal rule|rule]] that has to be or usually is to be followed, or can be desirably followed, or is an inevitable consequence of something, such as the laws observed in  nature or the way that a system is constructed. The principles of such a system are understood by its users as the essential characteristics of the system, or reflecting system's designed purpose, and the effective operation or use of which would be impossible if any one of the principles was to be ignored.&lt;ref&gt;Alpa, Guido (1994) [http://digitalcommons.law.ggu.edu/annlsurvey/vol1/iss1/2/ General Principles of Law], ''Annual Survey of International &amp; Comparative Law'', Vol. 1: Is. 1, Article 2. from [[Golden Gate University School of Law]]&lt;/ref&gt; A system may be explicitly based on and implemented from a document of principles as was done in IBM's [[IBM System/360 architecture|360/370]] ''Principles of Operation''.
+
+Examples of principles are, [[entropy (disambiguation)|entropy]] in a number of fields, [[least action]] in physics, those in descriptive comprehensive and fundamental law: [[doctrine]]s or assumptions forming  normative rules of conduct, [[separation of church and state]] in statecraft, the [[central dogma of molecular biology]], [[wikt:fairness|fairness]] in ethics, etc.
+
+In common English, it is a substantive and collective term referring to rule governance, the absence of which, being "unprincipled", is considered a character defect. It may also be used to declare that a reality has diverged from some ideal or norm as when something is said to be true only "in principle" but not in fact.
+
+==As law==
+===As moral law===
+[[File:Socrates BM GR1973.03-27.16.jpg|thumb|[[Socrates]] preferred to face execution rather than betray his moral principles.&lt;ref&gt;[http://philosophy.lander.edu/ethics/socrates.html "The Ethics of Socrates."] ''Philosophy''.  25 October 2017.&lt;/ref&gt;|upright=0.9]]
+{{main|Ethics}}
+A principle represents values that orient and rule the conduct of persons in a particular society.  To "act on principle" is to act in accordance with one's moral ideals.&lt;ref&gt;[https://www.nytimes.com/2017/10/24/us/politics/jeff-flake-transcript-senate-speech.html "Full Transcript: Jeff Flake’s Speech on the Senate Floor."] ''New York Times''.  24 October 2017.  25 October 2017.&lt;/ref&gt; Principles are absorbed in childhood through a process of [[socialization]]. There is a presumption of liberty of individuals that is restrained.  Exemplary principles include [[First, do no harm]], the [[golden rule]] and the [[doctrine of the mean]].
+
+===As a juridic law===
+{{Main|Principle of legality}}
+It represents a set of values that inspire the written norms that organize the life of a society submitting to the powers of an authority, generally the State. The law establishes a legal obligation, in a coercive way; it therefore acts as principle [[Classical conditioning|conditioning]] of the action that limits the liberty of the individuals. See, for examples, the [[territorial principle]], [[homestead principle]], and [[precautionary principle]].
+
+===As scientific law===
+[[Archimedes principle]], relating buoyancy to the weight of displaced water, is an early example of a  [[law (principle)|law]] in science. Another early one developed by [[Malthus]] is the ''population principle'', now called the [[Malthusian principle]].&lt;ref&gt;Elwell, Frank W.  [http://www.faculty.rsu.edu/users/f/felwell/www/Theorists/Essays/Malthus1.htm "T. Robert Mathus's Principle ...."] ''Rogers State University''.  2013.  25 October 2017.&lt;/ref&gt; Freud also wrote on principles, especially the [[reality principle]] necessary to keep the id and [[pleasure principle (psychology)|pleasure principle]] in check. Biologists use the [[principle of priority]] and [[principle of Binominal nomenclature]] for precision in naming [[species]]. There are many principles observed in physics, notably in [[cosmology]] which observes the [[mediocrity principle]], the [[anthropic principle]], the [[principle of relativity]] and the [[cosmological principle]]. Other well-known principles include the [[uncertainty principle]] in [[quantum mechanics]] and the [[pigeonhole principle]] and [[superposition principle]] in mathematics.
+
+==As axiom or logical fundament==
+===Principle of sufficient reason===
+{{Main|Principle of sufficient reason}}
+The principle states that every event has a rational explanation.&lt;ref&gt;[https://plato.stanford.edu/entries/sufficient-reason/ "Principle of Sufficient Reason."] ''Stanford Encyclopedia of Philosophy''.  7 September 2016.  25 October 2017.&lt;/ref&gt; The principle has a variety of expressions, all of which are perhaps best summarized by the following:
+
+:For every entity ''x'', if ''x'' exists, then there is a sufficient explanation for why ''x'' exists.
+:For every event ''e'', if ''e'' occurs, then there is a sufficient explanation for why ''e'' occurs.
+:For every proposition ''p'', if ''p'' is true, then there is a sufficient explanation for why ''p'' is true.
+
+However, one realizes that in every sentence there is a direct relation between the predicate and the subject. To say that "the Earth is round", corresponds to a direct relation between the subject and the predicate.
+
+===Principle of non-contradiction===
+[[File:Aristoteles Louvre.jpg|thumb|upright|[[Bust (sculpture)|Portrait bust]] of Aristotle; an [[Roman Empire|Imperial Roman]] copy of a lost [[bronze sculpture]] made by [[Lysippos]]]]
+{{Main|Law of noncontradiction}}
+According to [[Aristotle]], “It is impossible for the same thing to belong and not to belong at the same time to the same thing and in the same respect.”&lt;ref&gt;[https://plato.stanford.edu/entries/aristotle-noncontradiction/ "Aristotle on Non-contradiction."] ''Stanford Encyclopedia of Philosophy''.  12 June 2015.  25 October 2017.&lt;/ref&gt; For example, it is not possible that in exactly the same moment and place, it rains and doesn't rain.&lt;ref&gt;[https://oregonstate.edu/instruct/phl201/modules/Philosophers/Aristotle/aristotle_laws_of_thought.html "Great Philosophers."] ''Oregon State University''.  2002.  25 October 2017.&lt;/ref&gt;
+
+===Principle of excluded middle===
+{{Main|Law of excluded middle}}
+The principle of the excluding third or "principium tertium exclusum" is a principle of the traditional logic formulated canonically by [[Gottfried Wilhelm Leibniz|Leibniz]] as: either ''A'' is ''B'' or ''A'' isn't ''B''. It is read the following way: either ''P'' is true, or its denial ¬''P'' is.&lt;ref&gt;{{Cite book|url=http://name.umdl.umich.edu/AAT3201.0001.001|title=Principia mathematica, by Alfred North Whitehead ... and Bertrand Russell.|last=Whitehead|first=Alfred North|date=2005}}&lt;/ref&gt;
+It is also known as "''tertium non datur''" ('A third (thing) is not). Classically it is considered to be one of the most important fundamental principles or laws of thought (along with the principles of identity, no contradiction and sufficient reason).
+&lt;!-- == Principle as a criterion of order and classification == --&gt;
+
+==See also==
+* [[Axiom]]
+* [[Corollary]]
+* [[Deductive reasoning|Deduction]]
+* [[Law (principle)]]
+* [[Logical consequence]]
+
+==References==
+{{Reflist}}
+
+==External links==
+
+* {{wiktionary-inline|principle}}
+
+{{Ethics}}
+{{Metaphysics}}
+
+{{Authority control}}
+[[Category:Principles| ]]
+[[Category:Concepts]]
+[[Category:Concepts in ethics]]
+[[Category:Concepts in metaphysics]]
+[[Category:Assumption]]</text>
+      <sha1>q5uas33407uergipaz25bn3rxrliufn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Revelation principle</title>
+    <ns>0</ns>
+    <id>6394087</id>
+    <revision>
+      <id>850312847</id>
+      <parentid>784393953</parentid>
+      <timestamp>2018-07-15T02:28:21Z</timestamp>
+      <contributor>
+        <ip>96.232.1.17</ip>
+      </contributor>
+      <comment>/* Example */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7318">{{Multiple issues|
+{{MOS|date=April 2016}}
+{{original research|date=April 2016}}
+}}
+
+The '''revelation principle''' is a fundamental principle in [[mechanism design]]. It states that if a [[social choice function]] can be implemented by an arbitrary mechanism (i.e. if that mechanism has an equilibrium outcome that corresponds to the outcome of the social choice function), then the same function can be implemented by an incentive-compatible-direct-mechanism (i.e. in which players [[Incentive compatibility|truthfully report]] type) with the same equilibrium outcome (payoffs).&lt;ref name="AGT"&gt;{{Cite Algorithmic Game Theory 2007}}&lt;/ref&gt;{{rp|224–225}}
+
+In [[mechanism design]], the revelation principle is of utmost importance in finding solutions. The researcher need only look at the set of equilibrium characterized by [[incentive compatibility]]. That is, if the mechanism designer wants to implement some outcome or property, he can restrict his search to mechanisms in which agents are willing to reveal their private information to the mechanism designer that has that outcome or property. If no such direct and truthful mechanism exists, no mechanism can implement this outcome/property. By narrowing the area needed to be searched, the problem of finding a mechanism becomes much easier.
+
+The principle comes in two variants corresponding to the two flavors of [[Incentive compatibility|incentive-compatibility]]:
+*The ''dominant-strategy revelation-principle'' says that every social-choice function that can be implemented in [[Strategic dominance|dominant-strategies]] can be implemented by a  [[Strategyproofness|dominant-strategy-incentive-compatible (DSIC)]] mechanism (introduced by [[Allan Gibbard]]&lt;ref&gt;Gibbard, A. 1973. Manipulation of voting schemes: a general result. Econometrica 41, 587–601.&lt;/ref&gt;).
+*The ''Bayesian-Nash revelation-principle'' says that every social-choice function that can be implemented in Bayesian-Nash equilibrium ([[Bayesian game]], i.e. game of incomplete information) can be implemented by a [[Incentive compatibility|Bayesian-Nash incentive-compatibility (BNIC)]] mechanism. This broader solution concept was introduced by Dasgupta, Hammond and [[Eric Maskin|Maskin]],&lt;ref&gt;Dasgupta, P., Hammond, P. and Maskin, E. 1979. The implementation of social choice rules: some results on incentive compatibility. Review of Economic Studies 46, 185–216.&lt;/ref&gt; Holmstrom,&lt;ref&gt;Holmstrom, B. 1977. On incentives and control in organizations. Ph.D. thesis, Stanford University.&lt;/ref&gt; and [[Roger Myerson|Myerson]].&lt;ref&gt;Myerson, R. 1979. Incentive-compatibility and the bargaining problem. Econometrica 47, 61–73.&lt;/ref&gt;
+
+==Example==
+Consider the following example. There is a certain item that Alice values as &lt;math&gt;v_A&lt;/math&gt; and Bob values as &lt;math&gt;v_B&lt;/math&gt;. The government needs to decide who will receive that item and in what terms. 
+* A ''social-choice-function'' is a function that maps a set of individual ''preferences'' to a social outcome. An example function is the [[utilitarian]] function, which says "give the item to a person that values it the most". We denote a social choice function by '''Soc''' and its recommended outcome given a set of preferences by '''Soc(Prefs)'''.
+* A ''mechanism'' is a rule that maps a set of individual ''actions'' to a social outcome. A mechanism '''Mech''' induces a [[game theory|game]] which we denote by '''Game(Mech)'''.
+* A mechanism '''Mech''' is said to ''implement'' a social-choice-function '''Soc''' if, for every combination of individual preferences, there is a [[Nash equilibrium]] in '''Game(Mech)''' in which the outcome is '''Soc(Prefs)'''. Two example mechanisms are:
+** "Each individual says a number between 1 and 10. The item is given to the individual who says the lowest number; if both say the same number, then the item is given to Alice". This mechanism does NOT implement the utilitarian function, since for every individual who wants the item, it is a dominant strategy to say "1" regardless of his/her true value. This means that in equilibrium the item is always given to Alice, even if Bob values it more.
+** [[First-price sealed-bid auction]] is a mechanism which implements the utilitarian function. For example, if &lt;math&gt;v_B&gt;v_A&lt;/math&gt;, then any action profile in which Bob bids more than Alice and both bids are in the range &lt;math&gt;(v_A,v_B)&lt;/math&gt; is a Nash-equilibrium in which the item goes to Bob. Additionally, if the valuations of Alice and Bob are random variables drawn independently from the same distribution, then there is a [[Bayesian Nash equilibrium]] in which the item goes to the bidder with the highest value.
+* A ''direct-mechanism'' is a mechanism in which the set of actions available to each player is just the set of possible preferences of the player. 
+* A direct-mechanism '''Mech''' is said to be ''Bayesian-Nash-[[Incentive-compatible]] (BNIC)'' if there is a [[Bayesian Nash equilibrium]] of '''Game(Mech)''' in which all players reveal their true preferences. Some example direct-mechanisms are:
+** "Each individual says how much he values the item. The item is given to the individual that said the highest value. In case of a tie, the item is given to Alice". This mechanism is NOT BNIC, since a player who wants the item is better-off by saying the highest possible value, regardless of his true value.
+** [[First-price sealed-bid auction]] is also NOT BNIC, since the winner is always better-off by bidding the lowest value that is slightly above the loser's bid.
+** However, if the distribution of the players' valuations is known, then there is [[First-price sealed-bid auction#Incentive-compatible_variant|a variant]] which is BNIC and implements the utilitarian function.
+** Moreover, it is known that [[Second price auction]] is BNIC (it is even IC in a stronger sense - dominant-strategy IC). Additionally, it implements the utilitarian function.
+
+== Proof ==
+Suppose we have an arbitrary mechanism '''Mech''' that implements '''Soc'''.
+
+We construct a direct mechanism '''Mech'''' that is truthful and implements '''Soc'''.
+
+'''Mech'''' simply simulates the equilibrium strategies of the players in Game('''Mech'''). I.e:
+* '''Mech'''' asks the players to report their valuations.
+* Based on the reported valuations, '''Mech'''' calculates, for each player, his equilibrium strategy in '''Mech'''.
+* '''Mech'''' returns the outcome returned by '''Mech'''.
+
+Reporting the true valuations in '''Mech'''' is like playing the equilibrium strategies in '''Mech'''. Hence, reporting the true valuations is a Nash equilibrium in '''Mech'''', as desired. Moreover, the equilibrium payoffs are the same, as desired.
+
+==In correlated equilibrium==
+The revelation principle says that for every arbitrary ''coordinating device'' a.k.a. correlating there exists another direct device for which the state space equals the action space of each player.  Then the coordination is done by directly informing each player of his action.
+
+==See also==
+* [[Mechanism design]]
+* [[Incentive compatibility]]
+* [[The Market for Lemons]]
+* [[Nash equilibrium]]
+* [[Game theory]]
+* [[Constrained Pareto efficiency]]
+* [[Myerson–Satterthwaite theorem]]
+
+==References==
+{{Reflist}}
+
+{{Game theory}}
+
+[[Category:Game theory]]
+[[Category:Mechanism design]]
+[[Category:Principles]]</text>
+      <sha1>01sexgfix51httknivkc8guxq34j77n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Self-consistency principle in high energy Physics</title>
+    <ns>0</ns>
+    <id>39396833</id>
+    <revision>
+      <id>834344553</id>
+      <parentid>834344542</parentid>
+      <timestamp>2018-04-05T06:25:47Z</timestamp>
+      <contributor>
+        <ip>178.220.111.137</ip>
+      </contributor>
+      <comment>/* See also */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3970">The '''self-consistency principle''' was established by [[Rolf Hagedorn]] in 1965 to explain the thermodynamics of [[Fireball concept|fireballs]] in [[high energy physics]] collisions. A thermodynamical approach to the high energy collisions first proposed by [[Enrico Fermi|E. Fermi]].&lt;ref&gt;E. Fermi. Prog. Theor. Phys. 5 (1950) 570.&lt;/ref&gt;
+
+==Partition function==
+The partition function of the [[Fireball concept|fireballs]] can be written in two forms, one in terms of its density of states, &lt;math&gt;\sigma(E)&lt;/math&gt;, and the other in terms of its mass spectrum, &lt;math&gt;\rho(m)&lt;/math&gt;.
+
+The self-consistency principle says that both forms must be asymptotically equivalent for energies or masses sufficiently high (asymptotic limit). Also, the density of states and the mass spectrum must be asymptotically equivalent in the sense of the weak constraint proposed by Hagedorn&lt;ref&gt;R. Hagedorn, Suppl. Al Nuovo Cimento 3 (1965) 147.&lt;/ref&gt; as
+
+:&lt;math&gt; log[\rho(m)]= log[\sigma(E)] &lt;/math&gt;.
+
+These two conditions are known as the ''self-consistency principle'' or ''bootstrap-idea''. After a long mathematical analysis Hagedorn was able to prove that there is in fact &lt;math&gt;\textstyle \rho(m) &lt;/math&gt; and  &lt;math&gt;\textstyle \sigma(E)&lt;/math&gt; satisfying the above conditions, resulting in
+
+:&lt;math&gt; \rho(m) = a m^{-5/2} exp(\beta_o m) &lt;/math&gt;
+
+and
+
+:&lt;math&gt; \sigma(E) = b E^{\alpha -1} exp(\beta_o E) &lt;/math&gt;
+
+with &lt;math&gt;\textstyle a &lt;/math&gt; and &lt;math&gt;\textstyle \alpha &lt;/math&gt; related by
+
+:&lt;math&gt;\alpha=\frac{a V}{(2 \pi \beta)^{3/5}}&lt;/math&gt;.
+
+Then the asymptotic partition function is given by
+
+:&lt;math&gt; Z_q(V_o,T)=\bigg(\frac{1}{\beta - \beta _o }\bigg)^{\alpha}-1 &lt;/math&gt;
+
+where a singularity is clearly observed for &lt;math&gt;\beta&lt;/math&gt; →&lt;math&gt;\beta_o&lt;/math&gt;. This singularity determines the limiting temperature &lt;math&gt;\textstyle T_o=1/\beta _o&lt;/math&gt; in Hagedorn's theory, which is also known as [[Hagedorn temperature]].
+
+Hagedorn was able not only to give a simple explanation for the thermodynamical aspect of high energy particle production, but also worked out a formula for the [[hadronic]] mass spectrum and predicted the limiting temperature for hot hadronic systems.
+
+After some time this limiting temperature was shown by [[Nicola Cabibbo|N. Cabibbo]] and [[Giorgio Parisi|G. Parisi]] to be related to a [[phase transition]],&lt;ref&gt;N. Cabibbo and G. Parisi, Phys. Lett. 59B (1975) 67.&lt;/ref&gt; which characterizes by the deconfinement of [[quark]]s at high energies. The mass spectrum was further analyzed by [[Steven Frautschi]].&lt;ref&gt;S. Frautschi, Phys. Rev. D 11 (1971) 2821.&lt;/ref&gt;
+
+==Q-exponential function==
+The Hagedorn theory was able to describe correctly the experimental data from collision with center-of-mass energies up to approximately 10 GeV, but above this region it failed. In 2000 [[I. Bediaga]], [[E. M. F. Curado]] and [[J. M. de Miranda]]&lt;ref&gt;I. Bediaga, E.M.F. Curado and J.M. de Miranda, Physica A 286 (2000) 156.&lt;/ref&gt; proposed a phenomenological generalization of Hagedorn's theory by replacing the exponential function that appears in the partition function by the [[Tsallis_statistics#q-exponential|q-exponential]] function from the [[Constantino Tsallis|Tsallis]] non-extensive statistics. With this modification the generalized theory was able again to describe the extended experimental data.
+
+In 2012 [[A. Deppman]] proposed a [[non-extensive self-consistent thermodynamical theory]]&lt;ref&gt;A. Deppman, Physica A 391 (2012) 6380.&lt;/ref&gt; that includes the self-consistency principle and the non-extensive statistics. This theory gives as result the same formula proposed by [[Bediaga]] et al., which describes correctly the high energy data, but also new formulas for the mass spectrum and density of states of fireball. It also predicts a new limiting temperature and a limiting entropic index.
+
+== See also ==
+*[[Particle physics]]
+
+== References ==
+{{Reflist}}
+
+[[Category:Particle physics]]
+[[Category:Nuclear physics]]
+[[Category:Principles]]</text>
+      <sha1>339gxj93vetja7ukgx10wnz6wlt1b9x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sense and reference</title>
+    <ns>0</ns>
+    <id>244755</id>
+    <revision>
+      <id>855916246</id>
+      <parentid>855792985</parentid>
+      <timestamp>2018-08-21T17:54:57Z</timestamp>
+      <contributor>
+        <username>Omnipaedista</username>
+        <id>8524693</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14964">{{redirects|Sinn|the watchmaker|Sinn (watchmaker)|the river in Germany|Sinn (river)}}
+[[File:Ueber Sinn und Bedeutung Frege 1892.jpg|thumb|right|360px| ''Die Gleichheit fordert das Nachdenken heraus durch Fragen, die sich daran knüpfen und nicht ganz leicht zu beantworten sind''. Equality gives rise to challenging questions which are not altogether easy to answer]]
+
+In the [[philosophy of language]], the distinction between '''sense and reference''' was an innovation of the German philosopher and mathematician [[Gottlob Frege]] in 1892 (in his paper "'''On Sense and Reference'''&lt;!--boldface per WP:R#PLA--&gt;"; German: "Über Sinn und Bedeutung"),&lt;ref name=A/&gt; reflecting the two ways he believed a [[singular term]] may have [[Meaning (philosophy of language)|meaning]].
+
+The [[reference]] (or "referent"; ''Bedeutung'') of a proper name is the object it means or indicates (''bedeuten''), its sense (''Sinn'') is what the name expresses. The reference of a sentence is its [[truth value]], its sense is the thought that it expresses.&lt;ref name=A&gt;"On Sense and Reference" ["Über Sinn und Bedeutung"], ''[[Zeitschrift für Philosophie und philosophische Kritik]]'', vol. 100 (1892), pp. 25–50, esp. p. 31.{{primary-inline|date=December 2016}}&lt;/ref&gt; Frege justified the distinction in a number of ways.
+#Sense is something possessed by a name, whether or not it has a reference. For example, the name "[[Odysseus]]" is intelligible, and therefore has a sense, even though there is no individual object (its reference) to which the name corresponds.
+#The sense of different names is different, even when their reference is the same. Frege argued that if an identity statement such as "[[Hesperus]] is the same planet as [[Phosphorus (morning star)|Phosphorus]]" is to be informative, the proper names flanking the identity sign must have a different meaning or sense. But clearly, if the statement is true, they must have the same reference.&lt;ref&gt;"On Sense and Reference", p. 25&lt;/ref&gt; The sense is a 'mode of presentation', which serves to illuminate only a single aspect of the referent.&lt;ref&gt;"On Sense and Reference", p. 27&lt;/ref&gt;
+
+Much of [[analytic philosophy]] is traceable to Frege's philosophy of language.&lt;ref name=Speaks&gt;Jeff Speaks, [https://www3.nd.edu/~jspeaks/courses/2011-12/83104/handouts/frege-reference.pdf "Frege's theory of reference"] (2011)&lt;/ref&gt; Frege's views on logic (i.e., his idea that some parts of speech are complete by themselves, and are analogous to the [[Argument of a function|arguments]] of a [[Function (mathematics)|mathematical function]]) led to his views on a [[theory of reference]].&lt;ref name=Speaks/&gt;
+
+==Background==
+Frege developed his original theory of meaning in early works like ''[[Begriffsschrift]]'' ('concept script') of 1879 and ''[[The Foundations of Arithmetic|Grundlagen]]'' ('foundations of arithmetic') of 1884. On this theory, the meaning of a complete sentence consists in its being true or false,&lt;ref&gt;Gareth Evans, ''The Varieties of Reference'', Oxford: Clarendon 1982, p. 8&lt;/ref&gt; and the meaning of each significant expression in the sentence is an extralinguistic entity which Frege called its ''Bedeutung'', literally 'meaning' or 'significance', but rendered by Frege's translators as 'reference', 'referent', '''M''eaning', 'nominatum', etc. Frege supposed that some parts of speech are complete by themselves, and are analogous to the [[Argument of a function|arguments]] of a [[Function (mathematics)|mathematical function]], but that other parts are incomplete, and contain an empty place, by analogy with the function itself.&lt;ref&gt;"Function and Concept", p. 16.&lt;/ref&gt; Thus 'Caesar conquered Gaul' divides into the complete term 'Caesar', whose reference is Caesar himself, and the incomplete term '—conquered Gaul', whose reference is a Concept. Only when the empty place is filled by a proper name does the reference of the completed sentence – its truth value – appear. This early theory of meaning explains how the significance or reference of a sentence (its truth value) depends on the significance or reference of its parts.
+
+==Sense==
+[[File:Mengs, Hesperus als Personifikation des Abends.jpg|thumb|right|160px|[[Hesperus]]]]
+[[File:Jean-Marc Nattier, The Countess de Brac as Aurora (1741).jpg|thumb|right|140px|[[Phosphorus (morning star)|Phosphorus]]]] 
+Frege introduced the notion of "sense" (German: ''Sinn'') to accommodate difficulties in his early theory of meaning.
+
+First, if the entire significance of a sentence consists of its truth value, it follows that the sentence will have the same significance if we replace a word of the sentence with one having an identical reference, as this will not change its truth value.&lt;ref&gt;"On Sense and Reference", p. 32&lt;/ref&gt; The reference of the whole is determined by the reference of the parts. If ''the evening star'' has the same reference as ''the morning star'', it follows that ''the evening star is a body illuminated by the Sun'' has the same truth value as ''the morning star is a body illuminated by the Sun''. But it is possible for someone to think that the first sentence is true while also thinking that the second is false. Therefore, the thought corresponding to each sentence cannot be its reference, but something else, which Frege called its ''sense''.
+
+Second, sentences that contain proper names with no reference cannot have a truth value at all. Yet the sentence 'Odysseus was set ashore at Ithaca while sound asleep' obviously has a sense, even though 'Odysseus' has no reference. The thought remains the same whether or not 'Odysseus' has a reference.&lt;ref&gt;"On Sense and Reference", p. 32&lt;/ref&gt; Furthermore, a thought cannot contain the objects that it is about. For example, Mont Blanc, 'with its snowfields', cannot be a component of the thought that Mont Blanc is more than 4,000 metres high. Nor can a thought about Etna contain lumps of solidified lava.&lt;ref&gt;See Frege's undated letter to [[Philip Jourdain]], published in ''Frege's Philosophical and Mathematical Correspondence'', ed. Gottfried Gabriel, Hans Hermes, Friedrich Kanbartel, Christian Thiel and Albet Veraart, transl. Hans Kaal, Oxford: Blackwell 1980. (See also Frege's letter to Russell dated 1904, in the same collection.)&lt;/ref&gt;
+
+Frege's notion of sense is somewhat obscure, and neo-Fregeans have come up with different candidates for its role.&lt;ref&gt;Sam Cumming, [http://plato.stanford.edu/archives/spr2013/entries/names/Names Names], ''Stanford Encyclopedia of Philosophy'' 2013&lt;/ref&gt; Accounts based on the work of [[Rudolf Carnap|Carnap]]&lt;ref&gt;''[[Meaning and Necessity]]'', Chicago: University of Chicago Press, 1947.&lt;/ref&gt; and [[Alonzo Church|Church]]&lt;ref&gt;“A Formulation of the Logic of Sense and Denotation”, in P. Henle, M. Kallen, and S. K. Langer, eds., ''Structure, Method, and Meaning'', New York: Liberal Arts Press, 1951&lt;/ref&gt; treat sense as an [[intension]], or a function from [[possible world]]s to [[Extension (semantics)|extensions]]. For example, the intension of ‘number of planets’ is a function that maps any possible world to the number of planets in that world. [[John McDowell]] supplies cognitive and reference-determining roles.&lt;ref&gt;“On the Sense and Reference of a Proper Name”, ''Mind'', 86: 159–85, 1977.&lt;/ref&gt; Devitt&lt;ref&gt;''Designation'', New York: Columbia University Press, 1981.&lt;/ref&gt; treats senses as causal-historical chains connecting names to referents.
+
+==Sense and description==
+In his [[theory of descriptions]], [[Bertrand Russell]] held the view that most proper names in ordinary language are in fact disguised [[definite description]]s. For example, 'Aristotle' can be understood as "The pupil of Plato and teacher of Alexander," or by some other uniquely applying description. This is known as the [[descriptivist theory of names]]. Because Frege used definite descriptions in many of his examples, he is often taken to have endorsed the descriptivist theory. Thus Russell's theory of descriptions was conflated with Frege's theory of sense, and for most of the twentieth century this 'Frege-Russell' view was the orthodox view of proper name semantics. However, [[Saul Kripke]] argued compellingly against the descriptivist theory. According to Kripke,&lt;ref&gt;''Naming and Necessity'', Cambridge, MA: Harvard University Press, 1980, 48-9&lt;/ref&gt; proper names are [[rigid designator]]s which designate the same object in every possible world. Descriptions such as 'the President of the U.S. in 1970' do not designate the same in every possible world. For example, someone other than [[Richard Nixon]], e.g. [[Hubert Humphrey]], might have been the President in 1970. Hence a description (or cluster of descriptions) cannot be a rigid designator, and thus a proper name cannot ''mean'' the same as a description.&lt;ref&gt;''Naming and Necessity'' p.57&lt;/ref&gt;
+
+However, the Russellian descriptivist reading of Frege has been rejected by many scholars, in particular by [[Gareth Evans (philosopher)|Gareth Evans]] in ''The Varieties of Reference''&lt;ref&gt;{{cite book|last=Evans|first=Gareth|title=The Varieties of Reference|year=1982|publisher=Oxford University Press|location=Oxford|editor=John McDowell}}&lt;/ref&gt; and by [[John McDowell]] in "The Sense and Reference of a Proper Name,"&lt;ref&gt;{{cite journal|last=McDowell|first=John|title=On the Sense and Reference of a Proper Name|journal=Mind|date=April 1977|volume=86|series=New Series|issue=342}}&lt;/ref&gt; following [[Michael Dummett]], who argued that Frege's notion of sense should not be equated with a description. Evans further developed this line, arguing that a sense without a referent was not possible. He and McDowell both take the line that Frege's discussion of empty names, and of the idea of sense without reference, are inconsistent, and that his apparent endorsement of descriptivism rests only on a small number of imprecise and perhaps offhand remarks. And both point to the power that the sense-reference distinction ''does'' have (i.e., to solve at least the first two problems), even if it is not given a descriptivist reading.
+
+==Translation of ''Bedeutung''==
+As noted above, translators of Frege have rendered the German ''Bedeutung'' in various ways. The term 'reference' has been the most widely adopted, but this fails to capture the meaning of the original German ('meaning' or 'significance'), and does not reflect the decision to standardise key terms across different editions of Frege's works published by [[Wiley-Blackwell#Blackwell Publishing history|Blackwell]].&lt;ref&gt;According to Beaney (''The Frege Reader'', Oxford: Blackwell 1997, p. 36) 'the decision was taken at a meeting in the early 1970s attended by Michael Dummett, Peter Geach, William Kneale, Roger White and a representative from Blackwell. The translation of ''Bedeutung'' by 'meaning' was unanimously agreed after lengthy discussion'.&lt;/ref&gt; The decision was based on the principle of [[exegetical neutrality]], namely that 'if at any point in a text there is a passage that raises for the native speaker legitimate questions of [[exegesis]], then, if at all possible, a translator should strive to confront the reader of his version with the same questions of exegesis and not produce a version which in his mind resolves those questions'.&lt;ref&gt;Long, P. and White, A., 'On the Translation of Frege's ''Bedeutung'': A Reply to Dr. Bell', ''Analysis'' 40 pp. 196-202, 1980, p. 196. See also Bell, D., "On the Translation of Frege's ''Bedeutung''", ''Analysis'' Vol. 40, No. 4 (Oct., 1980), pp. 191-195.&lt;/ref&gt; The term 'meaning' best captures the standard German meaning of ''Bedeutung'', and Frege's own use of the term sounds as odd when translated into English as it does in German. Moreover, 'meaning' captures Frege's early use of ''Bedeutung'' well,&lt;ref&gt;Beaney, p. 37&lt;/ref&gt; and it would be problematic to translate Frege's early use as 'meaning' and his later use as 'reference', suggesting a change in terminology not evident in the original German.
+
+==Precursors==
+===Antisthenes===
+The Greek philosopher [[Antisthenes]], a pupil of [[Socrates]], apparently distinguished "a general object that can be aligned with the meaning of the utterance” from “a particular object of extensional reference." This "suggests that he makes a distinction between sense and reference."&lt;ref&gt;{{cite book|last=Prince|first=Susan |title=Antisthenes of Athens: Texts, Translations, and Commentary|publisher=University of Michigan Press |year=2015}} p. 20&lt;/ref&gt; 
+The principal basis of this claim is a quotation in [[Alexander of Aphrodisias]]'s “Comments on [[Aristotle]]'s 'Topics'” with a three-way distinction: 
+# the semantic medium, δι' ὧν λέγουσι
+# an object external to the semantic medium, περὶ οὗ λέγουσιν
+# the direct indication of a thing, σημαίνειν … τὸ …&lt;ref&gt;Prince 2015, pp. 518–522 (Antisthenes' literary remains: t. 153B.1).&lt;/ref&gt;
+
+===John Stuart Mill===
+The sense-reference distinction is commonly confused with that between [[connotation]] and [[denotation]], which originates with [[John Stuart Mill]].&lt;ref&gt;See section §5 of book I, chapter i of Mill's [[A System of Logic]]&lt;/ref&gt; According to Mill, a common term like 'white' ''denotes'' all white things, as snow, paper. But according to Frege, a common term does not refer to any individual white thing, but rather to an abstract Concept (''Begriff''). We must distinguish between the relation of reference, which holds between a proper name and the object it refers to, such as between the name 'Earth', and the planet [[Earth]], and the relation of 'falling under', such as when the Earth falls under the concept ''planet''. The relation of a proper name to the object it designates is direct, whereas a word like 'planet' has no such direct relation at all to the Earth at all, but only to a concept that the Earth falls under. Moreover, judging ''of'' anything that it falls under this concept is not in any way part of our knowledge of what the word 'planet' means.&lt;ref&gt;Frege, "A critical elucidation of some points in E. Schroeder's ''Vorlesungen Ueber Die Algebra der Logik'', ''Archiv fur systematische Philosophie'' 1895, pp. 433-456, transl. Geach, in Geach &amp; Black 86-106.{{primary-inline|date=December 2016}}&lt;/ref&gt; The distinction between connotation and denotation is closer to that between Concept and Object, than to that between 'sense' and 'reference'.
+
+== See also ==
+{{Wikisource|On Sense and Reference}}
+* [[Descriptivist theory of names]]
+* [[Definite description]]
+* [[Direct and indirect realism]]
+* [[Frege's puzzles]]
+* [[Mediated reference theory]]
+* [[:Category:Theories of language|Theories of language]]
+* [[Use–mention distinction]]
+
+==Footnotes==
+{{reflist|30em}}
+
+{{philosophy of language}}
+{{analytic philosophy}}
+
+{{DEFAULTSORT:Sense And Reference}}
+[[Category:Philosophy of language]]
+[[Category:Philosophical logic]]
+[[Category:Conceptual distinctions]]
+[[Category:Meaning (philosophy of language)]]</text>
+      <sha1>jv21345lx2ki0fza0ipnt1qckfquiov</sha1>
+    </revision>
+  </page>
+</mediawiki>

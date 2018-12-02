@@ -1,0 +1,905 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Concept inventory</title>
+    <ns>0</ns>
+    <id>838846</id>
+    <revision>
+      <id>841186851</id>
+      <parentid>814222193</parentid>
+      <timestamp>2018-05-14T14:38:47Z</timestamp>
+      <contributor>
+        <username>DeprecatedFixerBot</username>
+        <id>33330201</id>
+      </contributor>
+      <minor/>
+      <comment>Removed deprecated parameter(s) from [[Template:Columns-list]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? See [[Template:Div col#Usage of "cols" parameter]] or [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #2!))</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17216">A '''concept inventory''' is a [[criterion-referenced test]] designed to help determine whether a student has an accurate working [[knowledge]] of a specific set of concepts. Historically, concept inventories have been in the form of [[multiple-choice test]]s in order to aid interpretability and facilitate administration in large classes.  Unlike a typical, teacher-authored multiple-choice test, questions and response choices on concept inventories are the subject of extensive research. The aims of the research include ascertaining (a) the range of what individuals think a particular question is asking and (b) the most common responses to the questions. Concept inventories are evaluated to ensure test [[reliability (statistics)|reliability]] and [[validity (statistics)|validity]]. In its final form, each question includes one correct answer and several distractors.
+
+Ideally, a score on a criterion-referenced test reflects the amount of content knowledge a student has mastered. Criterion-referenced tests differ from [[norm-referenced tests]] in that (in theory) the former is not used to compare an individual's score to the scores of the group. Ordinarily, the purpose of a criterion-referenced test is to ascertain whether a student mastered a predetermined amount of content knowledge; upon obtaining a test score that is at or above a [[cutscore|cutoff score]], the student can move on to study a body of content knowledge that follows next in a learning sequence. In general, item difficulty values ranging between 30% and 70% are best able to provide information about student understanding.
+
+The distractors are incorrect or irrelevant answers that are usually (but not always) based on students' commonly held misconceptions.&lt;ref&gt;"Development and Validation of Instruments to Measure Learning of Expert-Like Thinking." W. K. Adams &amp; C. E. Wieman, 2010. International Journal of Science Education, 1-24. iFirst, {{doi|10.1080/09500693.2010.512369}}&lt;/ref&gt; Test developers often research student misconceptions by examining students' responses to open-ended essay questions and conducting "think-aloud" interviews with students. The distractors chosen by students help researchers understand student thinking and give instructors insights into students' prior knowledge (and, sometimes, firmly held beliefs).  This foundation in research underlies instrument construction and design, and plays a role in helping educators obtain clues about students' ideas, [[scientific misconceptions]], and [[didaskalogenic]] ("teacher-induced" or "teaching-induced") confusions and conceptual lacunae that interfere with learning.
+
+==Concept inventories in use==
+Concept inventories are education-related diagnostic tests.&lt;ref name="Tregust, 1988"&gt;Tregust, D.F. 1988. Development and use of diagnostic tests to evaluate students' misconceptions in science.  International Journal of Science Education 10: 159-169 [http://www.tandfonline.com/doi/abs/10.1080/0950069880100204#.VKMeQsZl5FI]&lt;/ref&gt;  In 1985 Halloun and Hestenes introduced a "multiple-choice mechanics diagnostic test" to examine students' concepts about motion.&lt;ref name="Halloun and Hestenes"&gt;Hallouin, I. A., &amp; Hestenes, D. Common sense concepts about motion (1985). American Journal of Physics, 53, 1043-1055&lt;/ref&gt;  It evaluates student understanding of basic concepts in classical (macroscopic) mechanics. A little later, the [[Force Concept Inventory]] (FCI), another concept inventory, was developed.&lt;ref name="Halloun and Hestenes"/&gt;&lt;ref&gt;Hestenes D, Wells M, Swackhamer G 1992 Force concept inventory. The Physics Teacher 30: 141-166.&lt;/ref&gt;&lt;ref&gt;[http://scitation.aip.org/vsearch/servlet/VerityServlet?KEY=AJPIAS&amp;CURRENT=NO&amp;ONLINE=YES&amp;smode=strresults&amp;sort=rel&amp;maxdisp=25&amp;threshold=0&amp;pjournals=AJPIAS&amp;pyears=2001%2C2000%2C1999&amp;possible1=465&amp;possible1zone=fpage&amp;fromvolume=66&amp;SMODE=strsearch&amp;OUTLOG=NO&amp;viewabs=AJPIAS&amp;key=DISPLAY&amp;docID=1&amp;page=1&amp;chapter=0 Hestenes D 1998. Am. J. Phys. 66:465]&lt;/ref&gt; The FCI was designed to assess student understanding of the [[Classical mechanics|Newtonian]] concepts of force.  Hestenes (1998) found that while "nearly 80% of the [students completing introductory college physics courses] could state [[Newton's laws of motion|Newton's Third Law]] at the beginning of the course. FCI data showed that less than 15% of them fully understood it at the end".These results have been replicated in a number of studies involving students at a range of institutions (see sources section below).   That said, there remains questions as what exactly the FCI measures.&lt;ref name="Huffman"&gt;Huffman, D. &amp; P. Heller. 1995. What does the force concept inventory actually measure? The Physics Teacher 33: 138-143; Heller, P. &amp; D. Huffman. 1995.[http://www.physics.emory.edu/faculty/weeks//journal/hestenes-tpt95c.pdf]&lt;/ref&gt; Results from Hake (1998) using the FCI have led to greater recognition in the [[science education]] community of the importance of students' "interactive engagement" with the materials to be mastered.&lt;ref name="Hake"&gt;Hake, R. R. 1998. Interactive-engagement versus traditional methods: a six-thousand-student survey of mechanics test data for introductory physics courses. Am. J. Physics 66, 64-74.[http://scitation.aip.org/content/aapt/journal/ajp/66/1/10.1119/1.18809]&lt;/ref&gt; [[Image:Hake Plot.JPG|right|thumb|This is a schematic of the Hake plot (see Redish page&lt;ref&gt;[http://www.physics.umd.edu/perg/papers/redish/nas/nas.htm Redish page. Visited Feb. 14, 2011]&lt;/ref&gt;)]].
+
+Since the development of the FCI, other physics instruments have been developed. These include the Force and Motion Conceptual Evaluation developed by Thornton and Sokoloff&lt;ref name="Thornton"&gt;Thornton RK, Sokoloff DR (1998) Assessing student learning of Newton's laws: The Force and Motion Conceptual Evaluation and Evaluation of Active Learning Laboratory and Lecture Curricula. . Amer J Physics 66: 338-352. [http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&amp;id=AJPIAS000066000004000338000001&amp;idtype=cvips&amp;gifs=yes]&lt;/ref&gt; and the Brief Electricity and Magnetism Assessment developed by Ding et al.&lt;ref name="Ding"&gt;Ding, L, Chabay, R, Sherwood, B, &amp; Beichner, R (2006). Evaluating an electricity and magnetism assessment tool: Brief electricity and magnetism assessment Brief Electricity and Magnetism Assessment (BEMA).  Phys. Rev. ST Physics Ed. Research 2, 7 pages. {{cite web |url=http://prst-per.aps.org/abstract/PRSTPER/v2/i1/e010105 |title=Archived copy |accessdate=2007-07-30 |deadurl=yes |archiveurl=http://webarchive.loc.gov/all/20090907000100/http://prst-per.aps.org/abstract/PRSTPER/v2/i1/e010105 |archivedate=2009-09-07 |df= }}&lt;/ref&gt;  For a discussion of how a number of concept inventories were developed see Beichner.&lt;ref&gt;Beichner, R. Testing student interpretation of kinematics graphs, Am. J. Phys., 62, 750-762, (1994).&lt;/ref&gt; Information about physics concept tests can be found at the NC State Physics Education Research Group website (see the external links below).
+
+In addition to physics, concept inventories have been developed in [[statistics]],&lt;ref name = "Allen"&gt;Allen, K (2006) The Statistics Concept Inventory: Development and Analysis of a Cognitive Assessment Instrument in Statistics. Doctoral dissertation, The University of Oklahoma. [https://web.archive.org/web/20120315000000*/https://engineering.purdue.edu/SCI/pubs/Kirk%20Allen%20dissertation.pdf]&lt;/ref&gt; [[chemistry]],&lt;ref&gt;[http://jchemed.chem.wisc.edu/JCEDlib/QBank/collection/CQandChP/CQs/ConceptsInventory/CCIIntro.html The Chemical Concepts Inventory. Visited Feb. 14, 2011]&lt;/ref&gt;&lt;ref name="Wright"/&gt; [[astronomy]],&lt;ref&gt;[http://solar.physics.montana.edu/aae/adt/] Astronomy Diagnostic Test (ADT) Version 2.0, visited Feb. 14, 2011&lt;/ref&gt; basic [[biology]],&lt;ref name = "Garvin-Doxas &amp; Klymkowsky, 2008"&gt;Garvin-Doxas, K. &amp; M.W. Klymkowsky. 2008. Understanding randomness and its impact on student learning: lessons learned from building the Biology Concept Inventory (BCI). CBE Life Sci Educ. 7:227-33. doi: 10.1187/cbe.07-08-0063.[https://www.ncbi.nlm.nih.gov/pubmed/18519614]&lt;/ref&gt;&lt;ref&gt;D'Avanzo. C. 2008. Biology concept inventories: overview, status, and next steps. BioScience 58: 1079-85&lt;/ref&gt;&lt;ref&gt;D'Avanzo C, Anderson CW, Griffith A, Merrill J. 2010. Thinking like a biologist: Using diagnostic questions to help students reason with biological principles. (17 January 2010; www.biodqc.org/)&lt;/ref&gt;&lt;ref&gt;Wilson CD, Anderson CW, Heidemann M, Merrill JE, Merritt BW, Richmond G, Sibley DF, Parker JM. 2007. Assessing students' ability to trace matter in dynamic systems in cell biology. CBE Life Sciences Education 5: 323-331.&lt;/ref&gt; [[natural selection]],&lt;ref name="AFN"&gt;Anderson DL, Fisher KM, Norman GJ (2002) Development and evaluation of the conceptual inventory natural selection. Journal of Research In Science Teaching 39: 952-978. [http://adsabs.harvard.edu/abs/2002JRScT..39..952A]&lt;/ref&gt;&lt;ref name="Nehm &amp; Schonfeld 2008"&gt;Nehm R &amp; Schonfeld IS (2008). Measuring knowledge of natural selection: A comparison of the C.I.N.S., an open-response instrument, and an oral interview. Journal of Research in Science Teaching, 45, 1131-1160. [http://www1.ccny.cuny.edu/prospective/socialsci/psychology/faculty/upload/Nehm-Schonfeld-2008-JRST.pdf]&lt;/ref&gt;&lt;ref name="Nehm &amp; Schonfeld 2010"&gt;Nehm R &amp; Schonfeld IS (2010). The future of natural selection knowledge measurement: A reply to Anderson et al. (2010). Journal of Research in Science Teaching, 47, 358-362.  [http://www1.ccny.cuny.edu/prospective/socialsci/psychology/faculty/upload/Nehm-and-Schonfeld-2010-JRST.pdf]&lt;/ref&gt; [[genetics]],&lt;ref&gt;Smith MK, Wood WB, Knight JK (2008)The Genetics Concept Assessment: A New Concept Inventory for Gauging Student Understanding of Genetics. CBE Life Sci Educ 7): 422-430. [http://www.lifescied.org/cgi/content/full/7/4/422?maxtoshow=&amp;hits=10&amp;RESULTFORMAT=1&amp;author1=smith&amp;author2=knight&amp;andorexacttitle=and&amp;andorexacttitleabs=and&amp;andorexactfulltext=and&amp;searchid=1&amp;FIRSTINDEX=0&amp;sortspec=relevance&amp;resourcetype=HWCIT,HWELTR]&lt;/ref&gt; [[engineering]],&lt;ref&gt;Concept Inventory Assessment Instruments for Engineering Science. Visited Feb. 14, 2011. [http://www.foundationcoalition.org/home/keycomponents/assessment_evaluation.html]&lt;/ref&gt; [[geoscience]].&lt;ref name="Libarkin and Anderson"&gt;Libarkin, J.C., Ward, E.M.G., Anderson, S.W., Kortemeyer, G., Raeburn, S.P., 2011, Revisiting the Geoscience Concept Inventory: A call to the community: GSA Today, v. 21, n. 8, p. 26-28. [http://geoscienceconceptinventory.wikispaces.com/home]&lt;/ref&gt; and [[computer science]].&lt;ref name="Caceffo, Wolfman, Booth and Azevedo (2016)"&gt;Caceffo, R.; Wolfman, S.; Booth, K.; Azevedo, R. (2016). Developing a Computer Science Concept Inventory for Introductory Programming. In Proceedings of the 47th ACM Technical Symposium on Computing Science Education (SIGCSE '16). ACM, New York, NY, USA, 364-369. DOI=https://dx.doi.org/10.1145/2839509.2844559 [http://dl.acm.org/citation.cfm?id=2844559]&lt;/ref&gt;
+
+In many areas, foundational scientific concepts transcend disciplinary boundaries. An example of an inventory that assesses knowledge of such concepts is an instrument developed by  Odom and Barrow (1995) to evaluate understanding of [[diffusion]] and [[osmosis]].&lt;ref name="Odom"&gt;Odom AL, Barrow LH 1995 Development and application of a two-tier diagnostic test measuring college biology students' understanding of diffusion and osmosis after a course of instruction. Journal of Research In Science Teaching 32: 45-61.&lt;/ref&gt;   In addition, there are non-multiple choice conceptual instruments, such as the essay-based approach suggested by Wright et al. (1998)&lt;ref name="Wright"&gt;[http://bioliteracy.colorado.edu/Readings/Wright.pdf Wright et al., 1998. J. Chem. Educ. 75: 986-992]&lt;/ref&gt; and the essay and oral exams used by Nehm and Schonfeld (2008).&lt;ref name="Nehm &amp; Schonfeld 2008"/&gt; and Cooper et al &lt;ref&gt;Cooper, M. M.; Underwood, S. M.; Hilley, C. Z., 2012. Development and validation of the Implicit Information from Lewis Structures Instrument (IILSI): Do students connect structures with properties? Chem. Educ. Res. Pract. 13, 195-200.[http://pubs.rsc.org/en/content/articlehtml/2012/rp/c2rp00010e]&lt;/ref&gt; to measure student understanding of Lewis structures in chemistry.
+
+==Caveats associated with concept inventory use==
+Some concept inventories are problematic.  The concepts tested may not be fundamental or important in a particular discipline, the concepts involved may not be explicitly taught in a class or curriculum, or answering a question correctly may require only a superficial understanding of a topic.  It is therefore possible to either over-estimate or under-estimate student content mastery.  While concept inventories designed to identify trends in student thinking may not be useful in monitoring learning gains as a result of pedagogical interventions, disciplinary mastery may not be the variable measured by a particular instrument.  Users should be careful to ensure that concept inventories are actually testing conceptual understanding, rather than test-taking ability, language skills, or other abilities that can influence test performance.
+
+The use of multiple-choice exams as concept inventories is not without controversy.   The very structure of multiple-choice type concept inventories raises questions involving the extent to which complex, and often nuanced situations and ideas must be simplified or clarified to produce unambiguous responses.  For example, a multiple-choice exam designed to assess knowledge of key concepts in natural selection&lt;ref name="AFN"/&gt; does not meet a number of standards of quality control.&lt;ref name="Nehm &amp; Schonfeld 2010"/&gt; One problem with the exam is that the two members of each of several pairs of parallel items, with each pair designed to measure exactly one key concept in natural selection, sometimes have very different levels of difficulty.&lt;ref name="Nehm &amp; Schonfeld 2008"/&gt; Another problem is that the multiple-choice exam overestimates knowledge of natural selection as reflected in student performance on a diagnostic essay exam and a diagnostic oral exam, two instruments with reasonably good [[construct validity]].&lt;ref name="Nehm &amp; Schonfeld 2008"/&gt;   Although scoring concept inventories in the form of essay or oral exams is labor-intensive, costly, and difficult to implement with large numbers of students, such exams can offer a more realistic appraisal of the actual levels of students' conceptual mastery as well as their misconceptions.&lt;ref name="Wright"/&gt;&lt;ref name="Nehm &amp; Schonfeld 2008"/&gt; Recently, however, computer technology has been developed that can [[Automated essay scoring|score essay responses]] on concept inventories in biology and other domains (Nehm, Ha, &amp; Mayfield, 2011),&lt;ref&gt;Nehm, R.H., Ha, M., Mayfield, E. (in press). Transforming Biology Assessment with Machine Learning: Automated Scoring of Written Evolutionary Explanations. Journal of Science Education and Technology. [http://www.springerlink.com/content/1059-0145/preprint/?sort=p_OnlineDate&amp;sortorder=desc&amp;o=30]&lt;/ref&gt; promising to facilitate the scoring of concept inventories organized as (transcribed) oral exams as well as essays.
+
+==See also==
+{{columns-list|colwidth=30em|
+* [[Authentic assessment]]
+* [[Classical test theory]]
+* [[Confidence-based learning]]
+* [[Construct validity]]
+* [[Constructive alignment]]
+* [[Criterion-referenced test]]
+* [[Educational assessment]]
+* [[Item response theory]]
+* [[Norm-referenced test]]
+* [[Psychometrics]]
+* [[Rubrics for assessment]]
+* [[Standards-based education reform]]
+* [[Standardized test]]
+* [[Standards-based assessment]]
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://solar.physics.montana.edu/aae/adt/ Astronomy]
+* [https://edstools.colorado.edu/input/i-multi.php?inv=bci&amp;cond=0/ Biology Concept Inventory]
+* [http://www.biodqc.org Bio-Diagnostic Question Clusters]
+* [http://www.flaguide.org/cat/diagnostic/diagnostic5.php  Classroom Concepts and Diagnostic Tests]
+* [http://jchemed.chem.wisc.edu/JCEDlib/QBank/collection/CQandChP/CQs/ConceptsInventory/CCIIntro.html Chemistry]
+* [http://dqc.crcstl.msu.edu Diagnostic Question Clusters in Biology]
+* [http://www.foundationcoalition.org/home/keycomponents/assessment_evaluation.html  Engineering]
+* [https://web.archive.org/web/20110917034304/http://www.evolutionassessment.org/  Evolution Assessment]
+* [https://web.archive.org/web/20041212202058/http://modeling.la.asu.edu/R%26E/Research.html  Force Concept Inventory]
+* [http://www.lifescied.org/cgi/content/full/7/4/422?maxtoshow=&amp;hits=10&amp;RESULTFORMAT=1&amp;author1=smith&amp;author2=knight&amp;andorexacttitle=and&amp;andorexacttitleabs=and&amp;andorexactfulltext=and&amp;searchid=1&amp;FIRSTINDEX=0&amp;sortspec=relevance&amp;resourcetype=HWCIT,HWELTR  Genetics]
+* [http://geoscienceconceptinventory.wikispaces.com/home Geosciences]
+* [https://web.archive.org/web/20110310120759/http://www.lifescinventory.edu.au/ Molecular Life Sciences Concept Inventory]
+* [http://www.ncsu.edu/per/TestInfo.html Physics]
+* [https://engineering.purdue.edu/SCI Statistics]
+* [http://www.biodqc.org/contacts  Thinking Like a Biologist]
+
+{{DEFAULTSORT:Concept Inventory}}
+[[Category:Tests]]
+[[Category:Science education]]
+[[Category:Physics education]]</text>
+      <sha1>ar396r2wfp5xz4s2ccjvcurv7rk4xcx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>El Sueño de Arquímedes</title>
+    <ns>0</ns>
+    <id>14765778</id>
+    <revision>
+      <id>801277010</id>
+      <parentid>749546921</parentid>
+      <timestamp>2017-09-18T18:58:30Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 2 sources and tagging 0 as dead. #IABot (v1.5.2)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8066">{{multiple issues|
+{{notability|Web|date=August 2013}}
+{{third-party|date=August 2013}}
+}}
+
+{{Use dmy dates|date=January 2012}}
+{{Infobox Radio Show
+| show_name = El Sueño de Arquímedes
+| caption = ''El Sueño de Arquímedes.''
+| format =  [[Talk radio|Talk Radio]] / [[Podcasts|Podcast]]
+| runtime = 50 minutes
+| creator = Ángel Rodríguez Lozano
+| country = {{flagicon|Spain}} Spain
+| language = Spanish
+| home_station = [[Radio Nacional de España]]
+| first_aired = August, 2006
+| last_aired = June, 2007
+| num_episodes = 41
+| website = http://www.vanguardia.rne.es/
+}}
+
+'''El Sueño de Arquímedes''' was a Spanish science podcast and radio program which was broadcast by [[Radio Nacional de España|Radio Nacional de España (RNE)]] from September 2006 until June, 2007. The program was created by [[Ángel Rodríguez Lozano]]. A total of 35 programs are still available for download. In addition to El Sueño de Arquímedes, Ángel Rodríguez Lozano also hosted [[Vanguardia de la Ciencia]], which was broadcast weekly without interruption from April 1995 until June 2007. The name of the program means "the dream of [[Archimedes]]", and alludes to Archimedes' statement that given a [[lever]] and a fixed point, he could move the world. To Ángel Rodríguez Lozano, the dream was moving the world by popularizing and sharing knowledge.&lt;ref&gt;[http://www.dimetu.com/2008/02/20/retropodcast-12-entrevista-a-angel-rodriguez-lozano/ ¡DIME TÚ! – Entrevista a Ángel Rodríguez Lozano.] First published 30 June 2007.''"Arquímedes, lo que propuso fue que con una palanca podía mover el mundo. Para mi, El sueño de Arquímedes era simplemente mover el mundo divulgando y repartiendo conocimiento."''&lt;/ref&gt;
+
+==Format==
+Before the startup of El Sueño de Arquímedes, Ángel Rodríguez Lozano had been hosting Vanguardia de la Ciencia for more than a decade. When RNE
+asked if he would host a second popular science program, Ángel Rodríguez Lozano realised that the scheduled timing, Sundays between 3 and 4 p.m, meant that it would be sandwiched between sports broadcasts. Therefore, he would have to capture the attention of listeners who were not looking for this type of program. The intention was therefore to make the program even more accessible than Vanguardia de la Ciencia, with shorter interviews and more music. Ángel Rodríguez Lozano stated that it had been a marvellous experience, and that the response had been tremendous.&lt;ref&gt;{{cite web|url=http://www.dimetu.com/2008/02/20/retropodcast-12-entrevista-a-angel-rodriguez-lozano/ |title=¡DIME TÚ! – Entrevista a Ángel Rodríguez Lozano |publisher=Dimetu.com |date=20 February 2008 |accessdate=1 January 2012}}&lt;/ref&gt;
+
+The program included science news, interviews, and biographies of great scientists, written by [http://www.rtve.es/?go=111b735a516af85c9c789c7a4fd3f107a35c62168843087fd36ba7aa2d2b605dceedec15a322702dd41da976ac96c4395def1e9f8e232e7869bb1c304bb715731b852947013e5ad675ccaeddfc4875cdea9bcd15f8880681 Carmen Buergo]. In the final, humorous section of the program, Ángel Rodríguez Lozano paid a visit to the archetypical [[mad scientist]]
+[http://www.ciencia.rne.es/?go=111b735a516af85c9c789c7a4fd3f107a35c62168843087fd36ba7aa2d2b605d5391d7ca78deb60dc51e84fc79f34cf020766f1ed143c396b5d1b644b9b60d9d0e1aa0b6615df94332359e92d8b381cbb51cf1d8bab454cc Alejandro Laguna], who supposedly lived and worked in a hidden laboratory in the basements of Radio Nacional de España, seven floors below ground level. Alejandro would demonstrate one of his latest inventions, which usually defied the laws of physics, and Ángel played the role of a rather gullible spectator. Alejandro then explained the physics of the corresponding real-world device. Finally, the demonstration of his invention usually had some highly unpleasant consequence for Ángel.
+
+==Termination of El Sueño de Arquímedes==
+
+In June 2007, El Sueño de Arquímedes and Vanguardia de la Ciencia were abruptly terminated. In the correspondence section of one of the last programs of Vangurardia de la Ciencia, Ángel Rodríguez Lozano explained, in response to a letter from an outraged listener, that the decision to terminate the program was made due to a re-structuration of RNE, and that he was but one of 4,150 employees who had to leave.&lt;ref&gt;
+Correspondence section at the end of the program [[Vanguardia de la Ciencia]] of 9 June 2007. {{cite web |url=http://www.vanguardia.rne.es/FRONT_PROGRAMAS?go=111b735a516af85ccdc4135d9df82c2e123009d61eb00f778b60af793b191c3165595f12f857fccf8fc4680324c44c505f04bbcd924eb3a14791bd690da53e204c2a972065f8551b |title=Archived copy |accessdate=2007-12-18 |deadurl=yes |archiveurl=https://archive.is/20121209052256/http://www.vanguardia.rne.es/FRONT_PROGRAMAS?go=111b735a516af85ccdc4135d9df82c2e123009d61eb00f778b60af793b191c3165595f12f857fccf8fc4680324c44c505f04bbcd924eb3a14791bd690da53e204c2a972065f8551b |archivedate=9 December 2012 |df=dmy-all }}
+&lt;/ref&gt;
+In the previously referenced interview, he explained that everyone older than 52 years had to retire early, and that he was 54 years old at the time.
+
+The decision to terminate the programs was widely criticized in Spanish-speaking blogs.&lt;ref&gt;{{cite web|author=Angel |url=http://golemp.blogspot.com/2007/06/una-oscuridad-que-crece.html |title=GOLEM Blog: Una oscuridad que crece |publisher=Golemp.blogspot.com |date=11 July 2006 |accessdate=1 January 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://napalfoto.blogspot.com/2007/06/vanguardia-de-la-ciencia-se-despide.html |title=Napalius: Vanguardia de la ciencia se despide |publisher=Napalfoto.blogspot.com |date=26 June 2007 |accessdate=1 January 2012}}&lt;/ref&gt;&lt;ref&gt;[http://sqysublog.blogspot.com/2007/06/el-fin-de-un-hermoso-sueo.html Bienvenido a mi mundo...: El fin de un hermoso sueño] {{webarchive |url=https://web.archive.org/web/20080620002521/http://sqysublog.blogspot.com/2007/06/el-fin-de-un-hermoso-sueo.html |date=20 June 2008 }}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Lacasito |url=http://oncoloxiamolecular.blogspot.com/2007/06/el-sueo-de-arqumedes.html |title=Grupo de Oncoloxía Molecular: El sueño de Arquímedes |publisher=Oncoloxiamolecular.blogspot.com |date=28 February 2004 |accessdate=1 January 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://rvr.blogalia.com/historias/50510 |title=Cuaderno de bitácora – Menos ciencia en RNE |publisher=Rvr.blogalia.com |accessdate=1 January 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Francisco José Martinez |url=http://lectorblogs.blogspot.com/2007/06/el-sueo-de-arqu-y-vanguardia-de-la.html |title=Diario de un lector de blogs: El sueño de Arquímides y Vanguardia de la Ciencia |publisher=Lectorblogs.blogspot.com |date=27 February 2004 |accessdate=1 January 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://groups.google.com/group/podcast-es/browse_thread/thread/e7ec10776dd535b5/7befce50149e9778?lnk=raot |title=Fin de un podcast – podcast-es &amp;#124; Google Groups |publisher=Google  |accessdate=1 January 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Escrito por Josemi |url=http://www.zentolos.com/?p=331 |title=Blog Archive » Reestructuración de empresa |publisher=Zentolos |date=27 June 2007 |accessdate=1 January 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Publicado por --3nder |url=http://binarybots.blogspot.com/2007/07/dime-que-es-un-sueo.html |title=BinaryBots: Dime que es un sueño |publisher=Binarybots.blogspot.com |date=11 July 2006 |accessdate=1 January 2012}}&lt;/ref&gt;
+
+==Available programs==
+At the web-site of RNE, 36 programs are still available.
+
+==Notes and references==
+
+{{reflist}}
+
+==External links==
+* Web site of El Sueño de Arquímedes: http://www.rtve.es/programas/cienciaytecnologia
+* Web site of Vanguardia de la Ciencia http://www.rtve.es/programas/vanguardia
+* El Vanguardia de la Ciencia at eSnips: https://web.archive.org/web/20110121042457/http://www.esnips.com/web/VanguardiaDeLaCiencia
+
+{{DEFAULTSORT:Sueno De Arquimedes}}
+[[Category:Audio podcasts]]
+[[Category:Spanish radio programs]]
+[[Category:Science and technology in Spain]]
+[[Category:Science in society]]
+[[Category:Science podcasts]]
+[[Category:Science education]]</text>
+      <sha1>n3a7w6hkns7ax6tmr3u19m26bqwvs9a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hyle</title>
+    <ns>0</ns>
+    <id>2929560</id>
+    <revision>
+      <id>863885483</id>
+      <parentid>845073705</parentid>
+      <timestamp>2018-10-13T18:23:19Z</timestamp>
+      <contributor>
+        <username>Carlossuarez46</username>
+        <id>23407</id>
+      </contributor>
+      <comment>hatdab</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3989">{{otheruses}}
+{{Refimprove|date=March 2010}}
+
+In [[philosophy]], '''hyle''' ({{IPAc-en|ˈ|h|aɪ|l|iː}}; from {{lang-grc|ὕλη}}) refers to [[Matter (philosophy)|matter]] or stuff.  It can also be the [[material cause]] underlying a change in [[Aristotelianism|Aristotelian]] philosophy. The Greeks originally had no word for matter in general, as opposed to raw material suitable for some specific purpose or other, so Aristotle adapted the word for "wood" to this purpose.&lt;ref&gt;Henry George Liddell, Robert Scott, James Morris Whiton, [https://books.google.com/books?id=nxoyBcpUuEsC&amp;lpg=PA829&amp;ots=xudfug-SqS&amp;dq=liddell%20and%20scott%20hyle&amp;pg=PA725#v=onepage&amp;q=&amp;f=false ''A lexicon abridged from Liddell &amp; Scott's Greek-English lexicon''] (New York: Harper and Brothers, 1891), 725.&lt;/ref&gt; The idea that everything physical is made of the same basic substance holds up well under modern [[science]], although it may be thought of more in terms of [[energy]] or matter/energy.&lt;ref&gt;{{cite book|title=The Nature of Physical Existence|first=Ivor|last= Leclerc|publisher=Routledge|year= 2004|ISBN=0-415-29561-0|pages=117}}&lt;/ref&gt;
+
+==Substance==
+
+The matter of hyle is closely related to that of [[substance theory|substance]], in so far as both endure a change in form, or transformation. Aristotle defined primary substance as that which can neither be predicated nor attributed to something else,&lt;ref name="sep-substance"&gt;{{cite encyclopedia |first=Howard |last=Robinson |editor=Edward N. Zalta |year=2009 |title=Substance |encyclopedia=The Stanford Encyclopedia of Philosophy |edition=Winter 2009 |url=http://plato.stanford.edu/archives/win2009/entries/substance/#AriAccSub}}&lt;/ref&gt; and he explained the transformation between the [[classical elements|four terrestrial elements]] in terms of an abstract primary matter that underlies each element due to the four combinations of two properties: hot or cold and wet or dry. He stipulated that transformations between opposing elements, where both properties differ, must be analyzed as two discrete steps wherein one of the two properties changes to its contrary while the other remains unchanged (see [[essence]] and [[hylomorphism]]).
+
+Modern substance theory differs, for example [[Immanuel Kant|Kant]]'s "Ding an sich", or "[[thing in itself]]", is generally described as whatever is its own cause, or alternatively as a thing whose only property is that it is that thing (or, in other words, that it has only that property). However, this notion is subject to the criticism, as by [[Nietzsche]], that there is no way to ''directly'' prove the existence of any thing which has no properties, since such a thing could not possibly interact with other things and thus would be unobservable and [[indeterminacy in philosophy|indeterminate]].
+
+On the other hand, we may need to postulate a substance that [[endurantism|endures]] through change in order to explain the nature of change—without an enduring factor that persists through change, there is no change but only a succession of unrelated [[event (philosophy)|event]]s. The existence of change is hard to deny, and if we have to postulate something ''unobserved'' in order to explain what ''is'' observed, that is a valid ''indirect'' demonstration (by [[abductive reasoning]]). Moreover, something like a prime substance is posited by [[physics]] in the form of [[matter]]/[[energy]].
+
+==See also==
+{{Columns-list|colwidth=30em|
+* [[Aristotle]]
+* [[Aristotelianism]]
+* [[Hylomorphism]]
+* [[Hylopathism]]
+* [[Hylozoism]]
+* [[Matter]]
+* [[Materialism]]
+* [[Noumenon]]
+* [[Prima materia]]
+* [[Substance theory]]
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{wiktionary}}
+* [https://web.archive.org/web/20060417081641/http://www.swif.uniba.it/lei/foldop/foldoc.cgi?hyle Definition]
+{{Ancient Greek philosophical concepts}}
+
+[[Category:Natural philosophy]]
+[[Category:Aristotelianism]]
+[[Category:Concepts in ancient Greek metaphysics]]
+
+{{philo-stub}}
+
+[[pl:Pierwiastki greckie]]</text>
+      <sha1>qiigz5enxp1qwpjfcnmhan7xc8ac3po</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>International HapMap Project</title>
+    <ns>0</ns>
+    <id>813041</id>
+    <revision>
+      <id>867223806</id>
+      <parentid>861178308</parentid>
+      <timestamp>2018-11-04T13:11:29Z</timestamp>
+      <contributor>
+        <username>Nemo bis</username>
+        <id>2584239</id>
+      </contributor>
+      <comment>Added free to read link in citations with [[WP:OABOT|OAbot]] #oabot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14964">{{primary sources|date=October 2012}}
+The '''International HapMap Project''' was an organization that aimed to develop a [[haplotype]] [[map]] ('''HapMap''') of the [[human genome]], to describe the common patterns of human [[genetic variability|genetic variation]]. HapMap is used to find genetic variants affecting health, disease and responses to drugs and environmental factors. The information produced by the project is made freely available for research.
+
+The International HapMap Project is a collaboration among researchers at academic centers, non-profit biomedical research groups and private companies in [[Canada]], [[China]], [[Japan]], [[Nigeria]], the [[United Kingdom]], and the [[United States]]. It officially started with a meeting on October 27 to 29, 2002, and was expected to take about three years. It comprises two phases; the complete data obtained in Phase I were published on 27 October 2005. The analysis of the Phase II dataset was published in October 2007.  The Phase III dataset was released in spring 2009.
+
+== Background ==
+Unlike with the [[rare disease|rarer]] [[Mendelian]] diseases, combinations of different [[genes]] and the environment play a role in the development and progression of common diseases (such as [[diabetes]], [[cancer]], [[heart disease]], [[stroke]], [[clinical depression|depression]], and [[asthma]]), or in the individual response to [[pharmacological]] agents. To find the genetic factors involved in these diseases, one could in principle do a [[genome-wide association study]]: obtain the complete genetic sequence of several individuals, some with the disease and some without, and then search for differences between the two sets of genomes. At the time, this approach was not feasible because of the cost of [[full genome sequencing]]. The HapMap project proposed a shortcut.
+
+Although any two unrelated people share about 99.5% of their [[DNA]] sequence, their [[genome]]s differ at specific [[nucleotide]] locations. Such sites are known as [[single nucleotide polymorphisms]] (SNPs), and each of the possible resulting gene forms is called an [[allele]]. The HapMap project focuses only on common SNPs, those where each allele occurs in at least 1% of the population.
+
+Each person has two copies of all [[chromosomes]], except the [[sex chromosomes]] in [[male]]s. For each SNP, the combination of alleles a person has is called a [[genotype]]. [[Genotyping]] refers to uncovering what genotype a person has at a particular site. The HapMap project chose a sample of 269 individuals and selected several million well-defined SNPs, genotyped the individuals for these SNPs, and published the results.
+
+The alleles of nearby SNPs on a single chromosome are correlated. Specifically, if the allele of one SNP for a given individual is known, the alleles of nearby SNPs can often be predicted. This is because each SNP arose in evolutionary history as a single point [[mutation]], and was then passed down on the chromosome surrounded by other, earlier, point mutations. SNPs that are separated by a large distance on the chromosome are typically not very well correlated, because [[Genetic recombination|recombination]] occurs in each generation and mixes the allele sequences of the two chromosomes. A sequence of consecutive alleles on a particular chromosome is known as a [[haplotype]].
+
+To find the genetic factors involved in a particular disease, one can proceed as follows. First a certain region of interest in the genome is identified, possibly from earlier inheritance studies. In this region one locates a set of [[tag SNP]]s from the HapMap data; these are SNPs that are very well correlated with all the other SNPs in the region.  Thus, learning the alleles of the tag SNPs in an individual will determine the individual's haplotype with high probability. Next, one determines the genotype for these tag SNPs in several individuals, some with the disease and some without. By comparing the two groups, one determines the likely locations and haplotypes that are involved in the disease.
+
+== Samples used ==
+ 
+[[Haplotypes]] are generally shared between populations, but their frequency can differ widely. Four populations were selected for inclusion in the HapMap: 30 adult-and-both-parents [[Yoruba people|Yoruba]] trios from [[Ibadan]], [[Nigeria]] (YRI), 30 trios of Utah residents of northern and western [[European ethnic groups|European]] ancestry (CEU), 44 unrelated Japanese individuals from [[Tokyo]], [[Japan]] (JPT) and 45 unrelated [[Han Chinese]] individuals from [[Beijing]], [[China]] (CHB). Although the haplotypes revealed from these populations should be useful for studying many other populations, parallel studies are currently examining the usefulness of including additional populations in the project.
+
+All samples were collected through a community engagement process with appropriate informed consent. The community engagement process was designed to identify and attempt to respond to culturally specific concerns and give participating communities input into the informed consent and sample collection processes.
+
+In phase III, 11 global ancestry groups have been assembled: ASW (African ancestry in Southwest USA); CEU (Utah residents with Northern and Western European ancestry from the CEPH collection); CHB (Han Chinese in Beijing, China); CHD (Chinese in Metropolitan Denver, Colorado); GIH (Gujarati Indians in Houston, Texas); JPT (Japanese in Tokyo, Japan); LWK (Luhya in Webuye, Kenya); MEX (Mexican ancestry in Los Angeles, California); MKK (Maasai in Kinyawa, Kenya); TSI (Tuscans in Italy); YRI (Yoruba in Ibadan, Nigeria).&lt;ref name="HapMap2010"&gt;International HapMap consortium et al. (2010). Integrating common and rare genetic variation in diverse human populations. ''Nature'', '''467''', 52-8. [https://dx.doi.org/10.1038/nature09298 doi]&lt;/ref&gt;
+
+{| class="wikitable"
+! Phase 
+! ID
+! Place
+! Population
+! Detail
+|-
+|I/II
+|CEU
+|{{flagicon|USA}}
+|[[Utah]] residents with [[Northern European|Northern]] and [[Western European]] ancestry from the [[Fondation Jean Dausset-CEPH|CEPH]] collection
+|[https://catalog.coriell.org/1/NIGMS/Collections/CEPH-Resources Detail]
+|-
+|I/II
+|CHB
+|{{flagicon|CHN}}
+|[[Han Chinese]] in [[Beijing]], [[China]]
+|[https://catalog.coriell.org/1/NHGRI/Collections/HapMap-Collections/Han-Chinese-in-Beijing-China-CHB Detail]
+|-
+|I/II
+|JPT
+|{{flagicon|JPN}}
+|[[Japanese people|Japanese]] in [[Tokyo]], [[Japan]]
+|[https://catalog.coriell.org/1/NHGRI/Collections/HapMap-Collections/Japanese-in-Tokyo-Japan-JPT Detail]
+|-
+|I/II
+|YRI
+|{{flagicon|NGR}}
+|[[Yoruba people|Yoruba]] in [[Ibadan]], [[Nigeria]]
+|[https://catalog.coriell.org/1/NHGRI/Collections/HapMap-Collections/Yoruba-in-Ibadan-Nigeria-YRI Detail]
+|-
+|III
+|ASW
+|{{flagicon|USA}}
+|[[African Americans|African ancestry]] in the [[Southwestern United States|Southwest USA]]
+|[https://catalog.coriell.org/1/NHGRI/Collections/HapMap-Collections/African-Ancestry-in-SW-USA-ASW Detail]
+|-
+|III
+|CHD
+|{{flagicon|USA}}
+|[[Chinese Americans|Chinese]] in [[metropolitan Denver]], [[Colorado|CO]], [[United States]]
+|[https://catalog.coriell.org/1/NHGRI/Collections/HapMap-Collections/Chinese-in-Metropolitan-Denver-CO-USA-CHD Detail]
+|-
+|III
+|GIH
+|{{flagicon|USA}}
+|[[Gujarati people|Gujarati]] [[Indian Americans|Indians]] in [[Houston]], [[Texas|TX]], [[United States]]
+|[https://catalog.coriell.org/1/NHGRI/Collections/HapMap-Collections/Gujarati-Indians-in-Houston-TX-USA-GIH Detail]
+|-
+|III
+|LWK
+|{{flagicon|KEN}}
+|[[Luhya people|Luhya]] in [[Webuye]], [[Kenya]]
+|[https://catalog.coriell.org/1/NHGRI/Collections/HapMap-Collections/Luhya-in-Webuye-Kenya-LWK Detail]
+|-
+|III
+|MKK
+|{{flagicon|KEN}}
+|[[Maasai people|Maasai]] in [[Kinyawa]], [[Kenya]]
+|[https://catalog.coriell.org/1/NHGRI/Collections/HapMap-Collections/Maasai-in-Kinyawa-Kenya-MKK Detail]
+|-
+|III
+|MXL
+|{{flagicon|USA}}
+|[[Mexican Americans|Mexican ancestry]] in [[Los Angeles]], [[California|CA]], [[United States]]
+|[https://catalog.coriell.org/1/NHGRI/Collections/HapMap-Collections/Mexican-Ancestry-in-Los-Angeles-CA-USA-MXL Detail]
+|-
+|III
+|TSI
+|{{flagicon|ITA}}
+|[[Tuscany|Toscani]] in [[Italy|Italia]]
+|[https://catalog.coriell.org/1/NHGRI/Collections/HapMap-Collections/Toscani-in-Italia-TSI Detail]
+|}
+
+Three combined panels have also been created, which allow better identification of SNPs in groups outside the nine homogenous samples: CEU+TSI (Combined panel of Utah residents with Northern and Western European ancestry from the CEPH collection and Tuscans in Italy); JPT+CHB (Combined panel of Japanese in Tokyo, Japan and Han Chinese in Beijing, China) and JPT+CHB+CHD (Combined panel of Japanese in Tokyo, Japan, Han Chinese in Beijing, China and Chinese in Metropolitan Denver, Colorado). CEU+TSI, for instance, is a better model of UK British individuals than is CEU alone.&lt;ref name="HapMap2010"/&gt;
+
+== Scientific strategy ==
+
+For the Phase I, one common SNP was genotyped every 5,000 bases. Overall, more than one million SNPs were genotyped. The genotyping was carried out by 10 centres using five different genotyping technologies. Genotyping quality was assessed by using duplicate or related samples and by having periodic quality checks where centres had to genotype common sets of SNPs.
+
+The Canadian team was led by [[Thomas J. Hudson]] at [[McGill University]] in [[Montreal]] and focused on chromosomes 2 and 4p. The Chinese team was led by [[Huanming Yang]] with centres in [[Beijing]], [[Shanghai]] and [[Hong Kong]] and focused on chromosomes 3, 8p and 21. The Japanese team was led by [[Yusuke Nakamura (geneticist)|Yusuke Nakamura]] at the [[University of Tokyo]] and focused on chromosomes 5, 11, 14, 15, 16, 17 and 19. The British team was led by [[David R. Bentley]] at the [[Sanger Institute]] and focused on chromosomes 1, 6, 10, 13 and 20. There were four United States' genotyping centres: a team led by [[Mark Chee]] and [[Arnold Oliphant]] at [[Illumina (company)|Illumina Inc.]] in [[San Diego]] (studying chromosomes 8q, 9, 18q, 22 and X), a team led by [[David Altshuler]] and [[Mark Daly (scientist)|Mark Daly]] at the [[Broad Institute]] in [[Cambridge, Massachusetts|Cambridge, USA]] (chromosomes 4q, 7q, 18p, Y and [[mitochondrion]]), a team led by [[Richard Gibbs (biologist)|Richard Gibbs]] at the [[Baylor College of Medicine]] in [[Houston]] (chromosome 12), and a team led by [[Pui-Yan Kwok]] at the [[University of California, San Francisco]] (chromosome 7p).
+
+To obtain enough SNPs to create the Map, the Consortium funded a large re-sequencing project to discover millions of additional SNPs. These were submitted to the public [[dbSNP]] database. As a result, by August 2006, the database included more than ten million SNPs, and more than 40% of them were known to be [[Polymorphism (biology)#Genetic polymorphism|polymorphic]]. By comparison, at the start of the project, fewer than 3 million SNPs were identified, and no more than 10% of them were known to be polymorphic.
+
+During Phase II, more than two million additional SNPs have been genotyped throughout the genome by the company [[Perlegen Sciences]] and 500,000 by the company [[Affymetrix]].
+
+== Data access ==
+All of the data generated by the project, including SNP frequencies, [[genotypes]] and [[haplotypes]], were placed in the public domain and are available for download. This website also contains a genome browser which allows to find SNPs in any region of interest, their allele frequencies and their association to nearby SNPs. A tool that can determine tag SNPs for a given region of interest is also provided. These data can also be directly accessed from the widely used [[Haploview]] program.
+
+==Criticisms==
+
+==Publications==
+* {{cite journal
+| author = International HapMap Consortium
+| date       = 2003
+| title      = The International HapMap Project
+| journal    = Nature
+| doi        = 10.1038/nature02168
+| volume     = 426
+| pages      = 789–796
+| url= https://deepblue.lib.umich.edu/bitstream/2027.42/62838/1/nature02168.pdf
+}}
+* {{cite journal
+| author = International HapMap Consortium
+| date       = 2004
+| title      = Integrating ethics and science in the International HapMap Project
+| journal    = Nature Reviews Genetics
+| doi        = 10.1038/nrg1351
+| volume     = 5
+| pages      = 467–475
+| pmc= 2271136
+}}
+* {{cite journal
+| author = International HapMap Consortium
+| date       = 2005
+| title      = A haplotype map of the human genome
+| journal    = Nature
+| doi        = 10.1038/nature04226
+| volume     = 437
+| pages      = 1299–1320
+}}
+* {{cite journal
+| author=International HapMap Consortium
+| date       = 2007
+| title      = A second generation human haplotype map of over 3.1 million SNPs
+| journal    = Nature
+| doi        = 10.1038/nature06258
+| volume     = 449
+| pages      = 851–861
+| pmc= 2689609
+}}
+* {{cite journal
+| author=International HapMap 3 Consortium
+| date       = 2010
+| title      = Integrating common and rare genetic variation in diverse human populations
+| journal    = Nature
+| doi        = 10.1038/nature09298
+| volume     = 467
+| pages      = 52–58
+}}
+* {{cite journal
+| vauthors= Deloukas P, Bentley D
+| date       = 2004
+| title      = The HapMap project and its application to genetic studies of drug response
+| journal    = The Pharmacogenomics Journal
+| doi        = 10.1038/sj.tpj.6500226
+| volume     = 4
+| pages      = 88–90
+}}
+* {{cite journal
+| vauthors=Thorisson GA, Smith AV, Krishnan L, Stein LD
+| date       = 2005
+| title      = The International HapMap Project Web site
+| journal    = Genome Research
+| doi        = 10.1101/gr.4413105
+| volume     = 15
+| pages      = 1592–1593
+}}
+* {{cite journal|last=|first=|vauthors=Terwilliger JD, Hiekkalinna T|date=2006|title=An utter refutation of the 'Fundamental Theorem of the HapMap'|url=https://www.nature.com/articles/5201583|journal=European Journal of Human Genetics|doi=10.1038/sj.ejhg.5201583|via=|volume=14|pages=426–437}}
+* Secko, David (2005). [http://www.the-scientist.com/news/20051026/01 "Phase I of the HapMap Complete"]. The Scientist
+
+==See also==
+*[[Genealogical DNA test]]
+*[[The 1000 Genomes Project]]
+*[[Population groups in biomedicine]]
+*[[Human Variome Project]]
+*[[Human genetic variation]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.hapmap.org/ International HapMap Project (HapMap Homepage)]
+* [http://www.genome.gov/10001688 National Human Genome Research Institute (NHGRI) HapMap Page]
+* [http://www.cshprotocols.org/cgi/content/full/2008/8/pdb.prot5023 Browsing HapMap Data Using the Genome Browser]
+* [https://archive.is/20100918023309/http://diversity.inmegen.gob.mx/gbrowse/cgi-bin/gbrowse/inmegen_diversity/ The Mexican Genome Diversity Project]
+
+{{Personal genomics}}
+
+[[Category:Human genome projects]]
+[[Category:Genetic genealogy projects]]
+[[Category:Genealogy websites]]
+[[Category:Biological databases]]
+[[Category:Open science]]
+[[Category:Single-nucleotide polymorphisms]]</text>
+      <sha1>fdinc4evinfgpqpfdepgqbgagrwknni</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Iron Science Teacher</title>
+    <ns>0</ns>
+    <id>33298861</id>
+    <revision>
+      <id>847662296</id>
+      <parentid>847658526</parentid>
+      <timestamp>2018-06-26T23:02:14Z</timestamp>
+      <contributor>
+        <username>Slinlee</username>
+        <id>16317484</id>
+      </contributor>
+      <minor/>
+      <comment>Updated the website URL</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5304">{{Use mdy dates|date=September 2011}}
+{{Infobox Television
+| show_name = Iron Science Teacher
+| image =
+| caption =
+| genre = Live Webcast
+| writer = 
+| presenter = Dr. Linda Shore
+| producer = 
+| country = United States
+| language = English
+| num_seasons = 
+| num_episodes = 
+| list_episodes =
+| runtime =  approx. 1 hour
+| network = LIVE@ Webcast Studio - Exploratorium
+| picture_format =
+| first_aired = Summer 1998
+| last_aired = present
+| website = https://www.exploratorium.edu/video/collections/iron-science-teacher/all
+}}
+The '''''Iron Science Teacher''''' is a national competition that celebrates innovation and creativity in science teaching. The competition originated at the [[Exploratorium]] in [[San Francisco]].&lt;ref name=calgary&gt;{{cite web|title=Iron Science Teacher 2011|url=https://www.ucalgary.ca/news/utoday/march15-2011/iron_science|accessdate=10-2-11}}&lt;/ref&gt;  Parodying the cult Japanese TV program, “[[Iron Chef]],” this competition showcases science teachers as they devise classroom activities using a particular ingredient — an everyday item such as a plastic bag, milk carton, or nail.&lt;ref&gt;{{cite web|title=Iron Science Teacher: At the Explo and Live Webcast|url=http://press.exploratorium.edu/iron-science-teacher-live-webcast-june-2011/|accessdate=10-2-11}}&lt;/ref&gt;   Contestants are currently or formally part of the Exploratorium's Teacher Institute and compete before a live audience for the title of "Iron Science Teacher."  Shows are also archived on the [http://www.exploratorium.edu/tv/index.php?project=11 Exploratorium's site].
+
+Astrophysicist Dr. Linda Shore, Director of the Exploratorium Teacher Institute and host of the competition, says one goal of the Iron Science Teacher is to "provide teachers with ideas about how to teach multimillion dollar state and national science teaching standards using, trash, recyclables, and inexpensive materials" as well as "to allow teachers to receive applause for great teaching."&lt;ref&gt;{{cite web|title=Iron Science Teacher|url=http://www.exo.net/~pauld/iron_science_teacher/ironsciencensta2003.html|publisher=Exploratorium|accessdate=10-2-11}}&lt;/ref&gt;
+
+==History==
+Back in 1997, the Exploratorium's Phyllis C. Wattis Webcast Studio was looking for new shows. During a staff brainstorming session, a fan of the popular Food Network television show, [[The Iron Chef]], suggested naming a secret ingredient for science teachers to use in an experiment to present to the audience. "It was honestly and truly a joke," Shore says. "We thought we'd do one show."&lt;ref name=da&gt;{{cite web|title=Iron Science Teacher|url=http://www.districtadministration.com/article/iron-science-teacher|publisher=District Administration|accessdate=10-2-11}}&lt;/ref&gt;
+
+==Current Shows==
+Now 10 to 12 shows are produced annually for the Exploratorium's website. "Secret" ingredients, which are revealed in advance to participants so they can practice, have included everything from ordinary baking soda and food coloring to Marshmallow Peeps and pantyhose.&lt;ref name=da /&gt;
+
+==Spin-offs==
+The Canadian Iron Science Teacher also parodies the popular TV series Iron Chef and is hosted by Jay Ingram of Daily Planet on Discovery Channel.&lt;ref name=calgary /&gt;   Unlike the Exploratorium version, where championship comes with no tangible prize, in the Canadian version, five "finalist" teachers, with their support teams, are selected to compete in the Iron Science Teacher finals at the University of Calgary in order to win a variety of cash prizes.  
+
+Colorado Springs, CO initiated their own CoOL Iron Science Teacher Competition as part of their What If: A Festival of Creativity &amp; Innovation on September 11, 2010.&lt;ref&gt;{{cite web|title=Colorado Springs CoOL Iron Science Teacher|url=http://www.coolscience.org/CoolScience/Teachers/CSCSF2010-IronScience.htm|publisher=Cool Science|accessdate=10-2-11}}&lt;/ref&gt;
+
+==List of Previous Secret Ingredients==
+''(plus links to the webcasts)''
+{| class="wikitable"
+|+
+!Date
+!Secret Ingredient
+!Winner
+|-
+|6/22/2018
+|[https://www.exploratorium.edu/video/2018-iron-science-teacher-balloons?autoplay=true Balloons]
+|Daisy Yeung
+|-
+|9/17/2011
+|[http://www.exploratorium.edu/tv/index.php?project=11&amp;program=1267&amp;type=webcast Chalk]
+|
+|-
+|7/8/2011
+|[http://www.exploratorium.edu/tv/index.php?project=11&amp;program=1239&amp;type=webcast Eggs]
+|
+|-
+|7/1/2011
+|[http://www.exploratorium.edu/tv/index.php?project=11&amp;program=1238&amp;type=webcast Magnets]
+|
+|-
+|6/25/2011
+|[http://www.exploratorium.edu/tv/index.php?project=11&amp;program=1237&amp;type=webcast Color]
+|
+|-
+|7/16/2010
+|[http://www.exploratorium.edu/tv/index.php?project=11&amp;program=219&amp;type=webcast Triangles]
+|
+|-
+|7/9/2010
+|[http://www.exploratorium.edu/tv/index.php?project=11&amp;program=1107 Leaves]
+|
+|-
+|7/2/2010
+|[http://www.exploratorium.edu/tv/index.php?project=11&amp;program=1094 Lightbulbs]
+|
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.sfgate.com/cgi-bin/article.cgi?f=/e/a/1998/12/13/METRO1.dtl Sacrificing fruitcake for science - Exploratorium staffers use the dessert as basis for experiments]
+* [http://cssd.ab.ca/default.asp?V_ITEM_ID=1639 Our Lady of Peace Science Teachers Win Iron Science Regional Championship]
+* [http://www.tc.columbia.edu/news/article.htm?id=3861 Iron Science Teacher Pits East Against West]
+
+
+
+[[Category:Science education]]</text>
+      <sha1>9n76lfuk76kv82yox5emmxkocxq414u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MovAlyzeR</title>
+    <ns>0</ns>
+    <id>24533329</id>
+    <revision>
+      <id>824416023</id>
+      <parentid>713088254</parentid>
+      <timestamp>2018-02-07T05:20:17Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.2)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9649">{{Infobox Software
+| name                   = MovAlyzeR
+| logo                   = 
+| screenshot             = 
+| caption                = MovAlyzeR running a handwriting experiment
+| developer              = [[NeuroScript]]
+| programming_language   = [[C++]]
+| latest_release_version = 6.1
+| latest_release_date    = {{release date and age|2010|07|27}}
+| operating_system       = [[Microsoft Windows]]
+| genre                  = [[Handwriting Movement Analysis]]
+| license                = [[Proprietary software|Proprietary]] [[EULA]]
+| website                = [http://www.neuroscript.net/movalyzer.php MovAlyzeR Homepage]
+}}
+
+'''MovAlyzeR''' is a software package for [[handwriting movement analysis]] for research and professional applications. Handwriting movements are recorded using a digitizing tablet connected to a computer. MovAlyzeR is used in many different fields ranging from research in [[kinesiology]], [[psychology]], [[education]], [[geriatrics]], [[neurology]], [[psychiatry]], [[occupational therapy]], forensic document examination or [[questioned document examination]], [[computer science]], to educational demonstrations or student projects in these fields.
+
+==Features==
+'''MovAlyzeR''' can be customized for many different pen-movement tests, including goal-directed movements, drawing and handwriting up to a full page of text. It can also process scanned handwriting images for use in, e.g., forensic document examination. Immediately after each trial, consistency with the required pen-movement task is verified so that the user can decide to correct or redo a trial. MovAlyzeR can generate animated audiovisual stimuli which can be edited using its '''Stimulus Editor'''.
+
+'''MovAlyzeRx''' has the same capability as MovAlyzeR except altering a test. It is designed for medical professionals (hence ''Rx''). The user interface is as simple as possible. No left-clicks are required. The screen layout can be customized. To start testing, just type the patient or participant code.
+
+'''ScriptAlyzeR''' handwriting analysis software, is a sub-package of MovAlyzeR excluding visual stimuli and sub-movement analysis.
+
+'''GripAlyzeR''' is another flavor of MovAlyzeR for bi-manual force coordination using dedicated hardware: Two grip-force units connected via a magnet of programmable force.
+
+==History==
+The original code of the software was the result of many years of research in handwriting movements. At the core of the software, the signal analysis algorithms that are used have been developed since 1976 when Dr. Hans-Leo Teulings conducted research into the development of handwriting motor control in children in comparison to children with developmental disorders at the Department of Experimental Psychology at the University of Nijmegen (KUN), in The Netherlands. The department became part of the Nijmegen Institute for Cognition and Information (NICI) and eventually the Centre for Cognition at the Radboud University Nijmegen (RU).
+
+These signal analysis algorithms were originally coded in Fortran on Digital's PDP11/34 laboratory computers with 54kB of memory. The algorithms use a complex Fast Fourier Transform (FFT) to transform both the x and y signals into frequency domain. This allows low-pass filtering and differentiation with zero-phase and ripple free filtering of both x and y signals simultaneously (Teulings &amp; Maarse, 1984).
+
+The software was expanded and transcribed into plain C during the European ESPRIT projects: P419 "Image and Movement Understanding -- IMU" on Cursive-script recognition (1985–1988) and ESPRIT project P5204 "Pen And Paper Input Recognition Using Script – PAPYRUS (1991–1992).
+
+The software was developed further at the Motor Control Laboratory of Arizona State University, USA (1993–1997) for research on Parkinson's disease and aging.
+
+In 1997, NeuroScript was founded by Dr. Hans-Leo Teulings and Prof. George Stelmach (who has since retired) as a result of a National Institutes of Health (NIH) Small Business and Innovation Research (SBIR) Phase I grant (R43 RR11683: Analysis system for fine motor control) to conduct a feasibility study into the feasibility of a general purpose handwriting movement analysis system for research.
+
+In 1999, an SBIR Phase II grant was awarded to NeuroScript (R44 RR11683 Analysis system for fine motor control). The aim was to develop this system into a usable product. The result: the MovAlyzeR software was born - named, designed and implemented by Gregory M. Baker who joined NeuroScript in 1999.
+
+In 2002, NeuroScript received an SBIR Phase II grant (R44 NS39212 Force measurement and analysis system). This enabled NeuroScript to generalize MovAlyzeR for bi-manual force coordination: GripAlyzeR. Instead of x and y movement components and axial pen pressure, GripAlyzeR used left and right grip forces and a lift force.
+
+In 2002 NeuroScript received another Phase II grant (R44 NS38793: Optimization software for goal-directed movements). MovAlyzeR was expanded with interactive and animated audio-visual stimuli and sub-movement analysis.
+
+In 2006, a Phase II grant was awarded (R44 MH073192: Movement Analysis to Monitor Medication). MovAlyzeR was tested in several major clinics where hundreds of patients were tested for movement side effects due to schizophrenia medication in addition to conventional clinical evaluation (SAEPS - Simpson-Angus Scale for Extrapyramidal Symptoms and parkinsonism, AIMS – Abnormal Involuntary Movement Scale for tardive dyskinesia, BARS – Barnes Akathisia Rating Scale). Results demonstrated that MovAlyzeR measurements were more sensitive for dosage and medication type than the conventional clinical evaluations.
+
+==Versions==
+
+*'''MovAlyzeR 6''' (Apr. 2010) External processing extended to the trial events set in each condition or task. Added Getting-Started Videos window with links to tutorial videos. Example experiments improved. Sample MATLAB® scripts for external processing added to the new sample experiment: MAT. Any PNG, JPG, BMP, GIF and PCX handwriting image processing added. New skins. The licensing interface simplified and improved.
+*'''MovAlyzeR 5''' (Feb. 2009) Integrated with Matlab scripts. Uninterrupted recordings of 30 minutes. Word extraction in recordings with large numbers of words. MovAlyzeR Quick Reference. Attachments of documents to experiments. Enhanced tutorial. MovAlyzeRx patient-centered experiment and data analysis interface (no right-clicks needed). Customizable application look.
+*'''MovAlyzeR 4''' (Feb. 2007) Certified for MS Windows Vista. Pen tilt recording. Knowledge of Results after each trial. Summarization of data across trials or up and down strokes. Sequence of condition customization with randomization rules. Sampling rate and device resolution automatically detected per test and stored for each subject. Questionnaire for demographics and clinical data integrated in data summarization. Subject Codes without limitation. Automatic generation of up to 46000 unique subject IDs. Export Wizard for multiple-subject export and automatic website (FTP) uploading. Device setup wizard. Graphical Stimulus Editor. Correction and measurement of data discontinuities due to pen lifts.  Importing and processing of handwriting images.
+*'''MovAlyzeR 3''' (Aug. 2004) Digitally signed by VeriSign using Microsoft Authenticode. Pay per use. Data sharing via LAN or internet URL. Client / Server database interaction. Multiple stroke segmentation methods.
+*'''MovAlyzeR 2''' (Sep. 2002) Certified for MS Windows XP. Event sounds. Stroke counting during recording. Real-time transformation of visual feedback during recording. Dynamic and animated stimuli. Example user UU1 with example experiments. Tooltips to all screen items. Digitizer accuracy and linearity test. Test signal simulation. Subject privacy protection.
+*'''MovAlyzeR 1''' (Aug. 2001) Data import wizard. Run experiment wizard. Charts with Standard Error, Mean of the within-subject means and SDs. Replay handwriting movement in real time.
+
+==Related file formats and extensions==
+{| class="wikitable"
+!Ext.
+!Explanation
+|-
+| '''[[Handwriting raw data file|.hwr]]'''
+|.hwr files contain x and y tablet coordinates and axial pen pressure. Data can also include azimuth and altitude angles of the pen barrel relative to the digitizer tablet.
+|- 
+| '''.mef'''
+|.mef files are MovAlyzeR Export Files with a complete experiment plus raw data and privacy-protected subject data using data encryption plus password protection. Only MovAlyzeR can open these files. 
+|- 
+|}
+
+==Comparable software==
+CSWIN by Science and Motion, OASIS by KikoSoft, Pullman Spiral Acquisition and Analysis by Lafayette, NeuroSkill by Verifax, COMpet by University of Haifa, MedDraw by Universities of Kent and Rouen.
+
+==See also==
+*[[Graphonomics]] science of handwriting and drawing movement production and processing.
+*[[Fine motor skill]] dexterity and coordination of small muscle movements
+*[[Handwriting movement analysis]] reviewing digitizer tablets and software systems
+
+==External links==
+*[http://www.scienceandmotion.com CSWIN by Science and Motion]
+*[http://www.kikosoft.com OASIS by KikoSoft]
+*[http://www.lafayettelifesciences.com/product_detail.asp?ItemID=1219 Pullman Spiral Acquisition and Analysis (Columbia University, New York) by Lafayette]
+*[http://www.ineuroskill.com NeuroSkill by Verifax]
+*[http://research.haifa.ac.il/~rosens/cicweb.htm COMpet by University of Haifa]
+*[https://web.archive.org/web/20090415135536/http://www.meddraw.org/ MedDraw by Universities of Kent and Rouen]
+
+{{DEFAULTSORT:Movalyzer}}
+[[Category:Research]]
+[[Category:Science software]]</text>
+      <sha1>thoauk9r1sih8uv93xqvf6efgggmij5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>On Nature (Anaximander)</title>
+    <ns>0</ns>
+    <id>12108220</id>
+    <revision>
+      <id>753751447</id>
+      <parentid>753716640</parentid>
+      <timestamp>2016-12-08T23:42:27Z</timestamp>
+      <contributor>
+        <username>Chiswick Chap</username>
+        <id>2666701</id>
+      </contributor>
+      <comment>see also</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1108">:''For other philosophical literature by the same name see [[On Nature (disambiguation)]]''.
+
+'''''On Nature''''' was a [[philosophy|philosophical]] poem which details [[Anaximander]]'s theories about the [[evolution]] of the [[Earth]], [[plant]]s, [[animal]]s and [[humankind]]. Anaximander described his theory that humans and other animals descended from fish once the world's oceans began to dry up. Also he described a theory of [[abiogenesis]] in his book in the way that he believed that the first life forms formed from mist. We know little about his book because it has been lost or destroyed, however it still remains important today because it describes one of the world's earliest theories of evolution.
+
+==See also==
+* [[Aristotle's biology]]
+
+== External links ==
+*[http://www.ucmp.berkeley.edu/history/ancient.html#Ionia Evolution and paleontology in the ancient world]
+
+[[Category:Presocratic philosophical literature]]
+[[Category:Philosophical poems]]
+[[Category:Science books]]
+[[Category:History of evolutionary biology]]
+[[Category:Natural philosophy]]
+
+
+{{Philo-book-stub}}
+{{poem-stub}}</text>
+      <sha1>3i62jb2ti2fmq8nmd35mvkw623iak7a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Serendipity</title>
+    <ns>0</ns>
+    <id>27006</id>
+    <revision>
+      <id>870474853</id>
+      <parentid>870458589</parentid>
+      <timestamp>2018-11-25T02:05:48Z</timestamp>
+      <contributor>
+        <username>Fama Clamosa</username>
+        <id>10370269</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/2A00:23C4:9D14:F500:61B9:C2EF:C2C7:93CF|2A00:23C4:9D14:F500:61B9:C2EF:C2C7:93CF]] ([[User talk:2A00:23C4:9D14:F500:61B9:C2EF:C2C7:93CF|talk]]) to last version by 165.225.80.245</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11996">{{other uses}}
+{{Redirect|Happy accident|other uses|Happy Accidents (disambiguation){{!}}Happy Accidents}}
+[[File:Black Crowned Night Heron - Pileated Woodpecker.jpg|thumb|300px|The photo was intended to be of a [[black-crowned night heron]]; the photographer was initially unaware of the [[pileated woodpecker]] flashing through.]] 
+
+'''Serendipity''' means an unplanned, fortunate  discovery.&lt;ref&gt;{{cite web|title=Serendipity|url=https://en.oxforddictionaries.com/definition/serendipity|website=OxfordDictionaries.com|publisher=Oxford dictionary|accessdate=23 April 2018}}&lt;/ref&gt;
+
+The notion of serendipity is a common occurrence throughout the history of scientific innovation. Examples are [[Alexander Fleming]]'s accidental discovery of [[penicillin]] in 1928, the invention of the [[microwave oven]] by Percy Spencer  in 1945, and the invention of the [[Post-it note]] by [[Spencer Silver]] in 1968.
+
+In June 2004, a British translation company voted the word to be one of the ten English [[words hardest to translate]].&lt;ref&gt;{{cite web|title=Words hardest to translate – The list by Today Translations. Also defined in modern times as "An unexpected discovery occurring by design". Unknown reference updated on 12/14/2014 by Isaac Lucero, Santa Fe, NM USA |publisher=Global Oneness |date=21 April 2009 |url=http://www.experiencefestival.com/a/Words_hardest_to_translate_-_The_list_by_Today_Translations/id/5596801 |deadurl=yes |archiveurl=https://web.archive.org/web/20090125055716/http://experiencefestival.com/a/Words_hardest_to_translate_-_The_list_by_Today_Translations/id/5596801 |archivedate=January 25, 2009 }}&lt;/ref&gt; However, due to its sociological use, the word has since been exported into many other languages.&lt;ref&gt;For example: [[portuguese language|Portuguese]] ''serendipicidade'' or ''serendipidade''; French ''sérendipicité'' or ''sérendipité'' but also ''heureux hasard'', "fortunate chance"; Italian ''serendipità'' ([http://dizionari.hoepli.it/Dizionario_Italiano/parola/serendipita.aspx?idD=1&amp;Query=serendipit%C3%A0&amp;lettera=S Italian Dictionary Hoepli, cfr.]); [[Dutch language|Dutch]] ''serendipiteit''; German ''Serendipität''; Japanese serendipiti (セレンディピティ); [[Swedish language|Swedish]], [[Danish language|Danish]] and [[Norwegian language|Norwegian]] ''serendipitet''; [[Romanian language|Romanian]] ''serendipitate''; Spanish ''serendipia'', Polish: ''Serendypność''; [[Finnish language|Finnish]] ''serendipiteetti''&lt;/ref&gt;
+
+==Etymology==
+The first noted use of "serendipity" in the [[English language]] was by [[Horace Walpole]] in 1754. In a letter he wrote to his friend [[Sir Horace Mann, 1st Baronet|Horace Mann]], Walpole explained an unexpected discovery he had made about a (lost) painting&lt;ref&gt;{{Cite journal|date=2017-09-04|title=Lost artworks|url=https://en.wikipedia.org/w/index.php?title=Lost_artworks&amp;oldid=798895435|journal=Wikipedia|language=en}}&lt;/ref&gt; of [[Bianca Cappello]] by [[Giorgio Vasari]] by reference to a  Persian fairy tale, ''[[The Three Princes of Serendip]]''. The princes, he told his correspondent, were "always making discoveries, by accidents and sagacity, of things which they were not in quest of".&lt;ref&gt;{{Cite book |editor-first=Theodore G. |editor-last=Remer |title=Serendipity and the Three Princes, from the Peregrinaggio of 1557 |page=6|others=Edited, with an Introduction and Notes, by Theodore G. Remer. Preface by W. S. Lewis |publisher=[[University of Oklahoma Press]] |year=1965 }} LCC 65-10112&lt;/ref&gt; The name comes from ''[[Names of Sri Lanka#Ceylon, Serendip and related names|Serendip]]'', an old name for [[Sri Lanka]] (Ceylon), hence ''Sarandib'' by Arab traders.&lt;ref&gt;{{cite book|last=Barber|first=Robert K. Merton, Elinor|title=The Travels and Adventures of Serendipity : A Study in Sociological Semantics and the Sociology of Science|year=2006|publisher=Princeton University Press|location=Princeton, NJ|isbn=0691126305|pages=1–3|edition=Paperback}}&lt;/ref&gt; It is derived from the Sanskrit ''Siṃhaladvīpaḥ'' (Siṃhalaḥ, Sri Lanka + dvīpaḥ, island).&lt;ref&gt;{{cite web|url=http://www.thefreedictionary.com/serendipity|title=serendipity|author=|date=|publisher=|via=The Free Dictionary}}&lt;/ref&gt;
+
+==Business and strategy==
+M. E. Graebner describes serendipitous value in the context of the acquisition of a business as "windfalls that were not anticipated by the buyer prior to the deal": i.e., unexpected advantages or benefits incurred due to positive synergy effects of the merger.{{Citation needed|date=December 2008}}
+
+[[Ikujiro Nonaka]]&lt;ref&gt;1991, p.&amp;nbsp;94 November–December issue of [[Harvard Business Review]]&lt;/ref&gt; points out that the serendipitous quality of innovation is highly recognized by managers and links the success of Japanese enterprises to their ability to create knowledge not by processing information but rather by "tapping the tacit and often highly subjective insights, intuitions, and hunches of individual employees and making those insights available for testing and use by the company as a whole".
+
+Serendipity is postulated by Napier and Vuong (2013) as a 'strategic advantage' with which a firm can tap its potential creativity.&lt;ref&gt;[https://books.google.com/books?id=cdjYAQAAQBAJ Napier, Nancy K., and Vuong Quan Hoang. "Serendipity as a strategic advantage?." ''Strategic Management in the 21st Century; edited by Timothy J. Wilkinson.'', '''2013''', ''1'', 175–199.]&lt;/ref&gt;
+
+Serendipity is a key concept in [[competitive intelligence]] because it is one of the tools for avoiding blind spots (see [[Blindspots analysis]]).&lt;ref&gt;[http://www.egideria.com/serendip.html Serendipity in Competitive Intelligence by [[Yves-Michel Marti]], Egideria] {{webarchive |url=https://web.archive.org/web/20110827142133/http://www.egideria.com/serendip.html |date=August 27, 2011 }}&lt;/ref&gt;{{clarify|date=February 2013}}
+
+==Uses==
+Serendipity is used as a [[sociology|sociological]] method in [[Anselm L. Strauss]]' and [[Barney G. Glaser]]'s ''[[grounded theory]]'', building on ideas by sociologist [[Robert K. Merton]], who in ''[[Social Theory and Social Structure]]'' (1949) referred to the "serendipity pattern" as the fairly common experience of observing an unanticipated, anomalous and strategic datum which becomes the occasion for developing a new theory or for extending an existing theory. Merton also co-authored (with Elinor Barber) ''The Travels and Adventures of Serendipity'',&lt;ref&gt;Princeton: Princeton University Press, 2003&lt;/ref&gt; which traces the origins and uses of the word "serendipity" since it was coined. The book is "a study in sociological semantics and the sociology of science", as the subtitle of the book declares. It further develops the idea of serendipity as scientific "method" (as juxtaposed with purposeful discovery by experiment or retrospective prophecy).
+
+=={{anchor|Zemblanity|Bahramdipity}}Related terms==
+[[William Boyd (writer)|William Boyd]] coined the term '''zemblanity''' in the late twentieth century to mean somewhat the opposite of serendipity: "making unhappy, unlucky and unexpected discoveries occurring by design".&lt;ref&gt;Boyd, William. ''Armadillo'', Chapter 12, [[Alfred A. Knopf|Knopf]], New York, 1998. {{ISBN|0-375-40223-3}}&lt;/ref&gt;  A zemblanity is, effectively, an "unpleasant unsurprise". It derives from [[Novaya Zemlya]] (or Nova Zembla), a cold, barren land with many features opposite to the lush Sri Lanka (Serendip). On this island [[Willem Barents]] and his crew were stranded while searching for a new route to the east.
+
+'''Bahramdipity''' is derived directly from [[Bahram V|Bahram Gur]] as characterized in ''[[The Three Princes of Serendip]]''.  It describes the ''suppression'' of serendipitous discoveries or research results by powerful individuals.&lt;ref&gt;(a) [http://www.the-scientist.com/yr1999/feb/opin_990201.html Sommer, Toby J. "'Bahramdipity' and Scientific Research", ''The Scientist'', '''1999''', ''13''(3), 13.] &lt;br /&gt;(b) [http://www.bmartin.cc/dissent/documents/Sommer.pdf Sommer, Toby J. "Bahramdipity and Nulltiple Scientific Discoveries," ''Science and Engineering Ethics'', '''2001''', ''7''(1), 77–104.]&lt;/ref&gt;
+
+==See also==
+* [[Browse]]
+* [[Chance (disambiguation)|Chance]]
+* [[Coincidence]]
+* [[Felix culpa]]
+* [[Insight]]
+* [[Lateral thinking]]
+* [[Multiple discovery]]
+* [[Role of chance in scientific discoveries]]
+
+==Notes==
+{{reflist|30em}}
+
+==References==
+{{refbegin}}
+* "The view from Serendip", by Arthur C. Clarke, Random House, 1977.
+* "Momentum and Serendipity: how acquired leaders create value in the integration of technology firms", by Melissa E. Graebner, McCombs School of Business, [[University of Texas at Austin]], Austin, Texas, U.S.A. 2004.
+{{refend}}
+
+==Further reading==
+*{{Cite book |first=Robert K. |last=Merton |first2=Elinor |last2=Barber |title=The Travels and Adventures of Serendipity: A Study in Sociological Semantics and the Sociology of Science |publisher=[[Princeton University Press]] |year=2004 |isbn=0-691-11754-3 }} (Manuscript written 1958).
+* Frédéric Darbellay et al., [http://www.tandfonline.com/doi/full/10.1080/10400419.2014.873653#.UxHUml6ImPc Interdisciplinary Research Boosted by Serendipity], Creativity Research Journal, Volume 26, Issue 1, 2014.
+*{{Cite book |first=Patrick J. |last=Hannan |title=Serendipity, Luck and Wisdom in Research |publisher=[[iUniverse]] |year=2006 |isbn=0-595-36551-5 }}
+*{{Cite book |first=Royston M. |last=Roberts |title=Serendipity: Accidental Discoveries in Science |publisher=Wiley |year=1989 |isbn=0-471-60203-5 }}
+*{{Cite journal |first=Pek Van |last=Andel |title=Anatomy of the unsought finding : serendipity: origin, history, domains, traditions, appearances, patterns and programmability |journal=British Journal for the Philosophy of Science |year=1994 |volume=45 |issue=2 |pages=631–648 |doi=10.1093/bjps/45.2.631 }}
+*{{Cite book |first=Richard |last=Gaughan |title=Accidental Genius: The World's Greatest By-Chance Discoveries |publisher=Metro Books |year=2010 |isbn=978-1-4351-2557-5}}
+*Solomon, Y'''.''', &amp; Bronstein, J. (2016). [http://www.emeraldinsight.com/doi/full/10.1108/AJIM-04-2015-0056 Serendipity in legal information seeking behavior: Chance encounters of family-law advocates with court rulings], ''Aslib Journal of Information Management,'' 68(1), 112-134. doi: 10.1108/AJIM-04-2015-0056
+
+==External links==
+{{external links|date=January 2013}}
+{{Wiktionary|serendipity}}
+{{Wikiquote|Serendipity (effect)}}
+{{commons category}}
+* [https://www.pbs.org/wgbh/nova/cancer/discoveries.html Accidental discoveries]. PBS
+*{{webarchive |url=https://web.archive.org/web/20071011073747/http://exn.ca/stories/2004/04/19/51.asp |date=October 11, 2007 |title=Top Ten: Accidental discoveries. Discovery Channel }}
+* [http://search.barnesandnoble.com/books/product.aspx?ean=9781435125575 Accidental Genius Book] – anecdotes of serendipitous scientific discoveries.
+* [http://portal.acm.org/citation.cfm?id=1178745.1178756 ACM Paper on Creating serendipitous encounters in a geographically distributed community].
+* [http://www.ercim.org/publication/ws-proceedings/DelNoe01/3_Toms.pdf Serendipitous Information Retrieval : An Academic Research Publication by Elaine G. Toms]
+* [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1385402 Programming for Serendipity – AAAI Technical Report FS-02-01]
+* [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1380082 The Serendipity Equations]
+* [http://news.bbc.co.uk/1/hi/technology/5018998.stm Serendipity and the Internet] from [[Bill Thompson (technology writer)|Bill Thompson]] at the [[BBC]]
+* [https://web.archive.org/web/20071005164043/http://www.simonsingh.net/Serendipity.html Serendipity of Science] – a [[BBC Radio 4]] series by Simon Singh
+* [http://www.psychologytoday.com/magazine/archive/2010/05 Psychology today's main article about serendipity]
+
+{{Unintended consequences}}
+
+[[Category:Philosophy of science]]
+[[Category:Synchronicity]]
+[[Category:Scientific method]]
+[[Category:Inventions]]
+[[Category:Luck]]</text>
+      <sha1>e41jwe1t4tyuk2afkuzenay4np9fo8c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Solomon Four Group Design</title>
+    <ns>0</ns>
+    <id>48311968</id>
+    <revision>
+      <id>699305424</id>
+      <parentid>694777190</parentid>
+      <timestamp>2016-01-11T15:18:39Z</timestamp>
+      <contributor>
+        <username>Nsxsvn</username>
+        <id>26508850</id>
+      </contributor>
+      <minor/>
+      <comment>Nsxsvn moved page [[Soloman Four Group Design]] to [[Solomon Four Group Design]]: Spelling mistake in title</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="814">{{multiple issues|
+{{notability|date=November 2015}}
+{{Orphan|date=October 2015}}
+}}
+The Solomon Four Group Design is a [[research method]] that is sometimes used in [[social science]], [[psychology]] and medicine. It can be used if there are concerns that the treatment might be sensitized by the pre-test.&lt;ref&gt;Introduction to Research in Education by Donald Ary, Lucy Jacobs, Christine Sorensen&lt;/ref&gt; The four groups have four different experiences:
+# Pre-test, treatment, post-test
+# Pre-test, no treatment, post-test
+# Treatment, post-test
+# No treatment, post-test
+
+The effectiveness of the treatment can be evaluated by comparisons between groups 1 and 2 and between groups 3 and 4.
+
+==References==
+{{reflist}}
+
+[[Category:Design of experiments]]
+[[Category:Clinical research]]
+[[Category:Scientific method]]</text>
+      <sha1>qm79i0chzfwhs41clfixt6c0z44rtdu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Total balance</title>
+    <ns>0</ns>
+    <id>20612276</id>
+    <revision>
+      <id>859989231</id>
+      <parentid>859843906</parentid>
+      <timestamp>2018-09-17T16:32:28Z</timestamp>
+      <contributor>
+        <username>GünniX</username>
+        <id>237572</id>
+      </contributor>
+      <comment>Undid revision 859843906 by [[Special:Contributions/Abhay shsrma|Abhay shsrma]] ([[User talk:Abhay shsrma|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2129">{{Multiple issues|
+{{refimprove|date=December 2010}}
+{{orphan|date=February 2009}}
+}}
+
+'''Total balance''' refers to whole-system scientific methods for adding up the whole effect of things, starting from the concepts of [[life-cycle analysis]] (LCA) and using [[scientific method]]s to mix physical measures with economic measures and the whole system learning curves of their environmental connections.  A balance of future compensations assuming a goal of sustainability is the objective.   It is aimed at providing people a true measure of the meaning of their choices.   The start is using the energy value of money as a measure of the whole economic system, and its widely distributed average effects.
+
+The untraceable portion of whole system impacts may be shown to be many times the scale of the traceable portion when considered that way.  It's useful because so much  of the impacts distributed in complex systems are unaccountable.  The major unaccountable part of economic impacts, for example, is the free use of the money given others for their goods and services.  There are no data for what they do with it, making it a perfect hiding place for many times the impacts you readily see.
+
+For whole energy impact of a choice the simple first step is to add up the accountable [[British thermal unit|BTUs]] used, like electric bills and LCA accounts, and then add the country's [[Gross domestic product|GDP]] for the cost. The global average spent per BTU works out to roughly 6000 BTU per dollar in 2008 based on [[United States Department of Energy]] trends.&lt;ref&gt;{{cite web  |url=http://www.eia.doe.gov/emeu/cabs/carbonemiss/chapter1.html  |title=World Energy Use and Carbon Dioxide Emissions, 1980-2001: I. Overview  |deadurl=yes  |archiveurl=https://web.archive.org/web/20070608100643/http://www.eia.doe.gov/emeu/cabs/carbonemiss/chapter1.html  |archivedate=2007-06-08  |df=  }}&lt;/ref&gt;  Then there are ways to proportionally adjust that for the details of other things.  The effect is to add the impacts of the technology and the impacts of the commerce.
+
+==References==
+{{reflist}}
+
+[[Category:Scientific method]]</text>
+      <sha1>hmgbgbolbcxqceukr37t7i4r7o9iogb</sha1>
+    </revision>
+  </page>
+</mediawiki>
