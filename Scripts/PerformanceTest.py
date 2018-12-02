@@ -10,41 +10,27 @@ import BloomClassify as BC
 
 BFdict = {}
 LSIs = LSIsimilarity.LSIsimilarity()
-CL = BC.BloomClassify(num = 50)
+CL = BC.BloomClassify(num = 50,baselineFolder="../BigBaseline/plaindata")
 
 #This function trains both algorithms with the same baseline
-def train_Baseline(mfw,basepath="../RandomBaseline/plaindata"):
+def train_Baseline(basepath="../BigBaseline/plaindata"):
     #Bloomfilter
-    CL.get_mfw()
-    CL.get_tfidf()
+    #CL.get_mfw()
+    CL.get_tfidf_1000()
     CL.train_BL(mfw = 0, tfidf = 1)
+    CL.save_BL()
     #LSI
-    LSIs.train(basepath="../RandomBaseline/plaindata")
-
+    #LSIs.train(basepath="../BigBaseline/plaindata")
     #Create LSI object
     pass
     #iterate over given Baseline folder -> get category baseline
-    # '''   categories = os.listdir(basepath)
-    
-    # if '.DS_Store' in categories:
-    #     categories.remove('.DS_Store')
 
-    # for cat in categories:
-    #     #Create Bloomfilter object for every category
-    #     BFdict[cat] = BloomFilter.BloomFilter()
-    #     #Create path for specific category
-    #     filepath = basepath+cat+"/AA/wiki_00"
-    #     #get high frequent word of articles
-    #     articles = lp.languageProcess(filepath).getHighFreqWords()
-    #     #train Bloom filter of specific category
-    #     for art in articles:
-    #         for word in art.most_common(mfw):
-    #             BFdict[cat].train(word[0])
-    # '''
-
-def check_article(mfw,validpath = "../TestArticle/plaindata"):
+#This function is comparing testarticles with the given
+#validpath = path to testfiles
+def check_article(validpath = "../TestArticle/plaindata"):
+    print("checking articles for test")
     #get article which should be excluded from testarticles
-    with open('../RandomBaseline/zz_index.json') as f:
+    with open('../BigBaseline/zz_index.json') as f:
         data = json.load(f)
 
     #Get all categories as list
@@ -58,6 +44,7 @@ def check_article(mfw,validpath = "../TestArticle/plaindata"):
     resultsLSI={}
     #iterating over the different categories
     for cate in category:
+        print("Testing category: "+cate)
         filepath = validpath+"/"+cate+"/AA/wiki_00"
         article = lp.languageProcess(filepath)
         testarticle =   article.getHighFreqWordsAsDict()
@@ -83,22 +70,18 @@ def check_article(mfw,validpath = "../TestArticle/plaindata"):
                 valid_dict['title']=key
                 BFcategoryResults.append(valid_dict)
 
-                lsiRes=LSIs.compare(testarticle2[key])
-                lsiRes['title']=key
-                LSIcategoryResults.append(lsiRes)
-                #print(LSIcategoryResults)
+                #lsiRes=LSIs.compare(testarticle2[key])
+                #lsiRes['title']=key
+                #LSIcategoryResults.append(lsiRes)
         resultsBF[cate]=BFcategoryResults.copy()
         resultsLSI[cate]=LSIcategoryResults.copy()
         #print([key for key,value in resultsBF.items()])
-    write2csv('RandomBaseline03',{'bloomfilter':resultsBF,'LSI':resultsLSI})
+    write2csv('BigBaseline01',{'bloomfilter':resultsBF,'LSI':resultsLSI})
     #return {'bloomfilter':resultsBF,'LSI':resultsLSI}
 
-
+#This function writes the testresults to a csv file
 def write2csv(baseline,nestedFile):
-    
-    #print(type(nestedFile))
-    #print(type(nestedFile['bloomfilter']))
-    #print(type(nestedFile['LSI']))
+
 
     with open('../TestResults/'+baseline+'.csv','w',newline="") as f:
         writer = csv.writer(f,delimiter = ',')
@@ -122,11 +105,10 @@ def write2csv(baseline,nestedFile):
                     line.extend([val3 for key3, val3 in res.items() if key3 != 'title'])
                     #print(line)
                     writer.writerow(line)
-
+#main function to compute the tests for a specific Baseline
 def main():
-    mfw=50
-    train_Baseline(mfw,"../RandomBaseline/plaindata/")
-    check_article(mfw)
+    train_Baseline(basepath="../BigBaseline/plaindata/")
+    check_article()
     #write2csv('RandomBaseline04',vali_dict)
     #print(vali_dict['bloomfilter'])
     #print(vali_dict['LSI'])
