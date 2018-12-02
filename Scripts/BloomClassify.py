@@ -15,7 +15,7 @@ class BloomClassify:
 
 		self.art = art # number of articles
 
-		self.total = self.num * self.art
+		#self.total = self.num * self.art
 
 		self.basepath = baselineFolder
 
@@ -76,7 +76,6 @@ class BloomClassify:
 			# get the lenth of the smallest bag of words
 			self.min = min(self.min, len(set(self.AWdict[cat])))
 
-
 			print("fetched {} most common words for {}".format(len(self.AWdict[cat]), cat))
 
 		TFIDF = TfIdf()
@@ -108,7 +107,7 @@ class BloomClassify:
 			# transfer to sorted list
 			print(self.min)
 			trunc = int(self.min*0.1)
-			self.TFIDFdict[cat] = sorted(self.TFIDFdict[cat], key=self.TFIDFdict[cat].__getitem__, reverse=True)[:self.total]
+			self.TFIDFdict[cat] = sorted(self.TFIDFdict[cat], key=self.TFIDFdict[cat].__getitem__, reverse=True)[:self.min*0.1]
 			print("added {} words to {}".format(len(self.TFIDFdict[cat]), cat))
 		pass
 
@@ -203,23 +202,6 @@ class BloomClassify:
 
 	def check_article(self, article,numOfCheckWords):
 
-		#Base = Baseline(folder="Validation")
-
-		#Base.write_rawdata(title, category)
-		#Base.convert_plain()
-
-		#self.valipath = "../Validation/plaindata"
-
-		#category = os.listdir(self.valipath)
-		#if '.DS_Store' in category:
-		#	category.remove('.DS_Store')
-
-		#category = category[0]
-
-		#filepath = "../Validation/plaindata/"+category+"/AA/wiki_00"
-
-		#testarticle = lp.languageProcess(filepath).getHighFreqWords()
-
 		vali_dict = {}
 
 		#check all Bloomfilters
@@ -240,7 +222,7 @@ class BloomClassify:
 		if not os.path.exists("../Validation"):
 			os.mkdir("../Validation")
 
-		filename = "../Validation/"+"raw"
+		filename = "../Validation/"+"raw.txt"
 		with open(filename, 'w') as the_file:
 			the_file.write(Base.get_dumptext(title)[0])
 
