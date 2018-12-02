@@ -13,7 +13,7 @@ class BloomClassify:
 
 		self.num = num 	#number of most frequent words
 
-		self.art = 1000 # number of articles
+		self.art = 50 # number of articles
 
 		self.total = self.num * self.art
 
@@ -99,6 +99,7 @@ class BloomClassify:
 				self.TFIDFdict[cat][word] = tfidf
 
 			# transfer to sorted list
+			#print(len(self.TFIDFdict[cat]))
 			self.TFIDFdict[cat] = sorted(self.TFIDFdict[cat], key=self.TFIDFdict[cat].__getitem__, reverse=True)[:self.total]
 
 		pass
@@ -184,12 +185,11 @@ class BloomClassify:
 		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.num)+'_'+str(self.art)+'_'+'.pkl'
 		with open(name, 'wb') as f:
 			pickle.dump(self.BFdict, f, pickle.HIGHEST_PROTOCOL)
-		print("saved Traindata")
+
 	def load_BL(self):
 		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.num)+'_'+str(self.art)+'_'+'.pkl'
 		with open(name, 'rb') as f:
 			self.BFdict = pickle.load(f)
-		print("loaded Traindata")
 
 	def check_article(self, article,numOfCheckWords):
 
@@ -223,7 +223,6 @@ class BloomClassify:
 			vali_dict[cat]=vali_dict[cat]/numOfCheckWords
 		return vali_dict
 
-
 	def check_single_article(self, title, category):
 
 		Base = Baseline(folder="Validation")
@@ -256,7 +255,6 @@ class BloomClassify:
 
 		return vali_dict
 
-
 	def similarity_matrix(self, mfw = 0, tfidf = 1):
 
 		# train with MFW
@@ -284,7 +282,7 @@ class BloomClassify:
 
 				counter =  []
 				for cat in TrainDict.keys():
-					counter.append(len([1 for word in TrainDict[cat] if self.BFdict[c].classify(word)])/self.total)
+					counter.append(len([1 for word in TrainDict[cat] if self.BFdict[c].classify(word)])/len(TrainDict[cat]))
 
 				row = [c]
 				row.extend(counter)
@@ -294,15 +292,15 @@ class BloomClassify:
 
 def main():
 
-	CL = BloomClassify(num = 50)
+	CL = BloomClassify(num = 10, baselineFolder="../TestArticle/plaindata")
 
 	#CL.get_mfw()
 	CL.get_tfidf()
 	CL.train_BL(mfw = 0, tfidf = 1)
-	CL.save_BL()
+	#CL.save_BL()
 	#CL.load_BL()
 
-	#CL.similarity_matrix(mfw = 0, tfidf = 1)
+	CL.similarity_matrix(mfw = 0, tfidf = 1)
 
 	#
 	#title = "Amari distance"
@@ -323,5 +321,5 @@ def main():
 	# 	print("%-30s%-30f"%(key, value/CL.num))
 	#
 
-#if __name__== "__main__":
-#  main()
+if __name__== "__main__":
+  main()
