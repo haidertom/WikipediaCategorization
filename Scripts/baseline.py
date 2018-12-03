@@ -109,7 +109,7 @@ class Baseline:
 		print("writing files...")
 		titles = [titles[x:x+50] for x in range(0, len(titles), 50)]
 		for idx,t in enumerate(titles):
-				
+
 		#for i, data in enumerate(self.get_dumptext(titles)):
 
 			filename = self.rawpath+"/"+category+"_"+str(self.baseline_number)+"_"+str(idx)+".xml"
@@ -137,7 +137,7 @@ class Baseline:
 		main_categories = self.get_subcategories(self.origin_category)
 
 		# loop over all main categories
-		for cat in main_categories[2:]:
+		for cat in main_categories[7:]:
 			print("looking for titles in category: {} ".format(cat))
 
 			self.index[cat] = []
