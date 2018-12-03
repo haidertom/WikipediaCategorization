@@ -178,13 +178,13 @@ class Baseline:
 
 						if len(self.index[cat])<self.baseline_number:
 						# loop further to get more articles
-						subsubsubsubcategories = self.get_subcategories(subsubsubcat)
+							subsubsubsubcategories = self.get_subcategories(subsubsubcat)
 
-						for subsubsubsubcat in subsubsubsubcategories:
+							for subsubsubsubcat in subsubsubsubcategories:
 
-							for title5 in self.get_titles(subsubsubsubcat):
-								if not any(title5 in e for e in self.index.values()): #check for duplicates
-									self.index[cat].append(title5)
+								for title5 in self.get_titles(subsubsubsubcat):
+									if not any(title5 in e for e in self.index.values()): #check for duplicates
+										self.index[cat].append(title5)
 
 
 			#pick random articles
