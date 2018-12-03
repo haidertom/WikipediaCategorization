@@ -11,14 +11,14 @@ import pickle
 
 BFdict = {}
 LSIs = LSIsimilarity.LSIsimilarity()
-CL = BC.BloomClassify(num = 50,baselineFolder="../Baseline/10/plaindata")
+#CL = BC.BloomClassify(num = 50,baselineFolder="../Baseline/10/plaindata")
 def save_Testarticle(name,savedict,cate):
-    name = 'trainedObjects/'+ name +'_'+cate+'_500_.pkl'
+    name = 'trainedObjects/'+ name +'_'+cate+'_1000_.pkl'
     with open(name, 'wb') as f:
         pickle.dump(savedict, f, pickle.HIGHEST_PROTOCOL)
     print("saved Traindata")
 def load_Testarticle(name,category):
-    name = 'trainedObjects/'+ name +'_'+category+'_500_.pkl'
+    name = 'trainedObjects/'+ name +'_'+category+'_1000_.pkl'
     with open(name, 'rb') as f:
         print("loaded Traindata",name)
         return pickle.load(f)
@@ -38,10 +38,10 @@ def train_Baseline(basepath="../TestArticle/plaindata"):
 #This function is comparing testarticles with the given
 #validpath = path to testfiles
 def check_article(validpath = "../TestArticle/plaindata"):
-    print("checking articles for test")
+    #print("checking articles for test")
     #get article which should be excluded from testarticles
-    with open('../BigBaseline/zz_index.json') as f:
-        data = json.load(f)
+    #with open('../BigBaseline/zz_index.json') as f:
+        #data = json.load(f)
 
     #Get all categories as list
     category = os.listdir(validpath)
@@ -65,8 +65,9 @@ def check_article(validpath = "../TestArticle/plaindata"):
             testarticle2=   {}#article.getWordsAsDict()
             path = validpath+"/"+cate
             dir_no=sum(os.path.isdir(path+"/"+i) for i in os.listdir(path))
+            #only take the last 10 folders. Basline is randomized, therefore is will not effect the result 
             for no in range(dir_no)[-9:]:
-                filepath = validpath+"/"+cate+"/"+cate+"_1000_"+str(no)+"/AA/wiki_00"
+                filepath = validpath+"/"+cate+"/"+cate+"_11000_"+str(no)+"/AA/wiki_00"
                 print(filepath)
                 article = lp.languageProcess(filepath)
                 testarticle.update(article.getHighFreqWordsAsDict())

@@ -1,0 +1,3152 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>1990 in Albania</title>
+    <ns>0</ns>
+    <id>30078855</id>
+    <revision>
+      <id>840924972</id>
+      <parentid>769786217</parentid>
+      <timestamp>2018-05-13T00:00:51Z</timestamp>
+      <contributor>
+        <username>DeprecatedFixerBot</username>
+        <id>33330201</id>
+      </contributor>
+      <minor/>
+      <comment>Removed deprecated parameter(s) from [[Template:Div col]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? See [[Template:Div col#Usage of "cols" parameter]] or [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #2!))</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2129">{{Expand list|date=February 2011}}
+{{Year in Albania|1990}}
+
+The following lists events that happened during '''[[1990]] in [[Albania]]'''.
+
+==Events==
+*December 9 - Student demonstrators of [[Enver Hoxha University]] in [[Tirana]] march though the streets of the capital demanding an end to dictatorship, following radical reforms elsewhere in Eastern Europe.&lt;ref name="Onwar"&gt;{{cite web|url=http://www.onwar.com/aced/nation/all/albania/falbania1990b.htm|title=Armed Conflict Events Data|publisher=Onwar.com|accessdate=December 16, 2010| archiveurl= https://web.archive.org/web/20110112041930/http://www.onwar.com/aced/nation/all/albania/falbania1990b.htm| archivedate= 12 January 2011 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+*December 11 - The number of protesters reach nearly 3,000. The Thirteenth Plenum of the Albanian Party of Labor (APL) Central Committee is announced for February 1991.&lt;ref name="Onwar"/&gt;
+*December 12 - The first opposition party of Albania, the [[Albanian Democratic Party]] (ADP) is formed.&lt;ref name="Onwar"/&gt;
+
+==Births==
+{{div col|colwidth=22em}}
+* [[Albano Çaushaj]], football player
+* [[Albi Çeliku]]
+* [[Andi Hasa]]
+* [[Ansi Nika]]
+* [[Ardit Shehaj]]
+* [[Arenç Dibra]]
+* [[Arsen Sykaj]]
+* [[Asion Daja]]
+* [[Besart Abdurahimi]]
+* Bledar Marashi
+* [[Blerti Hajdari]]
+* [[Brunild Pepa]]
+* [[Eglajd Dedej]]
+* [[Elidon Selaci]]
+* [[Erand Rica]]
+* [[Erbi Ago]]
+* Erjon Vuçaj, footballer
+* [[Erlind Burhanaj]], footballer
+* [[Flamur Tahiri]], Macedonian footballer of ethnic Albanian descent
+* [[Florian Berisha]]
+* [[Gers Delia]]
+* [[Indrit Hithi]]
+* [[Jasmin Rraboshta]]
+* [[Kështjella Pepshi]]
+* [[Marigona Dragusha]]
+* [[Marsel Zhilla]]
+* [[Odeon Bërdufi]]
+* [[Orhan Mustafi]]
+* [[Renaldo Rama]]
+* [[Rita Ora]]
+* [[Roland Peqini]]
+* [[Samet Gjoka]]
+* [[Sokol Cikalleshi]]
+* [[Stivi Frasheri]]
+* [[Sulejman Hoxha]], footballer
+{{div col end}}
+
+==Deaths==
+*[[Rahman Morina]], Kosovo police officer and political figure of Albanian descent
+
+==See also==
+* [[Years in Albania]]
+* [[2007 in Albania]]
+* [[2011 in Albania]]
+
+==References==
+{{Reflist}}
+
+[[Category:1990 in Albania| ]]
+
+
+{{Albania-stub}}</text>
+      <sha1>g5ozh79jktx6ggpgk12tbs0txa6yybn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Abbey of San Caprasio in Aulla</title>
+    <ns>0</ns>
+    <id>48615326</id>
+    <revision>
+      <id>819455601</id>
+      <parentid>795176507</parentid>
+      <timestamp>2018-01-09T13:31:06Z</timestamp>
+      <contributor>
+        <username>JoeHebda</username>
+        <id>21071050</id>
+      </contributor>
+      <comment>Add: Subject bar, stub notices</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1317">The '''Abbey of San Caprasio in Aulla''' is a church, formerly part of a monastery, in [[Aulla]], region of [[Tuscany]], Italy. The monastery was established by the [[Benedictine order]] as a hostel on the pilgrimage route to Rome, and originally titled Santa Maria, in 1077 it was dedicated to [[San Caprasio]], the patron of the town and a patron saint of pilgrims.
+
+Documents cite the founding of the abbey within a fortification held by Adalberto I, Marquis of Tuscany.  It later was linked to the [[Malaspina family]] and also contested by the Vescovi Conti of [[Luni, Italy|Luni]]. The abbey was powerful by the early 13th-century, owning various parishes and land in the area. The church was reconstructed in 1070 into the present layout, but has undergone many reconstructions over the centuries. It now serves as a museum and a hostel affiliated with the local parish.&lt;ref&gt;[http://www.sancaprasio.it/home.html San Caprasio] official site.&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+{{coord missing|Italy}}
+{{Subject bar |portal1= Catholicism |portal2= Italy}}
+{{DEFAULTSORT:Caprasio in Aulla}}
+[[Category:Roman Catholic churches in Sarzana]]
+[[Category:Baroque architecture in Tuscany]]
+[[Category:18th-century Roman Catholic church buildings]]
+[[Category:Monasteries in Liguria]]
+
+
+{{RC-church-stub}}
+{{Italy-stub}}</text>
+      <sha1>6aymot2yf3rlfpo4xwsvilhhy0i5a2w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aditi Pant</title>
+    <ns>0</ns>
+    <id>44081269</id>
+    <revision>
+      <id>864712902</id>
+      <parentid>858413805</parentid>
+      <timestamp>2018-10-18T23:45:35Z</timestamp>
+      <contributor>
+        <username>Alanna the Brave</username>
+        <id>31009856</id>
+      </contributor>
+      <comment>Created new 'See also' section. Added link to timeline of women in science.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5050">{{Use dmy dates|date=September 2018}}
+{{Use Indian English|date=September 2018}}
+{{Infobox scientist
+| name        = Aditi Pant
+| native_name = 
+| native_name_lang = 
+| image       =   &lt;!--(filename only, i.e. without "File:" prefix)--&gt;
+| alt         = 
+| caption     = 
+| birth_date  =  &lt;!--{{birth date |YYYY|MM|DD}}--&gt;
+| birth_place = 
+| death_date  =   &lt;!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)--&gt;
+| death_place = 
+| resting_place = 
+| resting_place_coordinates =  &lt;!--{{coord|LAT|LONG|type:landmark|display=inline,title}}--&gt;
+| other_names = 
+| residence   = 
+| citizenship = 
+| nationality = [[India]]n
+| fields      = [[Oceanography]]
+| workplaces  = [[National Institute of Oceanography, India]] 
+| patrons     = 
+| alma_mater  = BSc [[University of Pune]] &lt;br&gt;PhD [[Westfield College]]
+| thesis_title =  &lt;!--(or  | thesis1_title =  and  | thesis2_title = )--&gt;
+| thesis_url  =   &lt;!--(or  | thesis1_url  =   and  | thesis2_url  =  )--&gt;
+| thesis_year =   &lt;!--(or  | thesis1_year =   and  | thesis2_year =  )--&gt;
+| doctoral_advisor = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for   = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences  = 
+| influenced  = 
+| awards      = 
+| signature   =   &lt;!--(filename only)--&gt;
+| signature_alt = 
+| website     =   &lt;!--{{URL|www.example.com}}--&gt;
+| footnotes   = 
+| spouse      =   &lt;!--(or | spouses = )--&gt;
+| children    = 
+| imagesize   = 
+| death_cause = 
+| education   = 
+| partner     =   &lt;!--(or | partners = )--&gt;
+}}
+
+'''Aditi Pant''' is an Indian [[oceanography|oceanographer]].&lt;ref name=lilavati&gt;{{cite web|title=Lilavati's Daughters|url=http://www.ias.ac.in/womeninscience/LD_essays/219-222.pdf|website=www.ias.ac.in|publisher=Indian Academy of Sciences|accessdate=11 October 2014}}&lt;/ref&gt; She was a part of the Indian expedition to [[Antarctica]] in 1983 and became the first Indian woman to visit Antarctica (along with [[Sudipta Sengupta]]).&lt;ref name=sharma&gt;{{cite book|last1=Sharma|first1=Sathya|title=Breaking the ice in Antarctica: The first Indian wintering in Antarctica|date=January 2001|publisher=New Age International|pages=38|url=https://books.google.com/?id=emCd_27imFoC&amp;dq=aditi+pant+scientist|accessdate=11 October 2014|isbn=9788122412901}}&lt;/ref&gt;
+
+==Early life and education==
+Aditi was inspired to take up oceanography as a profession when she came across the book ''The Open Sea'' by [[Alister Hardy]] while she was doing her [[Bachelor of Science|BSc]] at the [[University of Pune]]. She got a US government scholarship to study an [[Master of Science|MS]] in marine sciences in the [[University of Hawaii]].&lt;ref name=interview&gt;{{cite news|last1=Umashanker|first1=Sudha|title=The coolest one|url=http://www.thehindu.com/todays-paper/tp-features/tp-metroplus/the-coolest-one/article649558.ece|accessdate=11 October 2014|publisher=[[The Hindu]]|date=21 April 2009}}&lt;/ref&gt; She did her [[Doctor of Philosophy|PhD]] in [[Westfield College|Westfield college]], London University.&lt;ref name=interview /&gt; Her PhD [[thesis]] was about the physiology of [[Seaweed|marine algae]]. After completing her studies, she returned to India to join the National Institute of Oceanography in Goa.
+
+==Career==
+Aditi started her research career at the [[National Institute of Oceanography, India|National Institute of Oceanography, Goa]] after being inspired by the founder of the institute, [[N. Kesava Panikkar|N. K. Panikkar]]. From 1973-76, she got involved in coastal studies and toured the whole of west coast of India. She participated in the third and fifth Indian expeditions to Antarctica to research about oceanography and geology.&lt;ref name=ias /&gt; She was the first Indian woman to participate in an Antarctic expedition.
+
+==Awards==
+Aditi was honored with the Antarctica award with Jaya Naithani and Kanwal Vilku by the government of India for her contributions to the Antarctic program.&lt;ref name=ias&gt;{{cite web|last1=Chaturvedi|first1=Arun|title=Indian women in Antarctic expeditions : A historical perspective|url=http://www.ias.ac.in/womeninscience/Antartic.pdf|website=www.ias.ac.in|publisher=Indian Academy of Sciences|accessdate=11 October 2014}}&lt;/ref&gt;
+
+==See also==
+* [[Timeline of women in science]]
+
+==References==
+{{reflist}}
+
+== External links ==
+* [https://www.researchgate.net/profile/Aditi_Pant Aditi Pant] on [[ResearchGate]]
+
+{{DEFAULTSORT:Pant, Aditi}}
+[[Category:20th-century Indian women scientists]]
+[[Category:21st-century Indian earth scientists]]
+[[Category:Living people]]
+[[Category:Savitribai Phule Pune University alumni]]
+[[Category:Alumni of Westfield College]]
+[[Category:University of Hawaii alumni]]
+[[Category:Indian oceanographers]]
+[[Category:Women oceanographers]]
+[[Category:Indian women earth scientists]]
+[[Category:Antarctic scientists]]
+[[Category:Women Antarctic scientists]]
+[[Category:Scientists from Goa]]
+[[Category:Women scientists from Goa]]
+[[Category:20th-century Indian earth scientists]]
+[[Category:21st-century Indian women scientists]]
+
+
+{{india-scientist-stub}}</text>
+      <sha1>3nzrhgdm446ho9fr0f2fwllzy0fw0b2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Angola Telecom</title>
+    <ns>0</ns>
+    <id>7418302</id>
+    <revision>
+      <id>859777357</id>
+      <parentid>827066080</parentid>
+      <timestamp>2018-09-16T07:02:27Z</timestamp>
+      <contributor>
+        <username>PrimeBOT</username>
+        <id>29463730</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */[[Wikipedia:Bots/Requests_for_approval/PrimeBOT_28|Task 28]] - removal of deprecated parameters from [[Template:infobox company]] (+ genfixes)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2400">{{Infobox company
+| name   = Angola Telecom
+| logo   = ANGOLA TELECOM LOGO.png
+| type   = E.P. (Empresa Publica) State owned
+| foundation     =  1992
+| location       =  [[Luanda]], [[Angola]]
+| key_people     =
+| num_employees  = ~
+| revenue        = ~
+| industry       = [[Telecommunications]]
+| products       = Telecommuncations services &lt;br&gt; [[Internet service provider|Internet services]]
+| homepage       = http://www.angolatelecom.ao/
+}}
+
+'''Angola Telecom''' is a [[telecommunications]] and [[Internet service provider]] of [[Angola]]. Angola Telecom is an ''empresa publica'', i.e. wholly owned by the Angolan state.
+
+[[Subsidiaries]] of Angola Telecom include: 
+*'''Infrasat''', offering satellite telecommunications services.
+*'''Angola Cables''', offering international access for data and voice.
+*'''TVCabo''', offering broad band cable service for television and radio broadcasting.
+*'''Multitel''', a portal offering a wide range of internet services.
+*'''ELTA''', Empresa de Listas Telefonicas de Angola, an online [[telephone directory]].
+*'''Movicel''', offering mobile telecommunications services.
+
+Angola Telecom created the [[mobile phone]] provider [[Movicel]] as subsidiary, but holds since 2010 only a minority part of the shares of Movicel.
+
+In 2010 Angola Telecom began a program of restructuring led by a team of international consultants. In 2014, Bloomberg reported that the company was on track to produce its first net profit in over 8 years. However, the economic collapse fueled by the devaluation of crude oil has likely erased any gains achieved thus far.  *[https://www.bloomberg.com/news/2014-02-19/angola-telecom-targets-2015-profit-after-state-answers-911-call.html/ Bloomberg Article]
+
+==See also==
+* [[MSTelcom]] telecommunications provider of [[Sonangol]]
+* [[Movicel]] mobile phone provider
+* [[Unitel (Angola)]] mobile phone provider
+
+==External links==
+*[http://arquivo.pt/wayback/20080314215428/http://www.angolatelecom.com/ Angola Telecom]
+*[http://www.eltangola.com ELTAngola]
+*[http://arquivo.pt/wayback/20090520103704/http://multitel.co.ao/ Multitel]
+*[http://arquivo.pt/wayback/20090520103718/http://www.tvcabo.co.ao/ TVCabo]
+*[http://angolacables.com/ Angola Cables]
+*[http://www.infrasat.co.ao/ Infrasat]
+
+[[Category:Telecommunications companies of Angola]]
+[[Category:Companies established in 1992]]
+[[Category:Angolan brands]]
+
+
+{{Angola-stub}}</text>
+      <sha1>5tdkortmwzmn88vwweblkh93sv91tlj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Apodoulou</title>
+    <ns>0</ns>
+    <id>3916138</id>
+    <revision>
+      <id>746589775</id>
+      <parentid>676045021</parentid>
+      <timestamp>2016-10-28T09:30:07Z</timestamp>
+      <contributor>
+        <username>Markussep</username>
+        <id>96340</id>
+      </contributor>
+      <minor/>
+      <comment>/* Geography */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1892">&lt;!--{{Infobox_ancient_site
+  |name = 
+  |native_name = 
+  |alternate_name = 
+  |image = 
+  |alt = 
+  |caption = 
+  |map =
+  |map_caption =
+  |map_type = 
+  |map_alt = 
+  |latitude = 
+  |longitude = 
+  |map_size = 
+  |location = 
+  |region = 
+  |coordinates = 
+  |type = 
+  |part_of = 
+  |length = 
+  |width = 
+  |area = 
+  |height = 
+  |builder = 
+  |material = 
+  |built = 
+  |abandoned = 
+  |epochs = 
+  |cultures = 
+  |dependency_of = 
+  |occupants = 
+  |event = 
+  |excavations = 
+  |archaeologists = 
+  |condition = 
+  |ownership = 
+  |management = 
+  |public_access = 
+  |website = 
+  |notes = 
+}}--&gt;
+'''Apodoulou''' ({{lang-el|Αποδούλου}}) is the archaeological site of an ancient [[Minoan civilization|Minoan]] mansion or ceremonial building.
+
+==Geography==
+Apodoulou overlooks the [[Libyan Sea]].
+
+Altitude: 450m above sea level
+
+==Archaeology==
+Apodoulou was first excavated by [[Spyridon Marinatos]] in 1934.
+
+The area was inhabited from Late [[Neolithic]] times to the [[Minoan pottery|Late Minoan]] period, and the building was in use in the [[Minoan pottery|Middle Minoan III]] period.  The site has yielded [[Linear A]] inscriptions on a basin and fragments of a stone cylindrical jar, as well as a small golden axe.
+
+400m north of Apodoulou is a Late Minoan vaulted tomb.  Four sarcophagus were found here and are on exhibit at the [[Archaeological Museum of Rethymno]].
+
+==References==
+* Swindale, Ian http://www.minoancrete.com/apodoulou.htm Retrieved 31 January 2006
+* Municipality of Agia Galini http://www.interkriti.org/visits/agalini/apodoul.htm Retrieved 31 January 2006
+
+==External links==
+* http://www.minoancrete.com/apodoulou.htm
+
+{{coord|35.1609|24.7230|type:landmark_region:GR|display=title}}
+
+{{Amari div}}
+
+[[Category:Minoan sites in Crete]]
+[[Category:Ancient houses in Greece]]
+
+
+{{europe-archaeology-stub}}
+{{Crete-geo-stub}}
+{{AncientGreece-stub}}</text>
+      <sha1>o9o4pkihhhcnfbvouovybbrbssltybz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Asafo market</title>
+    <ns>0</ns>
+    <id>32053574</id>
+    <revision>
+      <id>797043983</id>
+      <parentid>794194398</parentid>
+      <timestamp>2017-08-24T16:24:45Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>Rescued 1 archive link; remove 1 link. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1540">{{Infobox shopping mall
+| shopping_mall_name = Asafo Market
+| image              = Asafo Market (Entrance).jpg
+| image_width        = 250px
+| caption            = Asafo Market entrance in September 2013.
+| location           = [[Kumasi]], [[Ashanti Region|Ashanti]]
+| coordinates        = 
+| address            =
+| opening_date       = 
+| closing_date       = 
+| developer          =
+| manager            =
+| owner              =
+| architect          =
+| number_of_stores   = 
+| number_of_anchors  =
+| floor_area         = 
+| floors             = 
+| website            = 
+| belowstyle         =
+}}
+
+'''Asafo Market''' is a trading centre in Asafo, [[Kumasi]], the capital of [[Ashanti Region|Ashanti]], to the western side of the [[Asafo Interchange, Kumasi|Asafo interchange]]. Asafo Market was formerly called Nkrumah Market, which was named after the first Prime Minister of Ghana, [[Kwame Nkrumah]], but the name was changed to Asafo Market when  Nkrumah was overthrown.&lt;ref name="Kumasi Metropolis Tourism Attractions"&gt;{{cite web|url=http://www.kma.ghanadistricts.gov.gh/?arrow=atd&amp;_=6&amp;sa=581 |archive-url=https://web.archive.org/web/20150925134913/http://www.kma.ghanadistricts.gov.gh/?arrow=atd&amp;_=6&amp;sa=581 |dead-url=yes |archive-date=25 September 2015 |title=Kumasi Metropolis Tourism Attractions |work=[[Kumasi Metropolitan Assembly]] |publisher= |date= |accessdate=2 August 2015 }}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+{{Kumasi topics}}
+
+{{Markets in Ghana}}
+
+[[Category:Kumasi]]
+[[Category:Retail markets in Ghana]]
+
+
+{{Ghana-stub}}</text>
+      <sha1>oeosc1le8w234xq23x3ew1njbnogf1t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>BNT 4</title>
+    <ns>0</ns>
+    <id>21310705</id>
+    <revision>
+      <id>861378022</id>
+      <parentid>861377988</parentid>
+      <timestamp>2018-09-27T00:20:23Z</timestamp>
+      <contributor>
+        <ip>49.144.125.30</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3118">{{Infobox television channel
+| name              = BNT 4
+| logofile          = BNT4.png
+| logosize          = 200px
+| logocaption       = 
+| logoalt           = 
+| logo2             = 
+| established       = 
+| airdate           = May 2, 1999
+| launch            = {{Start date|1999|05|02|df=y}} 
+| closed date       = &lt;!-- {{End date|YYYY|MM|DD|df=y}} --&gt;
+| picture format    = [[16:9]] ([[576i]], [[SDTV]])
+| share             = 0.25%
+| share as of       = {{Start date|df=yes|2017|4}}
+| share source      = [http://www.nielsen-admosphere.bg/files/2017/05/Nielsen-Admosphere-BULETIN-April-2017.pdf Nielsen Admosphere]
+| network           = 
+| owner             = [[Bulgarian National Television|BNT (Bulgarian National Television)]]
+| parent            = 
+| slogan            = 
+| motto             =  
+| country           = [[Bulgaria]]
+| language          = [[Bulgarian language|Bulgarian]]
+| broadcast area    = [[Europe]]&lt;br&gt;[[Asia]]&lt;br&gt;[[Africa]]&lt;br&gt;[[Oceania]]&lt;br&gt;[[North America]]&lt;br&gt;[[South America]]
+| affiliates        = 
+| headquarters      = [[Sofia]], [[Bulgaria]]
+| former names      = TV Bulgaria (ТВ България) (1999-2008), BNT Sat (2008-2010), BNT World (2010-2018)
+| replaced names    = 
+| replaced by names = 
+| sister names      = [[BNT 1]], [[BNT 2]], [[BNT 3]]
+| timeshift names   = 
+| web               = http://www.bnt.bg/
+| terr serv         = 
+| terr chan 1       = 
+| sat serv 1        = [[Bulsatcom]]
+| sat chan 1        = Channel 128
+| sat serv 2        = [[Vivacom]]
+| sat chan 2        = Channel 118
+| sat serv 3        = [[Mtel (Bulgaria)|Mtel]]
+| sat chan 3        = Channel 138
+| cable serv 1      = [[Mtel (Bulgaria)|Mtel]]
+| cable chan 1      = Channel 178
+| cable serv 2      = [[N3 (cable television)|N3]]
+| cable chan 2      = Channel 90
+| iptv serv 1      = [[Vivacom]]
+| iptv chan 1      = Channel 28
+| iptv serv 2      = [[Mtel (Bulgaria)|Mtel]]
+| iptv chan 2      = Channel 178
+}}
+
+'''BNT 4''' (БНТ 4, "BNT chetiri") is [[Bulgaria]]'s international [[television channel]] owned and operated by  the [[Bulgarian National Television]].
+
+The first broadcast of the program was on 2 May 1999, then under the name "TV Bulgaria". The first program director of "TV Bulgaria" is Agnesa Vasileva. At the beginning of the program starts with the repetition of the best fund of the [[BNT]], the Bulgarian feature films and music programs. Music channel signal "Tell me my le white cloud" was recorded specifically by Theodosius Spasov. "TV Bulgaria" has had a very successful own productions - "Ambassadors of Bulgaria" and "One Flew Over the night." On 14 September 2008, the channel name was changed to "BNT SAT." On 20 December 2010 the channel was renamed to "BNT World." On 10 September 2018 the channel was further rebranded to "BNT 4"
+"BNT 4" broadcasts by satellite free to air.
+
+[[File:Bnt-world history.png|500px]]
+
+{{Bulgarian television}}
+
+{{DEFAULTSORT:Bnt 4}}
+[[Category:Bulgarian television networks]]
+[[Category:Bulgarian-language television stations]]
+[[Category:Television channels and stations established in 1999]]
+
+
+{{bulgaria-stub}}
+{{Europe-tv-stub}}</text>
+      <sha1>b7a88rqij6cnfvp2lszwseq8luhyoxx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>BVN</title>
+    <ns>0</ns>
+    <id>3372226</id>
+    <revision>
+      <id>866582331</id>
+      <parentid>861323505</parentid>
+      <timestamp>2018-10-31T06:49:30Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta9)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9991">{{Infobox TV channel
+| name             = BVN
+| logofile         = BVN logo.svg
+| logosize         = 150px
+| logoalt          = 
+| launch           = {{start date and age|1996|6|1|df=y}}
+| closed date      = 
+| picture format   = [[576i]] ([[SDTV]], [[16:9]])
+| network          = 
+| owner            = [[Netherlands Public Broadcasting|NPO]] &amp; [[Vlaamse Radio- en Televisieomroep|VRT]]
+| slogan           = 
+| country          = [[Belgium]]&lt;br /&gt;[[Netherlands]]
+| broadcast area   = Worldwide
+| headquarters     = 
+| former names     = Zomer TV
+| web              = [http://www.bvn.tv/ www.bvn.tv]
+| sat serv 1       = [[Hot Bird|Hot Bird 13]] &lt;small&gt;Europe, Middle East &amp; North Africa&lt;/small&gt; ([[Free-to-air|FTA]])
+| sat chan 1       = 10.815 GHz Horizontal&lt;br&gt;&lt;small&gt;[[DVB-S]] [[QPSK]] ''[[Symbol rate|SR]]: 27500 [[Forward error correction|FEC]]: 5/6''&lt;br&gt;SID: 17311 [[MPEG transport stream#PID|Video PID]]: 2011 [[MPEG transport stream#PID|Audio PID]]: 3011 [[Stereophonic sound|Stereo]]&lt;/small&gt;
+| sat serv 2       = [[Eutelsat 113 West A]] 113°W &lt;small&gt;South America&lt;/small&gt; ([[Free-to-air|FTA]])
+| sat chan 2       = 11.984 GHz Horizontal&lt;br&gt;&lt;small&gt;[[DVB-S2]] ''[[Symbol rate|SR]]: 3600 [[Forward error correction|FEC]]: 1/2''&lt;br&gt;SID: ? [[MPEG transport stream#PID|Video PID]]: 2001 [[MPEG transport stream#PID|Audio PID]]: 3001 [[Stereophonic sound|Stereo]]&lt;/small&gt;
+| sat serv 3       = [[Optus D2]] 152°E &lt;small&gt;Australia &amp; New Zealand&lt;/small&gt; ([[Free-to-air|FTA]])
+| sat chan 3       = 12.519 GHz Vertical&lt;br&gt;&lt;small&gt;[[DVB-S]] ''[[Symbol rate|SR]]: 22500 [[Forward error correction|FEC]]: 3/4''&lt;br&gt;SID: 508 [[MPEG transport stream#PID|Video PID]]: 5081 [[MPEG transport stream#PID|Audio PID]]: 5082 [[Stereophonic sound|Stereo]]&lt;/small&gt;
+| sat serv 4       = [[Astra 5°E]] &lt;small&gt;Africa&lt;/small&gt; ([[Free-to-air|FTA]])
+| sat chan 4       = 12.034 GHz Horizontal&lt;br&gt;&lt;small&gt;[[DVB-S]] ''[[Symbol rate|SR]]: 27500 [[Forward error correction|FEC]]: 3/4''&lt;br&gt;SID: 8060 [[MPEG transport stream#PID|Video PID]]: 525 [[MPEG transport stream#PID|Audio PID]]: 122 [[Stereophonic sound|Stereo]]&lt;/small&gt;
+| sat serv 5       = [[Thaicom 5]]  78.5°E &lt;small&gt;Asia &amp; Central Africa&lt;/small&gt; ([[Free-to-air|FTA]])
+| sat chan 5       = 3.640 GHz Horizontal&lt;br&gt;&lt;small&gt;[[DVB-S]] ''[[Symbol rate|SR]]: 28066 [[Forward error correction|FEC]]: 3/4''&lt;br&gt;SID: 6 [[MPEG transport stream#PID|Video PID]]: 5158 [[MPEG transport stream#PID|Audio PID]]: 5159 [[Stereophonic sound|Stereo]]&lt;/small&gt;
+| sat serv 6       = [[Galaxy 19]]  97.0°W &lt;small&gt;North America&lt;/small&gt; ([[Free-to-air|FTA]])
+| sat chan 6       = 12.060 GHz Horizontal&lt;br&gt;&lt;small&gt;[[DVB-S]] ''[[Symbol rate|SR]]: 22000 [[Forward error correction|FEC]]: 3/4''&lt;br&gt;SID: 17 [[MPEG transport stream#PID|Video PID]]: 2017 [[MPEG transport stream#PID|Audio PID]]: 3017 [[Stereophonic sound|Stereo]]&lt;/small&gt;
+| sat serv 7       = [[DStv]] &lt;small&gt;South Africa&lt;/small&gt;
+| sat chan 7       = Channel 431
+| cable serv 1     = [[UPC Switzerland]] &lt;small&gt;(Switzerland)&lt;/small&gt;
+| cable chan 1     = Channel 673 (SD)
+| cable serv 2     = [[naxoo]] &lt;small&gt;Switzerland&lt;/small&gt;
+| cable chan 2     = Channel 314
+| cable serv 3     = [[NOS (Portuguese media company)|NOS]] &lt;small&gt;Portugal&lt;/small&gt;
+| cable chan 3     = Channel 231
+| cable serv 4     = [[Kabel Deutschland]] &lt;small&gt;(Germany)&lt;/small&gt;
+| cable chan 4     = Channel 883 (SD)
+| cable serv 5     = [[Unitymedia]] &lt;small&gt;(Germany)&lt;/small&gt;
+| cable chan 5     = Channel 438 (SD)
+| online serv 1    = BVN.tv
+| online chan 1    = [http://www.bvn.tv/bvnlive "BVNLIVE"]
+}}
+
+'''BVN''' (''Het beste van Vlaanderen en Nederland'',  "The best of Flanders and the Netherlands"), is a [[satellite television|satellite]] and [[cable television]] channel providing [[Netherlands|Dutch]] and [[Flanders|Flemish]] [[public television|public-service television]] to viewers around the world.
+
+It is a joint venture by the public broadcasting company of the Netherlands, [[Netherlands Public Broadcasting|Nederlandse Publieke Omroep]] (NPO); and that of the Flemish part of Belgium, the [[Vlaamse Radio- en Televisieomroep]] (VRT).
+
+BVN has grown to become a major international channel with worldwide coverage.
+
+==History==
+The channel started in 1996 as '''Zomer-TV''' (Summer-TV), an operation aimed at making Dutch-language programming available to Dutch and Flemish holidaymakers abroad.
+
+All of its programming originally came from the Netherlands (the abbreviation BVN at first standing for ''het Beste Van Nederland'', "the best of the Netherlands") but this was later adapted, once the [[Flemish Region]] of Belgium began contributing both financially and with output from the schedules of VRT,  to ''het Beste van Vlaanderen en Nederland'': "the best of Flanders and the Netherlands".
+
+[[Radio Nederland Wereldomroep]] (RNW) was involved as a founding partner, but left in 2012.
+
+In March 2007 BVN changed its scheduling from three 8-hour programming blocks to two 12-hour blocks: this provided more room for the inclusion in the schedules of such popular shows as [[De Wereld Draait Door]] (VARA)
+
+==Access==
+There are three main access methods: 
+* ''Satellite'' - A range of [[Satellite television|satellites]] carry BVN, often as a [[free-to-air]] channel. User need to be within the "footprint" of a satellite that carries the channel, and have a suitable dish and receiver.
+* ''Cable'' - [[Cable television]] providers in many places have BVN as one of the available channels
+* ''Internet'' - The BVN service is now also available worldwide as a [[Streaming media|streaming service]] [http://www.bvn.tv/bvnlive "BVNLIVE"] over the Internet ([[geo-blocking|except from IP addresses]] in the Netherlands and Belgium)
+
+==Programming==
+All programmes are replayed during the second 12-hour block, running from 0100 to 1300 CET daily.
+
+===News and current affairs===
+BVN broadcasts daily news bulletins from [[Vlaamse Radio- en Televisieomroeporganisatie|VRT]] and [[Nederlandse Omroep Stichting|NOS]]. The 1pm and 7pm editions of VRT's ''Het Journaal'' are transmitted on a short time delay at 1300 and 1905 [[Central European Time|CET]] from Sunday to Friday. The 1900 bulletin is broadcast from 1915 on Saturdays. The main 2000 bulletin from ''[[NOS Journaal]]'' is broadcast at 2030 CET and features a specially produced international weather forecast (''BVN-Weer''). A short bulletin is also carried at 1600 CET on weekdays and at 1605 on weekends.
+
+Current affairs output on weekdays consists of the magazine programme ''[[EénVandaag]]'' (One Today) at 1830 CET, ''Nieuwsuur'' (Newshour, which incorporates an NOS Journaal bulletin) and ''Terzake'' (To The Point) at around midnight CET. ''EénVandaag'' is produced by independent pillar broadcasters ([[AVROTROS]]) while ''Nieuwsuur'' is co-produced by NOS and the NTR. ''Terzake'' is produced by VRT.
+
+On Sundays, BVN carries a delayed broadcast of VRT's current affairs magazine ''De Zevende Dag'' (The Seventh Day) at 1330 CET followed by the political talk show ''[[Buitenhof (TV series)|Buitenhof]]'' at 1530.
+
+Topical debate and entertainment programmes also feature in the schedule including ''De wereld draait door'' (The World Keeps Turning) at 1940 CET and ''Pauw'' or ''Jinek'' at around 2350 CET. Both programmes are off-air during the Summer and are produced by BNN-VARA subsidiary [[Omroepvereniging VARA|VARA]].
+
+===Sport===
+NOS produces 15 minutes sports news bulletins called ''Sportjournaal'' on weekdays along with ''Studio Sport'', a longer sports news and highlights programme on Saturday nights. The sports magazine show ''Holland Sport'' is broadcast periodically on Saturday afternoons. During the football season, [[Eredivisie]] highlights are broadcast in NOS's ''Studio Sport'' on Saturday nights &amp; Sunday evenings.
+
+VRT's sports coverage is featured daily within short sports bulletins on ''Het Journaal'' at 1300 and 1900. On Sundays throughout the year, the 1910 ''Het Journaal'' bulletin is shortened to 20 minutes to allow for a half-hour round-up entitled ''Sportweekend'' to follow at 1930. During the football season, the 1300 bulletin on Sunday features an extended goals round-up from the [[Belgian First Division A|Jupiler League]] (Belgian First Division).
+
+===Children===
+BVN features a daily block of children's programming, consisting of new and archived programming from various pillar broadcasters in the Netherlands, [[Omroep NTR|NTR]], the [[Netherlands Public Broadcasting|NPO]] children's television stations [[Z@PP|Z@pp]] as well [[Z@ppelin]]  and the VRT children's television station, [[Ketnet]].
+
+Dedicated news and current affairs output for children is also broadcast at weekends, including a weekly current affairs programme ''Schooltv-weekjournaal'', on Saturdays and a news review, ''NOS Jeugdjournaal Overzicht'' (NOS Youth Journal Overview), on Sundays.
+
+===Features and entertainment===
+BVN's daily schedule features entertainment, documentaries and features output.
+
+Programming includes documentary series ''Spoorloos'' (Without a Trace), the quiz show ''Blokken'' (Blocks) and the long running sitcom ''Thuis'' (Home) as well as various music specials.
+
+===Drama===
+BVN broadcasts a number of popular drama series and serials including ''Klem'' (Stuck) and ''Flikken Rotterdam'' (Rotterdam Cops).
+
+During the summer, BVN transmits movies from the Netherlands and Flanders on Saturday nights.
+
+==External links==
+*[http://www.bvn.nl/ Official website]
+*[https://web.archive.org/web/20090614104155/http://www.lyngsat-address.com/ab/BVN.html BVN at LyngSat Address]
+*[http://www.bvn.tv/ontvangst BVN reception]
+
+{{NPO}}
+{{VRT}}
+{{Television in Belgium}}
+{{Television in the Netherlands}}
+
+{{DEFAULTSORT:Bvn}}
+[[Category:Television channels in the Netherlands]]
+[[Category:Television channels in Flanders]]
+[[Category:Television channels in Belgium]]
+[[Category:Netherlands Public Broadcasting]]
+[[Category:External services (broadcasting)]]
+[[Category:Television channels and stations established in 1996]]</text>
+      <sha1>ppyrl23gp4ghsg8pbh1z9a6249hmhex</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Banu Khazrun</title>
+    <ns>0</ns>
+    <id>1120520</id>
+    <revision>
+      <id>794211456</id>
+      <parentid>746818277</parentid>
+      <timestamp>2017-08-06T16:12:01Z</timestamp>
+      <contributor>
+        <username>Marcocapelle</username>
+        <id>14965160</id>
+      </contributor>
+      <comment>removed [[Category:History of North Africa]]; added [[Category:Maghrawa]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="462">The '''Banu Khazrun''' was a family of the [[Maghrawa]] that ruled [[Tripoli]] from 1001 to 1146.
+
+==External links==
+* [https://books.google.com/books?id=jdlKbZ46YYkC&amp;pg=PA67&amp;lpg=PA67&amp;dq=Banu+Khazrun&amp;source=web&amp;ots=kF4ULnd95S&amp;sig=SZEn96pluZymRMDbEOmP9ZbX3Wc&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=6&amp;ct=result#PPA67,M1 “History of the Maghrib in the Islamic Period” By Jamil M. Abun-Nasr]
+
+[[Category:Maghrawa]]
+
+
+{{Africa-hist-stub}}
+[[Category:Berber dynasties]]</text>
+      <sha1>1hpt5ywztkjvxy9d09lbdwfgypgs75c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Big Foot Mama</title>
+    <ns>0</ns>
+    <id>1769498</id>
+    <revision>
+      <id>675763578</id>
+      <parentid>675759852</parentid>
+      <timestamp>2015-08-12T14:55:17Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor/>
+      <comment>Dating maintenance tags: {{Refimprove}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1478">{{refimprove|date=August 2015}}
+
+[[File:Big Foot Mama, Križanke 2009.jpg|thumb|right|Big Foot Mama in 2009]]
+'''Big Foot Mama''' is a [[rock band]] from [[Ljubljana]], [[Slovenia]]. It is one of the most popular Slovenian [[pop rock]] bands of the 1990s. 
+
+The group started their career in 1990. After their third album, ''Tretja dimenzija'' (The Third Dimension), they were already considered as the Slovenian pop rock band of the decade, breaking sales records in rock category and selling out some of the biggest venues in the Slovenian capital Ljubljana like [[Križanke]] and [[Hala Tivoli]], which were previously considered as unconquerable for Slovenian rock bands.
+
+==Current lineup==
+*[[Grega Skočir]] - vocals
+*Daniel Gregorič - guitars
+*Alen Steržaj - bass
+*Jože Habula - drums
+*Zoran Čalić - guitars
+
+==Discography==
+*''Nova pravila'' (New Rules) - 1995
+*''Kaj se dogaja?'' (What Is Going On?) - 1997
+*''Tretja dimenzija'' (Third Dimension) - 1999
+*''Doba norih'' (Age of the Mad) - 2001
+*''Big Foot Mama [best of]'' - 2003
+*''5ing'' (Petting) - 2004
+*''15 let v živo z gosti'' (15 Years - Live with Guests) - 2006
+*''Važn, da zadane'' (Important, that it Hits) - 2007
+*''Izhod'' (Exit) - 2012
+
+==External links==
+* [http://www.bigfootmama.net/ Official Site]
+
+{{Authority control}}
+[[Category:Slovenian rock music groups]]
+[[Category:Musical groups established in 1990]]
+[[Category:Musical groups from Ljubljana]]
+
+
+{{europe-band-stub}}
+{{Slovenia-stub}}</text>
+      <sha1>jpjemjlsm4wubhc6fga628srvl1wygh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bill Mack (songwriter)</title>
+    <ns>0</ns>
+    <id>9624427</id>
+    <revision>
+      <id>849101240</id>
+      <parentid>841463783</parentid>
+      <timestamp>2018-07-06T14:48:57Z</timestamp>
+      <contributor>
+        <username>The Librarian at Terminus</username>
+        <id>1227615</id>
+      </contributor>
+      <minor/>
+      <comment>added possessive apostrophe</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4445">{{BLP sources|date=March 2015}}
+
+'''Bill Mack''' (born June 4, 1932  in [[Shamrock, Texas]])&lt;ref&gt;[http://www.rockabilly.nl/artists/bmack.htm Bill Mack, The Midnight Cowboy] Retrieved 2018-04-18.&lt;/ref&gt; is an American [[country music]] singer, songwriter, and radio host.
+
+For many years, Mack was best known as the host of ''The Country Roads Show'', (later ''U.S. 1 Trucking Show'', and later still, ''Midnight Cowboy Trucking Show'') the overnight country music show on [[WBAP (AM)|WBAP]], a [[Clear-channel stations|clear channel]] station in Fort Worth. Mack's show catered primarily to [[truck drivers]] who traveled during the late-night hours. Its opening theme music was an instrumental rendition of ''Orange Blossom Special'', performed by [[Felix Slatkin]] and his orchestra.
+
+Because of WBAP's clear channel signal range via [[skywave]] at night, Mack's show was heard over most of the continental United States. Mack began his show in 1969.&lt;ref&gt;{{cite web|last1=Rather|first1=Dan|title=Haul or High Water|url=https://www.youtube.com/watch?v=A1iN-a0cvsQ|website=YouTube|publisher=Dan Rather Reports|accessdate=21 July 2017}}&lt;/ref&gt; He briefly took his show to [[Mexico|Mexican]] "[[border blaster]]" station [[XERF]], but returned to WBAP when an agreement for Mack to do his show from his Fort Worth home fell through.
+
+In addition, Mack hosts the [[broadcast syndication#Radio syndication|syndicated]] radio show ''Country Crossroads,'' heard on more than 800 stations across the country, and a similar [[cable television]] show on [[FamilyNet]]. He also hosts the ''Overdrive Top Ten Countdown,'' a weekly one-hour [[country music]] countdown geared toward truckers, in [[Radio syndication|syndication]].&lt;ref&gt;[http://www.etrucker.com/apps/news/article.asp?id=17779]&lt;/ref&gt;
+
+Mack left WBAP to join [[XM Satellite Radio]] on its [[Open Road (XM)|Open Road]] channel (XM 171). Two of the other main personalities on Open Road, [[Dave Nemo]] and [[Dale Sommers|Dale "The Truckin' Bozo" Sommers]], were Mack's primary competitors before all three left their [[AM radio]] stations to join XM.  Mack's radio program was heard weekdays on XM channel 13 from 12 Noon to 3 PM Eastern, and rebroadcast from Midnight to 3 AM Eastern.
+On April 29, 2011 Mack announced that Sirius/XM had terminated his contract to make room for a merger of two of the channels [[The Roadhouse (sirius) |The Roadhouse]] and [[Willie's Place (Sirius)|Willie's Place]] into one channel and that this was his final show.
+
+Mack was succeeded on his WBAP show by [[Eric Harley]], and the show has since been renamed the ''[[Midnight Radio Network]].''
+
+In the country music industry, Mack is also a songwriter. His best-known song is "[[Blue (Bill Mack song)|Blue]]," one of [[LeAnn Rimes]]' biggest hits. The song won Mack the [[Grammy Award for Best Country Song]] in 1997. Mack also wrote "[[Drinking Champagne|Drinkin' Champagne]]," which has been recorded by numerous artists.  The song was a hit for [[Cal Smith]] in 1968, and again for [[George Strait]] 1990 on his album ''[[Livin' It Up (album)|Livin' It Up]]''. Some of his other songs have been recorded by [[Dean Martin]], [[Ray Price (musician)|Ray Price]], [[Jerry Lee Lewis]] and [[George Jones]].
+
+In 2000, Mack won the media category award given by the [[Grand Ole Opry]]. He was named to the [[Texas Country Music Hall of Fame]] in 1999, and the Country Music DJ and Radio Hall of Fame in 1982.
+
+Bill Mack and his wife, Cynthia "Sweet Cindy"  make their home in Fort Worth, Texas. They have three children from their marriage, Misty Dawn, Billy Mack III, and Sunday Renee. They have several grandchildren. Bill Mack has a daughter named Debbie from a previous marriage.
+
+Bill Mack Smith III ("Billy") has followed in his dad's footsteps and has his own radio show with 92.1 Hank FM in Fort Worth, TX.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.billmackcountry.com Mack's official web site]
+* [http://www.xmradio.com/onxm/channelpage.xmc?ch=13 Bill Mack at Willie's Place]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mack, Bill}}
+[[Category:1932 births]]
+[[Category:Living people]]
+[[Category:XM Satellite Radio]]
+[[Category:American radio personalities]]
+[[Category:Radio personalities from Texas]]
+[[Category:People from Fort Worth, Texas]]
+[[Category:Jubilee Records artists]]
+[[Category:Starday Records artists]]
+[[Category:Charay Records artists]]
+[[Category:Grammy Award winners]]</text>
+      <sha1>mnn5gsyca4d77wqmaef2de1e2qnn16d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bosnia and Herzegovina in the Eurovision Young Musicians</title>
+    <ns>0</ns>
+    <id>44147341</id>
+    <revision>
+      <id>862920198</id>
+      <parentid>855936545</parentid>
+      <timestamp>2018-10-07T15:41:26Z</timestamp>
+      <contributor>
+        <username>Euro know</username>
+        <id>34429930</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1973">{{Infobox song contest country
+|Name           = Bosnia and Herzegovina
+|Other names    = ◄ [[Yugoslavia in the Eurovision Young Musicians|Yugoslavia]]
+|Member station = [[BHRT]]
+|National selection event =
+|ESC apps       = 1 (0 finals)
+|ESC first      = [[Eurovision Young Musicians 2012|2012]]
+|ESC last      = [[Eurovision Young Musicians 2012|2012]]
+|ESC best       =
+|ESC worst      = 
+|Website        = 
+|EBU page       = http://www.youngmusicians.tv/country/bosnia-herzegovina
+}}
+
+'''Bosnia and Herzegovina''' participated in the '''[[Eurovision Young Musicians 2012]]''' and are yet to return to the contest.&lt;ref name=EYM&gt;{{cite web|title=Country profile: Bosnia and Herzegovina|url=http://www.youngmusicians.tv/page/history/by-country/country?country=24|website=youngmusicians.tv|publisher=European Broadcasting Union|accessdate=18 October 2014}}&lt;/ref&gt;
+
+== Contestants ==
+;Table key
+{{legend|gold|Winner}}
+{{legend|silver|Second place}}
+{{legend|#cc9966|Third place}}
+
+{| class="wikitable sortable"
+|-
+! Year&lt;ref name=EYM/&gt;
+! Participant
+! Instrument
+! Final
+! Semi
+|-
+| colspan="5" {{N/A|{{Escyr|1986|Musicians}} to {{Escyr|1992|Musicians}} as part of {{Esccnty|Yugoslavia|Musicians}}}} 
+|-
+| [[Eurovision Young Musicians 2012|2012]]
+| [[Naomi Druškić]]
+| Piano
+| {{N/A|Did not qualify}}
+| -
+|-
+| colspan="5" {{N/A|Did not participate from [[Eurovision Young Musicians 2014|2014]] to [[Eurovision Young Musicians 2018|2018]]}} 
+|-
+|}
+
+==See also==
+*[[Bosnia and Herzegovina in the Eurovision Song Contest]]
+*[[Bosnia and Herzegovina in the Türkvizyon Song Contest]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://www.youngmusicians.tv/ Eurovision Young Musicians]
+
+{{Eurovision Young Musicians}}
+{{Bosnia and Herzegovina in the Eurovision Young Musicians}}
+
+{{DEFAULTSORT:Bosnia and Herzegovina In The Eurovision Young Musicians}}
+[[Category:Countries in the Eurovision Young Musicians]]
+
+
+{{Bosnia and Herzegovina-stub}}
+{{Eurovision-stub}}</text>
+      <sha1>gvmy4zbsziwkvhxoyntgxya72346e2a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cassinga Day</title>
+    <ns>0</ns>
+    <id>17809468</id>
+    <revision>
+      <id>836720335</id>
+      <parentid>836720260</parentid>
+      <timestamp>2018-04-16T13:31:27Z</timestamp>
+      <contributor>
+        <ip>2001:E68:540E:9076:4559:35DD:1F02:9810</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2640">{{Infobox holiday
+|holiday_name  = Cassinga Day
+|type          = National
+|image         =
+|imagesize     =
+|caption       =
+|official_name =
+|nickname      =
+|observedby    = [[Namibia]]
+|litcolor      =
+|longtype      =
+|significance  =
+|begins        =
+|ends          =
+|date          = 4 May
+|scheduling    = Same date each year
+|frequency     = Annual
+|duration      = 1 day}}
+
+'''Cassinga Day''' is a national public holiday in [[Namibia]] remembering the [[Cassinga Massacre]]. Commemorated annually on [[4 May]], the date "remembers those (approximately 600)&lt;ref&gt;[http://www.namibian.com.na/index.php?id=29057 Let's Review Our National Holidays] in The Namibian, 27 April, 2007&lt;/ref&gt; killed in 1978 when the [[South African Defence Force]] attacked a [[South West Africa People's Organization|SWAPO]] base at [[Cassinga]] in southern [[Angola]]".&lt;ref&gt;[http://www.thecommonwealth.org/YearbookInternal/138840/society/ The Commonwealth Yearbook] {{webarchive |url=https://web.archive.org/web/20070927000000/http://www.thecommonwealth.org/YearbookInternal/138840/society/ |date=September 27, 2007 }}&lt;/ref&gt; Commemorations are marked yearly by ceremonies at [[Heroes' Acre (Namibia)|Heroes' Acre]], outside of [[Windhoek]]. These ceremonies are attended by many important national political figures, including incumbent [[President of Namibia|President]] [[Hage Geingob]] and former [[List of Presidents of Namibia|President]]s [[Hifikepunye Pohamba]] and [[Sam Nujoma]] (as of 2016).&lt;ref&gt;[http://news.xinhuanet.com/english/2006-09/21/content_5119906.htm Namibian national reconciliation policy] in Xinhua News Agency, 21 September, 2006.&lt;/ref&gt;
+
+==4 May 1978==
+In the morning of May 4, 1978, the South African Defence Force ran an air strike on camp ''Cassinga'' near the village of [[Cassinga]], followed by a deployment of [[paratroopers]]. The camp was inhabited by exiled SWAPO sympathisers and their families. 165 men, 294 women and 300 children died in this attack. Later the same day the nearby camp ''Vietnam'' in the village of Tchetequela was also attacked. {{As of|2016}} the graves are unmarked but the [[Government of Namibia|Namibian government]] plans to erect a memorial site.&lt;ref&gt;{{Cite news | title=Remembering Cassinga Day | last=Muraranganda | first=Elvis | newspaper=[[New Era (Namibia)|New Era]] | date=3 May 2016 | page=3 | url=https://www.newera.com.na/2016/05/03/remembering-cassinga-day/}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+{{Public holidays in Namibia}}
+
+[[Category:Public holidays in Namibia]]
+[[Category:History of Namibia]]
+[[Category:Battle of Cassinga]]
+[[Category:May observances]]
+
+
+{{Namibia-gov-stub}}</text>
+      <sha1>6e7q48dplh2x119wnokj1bc8hj7sqzq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Commonwealth Party (Gibraltar)</title>
+    <ns>0</ns>
+    <id>19804694</id>
+    <revision>
+      <id>821946773</id>
+      <parentid>765465528</parentid>
+      <timestamp>2018-01-23T15:05:09Z</timestamp>
+      <contributor>
+        <username>Vif12vf</username>
+        <id>20306027</id>
+      </contributor>
+      <comment>Added country to infobox.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1831">{{Infobox Political Party
+|name         = Commonwealth Party
+|logo         =
+|leader             = [[Juan Jose Triay]]
+|foundation         = 1956
+|dissolved          = 1957
+|ideology           =
+|position           =
+|international      =
+|european           =
+|europarl           =
+|colours            =
+|headquarters       =
+|website            =
+|country=Gibraltar}}
+{{Politics of Gibraltar}}
+The '''Commonwealth Party''' was a [[political party]] in [[Gibraltar]]. It was the first party to contest an election after the [[Association for the Advancement of Civil Rights]] (AACR). It was led by [[Juan Jose Triay]].
+
+It was founded in 1956 to contest the elections to the [[Gibraltar Legislative Council|Legislative Council]] of that year, where it obtained a seat (4 to the AACR, and 2 independents), for Juan Jose Triay. In the elections to the [[Gibraltar City Council|City Council]], three months later (on 5 December 1956) the Commonwealth Party got two out of ten seats, for [[Guy Stagnetto]] and [[Louis Bruzon]] (besides 5 for the AACR, and 3 independents).
+
+However, in 1957 Juan Jose Triay resigned from the Legislative Council in protest at the silence adopted by the other members of the Council on the [[Spain|Spanish]] [[visa (document)|visa]] restrictions issue. In the [[by-election]], the Commonwealth Party candidate, [[Alfred Vasquez]] was not elected and the party disbanded.
+
+== External links ==
+*[http://www.gibraltar.gi/locals/news.php?action=view_article&amp;article=2570 When elections were not contested].
+
+{{Gibraltar political parties}}
+{{Use dmy dates|date=August 2011}}
+
+[[Category:Defunct political parties in Gibraltar]]
+[[Category:Political parties established in 1956]]
+[[Category:1956 establishments in Gibraltar]]
+[[Category:Political parties disestablished in 1957]]
+
+
+{{Gibraltar-party-stub}}</text>
+      <sha1>i0jtsryy1zbqt36p4opli1ds5uhx3ht</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Consorcio de Compensacion de Seguros</title>
+    <ns>0</ns>
+    <id>26544236</id>
+    <revision>
+      <id>833352325</id>
+      <parentid>833352299</parentid>
+      <timestamp>2018-03-31T01:33:41Z</timestamp>
+      <contributor>
+        <username>Grutness</username>
+        <id>117878</id>
+      </contributor>
+      <comment>/* Sources */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1051">{{multiple issues|
+{{Orphan|date=March 2012}}
+{{refimprove|date=April 2010}}
+}}
+
+The '''Consorcio de Compensacion de Seguros''' is a compulsory Government catastrophic risk [[insurance]] in [[Spain]]. It is an insurance tax charged on prescribed classes of insurance issued by private [[insurer]]s, providing cover against a series of extraordinary perils and "[[Political risk insurance|political risks]]”
+
+Note: This Government scheme covers direct physical damage only. It is expected that a company ensures their commercial [[insurance policy]] covers them against any resulting Business Interruption losses if necessary.
+
+==Sources==
+
+http://www.isn-inc.com/countryinfo/spain.aspx
+
+There are regulations concerning payment of the Consorcio [[tax]] within a certain time of the inception date of the policy. The [[timeline]]s are very strict – payment of the tax should be made to the Consorcio office within 7 days (of inception of the policy) for a new risk, and within 30 days for a renewal.
+
+[[Category:Insurance in Spain]]
+
+{{spain-stub}}</text>
+      <sha1>j3zuh29ayregq4mooqh1ir9wlc521uz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Corte Capitanale</title>
+    <ns>0</ns>
+    <id>48693235</id>
+    <revision>
+      <id>861203162</id>
+      <parentid>861202960</parentid>
+      <timestamp>2018-09-25T20:27:53Z</timestamp>
+      <contributor>
+        <username>Continentaleurope</username>
+        <id>24771007</id>
+      </contributor>
+      <comment>/* Architecture */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6758">{{Use dmy dates|date=May 2018}}
+{{Infobox building
+| name                = Corte Capitanale
+| image               = Corte Capitanali Mdina, Malta.jpeg
+| image_caption       = Façade of the Corte Capitanale
+| coordinates         = {{coord|35|53|5.81|N|14|24|14.9|E|display=inline}}
+| status              = Intact
+| building_type       = [[Courthouse]]
+| architectural_style = [[Baroque architecture|Baroque]]
+| location            = [[Mdina]], [[Malta]]
+| current_tenants     = Mdina Local Council
+| start_date          = 1726
+| completion_date     = 1728
+| owner               = [[Government of Malta]]
+| material            = [[Limestone]]
+| floor_count         = 2
+| architect           = [[Charles François de Mondion]]
+}}
+
+The '''Corte Capitanale''' is a former [[courthouse]] in [[Mdina]], [[Malta]], which currently serves as a [[city hall]]. It was built in the [[Baroque architecture|Baroque]] style between 1726 and 1728, to designs of the French architect [[Charles François de Mondion]]. The building is linked to [[Palazzo Vilhena]], but it has its own entrance and façade.
+
+==History==
+The Corte Capitanale was built between 1726 and 1728 along with the rest of [[Palazzo Vilhena]], the [[List of Grand Masters of the Knights Hospitaller|Grand Master]]'s official residence in Mdina. The building was mainly a [[courthouse]], but it also served as the seat of the ''Capitano della Verga''.&lt;ref&gt;{{cite journal|journal=Foreign and Commonwealth Office Collection|date=1877|title=Statement of all the property transferred to the military and naval authorities from the year 1816 to the end of 1875 with appendix|url=http://dl.docslide.com.br/download/e996ebc0c594ab2c075bf51082e0afbad1243ef61bd876d9ae865c8b12de9684c8f9fccc78f865b350321ff1cdf352c6957a84cdc5c65fd94ac0c0b365bad1f9y3fwCsiz24XCetjkf22h8s%2FKaj0I4xb%2FgkFlqUAHAVSYhM40YeP668ASgtqXSjsjDbOjBw5weyvCKHdsXgIMP%2FQQYWihmzZLujG3HetnnZeq9uIE4woKeLhdOJosFg4r|publisher=University of Manchester|jstor=60231726|page=25}}&lt;/ref&gt; 
+
+[[File:Palazzo Vilhena interior.jpeg|thumb|left|Stairway with the doors of the courtrooms]]
+Its linking to the palace was a symbolic gesture to convey the fact that the courts were under the jurisdiction of the [[Knights Hospitaller|Order of St. John]]. The courthouse was also linked to the Bishop's Palace through a now-blocked underground passage, indicating the Church's role in the courts.&lt;ref&gt;{{cite web|title=Mdina - page two|url=http://romeartlover.tripod.com/Malta18.html|website=romeartlover.tripod.com|archiveurl=https://web.archive.org/web/20150112182043/http://romeartlover.tripod.com/Malta18.html|archivedate=12 January 2015}}&lt;/ref&gt; The building remained a courthouse until 1818.&lt;ref name=roughguides/&gt;
+
+Today, the Corte Capitanale is Mdina's [[city hall]], being the seat of the city's [[Local councils of Malta|local council]].&lt;ref&gt;{{cite web|title=Our Contact Details|url=http://lc.gov.mt/Page.aspx?catid=26&amp;pid=204&amp;lid=1|website=lc.gov.mt|archiveurl=https://web.archive.org/web/20151130191834/http://lc.gov.mt/Page.aspx?catid=26&amp;pid=204&amp;lid=1|archivedate=30 November 2015}}&lt;/ref&gt; The council considers the building as inadequate, and in 2012 it requested to move its premises to the [[Banca Giuratale (Mdina)|Banca Giuratale]].&lt;ref&gt;{{cite news|title=Mdina Council wants to use Banca Giuratale|url=http://www.independent.com.mt/articles/2012-02-20/news/mdina-council-wants-to-use-banca-giuratale-306085/|work=[[The Malta Independent]]|date=20 February 2012|archiveurl=https://web.archive.org/web/20151128194714/http://www.independent.com.mt/articles/2012-02-20/news/mdina-council-wants-to-use-banca-giuratale-306085/|archivedate=28 November 2015}}&lt;/ref&gt; It is not regularly open to the public, but the main hall is occasionally open with temporary historical or cultural exhibitions.&lt;ref name=roughguides&gt;{{cite book|last1=Borg|first1=Victor Paul|title=The Rough Guide to Malta &amp; Gozo|date=2002|publisher=Rough Guides|isbn=9781858286808|page=127|url=https://books.google.com.mt/books?id=o1QO1Tk-FsMC&amp;pg=PA127#v=onepage&amp;q&amp;f=false}}&lt;/ref&gt;
+
+The building was included on the Antiquities List of 1925.&lt;ref&gt;{{cite web|title=Protection of Antiquities Regulations 21st November, 1932 Government Notice 402 of 1932, as Amended by Government Notices 127 of 1935 and 338 of 1939. |url=https://www.mepa.org.mt/file.aspx?f=2627 |website=[[Malta Environment and Planning Authority]] |archiveurl=https://web.archive.org/web/20160419101304/https://www.mepa.org.mt/file.aspx?f=2627 |archivedate=19 April 2016 |deadurl=yes |df= }}&lt;/ref&gt; It is now a Grade 1 national monument and it is listed on the [[National Inventory of the Cultural Property of the Maltese Islands]].&lt;ref name=nicpmi&gt;{{cite web|title=Corte Capitanale|url=http://www.culturalheritage.gov.mt/filebank/inventory/01185.pdf|website=National Inventory of the Cultural Property of the Maltese Islands|date=28 December 2012|archiveurl=https://web.archive.org/web/20151129201925/http://www.culturalheritage.gov.mt/filebank/inventory/01185.pdf|archivedate=29 November 2015}}&lt;/ref&gt;
+
+==Architecture==
+[[File:Herald's Loggia.jpg|thumb|left|Herald's Loggia]]
+The Corte Capitanale is built in the [[French Baroque architecture|French Baroque style]]. The façade is decorated by superimposed [[Tuscan order|Tuscan]] and [[Corinthian order|Corinthian]] pilasters, and a [[cornice]] along roof level. A balcony is located above the main doorway, and it is decorated with allegorical statues of [[Justice]] and [[Mercy]]. The inscription ''Legibus et Armis'' (by using laws and arms) is inscribed below the centrepiece of the façade.&lt;ref name=nicpmi/&gt;
+
+The courthouse incorporates some prison cells and dungeons, which had been built in the 16th century.&lt;ref name=nicpmi/&gt; The building is also linked to a [[loggia]] known as Herald's Loggia, from which [[town crier]]s used to announce decrees to the people. The loggia also predates the courthouse, and it is believed to date to the 17th century.&lt;ref&gt;{{cite web|title=Herald's Loggia|url=http://www.culturalheritage.gov.mt/filebank/inventory/01196.pdf|website=National Inventory of the Cultural Property of the Maltese Islands|archiveurl=https://web.archive.org/web/20151130212516/http://www.culturalheritage.gov.mt/filebank/inventory/01196.pdf|archivedate=30 November 2015|date=28 December 2012}}&lt;/ref&gt;
+
+==References==
+{{commons category|Corte Capitanale}}
+{{reflist}}
+
+{{Mdina}}
+
+[[Category:Former courthouses in Malta]]
+[[Category:City and town halls in Malta]]
+[[Category:Mdina]]
+[[Category:Baroque architecture in Malta]]
+[[Category:Government buildings completed in 1728]]
+[[Category:National Inventory of the Cultural Property of the Maltese Islands]]
+[[Category:Limestone buildings in Malta]]
+[[Category:1726 establishments in Malta]]
+
+
+{{Malta-stub}}</text>
+      <sha1>c6z4j7lt61ssfl8w59risf34aybfzhi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Coz Ov Moni</title>
+    <ns>0</ns>
+    <id>41180443</id>
+    <revision>
+      <id>795401690</id>
+      <parentid>683043311</parentid>
+      <timestamp>2017-08-14T00:48:34Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 1 as dead. #IABot (v1.5beta)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5150">{{Infobox film
+| name           = Coz Ov Moni
+| image          = File:Coz_Ov_Moni_poster.jpeg
+| caption        =
+| director       = King Luu
+| producer       = Panji Anoff
+| writer         = FOKN BOIS
+| starring       = Mensa Ansah&lt;br/&gt;Emmanuel Owusu-Bonsu
+| music          =
+| cinematography =
+| editing        = King Luu
+| distributor    = Pidgen Music / Luu Vision
+| released       = {{Film date|2010}}
+| runtime        = 45 minutes
+| country        = Ghana
+| language       = [[Ghanaian Pidgin English|Pidgin English]]
+| budget         =
+}}
+'''''Coz Ov Moni - The First Pidgen Musical Film in the World''''' is a 2010 [[Musical film|musical]] film produced by the [[FOKN BOIS]] and directed by independent [[Ghana]]ian filmmaker King Luu.&lt;ref&gt;{{Cite web|url=http://www.mediafritiq.com/2013/10/20/coz-ov-moni-fokn-bois/ |title=Coz Ov Moni: FOKN BOIS|publisher=MediAfritiQ|accessdate=2011-11-24}}&lt;/ref&gt;
+
+The film is a musical entirely spoken in [[Ghanaian Pidgin English]], but subtitles are shown.
+
+== Synopsis ==
+On a normal morning in Gbese, [[Accra]], the FOKN BOIS (rapping duo M3NSA and Wanlov the Kubolor) wake up and plan to go clubbing with some lady friends after chasing an evasive debtor for their money. After getting the money, they set off to blow it off on food, partying and women with hilarious and dramatic consequences. While going through the day, the story highlights real struggles of ordinary young Ghanaians in modern Ghana in spite of the strong elements of humour. Their free-spirited and seemingly conceited attitude makes them a few enemies as the day progresses resulting in a dramatic ending.&lt;ref&gt;{{Cite web|url=http://www.modernghana.com/music/12192/3/a-tale-from-the-premier-of-cos-ov-moni.html |title=A tale from the premier of Coz Ov Moni|publisher=Modern Ghana|accessdate=2011-11-24}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.afropop.org/wp/12268/fokn-bois-the-cutting-edge-of-satire-in-african-hip-hop-pt-2/ |title=FOKN Bois: The Cutting Edge of Satire in African Hip Hop|publisher=Afro Pop Worldwide|accessdate=2011-11-24}}&lt;/ref&gt;
+
+==Cast==
+* [[M3NSA]]
+* [[Wanlov the Kubolor]]
+* [[Reggie Rockstone]]
+* [[Samini]]
+* [[Macho Rapper]]
+* [[Mutombo Da Poet]]
+* [[Mokin]]
+
+==Release==
+The film premiered in [[Ghana]] on 15 May 2010 at Ghana's National Theatre in Accra, and premiered in the [[United Kingdom]] on 22 July 2010 at The Ritzy in [[London]].&lt;ref&gt;{{Cite web|url=http://www.ghanacelebrities.com/2010/05/17/m3nsa-kubolor-pulls-the-crowd-at-the-%E2%80%98coz-ov-moni%E2%80%99-premiere/ |title=M3nsa &amp; Kubolor Pulls Crowd At ‘Coz Ov Moni’ Premiere |publisher=Ghana Celebrities|accessdate=2011-11-24}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/film/Coz_Ov_Moni_Official_Uk_Premiere/ |title=Coz Ov Moni official UK premiere |publisher=Picture Houses|accessdate=2011-11-24}}&lt;/ref&gt; The film was also presented at various film festivals, including the [[Rio International Film Festival]] ([[Rio de Janeiro]]), [[Pan African Film Festival]] ([[Los Angeles]]), [[Black Filmmakers International Film Festival]] ([[London]]), [[Pan African Film Festival]] ([[Cannes]]), and was the headliner Movie at [[African Weekender]] ([[Sussex]]).&lt;ref&gt;{{Cite web|url=http://www.modernghana.com/music/11709/3/the-fokn-bois-talk-coz-ov-moni.html |title=The FOKN Bois talk Coz Ov Moni |publisher=Modern Ghana|accessdate=2011-11-24}}&lt;/ref&gt; It was subsequently released as a double disc VCD/CD combination, with the film featured on the Video CD of disc 1, and the [[movie soundtrack]] featured on disc 2.&lt;ref&gt;{{Cite web|url=http://www.africanhiphop.com/musicvideos/coz-ov-moni/ |title=Coz Ov Moni|publisher=Africanhiphop.com|accessdate=2011-11-24}}&lt;/ref&gt;
+
+The soundtrack was then re-released once more as Kweku Ananse + FOKN BOIS present... Coz Ov Moni - The Remix EP, which featured entirely remixed songs off the Soundtrack by Ghanaian producer Kweku Ananse.&lt;ref&gt;{{Cite web|url=http://www.okayafrica.com/2010/08/20/kweku-ananse-remixes-a-musical-free-ep/ |title=Kweku Ananse Remixes a Musical, Free EP|publisher=Okayafrica|accessdate=2011-11-24}}&lt;/ref&gt;
+
+==Awards and honours==
+* '''[[Ghana UK-Based Achievement Awards]]''': 1
+** Special Achievement Award: 2011&lt;ref&gt;{{Cite web|url=https://www.gubaawards.co.uk/fokn-bois-to-premier-coz-ov-moni-musical-to-us-audiences/|title=FOKN BOIS to premier Coz Ov Moni musical to US audiences|publisher=GUBA Awards|accessdate=2011-11-24|deadurl=yes|archiveurl=https://web.archive.org/web/20131202223020/https://www.gubaawards.co.uk/fokn-bois-to-premier-coz-ov-moni-musical-to-us-audiences/|archivedate=2013-12-02|df=}}&lt;/ref&gt;
+
+== See also ==
+* [[Coz Ov Moni 2 (FOKN Revenge)]] (2013), The sequel
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.cozovmoni.com/project.php?item=43 Coz Ov Moni]{{dead link|date=August 2017 |bot=InternetArchiveBot |fix-attempted=yes }} Official website
+
+{{DEFAULTSORT:Coz Ov Moni}}
+[[Category:2010 films]]
+[[Category:Ghanaian films]]
+[[Category:Pidgin English-language films]]
+[[Category:2010s musical films]]
+[[Category:Ghanaian musical films]]
+[[Category:Hip hop films]]
+
+{{musical-film-stub}}
+{{Ghana-stub}}</text>
+      <sha1>delawkj5sd8mhn7gnyikztmwvkwgdt6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Edvardas Adamkavičius</title>
+    <ns>0</ns>
+    <id>49290735</id>
+    <revision>
+      <id>791451107</id>
+      <parentid>791451063</parentid>
+      <timestamp>2017-07-20T10:24:41Z</timestamp>
+      <contributor>
+        <username>Sabbatino</username>
+        <id>19992876</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1299">'''Edvardas Adamkavičius''' (March 31, 1888 – May 10, 1957) was a [[Lithuanian people|Lithuanian]] general. He was born in [[Pikeliai]], [[Telšiai County]], Lithuania. He enlisted in the [[Lithuanian Army]] in 1918. He was made a [[lieutenant general]] on September 6, 1933, a [[brigadier general]] in 1936 and a [[divisional general]] on February 16, 1937. He retired in 1940. After the occupation of Lithuania by the [[Soviet Union]], he fled to [[Germany]]. He immigrated to the United States in 1949. He died in [[Worcester, Massachusetts]]. He was the uncle of future [[President of Lithuania]], [[Valdas Adamkus]].&lt;ref&gt;{{cite web|last1=Bartasevičius|first1=Valdas|title=Vyties Kryžiaus kavalieriai istoriją rašė narsa ir krauju|url=http://kultura.lrytas.lt/istorija/vyties-kryziaus-kavalieriai-istorija-rase-narsa-ir-krauju.htm|website=lrytas.lt|accessdate=July 20, 2017|date=March 29, 2014}}&lt;/ref&gt;
+
+==Bibliography==
+*[[Visuotinė lietuvių enciklopedija]], Bd. 1, S. 73.
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Adamkavicius, Edvardas}}
+[[Category:1888 births]]
+[[Category:1957 deaths]]
+[[Category:American people of Lithuanian descent]]
+[[Category:Lithuanian emigrants to the United States]]
+[[Category:Lithuanian generals]]
+[[Category:People from Mažeikiai]]
+
+{{Lithuania-stub}}</text>
+      <sha1>dznvrk6ohelcvicr0gotf1h5uoiiftw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eileithyia Cave</title>
+    <ns>0</ns>
+    <id>3959531</id>
+    <revision>
+      <id>830792441</id>
+      <parentid>784334032</parentid>
+      <timestamp>2018-03-16T23:46:04Z</timestamp>
+      <contributor>
+        <username>RafaelS1979</username>
+        <id>26363365</id>
+      </contributor>
+      <comment>/* External links */clean up using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2118">{{Infobox ancient site
+  |name = Eileithyia Cave
+  |native_name =
+  |alternate_name = Cave of Eileithyia
+  |image =
+  |image_size=240
+  |alt =
+  |caption =
+  |map_type = Greece
+  |map_alt = Cave of Eileithyia
+  |map_size =240
+  | relief = yes
+  |coordinates = {{coord|35|19|29.2|N|25|12|21|E|display=inline,title}}
+  |location = [[Crete]]
+  |region = [[Greece]]
+  |type =
+  |part_of =
+  |length =
+  |width =
+  |area =
+  |height =
+  |builder =
+  |material =
+  |built =
+  |abandoned =
+  |epochs = [[Neolithic]], [[Bronze Age]]
+  |cultures =
+  |dependency_of =
+  |occupants =
+  |event =
+  |excavations =
+  |archaeologists =
+  |condition =
+  |ownership =
+  |management =
+  |public_access =
+  |website = &lt;!-- {{URL|example.com}} --&gt;
+  |notes =
+}}
+'''Eileithyia Cave''' (also the Cave of Eileithyia) was a [[Neolithic]],&lt;ref&gt;Greek religion By Walter Burkert [https://books.google.com/books?id=sxurBtx6shoC&amp;pg=PA25&amp;dq=Eileithyia+Cave+Neolithic#v=onepage&amp;q=Eileithyia%20Cave%20Neolithic&amp;f=false Page 25] {{ISBN|0-674-36281-0}}&lt;/ref&gt; [[Minoan civilization|Minoan]] and [[Mycenaean Greece|Mycenaean]] [[sacred cave]] dedicated to the goddess of childbirth, [[Eileithyia]], on the island of [[Crete]].
+
+==Geography==
+The cave is located one kilometer south of the town of [[Amnisos]].
+
+==Mythology==
+The cave is mentioned in [[Odysseus]]'s Cretan narrative to [[Penelope]] in the [[Odyssey]].
+
+==Archaeology==
+The Eileithyia Cave was occupied by prehistoric human settlers from the [[Neolithic]] period until around 400 BCE. The archaeological finds made in the cave are on display at the [[Iraklion Museum]] and the [[Archaeological Museum of Iraklion]].
+
+==References==
+{{reflist|2}}
+
+==External links==
+* http://www.ellada.com/creteiraklion.html
+
+{{Greek Caves}}
+{{Navbox prehistoric caves}}
+
+[[Category:Neolithic sites in Crete]]
+[[Category:Landforms of Heraklion (regional unit)]]
+[[Category:Minoan sites in Crete]]
+[[Category:Ancient caves of Greece]]
+[[Category:Landforms of Crete]]
+[[Category:Mycenaean Crete]]
+[[Category:Mycenaean sites in Greece]]
+
+
+{{europe-archaeology-stub}}
+{{Crete-geo-stub}}
+{{AncientGreece-stub}}</text>
+      <sha1>c4cg9ydrb2zr1c22uw6asnhj30i64so</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Foreign policy of Ukraine</title>
+    <ns>0</ns>
+    <id>38447964</id>
+    <revision>
+      <id>849191132</id>
+      <parentid>829244584</parentid>
+      <timestamp>2018-07-07T05:38:57Z</timestamp>
+      <contributor>
+        <ip>2A02:C7D:B910:3D00:8C2A:753B:FB99:915E</ip>
+      </contributor>
+      <comment>removed stale merge tag from june 2017</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3715">{{unreferenced|date=February 2013}}
+
+[[File:P031214PS-0710 (14104760453).jpg|thumb|Left|President [[Barack Obama]] talks with Prime Minister [[Arseniy Yatsenyuk]] at the conclusion of their bilateral meeting in the [[Oval Office]], March 12, 2014.]]
+'''The foreign policy of Ukraine''' is the strategic approach [[Ukraine]] takes to its [[Foreign relations of Ukraine|relations with foreign nations]], cooperation with [[international organization]]s, the promotion of its [[national interests]] and the protection of the rights of its citizens and [[Ukrainian diaspora|diaspora]] abroad.
+
+The strategic goals of Ukraine's foreign policy include [[European integration|European]] and [[NATO|Euro-Atlantic integration]], forming a relationship of strategic partnership with the [[United States of America]], [[European Union]], and the [[Russian Federation]], cooperation with member countries of the [[Commonwealth of Independent States|CIS]] and [[GUAM Organization for Democracy and Economic Development|GUAM]], active engagement with the [[UN]] and other international organizations, effective participation in the global economy with the maximum protection of national interests, and the transformation of Ukraine into a [[regional power]].
+
+Ukraine's foreign policy is guided by a number of key priorities.
+
+'''&lt;big&gt;Ukraine - Russia in 2018&lt;/big&gt;'''
+
+According to a sociological survey conducted by the All-Russia Center for the Study of Public Opinion in February 2018, 40% of Russians surveyed assess Russia's relations with Ukraine as tense, and 22% as hostile. At the same time, 40% of respondents believe that friendly, allied relations will eventually recover.
+
+Four years after the change of power in Ukraine, about three-quarters of Russians (72%) follow the events, including 17% reported that they closely monitor the situation (this proportion is significantly higher among the older generation of 36% aged 60+ and 21% aged 45-59 years, than among young people, 2% among 18-34 year olds).
+
+If the citizens of the Russian Federation estimated February 2014 as a revolution, a coup d'etat (26%), less often as a planned provocation (8%) or a catastrophe for the country (8%), the current state of affairs is seen as a mess (16%) , civil war (12%), crisis (8%).
+
+From the events that occurred as a result of the Maidan, Ukraine lost - most Russians (75%) think that more than half of them are in all socio-demographic groups. The fact that those events did not change anything by their very nature, 13% converge and only 2% believe that Ukraine won.
+
+Current relations between Ukraine and Russia are characterized by 40% of Russians as tense (this share is highest among young people, 47% in the group from 18 to 24 years), 22% - as hostile (the respondents are more likely to think aged 45 to 60, 26%), 13% consider them to be cool and 11% neutral. Almost half of the respondents believe that during the last year the relations between the two countries did not become either better or worse (49%), in the opinion of each third they only worsen (34%).
+
+Prospects for the restoration of ties between Ukraine and Russia are assessed more positively by the Russians: 40% are sure that friendly, allied relations will be restored (46% are more optimistic about this estimate, 35% share this opinion among women), almost 38% that sooner or later the interaction of our countries will normalize, but one in 10 respondents (10%) will never be, never believes in the restoration of relations.
+
+{{Ukraine-stub}}
+{{politics-stub}}
+{{foreignrelations-stub}}
+
+[[Category:Foreign policy|Ukraine]]
+[[Category:Foreign relations of Ukraine|*]]
+[[Category:Politics of Ukraine]]
+
+[[ko:우크라이나의 대외 관계]]</text>
+      <sha1>axqthon5egtuy7bw2b3mr2qxqccioz4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gazeta Basarabiei</title>
+    <ns>0</ns>
+    <id>34421831</id>
+    <revision>
+      <id>843376183</id>
+      <parentid>749727632</parentid>
+      <timestamp>2018-05-28T19:08:56Z</timestamp>
+      <contributor>
+        <username>Gikü</username>
+        <id>6043677</id>
+      </contributor>
+      <minor/>
+      <comment>correct diacritics</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2982">{{for|an earlier publication of the same name|Gazeta Basarabiei (1923)}}
+{{Infobox newspaper
+| name                 = Gazeta Basarabiei
+| logo                 = 
+| image                =
+| caption              = 
+| type                 =  
+| format               = 
+| owners               =  
+| founder              = 
+| publisher            = 
+| editor               = [[Ion T. Costin]]
+| chiefeditor          = V. Boldescu
+| assoceditor          = 
+| maneditor            = 
+| newseditor           = 
+| managingeditordesign = 
+| campuseditor         = 
+| campuschief          = 
+| opeditor             = 
+| sportseditor         = 
+| photoeditor          = 
+| staff                =  
+| foundation           = 1935
+| political            = 
+| language             = [[Romanian language|Romanian]] 
+| ceased publication   = 1940
+| headquarters         = [[Chișinău]]
+| circulation          = 
+| sister newspapers    = 
+| ISSN                 = 
+| oclc                 = 
+| website              =  
+}}
+
+'''''Gazeta Basarabiei''''' ({{lang-en|Bessarabia Gazette}}) was a newspaper from [[Chișinău]], [[Bessarabia]], founded in 1935.&lt;ref&gt;[https://web.archive.org/web/20120304035846/http://www.hasdeu.md/ro/ebibl/poslednij.pdf PRESA BASARABEANĂ de la începuturi pînă în anul 1957. Catalog] {{webarchive |url=https://web.archive.org/web/20120304035846/http://www.hasdeu.md/ro/ebibl/poslednij.pdf |date=March 4, 2012 }}&lt;/ref&gt;
+
+==Overview==
+
+Between 24 October and 17 November 1923, Gazeta Basarabiei was a weekly of the [[Romanian National Party]], edited by [[Ion Pelivan]] and [[Constantin Mâțu]].&lt;ref&gt;[[Constantin Mâțu]], O necesitate desconsiderată: Presa românească în Basarabia, Chișinău, 1930, p.9.&lt;/ref&gt;
+
+Between November 14, 1935 and 1940, Gazeta Basarabiei was an independent newspaper ("Ziar popular independent de pură informație"), directed by [[Ion T. Costin]] and V. Boldescu served as editor in chief.&lt;ref&gt;[[Eugen Ștefan Holban]], Dicționar cronologic: Prin veacurile învolburate ale Moldovei dintre Prut și Nistru, Chișinău, 1998, 194.&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+== Bibliography ==
+* [[Constantin Mâțu]], O necessitate desconsiderată: Presa românească în Basarabia, Chișinău, 1930.
+* [[Eugen Ștefan Holban]], Dicționar cronologic: Prin veacurile învolburate ale Moldovei dintre Prut și Nistru, Chișinău, 1998.
+
+== External links ==
+* [https://web.archive.org/web/20120304035846/http://www.hasdeu.md/ro/ebibl/poslednij.pdf PRESA BASARABEANĂ de la începuturi pînă în anul 1957. Catalog]
+
+{{DEFAULTSORT:Gazeta Basarabiei}}
+[[Category:1940 disestablishments in Moldova]]
+[[Category:1935 establishments in Romania]]
+[[Category:Defunct newspapers of Moldova]]
+[[Category:Media in Chișinău]]
+[[Category:Newspapers published in Moldova]]
+[[Category:Publications established in 1935]]
+[[Category:Publications disestablished in 1940]]
+[[Category:Romanian-language newspapers published in Moldova]]
+
+{{Moldova-newspaper-stub}}</text>
+      <sha1>37gys79p2mjak9n30cdgxgch4nkng45</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hassiba</title>
+    <ns>0</ns>
+    <id>25358282</id>
+    <revision>
+      <id>628908299</id>
+      <parentid>616598923</parentid>
+      <timestamp>2014-10-09T10:37:49Z</timestamp>
+      <contributor>
+        <username>Mhd Ali Maleh</username>
+        <id>22793073</id>
+      </contributor>
+      <comment>editing        = Mhd Ali Maleh</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1206">{{Infobox film
+| name           = Hassiba
+| image          = Hassiba.jpg
+| caption        =
+| film name      = {{lang-ar|حسيبة}}
+| director       = [[Raymond Boutros]]
+| screenplay     = Raymond Boutros
+| story          = [[Khayri al-Zahabi]]
+| starring       = [[Sulaf Fawakherji]]&lt;br /&gt;[[Talhat Hamdi]]&lt;br /&gt;[[Jiana Eid]]&lt;br&gt;[[Salim Sabri]]&lt;br&gt;[[Wafic al-Zaim]]&lt;br&gt;[[Emarat Rezk]]
+| music          = Raad Khalf
+| cinematography = George Lutfi al-Khoury 
+| editing        = Mhd Ali Maleh
+| distributor    = [[General Organization for Cinema (Syria)|General Organization for Cinema]]
+| released       = {{Film date|2008}}
+| runtime        = 120 minutes
+| country        = [[Syria]]
+| language       = Arabic
+| budget         =
+| gross          =
+}}
+'''''Hassiba''''' ({{lang-ar|حسيبة}}) is a [[Syria]]n [[drama]] film by director [[Raymond Boutros]]. The film is set in 1930s [[Damascus]] and tackles social and political issues to the backdrop of the [[French mandate of Syria]].
+
+==External links==
+* {{Imdb title|id=1538486|title=Hassiba}}
+
+[[Category:2008 films]]
+[[Category:Arabic-language films]]
+[[Category:Films directed by Raymond Boutros]]
+[[Category:Syrian films]]
+
+{{Syria-film-stub}}</text>
+      <sha1>495b9mpk8lkkycarp32ho0m8wq8fkud</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Iskra (film)</title>
+    <ns>0</ns>
+    <id>58477159</id>
+    <revision>
+      <id>859466233</id>
+      <parentid>859372840</parentid>
+      <timestamp>2018-09-14T06:48:36Z</timestamp>
+      <contributor>
+        <username>Lugnuts</username>
+        <id>1276024</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1948">{{Use dmy dates|date=September 2018}}
+{{Infobox film
+| name           = Iskra
+| image          = Iskra (film).jpg
+| caption        = Film poster
+| director       = [[Gojko Berkuljan (director)|Gojko Berkuljan]]
+| producer       = 
+| writer         = Gojko Berkuljan
+| starring       = [[Jelena Simic (actor)|Jelena Simic]]
+| music          = 
+| cinematography = 
+| editing        = 
+| distributor    = 
+| released       = {{film date|2017|8|2|df=yes}}
+| runtime        = 81 minutes
+| country        = Montenegro
+| language       = Serbian
+| budget         = 
+}}
+
+'''''Iskra''''' is a 2017 Montenegrin [[drama film]] directed by [[Gojko Berkuljan (director)|Gojko Berkuljan]]. It was selected as the Montenegrin entry for the [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]] at the [[91st Academy Awards]].&lt;ref name="Montenegro"&gt;{{cite web|url=https://www.cdm.me/kultura/film-gojka-berkuljana-crnogorski-kandidat-za-oskara/ |title=Film Iskra Gojka Berkuljana crnogorski kandidat za Oskara |work=CDM |date=13 September 2018 |accessdate=13 September 2018}}&lt;/ref&gt;&lt;ref name="Montenegro2"&gt;{{cite web|url=https://www.hollywoodreporter.com/news/oscars-montenegro-selects-iskra-foreign-language-category-1143054 |title=Oscars: Montenegro Selects 'Iskra' for Foreign-Language Category |work=[[The Hollywood Reporter]] |first=Nick |last=Holdsworth |date=13 September 2018 |accessdate=13 September 2018}}&lt;/ref&gt;
+
+==Cast==
+* [[Jelena Simic (actor)|Jelena Simic]] as Iskra
+
+==See also==
+* [[List of submissions to the 91st Academy Awards for Best Foreign Language Film]]
+* [[List of Montenegrin submissions for the Academy Award for Best Foreign Language Film]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|7279250|Iskra}}
+
+{{DEFAULTSORT:Iskra}}
+[[Category:2017 films]]
+[[Category:2010s drama films]]
+[[Category:Montenegrin films]]
+[[Category:Serbian-language films]]
+{{Montenegro-film-stub}}
+{{2010s-drama-film-stub}}</text>
+      <sha1>98k1leizr9ydxv7ujxis2fu45tagxou</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>J.F. Willumsens Museum</title>
+    <ns>0</ns>
+    <id>28967707</id>
+    <revision>
+      <id>798414426</id>
+      <parentid>697019937</parentid>
+      <timestamp>2017-09-01T20:01:40Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Speedily moving category Museums in Capital Region of Denmark to [[:Category:Museums in the Capital Region of Denmark]] per [[WP:CFDS|CFDS]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1218">
+[[Image:jfwillumsen 01.jpg|thumb|300px|J.F. Willumsen Museum]]
+[[Image:jfwillumsen 03.jpg|thumb|300px|Raven sculpture from [[Ulvedals Theatre]] in [[Jægersborg Dyrehave|Dyrehaven]]]]
+
+'''J.F. Willumsens Museum''' is in [[Frederikssund]]. The museum is an [[art museum]] dedicated to the works of the artist [[Jens Ferdinand Willumsen]] and was opened in 1957. The museum is located in [[Frederikssund Municipality]].
+
+The museum was designed by the architect [[Tyge Hvass]], and a new wing was opened in 2005, designed by the architect [[Theo Bjerg]]. The head of the museum from 1973-1990 and 1993-2006 was art historian mag. art. Leila Krogh (born 1943).
+
+The museum contains a wide range of Willumsen's artworks, including [[painting]]s, [[sketch (drawing)|sketch]]es, [[graphics]], [[ceramic art|ceramics]], [[sculpture]]s, [[photograph]]s and [[architecture]].
+
+== External links ==
+* [http://www.jfwillumsensmuseum.dk/ Museum's homepage]
+
+{{Portal|Denmark}}
+
+{{coord|55|50|41.2|N|12|3|2.9|E|display=title}}
+
+{{DEFAULTSORT:J.F. Willumsens Museum}}
+[[Category:Art museums and galleries in Denmark]]
+[[Category:Museums in the Capital Region of Denmark]]
+[[Category:Museums established in 1957]]
+
+
+{{Denmark-stub}}</text>
+      <sha1>7wuaaumwwrgey0lxoeup7lhra8c7xok</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jamuna TV</title>
+    <ns>0</ns>
+    <id>43362432</id>
+    <revision>
+      <id>868630716</id>
+      <parentid>819182021</parentid>
+      <timestamp>2018-11-13T13:16:26Z</timestamp>
+      <contributor>
+        <username>NahidSultan</username>
+        <id>16741520</id>
+      </contributor>
+      <comment>/* External links */ spam removed</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2472">{{Infobox TV channel
+| name             = Jamuna Television (Jamuna TV) &lt;br /&gt; যমুনা টিভি
+| logofile         = JamunaTV logo.jpg
+| logocaption      = Jamuna TV Logo
+| logosize         = 250px
+| launch           = 5 April 2014&lt;ref&gt;{{cite web|url=http://www.jamunatelevision.com/about/ |title=About}}&lt;/ref&gt;
+| closed date      = 
+| picture format   = MPEG-2
+| network          = 
+| owner            = Jamuna Television LTD.
+| slogan           = "Shamne Thake, Shamne Rakhe", "সামনে থাকে, সামনে রাখে"
+| country          = [[Bangladesh]]
+| broadcast area   = National
+| headquarters     = Progoti shoroni, kuril (biswaroad), Baridhrara, [[Dhaka]], Bangladesh
+| former names     = 
+| replaced names   = 
+| sister names     =
+| web              = {{URL|jamunatv.net}}
+| sat serv 1=  Apstar
+| sat chan 1= 
+| sat serv 2= 
+| sat chan 2=
+| sat serv 3= 
+| sat chan 3= 
+| cable serv 1= 
+| cable chan 1= 
+| cable serv 2= 
+| cable chan 2= 
+|}}
+
+'''Jamuna Television''' ('''Jamuna TV''') ({{lang-bn|যমুনা টিভি}}) is a Bengali-language 24-hour private television channel in Bangladesh. It has been launched as an exclusive round-the-clock satellite news channel to provide most up-to-date national and international news and information to the people of Bangladesh and viewers abroad. This goes live "on air", starting its broadcasts from 5 April 2014 at 7:00{{nbsp}}pm.
+
+== Programs ==
+Jamuna Television is on air 24 hours a day, 7 days a week, using the most sophisticated production and news gathering technologies to produce a strong schedule of reality show, news, sport and much more, as well a variety of current affairs, informational and entertainment programmes like.
+
+*Investigation 360°
+
+== Awards ==
+In 2015, a Reporter named Mizan Malik of the TV win Muktijuddho Jadughar-Bazlur Rahman Award on Journalism relate to Independence War of Bangladesh. Jamuna TV acclaimed as Entrepreneur Friendly Media 2014 by Bangladesh Open Source Network for "Start!" TV program.
+
+==See also==
+* [[List of television stations in Bangladesh]]
+* [[Telecommunications in Bangladesh]]
+* [[Media of Bangladesh]]
+
+==References==
+{{Reflist}}
+
+==External links==
+
+
+{{Television in Bangladesh}}
+{{Bengali-language television channels}}
+
+{{DEFAULTSORT:Jamuna TV}}
+[[Category:Television channels in Bangladesh]]
+[[Category:Media in Dhaka]]
+[[Category:Television channels and stations established in 2014]]
+
+
+{{Bangladesh-tv-stub}}</text>
+      <sha1>kmw5n3o0honvly58xf0lrfcq035ej2n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kazakh TV</title>
+    <ns>0</ns>
+    <id>18120331</id>
+    <revision>
+      <id>868332402</id>
+      <parentid>845056697</parentid>
+      <timestamp>2018-11-11T14:17:54Z</timestamp>
+      <contributor>
+        <username>Rathfelder</username>
+        <id>398607</id>
+      </contributor>
+      <comment>removed [[Category:Television in Kazakhstan]]; added [[Category:Television stations in Kazakhstan]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3514">{{Use dmy dates|date=June 2014}}
+{{Distinguish |Television in Kazakhstan|Qazaqstan (channel)}}
+{{Infobox TV channel
+| name              = Kazakh TV
+| logofile          = Kazakh TV Logo.png
+| launch            = 25 October 2002
+| owner             = [[Khabar Agency]]
+| country           = [[Kazakhstan]]
+| headquarters      = [[Astana]], [[Kazakhstan]]
+| language          = [[Kazakh language|Kazakh]], [[Russian language|Russian]], [[English language|English]]
+| broadcast area    = Worldwide
+| former names      = '''CaspioNet''' (2002–2012)
+| sister names      = 
+| web               = [http://kazakh-tv.kz/en/mainpage/index www.kazakh-tv.kz]
+| cable serv 1      = [[Unitymedia]] &lt;small&gt;(Germany)&lt;/small&gt;
+| cable chan 1      = Channel 414 (SD)
+}}
+[[File:CaspioNet-Logo.svg|thumb|240px|CaspioNet Logo used until 2012]]
+
+'''Kazakh TV''' is the first national [[satellite TV]] channel of the [[Khabar Agency]], the largest media company in the Republic of Kazakhstan. The channel’s first programme was broadcast on 25 October 2002 as part of the '''CaspioNet''' franchise. The principal mission of Kazakh TV is to present a complete picture of [[Kazakhstan]] and [[Central Asia]] to foreign viewers.&lt;ref name="Kazakh TV"&gt;{{cite web |url=http://kazakh-tv.kz/en/category/about_company|title=Kazakh TV - Kazakhstan’s first national satellite television channel|publisher=Kazakh TV |accessdate=13 August 2013}}&lt;/ref&gt; 
+
+Kazakh TV broadcasts informative and educational programmes 24 hours a day in [[Kazakh language|Kazakh]], [[Russian language|Russian]], and [[English language|English]].&lt;ref name="Kazakh TV"/&gt; In conjunction with the major satellite operators [[Eutelsat]] and [[Orange S.A.]], the channel transmits its signal to 93 countries throughout [[North America]], [[Central America]], [[Western Europe]], [[Eastern Europe]], [[North Africa]], the [[Middle East]], [[Central Asia]] and [[Transcaucasia]].&lt;ref name="CaspioNet TV"&gt;{{cite web|url=http://www.lyngsat-address.com/cc/CaspioNet.html |title=TV CaspioNet |publisher=LyngSat ADDRESS |accessdate=13 August 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20140202124055/http://www.lyngsat-address.com/cc/CaspioNet.html |archivedate= 2 February 2014 |df= }}&lt;/ref&gt;  It has a potential audience of 253 million householders.&lt;ref name="Kazakh TV"/&gt;
+
+It provides relevant and objective information about [[Kazakhstan]] and [[Central Asia]].&lt;ref name="Kazakh TV"/&gt; The channel broadcasts the main local and international news as well as information about major political, economic and sporting events. The schedules are completed by documentaries, classical and contemporary feature films, children's films, programmes of historical and ethnographic interest, and also views of the most interesting events in the cultural life of the country. These may include theatre performances and various exhibitions.&lt;ref name="Kazakh TV"/&gt;
+
+Satellites: [[Intelsat]] 904  ([[Katelco Plus]]), [[Eutelsat]] ([[SESAT]]), [[Astra 3A]]  ([[Kabel Deutschland]]), [[Hot Bird]] 8, and as of November 2011 [[Galaxy 19]] 97 West.&lt;ref name="CaspioNet TV"/&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://kazakh-tv.kz/en/mainpage/index Official Website]
+
+{{CATV}}
+[[Category:Television stations in Kazakhstan]]
+[[Category:Government-owned companies of Kazakhstan]]
+[[Category:Television channels and stations established in 2002]]
+[[Category:Satellite television]]
+[[Category:External services (broadcasting)]]
+[[Category:2002 establishments in Kazakhstan]]</text>
+      <sha1>16r0ed1lg0chvt4zn1czistpzcqgjh0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Koyo language (Congo)</title>
+    <ns>0</ns>
+    <id>35515384</id>
+    <revision>
+      <id>698690390</id>
+      <parentid>666814037</parentid>
+      <timestamp>2016-01-07T17:35:31Z</timestamp>
+      <contributor>
+        <username>Abrahamic Faiths</username>
+        <id>18381293</id>
+      </contributor>
+      <comment>/* References */  {{Languages of the Republic of the Congo}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="806">{{distinguish|Koyo language (Sudan)}}
+{{Infobox language
+|name=Koyo
+|nativename=
+|region=
+|states=[[Republic of Congo]]
+|speakers=1,000 
+|date=no date
+|ref=e15
+|familycolor=Niger-Congo
+|fam2=[[Atlantic–Congo languages|Atlantic–Congo]]
+|fam3=[[Benue–Congo languages|Benue–Congo]]
+|fam4=[[Bantoid languages|Bantoid]]
+|fam5=[[Bantu languages|Bantu]] ([[Guthrie classification of Bantu languages#Zone C|Zone C]])
+|fam6=[[Mboshi languages|Mboshi]] (C.20)
+|iso3=koh
+|glotto=koyo1242
+|glottorefname=Koyo
+|guthrie=C.24
+}}
+
+'''Koyo''' (''Ekoyo'') is a [[Bantu language]] of the [[Republic of Congo]].
+
+==References==
+{{reflist}}
+
+{{Languages of the Republic of the Congo}}
+{{Narrow Bantu languages|C-D}}
+[[Category:Mboshi languages]]
+[[Category:Languages of the Republic of the Congo]]
+
+
+{{Bantu-lang-stub}}</text>
+      <sha1>4nnmlt8hcyt85ja01dj1gx08rg41vgg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Krek</title>
+    <ns>0</ns>
+    <id>3401130</id>
+    <revision>
+      <id>776812733</id>
+      <parentid>708020960</parentid>
+      <timestamp>2017-04-23T12:38:07Z</timestamp>
+      <contributor>
+        <username>BattyBot</username>
+        <id>15996738</id>
+      </contributor>
+      <comment>[[WP:AWB/GF|General fixes]], removed orphan tag using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="468">'''''Krek''''' ([[1968 in film|1968]]) is an [[animated film]] by [[Croatia]]n animator [[Borivoj Dovnikovic-Bordo]]. The film won the [[Silver Bear]] at the [[Berlin Film Festival]] that year. The story concerns a soldier whose dreary life in military service is bettered by his companionship with a magical frog.
+
+==External links==
+* {{imdb title|id=0234055|name=Krek}}
+
+[[Category:1968 films]]
+[[Category:Croatian films]]
+
+
+{{animation-film-stub}}
+{{croatia-stub}}</text>
+      <sha1>jlf2g674kvrmea6ndc0mykzb6se8jff</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Latham Island</title>
+    <ns>0</ns>
+    <id>42216447</id>
+    <revision>
+      <id>869623634</id>
+      <parentid>857768088</parentid>
+      <timestamp>2018-11-19T19:46:41Z</timestamp>
+      <contributor>
+        <username>ZackBot</username>
+        <id>29639097</id>
+      </contributor>
+      <comment>fixing deprecated params from [[Template:Infobox islands]] - [[Wikipedia:Bots/Requests_for_approval/ZackBot_12|ZackBot 12 - Approved]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4709">{{Infobox islands
+| name = Latham Island
+| image_name = Lathan Island map.png
+| image_caption = Map of Latham Island
+| map = Tanzania
+| map_caption = Location in Tanzania
+| nickname = 
+| location =
+| additional_info = 
+| coordinates = 
+{{Coord|6|54|S|39|56|E|region:TZ_scale:1000000_type:isle|display=title,inline}}
+| archipelago = [[Zanzibar Archipelago]]
+| total_islands =
+| major_islands =
+| area_km2 = 0.03
+| length_km = 0.3
+| width_km = 0.1
+| highest_mount = 
+| elevation_m = 4
+| population = Uninhabited
+| population_as_of = 
+| density_km2 =
+| ethnic_groups =
+| country_admin_divisions_title     = Region
+| country_admin_divisions           = [[Zanzibar]]
+| country_admin_divisions_title_1   =
+| country_admin_divisions_1         =
+| country_admin_divisions_title_2   =
+| country_admin_divisions_2         =
+| country_capital_city              = 
+| country_largest_city              = 
+| country_largest_city_population   =
+| country_leader_title              =
+| country_leader_name               =
+}}
+
+'''Latham Island''', known locally as '''Fungu Kizimkazi''', Fungu Mbaraka is a small, relatively isolated island in the [[Zanzibar Archipelago]], [[Tanzania]] which is historical under the Government of Zanzibar since 1898.
+
+==History==
+The island has several local names in addition to Fungu Kizimkazi, the most Notable of which are Fungu la Mbarak after the Arab who had the right to collect wreckage there in the reign of seyid Barghash who was the (Sultan of Zanzibar), Shungu Mbili and Shan jove. The island was featured on an early sixteenth century Portuguese map (Ingrams, n.d) but it derives its present name from the East Indian man Latham which rediscovered it in 1758.&lt;ref&gt;{{Cite journal|jstor = 1796284|title = Latham Island: An Ecological Note|journal = The Geographical Journal|volume = 136|issue = 2|pages = 247–251|last1 = Gwynne|first1 = M. D|last2 = Parker|first2 = I. S. C|last3 = Wood|first3 = D. G|year = 1970}}&lt;/ref&gt;
+
+==Zanzibar Administration on the Island==
+The island was annexed to Zanzibar on 19 October 1898 when British First Minister Sir Lloyd Mathews under the order of the Sultan of Zanzibar visited the island, planted the Zanzibar Flag, and declared it to be under the administration of Zanzibar. Lloyd Mathews arrived on the island on 18 October 1898 with the warship HHS Barawa alongside Captain Arthur Agnew, Zanzibar Port Officer, and Dr. Alfred Andrew Spurrier, a Medical Officer.
+
+Following the Plantation of Zanzibar Flag on 19 October 1898, [[21-gun salute|21-gun salutes]] were performed as a military honor and the island was officially annexed to the Sultan's authority. An iron house {{Definition needed|date=August 2018}} was built; its corner stone was laid and written with "LATHAM ISLAND, FUNGU KIZIMKAZI UNDER ZANZIBAR SOVEREIGNTY".
+
+==Geography==
+Latham Island is a flat coral island located {{convert|60|km|0|abbr=on}} south-east of [[Unguja]] and {{convert|66|km|0|abbr=on}} east of [[Dar es Salaam]]. It is roughly {{convert|300|m|ft|abbr=out}} long and {{convert|300|m|ft|abbr=out}} wide, and has an area of {{convert|0.03|km2|2|abbr=out}}. The island is surrounded by a fringing [[reef]] and is oceanic, as it lies off the continental shelf and is surrounded by deep water.&lt;ref&gt;{{cite web|last=Mahongo|first=Shigalla|title=The Tanzanian National Sea Level Report|url=http://www.gloss-sealevel.org/publications/documents/tanzania2006.pdf|accessdate=16 March 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Bird Life International|url=http://www.birdlife.org/datazone/sitefactsheet.php?id=6990|accessdate=16 March 2014}}&lt;/ref&gt;
+
+==Ecology==
+The island is an important breeding ground for various bird species, namely the [[masked booby]], [[greater crested tern]], [[sooty tern]] and the [[brown noddy]]. Latham is also thought to be of importance for nesting turtles.&lt;ref&gt;{{cite web|title=Bird Life International|url=http://www.birdlife.org/datazone/sitefactsheet.php?id=6990|accessdate=16 March 2014}}&lt;/ref&gt;
+
+==Dispute==
+ Although the Island is under Zanzibar territorial water, controversy has emerged over the ownership of the Latham Island between Zanzibar and Tanzania Mainland, the Island is ruled by the United Republic of Tanzania and not under the Zanzibar jurisdiction.&lt;ref&gt;http://www.spearblog.com/2011/10/21/dogtooth-world-record-denied/&lt;/ref&gt; Some members of the House of Representatives in Zanzibar and Opposition leaders have been complaining about ownership of the Blocks and Latham Island.&lt;ref&gt;http://www.dailynews.co.tz/index.php/home-news/50728-who-owns-latham-island&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+[[Category:Uninhabited islands of Tanzania]]
+[[Category:Islands of Zanzibar]]
+[[Category:Zanzibar Archipelago]]
+
+{{Africa-geo-stub}}</text>
+      <sha1>n9pg7jr8xb9is2pb8zu0kguu66pebhu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Le Populaire (Senegalese newspaper)</title>
+    <ns>0</ns>
+    <id>19452723</id>
+    <revision>
+      <id>780080401</id>
+      <parentid>689194323</parentid>
+      <timestamp>2017-05-12T20:55:09Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.3.1.1)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="659">{{For|the French newspaper|Le Populaire (French newspaper)}}
+{{Italic title}}
+'''''Le Populaire''''' is a major independent daily [[newspaper]] in [[Senegal]].&lt;ref name=ccg&gt;[http://www.buyusa.gov/westafrica/en/senegal_ccg.pdf Senegal Country Commercial Guide 2008] {{webarchive|url=https://web.archive.org/web/20090507200048/http://www.buyusa.gov/westafrica/en/senegal_ccg.pdf |date=2009-05-07 }}. [[U.S. Commercial Service]] (2008). {{PD-notice}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Populaire}}
+[[Category:Newspapers published in Senegal]]
+[[Category:Publications with year of establishment missing]]
+
+
+{{africa-newspaper-stub}}
+{{Senegal-stub}}</text>
+      <sha1>rv0b7rzy6x57l6djhmflee6sysd1h0m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ljubezni tri in ena smrt</title>
+    <ns>0</ns>
+    <id>33325094</id>
+    <revision>
+      <id>624468319</id>
+      <parentid>546234329</parentid>
+      <timestamp>2014-09-06T22:17:09Z</timestamp>
+      <contributor>
+        <username>Fadesga</username>
+        <id>5042921</id>
+      </contributor>
+      <comment>/* See also */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="976">{{Expand Slovene|topic=culture|date=October 2011|Ljubezni tri in ena smrt}}
+{{Infobox book
+| name             =Ljubezni tri in ena smrt
+| title_orig       = 
+| translator       = 
+| image            = 
+| image_caption    = 
+| author           = 
+| illustrator      = 
+| cover_artist     = 
+| country          = {{flag|Slovenia}}
+| language         = [[Slovenian language|Slovenian]]
+| series           = 
+| subject          = 
+| genre            = 
+| publisher        = 
+| pub_date         = 
+| english_pub_date = 
+| media_type       = 
+| pages            = 
+| isbn             = 
+| oclc             = 
+| dewey            = 
+| congress         = 
+| preceded_by      = 
+| followed_by      = 
+}}
+'''''Ljubezni tri in ena smrt''''' is a novel by [[Slovenia]]n author [[Evald Flisar]]. It was first published in 2002.
+
+==See also==
+*[[List of Slovenian novels]]
+
+[[Category:Slovenian novels]]
+[[Category:2002 novels]]
+
+
+{{Slovenia-stub}}
+{{Europe-novel-stub}}
+{{2000s-novel-stub}}</text>
+      <sha1>jqkzbpxmmu0lvyjbwuk365gy3z1llov</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Luxemburger Illustrierte</title>
+    <ns>0</ns>
+    <id>27847360</id>
+    <revision>
+      <id>780059035</id>
+      <parentid>664205998</parentid>
+      <timestamp>2017-05-12T18:04:05Z</timestamp>
+      <contributor>
+        <username>Bellerophon5685</username>
+        <id>1258165</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1352">{{Orphan|date=February 2013}}
+
+{{Infobox newspaper
+| name                 = Luxemburger Illustrierte
+| logo                 = 
+| image                = 
+| caption              = 
+| type                 = 
+| format               = 
+| owners               = 
+| founder              = 
+| publisher            = 
+| editor               = 
+| chiefeditor          = 
+| assoceditor          = 
+| maneditor            = 
+| newseditor           = 
+| managingeditordesign = 
+| campuseditor         = 
+| campuschief          = 
+| opeditor             = 
+| sportseditor         = 
+| photoeditor          = 
+| staff                = 
+| foundation           = 1924
+| political            = 
+| language             = [[German language|German]]
+| ceased publication   = 1933
+| headquarters         = 
+| circulation          = 
+| sister newspapers    = 
+| ISSN                 = 
+| oclc                 = 
+| website              = 
+}}
+'''''Luxemburger Illustrierte''''' was a newspaper published in [[Luxembourg]] between 1924 and 1933.
+
+[[Category:Defunct newspapers of Luxembourg]]
+[[Category:German-language newspapers published in Luxembourg]]
+[[Category:1924 establishments in Luxembourg]]
+[[Category:1933 disestablishments in Luxembourg]]
+[[Category:Publications established in 1924]]
+[[Category:Publications disestablished in 1933]]
+{{Luxembourg-newspaper-stub}}</text>
+      <sha1>tjzkd5hfuieq6hkw9mgyjhdng3y6ldh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Metropolis of Moldavia and Bukovina</title>
+    <ns>0</ns>
+    <id>24044142</id>
+    <revision>
+      <id>827276612</id>
+      <parentid>796984231</parentid>
+      <timestamp>2018-02-23T19:58:26Z</timestamp>
+      <contributor>
+        <username>Le Deluge</username>
+        <id>8853961</id>
+      </contributor>
+      <comment>removed [[Category:Religious organizations established in 1386]]; added [[Category:Religious organizations established in the 1380s]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3975">{{About|the historical Orthodox church of Moldavia|other uses|Moldovan Orthodox Church (disambiguation)}}
+[[File:110825 Iasi (24).jpg|thumb|[[Metropolitan Cathedral, Iași|Metropolitan Cathedral in Iași]]]]
+The '''Metropolis of Moldavia and Bucovina''', in [[Iași]], [[Romania]], is a [[Metropolis (religious jurisdiction)|metropolis]] of the [[Romanian Orthodox Church]].
+
+==History==
+{{See also|History of Christianity in Romania}}
+[[File:BisericaVeche.jpg|thumb|The history of the Orthodox church in the Romanian lands, 10-18th centuries]]
+Set up in 1386, and recognised in 1401, by the [[Ecumenical Patriarchate of Constantinople]], the Metropolis of [[Moldavia]] united, in 1872, with the [[Metropolitan of Ungro-Wallachia|Metropolis of Ungro-Wallachia]] to form the Romanian Orthodox Church.&lt;ref&gt;[http://www.patriarhia.ro/en/external_church_relations/probbasen1.html The Position of the Romanian Patriarchate concerning the Reactivation of the Three Dioceses in the Metropolitanate of Bessarabia]&lt;/ref&gt;
+
+==Administration and structure==
+{{See also|List of members of the Holy Synod of the Romanian Orthodox Church}}
+The church is headed by the Archbishop of Iași and Metropolitan of Moldavia and Bucovina, [[Teofan Savu]].
+It is divided into three archdioceses and one diocese.
+
+===Archdioceses and Archbishops===
+*[[Archdiocese]] of [[Iași]]: Teofan Savu (2008-)
+*Archdiocese of [[Suceava]] and [[Rădăuți]]: Pimen Zainea (1991-)
+*Archdiocese of [[Roman, Romania|Roman]] and [[Bacău]]: Eftimie Luca (1978-)
+
+===Dioceses and Bishops===
+*[[Diocese]] of [[Huși]]: Corneliu Onilă (2009-2017)
+
+==List of Metropolitans==
+* 1401 Iosif Mușat
+* 1436-1447 [[Metropolitan Damian|Damian]]
+* 1447-1452 Ioachim
+* 1452-1477 Teoctist I
+* 1477-1508 Gheorghe I de Neamțu
+* 1509-1528 Teoctist II
+* 1528-1530 Calistrat
+* 1530-1546 Teofan I
+* 1546-1551 [[Grigorie Roșca]]
+* 1551-1552 Gheorghe II de Bistrița
+* 1552-1564 Grigorie II de la Neamț
+* 1564-1572 Teofan II
+* 1572-1577 Atanasie
+* 1578-1579 Teofan II
+* .../...
+* 1582-1588 Teofan II
+* 1588-1591 Gheorghe III Movilă
+* 1591-1594 Nicanor
+* 1595-1600 Gheorghe III Movilă
+* 1600-1601 vacancy
+* 1601-1605 Gheorghe III Movilă
+* 1605-1608 Teodosie Barbovschi
+* 1608-1629 [[Anastasie Crimca]]
+* 1629-1632 Anastasie II
+* 1632-1653 [[Varlaam Moţoc]]
+* 1653-1659 Ghedeon
+* 1659-1666 Sava
+.../...
+* 1670-1671 Ghedeon
+* 1671-1674 [[Dosoftei|Dosoftei Bărilă]]
+.../...
+* 1675-1686 [[Dosoftei Bărilă]]
+* 1686-1689 Calistrat Vartic
+* 1689-1701 Sava de la Roman
+.../...
+* 1708-1722 Ghedeon
+* 1722-1730 Gheorghe IV
+* 1730-1740 Antonie 
+* 1740-1750 Nechifor
+* 1750-1760 Iacob Putneanul
+* 1761-1786 [[Gavriil Callimachi]]
+* 1786-1788 Leon Gheucă
+* 1788-1792 Ambrozie Serebrenicov
+* 1792-1803 Iacob Stamati &lt;ref name="ista_2013-07-07"&gt;[http://ziarullumina.ro/biografii-luminoase/mitropolitul-iacob-stamati-fermitate-duhovniceasca-si-simt-gospodaresc Mitropolitul Iacob Stamati: fermitate duhovnicească și simț gospodăresc], 24 iunie 2008, Pr. Bogdan Racu, ''Ziarul Lumina'', accesat la 7 iulie 2013&lt;/ref&gt;
+* 1803-1842 [[Veniamin Costache]]
+.../...
+* 1851-1860 [[Sofronie Miclescu]]
+* 1865-1875 [[Calinic Miclescu]]
+* 1875-1902 [[Iosif Naniescu]]
+* 1902-1908 [[Partenie Clinceni]]
+* 1909-1934 [[Pimen Georgescu]]
+* 1934-1939 [[Nicodim Munteanu]]
+* 1939-1947 [[Irineu Mihălcescu]]
+* 1947-1948 [[Justinian Marina]]
+* 1948-1950 vacancy
+* 1950-1956 [[Sebastian Rusan]]
+* 1957-1977 [[Iustin Moisescu]]
+* 1977-1986 [[Teoctist Arăpașu]] 
+* 1986-1990 vacancy
+* 1990-2007 [[Daniel Ciobotea]]
+* from 2008  [[Teofan Savu]]
+
+==See also==
+*[[Metropolitan Cathedral, Iași|Iași Metropolitan Cathedral]]
+*[[Churches of Moldavia]]
+*[[Metropolis of Bessarabia]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.mmb.ro/ Official website]
+
+{{BORDioceses}}
+
+{{Romania-stub}}
+
+[[Category:Moldavia]]
+[[Category:Metropolis of Moldavia and Bukovina| ]]
+[[Category:Bukovina]]
+[[Category:Religious organizations established in the 1380s]]</text>
+      <sha1>2bt4fm6rxxeaywwg3cfj53bi0q11qru</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Military Air Transport Command</title>
+    <ns>0</ns>
+    <id>43114971</id>
+    <revision>
+      <id>842630803</id>
+      <parentid>732913600</parentid>
+      <timestamp>2018-05-23T17:16:39Z</timestamp>
+      <contributor>
+        <username>Dawnseeker2000</username>
+        <id>1544984</id>
+      </contributor>
+      <comment>/* Structure 1985 */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: Chambery → Chambéry, Evreux → Évreux using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2981">The '''Military Air Transport Command''' (French: Commandement du transport aérien militaire (COTAM)) was a command of the [[French Air Force]]. It was formed in February 1962 from the ''Groupement d'Unités Aériennes Spécialisées'' and disbanded on 11 March 1994, when it became Commandement de la Force Aérienne de Projection (CFAP). Larousse Encyclopedia Online says the headquarters was at [[Vélizy – Villacoublay Air Base]].&lt;ref&gt;http://www.larousse.fr/encyclopedie/ville/V%C3%A9lizy-Villacoublay_78140/148487&lt;/ref&gt;
+
+==Structure 1985==
+In 1985, the Air Force had four major flying commands, among which was the Military Air Transport Command.&lt;ref&gt;{{cite book |last1=Isby |first1=David |last2=Kamps |first2=Charles |year=1985 |title=Armies of NATO's Central Front |url= |location=London |publisher=Jane's Publishing Company |pages=168–170 |isbn=0-7106-0341-X}}&lt;/ref&gt; CoTAM counted 28 squadrons:
+Ten fixed-wing transport squadrons included:
+*ET 1/60
+*ET 3/60
+*[[:fr:Escadron de transport 1/61 Touraine]]
+*ET 2/61
+*ET 3/61
+*ET 1/63
+*ET 2/63
+*ET 1,2,/64
+*ET 3/64 (Transall NG) (Évreux)
+*ET 1/65 (Villacoublay)
+*ET 2/65 (Villacoublay)
+The remainder were helicopter and liaison squadrons, at least five of which were overseas, including six Escadrons de Transport Outre Mer (Overseas Transport Squadrons):
+*[[:fr:Escadron d'hélicoptères 1/67 Pyrénées]] (Cazeux Air Base)
+*EH 2/67 ([[Metz]])
+*EH 3/67 (Villacoublay)
+*EH 4/67 ([[Apt, Vaucluse|Apt]])
+*EH 5/67 (Istres)
+*Escadron de Transport Outre Mer 50 ([[Réunion]]) 
+*Escadron de Transport Outre Mer 52 ([[Nouméa]], New Caledonia)&lt;ref&gt;http://www.traditions-air.fr/unit/escadron/ETOM5200.htm&lt;/ref&gt; 
+*Escadron de Transport Outre Mer 55 ([[Léopold Sédar Senghor International Airport]], Dakar, Senegal)
+*ETOM 58 ([[Fort-de-France]])
+*ETOM 82 (Papette)
+*ETOM 88 ([[Djibouti]])
+*CIEH 341 (Chambéry, moved later to [[Toulouse]]-Francazal)
+*ELA 41 (Metz)
+*ELA 43 (Bordeaux)
+*ELA 44 (MS.760 Paris, Broussard, Nord 262) (Aix)
+*ELAS 1/44 at [[Solenzara Air Base]], Corsica)
+
+==Senior leader transport==
+The acronym COTAM was used to designated flights carrying important French leaders:
+* '''[[Cotam Unité|COTAM 0001]]''' : [[President of the French Republic]].
+* '''[[Cotam Deux|COTAM 0002]]''' : [[Prime Minister of France]].
+* COTAM 0003 : [[Minister of Defence (France)]].
+* COTAM 0004 - 0009 : High ministerial authorities.
+* COTAM 0010 - 0099 : high authorities of the state.
+
+While the acronym of the French military air command is now CFAP, the abbreviation COTAM continues to be used as a call sign of French military transport aircraft.
+
+==See also==
+*[[:fr:Escadron d'hélicoptères 01.044 Solenzara]] - Solenzara helicopter unit from c.1988
+
+==References==
+&lt;references/&gt;
+
+[[Category:Commands of the French Air Force]]
+[[Category:Military units and formations established in 1962]]
+[[Category:Military units and formations disestablished in 1994]]
+[[Category:Air force transport commands]]
+
+
+{{Europe-mil-stub}}</text>
+      <sha1>3qgw6ndkobptfbnswxk60pzbgmqkn49</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mirjeta Shala</title>
+    <ns>0</ns>
+    <id>40270616</id>
+    <revision>
+      <id>863027838</id>
+      <parentid>845962466</parentid>
+      <timestamp>2018-10-08T07:36:46Z</timestamp>
+      <contributor>
+        <username>Jonesey95</username>
+        <id>9755426</id>
+      </contributor>
+      <comment>Fix [[Special:LintErrors|Linter]] errors</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3210">{{Infobox pageant titleholder
+| name = Mirjeta Shala
+| image=
+| caption= Mirjeta-Shala 2013
+| birth_name =
+|birth_date = {{Birth date and age|1994|2|12|df=y}}
+| birth_place = [[Vučitrn]], [[Autonomous Province of Kosovo and Metohija|Kosovo]], [[Serbia and Montenegro|FR Yugoslavia]]
+| height = {{height|m=1.80}}
+| title = [[Miss Universe Kosovo|Miss Universe Kosovo 2013]]
+| competitions = [[Miss Universe Kosovo|Miss Universe Kosovo 2013]]&lt;br&gt;(Winner)&lt;br&gt;[[Miss Universe 2013]]&lt;br&gt;(Withdrew)&lt;br&gt;[[Miss Universe 2015]]&lt;br&gt;(Unplaced)
+}}
+
+'''Mirjeta Shala''' (born 12 February 1994) is an Albanian-Kosovar television presenter, model and beauty pageant titleholder who was crowned [[Miss Universe Kosovo|Miss Kosovo 2013]] and was to compete in [[Miss Universe 2013]] before Kosovo withdrew from the pageant. In November 2013, she signed a contract with [[Trump Model Management]].
+
+==Personal life==
+Shala is a student of Economic and Marketing Business Administration at Universiteti AAB-Riinvest.
+
+===Miss Universe Kosovo 2013===
+Shala was crowned Miss Kosova 2013 (Miss Universe Kosovo 2013) and was to represent Kosovo at [[Miss Universe 2013]] in [[Moscow]], [[Russia]]. She won the Miss Universe Kosovo competition on 17 August 2013 held in the capital, [[Prishtina]] but Did not compete.&lt;ref&gt;[http://www.telegrafi.com/magazina/mirjeta-shala-dhe-donika-emini-jane-fituese-ne-jamiss-kosova-2013ja-6-19879.html Mirjeta Shala dhe Donika Emini janë fituese në ‘Miss Kosova 2013’]&lt;/ref&gt; However, in October the Miss Universe Kosovo Organization withdrew from the Miss Universe pageant as the contestant was not allowed to enter [[Russia]], as Russia does not recognise Kosovo's passport.
+
+===Appointment===
+On 18 October 2015 it was announced that the Miss Universe Kosovo pageant is cancelled for 2015 and that the next Miss Universe Kosovo pageant will be in 2016. Later, on the Miss Universe Kosovo Organization Facebook, it was announced that Shala was appointed to represent Kosovo at the [[Miss Universe 2015]] pageant in the [[United States|USA]]. She competed in the pageant on 20 December 2015 but did not place.&lt;ref&gt;[http://pageantsnews.com/mirjeta-shala-is-miss-universe-kosovo-2015/ Miss Kosovo 2013 will not compete at the Miss Universe 2015] {{webarchive|url=https://web.archive.org/web/20151018100825/http://pageantsnews.com/mirjeta-shala-is-miss-universe-kosovo-2015/ |date=2015-10-18 }}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20131111062243/http://misskosova.net/ Official Miss Kosovo website]
+{{S-start}}
+{{S-ach}}
+{{S-bef|before=[[Diana Avdiu]]}}
+{{s-ttl|title=[[Miss Universe Kosovo]]
+|years=2013}}
+{{S-aft|after=[[Artnesa Krasniqi]]}}
+{{S-ach}}
+{{S-bef|before=[[Artnesa Krasniqi]]}}
+{{s-ttl|title=[[Miss Universe Kosovo|Kosovo Representative at the Miss Universe]]
+|years=2015}}
+{{S-aft|after=[[Camila Barraza]]}}
+{{S-end}}
+{{Miss Universe 2015 delegates}}
+
+{{DEFAULTSORT:Shala, Mirjeta}}
+[[Category:Kosovo Albanians]]
+[[Category:Living people]]
+[[Category:Miss Universe 2015 contestants]]
+[[Category:Kosovan beauty pageant winners]]
+[[Category:1994 births]]
+[[Category:People from Vučitrn]]
+
+{{Europe-pageant-bio-stub}}
+{{Kosovo-stub}}</text>
+      <sha1>h4uzaehpocaj9106iutdl5ljh7sbkj8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>NCube (satellite)</title>
+    <ns>0</ns>
+    <id>6854192</id>
+    <revision>
+      <id>757875332</id>
+      <parentid>716974886</parentid>
+      <timestamp>2017-01-02T06:18:28Z</timestamp>
+      <contributor>
+        <username>Huntster</username>
+        <id>92632</id>
+      </contributor>
+      <comment>+[[Category:Satellite launch failures]]; +[[Category:Spacecraft launched in 2006]]; +[[Category:Spacecraft launched by Dnepr rockets]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1753">{{lowercase}}
+[[image:ncube2.jpg|thumb|The Norwegian satellite nCUBE2.]]
+
+'''nCube''' was a series of two [[Norway|Norwegian]] [[satellite]]s, built by students at several Norwegian universities and university colleges. Due to problems during launch (nCube-1) and deployment into orbit (nCube-2), neither of the satellites became operational.
+
+Both satellites were built to the [[CubeSat]] pico-satellite standard, which defined their mass and size (10&amp;nbsp;cm [[cube]]). This standard allows one or more cube satellites to be launched by '[[Piggyback (transportation)|piggyback]]ing' with a larger satellite.  In this way the smaller satellites get a cheap ride into orbit.
+
+The goal of the nCube satellites was to stimulate interest in science and increase competence in space technology among students and educational institutions. Moreover, enhance co-operation between educational institutions and industry and exchange of knowledge between educational institutions in north and south of [[Norway]].
+
+The second goal was to communicate with [[amateur radio]] ground stations, and to test a space-born [[Automatic Identification System|AIS]] receiver for tracking ships and [[reindeer]].
+
+As of 2013 NTNU is developing a 2U CubeSat called [[NUTS-1]].
+
+==See also==
+{{Portal|Spaceflight}}
+* [[List of CubeSats]]
+{{Clear}}
+
+==References==
+
+#http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1791&amp;context=smallsat
+
+==External links==
+* [http://www.ncube.no More information and project documents]
+
+[[Category:Satellites of Norway]]
+[[Category:CubeSats]]
+[[Category:Student satellites]]
+[[Category:Satellite launch failures]]
+[[Category:Spacecraft launched in 2006]]
+[[Category:Spacecraft launched by Dnepr rockets]]
+
+
+{{Norway-spacecraft-stub}}</text>
+      <sha1>s6yc8zozh9gxm7pyt4t6o20z3y3uwnz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>National Arts Council of Zimbabwe</title>
+    <ns>0</ns>
+    <id>3355278</id>
+    <revision>
+      <id>861482211</id>
+      <parentid>861210209</parentid>
+      <timestamp>2018-09-27T19:02:38Z</timestamp>
+      <contributor>
+        <username>Josvebot</username>
+        <id>14967932</id>
+      </contributor>
+      <minor/>
+      <comment>v2.0b - [[WP:WCW]] project (Unicode control characters)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="351">[[Image:NACZ LOGO.jpg|thumb|right]]
+The '''National Arts Council of Zimbabwe''' (NACZ) is the official [[arts council]] for [[Zimbabwe]].
+
+==External links==
+* [http://www.natartszim.org/ National Arts Council of Zimbabwe website]
+
+
+[[Category:Arts councils]]
+[[Category:Arts organisations based in Zimbabwe]]
+
+
+{{Zimbabwe-org-stub}} 
+{{art-org-stub}}</text>
+      <sha1>kuwjlrwm84v9u2e9ya17y4rm0yi487x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>National Fascist Movement</title>
+    <ns>0</ns>
+    <id>3273633</id>
+    <revision>
+      <id>824027282</id>
+      <parentid>820751634</parentid>
+      <timestamp>2018-02-04T21:55:25Z</timestamp>
+      <contributor>
+        <username>Saectar</username>
+        <id>20111688</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1311">{{Fascism in Romania}}
+The '''National Fascist Movement''' ({{lang-ro|Mișcarea Națională Fascistă}}, MNF) was a [[Romania]]n political movement formed in 1923 by the merger of the [[National Romanian Fascia]] and the [[National Italo-Romanian Cultural and Economic Movement]]. 
+
+With its roots in an avowedly pro-[[Italy|Italian]] group, the MNF also became close supporters of the Italian model of [[Fascism]] - although the movement also admired the methods of ''[[Action Française]]''.&lt;ref&gt;[http://hist.academic.claremontmckenna.edu/jpetropoulos/ironguard/chronology.htm Chronology of Romanian Fascism] {{webarchive|url=https://web.archive.org/web/20051124060223/http://hist.academic.claremontmckenna.edu/jpetropoulos/ironguard/chronology.htm |date=2005-11-24 }}&lt;/ref&gt; The movement did not enjoy the success that it had hoped for, largely because of its attachment to foreign influences, and it was ultimately superseded by the [[Iron Guard]], which offered a more domestic form of fascism.
+
+==References==
+{{Reflist}}
+
+{{Historical Romanian political parties}}
+
+[[Category:Political parties established in 1923]]
+[[Category:Defunct political parties in Romania]]
+[[Category:Fascist parties in Romania]]
+[[Category:1923 establishments in Romania]]
+
+{{Fascism movement}}
+{{Romania-stub}}
+{{Fascism-stub}}</text>
+      <sha1>kfzhs34q67pgfhy5lcja51og3t2585f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Noopolitik</title>
+    <ns>0</ns>
+    <id>4831115</id>
+    <revision>
+      <id>840097734</id>
+      <parentid>830510550</parentid>
+      <timestamp>2018-05-07T18:19:24Z</timestamp>
+      <contributor>
+        <username>JCW-CleanerBot</username>
+        <id>31737083</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */clean up, replaced: The ANNALS of the American Academy of Political and Social Science → The Annals of the American Academy of Political and Social Science using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11872">In [[political science]], '''Noopolitik''', formed by a combination of the Greek words νόος ''nóos'' ("knowledge") and  πολιτικός ''politikós'' (πολίτης ''polítēs'' "citizen", from πόλις ''pólis'' "city"), is the network-based [[geopolitics]] of knowledge. The term was invented by defense experts [[John Arquilla]] and [[David Ronfeldt]] in a 1999 [[RAND corporation]] study and often appears in connection with that of ''[[smart power]]''.&lt;ref&gt;Wilson, Ernest J. III ''Hard Power, Soft Power, Smart Power'' The Annals of the American Academy of Political and Social Science March 2008 vol. 616 no. 1 110–124&lt;/ref&gt;&lt;ref&gt;Nye, Joseph S. ''The Future of Power'' Public Affairs 2011&lt;/ref&gt;
+
+==Difference with Realpolitik==
+Noopolitics is an informational strategy of manipulating international processes through the forming in the general public, by means of [[mass media]], of positive or negative attitudes to the external or internal policies of a state or block of states, to create a positive or negative image of ideas and promulgated moral values.&lt;ref name="baichik"&gt;(Baichik A.V., Nikonov S.B.  Noopolitik as global information strategy // Vestnik St.Petersburg University, Ser. 9. 2012. Issue. I. p.&amp;nbsp;207-213&lt;/ref&gt;
+
+Noopolitik differs from [[realpolitik]].  Although realpolitik is commonly equated with [[hard power]], and seemingly noopolitik with [[soft power]], both are broader in their embodiment of a form of organization.  Specifically, realpolitik is not limited to hard power and [[coercion]], but embodies a hierarchical form of organization.{{citation needed|date=January 2016}}  Likewise, noopolitik is not limited to reliance on knowledge and soft power, but embodies a networked form of organization.{{citation needed|date=January 2016}}
+
+==Versus Foucault's ''Biopolitics''==
+[[Tiziana Terranova]] (2007) describes the use of the term 'noopolitics' by Maurizio Lazzarato (2004). "'Noopolitics' supplements the [[biopolitics]] of the species described by [[Michel Foucault|Foucault]]" (Terranova 2007, 139). "Against the militarization of communication accomplished by new techniques of power, it is possible to think about the constitution of such publics as counter-weapons, which work by expressing, inventing and creating possible worlds where the moment of resistance (the 'no' by which one refuses to watch, listen or believe) is the starting point for an affirmative activity" (Terranova 2007, 140). Noyer &amp; Juanals (2008) have also discussed Noopolitik as a means of [[social control]].&lt;ref&gt;La stratégie américaine du contrôle continu De la « Noopolitik » (1999) à « Byting Back » (2007) : une création de concepts et de dispositifs de contrôle des populations Jean-Max Noyer, Brigitte Juanals (03/01/2008) [http://archivesic.ccsd.cnrs.fr/docs/00/29/22/07/PDF/Noopolitik_Byting_Back5.pdf HAL]&lt;/ref&gt; especially in connection with RAND's [[Byting back]] program which was published as research into [[counter insurgency]].&lt;ref&gt;Martin C. Libicki, David C. Gompert, David R. Frelinger, Raymond Smith ''Byting Back -- Regaining Information Superiority Against 21st-Century Insurgents'' RAND Counterinsurgency Study -- Volume 1 2007&lt;/ref&gt;
+
+==In the knowledge economy and the BRICS==
+
+While the term initially appeared in association with the concept of the US [[Revolution in Military Affairs]], Noopolitik has also come to describe an interest in the [[knowledge economy]] and in particular [[innovation]] and [[Research and development|R&amp;D]] to leverage growth and political reach in [[international relations]]. Thus Noopolitik may be defined as the use of innovation and knowledge to leverage political intercourses by other means at the international level. Such "knowledge race" may be either a means of asserting political independence or of generating a sudden gap in the geopolitical [[Lateral Pressure Theory|balance of power]]. The attitude of the People's Republic of China and the [[ANZUS]] in the Pacific Ocean has been described as such by {{ill|Idriss J. Aberkane|fr|Idriss Aberkane}} (2011).
+{{cquote| Therefore, comparable to the [[Geographical Pivot of History|Heartland]], the [[Pacific Ocean|“Heartocean”]] inevitably disputed by powers of which none may prevail alone in the future without a decisive innovation will become the scene of a commensurate [[The Great Game|Great Game]] with the two same grand stakes. This will be the fate (or doom) of multilateralism on the one side and the global knowledge race on the other. (...). As stated by Seth Cropsey (2010) commenting on China’s noopolitik move of deploying new [[DF-21|anti-ship missiles]]&lt;ref&gt;Fox News.com Aug. 6th 2010 Chinese 'Carrier-Killer' Missile Could Reshape Sea Combat [link | http://www.foxnews.com/scitech/2010/08/06/chinese-carrier-killer-missile-game-changer-expert-says/]&lt;/ref&gt; in the ocean “keeping the Pacific pacific”.&lt;ref&gt;Seth Cropsey Keeping the Pacific pacific. The looming U.S.-Chinese Naval rivalry. Foreign Affairs Sept. 27 2010.&lt;/ref&gt; The two issues are well summarized.&lt;ref&gt;Aberkane, I. J. [http://www.e-ir.info/?p=7854   Brzezinski on a US Berezina: anticipating a new, New World Order] e-International Relations Mar 31st 2011&lt;/ref&gt;}}
+
+===For the People's Republic of China===
+Professor Li Xiguang of [[Tsinghua University]] described the stakes of [[Smart power]] for the People's Republic of China in a 2010 article on Noopolitik in the [[Global Times]]
+
+{{cquote| Soft power is the power of making people love you. Hard power is the ability to making people fear you. Over the last 500 years, all the world powers gained their hegemony through hard power, but the US has gained its hegemony through combining hard power and soft power, both striking at and assimilating its opponents.
+The US has built its soft power by making its values and political system, such as the US interpretation and definition of democracy, freedom and human rights, into supposedly universal values.&lt;ref&gt;Li Xinguang ''Soft power's reach depends on friendly Internet'' The Global Times Nov 2nd 2010&lt;/ref&gt;
+}}
+
+[[File:Nancy Pelosi and Wen Jiabao.jpg|thumb| Then [[Speaker of the United States House of Representatives|Speaker of the House]] [[Nancy Pelosi]] with [[Premier of the People's Republic of China|Chinese Premier]] [[Wen Jiabao]] during a trip to China in 2009. The encounter was concomitant with the publication of a report on "''Smart Power in U.S.-China Relations''" by [[William S. Cohen|William Sebastian Cohen]] the [[Center for Strategic and International Studies]]&lt;ref&gt;William S. Cohen ''Smart Power in U.S.-China Relations'' CSIS March 4th 2009 [http://csis.org/publication/smart-power-us-china-relations]&lt;/ref&gt;]]
+
+{{ill|Idriss J. Aberkane|fr|Idriss Aberkane}} analyzes Noopolitik as a defining stance of the [[People's Republic of China]]'s economic policy&lt;ref&gt;Aberkane, Idriss J. [http://www.e-ir.info/?p=9445  An Optimistic Memo on the Chinese Noopolitik: 2001-2011] [[e-International Relations]] jun. 14 2011&lt;/ref&gt; in which he concludes "''Maintaining “Leap and Bound” creativity could be an efficient way for China to neutralize popular frustration. What must be acknowledged is that the PRC has moved from a “growth panacea” policy, to a policy of “knowledge panacea.” This best sums up its Noopolitik.''"
+
+{{cquote| Emphasizing China’s deeply-rooted desire for technological independence, Segal&lt;ref&gt;Segal, A. (2010) China’s Innovation Wall : Beijing’s Push for Homegrown technology. Foreign Affairs Sept 28 2010.&lt;/ref&gt; refers to the PRC’s efforts as an “Innovation Wall,” which is the willingness to innovate as independently as possible from the rest of the world to simply and systematically leap ahead of any other country. Needless to say, the scope of the rising [[fog of war]] in world economic and R&amp;D competition is particularly daunting for the Euro-Atlantic community. The Chinese phrase for national innovation [[zizhu chuangxin]] was notably coined in a 2006 state report titled “Guidelines on National Medium- and Long-Term Program for Science and Technology Development.” If China decides to foster an innovation of its own, and the ideas were published in Mandarin language journals it would provide a barrier against other linguistic communities, and a thicker fog of war might rise in knowledge-based [[Economic Warfare|economic warfare]].}}
+
+==See also==
+* [[Holism]]
+* [[Netpolitik]]
+* [[Noogenesis]]
+* [[Noosphere]]
+* [[Pierre Teilhard de Chardin]]
+
+== Sources ==
+*Nikonov Sergey Borisovich, Anna Vitalievna Baichik, Rikka Victorovna Zaprudina, Nikolai Sergeevich Labush, Anna Sergeevna Smolyarova Noopolitics and Information Network Systems // International Review of Management and Marketing, 2015. — Vol. Special Issue for "Media as the Tool: Management of Social Processes", — № 5(Special Issue). — P. 44-48
+*Nikonov Sergey Borisovich, Anna Vitalievna Baichik, Anatoli Stepanovich Puiy, Nikolai Sergeevich Labush Noopolitical Aspect of Information Strategies of States // International Review of Management and Marketing, 2015. — Vol. Special Issue for "Media as the Tool: Management of Social Proc esses", — № 5(Special Issue). — P. 121-125
+* Nikonov Sergey Borisovich, Baichik Anna Vitalievna, Puiy Anatoli Stepanovich, Labush Nikolai Sergeevich Noopolitical aspect of political defamation // European Journal of Science and Theology, 2015. — Vol. 11, — № 5. — P. 265-275
+* Nikonov Sergey Borisovich  Information society in its function as an object ofdirected influence of noopolitics // World Applied Sciences Journal, 2013. — Vol. 27, — № 13(A). — P. 241-246
+* Nikonov S.B. Noopolitical Aspect of international Journalism // Middle-East Journal of Scientific Research 17(1): 21-25.2013
+* Nikonov S.B.  Noopolitics as a global information strategy LAP LAMBERT Academic Publishing GmbH &amp; Co. KG Heinrich-Böcking-Str. 6-8 66121, Saarbrücken, Germany.
+* Nikonov S.B.  Global information space as an environment of noopolitics / / The world and politics. , 2012. Number 09 (72). URL: http://mir-politika.ru/1608-globalnoe-info...opolitiki.html.
+* Nikonov S.B. 	Noopolitics as a component part of a strategy of state conflict / / European Journal of Social Sciences. , 2012. Number 2 (18). S. 467 - 472. URL: http://elibrary.ru/item.asp?id=17696491
+* Nikonov S.B.  Noopolitics as a tool to promote the economic interests of State / / European Journal of Social Sciences. , 2012. Number 12 (15). S. 482 - 487. URL: http://mir-politika.ru/106-noopolitika-kak...-gosudastv.html
+* Nikonov S.B.  TV reports «Euronews» as part of noopolitics / / Scientific and practical journal "Modern Science: Current Issues of theory and practice." Series "Humanities"., 2011. Number 1. pp.&amp;nbsp;33 – 37. URL: http://www.vipstd.ru/nauteh/index.php/--gn01-11/205-a
+* Baichik A.V.., Nikonov S.B.. Noopolitik as global information strategy //  Vestnik St.Petersburg University, Ser. 9. 2012. Issue. I. p.&amp;nbsp;207-213
+* John Arquilla &amp; David Ronfeldt: [https://www.questia.com/PM.qst?a=o&amp;d=103995568 "The Emergence of Noopolitik: Toward an American Information Strategy"], Rand 1999
+* Terranova, Tiziana . “Futurepublic: On Information Warfare, Bio-racism and Hegemony as Noopolitics.” Theory, Culture &amp; Society 24.3 (2007): 125-145.
+* Lazzarato, Maurizio (2004) La politica dell’evento. Cosenza: Rubbettino.
+{{reflist}}
+
+== Further reading ==
+* Mohammad Ganjidoost: "[http://uscpublicdiplomacy.org/index.php/newswire/cpdblog_detail/060724_soft_power_noopolitik_approach_president_ahmadinejads_letter_bu/]", [[USC Center on Public Diplomacy]], July 24, 2006.
+* [[David Ronfeldt]] and [[John Arquilla]]: "[http://www.firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1971 The promise of Noöpolitik]", ''[[First Monday (journal)|First Monday]]'', August, 2007
+
+[[Category:International relations]]</text>
+      <sha1>a65fxd96cl2ype09i900m48glyev63h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Parliamentary records</title>
+    <ns>0</ns>
+    <id>11931790</id>
+    <revision>
+      <id>739391184</id>
+      <parentid>712787152</parentid>
+      <timestamp>2016-09-14T11:55:15Z</timestamp>
+      <contributor>
+        <username>Neveselbert</username>
+        <id>25820411</id>
+      </contributor>
+      <comment>Added {{[[Template:lead missing|lead missing]]}} tag to article ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1732">{{lead missing|date=September 2016}}
+==Oldest==
+
+The oldest recorded [[parliament]] still in existence is the ''[[Althing]]'', the ruling legislative body of [[Iceland]]. It was founded in 930 and originally consisted of 39 local chieftains. Abolished in 1800 it was restored by [[Denmark]] in 1843.
+
+The oldest continuous parliament is the ''[[Tynwald]]'' of the [[Isle of Man]]. Its exact formation date is generally believed to be 979 but some sources suggest that its origins lie in the early 9th century, which would predate even the ''Althing''.&lt;ref name="GBOR96"&gt;{{cite book | last = McWhirter | first = Norris
+  | title = [[Guinness Book of Records]]  | publisher = Guinness Publishing
+  | year = 1996  | pages = 182  | isbn = 0-85112-646-4 }}&lt;/ref&gt;
+
+The first recorded legislative body on record is the bicameral ''[[ukkim]]'' found in [[Erech]] in [[Iraq]] that was founded in around 2800 BC.&lt;ref name="GBOR96"/&gt;{{rp|182}}
+
+==Largest==
+
+The largest legislative assembly is the [[People's Republic of China|Chinese]] [[National People's Congress]], which consists of around 3000 indirectly elected members.
+
+==Women's suffrage==
+{{main|Women's suffrage}}
+
+The first administration to introduce the [[suffrage]] of women into its constitution was [[Pitcairn Islands]] in 1838, although it had no legal standing. [[South Australia]] introduced female suffrage in 1861 and the Territory of [[Wyoming]] allowed women the vote in 1869, with the [[Isle of Man]] following in 1881.
+
+The first country to allow women the vote was [[New Zealand]] in 1893.
+
+==See also==
+* [[Parliamentary records of the United Kingdom]]
+* [[Records of members of parliament of Canada]]
+
+==References==
+{{reflist}}
+
+[[Category:Parliamentary records]]</text>
+      <sha1>5s6lo1zkoogp8w6xt6umriakpbr6ffj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Reinhard Jaeger</title>
+    <ns>0</ns>
+    <id>19571782</id>
+    <revision>
+      <id>671472379</id>
+      <parentid>523579441</parentid>
+      <timestamp>2015-07-14T22:52:58Z</timestamp>
+      <contributor>
+        <username>Wgolf</username>
+        <id>13821812</id>
+      </contributor>
+      <comment>Removing now unused persondata</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="646">'''Reinhard Jaeger''' (born January 15, 1970) is a professional [[bodybuilder]]. He was born in Graubunden, [[St. Moritz]], [[Switzerland]]. To date, he has won two bodybuilding championships: the IFBB European Championships in 2000 and the NABBA-WABBA Worldchampionships in 2001.&lt;ref&gt;{{cite web | url = http://www.musclememory.com/show.php?a=Jaeger,+Reinhard | title = Jaeger, Reinheard | publisher = Muscle Memory | accessdate = 2008-10-02}}&lt;/ref&gt;
+
+== References ==
+{{reflist}}
+{{DEFAULTSORT:Jaeger, Reinhard}}
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:Professional bodybuilders]]
+{{bodybuilding-stub}}
+{{Switzerland-stub}}</text>
+      <sha1>3gesp4z86durngsnvh4irpaqp4zcg2s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resource management</title>
+    <ns>0</ns>
+    <id>1044927</id>
+    <revision>
+      <id>860217283</id>
+      <parentid>860217256</parentid>
+      <timestamp>2018-09-19T04:16:00Z</timestamp>
+      <contributor>
+        <username>Not Invisible</username>
+        <id>25277522</id>
+      </contributor>
+      <minor/>
+      <comment>Undid revision 860217256 by [[Special:Contributions/61.12.45.66|61.12.45.66]] ([[User talk:61.12.45.66|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5285">{{otheruses}}
+
+{{Business administration}}
+
+In [[organizational studies]], '''resource management''' is the efficient and effective development of an organization's resources when they are needed. Such resources may include financial resources, inventory, human skills, production resources, or [[information technology]] (IT).
+
+In the realm of [[project management]], processes, techniques and philosophies as to the best approach for allocating resources have been developed.  These include discussions on functional vs. cross-functional [[resource allocation]] as well as processes espoused by organizations like the [[Project Management Institute]] (PMI) through their [[Project Management Body of Knowledge]] (PMBOK) methodology of project management. Resource management is a key element to activity resource estimating and project human resource management. Both are essential components of a comprehensive project management plan to execute and monitor a project successfully.&lt;ref&gt;{{cite book|title=A Guide to the Project Management Body of Knowledge, Third Edition|year=2004|publisher=Project Management Institute (PMI)|location=Newtown Square, Pennsylvania|isbn=1-930699-45-X}}&lt;/ref&gt;&lt;ref&gt;{{cite book|title=A Guide to the Project Management Body of Knowledge, Fourth Edition|year=2008|publisher=Project Management Institute (PMI)|location=Newtown Square, Pennsylvania|isbn=978-1-933890-51-7}}&lt;/ref&gt; As is the case with the larger discipline of [[project management]], there are [[list of resource management software|resource management software]] tools available that automate and assist the process of resource allocation to projects and portfolio resource transparency including [[supply and demand]] of resources.  The goal of these tools typically is to ensure that: (i) there are employees within our organization with required specific [[skill set]] and desired profile required for a project, (ii) decide the number and skill sets of new employees to hire, and (iii) allocate the workforce to various projects.&lt;ref&gt;[http://www.bizmerlin.com/resource_management_process.php Resource Management Process]&lt;/ref&gt; &lt;ref&gt;[https://meisterplan.com/project-portfolio-management/resource-management/ Resource Management Method]&lt;/ref&gt;Within professional services and consulting organizations, the effectiveness of these tools and processes is typically monitored by measuring billable [[utilization rate]].
+
+==Corporate Resource Management Process==
+
+
+Large organizations usually have a defined corporate resource management process which mainly guarantees that resources are never over-allocated across multiple projects.&lt;ref&gt;[http://www.pmhut.com/modern-project-management Modern Project Management]&lt;/ref&gt;&lt;ref&gt;[http://pdware.com/ Enterprise Resource Management]&lt;/ref&gt; Peter Drucker wrote of the need to focus resources, abandoning a less promising initiatives for every new project taken on, as fragmentation inhibits results. &lt;ref&gt;{{cite web|title=Growing in Turbulent Times'|url=http://www.projectauditors.com/Papers/Growing_a_Company/Growing_in_Turbulent_Times.html |author=Frank Parth}}
+&lt;/ref&gt;
+
+==Techniques==
+
+One resource management technique is [[resource leveling]]. It aims at smoothing the stock of resources on hand, reducing both excess inventories and shortages.
+
+The required data are: the [[Demand (economics)|demand]]s for various resources, forecast by time period into the future as far as is reasonable, as well as the resources' configurations required in those demands, and the [[Supply (economics)|supply]] of the resources, again forecast by time period into the future as far as is reasonable.
+
+The goal is to achieve 100% [[utilization]] but that is very unlikely, when weighted by important metrics and subject to constraints, for example: meeting a minimum service level, but otherwise minimizing [[cost]].  A Project Resource Allocation Matrix (PRAM) is maintained to visualize the resource allocations against various projects.
+
+The principle is to invest in resources as stored capabilities, then unleash the capabilities as demanded.
+
+A dimension of resource development is included in resource management by which investment in resources can be retained by a smaller additional investment to develop a new capability that is demanded, at a lower investment than disposing of the current resource and replacing it with another that has the demanded capability.
+
+In [[Habitat conservation|conservation]], resource management is a set of practices pertaining to maintaining natural systems integrity.  Examples of this form of management are [[Air#Air pollution|air resource]] management, [[soil conservation]], [[forestry]], [[wildlife]] management and [[water resource]] management.  The broad term for this type of resource management is [[natural resource management]] (NRM).
+
+In addition, we can use [[Ishikawa diagram]] to analyze Man, Money, Material and Machine needed. 
+
+==See also==
+*[[Environmental management]]
+*[[Factor 10]]
+*[[Holistic management]]
+*[[Industrial symbiosis]]
+*[[List of resource management software]]
+*[[Resource allocation]]
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Resource Management}}
+[[Category:Conservation]]
+[[Category:Land management]]
+[[Category:Schedule (project management)]]
+[[Category:Management by type]]</text>
+      <sha1>cgb2y8onkjubv944065ctk91skr1ga7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Roman Catholic Diocese of Nuoro</title>
+    <ns>0</ns>
+    <id>15122338</id>
+    <revision>
+      <id>828539435</id>
+      <parentid>747557487</parentid>
+      <timestamp>2018-03-03T05:15:11Z</timestamp>
+      <contributor>
+        <username>ExperiencedArticleFixer</username>
+        <id>24109244</id>
+      </contributor>
+      <comment>– in timespans as per [[WP:MoS]], [[User:ExperiencedArticleFixer#To-do list|you can help!]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6680">{{refimprove|date=November 2016}}
+{{Infobox diocese
+| jurisdiction      = Diocese&lt;!-- Type of jurisdiction: i.e. Diocese or Archdiocese --&gt;
+| name              = Nuoro
+| latin             = Dioecesis Nuorensis
+| local             = &lt;!-- Name in the native language --&gt; 
+| image             = Nuoro - Cattedrale S. Maria della Neve.jpg
+| image_size        = 
+| image_alt         = 
+| caption           = Cathedral of [[Nuoro]]
+&lt;!---- Locations ----&gt;
+| country           = [[Italy]]
+| metropolitan      = 
+| territory         = 
+| province          = [[Roman Catholic Archdiocese of Cagliari|Cagliari]]
+| coordinates       = &lt;!-- Use {{coord}} --&gt; 
+&lt;!---- Statistics ----&gt;
+| area_km2          = 2,806 
+| population        = 123,906
+| population_as_of  = 2004
+| catholics         = 122,526&lt;!-- Number of Catholics in the diocese --&gt;
+| catholics_percent = 98.9
+| parishes          = 46&lt;!-- Number of parishes in the diocese --&gt;
+| churches          = &lt;!-- Number of churches in the diocese --&gt;
+| congregations     = &lt;!-- Number of congregations in the diocese --&gt;
+| schools           = &lt;!-- Number of church supported schools in the diocese --&gt;
+| members           = &lt;!-- Number of members in the diocese --&gt;
+&lt;!---- Information ----&gt;
+| denomination      = [[Catholic Church]]
+| rite              = [[Roman Rite]]
+| established       = 12th Century 
+| cathedral         = Cattedrale di S. Maria delle Neve
+| cocathedral       = 
+| patron            = 
+| priests           = &lt;!-- Number of priests in the diocese --&gt;
+&lt;!---- Current leadership ----&gt;
+| pope              = {{Incumbent pope}} &lt;!-- DO NOT CHANGE. This will update the Popes Automatically as they change --&gt;
+| bishop_title      = Bishop
+| bishop            = [[Mosè Marcia]]
+| coadjutor         = 
+| auxiliary_bishops = 
+| vicar_general     = 
+| emeritus_bishops  = [[Pietro Meloni]]
+&lt;!---- Map ----&gt;
+| map               = 
+| map_alt           = 
+| map_caption       = 
+&lt;!---- Website ----&gt;
+| website           = [http://www.webdiocesi.chiesacattolica.it/cci_new/s2magazine/index1.jsp?idPagina=4847 www.webdiocesi.chiesacattolica.it]
+| footnotes         = 
+}}
+The Italian Catholic '''diocese of Nuoro''' ({{lang-la|Dioecesis Nuorensis}}) is in [[Sardinia]]. It is a [[suffragan]] of the [[archdiocese of Cagliari]]. Historically it was the '''diocese of Galtellì''' until 1779, and then the '''diocese of Galtellì-Nuoro''' until 1928.&lt;ref name=CathHierNuoro&gt;[http://www.catholic-hierarchy.org/diocese/dnuor.html "Diocese of Nuoro"] ''[[Catholic-Hierarchy.org]]''. David M. Cheney. Retrieved February 29, 2016&lt;/ref&gt;&lt;ref name=GCathNuoro&gt;[http://www.gcatholic.org/dioceses/diocese/nuor0.htm "Diocese of Nuoro"] ''GCatholic.org''. Gabriel Chow. Retrieved February 29, 2016&lt;/ref&gt;
+
+==History==
+Galtellì was an episcopal see in 1138, when [[Pope Innocent II]] made it a suffragan of the [[archdiocese of Pisa]]; later, it was directly subject to the [[Holy See]]. In 1495, it was suppressed by Alexander VI, and its territory united to the diocese of Cagliari. In 1787, at the request of King [[Victor Emmanuel III]], it was re-established, but the bishop continued to live at [[Nuoro]]. Among its bishops was Fra [[Arnolfo de Bissalis]] (1366).
+
+==Bishops==
+===Diocese of Galtelli===
+''Erected: 12th Century''
+''Latin Name: Galtellinensis''
+{{expand list|date=November 2016}}
+
+===Diocese of Galtelli-Nuoro (Galtelly Nori)===
+''Name Changed: 21 July 1779''&lt;br&gt;
+''Latin Name: Galtellinensis-Nuorensis''&lt;br&gt;
+''Metropolitan: Archdiocese of Cagliari'' 
+
+*Arnaldo Biscales, O. Carm. (11 Jul 1348 – ) 
+:'''...'''
+*Sebastien Abbatis, O.P. (6 Mar 1433 – 1451 Died) 
+:'''...'''
+*Giovanni Antioco Serra Urru (Sisra) (18 Sep 1780 – 8 Feb 1786 Died) 
+*Pietro Antonio Craveri, O.F.M. Obs. (7 Apr 1788 – 7 Oct 1801 Died) 
+*Alberto Maria Giuseppe Andrea Luigi Solinas (17 Jan 1803 – 17 Jul 1817 Died) 
+*Antonio-Maria Casabianca (29 Mar 1819 – 29 Jan 1828 Resigned) 
+*Emanuele Marongiu Maccioni (11 Dec 1848 – 9 Oct 1852 Resigned) 
+*Salvatore Angelo de Martis, O. Carm. (22 Feb 1867 – 24 Jun 1902 Died) 
+*Luca Canepa (18 Feb 1903 – 11 Dec 1922 Died) 
+*Maurilio Fossati, O.Ss.G.C. (24 Mar 1924 – 2 Oct 1929 Appointed, [[Archbishop of Sassari]])
+
+===Diocese of Nuoro===
+''Name Changed: 27 January 1928''&lt;br&gt;
+''Latin Name: Nuorensis''&lt;br&gt;
+''Metropolitan: Archdiocese of Cagliari'' 
+
+*Giuseppe Cogoni (20 Nov 1930 – 4 Nov 1938 Appointed, [[Archbishop of Oristano]]) 
+*Felice Beccaro (3 Mar 1939 – 26 Nov 1946 Appointed, [[Bishop of San Miniato]]) 
+*Giuseppe Melas (31 Jan 1947 – 10 Sep 1970 Died) 
+*Giovanni Melis Fois (7 Nov 1970 – 16 Apr 1992 Retired) 
+*Pietro Meloni (16 Apr 1992 – 21 Apr 2011 Retired) 
+*Mosè Marcia (21 Apr 2011 – )
+
+==References==
+{{reflist|2}}
+
+
+==Books==
+*{{cite book|last=Cappelletti|first=Giuseppe|title=Le chiese d'Italia: dalla loro origine sino ai nostri giorni |url=https://books.google.com/books?id=ugMVAAAAYAAJ|volume=Tomo decimonono (19)|year=1864|publisher=G. Antonelli|location=Venice|language=Italian|pages=337-340}}
+*{{cite book|last1=Eubel|first1=Conradus (ed.)|title=Hierarchia catholica, Tomus 1|date=1913|publisher=Libreria Regensbergiana|location=Münster|edition=second|url=https://archive.org/details/hierarchiacathol01eubeuoft}}  (in Latin)
+*{{cite book|last1=Eubel|first1=Conradus (ed.)|title=Hierarchia catholica, Tomus 2|date=1914|publisher=Libreria Regensbergiana|location=Münster|edition=second|url=https://archive.org/details/hierarchiacathol02eubeuoft}} 
+*{{cite book|last1=Eubel|first1=Conradus (ed.)|last2=Gulik|first2=Guilelmus|title=Hierarchia catholica, Tomus 3|date=1923|publisher=Libreria Regensbergiana|location=Münster|edition=second|url=https://archive.org/details/hierarchiacathol02eubeuoft}} 
+*{{cite book|last=Gams|first=Pius Bonifatius |title=Series episcoporum Ecclesiae catholicae: quotquot innotuerunt a beato Petro apostolo|url=https://books.google.com/books?id=os9DAQAAMAAJ|year=1873|publisher=Typis et Sumptibus Georgii Josephi Manz|location=Ratisbon|language=Latin}} 
+*{{cite book|last1=Gauchat|first1=Patritius (Patrice)|title=Hierarchia catholica  IV (1592-1667)|date=1935|publisher=Libraria Regensbergiana|location=Münster|url=https://archive.org/details/hierarchiacathol04eubeuoft|accessdate=2016-07-06}}
+
+==External links==
+*[http://www.newadvent.org/cathen/06371a.htm Source]
+
+{{Catholic}}
+{{Roman Catholic Ecclesiastical Province of Cagliari}}
+{{coord|40.3167|N|9.3333|E|source:wikidata-and-enwiki-cat-tree_region:IT|display=title}}
+
+[[Category:Roman Catholic dioceses in Sardinia|Nuoro]]
+[[Category:Nuoro|Diocese]]
+[[Category:Roman Catholic dioceses established in the 12th century|Nuoro]]
+
+{{Italy-RC-diocese-stub}}
+{{Italy-stub}}</text>
+      <sha1>30hv195ihbh3q22uqig3ay46u6e7pio</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Romanian National Opera, Iași</title>
+    <ns>0</ns>
+    <id>27935674</id>
+    <revision>
+      <id>680948460</id>
+      <parentid>670558702</parentid>
+      <timestamp>2015-09-14T06:44:37Z</timestamp>
+      <contributor>
+        <username>Midas02</username>
+        <id>12205148</id>
+      </contributor>
+      <minor/>
+      <comment>Disambiguating links to [[Romanian National Opera]] (intentional link to DAB) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1599">{{Hatnote|For other uses of the term "Romanian National Opera", see [[Romanian National Opera (disambiguation)|Romanian National Opera]]}}
+[[File:אבישי טייכר 049.jpg|thumb|200px|Iași National Opera House]]
+The '''Romanian National Opera, Iași ''' ({{lang-ro|Opera Naţională Română din Iași}}) is a public [[opera]] and [[ballet company|ballet]] institution in [[Iași]], Romania. It is one of the national opera companies of [[Romania]].
+
+The first performance at Iași Opera was on 3 November 1956 (the inaugural concert being [[Tosca]] by G. Puccini), in the building of the [[Iași National Theatre]], a historic monument that had been built between 1894-1896 by the Viennese architects [[Ferdinand Fellner|Ferdinand Fellner and Hermann Helmer]].&lt;ref&gt;[http://www.cimec.ro/muzica/inst/opiasi.htm Iasi Romanian National Opera House]&lt;/ref&gt;
+
+==See also==
+* [[George Enescu University of Arts of Iaşi]]
+* [[Iaşi "Moldova" Philharmonic Orchestra]]
+* [[List of concert halls]]
+* [[List of opera houses]]
+* [[Opera in Romania]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|National Theatre in Iaşi|Iaşi Romanian National Opera}}
+* [http://www.opera-romana-iasi.ro/ Official website]
+
+{{Iași Landmarks}}
+{{coord|47.1632|27.5847|type:landmark_region:RO-IS|display=title}}
+
+{{DEFAULTSORT:Iasi Romanian National Opera}}
+[[Category:Culture in Iași|Opera]]
+[[Category:Opera houses in Romania]]
+[[Category:Romanian opera companies]]
+[[Category:Ballet companies]]
+[[Category:Music venues completed in 1956]]
+
+{{Opera-company-stub}}
+{{Iaşi-geo-stub}}
+{{romania-stub}}</text>
+      <sha1>0x95le7e6psma7ky3asrxu150khm57q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Second Battle of Blida</title>
+    <ns>0</ns>
+    <id>55383916</id>
+    <revision>
+      <id>851545116</id>
+      <parentid>824920752</parentid>
+      <timestamp>2018-07-23T01:34:52Z</timestamp>
+      <contributor>
+        <username>GeorgeofOrange</username>
+        <id>32815426</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3773">{{Infobox military conflict
+| conflict    = Second Battle of Blida
+| partof      = the [[French conquest of Algeria]]
+| image       =
+| caption     =
+| date        = {{date|17–25 November 1830}}&lt;ref&gt;Histoire de l'armée et de tous les régiments, depuis les premiers temps de monarchie français jusqu'a nos jours (History of the Army and of All Regiments from Earliest Times to our Day) [https://books.google.dz/books?id=0nZkPZuQ6qsC&amp;pg=PR58 (read online)]&lt;/ref&gt;
+| place       = [[Blida]] and [[Médéa]], [[Algeria]]&lt;ref&gt;L'Algerois rural à la fin de l'époque ottomane (1791-1830) [https://books.google.fr/books?hl=fr&amp;id=W-5yAAAAMAAJ&amp;d (read online)]&lt;/ref&gt;
+| territory   = France annexes [[Médéa]], but fails to capture [[Blida]]. 
+| result      =
+| combatant1  = {{flagdeco|France}} [[July Monarchy|Kingdom of France]]
+| combatant2  = Algerian resistance
+* Local [[Berbers in Algeria|Berber tribes]]
+| commander1  = [[Bertrand Clausel]]
+| commander2  = [[Mohamed Ben Zamoum]]
+| units1      =
+| units2      =
+| strength1   = 7,000 soldiers&lt;ref&gt;l'histoire de Blida (The Story of Blida) extrait de "aux échos d'Alger (from "Echos of Algiers"), numéro 45 [http://alger-roi.fr/Alger/blida/textes/3_blida_aea45.htm (read online)]&lt;/ref&gt;
+| strength2   = Unknown
+| casualties1 = 127 killed
+| casualties2 = Unknown
+| notes       =
+| campaignbox = {{Campaignbox French conquest of Algeria}}
+}}
+
+The '''Second Battle of Blida''' was a battle between France and the local Algerian popular forces. It began on 17 November 1830 and ended eight days later on 25 November. After the failure of [[July Monarchy|France]] in the [[First Battle of Blida]], [[Louis-Auguste-Victor, Count de Ghaisnes de Bourmont|de Burman]] was relieved of his duties and General [[Bertrand Clausel]] was appointed on 17 November 1830 for a major campaign on [[Blida]] and [[Médéa]]. [[Bertrand Clausel]] conducted a massive campaign with 17,000 soldiers to invade [[Blida]] and [[Médéa]].&lt;ref&gt;Histoire de l'Algérie ancienne et moderne (Ancient and Modern History of Algeria) [https://books.google.dz/books?id=ilH0gaYdal8C&amp;pg=PA581 (read online)]&lt;/ref&gt;.
+
+== Battle ==
+The inhabitants of [[Blida]] refused to allow the French army into the city and a fierce battle broke out in which hundreds were killed or wounded. The French army burned the orchards surrounding the city and the inhabitants were forced to flee into the mountains. Before his departure from Blida, General [[Bertrand Clausel]] left a French garrison under the command of Colonel Roulhières&lt;ref&gt;Joseph et Caroline ou le berger de la Sologne. Histoire Veritable, Volumes 1-2 [https://books.google.dz/books?id=M0qKUbFc4_UC&amp;pg=PA128 (read online)]&lt;/ref&gt; and headed towards [[Médéa]]. He was ambushed by the Popular Resistance in a mountainous strait near [[Mouzaïa]], and 27 French soldiers were killed. Before General  Clausel returned from Médéa, the French garrison in [[Blida]] managed to eliminate a French contingent of 100 soldiers near [[Boufarik]] on 25 November 1830.{{clarify |date=October 2017 |reason= Confusing/contradictory; possible mistake.}} In the face of a great resistance, General Clausel was forced to take over [[Médéa]] and withdraw completely from [[Blida]].
+
+== See also ==
+* [[Algerian War]]
+* [[First Battle of Blida]]
+* [[French Algeria]]
+* [[French conquest of Algeria]]
+
+== References ==
+{{reflist}}
+
+{{coord missing|Algeria}}
+
+{{DEFAULTSORT:Blida, Battle of}}
+[[Category:Battles involving France]]
+[[Category:Battles involving Algeria]]
+[[Category:French Algeria]]
+[[Category:1830 in Algeria]]
+[[Category:Conflicts in 1830]]
+[[Category:19th century in Africa]]
+[[Category:Battles involving the French Foreign Legion]]
+[[Category:July 1830 events]]
+
+{{France-battle-stub}}
+{{Africa-hist-stub}}</text>
+      <sha1>03k0y9wkkbkl8irm8lm39018s6coos3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stara Maslina</title>
+    <ns>0</ns>
+    <id>24905674</id>
+    <revision>
+      <id>680011890</id>
+      <parentid>674210395</parentid>
+      <timestamp>2015-09-08T05:01:53Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Visitor attractions in Montenegro to [[:Category:Tourist attractions in Montenegro]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2015 August 30]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="898">{{refimprove|date=June 2010}}
+
+[[File:Oliva in Bar.jpg|thumb|Stara Maslina]]
+'''Stara Maslina''' is one of the world's oldest olive trees, located near [[Stari Bar]] ([[Bar, Montenegro|City of Bar]]) in [[Montenegro]]. The tree is said to be over 2,000 years old. It is a popular tourist attraction in the country.
+
+A side of the tree is completely burnt. According to popular folklore, a few men were playing cards next to the tree. During their game, one member accidentally threw a lit match onto the tree, and it soon went up in flames.
+
+==External links==
+* [http://turistickaorganizacijabara.blogspot.com/2009/04/stara-maslina.html Turisticka organizacija Bara - Stara maslina], 2009-04-13
+
+{{coord|42|04|48|N|19|07|46|E|source:kolossus-frwiki|display=title}}
+
+[[Category:Tourist attractions in Montenegro]]
+[[Category:Olives]]
+[[Category:Individual trees in Montenegro]]
+
+{{Montenegro-stub}}</text>
+      <sha1>knx7ojyzreiudhtyg6ieij2eez7uumz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tanzania Conservation Resource Centre</title>
+    <ns>0</ns>
+    <id>15144109</id>
+    <revision>
+      <id>574923913</id>
+      <parentid>536654616</parentid>
+      <timestamp>2013-09-28T21:58:55Z</timestamp>
+      <contributor>
+        <username>SimonP</username>
+        <id>1591</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1148">The '''Tanzania Conservation Resource Centre''' (CRC) is a non-profit educational and research-support organization based in [[Arusha]], [[Tanzania]]. Founded in 2006, the Centre has a small library of primarily conservation materials (both electronic and in print) and provides services for visiting researchers and local students.
+
+CRC has operated for over five  years in Tanzania, supporting conservation and wildlife research through capacity-building and networking for local and foreign researchers and students. The Centre has an office near the Njiro cinema complex in Arusha, and provides logistical, informational and networking support.
+
+The CRC provides a way for students to connect with researchers and their projects, and provides a database of both projects and of students seeking positions.
+
+==See also==
+*[[List of Tanzanian conservation organisations]]
+
+== External links ==
+*[http://www.tzcrc.org CRC home page]
+
+[[Category:Conservation in Tanzania]]
+[[Category:Organisations based in Tanzania]]
+[[Category:Organizations established in 2006]]
+[[Category:2006 establishments in Tanzania]]
+
+{{Tanzania-stub}}
+{{Africa-org-stub}}</text>
+      <sha1>d4ph0jjzg1w2ni5nlwue253hn2vecbd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Unimedia.md</title>
+    <ns>0</ns>
+    <id>20731284</id>
+    <revision>
+      <id>863433131</id>
+      <parentid>863433084</parentid>
+      <timestamp>2018-10-10T18:50:37Z</timestamp>
+      <contributor>
+        <ip>83.27.220.101</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3922">{{Infobox Website
+| name = UNIMEDIA.INFO
+| url = http://www.unimedia.info/
+| commercial = yes
+| type = [[News site]]
+| owner = [[Interact Media]]
+| alexa = 17 in Moldova&lt;br /&gt;
+49,607 globally&lt;ref&gt;{{cite web|title=unimedia.info|url=http://www.alexa.com/siteinfo/unimedia.info|work=[[Alexa Internet|Alexa]]|accessdate=10 March 2013}}&lt;/ref&gt; 
+}}
+'''UNIMEDIA.INFO''' is a [[Moldova]]n [[news site]]. It was founded in 2007 by Tudor Darie, Dumitru Ciorici, Vasile Galuşca and Sergiu Găluşca. As of March 2013, they claim to have 120,500 daily visits and 500,000 daily page views.&lt;ref&gt;{{cite web|url=http://windowonthemedia.com/2008/12/unimedia-md-moldova/ |title=Unimedia.md: Moldova's answer to the post-Soviet media gloom in Window on the Media, December 2008 |publisher=Windowonthemedia.com |date=2008-12-16 |accessdate=2011-12-25}}&lt;/ref&gt; [[Radio Free Europe/Radio Liberty|Radio Free Europe]] has described it as "a largely pro-opposition media outlet."&lt;ref name="Redio Free Europe 2009 report" /&gt;
+
+UNIMEDIA was integrated to New Media Group in January 2008.&lt;ref&gt;{{cite web|url=http://nmg.md/index.php?mod=news&amp;id=24 |title=New Media Group a preluat portalul de ştiri UNIMEDIA |publisher=Nmg.md |date= |accessdate=2011-12-25}}&lt;/ref&gt; After, in January 2010, UNIMEDIA was transferred to Interact Media.
+
+==Political pressure==
+In April 2008, UNIMEDIA was summoned to surrender the IP addresses of commentators to the authorities. Unimedia refused, arguing that IP addresses were only stored for a period of 10 days.&lt;ref&gt;{{cite web|url=http://nmg.md/index.php?mod=news&amp;id=27 |title=UNIMEDIA nu şi-a trădat vizitatorii! |publisher=Nmg.md |date=2008-01-15 |accessdate=2011-12-25}}&lt;/ref&gt;&lt;ref name="BBC Romanian 2008"&gt;{{cite web|last=Canţîr|first=Alexandru|title=Unimedia nu dezvăluie identitatea unor forumişti|url=https://translate.google.com/translate?hl=en&amp;ie=UTF8&amp;u=http://www.bbc.co.uk/romanian/moldova/story/2008/04/080421_unimedia_forumisti.shtml|work=[[BBC Romanian]]|accessdate=27 November 2011|date=21 April 2008}}&lt;/ref&gt; June 2008 saw reports of NGO protests against what was called the unjustified seizure of computer equipment.&lt;ref&gt;{{cite web|title=ONG de media din Moldova şi-au exprimat protestul faţă de sechestrarea calculatoarelor unor forumişti ce şi-au expus opinia pe Internet|url=https://translate.google.com/translate?hl=en&amp;sl=ro&amp;tl=en&amp;u=http%3A%2F%2Fwww.interlic.md%2F2008-06-12%2F5346-5346.html%3Fprint|work=Interlic News Agency|accessdate=27 November 2011|date=12 June 2008}}&lt;/ref&gt; In the run-up to July 2009 elections, it was reported that Unimedia and its parent company had been issued warnings by Moldovan authorities regarding visitor messages that were alleged to be a "call to violence and mass disorder, a call to removal and change of the constitutional system," as reported by [[Oliver Vujović]] of the [[South East Europe Media Organisation]] in the Bulgarian newspaper ''[[The Sofia Echo]]''.&lt;ref name="Redio Free Europe 2009 report"&gt;{{cite web|title=Moldovan Opposition Website Threatened With Closure|url=http://www.rferl.org/content/Moldovan_Opposition_Website_Threatened_With_Closure/1766241.html|work=[[Radio Free Europe/Radio Liberty]]|accessdate=30 June 2009|date=30 June 2009}}&lt;/ref&gt;&lt;ref name="Sofia Echo 2009 report"&gt;{{cite news|title=Deep concern about Moldova media incidents|url=http://www.thesofiaecho.com/2009/07/24/760318_deep-concern-about-moldova-media-incidents|accessdate=27 November 2011|newspaper=[[The Sofia Echo]]|date=24 July 2009|author=[[Oliver Vujović]]}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.unimedia.info/ Homepage]
+
+[[Category:Media in Moldova]]
+[[Category:Companies established in 2007]]
+[[Category:Companies of Moldova]]
+[[Category:Web portals]]
+[[Category:Media companies established in 2007]]
+[[Category:2007 establishments in Moldova]]
+[[Category:European news websites]]
+
+
+{{moldova-stub}}
+{{news-website-stub}}</text>
+      <sha1>otwqmyajy3v85ma03b9tkrcave8botl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Voom HD International</title>
+    <ns>0</ns>
+    <id>22237666</id>
+    <revision>
+      <id>857932838</id>
+      <parentid>849015297</parentid>
+      <timestamp>2018-09-03T23:57:38Z</timestamp>
+      <contributor>
+        <username>Steven (Editor)</username>
+        <id>27438195</id>
+      </contributor>
+      <comment>Removed WarnerMedia\Time Warner template as Turner template will suffice.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4571">{{primary sources|date=April 2009}}
+:''For the American parent company, see [[Voom HD Networks]].''
+
+{{Infobox TV channel
+| name              = Voom HD
+| logofile          = Voom HD.svg
+| logosize          = 200px
+| logoalt           = 
+| logo2             = 
+| launch            = 2006
+| closed date       = 2009
+| picture format    = 
+| share             = 
+| share as of       = 
+| share source      = 
+| network           = 
+| owner             = [[Rainbow Media]]
+| slogan            = 
+| country           = 
+| language          = 
+| broadcast area    = Worldwide
+| affiliates        =
+| headquarters      = 
+| former names      = 
+| replaced names    = 
+| replaced by names = 
+| sister names      = 
+| timeshift names   = 
+| web               = http://www.voom.com/
+| terr serv 1       = 
+| terr chan 1       = 
+| sat serv 1        = 
+| sat chan 1        = 
+| cable serv 1      = 
+| cable chan 1      = 
+| adsl serv 1       = 
+| adsl chan 1       = 
+}}
+'''Voom HD''' was a television channel providing [[high-definition television|high-definition]] programming from various genres. The network was available in 35 countries in Europe and Asia.
+
+Programming was taken from the various stations owned by [[Voom HD Networks]] in the United States and includes ''[[Full Frontal Fashion]]'', ''[[Earth Diaries]]'' and ''[[Gamespotting]]''.
+
+A deal between Rainbow Networks and the Stockholm-based company [[NonStop Television]] was made in 2006 that allowed NonStop to distribute the channel in [[Scandinavia]], [[Finland]], [[Iceland]] and the [[Baltic states]].&lt;ref&gt;{{cite press release|url=http://www.nonstop.tv/corporate/press/NonStopTelevisionoffersHDChannelinScandinaviaandtheBaltics.pdf|title=NonStop Television offers HD Channel in Scandinavia and the Baltics|date=October 9, 2006|publisher=NonStop Television}}&lt;/ref&gt; The channel was launched in Sweden by satellite distributor [[Canal Digital]] on November 1.&lt;ref&gt;{{cite press release|url=http://www.nonstop.tv/corporate/press/HDchannelVOOMHDlaunchesinScandinaviatonight.pdf|date=October 31, 2006|title=HD channel VOOM HD launches in Scandinavia tonight|publisher=NonStop Television}}&lt;/ref&gt; This was soon followed by launched in Denmark, Norway, Finland, Estonia and Latvia on various providers.&lt;ref&gt;{{cite press release|url=http://www.nonstop.tv/corporate/press/NONSTOP%20TV%20SCORES%206%20TERRITORIES%20IN%205%20MONTHS%20FOR%20VOOM%20HD.pdf|date=April 18, 2007|title=NonStop Television Scores 6 Territories in 5 Months for VOOM HD Channel|publisher=NonStop Television}}&lt;/ref&gt; The channel was managed by Scandinavian television broadcaster '''NonStop Television''', part of [[Turner Broadcasting System|Turner Broadcasting]].
+
+In much of the rest of [[Europe]], [[Africa]], the [[Middle East]] and parts of [[Asia]] the channel was represented by [[Zonemedia]].&lt;ref&gt;{{cite press release|url=http://newsroom.zonemedia.net/pressreleases/release.asp?cID=3&amp;pID=46|title=RAINBOW MEDIA EXPANDS GLOBAL REACH OF NEW VOOM HD CHANNEL WITH ZONEMEDIA REPRESENTATION DEAL|date=October 30, 2006|publisher=Zonemedia}}&lt;/ref&gt; In April 2007, they launched the channel in the Arab World via the [[Orbit Communications Company|Orbit]] platform.&lt;ref&gt;{{cite press release|url=http://newsroom.zonemedia.net/pressreleases/release.asp?cID=3&amp;pID=44|title=VOOM HD CHANNEL TO LAUNCH IN MIDDLE EAST|date=April 16, 2007|publisher=Zonemedia}}&lt;/ref&gt;
+
+Voom HD closed down in Europe on August 31, 2009.&lt;ref&gt;{{cite news|url=http://www.totaaltv.nl/index.php?action=nieuws&amp;id=2321|title=VOOM HD stopt in geheel Europa|date=August 27, 2009|publisher=Totaal TV}}&lt;/ref&gt; In many countries it was replaced by [[Rush HD]]. This was the case on the Canal Digital platform,&lt;ref&gt;{{cite news|url=https://www.canaldigital.fi/tietoa-canal-digitalista/Tiedotteet/Voom-HDsta-Rush-HD/|title=Voom HD:sta Rush HD|date=June 16, 2009|publisher=Canal Digital}}&lt;/ref&gt; [[UPC Austria]] &lt;ref&gt;{{cite news|url=http://www.rapidtvnews.com/index.php/200908314588/new-channels-on-austrias-upc.html|title=New channels on Austria’s UPC|date=August 31, 2009|publisher =Rapid TV News}}&lt;/ref&gt; and in the Czech Republic.&lt;ref&gt;{{cite news|url=http://www.broadbandtvnews.com/2009/08/26/czech-debut-for-rush-hd/|title=Czech debut for Rush HD|date=August 26, 2009|publisher=broadbandtvnews}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+{{Turner Broadcasting System}}
+
+[[Category:Direct broadcast satellite services]]
+[[Category:Television stations in Denmark]]
+[[Category:Television channels and stations established in 2006]]
+[[Category:Television channels and stations disestablished in 2009]]</text>
+      <sha1>b4vxrl15k89aobgcq9bjdioy08oxymm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Šēdere parish</title>
+    <ns>0</ns>
+    <id>55226875</id>
+    <revision>
+      <id>818794776</id>
+      <parentid>818792004</parentid>
+      <timestamp>2018-01-05T16:41:42Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor/>
+      <comment>Dating maintenance tags: {{Unref}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="480">{{unref|date=January 2018}}
+'''Šēdere parish''', [[Latvia]] is one of the Ilūkste administrative territories on the southern border with  [[Lithuania]]. It is in the [[Ilūkste Municipality]].
+It was established under the 1920 land reform, and was previously known as Laši parish.
+
+==External links==
+{{Commonscat-inline}}
+
+{{coord missing|Latvia}}
+
+{{DEFAULTSORT:Sedere parish}}
+[[Category:Parishes of Daugavpils District]]
+[[Category:Ilūkste Municipality]]
+
+{{Latvia-stub}}</text>
+      <sha1>o8a89fnizvwg3b3zh2wjtoekezjv4tz</sha1>
+    </revision>
+  </page>
+</mediawiki>

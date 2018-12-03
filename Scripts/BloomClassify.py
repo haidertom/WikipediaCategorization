@@ -9,13 +9,13 @@ from baseline import Baseline
 import os
 
 class BloomClassify:
-	def __init__(self, num = 50, art = 50, baselineFolder="../RandomBaseline/plaindata"):
+	def __init__(self, prct = 50, art = 50, baselineFolder="../RandomBaseline/plaindata"):
 
-		self.num = num 	#number of most frequent words
+		self.num = 200 	#number of most frequent words
 
 		self.art = art # number of articles
 
-		#self.total = self.num * self.art
+		self.prct = prct
 
 		self.basepath = baselineFolder
 
@@ -47,7 +47,8 @@ class BloomClassify:
 			self.MFWdict[cat] = []
 
 			for art in articles:
-				for word in art.most_common(self.num):
+				for word in art.most_common(
+				):
 					self.MFWdict[cat].append(word[0])
 
 		return
@@ -63,20 +64,21 @@ class BloomClassify:
 
 		for cat in categories:
 
-			filepath = self.basepath+"/"+cat+"/AA/wiki_00"
+			for subfolder in os.listdir(self.basepath+"/"+cat):
 
-			articles = lp.languageProcess(filepath).getHighFreqWords()
+				filepath = self.basepath+"/"+cat+"/"+subfolder+"/AA/wiki_00"
+				articles = lp.languageProcess(filepath).getHighFreqWords()
 
-			self.AWdict[cat] = []
+				self.AWdict[cat] = []
 
-			for art in articles:
-				for word in art.most_common(self.num*4):
-					self.AWdict[cat].append(word[0])
+				for art in articles:
+					for word in art.most_common(self.num):
+						self.AWdict[cat].append(word[0])
 
-			# get the lenth of the smallest bag of words
-			self.min = min(self.min, len(set(self.AWdict[cat])))
+				# get the lenth of the smallest bag of words
+				self.min = min(self.min, len(set(self.AWdict[cat])))
 
-			print("fetched {} most common words for {}".format(len(self.AWdict[cat]), cat))
+				print("fetched {} most common words for {}".format(len(self.AWdict[cat]), cat))
 
 		TFIDF = TfIdf()
 
@@ -104,14 +106,14 @@ class BloomClassify:
 
 				self.TFIDFdict[cat][word] = tfidf
 
+			# truncate list to most important tfidf values
+			trunc = int(self.min*(self.prct/100))
 			# transfer to sorted list
-			print(self.min)
-			trunc = int(self.min*0.1)
-			self.TFIDFdict[cat] = sorted(self.TFIDFdict[cat], key=self.TFIDFdict[cat].__getitem__, reverse=True)[:self.min*0.1]
+			self.TFIDFdict[cat] = sorted(self.TFIDFdict[cat], key=self.TFIDFdict[cat].__getitem__, reverse=True)[:trunc]
 			print("added {} words to {}".format(len(self.TFIDFdict[cat]), cat))
 		pass
 
-	def train_BL(self, mfw = 1, tfidf = 0):
+	def train_BL(self, mfw = 0, tfidf = 1):
 		'''
 		Takes a dictionary, creates a Bloomfilter for every key and trains this BL for all values in this key
 		'''
@@ -152,7 +154,7 @@ class BloomClassify:
 				articles = lp.languageProcess(filepath).getHighFreqWords()
 
 				for art in articles:
-					for word in art.most_common(self.num*4):
+					for word in art.most_common(self.num):
 						self.AWdict[cat].append(word[0])
 
 			print("fetched {} most common words for {}".format(len(self.AWdict[cat]), cat))
@@ -184,18 +186,18 @@ class BloomClassify:
 				self.TFIDFdict[cat][word] = tfidf
 
 			# transfer to sorted list
-			self.TFIDFdict[cat] = sorted(self.TFIDFdict[cat], key=self.TFIDFdict[cat].__getitem__, reverse=True)[:self.total]
+			self.TFIDFdict[cat] = sorted(self.TFIDFdict[cat], key=self.TFIDFdict[cat].__getitem__, reverse=True)[:int(self.min*0.3)]
 			print("added {} words to {}".format(len(self.TFIDFdict[cat]), cat))
 		pass
 
 	def save_BL(self):
-		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.num)+'_'+str(self.art)+'_'+'.pkl'
+		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.art)+'_'+str(self.prct)+'p'+'.pkl'
 		with open(name, 'wb') as f:
 			pickle.dump(self.BFdict, f, pickle.HIGHEST_PROTOCOL)
 		print("saved Traindata")
 
 	def load_BL(self):
-		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.num)+'_'+str(self.art)+'_'+'.pkl'
+		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.art)+'_'+str(self.prct)+'p'+'.pkl'
 		with open(name, 'rb') as f:
 			self.BFdict = pickle.load(f)
 		print("loaded Traindata")
@@ -217,25 +219,24 @@ class BloomClassify:
 
 	def check_single_article(self, title, baseline_number = 20, category="Category:Unkown", numOfCheckWords = 20):
 
+		# check if Validationfolder exists
+		if not os.path.exists("../Validation"): os.mkdir("../Validation")
+
+		# get article from wikipedia API
 		Base = Baseline(folder="Validation",  baseline_number = baseline_number)
-
-		if not os.path.exists("../Validation"):
-			os.mkdir("../Validation")
-
-		filename = "../Validation/"+"raw.txt"
+		filename = "../Validation/"+title.replace(' ','')+"_raw.txt"
 		with open(filename, 'w') as the_file:
-			the_file.write(Base.get_dumptext(title)[0])
+			the_file.write(Base.get_dumptext([title]))
 
-		os.system("../wikiextractor/WikiExtractor.py "+"../Validation/"+"raw"+" -o"+" ../Validation"+" --json")
+		#convert to plain text
+		os.system("../wikiextractor/WikiExtractor.py "+"../Validation/"+title.replace(' ','')+"_raw.txt"+" -o"+" ../Validation/"+title.replace(' ','')+"/ --json")
 
+		#housekeeping
 		category = os.listdir("../Validation")
-		if '.DS_Store' in category:
-			category.remove('.DS_Store')
+		if '.DS_Store' in category: category.remove('.DS_Store')
 
-		category = category[0]
-
-		filepath = "../Validation/AA/wiki_00"
-
+		#languageProcess
+		filepath = "../Validation/"+title.replace(' ','')+"/AA/wiki_00"
 		testarticle = lp.languageProcess(filepath).getHighFreqWords()
 
 		vali_dict = {}
@@ -243,7 +244,7 @@ class BloomClassify:
 		#check all Bloomfilters
 		for cat in self.BFdict.keys():
 
-			vali_dict[cat] = sum([1 for word in testarticle[0].most_common(self.num) if self.BFdict[cat].classify(word[0])])/numOfCheckWords
+			vali_dict[cat] = sum([1 for word in testarticle[0].most_common(numOfCheckWords) if self.BFdict[cat].classify(word[0])])/numOfCheckWords
 
 		return vali_dict
 
@@ -257,13 +258,13 @@ class BloomClassify:
 		if tfidf:
 			TrainDict = self.TFIDFdict
 
-		file = "../TestResults"+"/BF_similarity_matrix"+str(self.num)+"_"+str(self.art)+".csv"
+		file = "../TestResults"+"/BF_similarity_matrix"+str(self.art)+"_"+str(self.prct)+".csv"
 
 		with open(file, 'w') as the_file:
 
 			writer = csv.writer(the_file,delimiter = ',')
 
-			description = ["number of most frequent words:", self.num, "number of articles per category:", self.art]
+			description = ["percentage of most frequent words:", self.num, "number of articles per category:", self.art]
 			writer.writerow(description)
 
 			header = [" "]
@@ -284,22 +285,21 @@ class BloomClassify:
 
 def main():
 
-	CL = BloomClassify(num = 25, art = 20, baselineFolder="../RandomBaseline/plaindata")
+	CL = BloomClassify(prct = 50, art = 50, baselineFolder="../Baseline/50/plaindata")
 
-	#CL.get_mfw()
-	CL.get_tfidf()
-	CL.train_BL(mfw = 0, tfidf = 1)
-	CL.save_BL()
-	#CL.load_BL()
+	#CL.get_tfidf()
+	#CL.train_BL(mfw = 0, tfidf = 1)
+	#CL.save_BL()
+	CL.load_BL()
 	#CL.similarity_matrix(mfw = 0, tfidf = 1)
 
-	title = "Space"
+	title = "China"
+	print(title)
 
-	vali_dict = CL.check_single_article(title, numOfCheckWords = 25)
+	vali_dict = CL.check_single_article(title=title, numOfCheckWords = 50)
 
 	for key,value in vali_dict.items():
 	 	print("%-30s%-30f"%(key, value))
-
 
 if __name__== "__main__":
 	main()

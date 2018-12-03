@@ -1,0 +1,3073 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>.md</title>
+    <ns>0</ns>
+    <id>1237578</id>
+    <revision>
+      <id>870748918</id>
+      <parentid>869969567</parentid>
+      <timestamp>2018-11-26T19:50:08Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 3 sources and tagging 0 as dead. #IABot (v2.0beta10)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3409">{{hatnote|This article is about an Internet domain. '''.md''' might also be a [[file suffix]]; e.g. for [[Markdown]] or [[Moneydance]] files.}}
+{{Infobox Top level domain
+|name         = .md
+|background   = #CCF
+|image        = [[Image:Dotmd.png|220px|.md]]
+|introduced   = 1994
+|type         = [[Country code top-level domain]]
+|status       = Active
+|registry     = [[MoldData]] S.E.
+|sponsor      = [[MoldData]] S.E.
+|intendeduse  = Entities connected with {{MDA}}
+|actualuse    = Very popular in Moldova, limited use by [[Doctor of Medicine|medical doctors]]&lt;ref&gt;{{cite news|url=http://www.amednews.com/article/20050117/business/301179991/7/|title=New company makes push for ".md" domain|last=Norbut|first=Mike|date=17 January 2005|work=[[American Medical News]]|accessdate=2 February 2015}}&lt;/ref&gt;
+|restrictions = Prohibited sites which contain sexual or pornographic content, advocate the use of terrorism, send or is associated with the sending of [[Spamming|spam]]&lt;!-- http://www.nic.md/terms.php Terms and conditions --&gt;
+|registereddomains=23,306
+|dateregistereddomains=2013-11-27
+|refregistereddomains=&lt;ref&gt;{{cite web |url=http://www.nic.md/|title=nic.md (.MD Domain Registry)|publisher=nic.md|accessdate=2013-11-27}}&lt;/ref&gt;
+|structure    = Registrations are taken directly at the second level
+|document     = [http://www.nic.md/terms.php Terms and conditions]
+|disputepolicy= [[UDRP]]
+|website      = [http://www.nic.md/ nic.md]
+|dnssec       = no
+}}
+
+'''.md''' is the [[Internet]] [[country code]] [[top-level domain]] ([[ccTLD]]) for [[Moldova]] introduced on March 24, 1994.
+
+The price of domain registration is US$39 per year ($39 including [[VAT]]).
+
+The price of [[Subdomain|third-level]] domain registration is ~US$10 per year (120 [[Moldovan leu|lei]]).&lt;ref&gt;{{cite web |url=http://www.host.md/domain_names.html |title=.com.md Domain Registry |publisher=host.md |access-date=2013-11-27 |archive-url=https://web.archive.org/web/20151025040013/http://www.host.md/domain_names.html# |archive-date=2015-10-25 |dead-url=yes |df= }}&lt;/ref&gt;
+
+The Moldovan state company [[MoldData]] has signed an exclusive agreement to administer and distribute domain names within the .MD domain.&lt;ref&gt;[http://nic.md/faq.php Frequently Asked Questions (FAQ)]. nic.md&lt;/ref&gt;
+
+==Second-level domains==
+* {{mono|.com.md}} – [[Economy of Moldova|commercial entities]]
+* {{mono|.org.md}} – [[Non-governmental organization|NGOs]] and not-for-profit organizations
+* {{mono|.info.md}} – (general) information
+* {{mono|.pro.md}} – (general) professional
+* {{mono|.gov.md}} – [[Politics of Moldova|government]]
+* {{mono|.edu.md}} – [[Education in Moldova|education]]
+* {{mono|.din.md}} – social network for Moldovans
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.iana.org/domains/root/db/md.html IANA .md whois information]
+* [http://www.nic.md/ .md domain registry]
+* [https://web.archive.org/web/20151025094146/http://whois.nic.md/ .md WHOIS Server: whois.nic.md]
+* [https://web.archive.org/web/20151025040013/http://www.host.md/domain_names.html third-level domain registration]
+
+{{CcTLD}}
+
+{{DEFAULTSORT:MD}}
+[[Category:Country code top-level domains]]
+[[Category:Internet in Moldova]]
+[[Category:Council of European National Top Level Domain Registries members]]
+
+
+{{Moldova-stub}}
+{{compu-domain-stub}}
+
+[[he:סיומת אינטרנט#טבלת סיומות המדינות]]
+[[sv:Toppdomän#M]]</text>
+      <sha1>gpwyexiqkez3widnjj5caj0edyafgok</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1979 Central African Republic coup d'état</title>
+    <ns>0</ns>
+    <id>57591157</id>
+    <revision>
+      <id>863757658</id>
+      <parentid>857196633</parentid>
+      <timestamp>2018-10-12T20:25:12Z</timestamp>
+      <contributor>
+        <username>Sundostund</username>
+        <id>12014816</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1095">The '''Dacko Coup''' was a bloodless coup orchestrated by [[David Dacko]] against incumbent [[Central African Emperor]] [[Jean-Bédel Bokassa]]. The emperor was in [[Libya]] during the overthrow. After the coup, the new President David Dacko claimed, "I have direct evidence that the Emperor went at night to Bangui's central prison and bashed children to death there on April 18." Dacko's grab for power was supported by [[France]].
+&lt;ref&gt;{{Cite news|url=https://www.nytimes.com/1979/09/24/archives/bokassa-successor-says-dictator-killed-children-in-april-massacre.html|title=Bokassa Successor Says Dictator Killed Children in April Massacre|date=1979-09-24|work=The New York Times|access-date=2018-06-04|language=en-US|issn=0362-4331}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==See also==
+{{African coups d'État}}
+
+{{DEFAULTSORT:1979 Central African Republic coup d'etat}}
+[[Category:1970s coups d'état and coup attempts]]
+[[Category:Military coups in Central African Republic]]
+[[Category:1979 in the Central African Republic]]
+[[Category:September 1979 events]]
+
+
+{{CentralAfricanRepublic-stub}}</text>
+      <sha1>gj8kp4vzt3fpk1jjfhe5lrltkebp3ed</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2001 in Danish television</title>
+    <ns>0</ns>
+    <id>45495585</id>
+    <revision>
+      <id>806387229</id>
+      <parentid>796157045</parentid>
+      <timestamp>2017-10-21T18:10:01Z</timestamp>
+      <contributor>
+        <ip>47.21.17.246</ip>
+      </contributor>
+      <comment>/* Deaths */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1545">{{Year nav topic5|2001|Danish television}}
+{{unreferenced|date=February 2015}}
+
+This is a list of [[Television in Denmark|Danish television]] related events from 2001.
+
+==Events==
+*28 January - The [[Big Brother (Danish TV series)|Danish version of ''Big Brother'']] debuts on [[TV Danmark]].
+*17 February - [[Rollo &amp; King]] are selected to represent Denmark at the [[Eurovision Song Contest 2001|2001 Eurovision Song Contest]] with their song "[[Never Ever Let You Go|Der står et billede af dig på mit bord]]". They are selected to be the thirtieth Danish Eurovision entry during Dansk Melodi Grand Prix held at the Messecenter in Herning.
+*10 May - The first season of ''Big Brother'' is won by Jill Liv Nielsen.
+*12 May - The 46th [[Eurovision Song Contest 2001|Eurovision Song Contest]] is held at the [[Parken Stadium]] in [[Copenhagen]]. [[Estonia]] wins the contest with the song "[[Everybody (Tanel Padar and Dave Benton song)|Everybody]]", performed by [[Tanel Padar]] &amp; [[Dave Benton]].
+*October - Søren Brøndum Laursen becomes the first person to win 1,000,000 kr in ''Hvem vil være millionær?''.
+
+==Debuts==
+
+*''[[Big Brother (Danish TV series)|Big Brother]]'' ('''2001-2005''', 2012-2014)
+
+==Television shows==
+===1990s===
+*''Hvem vil være millionær?'' (1999–present)
+
+==Ending this year==
+
+{{Empty section|date=February 2015}}
+
+==Births==
+
+{{Empty section|date=February 2015}}
+
+==Deaths==
+
+==See also==
+* [[2001 in Denmark]]
+
+{{Years in TV by country|2001}}
+
+[[Category:2001 in Danish television| ]]
+
+
+{{Denmark-tv-stub}}</text>
+      <sha1>b9reqkk3lz6z1zoecrol20lby6350b3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2007 in Liechtenstein</title>
+    <ns>0</ns>
+    <id>45039148</id>
+    <revision>
+      <id>796392421</id>
+      <parentid>642322221</parentid>
+      <timestamp>2017-08-20T14:49:45Z</timestamp>
+      <contributor>
+        <username>Cote d'Azur</username>
+        <id>7314633</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="727">{{Year in Liechtenstein|2007}}
+
+The following lists events that happened in '''[[2007]] in [[Liechtenstein]]'''.
+
+==Events==
+===February===
+* March 1 - [[Switzerland]] accidentally invades Liechtenstein after 171 infantrymen get lost and cross the Liechtenstein border.&lt;ref&gt;{{cite web | url=http://news.bbc.co.uk/2/hi/europe/6415531.stm | title=Swiss in Liechtenstein 'invasion' | date=3 March 2007 | accessdate=14 January 2015}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+{{Year in Europe|2007}}
+
+[[Category:2007 in Liechtenstein| ]]
+[[Category:2000s in Liechtenstein]]
+[[Category:Years of the 21st century in Liechtenstein]]
+[[Category:2007 by country|Liechtenstein]]
+[[Category:2007 in Europe|Liechtenstein]]
+
+{{Liechtenstein-stub}}</text>
+      <sha1>i7jj3rm4hc8zgxbxp5wxl24kepyw9qk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ATHENA (European cultural heritage project)</title>
+    <ns>0</ns>
+    <id>29946174</id>
+    <revision>
+      <id>834050518</id>
+      <parentid>833761909</parentid>
+      <timestamp>2018-04-03T17:49:53Z</timestamp>
+      <contributor>
+        <username>Josvebot</username>
+        <id>14967932</id>
+      </contributor>
+      <minor/>
+      <comment>v1.43b - [[WP:WCW]] project (Unicode control characters)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="506">'''ATHENA''' is a [[European Union]] funded project which aims to provide content to [[Europeana]]. It is led by the Italian Ministry of Culture, and "takes its origins from the existing [[MINERVA]] network."&lt;ref&gt;{{cite web|title=Home page|url=http://www.athenaeurope.org/index.php?en/1/home|work=ATHENA|accessdate=7 December 2010}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://www.athenaeurope.org/}}
+
+[[Category:Cultural organisations in Europe]]
+
+
+{{Europe-org-stub}}</text>
+      <sha1>7fb5ovh8dbo56kngi20xqq9yspzm1ty</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Abora</title>
+    <ns>0</ns>
+    <id>9194797</id>
+    <revision>
+      <id>856723577</id>
+      <parentid>854782615</parentid>
+      <timestamp>2018-08-27T04:50:42Z</timestamp>
+      <contributor>
+        <username>UpdateNerd</username>
+        <id>10863197</id>
+      </contributor>
+      <minor/>
+      <comment>redirect WL</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4684">{{for|the river of West Asia|Khabur (Euphrates)}}
+{{Use dmy dates|date=July 2013}}
+'''Abora''' is the name of an ancestal solar deity of [[La Palma]] ([[Canary Islands]]) and a traditional god of the [[Guanches]], and of two [[reed boat]]s.
+
+==Supreme being==
+
+Abora ('''Ibru'''&lt;ref&gt;{{cite book |last=Garrison Brinton |first=Daniel |title=Races and Peoples: Lectures on the Science of Ethnography |url= |year=1901 |publisher=D. McKay |location= |language= |isbn= |oclc= |doi= |id= |pages=122 |chapter= |chapterurl= |quote= }}&lt;/ref&gt;) is the name of the [[God|supreme being]] of the religion of the [[Guanches]] on the island of [[La Palma]].&lt;ref&gt;{{Cite EB1911|wstitle=Guanches|volume=12|pages=650-651}}&lt;/ref&gt;&lt;ref name="Hodgson1844"&gt;{{cite book|author=William Brown Hodgson|title=Notes on Northern Africa, the Sahara and Soudan: In Relation to the Ethnography, Languages, History, Political and Social Condition, of the Nations of Those Countries|url=https://books.google.com/books?id=cQwOAQAAMAAJ&amp;pg=PA104|year=1844|publisher=Wiley and Putnam|pages=104–|authormask=|trans-title=|format=|origyear=|oclc=|doi=|bibcode=|id=|quote=|laysummary=|laydate=}}&lt;/ref&gt; In Guanche mythology of the island of [[Tenerife]], the supreme god was called [[Achamán]].
+
+==''Abora'', reed boat==
+{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image               = Expedioner.jpg
+| Ship caption             = ''Abora'' project display and Dominique Goerlitz
+}}
+{{Infobox ship career
+| Hide header              = yes
+| Ship country             =
+| Ship flag                =
+| Ship name                = ''Abora''
+| Ship owner               =
+| Ship ordered             =
+| Ship builder             = [[Aymara ethnic group|Aymara Indians]], Huatajata, [[Lake Titicaca]], Bolivia
+| Ship original cost       =
+| Ship laid down           =
+| Ship launched            =
+| Ship acquired            =
+| Ship commissioned        =
+| Ship decommissioned      =
+| Ship in service          =
+| Ship out of service      =
+| Ship renamed             =
+| Ship struck              =
+| Ship reinstated          =
+| Ship honours             =
+| Ship captured            =
+| Ship fate                =
+| Ship status              =
+| Ship notes               =
+}}
+{{Infobox ship characteristics
+| Hide header              =
+| Header caption           =
+| Ship class               = [[Totora (plant)|Totora]] [[reed boat]]
+| Ship tons burthen        =
+| Ship length              = {{convert|32.8|ft|abbr=on}}
+| Ship beam          =
+| Ship draught             =
+| Ship draft          =
+| Ship hold depth          =
+| Ship propulsion          =
+| Ship sail plan          = [[Square rig]] with [[bipod mast]], [[steering oar]], and [[leeboard]]s&lt;ref&gt;{{Cite web
+  | last = Allen
+  | first = J M
+  | title = ''Abora III'' building and history
+  | work =
+  | publisher =
+  | date =
+  | url = http://www.atlantisbolivia.org/aboraIIIbuildingandhistory.htm
+  | doi =
+  | accessdate = 23 April 2010}}&lt;/ref&gt;
+| Ship complement          =
+| Ship armament            =
+| Ship notes               =
+}}
+|}
+
+''Abora'' was a Bolivian-made reed boat, designed in 2002, to travel more than {{convert|450|nmi|mi km|0}} between Egypt, Lebanon and Cyprus.&lt;ref&gt;[http://archives.cnn.com/2002/WORLD/sailing/06/19/ancient.ppl/ The Abora project] {{webarchive |url=https://web.archive.org/web/20080921142716/http://archives.cnn.com/2002/WORLD/sailing/06/19/ancient.ppl/ |date=21 September 2008 }} CNN&lt;/ref&gt; This was an attempt to prove a theory that there were no boundaries to the travels of ancient sailors, defying modern estimations of limited exploration by prehistoric man.  The idea was inspired by Norwegian explorer [[Thor Heyerdahl]], who sailed from South America to [[Polynesia]] on the [[Kon-Tiki]] balsa raft in 1947.
+
+==''Abora III''==
+
+A similar boat, the Abora III, was launched in 2007 for a [[transatlantic crossing]].  Due to damage from several storms, the expedition was abandoned {{convert|550|mi|nmi km|0}} away from the [[Azores]].&lt;ref&gt;[http://abora3.com/english/diary.html ''Abora III'' Diary] {{webarchive |url=https://web.archive.org/web/20110707074713/http://abora3.com/english/diary.html |date=7 July 2011 }} Abora III Diary&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20081118225032/http://www.abora3.com/ ''Abora III'' official website]
+* [http://www.atlantisbolivia.org/aboraIIIbuildingandhistory.htm Voyage and Construction of the ''Abora III'']
+
+{{Use British English|date=November 2010}}
+
+[[Category:Guanche mythology]]
+[[Category:Reed boats]]
+[[Category:Replications of ancient voyages]]
+[[Category:Sailing expeditions]]
+[[Category:Solar gods]]
+
+
+{{africa-myth-stub}}</text>
+      <sha1>ap9o4sd2fjawm9aec3qeohaq8f9ji0c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Akiwumi Commission of Inquiry</title>
+    <ns>0</ns>
+    <id>38060861</id>
+    <revision>
+      <id>720775084</id>
+      <parentid>656080480</parentid>
+      <timestamp>2016-05-17T21:59:04Z</timestamp>
+      <contributor>
+        <username>BG19bot</username>
+        <id>14508071</id>
+      </contributor>
+      <minor/>
+      <comment>Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility#LISTGAP]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2729">The '''Akiwumi Commission of Inquiry into Tribal Clashes''' was a [[Kenya]] government commission appointed on 1 July 1998. Its term was
+extended several times up to 31 July 1999 when it completed its report. The commission submitted its report on 19 August 1999 to then President [[Daniel arap Moi]].
+
+==Terms of Reference==
+The commission's terms of reference were as outlined below:&lt;ref&gt;http://reliefweb.int/sites/reliefweb.int/files/resources/15A00F569813F4D549257607001F459D-Full_Report.pdf&lt;/ref&gt;
+* To investigate the [[Ethnic Conflicts in Kenya|tribal clashes]] that have occurred in various parts of Kenya since 1991, with view of establishing and/or determining:
+** The origin, the probable, the immediate and the underlying causes of such clashes;
+** The action taken by the police and other law enforcement agencies with respect to any incidents of crime arising out of or committed in the course of the said tribal clashes and where such action was inadequate or insufficient, the reasons there for;
+** The level of preparedness and the effectiveness of law enforcement agencies in controlling the said tribal clashes and in preventing the occurrence of such tribal clashes in future;
+* The commission was also to recommend:
+** Prosecution or further criminal investigations against any persons or persons who may have committed offences related to such tribal clashes;
+** Ways, means and measures that must be taken to prevent, control, or eradicate such clashes in future;
+** To do, inquire into or investigate any other matter that is incidental to or connected with the foregoing
+
+==Membership==
+The Akiwumi Commissions were all serving judges led by Justice [[Augustus Molade Akiwumi]].
+
+Mr. Nyagah Gacivih and Ms Dorcas Oduor both state counsel in the office of the [[Attorney General of Kenya|Attorney General]] initially served counsel assisting. Later on, Mr. Gacivih was removed and replaced by Mr. [[Bernard Chunga]], who was then [[Director of Public Prosecutions of Kenya|Director of Public Prosecutions]] in the office of the Attorney General &lt;ref&gt;http://www.africog.org/reports/Commissionsofinquirypaper.pdf&lt;/ref&gt;
+
+==Report &amp; Aftermath==
+Following an order of the High Court, the report of this Commission was made public in 2002.&lt;ref&gt;http://www.parliament.go.ke/index.php?option=com_docman&amp;task=doc_download&amp;gid=722&amp;Itemid=&lt;/ref&gt; The commission's work was cited in the [[Waki Commission]] report on the [[2007-2008 Kenyan crisis]].
+
+==See also==
+* [[Ethnic Conflicts in Kenya]]
+* [[Politics of Kenya]]
+* [[History of Kenya]]
+* [[Demographics of Kenya]]
+* [[Waki Commission]]
+
+==References==
+{{Reflist}}
+
+{{Kenya Government and Parliamentary Inquiries}}
+
+[[Category:1990s in Kenya]]
+
+
+{{kenya-gov-stub}}</text>
+      <sha1>dt53tpguihbz3p845jia94uevm8o9pv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Amstel Malta Box Office</title>
+    <ns>0</ns>
+    <id>46391851</id>
+    <revision>
+      <id>796605459</id>
+      <parentid>788914984</parentid>
+      <timestamp>2017-08-22T00:11:27Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>Rescued 2 archive links; remove 2 links. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2341">'''Amstel Malta Box Office''', also known as '''AMBO''' is a Nigerian television reality show launched in 2005.&lt;ref&gt;http://www.vanguardngr.com/2009/10/6000-line-up-for-ambo-‘09/&lt;/ref&gt;
+The TV reality show is sponsored by [[Nigerian Breweries]], the largest brewing company in Nigeria.&lt;ref&gt;{{cite web|url=http://www.lagos-nigeria-real-estate-advisor.com/amstel-malta-box-office.html|title=Amstel Malta Box Office Nigeria – New Movie Stars Unveiled|work=lagos-nigeria-real-estate-advisor.com}}&lt;/ref&gt; 
+The show centered on the cinema of Nigeria, often referred to as [[Nollywood]] and had produced several award-winning Nollywood stars such as [[Alex Okoroji]], [[Bayray McNwizu]] and [[OC Ukeje]].&lt;ref&gt;{{cite web|url=http://www.bellanaija.com/2009/11/13/amstel-malta-box-office-ambo-5-nigerias-star-making-reality-show-is-back/|title=Amstel Malta Box Office (AMBO) 5: Nigeria’s Star Making Reality Show is BACK|work=BellaNaija}}&lt;/ref&gt;
+The first maiden edition was directed by [[Niji Akanni]] and it is won by Azizat Sadiq.&lt;ref&gt;{{cite web|url=http://www.naijarules.com/xf/index.php?threads/azizat-sadiq-wins-amstel-malta-reality-show.13024/ |archive-url=https://archive.is/20150412213617/http://www.naijarules.com/xf/index.php?threads/azizat-sadiq-wins-amstel-malta-reality-show.13024/ |dead-url=yes |archive-date=2015-04-12 |title=Azizat Sadiq wins Amstel malta reality show! |work=naijarules.com }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://books.google.co.uk/books?id=RL01BgAAQBAJ&amp;pg=PA21&amp;lpg=PA21&amp;dq=Amstel+Malta+Box+Office+was+edited+and+directed+by+Niji+Akanni&amp;source=bl&amp;ots=1S7A2iPYpP&amp;sig=jI1yze-nFcuBiKjWQ-41ft-dsGc&amp;hl=en&amp;sa=X&amp;ei=-94qVdSYHZDtaN_RgLgC&amp;ved=0CBQQ6AEwAw|title=NOLLYWOOD MIRROR®|work=google.co.uk}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://newtelegraphonline.com/filming-of-shijuwomi-adaptation-of-gbadamosis-behold-my-redeemer-begins/ |archive-url=https://archive.is/20150412213626/http://newtelegraphonline.com/filming-of-shijuwomi-adaptation-of-gbadamosis-behold-my-redeemer-begins/ |dead-url=yes |archive-date=2015-04-12 |title=New Telegraph   – Filming of Shijuwomi, adaptation of Gbadamosi’s Behold My Redeemer begins |author=Our Correspondent |work=newtelegraphonline.com }}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+[[Category:Nigerian reality television series]]
+[[Category:2000s Nigerian television series]]
+
+
+{{Nigeria-tv-stub}}</text>
+      <sha1>7qdsqzw0ncoq2ix8k3dgxvsv8qjkaof</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Angola at the 2015 World Championships in Athletics</title>
+    <ns>0</ns>
+    <id>47569064</id>
+    <revision>
+      <id>793677292</id>
+      <parentid>678476089</parentid>
+      <timestamp>2017-08-03T08:10:02Z</timestamp>
+      <contributor>
+        <username>Ianblair23</username>
+        <id>145927</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */navbox using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1750">{{use dmy dates|date=August 2015}}
+{{Infobox country at games
+| IAAF        = ANG
+| fedname     = 
+| year        = 2015
+| games       = World Championships in Athletics
+| location    = [[Beijing]]
+| competitors = 1
+| gold        = 0
+| silver      = 0
+| bronze      = 0
+| rank        = 
+| previous    = [[Angola at the 2013 World Championships in Athletics|2013]]
+| next        = [[Angola at the 2017 World Championships in Athletics|2017]]
+| website     = 
+}}
+
+'''[[Angola]]''' competed at the '''[[2015 World Championships in Athletics]]''' in [[Beijing]], [[China]], from 22 to 30 August 2015.&lt;ref name="variety"&gt;{{cite web |url=http://www.iaaf.org/competitions/iaaf-world-championships/news/iaaf-world-championships-beijing-2015-provisi |title=Provisional entry list as at 15 August – IAAF World Championships, Beijing 2015 |accessdate=19 August 2015 |work=IAAF}}&lt;/ref&gt;
+
+==Results==
+(q – qualified, NM – no mark, SB – season best)
+
+===Women===
+;Track and road events
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Preliminary Round
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-style=text-align:center
+|style=text-align:left| [[Adriana Alves]]
+|style=text-align:left| [[2015 World Championships in Athletics – Women's 100 metres|100 metres]]
+|12.19
+|46
+|colspan=6 {{n/a|Did not advance}}
+|}
+
+==References==
+{{reflist}}
+
+{{Nations at the 2015 World Championships in Athletics}}
+
+[[Category:Nations at the 2015 World Championships in Athletics]]
+[[Category:2015 in Angolan sport|World Championships in Athletics]]
+[[Category:Angola at the World Championships in Athletics]]
+
+
+{{Angola-stub}}</text>
+      <sha1>fq6pjdt444qmb13fvowp09omhkbutcr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Avarpi</title>
+    <ns>0</ns>
+    <id>2524657</id>
+    <revision>
+      <id>862009714</id>
+      <parentid>848354611</parentid>
+      <timestamp>2018-10-01T15:53:21Z</timestamp>
+      <contributor>
+        <username>Krakkos</username>
+        <id>17328627</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="754">The '''Avarpi''' or '''Auarpoi''' or '''Avarni''' were [[Germanic peoples|Germanic tribe]] attested in [[Ptolemy|Ptolemy's Geography]]. The attested Greek is Auarpoi. Avarpi is a scholarly transliteration into Latin, with some using Avarni on the assumption that the name refers to the [[Varni tribe|Varni]] of [[Mecklenburg]]. However, Ptolemy uses Farodeinoi for Varini and clearly says that the Auarpoi are next to the Teutonikai and between the Sueboi and the Farodeinoi. This location is not precise, but is somewhere in the Pommern/Propommern region.
+
+==See also==
+{{Portal|Ancient Germanic culture}}
+*[[List of Germanic tribes]]
+*[[Barbarian invasions]]
+
+{{Germanic peoples}}
+
+[[Category:Historical Germanic peoples]]
+
+
+{{Europe-ethno-group-stub}}</text>
+      <sha1>seuaunbls1xuzmcvop76lv5jmafwubx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bandarban Cantonment</title>
+    <ns>0</ns>
+    <id>47213953</id>
+    <revision>
+      <id>790540180</id>
+      <parentid>753456381</parentid>
+      <timestamp>2017-07-14T12:01:18Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.4)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2737">{{Infobox military structure
+|name=Bandarban Cantonment
+|location= [[Bandarban Sadar Upazila]], [[Bandarban District|Bandarban]]
+|image=
+|caption=
+|type= [[Cantonment]]
+|built=
+|materials=
+|used=
+|controlledby=[[Bangladesh Army]]
+|garrison=
+|current_commander=
+|battles=   
+}}
+'''Bandarban Cantonment''' ({{lang-bn|বান্দরবন সেনানিবাস}}) is a [[cantonment]] located in [[Bandarban District|Bandarban]].&lt;ref&gt;{{cite web|url=http://www.joinbangladesharmy.mil.bd/about-army/cantonment-locations |title=Cantonment Locations |work=Bangladesh Army |deadurl=yes |archiveurl=https://web.archive.org/web/20150618152955/http://www.joinbangladesharmy.mil.bd/about-army/cantonment-locations |archivedate=2015-06-18 |accessdate=2015-07-11 }}&lt;/ref&gt; The headquarter of 69th Infantry Brigade of [[Bangladesh Army]] locate here.&lt;ref&gt;{{cite web |url=http://www.travelkd.com/2014/02/a-to-z-information-of-nilgiri-hill-resort-tourist-spot-of-bandarban.html |title=Nilgir Resort Bandarban Information |work=travelkd.com |date=2015-02-25 |deadurl=no |archiveurl=https://web.archive.org/web/20150424175235/http://www.travelkd.com/2014/02/a-to-z-information-of-nilgiri-hill-resort-tourist-spot-of-bandarban.html |archivedate=2015-04-24 |accessdate=2015-07-11 }}&lt;/ref&gt; It is one of five cantonment in [[Chittagong Hill Tracts]] area.&lt;ref name="tribune"&gt;{{cite news |last=Humphreys |first=Phil |url=http://www.dhakatribune.com/bangladesh/2013/dec/06/peace-our-time |title=Peace in our time? |work=[[Dhaka Tribune]] |location=Dhaka |date=2013-12-06 |accessdate=2015-07-11 }}&lt;/ref&gt;
+
+The chief of this Cantonment is Brigadier General Nakib Ahmed Chowdhury.&lt;ref&gt;{{cite news |last=Ahmed |first=Gazi Towhid |url=http://www.thedailystar.net/bandarban-children-see-a-ray-of-light-16369 |title=Bandarban children see a ray of light |work=[[Daily Star (Bangladesh)]] |location=Dhaka |date=2014-03-20 |deadurl=no |archiveurl=https://web.archive.org/web/20140529081049/http://www.thedailystar.net/bandarban-children-see-a-ray-of-light-16369 |archivedate=2014-05-29 |accessdate=2015-07-11 }}&lt;/ref&gt;
+
+== Organization ==
+* 69 Infantry Brigade
+** 12 East Bengal
+** 18 East Bengal
+** 29 Bangladesh Infantry Regiment
+* 7 Field Ambulance
+* 103 Brigade Signal Company
+* SSD, Bandarban
+* OSP -3&lt;!--
+== Key installations ==
+=== Bangladesh Army formations ===
+
+--&gt;
+
+==Education==
+* Bandarban Cantonment Public School and College
+
+== See also ==
+* [[Comilla Cantonment]]
+* [[Alikadam Cantonment]]
+* [[Savar Cantonment]]
+
+==References==
+{{Reflist|2}}
+{{Coord|22.201670|N|92.213273|E|display=title}}
+{{Cantonments of Bangladesh}}
+{{Military of Bangladesh}}
+
+[[Category:Military of Bangladesh]]
+[[Category:Cantonments of Bangladesh]]
+
+
+{{Bangladesh-mil-stub}}</text>
+      <sha1>6oxvt7qphdeb38ml7dp920jv5f4hgjz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Battle of Sig</title>
+    <ns>0</ns>
+    <id>55375878</id>
+    <revision>
+      <id>843418544</id>
+      <parentid>813376441</parentid>
+      <timestamp>2018-05-29T01:23:39Z</timestamp>
+      <contributor>
+        <username>GeorgeofOrange</username>
+        <id>32815426</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3168">{{Multiple issues|
+  {{Orphan|date=October 2017}}
+  {{one source|date=October 2017}}
+  {{Rough translation|French|date=October 2017}}
+}}
+{{Infobox military conflict
+| conflict    = 
+| width       = 
+| partof      = French Conquest of Algeria
+| image       = 
+| caption     = 
+| date        = 26-27 june 1835
+| place       = [[Sig, Algeria|Sig]], [[Algeria]]
+| coordinates = 
+| map_type    = 
+| map_relief  = 
+| latitude    = 
+| longitude   = 
+| map_size    = 
+| map_marksize = 
+| map_caption = 
+| map_label   = 
+| territory   = 
+| result      = Algerian Victory
+| status      = 
+| combatants_header = 
+| combatant1  = {{flagicon|France}} [[July Monarchy|France]]
+| combatant2  = [[File:Dz flag-Abdelkader.png|23px]] [[Emirate of Abdelkader]]
+| commander1  = [[Camille Alphonse Trézel]]
+| commander2  = [[Emir Abdelkader]]
+| units1      = 
+| units2      = 
+| units3      = 
+| strength1   = at least 2500 &lt;ref name="Hugo-1838"&gt;Abel Hugo, France militaire. 1838. 
+ [https://books.google.fr/books?id=pB5EAAAAYAAJ&amp;printsec=frontcover&amp;hl=fr#v=onepage&amp;q&amp;f=false Histoire des armées françaises], Volume 5, p.360. In French.&lt;/ref&gt;(armed)
+| strength2   = 8,000 cavaliers,4 000 infantrymen&lt;ref name="Hugo-1838" /&gt;
+| casualties1 = 52 died , 189 wounded&lt;ref name="Hugo-1838" /&gt;
+| casualties2 = Unknown but low
+| notes       = 
+| campaignbox = {{Campaignbox French conquest of Algeria}}
+}}
+'''The Battle of Sig''' took place from 26 to 27 June 1835 in the forest of Moulay Ismael near [[Sig, Algeria|Wadi Sig]] and opposed French forces, assisted by the Douair and Smela tribes, to Algerian resistors led by [[Emir Abdelkader]].
+
+==The battle June 26==
+
+
+The fighting lasted two days. Unable to resist the Algerian assaults, the men of General [[Camille Alphonse Trézel]] retreated. A further withdrawal was also initiated at [[Arzew]], but Trézel's forces were swiftly overtaken. The Algerian cavalry, faster, more mobile and above all more numerous, blocked the French at the [[Macta]]. The [[French Foreign Legion|Foreign Legion]] succeeded in containing their attackers and repelling them, but the Algerians continued their attacks.
+
+==The ambush June 27 ==
+
+
+The next day, they ambushed the French at the Macta marshes, formed by the confluence of the [[Sig River|Sig]] and the Habra, between the river and the forest. The heavy wagons of the convoy were destroyed and the wounded from the previous night's battle slaughtered, while the troops of the escort were annihilated. The Foreign Legion again stepped in; they freed the way toward Arzew, but the attack by the Algerian horsemen cost the French forces  52 men killed and 189 wounded.
+
+== See also ==
+* [[Emir Abdelkader]]
+* [[Emirate of Abdelkader]]
+* [[French Algeria]]
+* [[Sig, Algeria|Sig]]
+
+== References ==
+{{reflist}}
+
+{{coord missing|Algeria}}
+
+{{DEFAULTSORT:Sig, Battle of}}
+[[Category:Battles involving France]]
+[[Category:Battles involving Algeria]]
+[[Category:French Algeria]]
+[[Category:1835 in Algeria]]
+[[Category:Conflicts in 1835]]
+[[Category:19th century in Africa]]
+[[Category:Battles involving the French Foreign Legion]]
+[[Category:June 1835 events]]
+
+{{France-battle-stub}}
+{{Africa-hist-stub}}</text>
+      <sha1>8n6x1uazaqwlq5m1hctfuizlan5umec</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bertrand Russell Peace Foundation</title>
+    <ns>0</ns>
+    <id>6829256</id>
+    <revision>
+      <id>869198091</id>
+      <parentid>865628712</parentid>
+      <timestamp>2018-11-17T01:15:26Z</timestamp>
+      <contributor>
+        <username>StraussInTheHouse</username>
+        <id>32545823</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */unreferenced to refimprove</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3584">{{refimprove|date=June 2014}}
+The '''Bertrand Russell Peace Foundation''' was established in 1963. The foundation aims to continue the work of the philosopher and activist [[Bertrand Russell]] in the areas of peace, [[social justice]], and human rights, with a specific focus on the dangers of [[nuclear war]]. Its director was [[Ken Coates]]. Its general secretary, until 1969, was [[Ralph Schoenman]].
+
+'''Spokesman Books''' is the publishing imprint of the Bertrand Russell Peace Foundation&lt;ref&gt;{{cite book |first1=Kenneth |last1=Blackwell |first2=Harry |last2=Ruja |first3=Sheila |last3=Turcon |title=A Bibliography of Bertrand Russell: I. Separate Publications II. Serial Publications III. Indexes |publisher=Routledge |year=2003 |isbn=1-134-81890-4 |page=47 }}&lt;/ref&gt; and publishes books on politics, peace and disarmament, and history. ''[[The Spokesman]]'' is the journal of the BRPF, which reached its 100th issue in August 2008.
+
+==Publications==
+*[[Ken Coates]] and Tony Topham, ''Participation or Control?'' (1967)
+*Jo O'Brien, ''Women's Liberation in Labour History'' (1972) 
+*''After the Chilean Coup'' (1973)
+*[[Salvador Allende]], ''Chile: No More Dependence!'' (1973)
+*Ken Coates, ''Democracy in the Labour Party'' (1977)
+*Ken Coates and Tony Topham, ''The Shop Steward's Guide to the Bullock Report'' (1977)
+*[[Peter Jenkins (journalist)|Peter Jenkins]], ''Where Trotskyism Got Lost'' (1977)
+*Alan Roberts and [[Zhores Medvedev]], ''Hazards of Nuclear Power'' (1977)
+*[[Brian Sedgemore]], ''The How and Why of Socialism'' (1977), {{ISBN|0851241964}}
+*[[Michael Barratt Brown]] et al., ed., ''Full Employment'' (1978)
+*''[[Berufsverbote]] Condemned'' (1978)
+*''Trident - Nuclear Proliferation the British Way'' (2008)
+*''Obama's Afghan Dilemma'' (2008)
+*''Democracy Old and New'' (2008)
+*''[[Battle of Tskhinvali|Tskhinvali]]: Shock and Awe'' (2008). {{ISBN|9780851247571}}. Edited by [[Ken Coates]], with contributions from [[Gareth Peirce]], [[Moazzam Begg]], [[Vladimir Putin]], [[Mahmoud Darwish]], [[Saifedean Ammous]], [[Stephen F. Cohen]], [[Andrew Mackinlay|Andrew Mackinlay MP]], [[Mahmoud Darwish]], [[Jean Ziegler]], [[James Petras]], [[Mike Cooley (engineer) | Mike Cooley]], Trevor Griffiths and Ann Talbot.
+*[[Mike Cooley (engineer) | Mike Cooley]], 'Architect or Bee? The Human Price of Technology', Foreword by [[Frances O'Grady]] (2017)
+*[[Mike Cooley (engineer) | Mike Cooley]], 'Delinquent Genius: The Strange Affair of Man and His Technology' Foreword by [[Michael D. Higgins]]. {{ISBN|978 085124 878 3}} (2018).
+
+In the '''Spokesman Pamphlets''' series there are 94 titles {{as of|2000|lc=y}}.&lt;ref&gt;{{cite web | url=http://www.spokesmanbooks.com/Spokesman/Spk%20Pamph/Spkpam%201.htm | title=Spokesman Pamphlets | publisher=Spokesman Books | accessdate=May 1, 2017}}&lt;/ref&gt;
+
+==See also==
+* [[Russell Tribunal]], for activities of Bertrand Russell Peace Foundation during [[Vietnam War]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.russfound.org/ Bertrand Russell Peace Foundation]
+* [http://www.spokesmanbooks.com/ Spokesman Books]
+* [https://web.archive.org/web/20060827094103/http://www.bl.uk/onlinegallery/themes/voices/russell.html Speech by Bertrand Russell, at European Congress on Nuclear Disarmament (17 January 1959), Voices of History, British Library] - voice recording    
+
+{{anti-war}}
+
+[[Category:Foundations based in the United Kingdom]]
+[[Category:1963 establishments in the United Kingdom]]
+[[Category:Anti–nuclear weapons movement]]
+[[Category:Organizations established in 1963]]
+[[Category:Peace organizations]]</text>
+      <sha1>n70vhg2bb6p5twfcmi08vz2buup6po9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blue Line International</title>
+    <ns>0</ns>
+    <id>8528838</id>
+    <revision>
+      <id>843891739</id>
+      <parentid>843891560</parentid>
+      <timestamp>2018-06-01T05:19:28Z</timestamp>
+      <contributor>
+        <ip>112.204.218.98</ip>
+      </contributor>
+      <comment>/* Former ships */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2723">
+
+{{Infobox company
+| name             =
+| logo             = Blueline logo.svg
+| caption          =
+| type             =
+| genre            =
+| fate             =
+| predecessor      = [[SEM Maritime Company]]
+| successor        =
+| foundation       = 2003
+| founder          =
+| defunct          =
+| location_city    =
+| location_country =
+| location         =
+| locations        =
+| area_served      = [[Adriatic Sea]]
+| key_people       =
+| industry         = Passenger transportation&lt;br&gt;Freight transportation
+| products         =
+| services         =
+| revenue          =
+| operating_income =
+| net_income       =
+| aum              =
+| assets           =
+| equity           =
+| owner            = SEM Maritime Company
+| num_employees    =
+| parent           =
+| divisions        =
+| subsid           =
+| homepage         = [http://www.blueline-ferries.com www.blueline-ferries.com]
+| footnotes        =
+| intl             =
+}}
+'''Blue Line International''' is a [[ferry]] company owned by the [[Croatia]]-based [[SEM Maritime Company]] (SMC).  The Blue Line brand was established in 2003 as a marketing name for SMC's Croatia—Italy services, coinciding with the purchase of the [[MV Ancona|MV ''Ancona'']].
+
+The company operated a regular around-the-year service between [[Ancona]] and [[Split (city)|Split]], alongside the seasonal lines Ancona—[[Hvar (town)|Hvar]] and Ancona—[[Vis (town)|Vis]].
+
+==Fleet==
+[[File:BlueLineAncona gobeirne.jpg|thumb|right|M/S ''Ancona'' in Ancona Harbour, Italy, 2010.]]
+
+===Former ships===
+
+{| class="wikitable"
+! Ship || Built || In service || [[Gross register tonnage]] || Flag || Status as of 2010
+|-
+| [[MV Split 1700|MV ''Split 1700'']] ||align="Center" | 1966 ||align="Center" | 2003–2010 || {{GRT|6,474}} || {{flag|Panama}} ||
+|-
+| [[MV Ancona|MV ''Ancona'']] ||align="Center" | 1966 ||align="Center" | 2003-2010 || {{GRT|7,883}} || {{flag|Panama}} ||Scrapped in 2010
+|-
+| [[MS Dalmatia|MV ''Dalmatia'']] ||align="Center" | 1978 ||align="Center" | 2011-2014 ||{{GT|12,078}} || {{flag|Panama}}||Scrapped in 2014
+|-
+| [[MS Regina della Pace|MV ''Regina della Pace'']] ||align="Center" | 1979 ||align="Center" | 2010-2017 || {{GT|16,405}} || {{flag|Panama}} ||Sold to Ventouris Ferries as Rigel III
+|}
+|}
+
+==References==
+{{Reflist}}
+* [http://www.faktaomfartyg.se/sem_maritime_company.htm Fakta om Fartyg: SEM Maritime Company / Blue Ferries]
+
+
+==External links==
+{{Commons category|Blue Line International}}
+* [http://www.blueline-ferries.com Blue Line International web page]
+
+[[Category:Shipping companies of Croatia]]
+[[Category:Water transport in Croatia]]
+[[Category:Ferry companies of Croatia]]
+
+
+{{Transport-company-stub}}
+{{Croatia-stub}}
+{{Italy-company-stub}}</text>
+      <sha1>79knm6uv5qy5h3ixu1y958xwgkbpo2n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Casas de Los Pinos Solar Power Plant</title>
+    <ns>0</ns>
+    <id>28396324</id>
+    <revision>
+      <id>846530364</id>
+      <parentid>772034989</parentid>
+      <timestamp>2018-06-19T09:45:59Z</timestamp>
+      <contributor>
+        <username>InfoboxBot</username>
+        <id>32222283</id>
+      </contributor>
+      <minor/>
+      <comment>Automated edit: fixing infobox parameter "country" (violation of [[MOS:OVERLINK]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1803">{{Infobox power station 
+| name                   = Casas de Los Pinos Solar Power Plant
+| name_official          = 
+| image                  = 
+| image_size             = 
+| image_caption          = 
+| image_alt              = 
+| location_map           = Spain
+| location_map_size      = 
+| location_map_caption   = 
+| coordinates            = &lt;!-- {{coord| | |region:ES_type:landmark|display=inline,title}} --&gt;
+| country                = Spain
+| location               = [[Castile-La Mancha]]
+| status                 = O
+| construction_began     = 
+| commissioned           = November 2007
+| decommissioned         = 
+| cost                   = 
+| owner                  = 
+| operator               = 
+| solar_type             = PV
+| ps_units_operational   = 120
+| solar_site_area        = 
+| ps_electrical_capacity = 10 [[Megawatt|MW]]
+| ps_electrical_cap_fac  = 
+| website                = 
+| extra                  = 
+}}
+
+The '''Casas de Los Pinos Solar Power Plant''' is a {{nowrap|10 [[Megawatt|MW]]}} [[photovoltaic]] power station in [[Castile-La Mancha]], [[Spain]]. The facility was commissioned in November 2007, and was developed by Renovalia Solar SL. The plant consists of 120&amp;nbsp;[[Solaria]] and [[Suntech]] units of {{nowrap|100 kW}}, with a total of 69,850 [[photovoltaic panels]].&lt;ref&gt;[http://www.exenewable.com/projectProfile.asp?id=12609 Casas de Los Pinos Solar Power Plant] {{webarchive |url=https://web.archive.org/web/20110710211741/http://www.exenewable.com/projectProfile.asp?id=12609 |date=July 10, 2011 }}&lt;/ref&gt;
+
+== See also ==
+{{stack|{{Portal|Spain|Sustainable development|Renewable energy}}}}
+* [[List of power stations in Spain]]
+
+== References ==
+{{Reflist}}
+
+{{coord missing|Spain}}
+
+[[Category:Photovoltaic power stations in Spain]]
+
+
+{{Renewable-power-plant-stub}}</text>
+      <sha1>dsxqj22e9yt4fgk2skbri4oq2s8lqe8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Chabelley Airport</title>
+    <ns>0</ns>
+    <id>16251140</id>
+    <revision>
+      <id>822950879</id>
+      <parentid>804817583</parentid>
+      <timestamp>2018-01-29T13:12:59Z</timestamp>
+      <contributor>
+        <username>SpikeToronto</username>
+        <id>5635510</id>
+      </contributor>
+      <minor/>
+      <comment>/* Military */ c/e</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3435">{{Infobox airport 
+| name         = Chabelley Airport
+| nativename   = 
+| nativename-a = 
+| nativename-r = 
+| image        =
+| image-width  = 
+| image2       =
+| image2-width = 
+| caption      = 
+| IATA         =
+| ICAO         = HDCH
+| pushpin_map            = Djibouti
+| pushpin_map_caption    = Location of airport in Djibouti
+| pushpin_label          = CBA
+| pushpin_label_position = left
+| type         = Military
+| owner        = 
+| operator     = 
+| city-served  = 
+| location     = [[Chabelley]], [[Djibouti]]
+| elevation-f  = 
+| elevation-m  = 106
+| coordinates  = {{Coord|11|31|N|43|04|E|type:airport_region:DJ|display=inline,title}}
+| website      = 
+| metric-elev  = 
+| metric-rwy   = 
+| r1-number    = 10/28
+| r1-length-f  = 8530
+| r1-length-m  = 2600
+| r1-surface   = [[Asphalt]]
+| stat-year    = 
+| stat1-header = 
+| stat1-data   = 
+| stat2-header = 
+| stat2-data   = 
+| footnotes    = 
+}}
+
+'''Chabelley Airport''' {{airport codes||HDCH}}, also known as the '''Chabelley Airfield''', is an isolated airstrip in [[Chabelley]], located some 6 miles to the southwest of [[Djibouti City]], the capital of [[Djibouti]].&lt;ref&gt;{{GCM|HDCH}}&lt;/ref&gt;
+
+==Military==
+Although it is operated and used by the French military,&lt;ref name="Reut5jan16"&gt;{{cite news |last=Trevithick |first=Joseph |date=5 January 2016 |title=This small airstrip is the future of America’s way of war |url=http://blogs.reuters.com/great-debate/2016/01/05/this-small-airstrip-is-the-future-of-americas-way-of-war/ |newspaper=Reuters |access-date=14 January 2016}}&lt;/ref&gt; in September 2013, it began serving as a temporary base for [[United States Armed Forces|U.S. military]] [[unmanned aircraft]].&lt;ref name="Umdffdsc" /&gt;&lt;ref name="Lcdlesm" /&gt; The move came after the Djiboutian government expressed concern over a number of recent drone mishaps and accidents at the American [[Camp Lemonnier]] Naval Expeditionary Base, which serves as a hub for counterterrorism operations in [[Yemen]] and [[Somalia]]. The Djiboutian authorities consequently asked U.S. officials to relocate the drones to the rarely used Chabelley Airfield.&lt;ref name="Umdffdsc"&gt;{{cite news|first1=Craig|last1=Whitlock|first2=Greg|last2=Miller|title=U.S. moves drone fleet from Camp Lemonnier to ease Djibouti’s safety concerns|url=https://articles.washingtonpost.com/2013-09-24/world/42357265_1_drone-operations-drone-flights-drone-strikes|accessdate=20 November 2013|newspaper=[[Washington Post]]|date=24 September 2013}}&lt;/ref&gt; Thitherto, the Chabelley airstrip had been exclusively reserved in case of need for French military devices.&lt;ref name="Lcdlesm"&gt;{{cite news|title=La Corne de l’Afrique, enjeu stratégique majeur |url=http://www.assajog.com/la-corne-de-lafrique-enjeu-strategique-majeur/ |accessdate=20 November 2013 |newspaper=Assajog |date=17 November 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131120093853/http://www.assajog.com/la-corne-de-lafrique-enjeu-strategique-majeur/ |archivedate=November 20, 2013 |language=fr}}&lt;/ref&gt; The [[United States Air Force|U.S. Air Force’s]] 870th Air Expeditionary Squadron operates from the airfield.&lt;ref name="Reut5jan16" /&gt;
+
+==References==
+{{reflist}}
+
+{{Airports in Djibouti}}
+
+==External links==
+*[https://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=11.516781,43.061363&amp;spn=0.054531,0.129948&amp;z=15 Satellite view of Chabelley Airport]
+
+[[Category:Airports in Djibouti]]
+
+
+{{Djibouti-geo-stub}}
+{{Djibouti-airport-stub}}</text>
+      <sha1>2yhjlovytjxs92dspzo6nrrya5q5rsy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Church of St. Stephen, Donje Nerodimlje</title>
+    <ns>0</ns>
+    <id>49622609</id>
+    <revision>
+      <id>840504946</id>
+      <parentid>840486694</parentid>
+      <timestamp>2018-05-10T09:42:47Z</timestamp>
+      <contributor>
+        <username>Marcocapelle</username>
+        <id>14965160</id>
+      </contributor>
+      <comment>removed parent categories of [[Category:Destroyed churches in Kosovo]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2878">{{Infobox religious building
+|building_name=Church of St. Stephen, Donje Nerodimlje
+&lt;br&gt;Црква Светог Стефана, Доње Неродимље
+|image=
+|caption=Church of St. Stephen
+|location=[[Donje Nerodimlje]], [[Kosovo]]{{ref label|status|a|}}
+|geo=
+|religious_affiliation=[[Serbian Orthodox]]
+|district=
+|consecration_year=14th century
+|status=
+|leadership=
+|website=
+|architect=
+|architecture_type=
+|architecture_style=
+|facade_direction=
+|year_completed=
+|construction_cost=
+|capacity=
+|length=
+|width=
+|width_nave=
+|height_max=
+|dome_quantity=
+|dome_height_outer=
+|dome_height_inner=
+|dome_dia_outer=
+|dome_dia_inner=
+|minaret_quantity=
+|minaret_height=
+|spire_quantity=
+|spire_height=
+|materials=
+}}
+
+'''Church of St. Stephen''' ({{lang-sr|Црква Светог Стефана}} / ''Crkva Svetog Stefana'') was a [[Serbian Orthodox Church|Serbian Orthodox church]] located in [[Donje Nerodimlje]], in the municipality of [[Uroševac]], [[Kosovo and Metohija]]. It belonged to the [[Diocese of Raška and Prizren]] of the [[Serbian Orthodox Church]] and it was destroyed by [[Albanians|Albanian]] extremists in 1999.&lt;ref&gt;[http://www.svetosavlje.org/biblioteka/Zitija/OdKosovaDoJadovna/OdKosovaDoJadovna28.htm Svetosavlje/ Destroyed, burned and looted churches, no.39]&lt;/ref&gt;
+
+== Location ==
+The church dedicated to St. Stephen, dating from the [[14th century]], was located in the valley of the river [[Nerodimka (river)|Nerodimka]], at the cemetery in [[Donje Nerodimlje]], five kilometers west of [[Uroševac]]. The church was rebuilt in 1996.
+After the arrival of the US [[Kosovo Force|KFOR]] forces in 1999, the church was damaged, burned and destroyed by Albanians.&lt;ref&gt;[http://www.rastko.rs/kosovo/raspeto/crkve/cr09.html Raspeto Kosovo]&lt;/ref&gt;
+
+== Gallery ==
+{{Empty section|date=March 2016}}
+
+==Notes==
+{| style="margin-left:13px; line-height:150%"
+|align="right" valign="top"|a.&amp;nbsp;&amp;nbsp;
+|{{note|status}}{{Kosovo-note}}
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://dan-veterana.blogspot.rs/2011/05/blog-post_19.html#.VruwGfnhDIV The list of destroyed and desecrated churches in Kosovo and Metohija June-October 1999 (Списак уништених и оскрнављених цркава на Косову и Метохији јун-октобар 1999)]
+
+{{coord missing|Serbia}}
+
+{{DEFAULTSORT:Church of St. Stephen, Donje Nerodimlje}}
+[[Category:Serbian Orthodox church buildings in Kosovo]]
+[[Category:Medieval Serbian sites in Kosovo]]
+[[Category:Destroyed churches in Kosovo]]
+[[Category:Persecution of Serbs]]
+[[Category:Former Serbian Orthodox churches]]
+[[Category:14th-century Serbian Orthodox church buildings]]
+[[Category:1400 establishments in Europe]]
+[[Category:Religious organizations established in the 1400s]]
+[[Category:Ferizaj]]
+[[Category:Cultural heritage of Kosovo]]
+
+
+{{church-stub}}
+{{Kosovo-stub}}</text>
+      <sha1>treyxqqcply8b6lwil0m4vuevfvih3o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Comoros–North Korea relations</title>
+    <ns>0</ns>
+    <id>47374272</id>
+    <revision>
+      <id>869643016</id>
+      <parentid>824018601</parentid>
+      <timestamp>2018-11-19T21:41:08Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:WikiProject Stub sorting|stub sorting]]: added {{[[Template:Bilateralrelations-stub|Bilateralrelations-stub]]}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4580">{{bilateral|Comoran-North Korean|Comoros|North Korea}}
+
+'''Comoros–North Korea relations''' ({{lang-ko|코모로-조선민주주의인민공화국 관계}}) refers to the [[bilateralism|current and historical relationship]] between the [[Comoros]] and the [[North Korea|Democratic People's Republic of Korea]] (DPRK), commonly known as North Korea. Neither nation maintains an embassy in their respective capitals. Formerly the DPRK had an ambassador stationed in [[Moroni, Comoros|Moroni]].&lt;ref name="Ambassador"&gt;{{cite book |author=&lt;!--Staff writer(s); no by-line.--&gt; |title=North Korea Quarterly |volume=10-13 |publisher=Institute of Asian Affairs |page=5 |date=1977 }}&lt;/ref&gt;
+
+==History==
+Diplomatic relations with North Korea were established soon after the Comoros gained its independence from [[France]] on 6 July 1975, on 13 November later that year.&lt;ref&gt;{{cite web |url=http://www.ncnk.org/resources/publications/NCNK_Issue_Brief_DPRK_Diplomatic_Relations.pdf |title=DPRK Diplomatic Relations |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=2015 |website=www.ncnk.org |publisher=National Committee on North Korea |access-date=29 July 2015 |page=4 }}&lt;/ref&gt; This was during the rule of Prince [[Said Mohamed Jaffar]], who had replaced President [[Ahmed Abdallah]] in a coup only months before. He himself was replaced in January 1976 by  [[Ali Soilih]], a revolutionary [[Islamic socialism|Islamic socialist]] and anti-colonialist. Soilih, in addition to implementing radical reforms, established close connections with many of the [[Cold War]] states in the habit of aiding revolutionary movements. Among these were North Korea, which established an embassy in the Comoros within a year. On 18 January 1977, the first ambassador So Jinyong presented his credentials to Vice President Mohamed Hassan Ali, and made a visit to President Soilih.&lt;ref name="Ambassador"/&gt;
+
+The [[Maoism|Maoist]]-inspired leader, whose [[Red Guards (China)|Red Guard]]-esque militia and other armed forces received training from the left-wing [[Tanzania]]n regime of [[Julius Nyerere]], also received some degree of aid from the North Koreans.&lt;ref&gt;{{cite book |editor-last=Bunge |editor-first=Frederica M.|date=1982 |title=Indian Ocean, five island countries |publisher=[[United States Department of the Army]] |page=179}}&lt;/ref&gt; On 15 March 1978, the North Korean ambassador presented a gift from [[Kim Il-sung]] to President Soilih, in response to which the Comoros expressed its "full support and firm solidarity with the Korean people's struggle" to achieve an independent and peaceful [[Korean reunification]].&lt;ref&gt;{{cite book |author=&lt;!--Staff writer(s); no by-line.--&gt; |title=Summary of World Broadcasts: Far East, Part 3  |location=[[London]] |publisher=[[BBC|British Broadcasting Corporation]] |date=1978}}&lt;/ref&gt;
+
+Only two months after this event Soilih was ousted and killed in a coup by French mercenaries, which reinstalled the former President Ahmed Abdallah. Abdallah's rule was strictly anti-communist, and on 3 December 1983 the Comoros became the only African state to break off diplomatic relations with the DPRK following the [[Rangoon bombing]], when on 9 October that year the North Koreans attempted to assassinate the [[South Korea]]n military ruler [[Chun Doo-hwan]] during a visit to [[Burma]].&lt;ref&gt;{{cite book |last1=Drachkovitch |first1=Milorad M. |last2=Gann |first2=Lewis H. |title=[[Yearbook on International Communist Affairs]] |publisher=[[Hoover Institution]] |page=242 |date=1984 |isbn=0817980318 }}&lt;/ref&gt; For the remainder of his time in office, Abdallah maintained close relations with South Korea, visiting [[Seoul]] in 1987.&lt;ref&gt;{{cite book |author=&lt;!--Staff writer(s); no by-line.--&gt; |volume=16, 1-26 |title=Korea News Review |location=[[Seoul]] |publisher=''[[The Korea Herald]]'' |page=104 |date=1987 }}&lt;/ref&gt; Relations resumed in the 1990s, with the end of Abdallah's government in 1989, replaced by a long series of likewise unstable regimes.&lt;ref&gt;{{cite book |author=&lt;!--Staff writer(s); no by-line.--&gt; |title=Daily Report: East Asia |publisher=[[NewsBank]] |page=81 |date=1996 |volume=18}}&lt;/ref&gt;
+
+==See also==
+
+* [[Foreign relations of the Comoros]]
+* [[Foreign relations of North Korea]]
+* [[China–Comoros relations]]
+
+==References==
+
+{{reflist}}
+
+{{Foreign relations of Comoros}}
+{{Foreign relations of North Korea}}
+
+{{DEFAULTSORT:Comoros-North Korea relations}}
+[[Category:Bilateral relations of the Comoros|North Korea]]
+[[Category:Bilateral relations of North Korea|Comoros]]
+
+
+{{Comoros-stub}}
+{{NorthKorea-stub}}
+{{Bilateralrelations-stub}}</text>
+      <sha1>9l3lrvmvju4l6rka45fz4vq35e7f84k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Count Basic</title>
+    <ns>0</ns>
+    <id>2158939</id>
+    <revision>
+      <id>668381314</id>
+      <parentid>667505814</parentid>
+      <timestamp>2015-06-23T23:51:08Z</timestamp>
+      <contributor>
+        <username>KasparBot</username>
+        <id>24420788</id>
+      </contributor>
+      <comment>embed {{Authority control}} with wikidata information</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="787">'''Count Basic''' are an [[Austria]]n band who play a variety of [[R&amp;B]], [[trip hop]], [[acid jazz]] and [[smooth jazz]]. The band's principal members were guitarist Peter Legat and the two vocalists Kelli Sae and Valerie Etienne but the band decided to go on only with Kelli Sae after the first album.
+
+==Discography==
+
+*1995 ''Life Think It Over''
+*1996 ''The Remix Hit Collection, Vol. 1''
+*1996 ''Movin' in the Right Direction''
+*1997 ''Live''
+*2000 ''[[Trust Your Instincts]]''
+*2002 ''[[BIGGER &amp; BRIGHTER|Bigger &amp; Brighter]]''
+*2007 ''[[Love and Light (Count Basic album)|Love &amp; Light]]''
+
+== External links ==
+*[http://www.countbasic.com/ Count Basic Official Site]
+
+{{Authority control}}
+[[Category:Smooth jazz ensembles]]
+[[Category:Acid jazz ensembles]]
+
+
+{{europe-band-stub}}</text>
+      <sha1>h84a3efwthykm5qjj07b0hbto17gu9q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Czech News Agency</title>
+    <ns>0</ns>
+    <id>27599207</id>
+    <revision>
+      <id>848526397</id>
+      <parentid>837741000</parentid>
+      <timestamp>2018-07-02T13:55:23Z</timestamp>
+      <contributor>
+        <username>Rathfelder</username>
+        <id>398607</id>
+      </contributor>
+      <comment>-[[Category:News agencies]]; ±[[Category:Media in the Czech Republic]]→[[Category:News agencies based in the Czech Republic]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2465">{{Infobox company
+| name             = Czech News Agency
+| image            = CTKlogo.png
+| type             = [[Public service]]
+| foundation       = {{Start date|1993}}
+| location         = [[Prague]], [[Czech Republic]]
+| key_people       =Jiří Majstr&lt;br /&gt;&lt;small&gt;([[General Director]])&lt;/small&gt;
+| industry         = [[News media]] 
+| products         = [[Wire service]]
+| area_served      = Worldwide
+| operating_income =
+| net_income       =
+| num_employees    = 273
+| parent           =
+| subsid           =
+| homepage         = [http://www.ctk.eu ctk.eu]
+| footnotes        =
+}}
+{{Use dmy dates|date=July 2013}}
+The '''Czech News Agency''' ({{lang-cs|Česká tisková kancelář}}), abbreviated to '''ČTK''', is a national [[public service]] [[news agency]] in the [[Czech Republic]].  It publishes in [[Czech language|Czech]], [[Slovak language|Slovak]], and English.
+
+Founded on 28 October 1918, on the same day as [[Czechoslovakia]]'s formation,&lt;ref&gt;{{cite book |title=Czech Republic |last=Edmondson |first=Vlaďka |author2=Short, David |year=1999 |publisher=Clio Press |location=Oxford |isbn=978-1-85109-304-5 |page=342 }}&lt;/ref&gt; the company has been owned by the government and used by the various regimes in the [[Czech lands]] since then. Following the [[Velvet Revolution]] of 1989, the government ceased interfering in editorial decisions. In 1993 the government relinquished control of the agency, which has since been governed by a board of seven people elected by the [[Chamber of Deputies of the Parliament of the Czech Republic|lower house of Parliament]]. Members of the board are not allowed to be politically active.&lt;ref name="www.ctk.eu"&gt;[http://www.ctk.eu/&amp;refer=us www.ctk.eu]{{dead link|date=August 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; The agency's state [[subsidy]] was discontinued in 1996.&lt;ref name="www.ctk.eu"/&gt;
+
+It was renamed from Czechoslovak to Czech News Agency on 1 January 1993 when Czechoslovakia split.&lt;ref name="www.ctk.eu"/&gt; CTK, however, stayed active in the Slovak market. Its former Slovak part is a separate company under a different set-up called TASR [[News Agency of the Slovak Republic]].&lt;ref&gt;[http://www.tasr.sk/30.axd?lang=1033&amp;refer=us www.tasr.sk] {{webarchive|url=https://web.archive.org/web/20110721220951/http://www.tasr.sk/30.axd?lang=1033&amp;refer=us |date=21 July 2011 }}&lt;/ref&gt;
+
+==Footnotes==
+{{reflist}}
+
+[[Category:News agencies based in the Czech Republic]]
+
+
+{{CzechRepublic-stub}}</text>
+      <sha1>abxrpi3k04ckdaakhmnv9z8fkzsgxed</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Date and time notation in Russia</title>
+    <ns>0</ns>
+    <id>53842177</id>
+    <revision>
+      <id>835183174</id>
+      <parentid>819487877</parentid>
+      <timestamp>2018-04-07T02:04:06Z</timestamp>
+      <contributor>
+        <username>Nat965</username>
+        <id>8578365</id>
+      </contributor>
+      <comment>removed underlinked tag.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1568">{{unreferenced|date=April 2017}}
+
+==Date==
+===Present===
+Dates are usually written in "day month year" (DMY) order. This order is used in both the all-numeric date (for example "{{lang|ru|28.08.17}}") and the expanded form (for example "{{lang|ru|28 августа 2017 г.}}"). Single-digit numbers for day or month may have a preceding nought (for example "{{lang|ru|28.08.2017}}"), but omitting it (for example "{{lang|ru|28.8.2017}}") is more usual.
+
+When saying the date, it is usually pronounced using the ordinal number of the day first, then the month (for example "{{lang|ru|Двадцать восьмое августа}}").
+
+===Historical===
+
+Russia used the [[Byzantine calendar]] up to 1700, the [[Julian calendar]] between 1700 and 1918, and the [[Gregorian calendar]] since 1918.  Until the final years of [[Peter the Great]] in the early 1720s, Russia used [[Cyrillic numerals]] to denote dates on coins.  Thus, for example, СИ (208) denoted 7208 [[Anno Domini|AM]] (September 1, 1699 through August 31, 1700 [[Old Style and New Style dates|OS]]) and ҂АѰ (1700) denoted [[Anno Domini|AD]] 1700 OS.
+
+==Time==
+The [[12-hour clock|12-hour notation]] is often used in the spoken language. The [[24-hour clock|24-hour notation]] is used in writing, with a colon as the standardised and recommended separator (e.g. “{{lang|ru|9:07}}”).
+
+{{Europe topic|Date and time notation in}}
+{{Asia topic|Date and time notation in}}
+
+[[Category:Time in Russia]]
+[[Category:Date and time representation by country|Russia]]
+
+
+{{Russia-stub}}
+{{measurement-stub}}</text>
+      <sha1>rl8cegbyfy4t3qiolg6gm0yqr5l9xua</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dieser Traum darf niemals sterben</title>
+    <ns>0</ns>
+    <id>6272555</id>
+    <revision>
+      <id>829273641</id>
+      <parentid>686308215</parentid>
+      <timestamp>2018-03-07T17:10:11Z</timestamp>
+      <contributor>
+        <username>Entranced98</username>
+        <id>27199084</id>
+      </contributor>
+      <comment>+navbox</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2760">{{Infobox song contest entry
+| song         = {{flagicon|Germany}} "Dieser Traum darf niemals sterben"
+| image        =
+| caption      =
+| year         = 1991
+| country      = Germany
+| artist       = Alfons Weindorf,&lt;br&gt;Jutta Niedhardt,&lt;br&gt;Helmut Frey,&lt;br&gt;Eberhard Wilhelm,&lt;br&gt;Klaus Pröpper,&lt;br&gt;Clemens Weindorf
+| as           = Atlantis 2000
+| with         =
+| language     = German
+| languages    =
+| composer     = Helmut Frey
+| lyricist     = Alfons Weindorf
+| conductor    = Herman Weindorf
+| place        = 18th
+| points       = 10
+| lyrics       = [http://www.diggiloo.net/?1991de from Diggiloo Thrush]
+| prev         = Frei zu leben
+| prev_link    = Frei zu leben
+| next         = Träume sind für alle da
+| next_link    = Träume sind für alle da
+}}
+'''"Dieser Traum darf niemals sterben"''' ("This dream must never die") was the [[Germany|German]] entry in the [[Eurovision Song Contest 1991]], performed in [[German language|German]] by [[Atlantis 2000]]. The song was selected to represent Germany by [[televoting]].&lt;ref&gt;"[http://knockknockeurosongs.blogspot.se/2010/09/germany-1991.html Germany 1991]", Knock Knock Eurosongs, 8 September 2010. Retrieved 24 April 2012.&lt;/ref&gt;{{Citation needed|date=February 2011|reason=Better source needed}}
+
+The song was performed seventeenth on the night (following [[Finland]]'s [[Kaija]] with "[[Hullu yö]]" and preceding [[Belgium]]'s [[Clouseau (band)|Clouseau]] with "[[Geef het op]]"). At the close of voting, it had received 10 points, placing 18th in a field of 22.
+
+The song is a dramatic ballad, with the band singing that humanity must learn to overcome its propensity towards hate in order to achieve unity. "This dream", they sing, "must never die". Atlantis 2000 also recorded an English version of the song, entitled "Never Ending Dream".
+
+It was succeeded as [[Germany in the Eurovision Song Contest|German representative]] at the [[Eurovision Song Contest 1992|1992 Contest]] by [[Wind (band)|Wind]] with "[[Träume sind für alle da]]".
+
+== References ==
+&lt;references/&gt;
+
+== External links ==
+* [http://www.eurovision.tv/page/history/by-year/contest?event=307 Official Eurovision Song Contest site, history by year]
+* [http://www.diggiloo.net/?1991de Detailed info &amp; lyrics, Diggiloo Thrush]
+{{s-start}}
+{{succession box
+| before="[[Frei zu leben]]"&lt;br&gt;by [[Chris Kempers]] and [[Daniel Kovac]]
+| title=[[Germany in the Eurovision Song Contest]]
+| years=[[Eurovision Song Contest 1991|1991]]
+| after="[[Träume sind für alle da]]"&lt;br&gt;by [[Wind (band)|Wind]]
+}}
+{{s-end}}
+
+{{Germany in the Eurovision Song Contest}}
+{{Eurovision Song Contest 1991}}
+
+[[Category:Eurovision songs of Germany]]
+[[Category:Eurovision songs of 1991]]
+[[Category:1991 songs]]
+
+
+{{germany-stub}}
+{{1990s-song-stub}}</text>
+      <sha1>s8wbftjmvrrppma6yqvu6850pyzc9m5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Egypt Defence Expo</title>
+    <ns>0</ns>
+    <id>56043447</id>
+    <revision>
+      <id>846433624</id>
+      <parentid>845470203</parentid>
+      <timestamp>2018-06-18T19:22:23Z</timestamp>
+      <contributor>
+        <username>Jmertel23</username>
+        <id>32942831</id>
+      </contributor>
+      <comment>Added {{[[:Template:advert|advert]]}} tag to article ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3296">{{advert|date=June 2018}}
+{{Orphan|date=June 2018}}
+
+{{Infobox Convention
+|name       = Egypt Defence Expo (EDEX)
+|logo      = EDEX 2018 logo.jpg
+|logo_size=200px
+|logo_caption    =
+|genre      = Defense
+|venue      = Egypt International Exhibition Center
+|location   = [[New Cairo]]
+|country    = Egypt
+|first      = 3 December 2018
+|last       = 
+|organized  = [[Clarion Events]] in coordination with the [[Egyptian Armed Forces]] 
+|attendance = Nearly 10,000 (expected)
+|website    = [http://www.egyptdefenceexpo.com/ egyptdefenceexpo.com]
+}}
+
+The '''Egypt Defence Expo''', or '''EDEX''', is the first international defence exhibition in Egypt, covering air, land and sea weapons technologies. The business is set to conduct at the 2018 EDEX at the [[Egypt International Exhibition Center]] in the city of [[New Cairo]]. The exhibition will be held every two years, Egypt plans to make EDEX the number one event in the Middle East region.&lt;ref&gt;{{cite news|url=http://english.ahram.org.eg/NewsContent/1/64/285222/Egypt/Politics-/Egypts-military-to-hold-first-defense,-security-ex.aspx|title=Egypt's military to hold first defense, security exhibition in December 2018|author=|date=12 December 2017|accessdate=}}&lt;/ref&gt;
+
+==Announcement==
+
+During a press conference in Cairo in December 2017, the Egyptian Armed Forces announced that Egypt will host a major international defence exhibition in 2018, under the name of Egypt Defence Expo (EDEX), bringing together key defence and security players from the region and across the world. The event will also offer the Egyptian companies a platform to showcase their military hardware and services to other world militaries.&lt;ref&gt;{{cite news|url=https://www.armyrecognition.com/edex_2018_news_show_daily/edex_new_defence_expo_exhibition_in_egypt_for_december_2018.html|title=EDEX New Defence EXpo Exhibition in Egypt for December 2018|author=|date=13 December 2017|accessdate=}}&lt;/ref&gt;
+
+The exhibition is being organised by [[Clarion Events]] Defence and Security, in cooperation with the Egyptian Armed Forces which will provide all the necessary facilities to ensure its success.
+
+==Venue==
+
+The event is set to take place at the new [[Egypt International Exhibition Center]] established in [[New Cairo]] by the Armed Forces in December 2017. It is considered the largest international exhibition center in Egypt covering an area of 311,000 square meters. The facilities are built on 23% of the overall area.&lt;ref&gt;{{cite news|url=https://www.egypttoday.com/Article/1/35106/Armed-Forces-established-largest-int-l-exhibition-center-in-New|title=Armed Forces established largest int'l exhibition center in New Cairo|author=|date=2 December 2017|accessdate=}}&lt;/ref&gt;
+
+==EDEX 2018==
+Egypt Defence Expo 2018 will be held on 3–5 December 2018. Over 300 international defence and security manufacturers are expected to take part as exhibitors, and over 10,000 visitors are expected to attend the exhibition across three days. The exhibition will also feature a conference program and a fully hosted international military VIP Delegation Programme.
+
+==References==
+{{Reflist}}
+
+[[Category:Trade fairs in Egypt]]
+[[Category:Arms fairs]]
+[[Category:Military industry]]
+[[Category:Events in Egypt]]
+[[Category:Exhibitions]]
+[[Category:Egypt stubs]]
+
+
+{{Egypt-stub}}</text>
+      <sha1>t8gta6f1n315fc6mq4qjhoiljsyjnkf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>European route E762</title>
+    <ns>0</ns>
+    <id>6930411</id>
+    <revision>
+      <id>788225113</id>
+      <parentid>742097125</parentid>
+      <timestamp>2017-06-30T06:33:14Z</timestamp>
+      <contributor>
+        <username>Requiem mn</username>
+        <id>2815340</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1283">{{Infobox road
+| country = EUR
+| type    = E
+| route   = 762
+| length_km = 382
+| map        = 
+| map_alot   = 
+| direction_a = North
+| terminus_a = [[Sarajevo]]
+| junction   = [[Nikšić]],&lt;br&gt;[[Podgorica]],&lt;br&gt;[[Shkodër]]
+| direction_b = South
+| terminus_b = [[Tirana]]
+| countries  = [[Bosnia and Herzegovina]],&lt;br&gt;[[Montenegro]],&lt;br&gt;[[Albania]]
+}}
+
+'''European route E&amp;nbsp;762''' is a road part of the [[International E-road network]]. It begins in [[Sarajevo]], [[Bosnia and Herzegovina]], [[Montenegro]] and ends in [[Albania]].
+
+== Route ==
+* {{flag|Bosnia and Herzegovina}}
+** {{jct|country=EUR|E|761}} [[Sarajevo]]
+** [[Foča]]
+* {{flag|Montenegro}}
+** [[Plužine]]
+** [[Nikšić]]
+** {{jct|country=EUR|E|65|E|80}} [[Podgorica]]
+* {{flag|Albania}}
+** {{jct|country=EUR|E|851}} [[Shkodër]] 
+** {{jct|country=EUR|E|851}} [[Lezhë]]
+** [[Tirana]]
+
+==External links==
+* [http://www.unece.org/trans/conventn/MapAGR2007.pdf Map of E-road]
+* [http://www.elbruz.org/eroads/E762.htm International E-road network]
+{{E-road}}
+
+{{DEFAULTSORT:European Route E762}}
+[[Category:International E-road network|799762]]
+[[Category:Roads in Albania|E762]]
+[[Category:Roads in Bosnia and Herzegovina|E762]]
+[[Category:Roads in Montenegro|E762]]
+
+{{Europe-road-stub}}
+{{Albania-transport-stub}}</text>
+      <sha1>2y4lrm11ao6ium3jf0lreu489pz6j1p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ezana Stone</title>
+    <ns>0</ns>
+    <id>6007266</id>
+    <revision>
+      <id>847947781</id>
+      <parentid>846426434</parentid>
+      <timestamp>2018-06-28T21:20:23Z</timestamp>
+      <contributor>
+        <username>Daask</username>
+        <id>24247980</id>
+      </contributor>
+      <comment>removed [[Category:Ge'ez language]]; added [[Category:Texts in Ge'ez]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2589">{{Infobox monument
+| name          = Ezana Stone
+| native_name   = 
+| image         = EzanaGreekTablet.jpg
+| caption       = The Ezana Stone
+| location      = [[Kingdom of Aksum]]
+| type          = [[stele]]
+| material      = 
+| length        = 
+| width         = 
+| height        = 
+| begin         = 
+| complete      = 
+| dedicated_to  = King [[Ezana of Axum|Ezana]]
+| map_image     = 
+| map_text      = 
+| map_width     = 
+| coordinates   = 
+| website       =
+}}
+
+The '''Ezana Stone''' is a [[stele]] from the ancient [[Kingdom of Aksum]]. The [[Aksumite architecture|stone monument]] documents the conversion of [[Ezana of Axum|King Ezana]] to [[Christianity]] and his conquest of various neighboring areas, including [[Meroë]].
+
+From AD 330 to 356, King Ezana ruled the ancient Kingdom of Aksum centered in the [[Horn of Africa]]. He fought against the [[Nubians]], and commemorated his victories on stone tablets in praise of [[God]]. These liturgical epigraphs were written in various ancient languages, including the Ethiopian Semitic [[Ge'ez language|Ge'ez]], the South Arabian [[Sabaean language|Sabaean]], and [[Ancient Greek|Greek]]. The king's [[engraving]]s in stone provided a trilingual monument in different languages, similar to the [[Rosetta stone]].
+
+The [[Ethiopian Orthodox Tewahedo Church]] had its beginnings during this period. [[Tyrannius Rufinus|Rufinus]]'s ''Ecclesiastical History'' narrates that [[Saint Frumentius]], a slave and tutor for the very young King, converted him to [[Christianity]]. Towards the end of his reign, King Ezana launched a campaign against the [[Cush (Bible)|Kushites]] around 350 which brought down the [[Kingdom of Kush]]. Various stone inscriptions written in Ge'ez (using the [[Ge'ez alphabet|Ge'ez script]]) have been found at Meroë, the central city of the Kushites.
+
+==See also==
+*[[King Ezana's Stele]]
+*[[Obelisk of Axum]]
+
+==References==
+&lt;references/&gt;
+
+==External links==
+*[http://www7.nationalgeographic.com/ngm/data/2001/07/01/html/ft_20010701.fulltext.6.html National Geographic article]
+*[http://www.tertullian.org/fathers/harden_ethiopic_literature.htm Harden, J. M., "An introduction to Ethiopic Christian Literature" (1926)] Chapter II, "Brief Historical Sketch of the Country and Church", contains a discussion of this inscription
+
+{{coord|14|7|26.8|N|38|43|30.6|E|display=title}}
+
+[[Category:4th-century artefacts]]
+[[Category:Texts in Ge'ez]]
+[[Category:Greek inscriptions]]
+[[Category:Multilingual texts]]
+[[Category:Axumite steles]]
+[[Category:Axum (city)]]
+
+
+{{Ethiopia-hist-stub}}
+{{Africa-archaeology-stub}}</text>
+      <sha1>be3ghfku3ld00t9qwbr21qunlsbreze</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fibre satellite distribution</title>
+    <ns>0</ns>
+    <id>25803983</id>
+    <revision>
+      <id>812712718</id>
+      <parentid>812711875</parentid>
+      <timestamp>2017-11-29T12:41:55Z</timestamp>
+      <contributor>
+        <username>Satbuff</username>
+        <id>6699660</id>
+      </contributor>
+      <comment>updated reference links</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9403">[[Image:fibreLNB.jpg|thumb|right |An optical output LNB showing both the fibre connection (right) and the electrical connection for power]]
+[[Image:Optical fibre.jpg|thumb|right |Close-up of fibre optic cable stripped back to show the six layers of construction - the fibre at the centre surrounded by the core, a buffer layer, wound steel armour, [[Kevlar]] strands, and the PVC jacket]]
+'''Fibre satellite distribution''' is a technology that enables [[satellite TV]] signals from an [[Antenna (radio)|antenna]] to be distributed using an [[optical fibre]] cable infrastructure and then converted to electrical signals for use with conventional [[set-top box]] receivers.
+
+Particularly applicable to satellite TV distribution systems in a [[Multi-family residential|multi-dwelling unit]], such as a block of flats (but useful in smaller domestic distribution systems too), such a hybrid fibre/electrical system reduces the cabling required, reduces signal noise and interference, and provides for an easy upgrade to increase the number of [[Tuner (television)|tuners]] connected at each dwelling.&lt;ref&gt;"[http://www.yateley.net/SatByF/contents/en-uk/SatPro.pdf Giving co-ax the axe]" ''What Satellite &amp; Digital TV'' (April, 2009) p130-131&lt;/ref&gt;
+
+Conventional systems that distribute the electrical satellite [[Intermediate frequency|IF]] signal via a star network of [[coaxial cable]] require one relatively short cable run from the central distribution equipment to each tuner connected to the system, whereas in a fibre system, cables can be very long, and split at successive locations, in a tree structure without detriment to the reception.
+
+==Advantages==
+The primary benefit of using optical fibre for a satellite TV IF distribution system is that the fibre can carry the entire received spectrum on one cable, which can then be split to provide for multiple tuners, without requiring a separate feed from the antenna to each tuner. Additional outlets can be added to increase the number of receivers within one home without accessing the central antenna or main infrastructure.
+
+Fibre cable is cheap in long runs, retailing at about twice the price of equivalent copper coaxial cable, but replacing four runs of coaxial cable with a single fibre cable.
+It is also much smaller than the coaxial signal cable used for electrical IF distribution, but robust and flexible. The losses in a fibre system are almost negligible so very long cable runs of hundreds of metres are possible without any signal reinforcement.
+
+Because the signal is carried as a beam of light, it is impervious to the electrical interference that even the best coaxial satellite cable may suffer, and cables can be safely and conveniently run alongside mains power cables. Power consumption is also lower than an equivalent electrical system.&lt;ref&gt;{{cite web
+ |url         = http://www.triax.co.uk/Products/Fibre%20Optic%20Solutions.aspx
+ |title       = Fibre Optic Solutions
+ |publisher   = Triax
+ |accessdate  = January 13, 2010
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20100411061443/http://www.triax.co.uk/Products/Fibre%20Optic%20Solutions.aspx
+ |archivedate = April 11, 2010
+ |df          = 
+}}&lt;/ref&gt;
+&lt;ref&gt;[http://www.triax.uk/media/com_redshopb/documents/originals/products/19801-19900/gb-triax-fibre-optic-sat-05-207-19849.pdf ''SAT Fibre Optics''] Triax. May 2016 Retrieved October 27, 2017&lt;/ref&gt;
+&lt;ref&gt;[http://www.tele-satellite.com/TELE-satellite-0909/eng/gi.pdf ''Global Invacom Optical LNB: The Satellite Reception Revolution''] Tele-Satellite August 2009 Retrieved December 31, 2016&lt;/ref&gt;
+
+==Development==
+[[Image:fibreSplitter.jpg|thumb|right |An eight-way optical signal splitter to feed eight virtual LNBs or further splitters from a single optical feed]]
+While optical fibre has been used for telephone and Internet backbone data, and even for television and multimedia carriage for terrestrial cable, for many years, use for satellite IF distribution has been held back by considerations of cost and installation convenience.
+
+However, since about 2007, UK company, Global Invacom (which also markets domestic and communal satellite reception and distribution equipment, including SCR [[single cable distribution]] equipment) has developed a low cost standardised system of optical fibre distribution suitable for domestic installations and small or medium commercial communal dish systems.&lt;ref&gt;{{cite web |url=http://globalinvacom.com/products/fibremdu-virtual-converters.php |title=Fibre optic distribution products information |publisher= Global Invacom | accessdate=January 13, 2010 }}&lt;/ref&gt;
+
+The development was assisted by [[Astra (satellites)|Astra]] satellite operator [[SES S.A.|SES]] both with advice and financial support in the form of the prize for the Astra Innovation Contest run by Astra in 2007, which Global Invacom won for the proposal and initial development of optical fibre distribution systems for satellite TV.&lt;ref&gt;{{cite press release |publisher=SES ASTRA |date=September 28, 2007 |url=http://nl.ses.com/4233325/news/2007/4434481|title= Global Communications, Invacom, And Era Technology Winners of the SES ASTRA Innovation Contest |accessdate = January 26, 2012}}&lt;/ref&gt;
+
+== How it works ==
+[[Image:fibreConverter.jpg|thumb|right |A virtual LNB with four electrical outputs for four tuners]]
+The complete spectrum of Ku-band satellite reception stretches from 10.70&amp;nbsp;GHz-12.75&amp;nbsp;GHz across two signal [[Polarization (waves)|polarisations]], or a [[Bandwidth (signal processing)|bandwidth]] of about 4000&amp;nbsp;MHz. This cannot be carried on a single coaxial cable and so in a conventional satellite reception system, just one of four sub-bands (received in vertical and horizontal polarization, and high and low frequency,) is sent from the antenna to the indoor receiver as 0.95&amp;nbsp;GHz-2.15&amp;nbsp;GHz IF. Which sub-band is required is signalled from the receiver to the antenna’s LNB by a 13/18V and 0/22&amp;nbsp;kHz tone on the LNB supply sent up the same coaxial cable. In a single antenna distribution system, special quattro LNB supplies all four sub-bands at once, from four outputs and these are supplied as required to each of the multiple outlets connected to an IF [[multiswitch]].&lt;ref&gt;Bains, Geoff. "Installing Home IF Distribution" ''What Satellite &amp; Digital TV'' (June, 2007) p47-51&lt;/ref&gt;
+
+In an optical fibre system at the LNB the four sub-bands are "stacked" in frequency, one above the other, at 0.95&amp;nbsp;GHz-3.0&amp;nbsp;GHz (the whole frequency range received in vertical polarisation) and 3.4&amp;nbsp;GHz-5.45&amp;nbsp;GHz (horizontal polarisation) and transmitted together as a modulated optical signal down the fibre cable using a 1310&amp;nbsp;nm [[semiconductor laser]].
+
+The losses in the cable are extremely small (in the region of 0.3dB/km) and the Global Invacom optical LNB output can be split up to 32 ways with a cable length of up to 10&amp;nbsp;km between the LNB and the receiver.
+
+At, or near, the receiver, the optical signal is converted back to the traditional electrical signal with a virtual multiswitch, providing one or more outputs that “appear” to the receiver as a conventional LNB.&lt;ref&gt;{{cite web |url= http://www.globalinvacom.com/products/fibreopticlnb2.php
+ |title= FibreMDU Optical LNB |publisher= Global Invacom | accessdate=January 12, 2010 }}&lt;/ref&gt;
+
+==Practical considerations==
+[[Image:fibreCable.jpg|thumb|right |A 1m optical fibre cable with fitted connectors for other fibre distribution equipment]]
+Although the hybrid optical fibre/electrical system provides many advantages over electrical IF distribution to widespread or complex systems, it also requires a new approach by installers familiar only with electrical installations.
+
+The single mode fibre cables use an 8μm fibre armoured with a steel wrap and Kevlar strands inside a plastic jacket. Fibre cable cannot be easily joined (an expensive [[fusion splicer]] is required for reliable joints) but pre-made cables with FC type screw-on [[Optical fibre connector|connectors]] (mechanically similar in use, but smaller, to the F-connectors used for electrical satellite IF) are available in lengths from 1m to 100m. The same connectors are used on all the optical components of a system, including the optical LNB, splitters, cable joiners, virtual LNB units, etc.
+
+The cables must be properly prepared (the end of the fibre itself cleaned) before connections are made and provision must be made to attenuate the LNB signal, to avoid overloading the receiver, if it is not split between receivers as there is so little attenuation inherent in the cable.
+
+The optical LNB requires two cables connected – the fibre signal cable and a separate F-connector cable to supply the 12V supply to power the LNB electronics. If the installation is a conversion from an electrical system to fibre, an existing redundant coaxial signal cable can be used for the power supply.
+
+==See also==
+*[[SES S.A.|SES]] 
+*[[Astra (satellites)|Astra]] 
+* [[Satellite television]]
+* [[Satellite dish]]
+* [[Microwave antenna]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.onastra.com Official Astra consumers/viewers' site]
+*[http://www.ses.com/ Official SES trade/industry site]
+*[http://globalinvacom.com Global Invacom]
+
+{{DEFAULTSORT:Fibre Satellite Distribution}}
+[[Category:Broadcasting]]
+[[Category:Television technology]]
+[[Category:Satellite television]]</text>
+      <sha1>lo31eao2e1bvux1c7rczern4vxx4vh5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fjernsynsteatret</title>
+    <ns>0</ns>
+    <id>22476069</id>
+    <revision>
+      <id>784811147</id>
+      <parentid>622474547</parentid>
+      <timestamp>2017-06-10T06:13:03Z</timestamp>
+      <contributor>
+        <username>Eumolpo</username>
+        <id>7953109</id>
+      </contributor>
+      <minor/>
+      <comment>orthographic</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2221">'''Fjernsynsteatret''' was a department of the [[Norwegian Broadcasting Corporation]] (NRK) which produced plays for television broadcasting. It opened in 1960 (after about a year of experimental operation), and operated until 1990, when a major reorganisation of NRK took place.&lt;ref name=snl-ft&gt;{{cite encyclopedia |year=2007 |title=Fjernsynsteatret |encyclopedia=[[Store norske leksikon]] |first=Svend Erik Løken |last=Larsen |publisher=Kunnskapsforlaget |location=Oslo  |url=http://www.snl.no/Fjernsynsteatret |language=Norwegian | accessdate=19 April 2009 }}&lt;/ref&gt;
+
+Its first leader was [[Arild Brinchmann]], who headed the theatre from its start until 1967.&lt;ref name=snl-ft/&gt;&lt;ref name=ab&gt;{{cite encyclopedia |year=2007 |title=Arild Brinchmann |encyclopedia=Store norske leksikon |publisher=Kunnskapsforlaget |location=Oslo |url=http://www.snl.no/Arild_Brinchmann |language=Norwegian | accessdate=19 April 2009 }}&lt;/ref&gt;  Later directors were [[Tore Breda Thoresen]] from 1967 to 1980,&lt;ref name=tbt&gt;{{cite encyclopedia |year=2007 |title=Tore Breda Thoresen |encyclopedia=Store norske leksikon |publisher=Kunnskapsforlaget |location=Oslo |url=http://www.snl.no/Tore_Breda_Thoresen |language=Norwegian | accessdate=19 April 2009 }}&lt;/ref&gt;  and [[Magne Bleness]] from 1980 to 1990.&lt;ref name=snl-ft/&gt;&lt;ref name=mb&gt;{{cite encyclopedia |year=2007 |title=Magne Bleness |encyclopedia=Store norske leksikon |publisher=Kunnskapsforlaget |location=Oslo |url=http://www.snl.no/Magne_Bleness |language=Norwegian | accessdate=19 April 2009 }}&lt;/ref&gt;
+
+Fjernsynsteatret's first production was a play by [[Peter Brook]], shown 8 April 1959. The first years the theatre developed between twenty and twenty-five productions annually, and the performances were broadcast directly. Later developments saw a merge between theatre and film, the productions became more expensive, and the number of productions decreased significantly.&lt;ref name=snl-ft/&gt;
+
+The theatre was replaced by ''NRK Drama'' in 1990.&lt;ref name=snl-ft/&gt;
+
+==References==
+{{reflist}}
+
+{{coord missing|Norway}}
+
+[[Category:Theatres in Norway]]
+[[Category:1960 establishments in Norway]]
+[[Category:Norwegian Broadcasting Corporation]]
+
+
+{{Europe-theat-stub}}
+{{norway-tv-stub}}</text>
+      <sha1>ku817n6czn7yr4xja1xv36q265hh7eu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gibraltar: Britain in the Sun</title>
+    <ns>0</ns>
+    <id>39995071</id>
+    <revision>
+      <id>766425983</id>
+      <parentid>708138384</parentid>
+      <timestamp>2017-02-20T03:48:09Z</timestamp>
+      <contributor>
+        <username>Bearcat</username>
+        <id>24902</id>
+      </contributor>
+      <comment>removed [[Category:Documentary television]]; added [[Category:British documentary television series]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2305">{{Use dmy dates|date=April 2014}}
+{{Use British English|date=April 2014}}
+{{unreferenced|date=July 2013}}
+
+{{Infobox television
+| show_name            = Gibraltar: Britain in the Sun
+| show_name_2          = 
+| image                = Gibralter, Britain in the Sun titlecard.jpg
+| alt                  = Series title over an image of Gibraltar and the union flag
+| caption              = 
+| genre                = Docu-Soap, Fly-on-the-wall
+| runtime              = 43-45 minutes
+| creator              = 
+| developer            =
+| producer             = 
+| executive_producer   = 
+| starring             = 
+| narrated             = [[Timothy Spall]]
+| composer             = 
+| country              = United Kingdom
+| location             = [[Gibraltar]]
+| language             = English
+| network              = [[Channel 5 (UK)|Channel 5]]
+| first_aired          = {{Start date|2013|6|11|df=y}}
+| last_aired           = Present
+| num_series           = 3
+| num_episodes         = 15
+| list_episodes        = 
+| preceded_by          = 
+| website              = http://www.channel5.com/shows/gibraltar-britain-in-the-sun
+| website_title        = Channel 5 website
+}}
+
+'''Gibraltar: Britain in the Sun''' is a [[United Kingdom|British]] documentary broadcast on [[Channel 5 (UK)|Channel 5]] in the United Kingdom. It first broadcast on 11 June 2013 and series one ended on 16 July 2013. The programme experienced higher than average and expected ratings, peaking just below 1.90 million viewers on most episodes. It returned for a second series which began on 7 January 2014, and the series finished 11 February 2014. The third series began on 5 November 2014.
+
+==Summary==
+The programme follows the lives of many British [[expatriate]]s who now reside in the territory and some Gibraltarians. Filming took place in June 2012, when [[Gibraltar Airport]]'s new terminal was officially opened by [[Prince Edward, Earl of Wessex]] and [[Sophie, Countess of Wessex]]. The opening was seen on the programme however the Royal visit was not.
+
+[[Category:2013 British television programme debuts]]
+[[Category:British documentary television series]]
+[[Category:Channel 5 (UK) television programmes]]
+[[Category:Media in Gibraltar]]
+[[Category:Television series about Gibraltar]]
+
+
+{{Gibraltar-stub}}
+{{UK-TV-stub}}</text>
+      <sha1>j5bg1fzxdya969syb8zu5kt2bx0q4wd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grinlandia</title>
+    <ns>0</ns>
+    <id>2374842</id>
+    <revision>
+      <id>715361067</id>
+      <parentid>609577867</parentid>
+      <timestamp>2016-04-15T09:12:43Z</timestamp>
+      <contributor>
+        <username>Hebrides</username>
+        <id>1264145</id>
+      </contributor>
+      <comment>fill out references, harmonise accessdate format per [[MOS:DATEUNIFY]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1748">'''Grinlandia''' ({{lang-ru|Гринландия}}) is the [[fantasy world]] where most of the novels and short stories of [[Alexander Grin]] take place. The name of the country is never mentioned by the author himself, and the name Grinlandia was suggested in 1934 by literary critic [[Korneliy Zelinsky]] &lt;ref&gt;Зелинский К. Жизнь и творчество А. С. Грина. // Грин А. С. Фантастические новеллы. — М., 1934&lt;/ref&gt;&lt;ref&gt;[http://22-91.ru/etot-den-v-istorii-sssr/737/strana-grinlandija Страна Гринландия] (retrieved Feb. 24, 2013)&lt;/ref&gt; and adopted by Grin's fans since then.
+
+The [[Alexander Grin museum (Theodosia)|Alexander Grin museum]] in [[Feodosia|Theodosia]] contains the reconstructed map of the land.&lt;ref name="kimmeria"&gt;{{cite web|url=http://www.kimmeria.com/kimmeria/feodosiya/museum_grin_land.htm|title=Страна ГринЛандия - музей Александра Грина|publisher=kimmeria.com|accessdate=2016-04-15}}&lt;/ref&gt;&lt;ref name="narod"&gt;{{cite web|url=http://grinlandia.narod.ru/map/map.htm |title=Карта Гринландии &amp;#124; Map of Grinlandia |publisher=grinlandia.narod.ru|accessdate=2016-04-15}}&lt;/ref&gt;
+
+It is a land by the ocean, apparently far from Europe (as some characters speak about "sailing to Europe") but populated by people with vaguely Western European names and appearance.
+
+The language spoken in Grinlandia is also never identified (though the novels themselves are written in Russian). There are several cities ([[Liss (Grinlandia)|Liss]], [[Zurbagan]], [[San Riole]], etc.) mentioned in several of the novels, but none of them are identified as a capital.
+
+==References==
+{{reflist}}
+
+[[Category:Fictional countries]]</text>
+      <sha1>hcokcz5pvhduw41w8r76t2ctb1i7o04</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Highway 7 (Iraq)</title>
+    <ns>0</ns>
+    <id>21477248</id>
+    <revision>
+      <id>767535080</id>
+      <parentid>663458014</parentid>
+      <timestamp>2017-02-26T13:44:51Z</timestamp>
+      <contributor>
+        <username>Fredddie</username>
+        <id>221304</id>
+      </contributor>
+      <comment>cleanup infobox</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="430">{{Infobox road
+|country= IRQ
+|type= Highway
+|route=7
+|alternate_name=
+|image=
+|length_km=
+|length_round=1
+|established= 
+|previous_type=NH
+|previous_route=
+|next_type=
+|next_route=
+}}
+'''Highway 7''' is an [[Iraq]]i highway which extends from [[Al Kut]], through [[Ash Shatrah]], to [[Nasiriyah]].
+
+{{IraqHighways}}
+
+{{coord missing|Iraq}}
+
+[[Category:Roads in Iraq]]
+
+
+{{Iraq-geo-stub}}
+{{Asia-road-stub}}
+{{Iraq-transport-stub}}</text>
+      <sha1>mlbx3vcuz7hmzf6bx73gs4u12km8s5l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hungarian parliamentary election, 1865</title>
+    <ns>0</ns>
+    <id>37307291</id>
+    <revision>
+      <id>834563437</id>
+      <parentid>834563337</parentid>
+      <timestamp>2018-04-06T12:07:01Z</timestamp>
+      <contributor>
+        <username>Wiki-wuki</username>
+        <id>29410553</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5635">{{unreferenced|date=October 2012}}
+{{Infobox Election
+| election_name      = Hungarian parliamentary election, 1865
+| country            = Kingdom of Hungary (1526–1867)
+| type               = parliamentary
+| ongoing            = no
+| previous_election  = Hungarian parliamentary election, 1861
+| previous_year      = 1861
+| previous_MPs       =
+| next_election      = Hungarian parliamentary election, 1869
+| next_year          = 1869
+| seats_for_election = All 315 seats in the [[Diet of Hungary|Diet]] 
+| majority_seats     = 158
+| election_date      = 10 November – 11 December 1865
+| turnout            = 
+
+| image1         = [[File:Szekely-deak.jpg|150x150px]]
+| leader1        = [[Ferenc Deák]]
+| party1         = [[Deák Party]]
+| leader_since1  = 
+| last_election1 = 
+| seats_before1  = 
+| seats1         = 180
+| popular_vote1  = 
+| percentage1    = 57.14%
+| swing1         = 
+| seat_change1   = 
+
+| image2         = [[File:Ghyczy Kálmán.jpg|150x150px]]
+| leader2        = [[Kálmán Ghyczy]]
+| party2         = [[Left Centre]]
+| color2         = 
+| leader_since2  = 
+| last_election2 = 
+| seats_before2  = 
+| seats2         = 94
+| popular_vote2  = 
+| percentage2    = 29.84%
+| swing2         = 
+| seat_change2   = 
+
+| image3         = [[File:Barabás dessewffy emil.jpg|150x150px]]
+| leader3        = [[Emil Dessewffy]]
+| party3         = [[Conservative Party (Hungary)|Conservative Party]]
+| color3         = 
+| leader_since3  = 
+| last_election3 = 
+| seats_before3  = 
+| seats3         = 21
+| popular_vote3  = 
+| percentage3    = 6.67%
+| swing3         = 
+| seat_change3   = 
+
+| image4         = 
+| leader4        = –
+| party4         = [[Far-Left (Hungary)|Far-Left]]
+| color4         = 
+| leader_since4  = 
+| last_election4 = 
+| seats_before4  = 
+| seats4         = 20
+| popular_vote4  = 
+| percentage4    = 6.35%
+| swing4         = 
+| seat_change4   = 
+
+| map_image       =
+| map_size        =
+| map_caption     =
+| title           = 
+| before_election = 
+| before_party    = 
+| after_election  = 
+| after_party     = 
+}}
+{{Politics of Hungary}}
+
+'''Parliamentary elections''' were held in [[Hungary]] between 10 November and 11 December 1865. The [[Deák Party]] won a majority of the seats, and successfully made the [[Austro-Hungarian Compromise of 1867]], and founded [[Austria-Hungary]]. Hungary got more freedom and autonomy from the Crown, but still in a mutual state with Austria and [[Franz Joseph I of Austria]] was crowned as the King of Hungary.
+After the elections that was the constitution of the Parliament.
+
+==Results==
+{| class="wikitable"
+!style="background:#CCDDEE; width: 18em" | Party
+!style="width: 5em; background:#CCDDEE;" | Seats
+!style="width: 5em; background:#CCDDEE;" | %
+!style="width: 7em; background:#CCDDEE;" | Parliamentary role
+|-
+| [[Deák Party]]
+| style="text-align:center" |180
+| style="text-align:center" |57,14%
+|align=center style="background: #ddffdd"| government
+|-
+| [[Left Centre]]
+| style="text-align:center" |94
+| style="text-align:center" |29,84%
+|align=center style="background: #ffdddd"| opposition
+|-
+| [[Far-left (Hungary)|Far-Left]]&lt;sup&gt;1&lt;/sup&gt;
+| style="text-align:center" |20
+| style="text-align:center" |6,35%
+|align=center style="background: #ffdddd"| opposition
+|-
+| [[Conservative Party (Hungary)|Conservative Party]]
+| style="text-align:center" |21
+| style="text-align:center" |6,67%
+|align=center style="background: #ffdddd"| opposition
+|-
+|align=center style="background: lightgrey" | '''Total'''
+|align=center style="background: lightgrey" | '''315'''
+|align=center style="background: lightgrey" | '''100%'''
+|align=center style="background: lightgrey" | —
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;: The Far-Left was a fraction of the Centre-left Party. They didn't have own membership or president&lt;/small&gt;
+
+Later by the representatives of Transylvania and Croatia the constitution of the Parliament was that.
+{| class="wikitable"
+!style="background:#CCDDEE; width: 18em" | Party
+!style="width: 5em; background:#CCDDEE;" | Seats
+!style="width: 5em; background:#CCDDEE;" | %
+!style="width: 7em; background:#CCDDEE;" | Parliamentary role
+|-
+| [[Deák Party]]
+| style="text-align:center" |250
+| style="text-align:center" |52,08%
+|align=center style="background: #ddffdd"| government
+|-
+| [[Left Centre]]
+| style="text-align:center" |100
+| style="text-align:center" |20,83%
+|align=center style="background: #ffdddd"| opposition
+|-
+| [[Far-Left (Hungary)|Far-Left]]&lt;sup&gt;1&lt;/sup&gt;
+| style="text-align:center" |20
+| style="text-align:center" |4,17%
+|align=center style="background: #ffdddd"| opposition
+|-
+| [[Conservative Party (Hungary)|Conservative Party]]
+| style="text-align:center" |21
+| style="text-align:center" |4,38%
+|align=center style="background: #ffdddd"| opposition
+|-
+| [[Minorities' Party]]
+| style="text-align:center" |54
+| style="text-align:center" |11,25%
+|align=center style="background: #ddffdd"| government
+|-
+| [[Minorities' Party]]
+| style="text-align:center" |35
+| style="text-align:center" |7,29%
+|align=center style="background: #ffdddd"| opposition
+|-
+|align=center style="background: lightgrey" | '''Total'''
+|align=center style="background: lightgrey" | '''480'''
+|align=center style="background: lightgrey" | '''100%'''
+|align=center style="background: lightgrey" | —
+|}
+
+{{Elections in Austria-Hungary}}
+{{Hungarian elections}}
+
+[[Category:Elections in Hungary|1865]]
+[[Category:1865 in Hungary|Election]]
+[[Category:1865 elections in Europe|Hungary]]
+[[Category:Elections in Austria-Hungary]]
+[[Category:November 1865 events]]
+[[Category:December 1865 events]]
+
+
+{{hungary-stub}}
+
+
+[[hu:Magyarországi országgyűlési választások#1865]]</text>
+      <sha1>akfis2yk9di9dhfu1ihjc7492z9nf7i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Intelsat 707</title>
+    <ns>0</ns>
+    <id>53909115</id>
+    <revision>
+      <id>843671943</id>
+      <parentid>824542194</parentid>
+      <timestamp>2018-05-30T17:42:14Z</timestamp>
+      <contributor>
+        <ip>189.106.118.183</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4014">{{Infobox spaceflight
+| name                  = Intelsat 707
+| image                 = 
+| image_caption         =
+
+| mission_type          = Communications
+| operator              = [[Intelsat]] 
+| website               = 
+| COSPAR_ID             = 1996-015A&lt;ref name="nssdc"&gt;{{cite web|url=http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1995-023A|title=Intelsat 707|first=Goddard Space Flight Center|last=NASA|work=NSSDC Master Catalog|accessdate=April 28, 2017}}&lt;/ref&gt;
+| SATCAT                = 23816
+| mission_duration      = 15&amp;nbsp;years design life
+
+| spacecraft_bus        = [[Spacebus|SSL-1300]]
+| manufacturer          = [[Space Systems/Loral|SSL]]
+| dry_mass              = {{convert|1450|kg}}
+| launch_mass           = {{convert|4175|kg}}
+| power                 =
+
+| launch_date           = {{start-date|14 March 1996, 07:11:01|timezone=yes}}&amp;nbsp;UTC&lt;ref name="launchlog"&gt;{{cite web|url=http://planet4589.org/space/log/launchlog.txt|title=Launch Log|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=April 28, 2017}}&lt;/ref&gt;
+| launch_rocket         = [[Ariane 4]]4 LP H10-3
+| launch_site           = [[Guiana Space Centre|Kourou]] [[ELA-2]]
+| launch_contractor     = 
+| entered_service       =
+
+| disposal_type         = Decommissioned
+| deactivated           = {{end-date|January 2011}}
+
+| orbit_epoch           = April 27, 2017&lt;ref name="n2yo"&gt;{{cite web|url=https://www.n2yo.com/satellite/?s=23816|title=INTELSAT 707|work=N2yo.com|accessdate=April 28, 2017}}&lt;/ref&gt;
+| orbit_reference       = [[Geocentric orbit|Geocentric]]
+| orbit_regime          = [[geostationary orbit|Geostationary]]
+| orbit_periapsis       = {{convert|36,004.3|km}}&lt;ref name="n2yo"/&gt;
+| orbit_apoapsis        = {{convert|36,602.5|km}}&lt;ref name="n2yo"/&gt;
+| orbit_inclination     = 3.5°&lt;ref name="n2yo"/&gt;
+| orbit_period          = 1,462.2 minutes&lt;ref name="n2yo"/&gt;
+| orbit_semimajor       = {{convert|42674|km|mi}}&lt;ref name="n2yo"/&gt;
+| orbit_longitude       = 157° E
+| apsis                 = gee
+
+| trans_band            = 26&amp;nbsp;[[C band (IEEE)|C band]]&lt;br/&gt;14&amp;nbsp;[[Ku band]]
+| trans_frequency       = 
+| trans_bandwidth       = 
+| trans_capacity        = 
+| trans_coverage        = [[Europe]], [[The Americas|Americas]], [[Brazil]]
+| trans_TWTA            = 
+| trans_EIRP            = 
+| trans_HPBW            = 
+
+| programme             = ''Intelsat VII''
+| previous_mission      = [[Intelsat 706|Intelsat VII-F7]]
+| next_mission          = [[Intelsat 708|Intelsat VII-F8]]
+}}
+'''Intelsat 707''' (also known as '''IS-707''' and '''Intelsat 7-F7''') is a [[geostationary]] [[communication]] [[satellite]] that was built by [[Space Systems/Loral]] ('''SSL'''). It is located in the orbital position of 53 degrees west longitude and it is currently in an [[inclined orbit]]. The same is owned by [[Intelsat]]. The satellite was based on the LS-1300 platform and its estimated useful life was 15 years.&lt;ref name="gsp"&gt;{{cite web|url=http://space.skyrocket.de/doc_sdat/intelsat-7a.htm|title=Intelsat-7A (706, 707, 708)|first=Krebs|last=Gunter|work=Gunters Space Page|accessdate=April 28, 2017}}&lt;/ref&gt;
+
+The satellite was successfully launched into space on March 14, 1996,&lt;ref name="gsp"/&gt; at 07:11, using an [[Ariane 4]] vehicle from the [[Guiana Space Centre]], [[Kourou]], [[French Guiana]].&lt;ref name="gsp"/&gt; It had a launch mass of 4,180&amp;nbsp;kg. The Intelsat 707 carried 26 [[C band (IEEE)|C band]] and 14 [[Ku band]] transponders to provide Europe and the Americas with 3 television channels and 22,500 telephone circuits after parking over the eastern coast of [[Brazil]].
+
+==See also==
+{{Portal|Spaceflight}}
+* [[1996 in spaceflight]]
+
+== External links ==
+* [http://www.tbs-satellite.com/tse/online/sat_intelsat_707.html Intelsat 707] TBS satellite
+* [http://www.satbeams.com/satellites?norad=23816 Intelsat 707] SatBeams
+
+== References ==
+{{reflist|2}}
+
+{{Orbital launches in 1996}}
+{{Intelsat}}
+
+[[Category:Spacecraft launched in 1996]]
+[[Category:Intelsat satellites]]
+
+
+
+{{US-spacecraft-stub}}</text>
+      <sha1>idtwcu1hwkul4c4tp9t8q1dj5e0ke34</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>International Year of the Family</title>
+    <ns>0</ns>
+    <id>15771941</id>
+    <revision>
+      <id>788003307</id>
+      <parentid>762916695</parentid>
+      <timestamp>2017-06-28T22:06:35Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */HTTP&amp;rarr;HTTPS for [[United Nations]], per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2300">{{primary sources|date=July 2012}}
+
+The year 1994 was proclaimed the '''International Year of the Family''' by the [[United Nations General Assembly]].&lt;ref name="UN_ARES4482_page1"&gt;{{UN document |docid=A-RES-44-82 |type=Resolution |body=General Assembly |session=44 |resolution_number=82 |highlight=rect_490,743_883,768 |page=1 |accessdate=2009-10-29|date=8 December 1989}}&lt;/ref&gt;  Its objectives are promoted by the [[United Nations Programme on the Family]].&lt;ref&gt;{{cite web|url=https://www.un.org/esa/socdev/family/index.html|title=United Nations Programme on the Family - Mission Statement}}&lt;/ref&gt;
+
+This was one of many [[International observances]] declared for specific days, months and years.  
+
+In October 1994, the [[United Nations Secretary-General]] opened the three-day International Conference on Families, saying:&lt;ref&gt;{{ UN document |docid=A-49-PV.35 |body=General Assembly |type=Verbatim Report |session=49 |meeting=35 |page=3 |anchor=pg003-bk01 |date=18 October 1994 |speakername=The Secretary-General |accessdate=2009-10-29 }}&lt;/ref&gt;
+
+{{cquote|Five years ago, the General Assembly decided that 1994 was to be the International Year of the Family.
+
+At the time, there was no consensus. Some did not see the point of an International Year of the Family. Opinions were divided as to what the Year was about. Some people argued that support for the family discriminates against those who prefer to live outside family units. There were also disagreements over the activities which should be organized to mark the year...
+
+The International Year of the Family has stimulated a worldwide debate. Many political notions have been clarified. Out of the process of debate and reflection have come new insights.
+
+Instead of confusion and hesitation, there is now consensus about the role of the family in human society. Today, a new realism prevails. It is accepted that the family is a fundamental institution of human society. Indeed, it is established that society is a structure made up of families and individuals related to society, in the first instance, through families.}}
+
+==References==
+&lt;references/&gt;
+{{UN International Years}}
+
+[[Category:United Nations observances|Family, International Year of the]]
+[[Category:Family]]
+[[Category:1994]]
+[[Category:1994 in international relations]]</text>
+      <sha1>ct41uwnstuwggxdlupbg0yc6esbayac</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jabal Ferwa'</title>
+    <ns>0</ns>
+    <id>49659106</id>
+    <revision>
+      <id>771348771</id>
+      <parentid>760470768</parentid>
+      <timestamp>2017-03-21T01:03:18Z</timestamp>
+      <contributor>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
+      </contributor>
+      <comment>Migrate {{Infobox settlement}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1077">{{Infobox settlement
+|pushpin_map            = Saudi Arabia &lt;!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map --&gt;
+|pushpin_label_position =bottom
+|pushpin_mapsize        =200
+|pushpin_map_caption    =Location in Saudi Arabia
+|coordinates            = {{coord|27|37|47|N|38|32|38|E|display=inline}}
+|official_name          = Jebal Farwa'
+}}
+'''Jabal Ferwa'''' is a mountain in [[Saudi Arabia]] located near 27° 50' 27" N 38° 06' 41" E, northwest of [[Tayma]], [[Saudi Arabia]].&lt;ref&gt;[http://www.geographic.org/geographic_names/name.php?uni=-4365557&amp;fid=5599&amp;c=saudi_arabia  Jabal Farwa']. at Geographic.org.&lt;/ref&gt; It is located at an elevation of {{convert|1030|m|ft|0}}  above sea level.&lt;ref&gt;[http://www.getamap.net/maps/saudi_arabia/saudi_arabia_(general)/_farwa_jabal/  Jabal Farwa'] at getamap.net.&lt;/ref&gt; &lt;ref&gt;[http://www.sgs.org.sa/Arabic/News/SGSNews/Documents/SGS_001.pdf    Saudi Geological Survey ].&lt;/ref&gt; 
+
+==References==
+{{reflist}}
+
+[[Category:Mountains of Saudi Arabia]]
+[[Category:Geology of Saudi Arabia]]
+
+
+{{MEast-stub}}</text>
+      <sha1>oebf1wze1pqb8d1sbmmuniw5c5kecix</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kadimah (student association)</title>
+    <ns>0</ns>
+    <id>26152562</id>
+    <revision>
+      <id>857544903</id>
+      <parentid>806804466</parentid>
+      <timestamp>2018-09-01T10:51:35Z</timestamp>
+      <contributor>
+        <username>Marcocapelle</username>
+        <id>14965160</id>
+      </contributor>
+      <comment>added [[Category:Jewish Austro-Hungarian history]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1355">'''Kadimah''' ('''{{lang-he|קדימה}}''', lit. ''Onward'') (German: '''A.V. Kadima Wien''') was the first [[Jew]]ish [[student association]] in [[Vienna]], founded many years before [[Theodor Herzl]] became the leading spokesman of the [[Zionism|Zionist movement]]. 
+==History==
+The national Jewish and Zionist ''Kadimah'' was founded by [[Nathan Birnbaum]] together with Moses Schnirer, [[Ruben Bierer]] and [[Peretz Smolenskin]] in Vienna on 25 October 1882. 
+
+Well-known members of ''Kadimah'' include [[Sigmund Freud]], Isidor Schalit and [[Fritz Löhner-Beda]].
+
+Members of the Kadimah founded the Jewish [[studentenverbindung]] ''Hasmonaea Czernowitz'' in 1891, ''Moriah Vienna'' in 1893 and ''Barissia Radautz'' in 1912.
+
+''Kadimah'' itself was liquidated by then [[Nazism|Nazi]]-ruled official authorities in August 1938.
+
+== References ==
+{{reflist}}
+==Further reading==
+* Ludwig Rosenhek (editor), ''Festschrift zur Feier des 100. Semesters der akademischen Verbindung Kadimah 1883-1933'', Wien 1933
+* Harriet Zivia Pass, ''Kadimah: Jewish Nationalism in Vienna before Herzl'', Columbia 1969 
+
+{{Jewish-org-stub}}
+{{Austria-stub}}
+
+{{Authority control}}
+[[Category:Zionism in Austria]]
+[[Category:Zionist organizations]]
+[[Category:Jews and Judaism in Vienna]]
+[[Category:Jewish Austrian history]]
+[[Category:Jewish Austro-Hungarian history]]</text>
+      <sha1>q319ukuhcxue1zamv4uhjfz6ssug2jl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>List of newspapers in Sierra Leone</title>
+    <ns>0</ns>
+    <id>18189589</id>
+    <revision>
+      <id>812632652</id>
+      <parentid>812632024</parentid>
+      <timestamp>2017-11-28T23:54:52Z</timestamp>
+      <contributor>
+        <ip>98.221.95.58</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1491">{{multiple issues|
+{{Underlinked|date=September 2014}}
+{{unreferenced|date=June 2012}}
+}}
+
+Dozens of newspapers are published in [[Sierra Leone]] with 15 daily newspapers operational. Most of the newspapers are privately run and are mostly distributed around the capital of Freeport due to the low levels of illiteracy within the small South-Western African nation.
+
+*''[http://www.voice-of-binkongoh.info The Voice of Binkongoh]'' 
+*[http://allafrica.com/sierraleone/ allAfrica - Sierra Leone] 
+*[http://www.apctimes.com All People's Communication] (Partisan)
+*Awareness Times
+*[http://awoko.org Awoko]
+*Muslim Journal
+*New citizen
+*[http://peepsierraleone.com Peep] (satire)
+*[http://www.thesierraleonetelegraph.com Sierra Leone Telegraph]
+*Sierra Leone Daily Mail (Partisan)
+http://www.cocorioko.net.  Cocorioko Newspaper
+
+==External links==
+* {{cite web|url= http://www-sul.stanford.edu/depts/ssrg/africa/sierra/sierranews.html|title=Sierra Leone: News|work=Africa South of the Sahara|publisher=Stanford University|location=USA}}
+* {{cite web|url=http://www.worldcat.org/search?q=su%3ASierra+Leone+Newspapers&amp;qt=results_page|title=Sierra Leone Newspapers |location=USA|work=WorldCat|publisher=[[Online Computer Library Center]]}}
+
+{{Lists of newspapers in Africa}}
+
+[[Category:Newspapers published in Sierra Leone]]
+[[Category:Sierra Leone communications-related lists|Newspapers]]
+[[Category:Lists of newspapers by country|Sierra Leone]]
+
+
+{{Africa-newspaper-stub}}
+{{SierraLeone-stub}}</text>
+      <sha1>h5hi6yj38jqksvh7f02y5usuzzc61z2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Litva, Brest Voblast</title>
+    <ns>0</ns>
+    <id>39317070</id>
+    <revision>
+      <id>845990419</id>
+      <parentid>771970555</parentid>
+      <timestamp>2018-06-15T14:38:42Z</timestamp>
+      <contributor>
+        <username>Markussep</username>
+        <id>96340</id>
+      </contributor>
+      <minor/>
+      <comment>/* External links */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1594">{{Infobox settlement
+|official_name      = Litva 
+|other_name         = 
+|image_skyline      = 
+|imagesize          = 
+|image_flag         = 
+|image_seal         = 
+|pushpin_map        = Belarus
+|map_caption        = Location of Budslau, shown within the [[Brest Voblast]]
+|subdivision_type   = [[Countries of the world|Country]]&lt;br/&gt;[[Subdivisions of Belarus|Subdivision]]
+|subdivision_name   = [[Belarus]]&lt;br/&gt;[[Brest Voblast|Brest Province]]
+|leader_title       = 
+|leader_name        = 
+|established_title  = 
+|established_date   = 
+|area_magnitude     = 
+|area_total_km2     = 
+|area_land_km2      = 
+|area_water_km2     = 
+|population_as_of   = 
+|population_note    = 
+|population_total   = 
+|population_metro   = 
+|population_density_km2 = 
+|timezone           = [[Eastern European Time|EET]]
+|utc_offset         = +2
+|timezone_DST       = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST     = +3
+|coordinates        = {{coord|53|06|0|N|26|09|0|E|region:PL_type:city|display=inline,title}}
+|elevation_m        = 
+|postal_code        = 
+|area_code          = 
+|blank_name         =
+|blank_info         =
+|website            = 
+|footnotes          = 
+}}
+
+'''Litva''' ({{lang-be|Litva}}, {{lang-pl|Litwa}}) is a village in [[Belarus]]. It is located in the [[Baranavichy]] district, [[Brest Voblast|Brest Province]], 120&amp;nbsp;km south of the [[Capital (political)|capital]] [[Minsk]].
+
+== External links ==
+* [http://www.maplandia.com/belarus/brest/litva/ Location including the places]
+
+[[Category:Villages in Belarus]]
+[[Category:Populated places in Brest Region]]
+
+{{Belarus-stub}}</text>
+      <sha1>16oji1yvlsjkdhmsrrd4xnnenm9p34x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Maraya</title>
+    <ns>0</ns>
+    <id>15188675</id>
+    <revision>
+      <id>820720860</id>
+      <parentid>721654591</parentid>
+      <timestamp>2018-01-16T06:34:36Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.2)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="416">{{Distinguish|Maraaya}}
+'''''Maraya''''' ([[Arabic language|Arabic]] for "Mirrors" "'''مرايا'''") is a well known satiric multi-season [[Syrian television series]], created by the comedian [[Yasser al-Azmeh]].
+
+==website==
+*[https://web.archive.org/web/20080120195249/http://www.alreef-production.com/ الريف للإنتاج الفني]
+
+[[Category:Syrian television series]]
+
+{{Syria-stub}}
+{{Asia-tv-stub}}</text>
+      <sha1>powsrpx35o7wz0fexsztkm9ek65irmx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Meyrifab</title>
+    <ns>0</ns>
+    <id>3923027</id>
+    <revision>
+      <id>650664342</id>
+      <parentid>624860328</parentid>
+      <timestamp>2015-03-09T21:16:07Z</timestamp>
+      <contributor>
+        <username>Bohemian Baltimore</username>
+        <id>22066013</id>
+      </contributor>
+      <comment>removed [[Category:Ethnic groups in Sudan]]; added [[Category:Ja'alin tribe]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="286">The '''Meyrifab''' are an ِArab semi-nomad tribe of [[Ja'alin]] tribe, settled on the east bank of the [[Nile]] near [[Berber, Sudan|Berber]].&lt;ref&gt;{{EB1911|inline=1|wstitle=Meyrifab|volume=17}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+[[Category:Ja'alin tribe]]
+
+
+{{Africa-ethno-group-stub}}</text>
+      <sha1>272tjju04g2ktk5h3oehd895bx4hyer</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Movement for the Liberation of the Enclave of Cabinda</title>
+    <ns>0</ns>
+    <id>14239691</id>
+    <revision>
+      <id>790092637</id>
+      <parentid>778197443</parentid>
+      <timestamp>2017-07-11T15:23:08Z</timestamp>
+      <contributor>
+        <username>Ground Zero</username>
+        <id>232133</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="993">{{otheruses|Miami Lakes Educational Center}}
+
+The '''Movement for the Liberation of the Enclave of Cabinda'''  ({{lang-pt|Movimento para a Libertação do Enclave de Cabinda}}; {{lang-fr|Mouvement de Libération de l'Enclave du Cabinda}}; '''MLEC''') is a defunct, separatist organization that campaigned for the independence of [[Cabinda province]] from [[Portugal]]. MLEC merged with the [[Action Committee of the Cabinda National Union]] and the [[Mayombe National Alliance]] in 1963 to form the [[Front for the Liberation of the Enclave of Cabinda]]. Cabinda is now a province and an [[exclave]] of [[Angola]].&lt;ref name="a"&gt;{{cite book|last=Mullen|first=J. Atticus Ryan|author2=Christopher A. Mullen|year=1997|title=Unrepresented Nations &amp; Peoples Organization, Yearbook 1997|pages=57}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+[[Category:Rebel groups in Angola]]
+[[Category:History of Angola]]
+[[Category:National liberation movements in Africa]]
+[[Category:Politics of Cabinda]]
+{{Angola-stub}}</text>
+      <sha1>hr10id7pb6kwd6uj9rsn6n8zgsflzlt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mudbrick stamp</title>
+    <ns>0</ns>
+    <id>31951027</id>
+    <revision>
+      <id>709349571</id>
+      <parentid>639831202</parentid>
+      <timestamp>2016-03-10T12:11:51Z</timestamp>
+      <contributor>
+        <username>Hessamnia</username>
+        <id>10077638</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1628">The '''mudbrick stamp''' or '''brick seal''' of [[Mesopotamia]] are [[impression seal|impression]] or [[stamp seal]]s made upon bricks or [[mudbrick]]. The inscribed seal is in [[mirror]] reverse on the 'mold', mostly with [[cuneiform]] inscriptions, and the foundation mudbricks are often part of the memorializing of temples, or other structures, as part of a "[[foundation deposit]]", a common honoring or invocation to a specific god or protector.
+
+==Example mudbrick seal==
+[[File:Stamp Lasha Louvre AO27586.jpg|290px|thumb|Brick "stamp mold" for the King of [[Larsa]], [[Sin-Iddinam]]. (for Sun God, Utu, [[foundation deposit]] of temple) ]]
+The brick stamping mold for [[Sin-Iddinam]] of [[Larsa]] is housed in the Louvre. It is a nearly complete mold, with an inscription in cuneiform to the Sun God, [[Utu]], as a [[foundation deposit]] for the god's temple, the Ebbabar.
+
+==Galley==
+&lt;gallery&gt;
+File:Clay seal AF12903 mp3h8659.jpg|Ancient Egypt&lt;br&gt;later clay [[impression seal|seal impression]], Dynasty 26, with name of an undetermined king Psamtik
+
+&lt;/gallery&gt;
+
+===Ancient Roman bricks===
+{{Commons category|Ancient Roman brick stamps}}
+
+&lt;gallery&gt;
+File:Museum Quintana - Ziegelstempel.jpg|Ancient Roman brick, with inscription
+
+&lt;/gallery&gt;
+
+==External links==
+*[http://farm4.static.flickr.com/3501/3860282444_d8cb4e7837.jpg High Res photo of stamp from Mesopotamia]; [http://www.flickriver.com/photos/mharrsch/tags/mesopotamia/ Article]
+*[http://neareastern.berkeley.edu/hibeh/fun/mudbrick.htm Dig site with stamped mudbrick]
+
+
+
+[[Category:Bricks]]
+[[Category:Ancient Near and Middle East clay objects]]
+
+
+{{MEast-stub}}</text>
+      <sha1>9aaempcu107pnd5id1m92rpc73lq8m4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>NASU Institute of Environment Geochemistry</title>
+    <ns>0</ns>
+    <id>56196649</id>
+    <revision>
+      <id>818286839</id>
+      <parentid>818285857</parentid>
+      <timestamp>2018-01-02T18:24:00Z</timestamp>
+      <contributor>
+        <username>Aleksandr Grigoryev</username>
+        <id>2425663</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2991">{{Infobox laboratory
+ | name          = NASU Institute for Environment Geochemistry
+ | image           = 
+ | established    = 1996 
+ | operating_agency = [[National Academy of Sciences of Ukraine]] 
+ | director       = Heorhiy Vitaliyovych Lysychenko
+ | address              =  Prospekt Akademika Palladina, 34a, [[Kiev]], [[Ukraine]] 03680 
+ | website        = [http://www.igns.gov.ua www.igns.gov.ua]
+ |}}
+
+'''Institute for Environment Geochemistry of the [[National Academy of Sciences of Ukraine]]''' ('''KINR''')  ({{lang-ua|Інститут геохімії навколишнього середовища НАН України}}) located in [[Kiev]], [[Ukraine]]. 
+
+==History==
+Decision on creation of the institute with dual subordination to the [[National Academy of Sciences of Ukraine]] and the [[Ministry of Emergencies (Ukraine)|Ministry of Emergencies]] was adopted on 29 December 1995. On 4 January 1996 a joint order of the Academy and the Ministry was signed by [[Borys Paton]] and [[Volodymyr Kholosha]] (acting minister) on creation of the State science center of Surrounding Environment Radiation- and Geochemistry based on two departments of the NASU Institute of Geochemistry, Mineralogy, and Ore-creation (Department of surrounding environment radiation- and geochemistry and Department of [[metallogeny]]). 
+
+On 12 July 2000 the center was renamed as the NASU Institute of [Surrounding] Environment Geochemistry.
+
+In 2012 the Ministry of Emergencies was liquidated (degraded to a state service under Ministry of Internal Affairs).
+
+==Directors==
+* 1996 — 2013 [[Emlen Sobotovych]]
+* 2013 — [[Heorhiy Lysychenko]]
+
+==Associated entities==
+* Kiev science and production association "Ekolohichni tekhnolohiyi i normatyvy" (Ecological technologies and norms)
+* State science and production small enterprise "Vidrodzhenia" (Revival)
+* State enterprise "Ekoinform"
+* Interagency scientific council on issues of radioactive waste management (Presidium of the NASU)
+* Committee on meteorites (Department of Earth Sciences of the Presidium of the NASU)
+* Branch of the [[National Aviation University]] Ecology Department
+* The [[National Aviation University]] Ecology Department jointly with the [[National Aviation University]] Institute of Land Management and Information Technology
+* NASU Center for collective use of unique scientific instruments "Mineraloho-heokhimichni doslidzhenia" (Mineral and geochemical research)
+* others
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.nas.gov.ua/EN/Org/Pages/default.aspx?OrgID=0000032 NASU Institute of Environment Geochemistry] at [[National Academy of Sciences of Ukraine]]
+
+{{coord missing|Ukraine}}
+
+
+{{Engineering and Mathematical Institutes of the National Academy of Sciences of Ukraine}}
+
+[[Category:Research institutes in Kiev]]
+[[Category:Science and technology in Kiev]]
+[[Category:Institutes of the National Academy of Sciences of Ukraine]]
+[[Category:NASU Institute of Physics]]
+
+
+{{Ukraine-stub}}</text>
+      <sha1>lzgun92zd9ykqp2rirht2wgk3th4i45</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pantāga</title>
+    <ns>0</ns>
+    <id>37995879</id>
+    <revision>
+      <id>675385390</id>
+      <parentid>573315460</parentid>
+      <timestamp>2015-08-10T07:51:34Z</timestamp>
+      <contributor>
+        <username>BattyBot</username>
+        <id>15996738</id>
+      </contributor>
+      <comment>[[WP:AWB/GF|General fixes]], removed orphan tag using [[Project:AWB|AWB]] (11334)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="843">[[File:Microwaveegg5.JPG|thumb|right|Pantāga]]
+'''Pantāga''' is a traditional [[Latvian people|Latvian]] dish, containing eggs and spices. It symbolically represents the [[sun]],  often prepared at [[Easter]].&lt;ref&gt;{{cite web|url=http://www.liepajniekiem.lv/lat/zinas/novados/2008/03/19/vrgal-ceps-lieldienu-pantgu/|title=Vērgalē ceps Lieldienu pantāgu|publisher=Liepajniekiem.lv|accessdate=21 December 2012|language=Latvian}}&lt;/ref&gt; It is often baked on an open flame outdoor fireplace or fire, usually in a round [[cast iron]] long stem pan. The egg whites and yolks are beaten in a pan with spices, producing a form of [[scrambled egg]]. However, it is also common to place it in a [[microwave]].
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Pantaga}}
+[[Category:Latvian cuisine]]
+[[Category:Egg dishes]]
+
+
+{{Latvia-stub}}
+{{cuisine-stub}}</text>
+      <sha1>mvtrybtme9vg1ucy8spsqrjcxttgtfq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Radio Slovakia International</title>
+    <ns>0</ns>
+    <id>6785269</id>
+    <revision>
+      <id>803152781</id>
+      <parentid>778406703</parentid>
+      <timestamp>2017-09-30T19:56:03Z</timestamp>
+      <contributor>
+        <username>Rakoon</username>
+        <id>24827452</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3838">{{Infobox Network
+| name                = Radio Slovakia International
+| logo                = 
+| country             = {{SVK}}
+| network_type        = [[Radio network]]
+| available           = International
+| owner               = [[Rozhlas a televízia Slovenska]]
+| key_people          = Mária Mikušová (Teamleader)
+| launch_date         = 4 January 1993
+| past_names          =
+| website             = http://en.rsi.rtvs.sk/
+|}}
+
+'''Radio Slovakia International''' ('''RSI''') is [[Slovakia]]'s official [[international broadcasting|internet-based international broadcaster]].
+
+The station was created almost simultaneously with the [[Slovak National Council's Declaration of Independence of the Slovak Nation|emergence]] of independent [[Slovakia]] and began broadcasting on 4 January 1993. Its duties were laid down as providing listeners in other countries with information about the new state and maintaining contact with the numerous expatriate [[Slovaks|Slovak]] communities around the world. Organizationally, it is a part of the [[Government-owned corporation|state-owned]] nationwide [[public broadcasting]] organization [[Rozhlas a televízia Slovenska]] ''(Radio and Television Slovakia)''. 
+
+RSI's programmes are broadcast in [[English language|English]], [[German language|German]], [[French language|French]], [[Russian language|Russian]], [[Spanish language|Spanish]], and, for expatriates, [[Slovak language|Slovak]]. Its daily 30-minute magazine programmes contain news from [[Slovakia]], features on the Slovak economy, sciences, culture, geography, environment, sports, examples of the spoken, written, and musical arts, and portraits of important personalities. 
+
+Radio Slovakia International broadcasts worldwide via internet and via the [[WRN Broadcast|World Radio Network]] platform.&lt;ref&gt;[http://mt-shortwave.blogspot.com/2010/12/rsi-will-continue-daily-programs-on-wrn.html ''Monday, December 27, 2010: RSI will continue daily programs on WRN'', Markmonitor.com, Mountain View, CA, quoting a posting by Radio Slovakia International at Radio Netherlands Media Network's blog].Accessed: 1 March 2011.&lt;/ref&gt; 
+
+== Frequencies ==
+{| class="wikitable" style="text-align:center"
+!'''Town - Transmitter'''
+!'''Frequency'''
+!'''[[Effective radiated power|ERP]]'''
+!'''Time'''
+!'''Changing with'''
+|-
+|[[Bratislava]] - Mýtna 1 || 98,9 [[MHz]] || 0,20 [[Watt|kW]] || 18:00–6:00 h. || [[Rádio Patria]]
+|}
+===Shortwave transmissions today===
+Radio Slovakia International stopped broadcasting on shortwave from Slovakia, but is now relayed on two [[WRMI]] frequencies (11580kHz &amp; 5850kHz) and via Shortwave Service in Germany (6005kHz)
+
+====Former English-language schedule and frequencies====
+0100-0130 to North America on 5930 kHz (summer) and 7230 kHz (winter), and to South America on 9440 kHz&lt;br /&gt;
+0700-0730 to Australasia on 9440 and 11650 kHz (summer), and 13715 and 15460 kHz (winter)&lt;br /&gt;
+1630-1700 to Western Europe on 5920 kHz (summer only)&lt;br /&gt;
+1730-1800 to Western Europe on 6055 kHz&lt;br /&gt;
+1730-1800 to Western Europe on 5915 kHz (winter only)&lt;br /&gt;
+1830-1900 to Western Europe on 5920 kHz (summer only) and 6055 kHz&lt;br /&gt;
+1930-2000 to Western Europe on 5915 kHz (winter only) and 7345 kHz&lt;br /&gt;
+
+==See also==
+* [[Rozhlas a televízia Slovenska]] ''(Radio and Television Slovakia)'', the Slovak publicly funded radio and television broadcaster
+* [[List of international radio broadcasters]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://en.rsi.rtvs.sk/ Radio Slovakia International official website] {{en icon}}
+
+{{World Radio Network}}
+
+{{coord missing|Slovakia}}
+
+[[Category:Radio stations in Slovakia]]
+[[Category:External services (broadcasting)]]
+[[Category:Radio stations established in 1993]]
+[[Category:1993 establishments in Slovakia]]
+[[Category:Radio and Television Slovakia]]</text>
+      <sha1>kxnjy7vqpsq52lpfnzqllg50xqw9w7d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Showdown (Flynn novel)</title>
+    <ns>0</ns>
+    <id>1855287</id>
+    <revision>
+      <id>821808583</id>
+      <parentid>806324468</parentid>
+      <timestamp>2018-01-22T19:27:11Z</timestamp>
+      <contributor>
+        <username>Blanche of King's Lynn</username>
+        <id>6591921</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2091">{{Infobox book | &lt;!-- See Wikipedia:WikiProject_Novels or Wikipedia:WikiProject_Books --&gt;
+| name          = Showdown
+| title_orig    = 
+| translator    = 
+| image         = ShowdownNovel.jpg
+| caption       = First edition
+| author        = [[Errol Flynn]]
+| cover_artist  = 
+| country       = Australia
+| language      = English
+| series        = 
+| genre         = [[Adventure novel]]
+| publisher     = [[Invincible Press]]
+| release_date  = 1946
+| media_type    = Print ([[Hardcover|Hardback]] &amp; [[Paperback]])
+| pages         = 
+| preceded_by   =
+| followed_by   =
+}}
+
+'''''Showdown''''' is a romantic [[adventure novel]] written by famous [[Tasmania]]n-born actor [[Errol Flynn]] (1909&amp;ndash;1959). It was first published in 1946 by Invincible Press (Australia) and subsequently in the UK in 1952 and in paperback in 1961. Flynn draws on his experiences working in and around [[New Guinea]] when young to provide the background. Accounts of his sailing in New Guinea waters appear in his autobiographies, ''Beam Ends'' (1937) and ''[[My Wicked, Wicked Ways]]'' (1959).
+The novel is dedicated to German-American artist [[John Decker (artist)|John Decker]], who painted Flynn's [[portrait]], translated in the same year to Spanish as ''Un drama en los Mares del Sur'' (Renacimiento, 1946).
+
+==Background==
+The novel was originally called ''One Man in His Time'' and then ''Charlie Bow Tie Proceeds''.&lt;ref&gt;TOWN CALLED HOLLYWOOD: Heaven Help Flynn! He's Written a Book
+Scheuer, Philip K. Los Angeles Times (1923-Current File) [Los Angeles, Calif] 18 July 1943: C3.&lt;/ref&gt;
+
+While writing it he was also reported to be working on another book, a novel about the nephew of [[Moctezuma II|Montezuma]] fighting the Conquistadores, called ''Cuautenos''.&lt;ref&gt;DRAMA AND FILM: Warners May Produce Two Novels by Flynn Cagney's Forthcoming Picture Titled 'Johnny Come Lately;' Asther Assigned
+Schallert, Edwin. Los Angeles Times (1923-Current File) [Los Angeles, Calif] 01 May 1943: 7.&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+[[Category:1946 Australian novels]]
+[[Category:New Guinea]]
+
+{{1940s-novel-stub}}</text>
+      <sha1>7ziddtdru4kkxq3qv5r3smnkrwwrcnx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Gambia Scout Association</title>
+    <ns>0</ns>
+    <id>3742709</id>
+    <revision>
+      <id>852875523</id>
+      <parentid>851237070</parentid>
+      <timestamp>2018-07-31T23:51:05Z</timestamp>
+      <contributor>
+        <username>Senegambianamestudy</username>
+        <id>20956477</id>
+      </contributor>
+      <comment>copy edit</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3677">{{Infobox WorldScouting
+| name =The Gambia Scout Association
+| image =Gambia Scout Association.svg
+| caption =
+| type = 
+| owner =
+| age =
+| headquarters =
+| location =
+| country =The Gambia
+| coords =
+| f-date =1921
+| defunct =
+| founders =
+| founder =
+| award-for =
+| members =18,448
+| chiefscouttitle = chief
+| chiefscouttitle2 =
+| chiefscout2 = 
+| chiefscouttitle3 =
+| chiefscout3 =
+| website =
+| affiliation =[[World Organization of the Scout Movement]]
+| next =
+| prev =
+}}
+
+'''The Gambia Scout Association''', the national [[scouting]] organization of [[the Gambia]], was founded in 1921, and became a member of the [[World Organization of the Scout Movement]] in 1984.
+
+== Activities ==
+[[File:US and Gambian Scouts (5998122274).jpg|thumb|left]]
+
+The coeducational Gambia Scout Association has 18,448 members as of 2008.&lt;ref name="WOSM-TR_05-08"&gt;{{cite web |title=Triennial Report 2005-2008 |url=http://scout.org/en/content/download/11615/94838/file/Triennial_Report_EN.pdf |publisher=World Organization of the Scout Movement |accessdate=2008-07-13 |deadurl=yes |archiveurl=https://web.archive.org/web/20080909204757/http://scout.org/en/content/download/11615/94838/file/Triennial_Report_EN.pdf |archivedate=2008-09-09 |df= }}&lt;/ref&gt;
+
+Special activities include community service projects such as tree planting. Scouts regularly participate in camping and hiking. [[Music]] is also a very important part of Scouting in the Gambia, but because there is little money for instruments and [[sheet music]], there is a waiting list to get into the Scout band, and they learn all their music by ear. {{Citation needed|date=June 2009}}
+
+== Presidents ==
+*[[Alhaji Alieu Ebrima Cham Joof]] served the movement from 1938 to 2005; former President of the Gambia National Scout Council; scholar on the history of scouting in the Gambia; and first Gambian to be awarded the [[Wood Badge]].&lt;ref&gt;[[Foroyaa]]: Exclusive Interview with Foroyaa Panorama: {{cite web |url=http://www.foroyaa.gm/modules/news/article.php?storyid=6832 |title=Archived copy |accessdate=2011-10-03 |deadurl=yes |archiveurl=https://web.archive.org/web/20111003130110/http://www.foroyaa.gm/modules/news/article.php?storyid=6832 |archivedate=2011-10-03 |df= }}&lt;/ref&gt;&lt;ref&gt;The Point Newspaper: [http://thepoint.gm/africa/gambia/article/tribute-to-late-alhagie-a-e-cham-joof "Tribute to Late Alhagie A. E. Cham Joof", by Mr Momodou Jammeh]&lt;/ref&gt; 
+*In 2007, David Hafner replaced Alieu Mamar Njie as chief [[commissioner]].
+
+== Controversies ==
+In September 2015, six executives of the association were arrested for conspiracy to commit a felony, obtaining money by false pretence and stealing a motor vehicle.&lt;ref&gt;{{cite web|url=http://thepoint.gm/africa/gambia/article/six-gambia-scout-association-executive-members-remanded|title=Six Gambia Scout Association executive members remanded|website=Thepoint.gm|date=10 September 2015|access-date=21 November 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://allafrica.com/stories/201511021393.html|title=Gambia: In Gambia Scout Association Case, More Charges to Be Instituted|website=Allafrica.com|date=2 November 2015|access-date=21 November 2016}}&lt;/ref&gt;
+
+==See also==
+*[[The Gambia Girl Guides Association]]
+{{portal|Gambia|Scouting|Alieu Ebrima Cham Joof}}
+
+==References==
+{{reflist}}
+
+{{WOSM|africa}}
+{{Alieu Ebrima Cham Joof|state=collapsed}}
+
+{{DEFAULTSORT:Gambia Scout Association}}
+[[Category:World Organization of the Scout Movement member organizations]]
+[[Category:Scouting and Guiding in the Gambia]]
+
+[[Category:Youth organizations established in 1921]]
+[[Category:1921 establishments in the Gambia]]
+[[Category:Alieu Ebrima Cham Joof]]
+
+{{Scout-stub}}
+{{Gambia-stub}}</text>
+      <sha1>gqvdxdxe5elj8x9ah2bneqfhgy0oskr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Messengers Choir</title>
+    <ns>0</ns>
+    <id>20648955</id>
+    <revision>
+      <id>730989307</id>
+      <parentid>555448971</parentid>
+      <timestamp>2016-07-22T05:11:58Z</timestamp>
+      <contributor>
+        <username>TAnthony</username>
+        <id>1808194</id>
+      </contributor>
+      <comment>USA is deprecated, per [[MOS:NOTUSA]], and correct [[MOS:OVERLINK|overlinking]] of common places using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="709">'''The Messengers Choir''' was an [[East Africa]]n gospel group based in the United States.
+Before the break-up they were considered the first gospel choir of African origin to be formed and based in the United States.
+
+The group was formed in [[New Jersey]], USA. The 30+ member ensemble blended elements of African gospel and American popular music.
+The group was an integral part of the Allegheny East Conference [[Seventh-day Adventist Church]] Festivals.
+
+==References==
+* Official Website [http://www.messengerssongs.org]
+* Public Eye [http://www.publiceyesite.org/blog/?p=381]
+
+{{DEFAULTSORT:Messengers Choir, The}}
+[[Category:American gospel musical groups]]
+
+
+{{music-org-stub}}
+{{Africa-music-stub}}</text>
+      <sha1>csfj104t0ggo5gw388m0fvow21biy1h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Timeline of the Argentine Civil Wars</title>
+    <ns>0</ns>
+    <id>31528228</id>
+    <revision>
+      <id>866848801</id>
+      <parentid>866848707</parentid>
+      <timestamp>2018-11-01T23:12:47Z</timestamp>
+      <contributor>
+        <username>Donner60</username>
+        <id>12744454</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/216.100.88.185|216.100.88.185]] ([[User talk:216.100.88.185|talk]]) ([[WP:HG|HG]]) (3.4.4)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6545">{{Infobox military conflict
+| conflict    = Argentine Civil Wars
+| partof      =
+| image       = Guerra Civil.jpg
+| image_size  = 250
+| caption     = From top left: [[Battle of Arroyo Grande]], execution of [[Manuel Dorrego]], [[Battle of Pavón]], death of [[Juan Lavalle]], murder of [[Facundo Quiroga]], [[Battle of Caseros]], [[Battle of Famaillá]], [[Battle of Vuelta de Obligado]].
+| date        = 1814-1876
+| place       = [[Argentina]]&lt;br&gt;[[Uruguay]]
+| coordinates =
+| map_type    =
+| latitude    =
+| longitude   =
+| map_size    =
+| map_caption =
+| map_label   =
+| territory   =
+| result      = [[Federalization of Buenos Aires]]&lt;br/&gt;Sanction of a [[federalism|federal]] [[Argentine Constitution of 1853|Constitution]]
+| status      =
+| combatant1  = [[File:Flag of Artigas.svg|22px]] [[Federales (Argentina)|Federales]]&lt;br/&gt;[[Image:Flag of the National Party (Uruguay).svg|border|22px]] [[National Party (Uruguay)|Blancos]]
+| combatant2  = [[File:Flag of Unitarian Party (Navy).svg|23px]] [[Unitarian Party|Unitarians]]&lt;br/&gt;[[File:Flag of Colorado Party (Uruguay).svg|23px]] [[Colorado Party (Uruguay)|Colorados]]
+| combatant3  =
+| commander1  = [[File:Flag of Artigas.svg|22px]] [[Juan Manuel de Rosas]] &lt;br/&gt; [[File:Flag of Artigas.svg|22px]] [[Manuel Dorrego]] {{KIA}}&lt;br/&gt;[[File:Flag of Artigas.svg|22px]] [[Justo José de Urquiza]] {{KIA}}&lt;br/&gt; [[File:Flag of Artigas.svg|22px]] [[Francisco Ramírez (governor)|Francisco Ramírez]] {{KIA}}&lt;br/&gt;[[File:Flag of Artigas.svg|22px]] [[Facundo Quiroga]]{{KIA}}&lt;br/&gt;[[File:Flag of Artigas.svg|22px]] [[Chacho Peñaloza]]{{KIA}}&lt;br/&gt;[[Image:Flag of the National Party (Uruguay).svg|border|22px]] [[Manuel Oribe]]
+| commander2  = [[File:Flag of Unitarian Party (Navy).svg|23px]] [[Bartolomé Mitre]]&lt;br/&gt;[[File:Flag of Unitarian Party (Navy).svg|23px]] [[Bernardino Rivadavia]]&lt;br/&gt;[[File:Flag of Unitarian Party (Navy).svg|23px]] [[Juan Lavalle]]{{KIA}}&lt;br/&gt;[[File:Flag of Unitarian Party (Navy).svg|23px]] [[José María Paz]] {{POW}}&lt;br/&gt;[[File:Flag of Unitarian Party (Navy).svg|23px]] [[Domingo Faustino Sarmiento]]&lt;br/&gt; [[File:Flag of Colorado Party (Uruguay).svg|23px]] [[Fructuoso Rivera]]
+| commander3  =
+| units1      =
+| units2      =
+| units3      =
+| strength1   =
+| strength2   =
+| strength3   =
+| casualties1 =
+| casualties2 =
+| casualties3 =
+| notes       =
+}}
+
+The '''[[Argentine Civil Wars]]''' were a series of [[internecine war]]s that took place in [[Argentina]] from 1814 to 1876. These conflicts were separate from the [[Argentine War of Independence]] (1810 — 1820), though they first arose during this period.
+
+The main antagonists were, on a geographical level, [[Buenos Aires Province]] against the other provinces of modern Argentina, and on a political level, the [[Federales (Argentina)|Federal Party]] against the [[Unitarian Party]]. The central cause of the conflict was the excessive [[Centralized government|centralism]] advanced by Buenos Aires leaders and, for a long period, the monopoly on the use of the [[Port of Buenos Aires]] as the sole means for international commerce. Other participants at specific times included [[Banda Oriental|Uruguay]], and the [[British Empire|British]] and [[Second French Empire|French]] empires, notably in the [[French blockade of the Río de la Plata]] of 1838 and in the [[Anglo-French blockade of the Río de la Plata]] that ended in 1850.
+
+== Timeline ==
+{{expand section|date=March 2016}}
+
+===1829===
+* [[Juan Manuel de Rosas]] and [[Juan Lavalle]] sign the [[Cañuelas Pact]].
+* [[Juan Manuel de Rosas]] is elected governor of Buenos Aires.
+
+===1830===
+* [[José María Paz]] defeats [[Facundo Quiroga]] in the [[battle of Oncativo]].
+* Paz establish the [[Unitarian League]].
+* [[Buenos Aires]], [[Entre Ríos Province|Entre Ríos]] and [[Santa Fe Province|Santa Fe]] sign the [[Pacto Federal|Federal Pact]].
+
+===1831===
+* Mendoza and Córdoba join the Federal Pact.
+
+===1832===
+* Santiago del Estero, La Rioja, Tucumán, Salta, San Luis, Catamarca and San Juan join the Federal Pact.
+* Rosas declines a reelection as governor, the legislature elects [[Juan Ramón Balcarce]].
+
+===1833===
+* Rosas starts the [[Desert Campaign (1833–34)|first conquest of the desert]].
+* [[Revolution of the Restorers]] against Balcarce. [[Juan José Viamonte]] replaces him as governor.
+
+===1834===
+* Viamonte resigns, and [[Manuel Vicente Maza]] replaces him.
+
+===1835===
+* [[Facundo Quiroga]] is murdered in Córdoba.
+* [[Juan Manuel de Rosas]] is appointed governor, with the [[sum of public power]].
+* Rosas established the Customs Law
+
+===1836===
+* [[Fructuoso Rivera]] starts a rebellion against Uruguayan president [[Manuel Oribe]]. Birth of the two main Uruguayan parties: Colorados (for Rivera) and Blancos (for Oribe).
+
+===1837===
+* Argentina joins the [[War of the Confederation]].
+* Execution of the Reinafé brothers, accused of murder of Quiroga.
+
+===1838===
+* France imposes the [[French blockade of the Río de la Plata]] to Buenos Aires
+* Rivera ousted Oribe from power, becoming the new president of Uruguay
+* Death of [[Estanislao López]], governor of Santa Fe.
+* Murder of [[Alejandro Heredia]], governor of Tucuman
+
+===1839===
+* Rivera declares war to Argentina
+* [[Berón de Estrada]], governor of Corrientes, declares war to Rosas. He was defeated by Echagüe at Pago Largo.
+* [[Juan Lavalle]] invades Entre Ríos
+* Failed conspiracy of Ramón Maza against Rosas. The [[Mazorca]] kills [[Manuel Maza]] during the conflict.
+* Revolution of the "Libres del Sur"
+
+===1840===
+* [[Juan Lavalle]] is defeated by [[Pascual Echagüe]] in [[Entre Ríos Province|Entre Ríos]] at the [[Battle of Don Cristóbal]] (10 April 1840) and the [[Battle of Sauce Grande]] (16 July 1840).
+* [[José María Paz]] is appointed head of the forces of Corrientes
+* France lifts the blockade
+* [[Manuel Oribe]] defeats Lavalle in Córdoba in the [[Battle of Quebracho Herrado]]
+* [[Domingo Faustino Sarmiento]] moves to Chile.
+
+===1841===
+* Oribe defeats Lavalle in the [[battle of Famaillá]].
+* Aráoz de Lamadrid is defeated in the [[Battle of Rodeo del Medio]]
+* Lavalle dies in Jujuy, in a confusing episode
+* [[Justo José de Urquiza]] is appointed governor of Entre Ríos.
+
+==Bibliography==
+* {{cite book
+|title= La época de Rosas
+|last= Luna
+|first= Félix
+|authorlink= Félix Luna
+|year= 2003
+|publisher= La Nación
+|location= Buenos Aires
+|isbn= 950-49-1116-1}}
+
+{{Argentine Civil War}}
+{{Argentina topics}}
+{{Use dmy dates|date=June 2017}}
+
+[[Category:Argentine Civil War]]
+[[Category:Argentina-related lists]]</text>
+      <sha1>s05w8jyx3nzbypplz4614vu1u3ylag2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tongkah Harbour Public Company Limited</title>
+    <ns>0</ns>
+    <id>36904720</id>
+    <revision>
+      <id>862122399</id>
+      <parentid>862121994</parentid>
+      <timestamp>2018-10-02T09:36:20Z</timestamp>
+      <contributor>
+        <username>Seligne</username>
+        <id>8641695</id>
+      </contributor>
+      <comment>/* External links */ Added</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5498">'''Tongkah Harbour Public Company Limited''' is a [[mining]] company and property developer in [[Thailand]]. The company was listed on the [[Stock Exchange of Thailand]] (SET:THL) in 1993.&lt;ref name=history&gt;{{cite web|title=History|url=http://www.tongkahharbour.com/tongkah/about_history.html|website=Tongkah Harbour Public Company Limited|accessdate=26 December 2015|archiveurl=https://web.archive.org/web/20140715033837/http://www.tongkahharbour.com/tongkah/about_history.html|archivedate=2014-07-15}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Investor Relations|url=http://www.tongkahharbour.com/tongkah/investor/en_inves/en_main.html|website=Tongkah Harbour Public Company Limited|accessdate=14 August 2015|archiveurl=https://web.archive.org/web/20140718040630/http://www.tongkahharbour.com/tongkah/investor/en_inves/en_main.html|archivedate=2014-07-18}}&lt;/ref&gt;
+
+The company was founded in 1906 by [[Edward Miles|Edward T. Miles]] as the "Tongkah Harbour Tin Dredging Company N.L." It began offshore tin mining in [[Phuket|Phuket Bay]] in 1907.&lt;ref name=history /&gt;
+
+In 1991 the company's subsidiary, [[Tungkum]] Limited (TKL), was founded and granted a concession in the [[Wang Saphung District]] of [[Loei Province]] for the exploration and mining of gold and related minerals.&lt;ref name=history /&gt; [[2014 Loei Gold Mine mob attack|Tungkum]] has been the target of demonstrations by residents living in the vicinity of the gold mine. They accuse the company of environmental destruction.&lt;ref&gt;{{cite web|title=Gold Mine Protesters Hurt by Armed Mob and Shady Deals|url=http://isaanrecord.com/2014/05/20/gold-mine-protesters-hurt-by-armed-mob-and-shady-deals-3/|website=The Isaan Record|accessdate=2 October 2015|date=2014-05-20}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Mining industry thugs must be stopped|url=http://www.bangkokpost.com/print/415247/|accessdate=6 May 2016|work=Bangkok Post|date=2014-06-14}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Techawongtham|first1=Wasant|title=Time to stop poisoning our precious land, resources|url=http://www.bangkokpost.com/opinion/opinion/961017/time-to-stop-poisoning-our-precious-land-resources|accessdate=6 May 2016|work=Bangkok Post|date=2016-05-06}}&lt;/ref&gt;
+
+==Tungkum accused of judicial harassment==
+The Khon Rak Ban Kerd Group (KRBKG) is a community-based group committed to defend the local environment from the negative impacts of the open-pit copper-gold mine operated by the Tungkum Company in [[Loei Province]]. On 30 March 2016, the Loei Provincial Court dismissed a civil defamation lawsuit brought by six KRBKG members who live in communities near the open-pit copper-gold mine, for erecting signs in 2015 at the Na Nong Bong village entrance gate and along the main road in the village, calling for the closure of the controversial mine and rehabilitation of the local environment. Tungkum sought 50 million baht in compensation from the six KRBKG members for alleged damage to the company’s reputation. Tungkum has brought at least 19 criminal and civil lawsuits against 33 members of the KRBKG and other villagers in the past seven years, including the case dismissed yesterday. Using lawsuits, the company has sought a total of 320 million baht from villagers who oppose the mine.&lt;ref&gt;{{cite web|title=Thailand: Judicial harassment against members of the Khon Rak Ban Kerd Group for opposing gold mine|url=http://www.omct.org/human-rights-defenders/urgent-interventions/thailand/2016/03/d23694/|website=World Organisation Against Torture (OMCT)|location=Geneva|date=2016-03-31|accessdate=2018-10-02}}&lt;/ref&gt; Following a three-year investigation, the [[NGO]] [[Fortify Rights]] found that the company and the Thai government had "...targeted environmental defenders...journalists, and others with costly lawsuits that infringe on basic rights."&lt;ref&gt;{{cite news |last1=Wannasiri |first1=Sutharee |last2=Smith |first2=Amy |title=Score gold by protecting rights, not mine operations |url=https://www.bangkokpost.com/opinion/opinion/1550378/score-gold-by-protecting-activists-not-mine-operators |accessdate=2 October 2018 |work=Bangkok Post |publisher=Fortify Rights |date=2 October 2018 |format=Opinion}}&lt;/ref&gt; Their findings are documented in a 90-page report issued in October 2018.&lt;ref&gt;{{cite book |title='We Fight to Protect our Home'; Reprisals  Against Environmental Defenders in Loei Province, Thailand |date=October 2018 |publisher=Fortify Rights |url=https://www.fortifyrights.org/downloads/We_Fight_to_Protect_Our_Home-Fortify_Rights_Report-EN.pdf |accessdate=2 October 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Thailand: Protect Environmental Defenders, Ensure Remedies |url=https://www.fortifyrights.org/publication-20181002.html |accessdate=2 October 2018 |publisher=Fortify Rights |date=2018-10-02 |format=Press release}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.tongkahharbour.com/ Tongkah Harbour PCL]
+*[https://www.fortifyrights.org/downloads/Fortify_Rights-Thailand-Protect_Environmental_Defenders_Ensure_Remedies_(Oct%202018)-TH.pdf ประเทศไทย:คุ้มครองนักปกป้องสิ6งแวดล้อม ประกันให้เกิดการเยียวยา] (Fortify Rights press release) 
+
+[[Category:Mining companies of Thailand]]
+[[Category:Companies listed on the Stock Exchange of Thailand]]
+[[Category:Non-renewable resource companies established in 1906]]
+[[Category:1906 establishments in Siam]]
+[[Category:Tin mines in Thailand]]
+
+
+{{Thailand-stub}}
+{{Asia-company-stub}}</text>
+      <sha1>cy23gffbt5hq1acnb2gf32kfwejlbqd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ukodo</title>
+    <ns>0</ns>
+    <id>42802736</id>
+    <revision>
+      <id>761898236</id>
+      <parentid>757659066</parentid>
+      <timestamp>2017-01-25T13:20:43Z</timestamp>
+      <contributor>
+        <username>Justlettersandnumbers</username>
+        <id>13541347</id>
+      </contributor>
+      <comment>sorry, we don't host copyright poetry on Wikipedia without permission from the author (and probably not even then)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1668">'''Ukodo''' is a yam and unripe [[Plantain (cooking)|plantain]] dish of the [[Urhobo people]] of Nigeria. &lt;ref&gt;[http://cookingncleaning.blogspot.com/2013/05/ukodo-pepper-soup-porridge-urhobo.html Nigerian Urhobo Ukodo (pepper soup Yam pottage)] 18 May 2013 Sapele Honey&lt;/ref&gt; The [[Itsekiri people]] of the Niger Delta also make a similar dish called Epuru. It is essentially a pottage, a stew of meat and vegetable with its base as the Nigerian pepper soup.
+
+It is sometimes cooked with lemon grass and potash.&lt;ref name="Ekeh2005"&gt;{{cite book|author=Peter Palmer Ekeh|title=Studies in Urhobo Culture|url=https://books.google.com/books?id=jjeNIESBArkC&amp;pg=PA496|date=January 2005|publisher=Urhobo Historical Society|isbn=978-978-067-769-5|pages=496–}}&lt;/ref&gt; 
+
+It is usually used for marriage and bural ceremonies or as breakfast, particularly during the cold season. &lt;ref name="Lim2016"&gt;{{cite book|author=T. K. Lim|title=Edible Medicinal and Non-Medicinal Plants: Volume 10, Modified Stems, Roots, Bulbs|url=https://books.google.com/books?id=tUCFCwAAQBAJ&amp;pg=PA293|date=2 February 2016|publisher=Springer|isbn=978-94-017-7276-1|pages=293–}}&lt;/ref&gt;
+
+A poem by the Nigerian Chovwe Inisiagho-Ogbe describes both the ingredients and the process of cooking Ukodo in a light-hearted way.&lt;ref name="Ekeh2005"&gt;{{cite book|author=Peter Palmer Ekeh|title=Studies in Urhobo Culture|url=https://books.google.com/books?id=jjeNIESBArkC&amp;pg=PA496|date=January 2005|publisher=Urhobo Historical Society|isbn=978-978-067-769-5|pages=496–}}&lt;/ref&gt;
+
+==References==
+{{portal|Food|Nigeria}}
+{{reflist}}
+
+[[Category:Nigerian cuisine]]
+[[Category:Plantain dishes]]
+
+
+{{Africa-cuisine-stub}}</text>
+      <sha1>61a8i65pknlhdg58kg884m0h4z7w7oj</sha1>
+    </revision>
+  </page>
+</mediawiki>

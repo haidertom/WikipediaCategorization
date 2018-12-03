@@ -1,0 +1,3179 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Aqaba Flagpole</title>
+    <ns>0</ns>
+    <id>7139989</id>
+    <revision>
+      <id>777758265</id>
+      <parentid>768070747</parentid>
+      <timestamp>2017-04-29T02:22:07Z</timestamp>
+      <contributor>
+        <ip>175.136.160.215</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3313">[[File:Aqaba.jpg|thumb|right|250px|The Aqaba Flagpole in [[Aqaba]], [[Jordan]], as seen from [[Eilat]], [[Israel]], is the sixth tallest free standing flagpole in the world.]]
+
+[[File:Flag of Hejaz 1917.svg|thumb|right|250px| Flag of the Arab Revolt]]
+
+The '''Aqaba Flagpole''' in [[Aqaba]], [[Jordan]] is the 6th tallest free standing [[flag#Flagpoles|flagpole]] in the world at a height of {{convert|130|m|ft}},&lt;ref&gt;[http://www.trident-support.com/About.htm - Aqaba Flagpole info on the website of Trident Support Corp.] {{webarchive |url=https://web.archive.org/web/20110127073743/http://www.trident-support.com/About.htm |date=January 27, 2011 }}&lt;/ref&gt;&lt;ref&gt;[http://www.thenational.ae/article/20080807/NATIONAL/994160089/1018 Dubai wants tallest flagpole] {{webarchive |url=https://web.archive.org/web/20100206183711/http://www.thenational.ae/article/20080807/NATIONAL/994160089/1018 |date=February 6, 2010 }}&lt;/ref&gt;{{broken link|date=February 2017}} after the {{convert|170|m|ft|0|abbr=on}} [[Jeddah Flagpole]], {{convert|165|m|ft|0|abbr=on}} [[Dushanbe Flagpole]], {{convert|162|m|ft|0|abbr=on}} [[National Flag Square|National Flagpole]], {{convert|160|m|ft|0|abbr=on}} [[Panmunjeom flagpole]] and {{convert|133|m|ft|0|abbr=on}} [[Ashgabat Flagpole]]. It carries the [[Flag of the Arab Revolt|flag]] of the [[Arab Revolt]] commemorating the [[Battle of Aqaba]] that took place in 1917. The flagpole can be seen from [[Israel]], [[Egypt]], and [[Saudi Arabia]]. The flagpole was built in 2004 and opened on 3 October of that year.&lt;ref&gt;http://www.alrai.com/article/72972.html&lt;/ref&gt;
+
+==Information==
+
+===Technical data===
+''Pole height'': 130 meters
+
+''Pole weight'': 344,000 pounds (172 tons)
+
+''Number of pole sections'': 11
+
+''Bottom of pole diameter'': 103&amp;nbsp;inches
+
+''Top of pole diameter'': 42&amp;nbsp;inches
+
+''Bottom section plate thickness'': 1.26&amp;nbsp;inches – Fy = 50 ksi
+
+''Top section plate thickness'': .394&amp;nbsp;inches – Fy = 36 ksi
+
+''Maximum section length'': {{convert|39|ft|m}}
+
+''Mating flanges thicknesses'': Minimum: 1.58&amp;nbsp;inches, maximum {{convert|1.97|in|mm}}
+
+''Flange bolts maximum diameter'': 3&amp;nbsp;inches
+
+''Bolt material'': A354, Fy = 115 ksi
+
+''Foundation'': {{convert|56|ft|m}} square by {{convert|8.50|ft|m}} deep, 990 cubic yards concrete
+
+===Design criteria===
+''Flag size'': {{convert|98.5|ft|m}} by {{convert|197|ft|m}}
+
+''Flag material'': Polyester
+
+''Wind speed criteria'': (pole and flag) - {{convert|90|mi/h|km/h|abbr=on}}
+
+''Wind speed criteria'': (pole only) - {{convert|130|mi/h|km/h|abbr=on}}
+
+''Seismic Zone'': 4 (Uniform Building Code)
+
+''Near Seismic Source'': Less than 2&amp;nbsp;km (Aqaba Rift)
+
+===Codes===
+ANSI/NAAMFP-1001-97 – Guide Specification for Design Loads of Metal Flagpoles
+
+Standard Specification for Structural Supports for Highway Signs, AASHTO
+
+''Structural Engineer of Record'': Neil Moore and Associates
+
+''Builder'': Trident Support Corp. with assistance from US Flag and Flagpole Supply LP
+Contractor : Sahara contracting corporation, Amman, Jordan
+
+==References==
+{{reflist}}
+{{coord|29.5217|N|35.0011|E|source:kolossus-frwiki|display=title}}
+
+[[Category:Aqaba]]
+[[Category:Buildings and structures in Jordan]]
+[[Category:Buildings and structures completed in 2004]]
+[[Category:Flagpoles]]
+
+
+{{jordan-struct-stub}}
+{{asia-flag-stub}}</text>
+      <sha1>etjppkwrcbd7g5y70xtdauyo5twif77</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bumi Resources</title>
+    <ns>0</ns>
+    <id>18460609</id>
+    <revision>
+      <id>838424975</id>
+      <parentid>825772440</parentid>
+      <timestamp>2018-04-26T22:58:00Z</timestamp>
+      <contributor>
+        <username>FreeKnowledgeCreator</username>
+        <id>8971613</id>
+      </contributor>
+      <minor/>
+      <comment>tweak</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4039">{{Infobox company
+| name = PT Bumi Resources Tbk.
+| logo = Bumi Resources logo.svg
+| type = [[Publicly held company|Public]]
+| traded_as      = {{idx|BUMI}}
+| industry       = [[Mining]]
+| products       = [[Coal]], CBM
+| foundation = 1973
+| location = [[Jakarta]], [[Indonesia]]
+| key_people = Kusumo A. Martoredjo [[President Commissioner]], Saptari Hoedaja [[President Director]]
+| revenue        = {{profit}} [[Indonesian Rupiah|Rp]] 83.6&amp;nbsp;billion (2016)
+| assets         = {{profit}} Rp 41.9&amp;nbsp;trillion (2016)
+| equity         = {{down}} [[USD]] - 2,466&amp;nbsp;billion (2016)
+| net_income     = {{profit}} [[Indonesian Rupiah|Rp]] 1.59&amp;nbsp;trillion (2016)
+| num_employees = 242 (2016)
+| homepage = [http://www.bumiresources.com www.bumiresources.com]
+}}
+
+'''PT Bumi Resources Tbk''' or ''' Bumi Resources ''' is one of the largest [[mining|mining companies]] in [[Indonesia]] structured as a [[holding company]].&lt;ref&gt;{{cite web |url=http://www.indonesia-investments.com/doing-business/indonesian-companies/bumi-resources/item157
+ |title=Indonesia-Investments.com:Bumi Resources company profile  |date=April 1, 2014}}&lt;/ref&gt; It is reputedly the biggest thermal coal producer in Indonesia and is majority owned by the [[Bakrie Group]].&lt;ref name="Latul"&gt;{{cite news|url=https://af.reuters.com/article/energyOilNews/idAFL3E8L91LR20121009?sp=true|title=Bumi Resources talks to Indonesia group on coal stake sale-sources|last=Latul|first=Janeman|date=October 9, 2012|work=[[Reuters]]|accessdate=10 October 2012}}&lt;/ref&gt; 
+
+== History ==
+The company was initially established by the name of PT Bumi Modern in 1973 and engaged in the hospitality and tourism industry. It conducted its initial public offering in 1990 and transformed its core business from hospitality and tourism to oil, natural gas, and mining in 1998. The company changed its name to PT Bumi Resources Tbk in 2000. This company have 2.7 billion tons of coal reserves. Not only that, Bumi Resources still has enormous resources in total reaching 12.6 billion tons.
+
+== Subsidiaries ==
+*PT Kaltim Prima Coal (KPC): operates approximately 90,000 hectares of coal mining concessions in [[East Kalimantan]] province.
+*PT Arutmin Indonesia: operates approximately 70,000 hectares of coal mining concessions in South Kalimantan.
+*PT Fajar Bumi Sakti: manages a total concession area of 8,250.5 hectares in East Kalimantan.
+*PT Pendopo Energi Batubara: owns a concession area of 17,840 hectares in South Sumatera.
+*PT Bumi Resources Minerals Tbk: operates other (non-coal) mining assets.
+*Kalimantan Coal Limited.
+*Bumi Investment Pte. Ltd.
+*Herald Resources Pty. Ltd.
+*Bumi Capital Pte. Ltd.
+*Indocoal Resources (Cayman) Ltd.
+*PT Kaltim Prima Cbm .
+*PT Pendopo Energi Nusantara.
+*PT Bumi Resources Investment.
+*PT MBH Minera Resources.
+*PT Bumi Resources Minerals.
+*Calipso Investment Pte. Ltd.
+*Forerunner International Pte. Ltd.
+*Enercorp Ltd.
+*Knightley Business Resources Pte. Ltd.
+*Sangatta Holdings Limited.
+*Bumi Holdings Sas.
+*PT Manaor Sihotang
+*PT Mitra Bisnis Harvest.
+*PT Sitrade Coal.
+*PT Seamgas Indonesia.
+*PT Cipta Prima Sejati.
+*PT Arutmin CBM.
+*PT Indocoal Kalsel Resources.
+*Enercoal Resources Pte. Ltd.
+*Zurich Assets International, Ltd.
+*PT Lumbung Capital.
+*PT IndoCoal Kaltim Resources.
+*PT Buana minera Harvest.
+*Bumi Netherlands B.V.
+*PT MBH mining Resource.
+*PT Arutmin Indonesia.
+*IndoCoal KPC Resources (Cayman) Limited.
+*PT Alphard Resources.
+*Bumi Mauritania Sa.
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [http://www.bumiresources.com Official company site]
+* [http://www.kpc.co.id Kaltim Prima Coal website]
+* [http://www.arutmin.com Arutmin Indonesia website]
+* [https://web.archive.org/web/20150202214427/http://www.fajarbumisakti.co.id/ Fajar Bumi Sakti website]
+* [http://www.bumiresourcesminerals.com Bumi Resources Minerals website]
+
+[[Category:Coal companies of Indonesia]]
+[[Category:Mining companies of Indonesia]]
+[[Category:Oil and gas companies of Indonesia]]
+
+
+{{Indonesia-stub}}
+{{asia-company-stub}}
+{{coal-company-stub}}</text>
+      <sha1>t6zoezqohi6q4l9g7qkylmccoa5m4am</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bust of Carl Legien</title>
+    <ns>0</ns>
+    <id>50437206</id>
+    <revision>
+      <id>837656410</id>
+      <parentid>837656398</parentid>
+      <timestamp>2018-04-22T05:18:03Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>stub</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="674">{{unreferenced|date=May 2016}}
+[[File:Berlin, Germany (April 2016) - 024.JPG|thumb|right|The bust in 2016]]
+The '''bust of [[Carl Legien]]''' is installed along [[Legiendamm]] in [[Kreuzberg]], Berlin, Germany.
+
+==See also==
+{{Portal|Berlin|Visual arts}}
+* [[Bust of Wilhelm Leuschner]]
+* [[List of public art in Berlin]]
+
+==External links==
+* {{Commons category-inline|Denkmal Carl Legien (Berlin-Kreuzberg)}}
+
+{{Coord missing|Berlin}}
+
+[[Category:Busts in Germany]]
+[[Category:Friedrichshain-Kreuzberg]]
+[[Category:Monuments and memorials in Berlin]]
+[[Category:Outdoor sculptures in Berlin]]
+[[Category:Sculptures of men in Germany]]
+
+
+{{Germany-stub}}
+{{Sculpture-stub}}</text>
+      <sha1>21p8i2wyc73drxaa37fq8167e2c40hy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Château de Bercy</title>
+    <ns>0</ns>
+    <id>41750468</id>
+    <revision>
+      <id>783277947</id>
+      <parentid>763704678</parentid>
+      <timestamp>2017-06-01T07:26:33Z</timestamp>
+      <contributor>
+        <username>Magic links bot</username>
+        <id>30707369</id>
+      </contributor>
+      <minor/>
+      <comment>Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4349">[[File:Bercy, château de.jpg|thumb|Drawing of the Château de Bercy main façade]]
+[[File:Château de Bercy plan, Destailleur Paris t1, 123, Gallica 2013 (adjusted).jpg|thumb|Plan of the château, entrance court, forecourt and stables; the garden facade (at the top) faces southwest]]
+[[File:P1020369 Charenton Chateau de Bercy rwk.JPG|thumb|The surviving north hunting pavilion]]
+The '''Château de Bercy''' was a [[Louis XIII style|Louis XIII]] [[château]] located in [[Bercy]], a part of modern-day [[Charenton-le-Pont]] in Paris, France.
+
+== History ==
+The château was constructed beginning in 1658 for Charles-Henri I de Malon de Bercy by [[architect]] [[François Le Vau]], [[Louis Le Vau]]'s younger brother. It was unfinished upon the death of the younger Le Vau in 1676. Malon de Bercy's son and heir, Charles-Henri II de Malon de Bercy (1678–1742), superintendent of finances, finished its construction, but modified the plans, filling in the moats, creating gardens, and altering the interior distribution. The château was reworked from 1702 to 1713 by the architect Jacques de La Guépière, who added to the service buildings.&lt;ref&gt;Hautecour 1948, p. 118.&lt;/ref&gt; Charles-Henri II commissioned sculptors employed on royal buildings to modernize the château's furnishings in 1713-14.
+
+The gardens, designed by [[André Le Nôtre]], extended to the banks of the [[Seine]] river. They were also known as the ''Parc de Bercy''.&lt;ref&gt;{{cite web|url=http://www.economie.gouv.fr/files/files/directions_services/caef/Documents/Expositions_virtuelles/ministere_ville/pages/ber-plan2.html |title=Le parc et le château de Bercy |publisher=Economie.gouv.fr |date= |accessdate=2014-02-24}}&lt;/ref&gt; The whole Bercy area around the château and the river were full of gardens and other houses and mansions.&lt;ref&gt;{{cite web|url=http://www.economie.gouv.fr/files/files/directions_services/caef/Documents/Expositions_virtuelles/ministere_ville/pages/ber-plan1.html |title=Le Petit Bercy et les villégiatures en bord de Seine, en marge du château de Bercy |publisher=Economie.gouv.fr |date= |accessdate=2014-02-24}}&lt;/ref&gt; These gradually gave way to more condensed housing as the city grew in population during the 19th century.
+
+The château was sold and demolished in 1861. Today the main [[SNCF]] route from east to west, the [[Boulevard Périphérique|Périphérique]] and the [[autoroute de l'Est]] run where the garden of Le Nôtre used to be. Only two hunting pavilions survive, built 1713–1714 to the designs of Jacques de La Guépière and located on either side of the rue du Petit Château.&lt;ref&gt;Gallet 1995, p. 277.&lt;/ref&gt;
+
+One of the console tables became a part of the collections of the [[Louvre Museum]].&lt;ref name="louvre"&gt;{{cite web|url=http://www.louvre.fr/en/oeuvre-notices/console-table-chateau-de-bercy|title=Console table from the Château de Bercy|publisher=[[Louvre Museum]]|accessdate=2014-01-26}}&lt;/ref&gt;
+
+==Notes==
+{{Reflist}}
+
+==Bibliography==
+* Deshairs, Léon (1911). ''Le Château de Bercy. Architecture et décoration, fin du règne de Louis XIV''. Paris: Calavas. {{OCLC|8123686}}.
+* Gallet, Michel (1995). ''Les Architectes Parisiens du XVIIIe siècle : Dictionnaire biographique et critique'', "Jacques de La Guépière", p. 277. Paris: Mengès. {{ISBN|9782856203705}}.
+* Hautecoeur, Louis (1948). ''Histoire de l'Architecture classique en France. Tome 2: Le Règne de Louis XIV''. Paris: J. Picard. {{OCLC| 489711032 | 476619163}}.
+* Le Goff, Guy (1991). C.A.O.A du dépt. du Maine-et-Loire, "''Une visite à Brissac''" (L'Estampille-L'Objet d'Art" no. 248/juin 1991, p.&amp;nbsp;52, ill. - archives pers.).
+* Pons, Bruno (1995). ''Grands décors français (1650–1800) reconstitués en Angleterre, aux États-Unis, en Amérique du Sud et en France'' (Dijon, éditions Faton, 1995, p.&amp;nbsp;48-53, 185-208);
+
+==External links==
+{{commonscat-inline}}
+*[http://chateaubercy.wifeo.com/le-chateau.php Le château de Bercy] (in French)
+
+{{coord|48.82873|N| 2.4006|E|source:wikidata-and-enwiki-cat-tree_region:FR_scale:500|display=title}}
+
+{{DEFAULTSORT:Chateau de Bercy}}
+[[Category:Buildings and structures demolished in 1861]]
+[[Category:Châteaux in Paris]]
+[[Category:Demolished buildings and structures in France]]
+[[Category:Former buildings and structures in Paris]]
+[[Category:Gardens in Val-de-Marne]]
+
+{{france-stub}}</text>
+      <sha1>acjskcfove3hqwozqt2qplnnkkf2hbl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Corpicenses</title>
+    <ns>0</ns>
+    <id>9338474</id>
+    <revision>
+      <id>622217926</id>
+      <parentid>544676764</parentid>
+      <timestamp>2014-08-21T16:40:45Z</timestamp>
+      <contributor>
+        <username>Wizardman</username>
+        <id>713860</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */stub sort using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="408">The '''Corpicenses''' were an ancient people of [[Sardinia]], noted by [[Ptolemy]] (III, 3).  They dwelt south of the [[Rucensi]] and north of the [[Scapitani]] and the [[Siculensi]].
+
+==References==
+*[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Periods/Roman/_Texts/Ptolemy/3/3*.html Ptolemy's Geography online]
+
+[[Category:Ancient peoples of Sardinia]]
+
+
+{{italy-hist-stub}}
+{{europe-ethno-group-stub}}</text>
+      <sha1>a5l7pmxuyutiqjvn99s0cq6s90y9o5q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Croatian Actuarial Association</title>
+    <ns>0</ns>
+    <id>15487679</id>
+    <revision>
+      <id>861277912</id>
+      <parentid>790096897</parentid>
+      <timestamp>2018-09-26T09:10:39Z</timestamp>
+      <contributor>
+        <ip>91.212.46.241</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1050">The '''Croatian Actuarial Association''' (CAA) ({{lang-hr|Hrvatsko aktuarsko društvo, HAD}}) is a professional association of [[actuary|actuaries]] in [[Croatia]], promoting and developing actuary science and profession in theory and practice, facilitating members' professional development and knowledge sharing.
+
+CAA has been established in 1996. with membership count of 120 regular, 45 affiliates and 2 honorary members.
+
+CAA is a member of [[International Actuarial Association]] ([[International Actuarial Association|IAA]]) and [[Actuarial Association of Europe]] ([[Actuarial Association of Europe|AAE]]).
+
+==External links==
+
+* [http://www.aktuari.hr Croatian Actuarial Association official website]
+* [https://www.actuaries.org/iaa International Actuarial Association (IAA)]
+* [http://actuary.eu// Actuarial Association of Europe (AAE)] 
+
+[[Category:Actuarial associations]]
+[[Category:Professional associations based in Croatia]]
+[[Category:1996 establishments in Croatia]]
+[[Category:Organizations established in 1996]]
+
+{{Croatia-stub}}</text>
+      <sha1>n46p82j7mlanfytgxp0mebkb0qgzatp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>DAF 33</title>
+    <ns>0</ns>
+    <id>13994223</id>
+    <revision>
+      <id>866040304</id>
+      <parentid>865499764</parentid>
+      <timestamp>2018-10-27T21:48:10Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Speedily moving category Automobiles powered by boxer engines to [[:Category:Cars powered by boxer engines]] per [[WP:CFDS|CFDS]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2402">{{refimprove|date=April 2009}}
+
+{{Infobox automobile
+| image = Daf10.jpg
+| name = DAF 33
+| manufacturer = [[VDL Nedcar|DAF]]
+| aka =
+| production = 1967&amp;ndash;1974
+| assembly = [[Born, Netherlands]] ([[DAF Born]])
+| predecessor = [[DAF Daffodil]]
+| successor = 
+| class =
+| body_style = 2-door [[sedan (car)|sedan]]&lt;br&gt;2-door [[Pickup truck|pick-up]]&lt;br&gt;2-door [[van]]|
+| layout = [[FR layout]]
+| platform =
+| engine = 746&amp;nbsp;cc [[flat twin]]
+| wheelbase= {{convert|81|in|mm|0|abbr=on}}
+| weight= 
+| length= {{convert|143|in|mm|0|abbr=on}}
+| width= {{convert|57|in|mm|0|abbr=on}}
+| height= {{convert|54.5|in|mm|0|abbr=on}}
+| transmission=[[Variomatic]] &lt;br&gt;(continuously variable)
+| related =
+| designer = 
+}}
+The '''DAF 33''' is a compact saloon car produced by the [[DAF Trucks|DAF]] company of [[Eindhoven]], in the Netherlands between 1967 and 1974. Outwardly and technically it differed little from its predecessor, the [[DAF Daffodil]].
+
+1966 had seen the introduction of the [[Giovanni Michelotti|Michelotti]] styled [[DAF 44]] which appeared to compete in virtually the same market segment as the Daffodil-based design; but the 33, its development costs presumably long since amortised,{{citation needed|date=December 2013}} remained in production with its new name.  A more luxurious version became available in 1969.   Thereafter the car changed very little:  however, the 6 volt electrical system was replaced with a 12 volt one in 1972.&lt;ref name=DailyMailMotorShowReviewOct1972re1973&gt;{{cite journal|journal =Daily Mail Motor Show Review 1972 on 1973 Cars |volume = | authorlink =  |title = DAF 33| publisher=Associated Newspapers Group Ltd |location= London |pages = Page 14 (DAF 33)| date = October 1972}}&lt;/ref&gt;
+
+The DAF 33, in common with other DAF cars, featured a [[continuously variable transmission]] system, the DAF [[Variomatic]].
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{Commons category-inline|DAF 33}}
+
+[[File:DAF 33 Kombi at rest at Schaffen-Diest Fly-drive 2013.JPG|left|thumb|Daf 33 estate]]
+
+{{DAF}}
+
+[[Category:DAF vehicles|33]]
+[[Category:Rear-wheel-drive vehicles]]
+[[Category:Cars powered by boxer engines]]
+[[Category:Sedans]]
+[[Category:Vans]]
+[[Category:1960s cars]]
+[[Category:1970s cars]]
+[[Category:Cars introduced in 1967]]
+[[Category:Vehicles with CVT transmission]]
+[[Category:VDL Nedcar vehicles]]
+
+
+{{Classicpow-auto-stub}}
+{{Netherlands-stub}}</text>
+      <sha1>ehgfme6o2wx2ksq7jmy61pquz0bxyob</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>DFS Kopernikus</title>
+    <ns>0</ns>
+    <id>13394237</id>
+    <revision>
+      <id>798617037</id>
+      <parentid>775087024</parentid>
+      <timestamp>2017-09-02T22:56:36Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 2 sources and tagging 0 as dead. #IABot (v1.5)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2686">'''DFS-Kopernikus''' (meaning ''Deutscher Fernmeldesatellit Kopernikus'') was the name of three [[geostationary satellite|geostationary satellites]] of [[Deutsche Bundespost]] and later [[Deutsche Telekom AG]]. They are no longer in use.
+
+When DFS-Kopernikus 3 was nearing the end of its life, [[SES S.A.|SES]] sealed an agreement with Deutsche Telekom to use the 23.5° east position and frequencies, and in August 2001, [[Astra 1D]] was moved there.&lt;ref&gt;[http://www.advanced-television.com/2001/2001_newsarchive/24%20Aug-2%20Sept.html "New position for ASTRA 1D"] {{webarchive|url=https://web.archive.org/web/20091009164902/http://www.advanced-television.com/2001/2001_newsarchive/24%20Aug-2%20Sept.html |date=2009-10-09 }} ''Advanced-Television.com'' (August 21, 2001). Retrieved on November 19, 2008&lt;/ref&gt; The [[Astra 23.5°E]] position was officially opened in March 2002 with the launch and positioning of [[Astra 3A]]. Deutsche Telekom contracted for 10 transponders on that craft and shortly switched over all traffic from DFS-Kopernikus 3.&lt;ref&gt;{{cite press release |publisher=SES ASTRA |date=May 30, 2002 |url=http://www.ses.com/4233325/news/2002/4421175 |title= ASTRA 3A fully operational at 23.5° East |accessdate = January 26, 2012}}&lt;/ref&gt;
+
+== Station Keeping ==
+
+The orbital station keeping manoeuvres of the satellites were conducted by the Flight Dynamics Group of the [[German Aerospace Center]] (German Space Operations Center) in [[Oberpfaffenhofen]], Bavaria. The satellites were located at the following positions:
+
+* '''DFS-Kopernikus 1''': 23.5° East, later 33.5° East (1989–1994?)
+* '''DFS-Kopernikus 2''': 28.5° East (1990–2000?)
+* '''DFS-Kopernikus 3''': 23.5° East (1992–2002)
+
+== German satellite TV market share in 1990 ==
+*[[SES S.A.|SES]]: ca. 80%
+*Kopernikus: ca. 20%
+*TV-SAT 2: under 1%
+
+==See also==
+*[[Nicolaus Copernicus]]
+*[[Astra 23.5°E]]
+*[[Astra 3A]]
+
+==References==
+{{Reflist}}
+{{Refbegin}}
+* [http://space.skyrocket.de/doc_sdat/dfs-kopernikus-1.htm DFS-Kopernikus 1, 2, 3 / HellasSat 1]
+{{Refend}}
+
+==External links==
+*[http://www.op.dlr.de/wt-rm/mb/dfs/dfssats.htm DFS-Kopernikus in GSOC]
+*[http://space.skyrocket.de/doc_sdat/dfs-kopernikus-1.htm DFS-Kopernikus]
+*[http://space.skyrocket.de/doc_sdat/astra-2d.htm ASTRA 3A]
+*[https://web.archive.org/web/20111130040918/http://www.ses.com/4232618/fleet-coverage SES fleet information and map]
+*[http://www.onastra.com OnAstra] - Official Astra consumers/viewers' site
+*[http://www.ses.com/ SES] - Official SES trade/industry site
+
+
+{{Use British English|date=January 2014}}
+
+[[Category:Artificial satellites orbiting Earth|Kopernikus]]
+[[Category:Deutsche Telekom]]
+
+
+{{Germany-stub}}</text>
+      <sha1>e4p2cgdz0my9jva2nz07eg2b84hkhqu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dave Nemo</title>
+    <ns>0</ns>
+    <id>11257255</id>
+    <revision>
+      <id>836329629</id>
+      <parentid>824968558</parentid>
+      <timestamp>2018-04-14T02:58:12Z</timestamp>
+      <contributor>
+        <ip>72.29.33.224</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1622">'''Dave Nemo''' is an [[United States|American]] [[radio personality]] who hosts a show on [[Road Dog Trucking]] on [[Sirius XM Radio]].&lt;ref&gt;[http://www.xmradio.com/onxm/channelbio.xmc?ch=171 Dave Nemo on XM Open Road]&lt;/ref&gt; Nemo's show is geared toward entertainment and news favored by [[truck driver]]s.
+
+Before his current stint with XM, Nemo was best known as the host of ''The Road Gang,'' the overnight truckers' show broadcast for many years from [[WWL (AM)]] Radio in [[New Orleans, Louisiana|New Orleans]]  and heard throughout most of the country through its [[Clear-channel stations|clear channel]] signal. Nemo was originally the show's weekend and fill-in host behind [[Charlie Douglas (radio personality) |Charlie Douglas]], then took over the top spot on the show when Douglas left.  Big John Parker then took Nemo's spot as weekend host.
+
+Nemo joined Road Dog (then Open Road) at its inception. His show is aired daily from 7:00 a.m. to 11:00 a.m. [[Eastern Time Zone|EST]]. Two of his biggest overnight competitors during his ''Road Gang'' days, [[Bill Mack (singer)|Bill Mack]] and [[Dale Sommers|Dale "The Truckin' Bozo" Sommers]], also joined the channel.
+
+Nemo's show is broadcast from studios in [[Nashville, Tennessee|Nashville]], where guests from the [[country music]] industry often stop by.
+
+==References==
+
+{{reflist}}
+
+==External links==
+*[http://www.davenemo.com Dave Nemo official site]
+
+{{DEFAULTSORT:Nemo, Dave}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:American radio personalities]]
+[[Category:XM Satellite Radio]]
+
+
+{{US-radio-bio-stub}}</text>
+      <sha1>4o1va2a7f01p3lx1sk4ov7e68t8tvt3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Den vilda</title>
+    <ns>0</ns>
+    <id>18529526</id>
+    <revision>
+      <id>866809133</id>
+      <parentid>866799740</parentid>
+      <timestamp>2018-11-01T18:02:23Z</timestamp>
+      <contributor>
+        <username>Werldwayd</username>
+        <id>4571676</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2915">{{Infobox song contest entry
+| song         = {{flagicon|Sweden}} "Den vilda"
+| image        = 
+| caption      = 
+| year         = 1996
+| country      = Sweden
+| artist       = [[Maria Rådsten]],&lt;br&gt;[[Nanne Grönvall]],&lt;br&gt;Peter Grönvall
+| as           = [[One More Time (band)|One More Time]]
+| with         = 
+| language     = Swedish
+| languages    =
+| composer     = Peter Grönvall
+| lyricist     = [[Nanne Grönvall]]
+| conductor    = [[Anders Berglund]]
+| place        = 3rd
+| points       = 100
+| lyrics       = [http://www.diggiloo.net/?1996se from Diggiloo Thrush]
+| clip         = 
+| prev         = Se på mej
+| prev_link    = Se på mej
+| next         = Bara hon älskar mig
+| next_link    = Bara hon älskar mig
+}}
+'''"Den vilda"''' (meaning ''The wild one'') is a winter-related song by [[Sweden|Swedish]] band [[One More Time (band)|One More Time]]. It won the Melodifestivalen 1996 contest and hence became the Swedish entry at the [[Eurovision Song Contest 1996]] in [[Oslo]], [[Norway]].
+
+The song was performed as the 23rd and last entry in the 1996 Eurovision Song Contest. It was written by Peter Grönvall. At the close of the voting it had received 100 points and placed 3rd out of 23 entries. It also peaked at #7 on the Swedish singles chart.&lt;ref&gt;{{cite web|url=http://www.swedishcharts.com/search.asp?cat=s&amp;artist=&amp;artist_search=starts&amp;title=Den+vilda&amp;title_search=starts|title=Swedish Charts Archive|accessdate=2010-12-21}}&lt;/ref&gt;
+
+One More Time also recorded an all-English version of the song under the title "'''The Wilderness Mistress'''".
+
+==Dansaðu vindur==
+"Dansadu vindur" is a 2013 adaptation of the song and is interpreted by [[Eivør Pálsdóttir]] (alternatively Eivör Pálsdóttir) from [[Faroe Islands]]. It uses the music of "Den vilda" with new lyrics in [[Icelandic language|Icelandic]]. It became a hit in the winter of 2013 in Iceland. The single is taken from the 14-track Icelandic compilation album ''Frostrósir - Heyr himnasmiður'' with contributions by a number of well-known artists.
+
+==Charts==
+{|class="wikitable sortable"
+!Charts (1996)
+!Peak&lt;br/&gt;position
+|-
+{{singlechart|Sweden|7|artist=One More Time|song=Den vilda}}
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{succession box
+| before="[[Se på mej]]" by [[Jan Johansen (singer)|Jan Johansen]]
+| title=[[Melodifestivalen]] winners
+| after="[[Bara hon älskar mig]]" by [[Blond (band)|Blond]]
+| years=[[Melodifestivalen 1996|1996]]
+}}
+{{s-end}}
+
+{{Sweden in the Eurovision Song Contest}}
+{{Eurovision Song Contest 1996}}
+
+[[Category:Eurovision songs of 1996]]
+[[Category:Eurovision songs of Sweden]]
+[[Category:Melodifestivalen songs of 1996]]
+[[Category:One More Time (band) songs]]
+[[Category:Songs written by Nanne Grönvall]]
+[[Category:1996 songs]]
+[[Category:Sony Music Entertainment singles]]
+[[Category:1996 singles]]
+[[Category:Swedish-language songs]]
+
+{{Sweden-stub}}
+{{1990s-song-stub}}</text>
+      <sha1>rkuvnr7qd9ggq8z2m0je5d7p8tgvc7a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Düsseldorfer Marionetten-Theater</title>
+    <ns>0</ns>
+    <id>33895694</id>
+    <revision>
+      <id>855782764</id>
+      <parentid>546264789</parentid>
+      <timestamp>2018-08-20T20:04:38Z</timestamp>
+      <contributor>
+        <username>Cyfal</username>
+        <id>4637213</id>
+      </contributor>
+      <comment>explanation</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="447">{{Expand German|topic=struct|date=November 2011|Düsseldorfer Marionetten-Theater}}
+'''Düsseldorfer Marionetten-Theater ''' is a [[marionette]] theatre in [[Düsseldorf]], [[North Rhine-Westphalia]], [[Germany]].
+
+{{coord|51.22241|N|6.77263|E|region:DE-NW_type:landmark_source:dewiki|display=title}}
+
+{{DEFAULTSORT:Dusseldorfer Marionetten-Theater}}
+[[Category:Theatres in Düsseldorf]]
+
+{{Europe-theat-stub}}
+{{NorthRhineWestphalia-struct-stub}}</text>
+      <sha1>2uiww5mvil5uqybgk9b6l89ew9xil5x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>EPO (publisher)</title>
+    <ns>0</ns>
+    <id>5661439</id>
+    <revision>
+      <id>629764529</id>
+      <parentid>558101680</parentid>
+      <timestamp>2014-10-15T21:07:15Z</timestamp>
+      <contributor>
+        <username>Jayjg</username>
+        <id>76027</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, fix grammar/shorter using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1118">'''EPO''' (''Proletarian Education'', [[French language|French]]: ''Education prolétarienne'', [[Dutch language|Dutch]]: ''Proletarische Opvoeding'') is a [[Belgium|Belgian]] [[publisher]] of [[non-fiction]] books. It publishes approximately 25 books a year in Dutch and French, mainly centered on [[politics]], [[history]] and [[sociology]]. These books tend to be of [[progressivism|progressive]] nature. The publisher is closely linked to the [[Workers Party of Belgium]].
+
+Belgian and international authors who were published by EPO include [[Manuel Abramowicz]], [[Jan Blommaert]], [[André van Bosbeke]], [[Krista Bracke]], [[Lucas Catherine]], [[Noam Chomsky]], [[Hans Depraetere]], [[Jenny Dierickx]], [[Eduardo Galeano]], [[Ivo Hermans]], [[Peter Tom Jones]], [[Els Keytsman]], [[Jaap Kruithof]], [[Ludo Martens]], [[Michael Parenti]], [[Marc Spruyt]], [[Paul Van Nevel]], [[Robert Van Yper]], [[Peter Vermeulen]], [[Jan Willems]], and [[Howard Zinn]].
+
+==External links==
+* {{Official website|http://www.epo.be }}
+
+[[Category:Book publishing companies of Belgium|EPO]]
+
+
+{{Belgium-stub}}
+{{publishing-stub}}</text>
+      <sha1>1el0rd4mu9fcxiqigtci6o6u3v7b4qr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>East African Revival</title>
+    <ns>0</ns>
+    <id>36148507</id>
+    <revision>
+      <id>848719737</id>
+      <parentid>848704932</parentid>
+      <timestamp>2018-07-03T20:43:46Z</timestamp>
+      <contributor>
+        <username>Walter Görlitz</username>
+        <id>121745</id>
+      </contributor>
+      <comment>linking and [[MOS:CAPS]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1608">{{Refimprove|date=May 2016}}
+
+The '''East African Revival''' ({{lang-lg|Okulokoka}}) was an important [[Christian revival|renewal]] movement within [[Evangelicalism|Protestant Evangelicalism]] in East Africa during the late 1920s and 1930s.&lt;ref&gt;{{cite book|last=Ward|first=Kevin|title=The East African Revival:  History and Legacies|year=2012|publisher=Ashgate Publishing|location=Surrey, England|page=3}}&lt;/ref&gt; The Revival began at a [[Church Missionary Society]] (CMS) mission station in the Belgian territory of [[Ruanda-Urundi]] in 1929, and spread to [[Uganda Protectorate]], [[Tanganyika Territory]] and [[Kenya Colony]] during the 1930s and 1940s.
+
+The revival contributed to the significant growth of the Church in East Africa in the 1940s through the 1970s and had a visible influence on Western missionaries who were observer-participants of the movement.&lt;ref&gt;{{cite book|last=MacMaster|first=Richard K.|title=A Gentle Wind of God:  The Influence of the East Africa Revival|year=2006|publisher=Herald Press|location=Scottdale, PA|page= }}&lt;/ref&gt;{{page needed|date=July 2012}}
+
+== References ==
+{{reflist}}
+
+==External links==
+*[http://www.ugandachurchassociation.org/annual-newsletters/uca-newsletter-2017/east_african_revival/ The East African Revival : Treasure of the Ankole Region] at the Uganda Church Association
+
+[[Category:20th century in Africa]]
+[[Category:Christian revivals]]
+[[Category:Christianity in Rwanda]]
+[[Category:Christianity in Uganda]]
+[[Category:Christianity in Kenya]]
+[[Category:Christianity in Tanzania]]
+[[Category:Ruanda-Urundi]]
+
+
+{{Christianity-stub}}
+{{Africa-stub}}</text>
+      <sha1>1b15529ei1v790hrd0lioj1hn1ck07f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ed. Westermayer</title>
+    <ns>0</ns>
+    <id>49272217</id>
+    <revision>
+      <id>756266601</id>
+      <parentid>704924468</parentid>
+      <timestamp>2016-12-23T02:24:54Z</timestamp>
+      <contributor>
+        <username>Joppa Chong</username>
+        <id>20275651</id>
+      </contributor>
+      <comment>/* External links */ cat-fix</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1007">[[File:Ed. Westermayer 1910.jpg|thumb|Advertisement of Ed. Westermayer (1910)]]
+
+'''Ed. Westermayer''' was a [[piano]] manufacturer in [[Berlin]], Germany. 
+
+It was founded in 1863. The company was located at Simeonstraße 10. The owner Paul Westermayer was awarded an imperial and [[royal warrant of appointment]] to the court of [[Austria-Hungary]].&lt;ref&gt;{{Citation
+| year       = 1917
+| title      = Handbuch des Allerhöchsten Hofes und des Hofstaates Seiner K. und K. Apostolischen Majestät.
+| publisher  = K.k. Hof- und Staatsdruckerei
+| publication-place
+             = Vienna
+| page       = 521
+| url        =
+| accessdate =
+}}&lt;/ref&gt;
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{commonscat-inline}}
+
+{{DEFAULTSORT:Ed. Westermayer}}
+[[Category:1863 establishments in Prussia]]
+[[Category:Companies of Prussia]]
+[[Category:Manufacturing companies based in Berlin]]
+[[Category:Piano manufacturing companies of Germany]]
+[[Category:Purveyors to the Imperial and Royal Court]]
+
+
+{{germany-stub}}</text>
+      <sha1>0hchqe6qqkb097dfldff1wdekthztwd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>El Kalimat School</title>
+    <ns>0</ns>
+    <id>46505614</id>
+    <revision>
+      <id>861328946</id>
+      <parentid>861328849</parentid>
+      <timestamp>2018-09-26T17:12:32Z</timestamp>
+      <contributor>
+        <username>Oshwah</username>
+        <id>3174456</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/Kidsigga|Kidsigga]] ([[User talk:Kidsigga|talk]]): [[WP:SANDBOX|editing tests]] ([[WP:HG|HG]]) (3.4.4)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="655">'''El Kalimat School''' is an English-language international school in [[Bouzaréah]], [[Algiers]].&lt;ref&gt;"[http://www.elkalimatschool.com/about-us.html About Us] {{webarchive|url=https://web.archive.org/web/20150520013403/http://www.elkalimatschool.com/about-us.html |date=2015-05-20 }}." El Kalimat School. Retrieved on April 24, 2015. "52A lot la fumée Bouzaréah 16200, Alger-Algérie"&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.elkalimatschool.com El Kalimat School]
+{{International schools in Algeria}}
+
+{{coord missing|Algeria}}
+
+[[Category:International schools in Algeria]]
+[[Category:Schools in Algiers]]
+{{Algeria-stub}}</text>
+      <sha1>6u20yu41bmpupgbo1nuhh1h2vtwdu1u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Flag of Worcestershire</title>
+    <ns>0</ns>
+    <id>35195223</id>
+    <revision>
+      <id>846747613</id>
+      <parentid>802428151</parentid>
+      <timestamp>2018-06-20T17:08:54Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2835">{{Infobox flag
+| Name = Worcestershire
+| Article = 
+| Type = 
+| Image = Worcestershire flag.svg
+| Nickname = 
+| Morenicks = 
+| Use = 
+| Symbol = 
+| Proportion = 9:16
+| Adoption = 8 April 2013
+| Design = 
+| Designer = Elaine Truby
+}}
+The '''Worcestershire flag''' is the flag of the county of [[Worcestershire]]. It was registered with the [[Flag Institute]] on 8 April 2013 as the winning entry of a BBC Hereford &amp; Worcester competition.&lt;ref name="worcesternews"&gt;{{cite web|url=http://www.worcesternews.co.uk/news/10337675.Fly_the_flag_for_Worcestershire/|author=Worcester News|title=Fly the flag for Worcestershire|accessdate=9 April 2013}}&lt;/ref&gt; It was first flown in a ceremony at [[Worcester Cathedral]] on the same day.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/news/uk-england-hereford-worcester-22061580|author=BBC News|title=New Worcestershire county flag flown at cathedral|accessdate=10 April 2013|date=8 April 2013}}&lt;/ref&gt;
+
+__TOC__
+
+==Design==
+Designed by Elaine Truby, the flag features the county's famed black pear ([[black worcester pear]]) – a symbol reported to have been used by Worcestershire units at the [[Battle of Agincourt]].  Additionally a pear tree is seen on the local council's arms.  Three of these pears are seen on a shield charged against a wavy green and blue background. These latter colours symbolise the verdant flood plain of the [[River Severn]] as it runs through the county. The dark green hue is that worn by the [[Worcestershire County Cricket Club|county's cricket team]].
+
+The flag was created after a competition was launched in 2013 by radio station BBC Hereford &amp; Worcester, to create an official flag for the county after it was discovered Worcestershire didn’t have one.
+
+==Armorial Banner==
+An alternate flag offered for sale commercially is a banner of the arms of [[Worcestershire County Council]] and as such is the property of the council and only represents it, not the wider county. In the absence of an adopted flag at the time, this council flag had been flown alongside the [[Union Flag]] above the [[Department for Communities and Local Government]].&lt;ref&gt;{{cite web|url=http://www.communities.gov.uk/news/corporate/1946468|author=Department for Comminities and Local Government|title=Worcestershire flag flies at Department for Communities and Local Government|date=18 July 2011}}&lt;/ref&gt;
+[[File:County Flag of Worcestershire.png|thumb|160px|Armorial banner of Worcestershire County Council]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[{{Flag Institute|Worcestershire}} Flag Institute – Worcestershire]
+
+{{Subnational flags of the United Kingdom}}
+
+{{DEFAULTSORT:Flag of Worcestershire}}
+[[Category:Worcestershire]]
+[[Category:Flags introduced in 2013|Worcestershire]]
+[[Category:Flags of places in England|Worcestershire]]
+
+
+{{England-stub}}
+{{Europe-flag-stub}}</text>
+      <sha1>7d6injbugro2lpfasjcld338p514pue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Future Prophecies</title>
+    <ns>0</ns>
+    <id>6161984</id>
+    <revision>
+      <id>804638837</id>
+      <parentid>795086468</parentid>
+      <timestamp>2017-10-10T07:52:16Z</timestamp>
+      <contributor>
+        <username>NihlusBOT</username>
+        <id>31996569</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */removing deprecated {{[[Template:Infobox musical artist|Infobox musical artist]]}} parameters ([[Wikipedia:Bots/Requests for approval/NihlusBOT 4|Task 4]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1543">{{unreferenced|date=October 2008}}
+{{Infobox musical artist &lt;!-- See Wikipedia:WikiProject_Musicians --&gt;
+| name                = Future Prophecies
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| alias               = 
+| origin              = [[Norway]]
+| genre               = [[Drum and bass]]
+| years_active        = 1999–present
+| label               = [[Subtitles Recordings]]&lt;br/&gt;[[Outbreak Records (UK)|Outbreak Records]]&lt;br/&gt;[[Moving Shadow]]&lt;br/&gt;[[Breakbeat Kaos]]
+| associated_acts     = 
+| website                 = 
+| current_members     = 
+| past_members        = 
+}}
+
+'''Future Prophecies''' are Richard Animashaun Thomas and Tony Anthun, a [[drum and bass]] duo from [[Norway]]. Between 1999 and 2006, they released over twenty singles on various labels, including Dj Fresh &amp; Adam F´s label Breakbeat Kaos, Rob Playford´s Moving Shadow, and [[Teebee]]'s influential [[Subtitles Recordings]]. In 2005, they released their first album, ''Warlords Rising'', on Subtitles Ivinyl only) &amp; [[Beatservice]], and a [[mix album]] of their singles catalog, ''Raw'', on [[Outbreak Records (UK)|Outbreak]].
+
+Their live performances combine [[deejaying]] with drums, saxophone, and other live instrumentation (called ''hybrid session'').
+
+==External links==
+* {{rolldabeats artist}}
+* {{discogs artist}}
+
+{{Authority control}}
+[[Category:Drum and bass music groups]]
+[[Category:Norwegian electronic music groups]]
+
+
+{{electronic-band-stub}}
+{{norway-stub}}
+{{DnB-stub}}</text>
+      <sha1>hqvcyajoqrmfrs75ge670uha7s651i1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gambia Civil Aviation Authority</title>
+    <ns>0</ns>
+    <id>38354825</id>
+    <revision>
+      <id>867692615</id>
+      <parentid>823000965</parentid>
+      <timestamp>2018-11-07T11:29:31Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Speedily moving category Transport organizations in the Gambia to [[:Category:Transport organisations in the Gambia]] per [[WP:CFDS|CFDS]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1502">The '''Gambia Civil Aviation Authority''' ('''GCAA''') is the [[civil aviation authority]] of [[The Gambia]]. The agency head office is located at [[Banjul International Airport]] in [[Banjul]].&lt;ref&gt;"[http://www.gambia.gm/gcaa/Forms/adobe%20version/Application%20for%20Flight%20Permit.pdf APPLICATION FOR A FLIGHT PERMIT]." ([https://www.webcitation.org/6E0rWXeU9?url=http://www.gambia.gm/gcaa/Forms/adobe%20version/Application%20for%20Flight%20Permit.pdf Archive]) Gambia Civil Aviation Authority. Retrieved on 28 January 2013. "THE GAMBIA CIVIL AVIATION AUTHORITY BANJUL INTERNATIONAL AIRPORT P.O. BOX 285 BANJUL, THE GAMBIA"&lt;/ref&gt;
+
+It is an autonomous government body. It was established under the Public Enterprise Act of 1989 in July 1991 as an autonomous government body.&lt;ref&gt;"[http://www.gambia.gm/gcaa/ Welcome to the Gambia Civil Aviation Authority] {{webarchive|url=https://web.archive.org/web/20130116123106/http://www.gambia.gm/gcaa/ |date=2013-01-16 }}." Gambia Civil Aviation Authority. Retrieved on 28 January 2013.&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{Portal|The Gambia|Aviation}}
+* [https://web.archive.org/web/20130116123106/http://www.gambia.gm/gcaa/ Gambia Civil Aviation Authority]
+
+[[Category:Civil aviation authorities in Africa|Gambia]]
+[[Category:Civil aviation in the Gambia]]
+[[Category:Government of the Gambia]]
+[[Category:Transport organisations in the Gambia]]
+[[Category:Aviation organisations based in the Gambia]]
+
+
+{{gambia-stub}}
+{{aviation-stub}}</text>
+      <sha1>o1azoc3ey7j9l56s5qfaf9f7vs9lp51</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gbandi people</title>
+    <ns>0</ns>
+    <id>27978573</id>
+    <revision>
+      <id>690942505</id>
+      <parentid>689421115</parentid>
+      <timestamp>2015-11-16T17:52:25Z</timestamp>
+      <contributor>
+        <username>A12n</username>
+        <id>1863503</id>
+      </contributor>
+      <minor/>
+      <comment>/* Language */ link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1542">{{Refimprove|date=September 2014}}
+&lt;br&gt;
+{{infobox ethnic group
+|group    = The Gbandi
+| region1= {{flag|Liberia}}
+| pop1= 159,000
+| region2= {{flag|Guinea}}
+| pop2= 14,000
+|langs    = [[Gbandi language|Gbandi]]
+|rels     = [[African Traditional Religion|Gbandi religion]], [[Islam]], [[Christianity]]
+|related  = [[Loko people|Loko]], [[Mende people|Mende]], [[Kpelle people|Kpelle]], [[Loma people|Loma]], [[Zialo people|Zialo]], [[Gola people|Gola]], [[Vai people|Vai]]
+}}
+
+'''Gbandi''' (or Bandi, Bande, Gbande, Gbunde) is an [[ethnic group]] of [[Liberia]]. It is also the language traditionally spoken by these people.
+
+==People==
+The population is estimated at 107,000 people; of which many have fled to [[Guinea]] during the [[First Liberian Civil War|Liberian Civil War]]. Gbandi people practice Islam and Christianity, as well as some traditional beliefs.&lt;ref name=Ethnologue&gt;{{cite web |url=http://www.ethnologue.com/show_language.asp?code=bza |title= Bandi: A language of Liberia |work=Languages of the World |publisher=Ethnologue |accessdate=October 17, 2011}}&lt;/ref&gt;
+
+==Language==
+[[Gbandi language|Gbandi]] is a Southwestern [[Mande language]]. There are six dialects of the language: Tahamba, Wawana, Wulukoha, Hasala, Lukasa, and Hembeh.&lt;ref name=Ethnologue/&gt;
+
+==References==
+&lt;references/&gt;
+
+{{Ethnic groups in Guinea}}
+{{Ethnic groups in Liberia}}
+{{Mandé peoples}}
+
+{{Authority control}}
+[[Category:Ethnic groups in Liberia]]
+[[Category:Ethnic groups in Guinea]]
+
+
+{{Liberia-stub}}
+{{Guinea-stub}}
+{{Africa-ethno-group-stub}}</text>
+      <sha1>lv9pka2goavcp9kto8bdx87zyacs6je</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Global Task Force on Expanded Access to Cancer Care and Control in Developing Countries</title>
+    <ns>0</ns>
+    <id>27418890</id>
+    <revision>
+      <id>867267169</id>
+      <parentid>807780406</parentid>
+      <timestamp>2018-11-04T18:28:04Z</timestamp>
+      <contributor>
+        <username>Willthacheerleader18</username>
+        <id>12765036</id>
+      </contributor>
+      <comment>/* Structure and Leadership */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10104">The '''Global Task Force on Expanded Access to Cancer Care and Control in Developing Countries''' (GTF.CCC) is a research and advisory initiative directed by the [http://isites.harvard.edu/icb/icb.do?keyword=k62597 Harvard Global Equity Initiative], the [[Harvard Medical School]], the [[Harvard School of Public Health]], the [[Fred Hutchinson Cancer Research Center]], the [[University of Washington]] and the University of Washington Medicine to address the global burden of cancer in developing countries. This initiative, originally convened in 2009 by four Harvard-based institutions including the [[Dana-Farber Cancer Institute]], comprises a network of more than thirty leaders in the fields of cancer and global health from around the world. GTF.CCC also draws on more than 50 technical and strategic advisors, a private sector engagement group, a strategic advisory committee, and a dual secretariat of staff based at the Harvard Global Equity Initiative and the Fred Hutchinson Cancer Research Center.
+
+[[File:GTFCCCFINAL.jpg|thumb|The Global Task Force on Expanded Access to Cancer Care and Control in Developing Countries]]
+
+==Mandate==
+&lt;br /&gt;The mandate of the GTF.CCC is to design, implement and evaluate innovative strategies for expanding access to cancer prevention, detection and care.  The initiative focuses on the creation of global facilities and strategies for the financing and procurement of affordable, essential cancer drugs, vaccines and services for prevention, diagnosis, treatment, survivorship and palliation.  Through local partners, the GTF.CCC supports implementation of innovative service delivery models that provide evidence for scaling up access to cancer care and control, and strengthening health systems in developing countries.
+
+==Justification==
+&lt;br /&gt;Although once considered a problem exclusive to high-income countries, cancer is a leading cause of death and disability in the developing world. Of the 7 million cancer deaths in the world today, approximately 70% occur in developing countries.&lt;ref name="Beaulieu N 2009"&gt;Beaulieu N, Bloom D, Bloom R, Stein R. Breakaway: The global burden of cancer - challenges and opportunities. The Economist Intelligence Unit. 2009.&lt;/ref&gt;  By 2030, low and middle income countries will bear the brunt of an estimated 27 million new cancer cases and 17 million cancer deaths.&lt;ref name="Beaulieu N 2009"/&gt;&lt;ref name="Beaulieu N 2009"/&gt;&lt;ref&gt;Cancer control opportunities in low- and middle-income countries. Washington, DC: Institute of Medicine of the National Academies, National Academies Press; 2007.&lt;/ref&gt;&lt;ref&gt;Ferlay J, Bray F, Pisani P, Parkin DM. GLOBOCAN 2002: Cancer incidence, mortality, and prevalence worldwide: International Agency for Research on Cancer; 2003.&lt;/ref&gt;&lt;ref&gt;Boyle P, and Levin, B. World Cancer Report 2008. Lyon: International Agency for Research on Cancer; 2008.&lt;/ref&gt;&lt;ref&gt;Kanavos P. The rising burden of cancer in the developing world. Annals of Oncology 17 (Supplement 8): viii15–viii23, 2006.&lt;/ref&gt;
+
+Case fatality for the cancers that can be treated or prevented is much higher in the developing world – a result of grave inequity in the opportunity to survive the disease. In the case of breast cancer, the ratio of deaths to incident cases in 2002 was an estimated 56% in low-income countries, 44% in low-middle income countries and 39% in high-middle income developing countries.  In the developed world, it was 24%.&lt;ref name="Beaulieu N 2009"/&gt;
+
+The world faces a huge and largely unperceived cost of inaction from cancer in the developing world, which calls for an immediate and large-scale global response.
+
+==Structure and Leadership==
+&lt;br /&gt;The Task Force is a 36-member body combining leaders in cancer and global health and co-chaired by [[Julio Frenk]], Dean of the Harvard School of Public Health and [[Lawrence Corey]], President and Director of the Fred Hutchinson Cancer Research Center. Her Royal Highness [[Princess Dina Mired of Jordan]] and [[Lance Armstrong]] serve as Honorary Co-Presidents. The Harvard Global Equity Initiative, under the direction of Felicia Knaul and Julie Gralow, serves as the Secretariat for the Task Force.
+
+==History==
+&lt;br /&gt;The GTF.CCC was launched on November 4, 2009 at Harvard University during the International Conference ‘[http://isites.harvard.edu/icb/icb.do?keyword=k62597&amp;tabgroupid=icb.tabgroup96975 Breast Cancer in the Developing World: Meeting the Unforeseen Challenge to Women, Health and Equity].’
+
+==Activities==
+&lt;br /&gt;A key contribution of the Task Force is the GTF.CCC Report published in 2011. The content of the GTF.CCC Report follows from the mandate of the Task Force and provides the building blocks of a strategy for expanded cancer care and control strategies in the developing world.
+
+The report includes the below content:
+
+'''•'''        A list of priority cancers in the developing world,
+
+'''•'''        the definition of an essential package of services and drugs,
+
+'''•'''        estimates of potential demand for drugs,
+
+'''•'''        designs and strategies for service delivery models that harness the primary and secondary levels of health care systems and expand access while reducing cost,
+
+'''•'''        mechanisms for regional and global negotiation of drug prices, and
+
+'''•'''        options for scaling-up service delivery and monitoring health outcomes.
+
+Following the dictum of thinking globally and acting locally, the GTF.CCC reviews and builds on the lessons learned from work in specific countries, as well as dedicating itself to expanding cancer care and control in these countries. Innovative and successful models have been identified constituting three models and spanning five countries of differing levels of income (Rwanda, Malawi, Haiti, Mexico and Jordan). These models will serve as dynamic learning laboratories for generating and applying the specific proposals and delivery models that are designed by the GTF.CCC and detailed in the report introduced above. The pilot programs will specifically focus on developing, designing, implementing and evaluating innovations in delivery in the areas of task shifting, infrastructure shifting and the use of technology.
+
+The GTF.CCC partner projects were chosen based on the opportunity to expand access to cancer care and control, as well as the ongoing involvement of members of the GTF.CCC and/or the Secretariat. Thus, this aspect of the work of the GTF.CCC does not involve establishing new projects, but rather working to improve, extend, expand and scale-up initiatives and institutions that are already well-established. The partner programs listed below are locally entrenched and independently sustainable.
+
+For 2010, the local partners and programs are:
+
+'''•'''       Rwanda, Malawi, Haiti: [http://www.pih.org/ Partners in Health] working with [http://www.dana-farber.org/ Dana Farber Cancer Institute], [http://www.brighamandwomens.org/ Brigham and Women’s Hospital] and [https://web.archive.org/web/20100531061918/http://hms.harvard.edu/hms/home.asp Harvard Medical School].
+
+'''•'''      Mexico: the National Commission of Social Protection for Health, the Ministries of Health of the States of Morelos, Jalisco and Nuevo León, the National Institute of Public Health of Mexico, the National Cancer Institute of Mexico, the Mexican Health Foundation, and the program Cáncer de mama: [http://www.tomateloapecho.org.mx/ Tómatelo a pecho].
+
+'''• '''      Jordan: [http://www.khcc.jo/ King Hussein Cancer Foundation and Center], and the [http://www.jbcp.jo/ Jordan Breast Cancer Program]
+
+== References ==
+&lt;!--- See http://en.wikipedia.org/wiki/Wikipedia:Footnotes on how to create references using &lt;ref&gt;&lt;/ref&gt; tags which will then appear here automatically --&gt;
+{{Reflist}}
+
+== Further reading ==
+Cancer control opportunities in low- and middle-income countries. Washington, DC: Institute of Medicine of the National Academies, National Academies Press; 2007.&lt;br /&gt;
+The Lancet. Moving cancer up the global health agenda. Volume 375, Issue 9731, Page 2051, 12 June 2010.  [http://www.thelancet.com/journals/lancet/article/PIIS0140673610609427/fulltext?rss=yes]
+
+Farmer P, Frenk J, Knaul FM, Shulman LN, Alleyne G, Armstrong L, Atun R, Blayney D, Chen L, Feachem R, Gospodarowicz M, Gralow J, Gupta S, Langer A, Lob-Levyt J, Neal C, Mbewu A, Mired D, Piot P, Reddy KS, Sachs JD, Sarhan M, Seffrin JR. Expansion of cancer care and control in countries of low and middle income: a call to action. Lancet. 2010 August 13. [https://www.ncbi.nlm.nih.gov/pubmed/20709386]
+
+Knaul, Felicia Marie, Frenk, Julio and Shulman, Lawrence for the Global Task Force on Expanded Access to Cancer Care and Control in Developing Countries. Closing the Cancer Divide: A Blueprint to Expand Access in Low and Middle Income Countries. Harvard Global Equity Initiative, Boston, MA, October 2011. http://ghsm.hms.harvard.edu/uploads/pdf/ccd_report_111027.pdf
+
+== External links ==
+* [http://www.hgei.harvard.edu Harvard Global Equity Initiative ]
+* [http://www.dana-farber.org/ Dana Farber Cancer Institute]
+* [http://www.hsph.harvard.edu/ Harvard School of Public Health]
+* [http://www.pih.org/ Partners In Health]
+* [https://web.archive.org/web/20100531061918/http://hms.harvard.edu/hms/home.asp Harvard Medical School]
+* [http://www.khcc.jo/ King Hussein Cancer Foundation and Center]
+* [http://www.jbcp.jo/ Jordan Breast Cancer Program]
+* [http://www.tomateloapecho.org.mx/ Tómatelo a Pecho]
+* [http://www.brighamandwomens.org/ Brigham and Women's Hospital]
+*[http://gtfccc.harvard.edu/icb/icb.do Official Website of the Global Task Force on Expanded Access to Cancer Care and Control in Developing Countries]
+
+{{DEFAULTSORT:Global Task Force On Expanded Access To Cancer Care And Control In Developing Countries}}
+[[Category:Cancer organizations based in the United States]]
+[[Category:Partners in Health]]
+[[Category:Harvard Medical School]]
+[[Category:Harvard School of Public Health]]
+[[Category:International medical and health organizations]]
+[[Category:Medical and health organizations based in Massachusetts]]</text>
+      <sha1>mxu4qog7afuqlx5bky1sb8zhh2ixxne</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guatemala–Russia relations</title>
+    <ns>0</ns>
+    <id>19334566</id>
+    <revision>
+      <id>869633966</id>
+      <parentid>851595008</parentid>
+      <timestamp>2018-11-19T20:43:57Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:WikiProject Stub sorting|stub sorting]]: added {{[[Template:Bilateralrelations-stub|Bilateralrelations-stub]]}}, removed: {{foreignrelations-stub}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2962">{{Unreferenced|date=December 2016}}
+{{Infobox Bilateral relations|Guatemala–Russia|Guatemala|Russia}}
+
+'''Guatemala–Russia relations''' is the [[bilateral relationship]] between [[Guatemala]] and [[Russia]].
+
+== Country comparison ==
+{|class="wikitable"
+|
+! {{flagicon|Guatemala}} '''Republic of Guatemala'''
+! {{flagicon|Russia}} '''Russian Federation'''
+|-
+| '''Coat of Arms'''
+| style="text-align:center" | [[File:Coat of arms of Guatemala.svg|140px]]
+| style="text-align:center" | [[File:Coat of Arms of the Russian Federation.svg|100px]]
+|-
+| '''Flag'''
+| style="text-align:center" | {{Flagicon|Guatemala|size=135px|text=none}}
+| style="text-align:center" | {{Flagicon|Russia|size=135px|text=none}}
+|-
+| '''Population'''
+| 16,176,133
+| 144,463,451
+|-
+| '''Area'''
+| {{convert|108,889|km2|mi2|abbr=on}}
+| {{convert|17,075,200|km2|mi2|abbr=on}}
+|-
+| '''Population Density'''
+| {{convert|129|/sqkm|/sqmi|abbr=on}}
+| {{convert|8.4|/sqkm|/sqmi|abbr=on}}
+|-
+| '''Capital'''
+| [[Guatemala City]]
+| [[Moscow]]
+|-
+| '''Largest City'''
+| [[Guatemala City]] – 2,110,100 (4,500,000 Metro)
+| [[Moscow]] – 	12,108,257  ( Metro)
+|-
+| '''Government'''
+| [[Unitary state|Unitary]] [[Presidential system|presidential]] constitutional republic
+| [[Federalism|Federal]] [[Semi-presidential system|semi-presidential]] constitutional republic
+|-
+| '''First Leader'''
+|  [[Rafael Carrera]]
+|  [[Boris Yeltsin]]
+|-
+| '''Current Leader'''
+| [[Jimmy Morales]]
+| [[Vladimir Putin]]
+|-
+| '''Official languages'''
+| [[Spanish language|Spanish]]
+| [[Russian language|Russian]] 
+|-
+| '''GDP (nominal)'''
+| [[United States dollar|US$]]68.389 billion ($4.101 [[per capita]])
+| US$3.9 trillion ($27,215 per capita)
+|-
+|}
+
+==History==
+Guatemala had diplomatic relations with the [[Soviet Union]] on April 19, 1945, during the [[Cold War]] era. However, during the armed conflict in Guatemala in 1960-1980, Guatemalan-Soviet relations were "frozen", but were not severed or interrupted. On January 4, 1991, a joint communique about the exchange of the diplomatic missions was signed. In 1995, the first Guatemalan embassy was opened in [[Moscow]], while Russia was represented in Guatemala through its embassy in [[Costa Rica]]. Nevertheless, in 2007, Russia had opened an embassy in [[Guatemala City]].
+
+The Russian Federation together with other states and with international organizations supported the process of peaceful settlement in Guatemala.
+[[File:Vladimir Putin 3 July 2007-1.jpg|250px|thumb|Vladimir Putin in Guatemala]]
+
+==See also==
+*[[Foreign relations of Guatemala]]
+*[[Foreign relations of Russia]]
+
+==External links==
+*[http://www.guat.mid.ru/ Embassy of Russia in Guatemala City]
+
+{{Foreign relations of Guatemala}}
+{{Foreign relations of Russia|North America}}
+
+{{DEFAULTSORT:Guatemala-Russia relations}}
+[[Category:Bilateral relations of Guatemala|Russia]]
+[[Category:Bilateral relations of Russia]]
+
+
+{{Russia-stub}}
+{{Guatemala-stub}}
+{{Bilateralrelations-stub}}</text>
+      <sha1>enhhetmc3xndfwbmf28c919y1rtwey3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gëzim</title>
+    <ns>0</ns>
+    <id>43452316</id>
+    <revision>
+      <id>782538578</id>
+      <parentid>727823624</parentid>
+      <timestamp>2017-05-27T15:20:44Z</timestamp>
+      <contributor>
+        <username>Rubbish computer</username>
+        <id>23085006</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */typo fixing, replaced: fottballer → footballer using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1587">{{Infobox given name
+| name          = Gëzim
+| image         = 
+| image_size    = 
+| caption       = 
+| pronunciation = 
+| gender        = Male
+| meaning       = joy
+| region        = [[Albania]], [[Kosovo]]
+| language      = [[Albanian language|Albanian]]
+| origin        = 
+| alternative spelling = 
+| nickname      = 
+| related names = 
+| name day      =  
+| derived       = 
+| popularity    = 
+| footnotes     = 
+}}
+'''Gëzim''' is an [[Albanian language|Albanian]] masculine [[given name]]. It is derived from the Albanian word ''gëzim'', meaning "joy."&lt;ref&gt;[http://www.20knames.com/origin_of_baby_names/etymology_G_male/meaning_of_the_name_gezim.htm 20,000 Names from Around the World]&lt;/ref&gt; 
+
+People with the name Gëzim include: 
+
+*[[Gëzim Alpion]] (b. 1962), Albanian sociologist, philosopher and educator
+*[[Gëzim Boçari]] (b. ????), Albanian politician, physician and writer
+*[[Gëzim Dibra]] (1956 &amp;ndash; 2011), Albanian politician
+*[[Gëzim Erebara]] (1929 &amp;ndash; 2007),  Albanian film director, screen player, translator and cinematography
+*[[Gashi (singer)|Gëzim Gashi]] (b. 1990), Kosovar-Swedish singer 
+*[[Gëzim Hajdinaga]] (b. 1964), Montenegrin-Albanian politician, former member of Democratic Union of Albanians
+*[[Gëzim Kasmi]] (b. 1942), Albanian footballer
+*[[Gëzim Krasniqi]] (b. 1990), Kosovar footballer
+*[[Gëzim Nika]] (b. ????), Albanian folk singer
+*[[Gëzim Tafa]] (b. ????), Albanian publisher
+
+==References==
+{{reflist}}
+
+{{given name}}
+
+{{DEFAULTSORT:Gezim}}
+[[Category:Albanian masculine given names]]
+
+
+{{given-name-stub}}
+{{Albania-stub}}</text>
+      <sha1>0e845y0cog8jqyfk7x2h29m5u69vzdt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>HMS Grenadier</title>
+    <ns>0</ns>
+    <id>53327542</id>
+    <revision>
+      <id>862878676</id>
+      <parentid>862689206</parentid>
+      <timestamp>2018-10-07T08:45:33Z</timestamp>
+      <contributor>
+        <username>Lyndaship</username>
+        <id>26830857</id>
+      </contributor>
+      <minor/>
+      <comment>Lyndaship moved page [[HMS Grenadier (T 334)]] to [[HMS Grenadier]]: only ship of name</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5211">{|{{Infobox ship begin &lt;!-- warships except submarines --&gt;
+|infobox caption= &lt;!-- keywords: yes, nodab; or caption text --&gt;
+|display title= &lt;!-- keywords: none, ital; or article title with markup --&gt;
+}}
+{{Infobox ship image
+|Ship image=File:HMS Grenadier FL13591.jpg
+|Ship image size=300px
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=UK
+|Ship flag=[[File:Naval Ensign of the United Kingdom.svg|100x35px|Royal Navy Ensign]]
+|Ship name=HMS ''Grenadier''
+|Ship owner=
+|Ship namesake=
+|Ship ordered=
+|Ship builder=[[Cook, Welton &amp; Gemmell]], [[Beverley]]
+|Ship laid down=13 June 1942
+|Ship launched=26 September 1942 
+|Ship acquired=
+|Ship commissioned=10 February 1943
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship struck=
+|Ship reinstated=
+|Ship honours=
+|Ship honors=
+|Ship fate=
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[Military class trawler|Military class]] [[Admiralty trawler|trawler]] 
+|Ship displacement=
+|Ship length=
+|Ship beam=
+|Ship draught=
+|Ship draft=
+|Ship propulsion=
+|Ship speed=
+|Ship range=
+|Ship complement=
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+|Ship armour=
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+
+'''HMS ''Grenadier''''' (Pennant number: T334) was a [[Military class trawler|Military class]] [[Admiralty trawler|trawler]] of the British [[Royal Navy]], which served as an [[Anti Submarine Warfare]] Vessel during the Second World War. The ship was built by [[Cook, Welton &amp; Gemmell]] in Beverley, England. She was laid down on 13 June 1942, launched on 26 September 1942 and finally commissioned on 10 February 1943&lt;!-- ? --&gt;. Her role was to support convoys, and deter attack by German u-boats using depth charges. This class of vessel could be fitted with extra guns, and the Grenadier was reported to have had an extra pair of [[Oerlikon 20 mm cannon|Oerlikon 20mm guns]] and a [[List of World War II British naval radar#Type_290|Type 290]] mast mounted radar.&lt;ref&gt;{{cite book|last1=Wright|first1=Malcolm George|title=British and Commonwealth Warship Camouflage of WWII|pages=125|url=https://books.google.co.uk/books?id=CEauCAAAQBAJ&amp;pg=PA125&amp;dq=HMS+Grenadier+T+334&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjYpqyihrLWAhXHYlAKHVYRB0oQ6AEIKDAA#v=onepage&amp;q=HMS%20Grenadier%20T%20334&amp;f=false|accessdate=19 September 2017}}&lt;/ref&gt;
+
+Her most notable engagement occurred on 16 March 1945. That morning she was in convoy alongside the steam merchant ''[[Inger Toft]]'', now operating under the [[Ministry of War]] transport, when at 0900 ''Inger Toft'' was struck by a torpedo fired from [[German submarine U-722|German submarine ''U-722'']] and began to quickly sink. The skipper of ''Grenadier'' at the time was A/SkrLt&lt;!-- ? --&gt; Arthur George Day of the [[Royal Navy Reserve]]. It was common practice when under attack, for the skipper to order the crew to take the vessel to full propulsion whilst dropping depth charges, to avoid being hit whilst trying to hunt the culprit [[U-boat]]. A/SkrLt Day realised that the men of ''Inger Toft'' whose vessel had now fallen beneath the water would have little chance of survival if they followed this routine. He ordered his men to turn the vessel into the direction of the sunken vessel. Whilst ultimately risking his vessel and entire crew, they managed to save the entire 30 man crew of ''Inger Toft'' including the master from the freezing waters. For his actions A/SkrLt Arthur George Day was mentioned in dispatches, he received an oak leaf to be worn on his 1939-1945 war medal. Following the war he returned to his pre-war occupation as a skipper operating from the small fishing port of Milford Haven, Pembrokeshire Wales.&lt;ref&gt;{{cite web|url=http://uboat.net/allies/commanders/5973.html|title=A/Skr.Lt.  Arthur George Day   of the Royal Navy Reserve (RNR) - Allied Warship Commanders of WWII - uboat.net|website=uboat.net}}&lt;/ref&gt;
+
+Once the war ended ''Grenadier'' was first sold to a merchant fishing firm in Grimsby, she was renamed ''Thurinigia'', later in 1947 she was converted for oil burning but by 1966 she was sold for scrap.&lt;ref&gt;{{cite web|url=http://uboat.net/allies/merchants/3471.html|title=Inger Toft (British Steam merchant) - Ships hit by German U-boats during WWII - uboat.net|website=uboat.net}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://uboat.net/allies/warships/ship/6284.html|title=HMS Grenadier (T 334)  of the Royal Navy - British ASW Trawler of the Military class - Allied Warships of WWII - uboat.net|website=uboat.net}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+*{{cite book|last=Elliot |first=Peter |title=Allied Escort Ships of World War II: A Complete Survey| year=1977|publisher=Macdonald &amp; Jane's |location=London |isbn=0-356-08401-9|ref=harv}}
+*{{cite book|last1=Gardiner|first1=Robert|last2=Chesneau|first2=Roger|title=Conway's All The World's Fighting Ships 1922–1946|year=1980|publisher=Conway Maritime Press|location=London|isbn=0-85177-146-7|ref=harv}}
+
+{{DEFAULTSORT:Grenadier, HMS}}
+[[Category:World War II]]
+[[Category:Naval trawlers of the United Kingdom]]
+[[Category:Maritime incidents in November 1940]]
+[[Category:Anti-submarine trawlers of the Royal Navy]]
+[[Category:1942 ships]]</text>
+      <sha1>gbx8sugf38aqkicwkal7iofq2linn0q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Halldór Ásmundsson</title>
+    <ns>0</ns>
+    <id>43448239</id>
+    <revision>
+      <id>747509362</id>
+      <parentid>619520682</parentid>
+      <timestamp>2016-11-02T19:57:07Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="991">{{Orphan|date=August 2014}}
+
+{{icelandic name|Halldór}}
+'''Halldór Ásmundsson''' was an Icelandic printing house, the only one in Iceland in the 17th century.&lt;ref name="KentLancour1978"/&gt; It existed originally in the town of [[Hólar]], and printed a new version of the Bible in 1644. In 1685 it relocated to [[Skálholt]], where it produced some 60 books under the direction of Bishop [[Þórdur Þorláksson]].&lt;ref name="KentLancour1978"&gt;{{cite book|last1=Kent|first1=Allen|last2=Lancour|first2=Harold|last3=Daily|first3=Jay E.|title=Encyclopedia of Library and Information Science: Volume 23 - Poland: Libraries and Information Centers in to Printers and Printing|url=https://books.google.com/books?id=tmnVublw2pwC&amp;pg=PA433|date=1 January 1978|publisher=CRC Press|isbn=978-0-8247-2023-0|page=433}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Halldor Asmundsson}}
+[[Category:Icelandic publishers (people)]]
+[[Category:17th century in Iceland]]
+
+
+{{Iceland-stub}}
+{{publisher-stub}}</text>
+      <sha1>i6itx8gdbtekgpdh12h5e85cu210z60</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Indonesia Today</title>
+    <ns>0</ns>
+    <id>2780763</id>
+    <revision>
+      <id>871009763</id>
+      <parentid>778648583</parentid>
+      <timestamp>2018-11-28T10:17:25Z</timestamp>
+      <contributor>
+        <ip>148.78.29.79</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1581">{{Unreferenced|date=December 2009}}
+'''''Indonesia Today''''' is the first English-language [[newscast]] ever carried by a private television station in [[Indonesia]]. It appeared on [[RCTI]] from 1 November 1996 to 31 August 2001 and [[Nicholas Rosantia]], [[Eri Satria]], [[Rahmatillah]], [[Rahmat Hidayat]] from 2011 to present. In 31 August 2001, Indonesia Today was discontinued due to lack of ratings and replaced by Indonesian-language criminal news, {{Interlanguage link multi|Sergap|id|3=Sergap (acara TV)}}. Indonesia Today was airing back on Nicholas Rosantia, Eri Satria, Rahmatillah, Rahmat Hidayat on 2011.
+
+==News Anchor==
+* [[Desi Anwar]]
+* Chrysanti Soewarso
+* {{Interlanguage link multi|Jason Tedjakusmana|id}}
+*[[Helmi Johannes]]
+
+==Rubrication==
+* In Focus
+* Business and Financial
+* The Diplomatic Pouch
+* Politic
+* Law and Criminal
+* Social
+* Health and Medical
+* International
+* Weather Forecast
+* English Daily Newspaper (Morning Paper)
+** [[The Jakarta Post]]
+** [[The Jakarta Post|Jakarta Straits Times]]
+** [[The Jakarta Post|Jakarta Daily News]]
+* Agenda
+* Headline News
+* World Sport
+
+==Time Slot History==
+* 07.30-08.00 WIB (4 November 1996-4 February 2000)
+* 07.00-07.30 WIB (7 February 2000-31 August 2001)
+
+==See also==
+*[[RCTI]]
+
+==References==
+{{Reflist}}
+
+[[Category:Indonesian television news programmes]]
+[[Category:1996 Indonesian television series debuts]]
+[[Category:1990s Indonesian television series]]
+[[Category:2000s Indonesian television series]]
+[[Category:2010s Indonesian television series]]
+[[Category:RCTI]]
+
+{{Indonesia-tv-stub}}</text>
+      <sha1>mrvru1dxbl9f7zl8hfx08p6lffmtpnl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Intelsat 8</title>
+    <ns>0</ns>
+    <id>13902180</id>
+    <revision>
+      <id>779590995</id>
+      <parentid>778741255</parentid>
+      <timestamp>2017-05-09T20:26:34Z</timestamp>
+      <contributor>
+        <username>Lklundin</username>
+        <id>1703986</id>
+      </contributor>
+      <comment>/* References */ {{Portal|Spaceflight}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2880">{{refimprove|date=February 2009}}
+{{Infobox spaceflight
+| name                  = Intelsat 8
+| image                 =  
+| image_caption         =
+
+| mission_type          = [[Communications satellite|Communication]]
+| operator              = [[PanAmSat]]&lt;br/&gt;[[Intelsat]]
+| website               =  
+| COSPAR_ID             = 1998-065A
+| SATCAT                =  
+| mission_duration      = 15 years
+
+| spacecraft_bus        = 
+| manufacturer          = [[Space Systems Loral]]
+| dry_mass              = 
+| launch_mass           =  
+| power                 =
+
+| launch_date           = {{start-date|4 November 1998, 05:12:00|timezone=yes}}&amp;nbsp;UTC 
+| launch_rocket         = [[Proton-K]]/[[Blok DM|DM3]]
+| launch_site           = [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 200|200/39]]
+| launch_contractor     =  
+| entered_service       =
+
+| disposal_type         = 
+| deactivated           =  &lt;!-- {{end-date|[insert date here]}} --&gt;
+
+| orbit_epoch           = 
+| orbit_reference       = [[Geocentric orbit|Geocentric]]
+| orbit_regime          = [[Geostationary orbit|Geostationary]]
+| orbit_periapsis       =  
+| orbit_apoapsis        =  
+| orbit_inclination     = 
+| orbit_period          = 
+| orbit_longitude       = 166° East(1998–2012)&lt;br&gt;169° East(2012–)
+| apsis                 = gee
+
+| trans_band            = 24 IEEE [[C band (IEEE)|C band]]&lt;br/&gt;24 IEEE {{Ku band}}
+| trans_frequency       = 
+| trans_capacity        = 
+| trans_coverage        = Asia-Pacific&lt;br/&gt;Australia
+| trans_TWTA            = 
+| trans_EIRP            = 
+| trans_HPBW            = 
+}}
+'''Intelsat 8''' (formerly '''PAS-8''') is a [[communications satellite]] owned by [[Intelsat]] located at [[166th meridian east|166°&amp;nbsp;E]] [[longitude]], serving the [[Pacific]] market.
+
+On 13 August 2012 it was replaced with [[Intelsat 19]].&lt;ref&gt;http://www.intelsat.com/press/news-releases/2009/20090611-1.asp&lt;/ref&gt;&lt;ref&gt;http://www.satlaunch.net/p/launch-schedule-2012.html&lt;/ref&gt;  During September, it was co-located to the same position as [[Intelsat 5]] at 169° East from 166° East to continue its service life as Intelsat 5's replacement later in the year.
+
+On 19 October 2012 at around 2300 UTC, Intelsat 8 took over broadcasting Intelsat 5's television channels which include [[Australia Network]] and regular feeds of ''[[Entertainment Tonight]]'' and ''[[The Wall Street Journal Report]]'' available via a two-meter dish at 4.1&amp;nbsp;GHz horizontal 26.48 MBd QPSK 3/4.
+
+==References==
+{{reflist}}
+
+{{Portal|Spaceflight}}
+{{coord|0|166|display=title}}
+
+{{Intelsat}}
+{{Orbital launches in 1998}}
+
+{{DEFAULTSORT:Intelsat 08}}
+[[Category:Communications satellites in geostationary orbit]]
+[[Category:Satellite television]]
+[[Category:Spacecraft launched in 1998]]
+[[Category:Intelsat satellites]]
+[[Category:Satellites using the SSL 1300 bus]]
+
+
+{{communications-satellite-stub}}</text>
+      <sha1>j0zppdq1p09btphuxx8zhdg4izsice7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Istanbul Cooperation Initiative</title>
+    <ns>0</ns>
+    <id>11076120</id>
+    <revision>
+      <id>845882688</id>
+      <parentid>845865692</parentid>
+      <timestamp>2018-06-14T19:39:24Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor/>
+      <comment>Dating maintenance tags: {{Huh}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2082">{{Use dmy dates|date=May 2013}}
+The '''Istanbul Cooperation Initiative''' (ICI) is an initiative launched during [[NATO]]'s [[2004 Istanbul summit]].
+
+During this summit, NATO leaders decided to elevate{{huh|date=June 2018}} the Alliance’s [[Mediterranean Dialogue]] to a genuine partnership and to launch the ICI with selected countries in the broader region of the [[Middle East]].&lt;ref&gt;{{cite web | publisher=NATO | title="NATO elevates Mediterranean Dialogue to a genuine partnership, launches Istanbul Cooperation Initiative" | date=29 June 2004 | url=http://www.nato.int/docu/update/2004/06-june/e0629d.htm | accessdate=12 May 2013}}&lt;/ref&gt; The initiative is an offer to engage in practical security cooperation activities with states throughout the [[Greater Middle East]].&lt;ref&gt;[https://georgewbush-whitehouse.archives.gov/news/releases/2004/06/20040628-2.html WHITE HOUSE, ''Fact Sheet: The Istanbul Cooperation Initiative '', June 2004]&lt;/ref&gt; This new initiative stands alongside NATO's [[Partnership for Peace]] Program and the [[Mediterranean Dialogue]]. NATO itself regards these security cooperation partnerships as a response to the new challenges of the 21st century and as a complement to the [[G8]] and U.S.-EU decisions to support calls for reform from within the Broader Middle East region. The ICI offers practical cooperation with interested nations in the Greater Middle East in such areas as:
+* Counter-[[Weapon of mass destruction|WMD]];
+* [[Counterterrorism]];
+* Training and education;
+* Participation in NATO exercises;
+* Promoting military interoperability;
+* Disaster preparedness and civil emergency planning;
+* Tailored advice on defense reform and civil-military relations; and
+* Cooperation on border security to help prevent illicit trafficking of drugs, weapons, and people.
+
+==Members==
+* {{flag|Bahrain}}
+* {{flag|Qatar}}
+* {{flag|Kuwait}}
+* {{flag|United Arab Emirates}}
+
+==References==
+&lt;references /&gt;
+
+[[Category:NATO]]
+[[Category:2004 in international relations]]
+
+{{Europe-mil-stub}}
+{{North Atlantic Treaty Organization}}
+{{NATO relations}}</text>
+      <sha1>5vj89jh3jva34nmn632apuzngxb054a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>KCFJ</title>
+    <ns>0</ns>
+    <id>14103668</id>
+    <revision>
+      <id>778584246</id>
+      <parentid>768153343</parentid>
+      <timestamp>2017-05-04T01:18:26Z</timestamp>
+      <contributor>
+        <username>Dcgibson55</username>
+        <id>18240388</id>
+      </contributor>
+      <comment>Fixed link to FCC history cards and broadcast area. Added first air date. Made KCNO a link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1898">{{Infobox Radio station
+| name                 = KCFJ 
+| image                = 
+| city                 = [[Alturas, California|Alturas]], [[California]]
+| area                 = [[Sierra Nevada (U.S.)|Sierra Nevada]] 
+| branding             = 
+| slogan               = "Reaching Out to You"
+| airdate              =  1951
+| frequency            = 570 [[kHz]] 
+| format               = Various 
+| power                = 5,000 [[watt]]s day&lt;br&gt;42 [[watt]]s night  
+| erp                  = 
+| haat                 =  
+| class                = D 
+| facility_id          = 33733 
+| coordinates          = {{nowrap|{{Coord|41|18|20|N|120|30|50|W}}}}
+| callsign_meaning     = 
+| former_callsigns     = 
+| owner                = Edi Media, Inc.
+| licensee             = 
+| sister_stations      = [[KCNO]]
+| webcast              = 
+| website              =  [http://www.edimediainc.com/en/index.php?option=com_content&amp;view=article&amp;id=76&amp;Itemid=113 KCFJ website]
+| affiliations         = }}
+
+'''KCFJ''' (570 [[AM broadcasting|AM]]) is a [[radio station]] broadcasting a number of different formats [[Adult Standards]] via [[Dial Global]], [[Talk radio|Talk]] via ''[[The Rush Limbaugh Show]]'' live and [[World Ethnic]] programming. Licensed to [[Alturas, California]], United States, it serves the city of Alturas and neighboring communities.  The station is currently owned by Edi Media, Inc.
+
+As of November 6, 2011, this station now simulcasts [[China Radio International]] part of the time.
+
+==External links==
+*{{AMQ|KCFJ}}
+*{{AML|KCFJ}}
+*{{AMARB|KCFJ}}
+*{{FCC History Cards|33733|KCFJ}} 
+*[http://english.cri.cn/7146/2010/03/30/2141s559997.htm China Radio International schedule]
+
+{{clear}}
+{{Sierra Nevada Radio}}
+{{China Radio International}}
+
+[[Category:Radio stations in California|CFJ]]
+[[Category:Alturas, California]]
+[[Category:China Radio International]]
+
+
+{{California-radio-station-stub}}</text>
+      <sha1>p49c5159eutr7k6jnaxcz1hnx0wmkrd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kosovo–Netherlands relations</title>
+    <ns>0</ns>
+    <id>19077219</id>
+    <revision>
+      <id>869771126</id>
+      <parentid>869629578</parentid>
+      <timestamp>2018-11-20T07:18:01Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <comment>add eponymous category if it already exists: [[Category:Kosovo–Netherlands relations]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3589">{{Infobox Bilateral relations|Kosovan–Dutch|Kosovo|Netherlands}}
+[[File:Embassy of Kosovo in the Netherlands.JPG|thumb|Kosovan embassy in the Netherlands.]]
+
+'''Kosovan–Dutch relations''' are foreign relations between [[Kosovo]]{{ref label|status|a|}} and the [[Netherlands]]. Kosovo [[2008 Kosovo declaration of independence|declared its independence]] from [[Serbia]] on 17 February 2008 and the Netherlands [[International reaction to the 2008 Kosovo declaration of independence|recognised]] it on 4 March 2008.&lt;ref&gt;{{cite press release|url=http://www.minbuza.nl/en/news/newsflashes,2008/03/The-Netherlands-recognises-Kosovo.html|title=The Netherlands recognises Kosovo|date=2008-03-04|accessdate=2008-03-05|publisher=Dutch Ministry of Foreign Affairs}}&lt;/ref&gt; The Netherlands has an embassy in [[Pristina]] since 27 June 2008,&lt;ref&gt;[http://www.minbuza.nl/en/news/newsflashes,2008/06/The-Netherlands-opens-embassy-in-Kosovo.html "The Netherlands opens embassy in Kosovo"] Dutch Ministry of Foreign Affairs, 27 June 2008 Link accessed 30/06/08&lt;/ref&gt; and Kosovo opened an embassy in [[The Hague]] in November 2009.&lt;ref&gt;{{cite web|url=http://www.ks-gov.net/MFA/?page=1,49|title=Misionet e Kosovës Jashtë|year=2009|publisher=Ministry of Foreign Affairs of the Republic of Kosovo|language=Albanian|accessdate=26 November 2009}}&lt;/ref&gt; Relations between the two countries are considered to be good and the [[Netherlands]] offers it support to various projects in Kosovo with the goal of aiding the country in its transition to democracy.&lt;ref name="Government of Netherlands"&gt;{{cite web|title=Relations the Netherlands - Kosovo|url=http://www.government.nl/issues/international-relations/kosovo|website=Government of Netherlands|accessdate=30 June 2014}}&lt;/ref&gt;
+
+==Military==
+The Netherlands participated in the [[1999 NATO bombing of Yugoslavia]], which resulted in a [[UNMIK|UN administration]] of Kosovo and then to eventual independence. The Netherlands currently has 7 troops serving in Kosovo as peacekeepers in the [[NATO]] led [[Kosovo Force]]. Originally there were 3,600 Dutch troops in KFOR.&lt;ref&gt;[http://www.nato.int/kfor/structur/nations/placemap/kfor_placemat.pdf "Kosovo Force (KFOR)"] www.nato.int Link accessed 21-07-09&lt;/ref&gt;
+
+==Economics==
+Economic cooperation between [[Kosovo]] and the [[Netherlands]] is limited although there are several areas for cooperation between the two countries in the energy and agricultural sectors.&lt;ref name="Government of Netherlands"/&gt;
+
+==Development==
+Outside of the EU framework, the [[Netherlands]] uses the Matra Programme, of which Kosovo is a beneficiary, to organise projects in countries in Central and Eastern Europe to aide them in their transition to democracy and rule of law. In the case of [[Kosovo]], the [[Embassy of the Netherlands, Berlin|Dutch Embassy]] uses this programme to encourage cooperation between the Serbian and Albanian communities in the North of [[Kosovo]].&lt;ref name="Government of Netherlands"/&gt;
+
+==See also==
+* [[Foreign relations of Kosovo]]
+* [[Foreign relations of Netherlands]]
+
+==Notes and references==
+'''Notes:'''
+
+{| style="margin-left:13px; line-height:150%"
+|align="right" valign="top"|a.  
+|{{note|status}}{{Kosovo-note}}
+|}
+
+'''References:'''
+{{reflist}}
+
+{{Foreign relations of Kosovo}}
+{{Foreign relations of the Netherlands}}
+
+{{DEFAULTSORT:Kosovo-Netherlands relations}}
+[[Category:Bilateral relations of Kosovo|Netherlands]]
+[[Category:Bilateral relations of the Netherlands]]
+[[Category:Kosovo–Netherlands relations| ]]
+
+
+{{Kosovo-stub}}
+{{Netherlands-stub}}
+{{Bilateralrelations-stub}}</text>
+      <sha1>1n21b8gl5qqv57ktyyjaqskplic8ivo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lageion</title>
+    <ns>0</ns>
+    <id>57038750</id>
+    <revision>
+      <id>850058027</id>
+      <parentid>850057864</parentid>
+      <timestamp>2018-07-13T09:22:19Z</timestamp>
+      <contributor>
+        <username>Berek</username>
+        <id>79</id>
+      </contributor>
+      <minor/>
+      <comment>Egypt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1722">[[File:Lageion.png|thumb|The upper part of the image shows an inside view of the [[Attarine Mosque]]. The lower part shows the outline of the Lageion.]]
+The '''Lageion''' ([[Greek language|Greek]]:Λαγεῖον, &lt;small&gt;[[Romanization of Greek|translit]]:&lt;/small&gt; Layeῖon) also known as the '''Hippodrome of Alexandria''', was a [[hippodrome]] situated in the [[Alexandria|city of Alexandria]], [[Egypt]], below the [[Serapeum of Alexandria|Serapeum]]. It is named after the founder of the [[Ptolemaic Kingdom|Ptolemaic Dynasty of Egypt]], [[Ptolemy I Soter]].&lt;ref&gt;{{Cite news|url=http://www.worldhistory.biz/ancient-history/66456-architecture-for-entertainment-the-hippodrome.html|title=Architecture for entertainment: the hippodrome|work=World history|access-date=2018-04-05}}&lt;/ref&gt; The structure was covered up completely during the end of the 19th Century. The size of this structure is 615m with curvature on both ends and its tracks are 568m in length as indicated by the records during the [[French campaign in Egypt and Syria|Napoleonic expeditions]]. Records show that the Lageion was used as a stadium for athletic events and a hippodrome race course during the early Ptolemaic Period.&lt;ref&gt;{{Cite book|url=https://books.google.com.ph/books?id=KFNCaZEZKYAC&amp;pg=PA203&amp;lpg=PA203&amp;dq=lageion&amp;source=bl&amp;ots=7zuY1qAE4n&amp;sig=KzdxvDkCWzpSsSRKbcacEJ0pcPc&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiXh-OX5qLaAhVEF5QKHdNQCn0Q6AEISTAE#v=onepage&amp;q=lageion&amp;f=false|title=The Architecture of Alexandria and Egypt, C. 300 B.C. to A.D. 700|last=McKenzie|first=Judith|date=2007|publisher=Yale University Press|isbn=0300115555|language=en}}&lt;/ref&gt;
+
+== References ==
+&lt;references /&gt;
+
+
+{{History-stub}}
+{{Egypt-stub}}
+
+
+
+[[Category:History of Alexandria]]</text>
+      <sha1>flj233l5qrb2s35tnptabrpmfhmhgsl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Liechtenstein general election, 1932</title>
+    <ns>0</ns>
+    <id>34349881</id>
+    <revision>
+      <id>837654530</id>
+      <parentid>796390145</parentid>
+      <timestamp>2018-04-22T04:54:35Z</timestamp>
+      <contributor>
+        <username>Number 57</username>
+        <id>327289</id>
+      </contributor>
+      <comment>Name order using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1392">{{Politics of Liechtenstein}}
+
+'''General elections''' were held in [[Liechtenstein]] on 6 March 1932, with a second round on 13 March.&lt;ref name=NS&gt;[[Dieter Nohlen]] &amp; Philip Stöver (2010) ''Elections in Europe: A data handbook'', p1164 {{ISBN|978-3-8329-5609-7}}&lt;/ref&gt; The result was a victory for the ruling [[Progressive Citizens' Party]], which won 13 of the 15 seats in the [[Landtag of Liechtenstein|Landtag]].&lt;ref&gt;Nohlen &amp; Stöver, p1182&lt;/ref&gt; This was the last election contested by the [[Christian-Social People's Party (Liechtenstein)|Christian-Social People's Party]] before it merged with the [[Liechtenstein Homeland Service]] to form the [[Patriotic Union (Liechtenstein)|Patriotic Union]].
+
+==Results==
+{| class=wikitable style=text-align:right
+!Party
+!Votes
+!%
+!Seats
+!+/–
+|-
+|align=left|[[Progressive Citizens' Party]]|| || ||13||–2
+|-
+|align=left|[[Christian-Social People's Party (Liechtenstein)|Christian-Social People's Party]]|| || ||2||+2
+|-
+|align=left|'''Total valid votes'''||'''2,173'''||'''100'''||'''15'''||'''0'''
+|-
+|align=left|Registered voters/turnout||2,347||92.6||–||–
+|-
+|align=left colspan=5|Source: Nohlen &amp; Stöver
+|}
+
+==References==
+{{reflist}}
+
+{{Liechtenstein elections}}
+
+[[Category:1932 elections in Europe]]
+[[Category:1932 in Liechtenstein]]
+[[Category:Elections in Liechtenstein]]
+[[Category:March 1932 events]]
+
+
+{{Liechtenstein-stub}}</text>
+      <sha1>ia8mzm1nkr61fdsihpwg7x439inypsr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>List of cities in North America</title>
+    <ns>0</ns>
+    <id>18775995</id>
+    <revision>
+      <id>866375542</id>
+      <parentid>863565415</parentid>
+      <timestamp>2018-10-29T23:42:50Z</timestamp>
+      <contributor>
+        <ip>2605:E000:5E65:2200:1D20:7EDD:16FC:E3E7</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6194">:''For the most populous cities in North America, see [[List of North American cities by population]].''
+[[File:Monumento a la Revolucion - Panorama vista hacia el Oriente.jpg|thumb|[[Mexico City]] is the most populous city of Mexico and North America]]
+[[File:Empire State Building in Rainbow Colors for Gay Pride 2015 (19258537982).jpg|thumb|[[New York City]] is the most populous city in the United States, and the second-most in North America]]
+[[File:ONTARIO-00606 - Toronto (14840276941).jpg|thumb|right|[[Toronto]] is the most populous city in Canada, and the fourth-most in North America]]
+[[File:Wilshire Boulevard towards Beverly Hills.jpg|thumb|[[Los Angeles]], the most populous city on the Pacific coast of North America]]
+[[File:Belvedere Kondiaronk chalet du Mont Royal.jpg|thumb|[[Montreal]] is the most populous French-speaking city in North America]]
+
+This article is a list of cities in [[North America]].
+
+==[[Antigua and Barbuda]]==
+
+{{Main|List of cities in Antigua and Barbuda}}
+
+==[[Aruba]]==
+
+{{Main|List of cities in Aruba}}
+*[[Oranjestad, Aruba|Oranjestad]]
+
+==[[Bahamas]]==
+
+{{Main|List of cities in the Bahamas}}
+*[[Nassau, Bahamas|Nassau]]
+*[[Freeport City]]
+
+==[[Barbados]]==
+
+{{Main|List of cities, towns and villages in Barbados}}
+*[[Bridgetown]]
+*[[Speightstown]]
+
+==[Momazo]
+{{Main|Districts of Belize}}
+*[[Belize City]]
+*[[Belmopan]]
+
+==[[Bermuda]]==
+
+{{Main|Administrative divisions of Bermuda}}
+
+==[[British Virgin Islands]]==
+
+{{Main|List of towns in the British Virgin Islands}}
+
+==[[Canada]]==
+
+{{Main|List of cities in Canada}}
+*[[Toronto]]
+*[[Montreal]]
+*[[Calgary]]
+*[[Edmonton]]
+*[[Ottawa]]
+*[[Vancouver]]
+*[[Winnipeg]]
+*[[Halifax, Nova Scotia|Halifax]]
+
+==[[Cayman Islands]]==
+
+{{Main|List of cities in the Cayman Islands}}
+
+*Geroge Town
+
+==[[Costa Rica]]==
+
+{{Main|List of cities in Costa Rica}}
+
+==[[Cuba]]==
+
+{{Main|List of cities in Cuba}}
+*[[Havana]]
+*[[Santiago de Cuba]]
+
+==[[Dominica]]==
+
+{{Main|List of towns and villages in Dominica}}
+*[[Roseau]]
+
+==[[Dominican Republic]]==
+
+{{Main|List of cities in the Dominican Republic}}
+*[[Santo Domingo]]
+*[[Santiago de los Caballeros]]
+*[[San Felipe de Puerto Plata]]
+
+==[[El Salvador]]==
+
+{{Main|List of cities in El Salvador}}
+*[[San Salvador]]
+*[[San Miguel, El Salvador|San Miguel]]
+*[[Santa Ana, El Salvador|Santa Ana]]
+
+==[[Greenland]]==
+
+{{Main|List of cities and towns in Greenland}}
+*[[Nuuk]] Pop. 14,501
+*[[Sisimiut]] Pop. 5,965
+*[[Ilulissat]] Pop. 4,533
+*[[Qaqortoq]] Pop. 3,144
+*[[Aasiaat]] Pop. 3,100
+
+==[[Grenada]]==
+
+{{Main|List of cities in Grenada}}
+
+==[[Guatemala]]==
+
+{{Main|List of places in Guatemala}}
+*[[Guatemala City]]
+
+==[[Haiti]]==
+
+{{Main|List of cities in Haiti}}
+*[[Port-au-Prince]]
+**[[Delmas, Ouest|Delmas]]
+**[[Pétion-Ville]]
+*[[Cap-Haïtien]]
+*[[Gonaïves]]
+*[[Port-de-Paix]]
+*[[Jacmel]]
+*[[Les Cayes]]
+*[[Jérémie]]
+
+==[[Honduras]]==
+
+{{Main|List of cities in Honduras}}
+*[[Tegucigalpa]]
+*[[San Pedro Sula]]
+*[[Choloma]]
+*[[La Ceiba]]
+*[[El Progreso]]
+*[[Choluteca, Choluteca|Choluteca]]
+*[[Comayagua]]
+*[[Puerto Cortés]]
+*[[La Lima]]
+*[[Danlí]]
+
+==[[Jamaica]]==
+
+{{Main|List of cities and towns in Jamaica}}
+*[[Kingston, Jamaica|Kingston]]
+*[[Montego Bay]]
+*[[Spanish Town]]
+*[[Portmore, Jamaica|Portmore]]
+*[[Ocho Rios]]
+
+==[[Mexico]]==
+
+{{Main|List of cities in Mexico}}
+*[[Mexico City]]
+*[[Guadalajara]]
+*[[Monterrey]]
+*[[Puebla, Puebla|Puebla]]
+*[[Toluca]]
+*[[Tijuana]]
+*[[Chihuahua, Chihuahua|Chihuahua]]
+*[[Ciudad Juárez|Juárez]]
+*[[León, Guanajuato|León]]
+*[[Torreón]]
+*[[San Luis Potosí, San Luis Potosí|San Luis Potosí]]
+*[[Mérida, Yucatán|Mérida]]
+*[[Acapulco]]
+*[[Cancún]]
+*[[Los Cabos (Baja California Sur)|Los Cabos]]
+*[[Cuernavaca]]
+*[[Pachuca]]
+*[[Querétaro, Querétaro|Querétaro]]
+
+==[[Montserrat]]==
+
+{{Main|List of cities in Montserrat}}
+
+==[[Netherlands Antilles]]==
+
+{{Main|List of cities in the Netherlands Antilles}}
+
+==[[Nicaragua]]==
+
+{{Main|Municipalities of Nicaragua}}
+*[[Managua]]
+*[[León, Nicaragua|Leon]]
+
+==[[Panama]]==
+
+{{Main|List of cities in Panama}}
+
+==[[Puerto Rico]]==
+
+{{Main|Municipalities of Puerto Rico}}
+*[[San Juan, Puerto Rico|San Juan]]
+
+==[[Saint Kitts and Nevis]]==
+
+{{Main|List of cities and towns in Saint Kitts and Nevis}}
+
+==[[Saint Lucia]]==
+
+{{Main|List of cities in Saint Lucia}}
+*[[Castries]]
+
+==[[Saint-Pierre and Miquelon]]==
+
+{{Main|List of cities in Saint-Pierre and Miquelon}}
+
+==[[Saint Vincent and the Grenadines]]==
+
+{{Main|List of cities, towns and villages in Saint Vincent and the Grenadines}}
+
+==[[Trinidad and Tobago]]==
+
+{{Main|List of cities and towns in Trinidad and Tobago}}
+*[[Port of Spain]]
+*[[San Fernando, Trinidad and Tobago|San Fernando]]
+*[[Chaguanas]]
+*[[Arima]]
+*[[Couva]]
+*[[Point Fortin]]
+*[[Scarborough, Tobago|Scarborough]]
+*[[Tunapuna]]
+*[[Diego Martin]]
+*[[Princes Town]]
+*[[Penal]]
+*[[Siparia]]
+*[[San Juan, Trinidad and Tobago|San Juan]]
+*[[Sangre Grande]]
+*[[Mayaro, Trinidad|Mayaro]]
+
+==[[Turks and Caicos Islands]]==
+
+{{Main|List of cities in the Turks and Caicos Islands}}
+*[[Cockburn Town]]
+
+==[[United States]]==
+
+{{Main|Lists of populated places in the United States}}
+
+==[[United States Virgin Islands]]==
+
+{{Main|List of settlements in the United States Virgin Islands}}
+*[[Charlotte Amalie, United States Virgin Islands|Charlotte Amalie]]
+
+==See also==
+*[[North America]]
+**[[List of North American cities by year of foundation]]
+**[[List of the largest urban agglomerations in North America]]
+**[[List of North American metropolitan areas by population]]
+**[[List of Metropolitan Statistical Areas]]
+*[[Lists of cities]]
+**[[Largest cities in the Americas]]
+*[[Cities of present-day nations and states]]
+* [[List of cities by continent]]
+** [[List of cities in South America]]
+** [[List of cities in Africa]]
+** [[List of cities in Asia]]
+** [[List of cities in Europe]]
+** [[List of cities in Oceania]]
+
+==References==
+{{reflist}}
+{{Cities by continent}}
+{{North America topic|List of cities in}}
+
+{{DEFAULTSORT:North America, Cities By Population}}
+[[Category:Lists of cities in the Americas|*]]
+[[Category:Cities in North America| ]]
+[[Category:North America-related lists|Cities]]
+[[Category:Lists of cities by continent|North America]]</text>
+      <sha1>cmwqnmetpcn0na2d6j8fpedfwy3qd98</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Little by Little (Laura and The Lovers song)</title>
+    <ns>0</ns>
+    <id>7348663</id>
+    <revision>
+      <id>787446349</id>
+      <parentid>688095973</parentid>
+      <timestamp>2017-06-25T13:23:19Z</timestamp>
+      <contributor>
+        <username>Entranced98</username>
+        <id>27199084</id>
+      </contributor>
+      <comment>Adding navbox</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2580">{{unreferenced|date=January 2012}}
+{{Infobox song contest entry
+| song         = {{flagicon|Lithuania}} "Little by Little"
+| image        = 
+| caption      = Laura &amp; The Lovers at the [[Eurovision Song Contest 2005]]
+| year         = 2005
+| country      = Lithuania
+| artist       = Laura Čepukaitė&lt;br&gt;Donatas Paulauskas,&lt;br&gt;Martynas Lukoševičius,&lt;br&gt;Audrius Piragis
+| as           = Laura &amp; The Lovers
+| with         = 
+| language     = English
+| languages    =
+| composer     = [[Bobby Ljunggren]]
+| lyricist     = William 'Billy' Butt
+| place        = 
+| points       = 
+| place_semi   = 25th
+| points_semi  = 17
+| lyrics       = [http://www.diggiloo.net/?2005lt from Diggiloo Thrush]
+| prev         = What's Happened To Your Love?
+| prev_link    = What's Happened To Your Love?
+| next         = We Are the Winners
+| next_link    = We Are the Winners
+}}
+'''"Little by Little"''' was the [[Lithuania]]n entry in the [[Eurovision Song Contest 2005]], performed in [[English language|English]] by [[Laura &amp; The Lovers]].
+
+The song, which was written by two of Sweden's most experienced songwriters Bobby Ljunggren and William Butt, is an up-tempo number, with Laura singing to a lover about how she feels now that the two of them are starting to connect in their relationship.
+
+As Lithuania had not qualified for the final at the [[Eurovision Song Contest 2004|2004 Contest]], the song was performed in the semi-final. Here, it was performed second (following [[Austria]]'s [[Global Kryner]] with "[[Y así]]" and preceding [[Portugal]]'s [[2B (duo)|2B]] with "[[Amar (song)|Amar]]"). At the close of voting, it had received 17 points, placing 25th (last) in a field of 25 - thus requiring Lithuania to qualify through the semi-final at their next Contest appearance. "Little by Little" remained the highest scoring entry to have finished last in a Eurovision Song Contest semi-final until [[Eurovision Song Contest 2012|2012 Contest]] when [[Slovakia|Slovak]] entry "[[Don't Close Your Eyes (Max Jason Mai song)|Don't Close Your Eyes]]" performed by [[Max Jason Mai]] finished last in field of 18 countries scoring with 22 points.
+
+It was succeeded as [[Lithuania in the Eurovision Song Contest|Lithuanian representative]] at the [[Eurovision Song Contest 2006|2006 contest]] by [[LT United]] with "[[We Are the Winners]]".
+
+{{Lithuania in the Eurovision Song Contest}}
+{{Eurovision Song Contest 2005}}
+
+[[Category:Eurovision songs of Lithuania]]
+[[Category:Eurovision songs of 2005]]
+[[Category:Songs written by Bobby Ljunggren]]
+[[Category:2005 songs]]
+
+
+{{lithuania-stub}}</text>
+      <sha1>5ndesveoycd1pzvh190giiagbg97bm8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Main Dolomite</title>
+    <ns>0</ns>
+    <id>25388780</id>
+    <revision>
+      <id>849787214</id>
+      <parentid>814731973</parentid>
+      <timestamp>2018-07-11T10:14:27Z</timestamp>
+      <contributor>
+        <username>Doremo</username>
+        <id>9337959</id>
+      </contributor>
+      <minor/>
+      <comment>/* Geology */ dash → from ... to</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2916">{{For|the formation in Austria|Hauptdolomit Formation}}
+{{Infobox rockunit
+| name           = Main Dolomite&lt;br&gt;''Hauptdolomit''
+| image          =File:Typischer Hauptdolomit.jpg
+| caption        =Main Dolomite Formation, exposed in the [[Northern Limestone Alps]].
+| type           = [[Geological formation]]
+| age            = [[Carnian]] &amp; [[Norian]] ages,&lt;br&gt;[[Late Triassic|Late Triassic Epoch]],&lt;br&gt;[[Mesozoic Era]]
+| period         = Late Triassic
+| prilithology   = [[Dolomite (rock)]]
+| otherlithology =
+| namedfor       =
+| namedby        =
+| region         = [[Limestone Alps]] and [[Apennines]] ranges,&lt;br&gt;[[Central Europe]]
+| country        =
+| coordinates    =
+| unitof         =
+| subunits       =
+| underlies      =
+| overlies       =
+| thickness      ={{convert|0|-|2200|m|ft}}
+| extent         =
+| area           =
+| map            =
+| map_caption    =
+}}
+[[File:Hauptdolomit.jpg|thumb|Main dolomite of the Langbathscholle, Kaltenbachwildnis, Austria]]
+
+'''Main Dolomite''' ({{lang-de|Hauptdolomit}}, {{lang-it|Dolomia Principale}}) is a [[Lithostratigraphy|lithostratigraphic]] unit in the [[Alps]] of Europe.
+
+==Geology==
+The formation is found in:
+* the [[Northern Limestone Alps]] and [[Southern Limestone Alps]] of the [[Limestone Alps]], a mountain system of the western and [[Central Eastern Alps]].
+* the [[Apennines]] in [[Italy]]
+* the [[Geology of Western Carpathians|Western Carpathians]]
+
+It is primarily made of [[dolostone]] or [[dolomite]] rock, ranging from {{convert|0|to|2200|m|ft}} in thickness. The formation was deposited in shallow lagoons during the Late [[Carnian]] and Early [[Norian]] ages of the [[Late Triassic]] Epoch in the [[Triassic|Triassic Period]], during the [[Mesozoic Era]].
+
+===Fossils===
+Fossil [[prosauropod]] tracks have been reported from the formation.&lt;ref name="dinosaurdistribution"&gt;Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.): The Dinosauria, 2nd, Berkeley: University of California Press. Pp. 517-607 {{ISBN|0-520-24209-2}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Triassic|Paleontology|Dinosaurs|Alps|}}
+* [[List of dinosaur-bearing rock formations]]
+** [[List of stratigraphic units with sauropodomorph tracks]]
+** [[List of stratigraphic units with sauropodomorph tracks#Prosauropods|List of stratigraphic units with prosauropod tracks]]
+
+==References==
+{{Reflist}}
+
+
+{{Triassic Footer}}
+
+[[Category:Triassic Europe]]
+[[Category:Dolomite formations]]
+[[Category:Geology of the Alps]]
+[[Category:Apennine Mountains]]
+[[Category:Limestone Alps]]
+[[Category:Carnian Stage]]
+[[Category:Norian Stage]]
+[[Category:Northern Limestone Alps]]
+[[Category:Southern Limestone Alps]]
+[[Category:Geologic formations of Italy]]
+[[Category:Triassic Austria]]
+[[Category:Triassic Germany]]
+[[Category:Triassic System of Europe]]
+
+
+{{Austria-geologic-formation-stub}}
+{{Germany-geologic-formation-stub}}
+{{Europe-geologic-formation-stub}}&lt;!--for Italy--&gt;</text>
+      <sha1>s5xazqp4d4n4zwa3g5hfz0z01is1rpr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Majojo</title>
+    <ns>0</ns>
+    <id>55339426</id>
+    <revision>
+      <id>820905839</id>
+      <parentid>807022525</parentid>
+      <timestamp>2018-01-17T08:47:40Z</timestamp>
+      <contributor>
+        <username>Mompati Dikunwane</username>
+        <id>18310519</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1459">{{refimprove|date=October 2017}}
+{{Infobox monument
+| name          = Majojo
+| native_name   = Majojo Hill
+| image         = 
+| caption       = 
+| location      = central district of Botswana
+| designer      = 
+| type          = 
+| material      = 
+| length        = 
+| width         = 
+| height        = 
+| begin         = 
+| complete      = 
+| open          = 
+| restore       = 
+| dismantled    = 
+| dedicated_to  = 
+| map_image     = 
+| map_text      = 
+| map_width     = 
+| relief        = 
+| coordinates   = 
+| website       =
+| extra         = 
+}}
+
+'''Majojo''' {{Pronunciation needed}} is a small hill found in the central district of Botswana. It is categorized under the [[monuments]] and sites in [[Botswana]].&lt;ref name="Majojo Hill"&gt;{{cite web|title=Majojo Hill|url=http://www.gov.bw/en/Visitors/Topics/Monuments/Majojo/|accessdate=25 September 2017}}&lt;/ref&gt; According to history, these hill was the residence of the chief.They were called [[Muzinda]], which means the residence of the chief or [[kgosi]] around 1300-1650 AD. Majojo stone walls is an extension of the tradition of [[great Zimbabwe]]. Majojo [[ruins]] is respected by the locals living there and it believed to be the home of their [[ancestors]].
+
+== References ==
+{{Reflist}}
+
+{{coord missing|Botswana}}
+
+[[Category:Archaeological sites in Botswana]]
+[[Category:Monuments and memorials in Botswana]]
+[[Category:History of Botswana]]
+
+
+{{Botswana-geo-stub}}
+{{Botswana-struct-stub}}</text>
+      <sha1>2e417g3wocu1og2nyre7jw2ra3sam9g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Malgium</title>
+    <ns>0</ns>
+    <id>51726698</id>
+    <revision>
+      <id>865329253</id>
+      <parentid>761409696</parentid>
+      <timestamp>2018-10-23T07:10:19Z</timestamp>
+      <contributor>
+        <ip>2601:204:D400:7310:F12E:1299:852E:DFE5</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3816">'''Malgium''' is a hitherto unidentified ancient [[Mesopotamia]]n city which thrived especially in the [[Middle Bronze Age]], ca. 2000 BC - 1600 BC.&lt;ref name=frayne&gt;{{ cite book | title = Old Babylonian Period (2003-1595 BC): Early Periods, Volume 4 (RIM The Royal Inscriptions of Mesopotamia) | author = Douglas Frayne | publisher = University of Toronto Press | year = 1990 | pages = 668-670 }}&lt;/ref&gt; Located on the river [[Tigris]], south of where the [[Diyala River]] branches off and upstream of [[Mashkan-shapir|Maškan-šapir]], it formed a small city-state in an area where the edges of the territories controlled by [[Larsa]], [[Babylon]] and [[Elam]] converged.&lt;ref name=bryce&gt;{{ cite book | title = The Routledge Handbook of The Peoples and Places of Ancient Western Asia | author = Trevor Bryce | publisher = Routledge | year = 2009 | pages = 441-442 }}&lt;/ref&gt; Inscribed in [[cuneiform]] as ma-al-gi-im&lt;sup&gt;KI&lt;/sup&gt;, its chief deities were [[Enki|Ea]] and [[Damkina]].&lt;ref name=boer&gt;{{ cite journal | title = An Early Old Babylonian Archive from the Kingdom of Malgium? | volume = 301 | number = 1 | author = Rients de Boer | journal = Journal Asiatique | year = 2013 | pages = 19-25 }}&lt;/ref&gt;{{rp|20}}
+
+==History==
+
+Three of its rulers have been identified with certainty, through attestation in their inscriptions as šàr (lugal) ma-al-gi-im&lt;sup&gt;ki&lt;/sup&gt;, Takil-ilissu, son of Ištaran-asû,&lt;ref&gt;{{ cite journal | title = The Inscription of Takil-ili-su of Malgium | author = Thorkild Jacobsen | journal = Archiv für Orientforschung | volume = 12 | year = 1939 | jstor = 41680358 | page = 364 }}&lt;/ref&gt; Imgur-Sin, son of Ili-abi, and, probably the last one, Ipiq-Ištar, son of Apil-Ilišu, a contemporary of [[Hammurabi|Ḫammu-rāpi]] of Babylon, who celebrated conflict with the city in two of his year names (10 and 35). A further three rulers have been proposed, Šu-Kakka, Nabi-Enlil and Šu-Amurrum, three generations of a dynasty, based upon Šu-Kakka’s year name honoring the goddess Damkina. Their absolute position is uncertain but they seem to have reigned from the immediate aftermath of the downfall of the [[Ur III]] empire.&lt;ref name=boer/&gt;{{rp|19}}
+
+The kings of Larsa targeted Malgium in their pursuit of territorial expansion with [[Gungunum]] celebrating its conquest in his 19th year name, circa 1914 BC,&lt;ref name=boer/&gt;{{rp|22}} [[Sin-Iddinam]] its defeat in his 5th year name ca. 1844 and Warad-Sîn commemorated mu ugnim mà-al-gu-um&lt;sup&gt;ki&lt;/sup&gt; &lt;sup&gt;giš&lt;/sup&gt;tukul ba(-an)-sìg, “Year : the army&lt;sup&gt;?&lt;/sup&gt; of Malgium was smitten by weapons”, ca. 1831 BC.&lt;ref&gt;{{ cite journal | title = New Evidence for Warad-Sîn’s Mu-Malgium-Basig ('The Destruction of Malgium') Year Name | author = Kathleen Abraham | journal = Revue d'Assyriologie et d'archéologie orientale | volume = 102 | year = 2008 | jstor = 23281366 | page = 29 }}&lt;/ref&gt; Ḫammu-rāpi, in a grand coalition with [[Shamshi-Adad I]] and [[ Ibal-pi-el II|Ibal-pi-El II]] (of [[Eshnunna]]), campaigned against the [[city-state]] until its ruler bought them off with 15 [[talents of silver]]. Freed from its vassalage to [[Elam]], by Ḫammu-rāpi’s triumph over them, Malgium’s king, Ipiq-Ištar, concluded a treaty and subsequently provided aid and soldiers in Ḫammu-rāpi’s campaign against [[Larsa]]. For as yet uncertain reasons, Ḫammu-rāpi turned on his erstwhile ally and sacked the city ca. 1758, deporting much of its populace to Babylonia. Its state in the Middle Babylonian Period and later periods was much more humble as an administrative district called Malgu and a settlement referred to as Maliki.&lt;ref name=bryce/&gt;
+
+==References==
+
+{{Reflist}}
+
+{{DEFAULTSORT:Malgium}}
+[[Category:Ancient cities of the Middle East]]
+[[Category:City-states]]
+[[Category:Former populated places in Iraq]]</text>
+      <sha1>nbjjkskcefgdkay8a9nd8lcskpmw39u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Molchad</title>
+    <ns>0</ns>
+    <id>49580990</id>
+    <revision>
+      <id>817035069</id>
+      <parentid>817034915</parentid>
+      <timestamp>2017-12-25T16:49:56Z</timestamp>
+      <contributor>
+        <ip>88.113.132.4</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4995">{{Refimprove|date=February 2016}}
+{{Expand Belarusian|Вёска Моўчадзь|date=February 2016}}
+{{Expand Belarusian (Taraškievica)|Моўчадзь|date=February 2016}}
+
+{{Infobox settlement
+|name=Molchad
+|native_name      = Моўчадзь/Mołczadź
+|nickname           = 
+|image_skyline      =
+|imagesize          =
+|image_flag         = 
+|image_seal         = 
+|image_map          =
+|map_caption        =
+|pushpin_map=Belarus
+|pushpin_map_caption        = Location in Belarus
+|subdivision_type   = [[Countries of the world|Country]]
+|subdivision_name   = {{flag|Belarus}}
+|subdivision_type1   = [[Regions of Belarus|Region]]
+|subdivision_name1   =[[Brest Region|Brest]]
+|subdivision_type2   = [[Districts of Belarus|District]]
+|subdivision_name2=[[Baranovichy District|Baranovichy]]
+|leader_title       = 
+|leader_name        =
+|established_title  = Mentioned
+|established_date   = 1486
+|established_title2 = 
+|established_date2  = 
+|established_title4 = 
+|established_date3  = 
+|area_magnitude     = 
+|area_total_km2         = 
+|area_land_km2          = 
+|area_water_km2         = 
+|population_as_of   = 2005
+|population_note    = 
+|population_total   = 950
+|population_metro   = 
+|population_density_km2 = 
+|timezone           = [[Eastern European Time|EET]]
+|utc_offset         = +2
+|timezone_DST       = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST     = +3
+|coordinates        = {{coord|53|18.44|N|25|42.02|E|region:BY|display=inline}}
+|elevation_m        = 193
+|postal_code_type   = Postal code
+|postal_code        = 225340
+|area_code          = 375 163
+|registration_plate = 1
+|website            = 
+|footnotes          = 
+}}
+
+'''Molchad''' ({{lang-be|Моўчадзь}}, {{lang-pl|Mołczadź}}, {{lang-yi|מייטשעט}} ''Meytshet'') is a village located on the [[Molchad River]] in the [[Baranovichy District]] of the [[Brest Region]], [[Belarus]]. It is located in 33&amp;nbsp;km north-west from [[Baranovichi]].  The population of Molchad is 950 people and includes 330 households.
+
+==History==
+The village of Molchad has appeared in written sources as early as 1486 with the founding of the local Holy Trinity Church, which no longer stands,&lt;ref name="Tourist Mosaic of Belarus pages"&gt;[[National Academy of Sciences of Belarus]] 2013 [https://books.google.com/books?id=dNhkBAAAQBAJ&amp;pg=PT65&amp;lpg=PT65&amp;dq=molchad+1486&amp;source=bl&amp;ots=D_fWt5wsGt&amp;sig=Klb_zYBl61Zt9YRi79Oc6AvPwyY&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjgoPXf7ZjLAhVB-2MKHSZQCXoQ6AEIMTAF#v=onepage&amp;q=molchad%201486&amp;f=false Tourist Mosaic of Belarus page 65]&lt;/ref&gt; it was listed as part of the [[Slonim district|Slonim povet]] of the [[Grand Duchy of Lithuania]].&lt;ref name="Tourist Mosaic of Belarus pages" /&gt;
+During the [[Russo-Polish War (1654–67)|Russo-Polish War]] in 1654 the village was razed by Russian invaders but latter rebuilt.
+
+===Under the Russian Empire===
+As a result of the [[third partition of Poland]] in 1795 Molchad became part of the [[Russian Empire]]. 
+In 1879, the village suffered a large fire which destroyed most of the buildings in Molchad. 
+In 1880, the [[St. Peter and Paul Church, Molchad|St. Peter and Paul Church]] was completed.&lt;ref name="Tourist Mosaic of Belarus pages" /&gt;
+In 1884 a railway was built through the village connecting it to the nearby city of [[Brest, Belarus|Brest]].
+In 1886 Molchad was reported to have 2 churches, 3 synagogues, a brewery, a railway station , a school and a bazaar.&lt;ref name="Tourist Mosaic of Belarus pages" /&gt;
+
+===20th Century===
+In 1921, the [[Peace of Riga]] transferred Molchad to [[Second Polish Republic|Poland]].
+Following the [[Invasion of Poland]] in 1939, Molchad was incorporated into the [[Byelorussian Soviet Socialist Republic|Byelorussian SSR]]. 
+Between June 1941 and July 1944, Molchad was occupied by [[Nazi Germany]], From June through August 1942, 3600 Jews from Molchad and the surrounding area were massacred by the native Polish population with the support of German troops. Many Jews were buried alive.&lt;ref&gt;http://yahadmap.org/#village/molchad-brest-belarus.427&lt;/ref&gt;&lt;ref name=massacre&gt;[http://www.jhrgbelarus.org/Heritage_Holocaust.php?pid=&amp;lang=en&amp;city_id=36&amp;type=3 Jewish Heritage Research Group in Belarus]&lt;/ref&gt;
+
+==Historic Populations==
+In 1830, the population was 363 people: 183 were Jewish, 169 were middle class Christians and farmers, 6 were [[gentry]], 2 [[clergy]] and 3 poor.&lt;br&gt; 
+In 1865, the population was 737.&lt;br&gt;
+In 1886, the population was 479.&lt;ref name="Tourist Mosaic of Belarus pages" /&gt;&lt;br&gt;
+In 1921, the population was 1483.&lt;br&gt;
+In 1998, the population was 882.
+
+==References==
+{{reflist}}
+*[http://www.jewishgen.org/yizkor/Molchadz/Molchadz.html Molchadz (Maytchet), In Memory of the Jewish Community (Molchad, Belarus)]
+
+{{Brest Region}}
+
+[[Category:Villages in Belarus]]
+[[Category:Populated places in Brest Region]]
+[[Category:Grodno Governorate]]
+[[Category:Nowogródek Voivodeship (1919–39)]]
+[[Category:Jewish Belarusian history]]
+[[Category:Holocaust locations in Belarus]]
+
+
+{{Belarus-stub}}</text>
+      <sha1>563ytv2gyqfy59uvb5o7f7yy4jx0jj0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mosirkara Kamuy</title>
+    <ns>0</ns>
+    <id>8811768</id>
+    <revision>
+      <id>740357332</id>
+      <parentid>740357111</parentid>
+      <timestamp>2016-09-20T15:14:49Z</timestamp>
+      <contributor>
+        <username>Andy M. Wang</username>
+        <id>516856</id>
+      </contributor>
+      <comment>post-move corr.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="723">'''Moshirkara Kamuy''' is an [[Ainu people|Ainu]] ''[[kamuy]]'' (''god'').  At the command of [[Kandakoro Kamuy]], he is said to have created the earth, shaping it and preparing it for humans to inhabit.  Like Kandakoro Kamuy, he plays little part in Ainu mythology after the creation of the world is complete.
+
+==References==
+*Ashkenazy, Michael. ''Handbook of Japanese Mythology''. Santa Barbara, California: ABC-Clio, 2003.
+*Etter, Carl. ''Ainu Folklore: Traditions and Culture of the Vanishing Aborigines of Japan''. Chicago: Wilcox and Follett, 1949.
+*Munro, Neil Gordon. ''Ainu Creed and Cult''. New York: Columbia University Press, 1995.
+
+{{Asia-myth-stub}}
+{{Japan-myth-stub}}
+{{ainu-stub}}
+
+[[Category:Ainu kamuy]]</text>
+      <sha1>fjkgs6bl1y6u37mmoml596nlv25swhn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mustafa Centre</title>
+    <ns>0</ns>
+    <id>5237496</id>
+    <revision>
+      <id>847183179</id>
+      <parentid>847183122</parentid>
+      <timestamp>2018-06-23T14:06:03Z</timestamp>
+      <contributor>
+        <username>Doprendek</username>
+        <id>5837138</id>
+      </contributor>
+      <comment>added [[Category:1971 establishments in Singapore]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4788">{{Reimprove|date=January 2018}}
+{{Infobox shopping mall
+| name               = Mustafa Centre
+| native_name        =
+| native_name_lang   =
+| image              = Mustafa Centre, Sep 06.JPG
+| image_width        =
+| caption            = Main store along Syed Alwi Road
+| location           = Syed Alwi Road, [[Little India, Singapore|Little India]], [[Singapore]]
+| coordinates        = {{Coord|1|18|35|N|103|51|21|E|type:landmark_region:SG|display=inline,title}}
+| address            = 145 Syed Alwi Road, Singapore 207704
+| opening_date       = April 1995
+| closing_date       =
+| developer          =
+| manager            =
+| owner              = Mr. Mustaq Ahmad
+| architect          =
+| number_of_stores   = 1 main store and 3 wings
+| number_of_anchors  = None
+| floor_area         = {{convert|400,000|sqft|m2|abbr=on}}
+| floors             = 8
+| parking            = 0 (roadside parking)
+| publictransit      =  [[Farrer Park MRT Station|Farrer Park]]
+| website            = {{URL|http://www.mustafa.com.sg/|www.mustafa.com.sg}}
+| belowstyle         =
+| footnotes          =
+}}
+
+'''Mustafa Centre''' is one of [[Singapore]]'s [[24/7|24-hour]] [[shopping mall]]s on Syed Alwi Road in the cultural district of [[Little India, Singapore|Little India]], within the [[Planning Areas of Singapore|planning area]] of [[Kallang]].&lt;ref name="about_page"&gt;{{cite web | url=http://www.mustafa.com.sg/frmAboutUs.aspx | title=About Mustafa | publisher=Mustafa Centre}}&lt;/ref&gt; Within a walking distance from [[Farrer Park MRT Station|Farrer Park]] station on the [[North East MRT Line|North East Line]], Mustafa Centre is a retail hub attracting many shoppers with its wide variety of products and services.
+
+In 1971, Mustaq Ahmad; his father, Haji Mohamed Mustafa (1916-2001); and his uncle, Samsuddin, founded '''Mohamed Mustafa and Samsudin Co Pte Ltd''' ('''MMSC'''), and opened a retail store on Campbell Lane in Singapore.&lt;ref name="infopedia"/&gt;  It mainly sold ready-made clothing and later expanded to sale of electronic items. In 1985, Mustaq moved his business to the ground floor of Serangoon Plaza.
+
+As his business expanded, Mustaq bought a shophouse on Syed Alwi Road. Subsequently, he bought the neighboring units and decided to build a new shopping mall to house his business.&lt;ref name="infopedia"&gt;{{cite web | url=http://infopedia.nl.sg/articles/SIP_442_2005-02-03.html | title=Mohamed Mustafa and Samsudin Co Pte Ltd | publisher=Singapore Infopedia | date=February 3, 2005 | accessdate=November 13, 2012 | deadurl=yes | archiveurl=https://web.archive.org/web/20120417041545/http://infopedia.nl.sg/articles/SIP_442_2005-02-03.html | archivedate=April 17, 2012 | df= }}&lt;/ref&gt; The business expanded internationally, to [[Chennai]], in 2000.&lt;ref name="infopedia"/&gt;
+
+Mustafa Centre sold parallel imported cars in 2005 but has since stopped.{{citation needed|date=February 2015}}
+
+==Facilities==
+Mustafa Centre houses the Mustafa department store, which caters mainly to the budget market. The department store consists of two shopping centres: one retailing [[jewelry]] and [[household appliance]]s and functioning as a [[supermarket]], and the other selling a variety of other products such as [[book]]s, [[DVD]]s, [[watch]]es, [[Consumer electronics|electronic goods]], [[footwear]], [[toys]] and [[clothing]].
+
+Mustafa Centre sells more than 300,000 items and provides many services such as [[Bureau de change|foreign exchange]] and [[travel]] arrangements.&lt;ref name="about_page"&gt;&lt;/ref&gt; In late 2011, Mustafa Centre opened a new rooftop restaurant named ''Kebabs ‘n Curries'' in its new wing. &lt;ref name="kebabs_curries_article"&gt;{{cite web | url=http://www.hungrygowhere.com/dining-guide/critics-reviews/mustafa-rooftop-restaurant-opens-*aid-31dc3e00/ | title=Mustafa rooftop restaurant opens | publisher=HungryGoWhere Singapore | date=October 13, 2011 | accessdate=February 18, 2015}}&lt;/ref&gt; The restaurant serves a range of Asian dishes from 5 pm till 2 am daily. &lt;ref name="kebabs_curries_info"&gt;{{cite web | url=http://www.hungrygowhere.com/singapore/Kebabs_n_Curries/ | title=Kebabs &amp; Curries, Jalan Besar Reviews | publisher=HungryGoWhere Singapore | accessdate=February 18, 2015}}&lt;/ref&gt;
+
+==See also==
+* [[List of shopping malls in Singapore]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|http://www.mustafa.com.sg/}}
+
+{{Singapore malls}}
+
+[[Category:Shopping malls in Singapore]]
+[[Category:Buildings and structures completed in 1995]]
+[[Category:Companies of Singapore]]
+[[Category:Retail companies established in 1971]]
+[[Category:Indian diaspora in Singapore]]
+[[Category:Kallang]]
+[[Category:Shopping malls established in 1995]]
+[[Category:1971 establishments in Singapore]]
+
+{{retail-company-stub}}
+{{singapore-geo-stub}}
+{{singapore-company-stub}}</text>
+      <sha1>h8mdk0a963zsrvl3w95sajuz9b5kfpu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>NS Kamporganisasjon</title>
+    <ns>0</ns>
+    <id>31341475</id>
+    <revision>
+      <id>825024301</id>
+      <parentid>696790258</parentid>
+      <timestamp>2018-02-11T01:13:03Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.2)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1480">'''NS Kamporganisasjon''' ({{lang-en|NS Battle Organization}}) was an elite group within the fascist [[Nasjonal Samling]] (NS) party in Norway. Established in 1934 by the NS Central Office, its composition was restricted to NS officers and the most active party members.&lt;ref&gt;{{cite book|last=Høidal|first=Oddvar K.|title=Quisling: A study in treason|year=1989|publisher=Norwegian University Press|location=Oslo|isbn=82-00-18400-5|page=253}}&lt;/ref&gt; Each member had to swear a seven-point [[oath of allegiance]] to the leader [[Vidkun Quisling]]. The group had 4,000 members in 1945.&lt;ref&gt;{{cite encyclopedia|last=Dahl|first=Hans Fredrik|authorlink=Hans Fredrik Dahl|encyclopedia=[[Norsk krigsleksikon 1940-45]]|title=KO|language=Norwegian|editor1-first=Guri|editor1-last=Hjeltnes|editor1-link=Guri Hjeltnes|editor2-first=Berit|editor2-last=Nøkleby|editor2-link=Berit Nøkleby|editor3-first=Nils Johan|editor3-last=Ringdal|editor3-link=Nils Johan Ringdal|editor4-first=Øystein|display-editors=3|editor4-last=Sørensen|editor4-link=Øystein Sørensen|url=http://mediabase1.uib.no/krigslex/k/k3.html#ko|accessdate=1 April 2011|year=1995|publisher=Cappelen|location=Oslo|isbn=82-02-14138-9|page=|deadurl=yes|archiveurl=https://web.archive.org/web/20110811004631/http://mediabase1.uib.no/krigslex/k/k3.html#ko|archivedate=11 August 2011|df=}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:KO}}
+[[Category:1934 establishments in Norway]]
+[[Category:Nasjonal Samling]]
+{{norway-stub}}</text>
+      <sha1>2jymqwu4h1us5s8rc4x5w3jcztdkl8c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nazar the Brave</title>
+    <ns>0</ns>
+    <id>48429881</id>
+    <revision>
+      <id>853973454</id>
+      <parentid>756026701</parentid>
+      <timestamp>2018-08-08T03:29:47Z</timestamp>
+      <contributor>
+        <username>RaffiKojian</username>
+        <id>108806</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2452">{{Infobox film
+| name           = Nazar the Brave
+| image          = 
+| alt            = 
+| caption        = 
+| film name      = 
+| director       = [[Amasi Martirosyan]]
+| producer       = 
+| writer         = [[Derenik Demirchyan]] (play)&lt;br&gt;[[Amasi Martirosyan]]
+| screenplay     = 
+| story          = 
+| based on       = 
+| starring       = [[Hambartsum Khachanyan]]&lt;br&gt;[[Arus Asryan]]&lt;br&gt;[[Avet Avetisyan]]
+| narrator       = 
+| music          = S. Barkhudaryan	
+| cinematography = Sarkis Gevorkyan	
+| editing        = 
+| studio         =  [[Armenfilm|Yerevan Film Studio]]
+| distributor    = 
+| released       = 1940&lt;!--{{film date|year|month|day|location}}--&gt;
+| runtime        = 50 min
+| country        = [[Soviet Union]]
+| language       = [[Armenian language|Armenian]]
+| budget         = 
+| gross          = 
+}}
+
+
+'''Nazar the Brave''' (aka '''Kaj Nazar''') ({{lang-hy|Քաջ Նազար}}) is a 1940 Soviet [[comedy film]] directed by [[Amasi Martirosyan]]&lt;ref&gt;{{cite web |url= http://www.arm-cinema.am/en/m/161.html |title=Nazar the Brave - Armenian Cinema|date= |website= |publisher= |access-date=1 November 2015 |quote=}}&lt;/ref&gt;&lt;ref&gt;{{cite book|title= Modern Armenian Drama: An Anthology|author=Nishan Parlakian, S. Peter Cowe |year=|publisher=Columbia University Press |location=9780231116305|isbn=|volume=|pages=|editor=}}&lt;/ref&gt; The name is a reference to the famous fairy tale of the same name by [[Hovhannes Tumanyan]].
+
+== Cast ==
+*[[Hambartsum Khachanyan]]
+*[[Arus Asryan]]
+*[[Avet Avetisyan]]
+*[[Manvel Manvelyan]]
+*[[L. Msrlyan]]
+*[[Aram Amirbekyan]]
+*[[Samvel Mkrtchyan]]
+*[[A. Aslanyan]]
+*[[Artemy Harutyunyan]]
+*[[D. Gulazyan]]
+*[[Kh. Abrahamyan]]
+*[[A. Ter-Abrahamyan]]
+
+==References==
+{{reflist}}
+
+==External links==
+
+* {{IMDb title|0359532|title=Nazar the Brave}}
+* {{cite web |url=https://www.youtube.com/watch?v=vAY5aQjPSOU |title=Храбрый Назар / Քաջ Նազար / Nazar the Brave (1940|date= |website= |publisher= |access-date=1 November 2015 |quote=}}
+
+[[Category:1940 films]]
+[[Category:1940s comedy films]]
+[[Category:Films directed by Amasi Martirosyan]]
+[[Category:Armenian black-and-white films]]
+[[Category:Soviet black-and-white films]]
+[[Category:Films set in Armenia]]
+[[Category:Soviet films]]
+[[Category:Soviet comedy films]]
+[[Category:Armenian comedy films]]
+[[Category:Soviet-era Armenian films]]
+[[Category:Armenfilm films]]
+[[Category:Armenian films]]
+
+{{USSR-film-stub}}
+{{Armenia-film-stub}}</text>
+      <sha1>juylbjbn8pw8ldgq6tmjt7x76a0ir56</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People's Reconciliation Party</title>
+    <ns>0</ns>
+    <id>2671114</id>
+    <revision>
+      <id>639468835</id>
+      <parentid>639468202</parentid>
+      <timestamp>2014-12-24T13:08:41Z</timestamp>
+      <contributor>
+        <username>Number 57</username>
+        <id>327289</id>
+      </contributor>
+      <comment>Expand some more</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2081">{{Politics of Burundi}}
+
+The ''' People's Reconciliation Party''' ({{lang-fr|Parti de la Réconciliation des Personnes}}, PRP) is a minor [[political party]] in [[Burundi]].
+
+==History==
+The party was established in September 1991 and registered on 30 June 1992.&lt;ref name=TL&gt;Tom Lansford (2014) ''Political Handbook of the World 2014'', CQ Press, p215&lt;/ref&gt;&lt;ref&gt;[http://www.afrique-express.com/afrique/burundi/burundi-partis-politiques.html Les principaux partis politiques du Burundi] Afrique Express&lt;/ref&gt; It nominated Pierre-Claver Sendegeya as its candidate for the [[Burundian presidential election, 1993|1993 presidential elections]]. Sendegeya finished third with 1.5% of the vote.&lt;ref name=AED/&gt;
+
+Led by Jean Bosco Yamuremye, it received 1.4% of the vote in the [[Burundian legislative election, 1993|1993 parliamentary elections]], failing to win a seat.&lt;ref name=AED&gt;[http://africanelections.tripod.com/bi.html Elections in Burundi] African Elections Database&lt;/ref&gt; 
+
+In 1994 its leader Mathias Hitimana was arrested as the government considered the party to have extremist leanings. The arrest led to riots that affected [[Bujumbura]] for three days.&lt;ref name=TL/&gt; In March 1995 the PRP was given a ministerial post, but the party pulled out of the government in December, and Hitimana was arrested again in January 1996.&lt;ref name=TL/&gt;
+
+The party was given a ministerial post in the transitional government in November 2001, but left the government again in July 2002, before returning in 2003. In 2006 party president Déo Niyonzima was arrested for alleged involvement in a coup plot, but was acquitted in January 2007.&lt;ref name=TL/&gt;
+
+==Ideology==
+The party supports the restoration of the [[List of Kings of Burundi|monarchy]].&lt;ref name=EKE&gt;Ellen K Eggers (2006) ''Historical Dictionary of Burundi'', Scarecrow Press, p125&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+{{Burundian political parties}}
+
+[[Category:Political parties in Burundi]]
+[[Category:Political parties established in 1991]]
+[[Category:1991 establishments in Burundi]]
+
+{{Africa-party-stub}}
+{{Burundi-stub}}</text>
+      <sha1>336baorq9743q8xb2jxtlmmtenegx5t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pioneer Inno</title>
+    <ns>0</ns>
+    <id>5246372</id>
+    <revision>
+      <id>745109644</id>
+      <parentid>472624797</parentid>
+      <timestamp>2016-10-19T08:44:18Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2064">{{Other uses|Inno Setup}}
+{{For|the supermarket|Inno}}
+{{Refimprove|date=November 2010}}
+[[File:WLW-XM173.jpg|thumb|right|200px|700 [[WLW]] on XM's '''Pioneer Inno'''.]]
+The '''Pioneer Inno''' is a second-generation [[XM2go]] radio receiver model for use with the [[XM]] satellite radio service.  The Inno improves upon the first generation units by having an improved built-in antenna for live portable reception, improved recording capabilities allowing unlimited sessions, and increased recording capacity.  The Inno has the ability to record individual songs from the XM service and has a capacity of 1 GB for storage.  This flash storage is factory configured as two separate blocks, for approximately 22 hours of XM content, and approximately 518 MB of MP3 or WMA music or audio tracks and can be configured for 100% XM content for a full estimated 50 hours.  These files are stored internally in their native AACplus audio format and cannot be exported from the unit digitally.
+
+On May 16, 2006 the [[RIAA]] (Recording Industry Association of America) sued XM, stating that the device infringes on copyrights.&lt;ref&gt;
+{{ cite book
+|title=Over-the-Road Wireless For Dummies
+|first=E. Phil 
+|last=Haley 
+|page=299
+|url=https://books.google.com/books?id=I2R8_D3cqAcC&amp;pg=PA299
+}}&lt;/ref&gt;   XM defends the device by stating that the songs recorded from the XM service cannot be exported from the particular Inno device it was saved on, and the owner of the Inno must remain an XM subscriber to continue to access material recorded from XM.
+
+On September 6, 2006, XM Radio announced a Pink Inno available exclusively at Circuit City where $30 from each unit sold goes to benefit the Susan G. Komen Breast Cancer Foundation's fight against breast cancer.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://news.bbc.co.uk/1/hi/technology/4989498.stm BBC: Satellite radio in recordings row]
+* [http://www.xmradio.com/lineup/statement.jsp XM Statement]
+* [http://www.napster.com/compatible_devices/ Napster's Compatible Device List]
+
+[[Category:XM Satellite Radio]]</text>
+      <sha1>kc9pspdmjmsjgfz44mni5572w8sx3cv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Polish–Czechoslovak confederation</title>
+    <ns>0</ns>
+    <id>32707439</id>
+    <revision>
+      <id>840930350</id>
+      <parentid>840930310</parentid>
+      <timestamp>2018-05-13T00:39:08Z</timestamp>
+      <contributor>
+        <ip>89.164.145.127</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14700">[[File:Polish–Czechoslovak confederation.png|thumb|Map of Poland/Czechoslovakia. On the left is a map with is the prewar borders, and on the right is the postwar borders.]]
+The '''Polish-Czechoslovak confederation''', or '''federation''',{{ref_label|a|a|none}} was a political concept from the time of [[World War II]], supported by the [[Polish government-in-exile]] and, to a lesser extent, the [[United Kingdom]] and the [[United States]]. It was a revitalisation of the [[Międzymorze]] concept, proposing the creation of a federation based on [[Poland]] and [[Czechoslovakia]]. The project had less support in the [[Czechoslovak government-in-exile]], which believed it did not need Polish support against the [[Soviet Union]], and was eventually sunk by the growing Soviet dominance, as [[Joseph Stalin]] did not want a strong and independent federation in [[Europe]] that could threaten his designs for Eastern Europe.
+
+==Background==
+Soon after the Polish defeat in the [[Polish September Campaign]], both the Polish and Czechoslovak governments (Czechoslovakia having been reduced to a German [[puppet state]] following the [[Munich Agreement]]) formed in exile in the West.&lt;ref name="Levy2007-199"/&gt; However, despite a common enemy, [[Czechoslovakia–Poland relations]] were less than friendly because of [[Polish–Czechoslovak border conflicts]].&lt;ref name=zaolzie/&gt;&lt;ref name="LeslieLeslie1983-2"/&gt; The Polish government aimed to revitalize the [[Międzymorze]] federation concept and to create a strong federation of states in [[Central Europe|Central]] and [[Eastern Europe]], revolving around Poland and Czechoslovakia, as a barrier to further German and Soviet aggression.&lt;ref name="Prażmowska1995-67-68"/&gt;&lt;ref name="Levy2007-200"/&gt; The Czechoslovak government, initially split between two groups (those of [[Milan Hodža]] and Beneš), was tentatively supportive of the idea, at least publicly.&lt;ref name="Levy2007-200"/&gt;&lt;ref name="LaneStadtmüller2005"/&gt;
+
+==Negotiations==
+[[File:Edvard Beneš.jpg|thumb|rught|150px|Beneš, the leader of the Czechoslovak government in exile]]
+[[File:Sikorski prime minister.jpg|thumb|rught|150px|Sikorski, the leader of the Polish government in exile]]
+Czechoslovak politicians Hodža and [[Jan Masaryk]] both wanted a confederation,&lt;ref name="LaneStadtmüller2005"/&gt; Beneš was more lukewarm; his goal was to ensure that the disputed [[Zaolzie]] territory that had passed to Poland in the aftermath of the [[Munich Agreement]] was regained by Czechoslovakia,&lt;ref name=zaolzie/&gt;&lt;ref name="Orzoff"/&gt; and that became one of the major issues of contention in the ongoing negotiations.&lt;ref name=zaolzie/&gt;&lt;ref name="Prażmowska1995-142"/&gt; Beneš, who saw regaining the territory as a primary objective, saw the Soviet Union, particularly in the aftermath of the [[Soviet invasion of Poland]], as a potential ally and as a counterbalance to Poland, and he would steadily align his government more with the Soviet Union than Poland in the belief that an alliance with a powerful country would be more beneficial to Czechoslovakia than a federation with several other smaller powers.&lt;ref name=zaolzie/&gt;&lt;ref name="LeslieLeslie1983-2"/&gt;&lt;ref name="LaneStadtmüller2005"/&gt;&lt;ref name="Orzoff"/&gt; That was quite contrary to the Polish attitude, as the Polish leader of that time, [[Władysław Sikorski]], saw the Soviet Union as a major threat to the postwar European order.&lt;ref name=zaolzie/&gt;&lt;ref name="Wandycz1980"/&gt;
+
+Thus, when Sikorski approached Beneš and proposed discussions over a future Polish-Czechoslovak federation in 1939, aiming to create a stronger postwar Poland and Czechoslovakia, Beneš's response was lukewarm at best, as he was not interested in strengthening Poland. He was content to see Czechoslovakia re-established within its pre-1938 borders.&lt;ref name=zaolzie/&gt;
+
+Nonetheless, Beneš did not refuse Sikorski's proposal outright, as the federation proposal was supported by the UK and later by the US, which also supported the plans for other federations such as the [[Greek-Yugoslav confederation]]. He was afraid that open refusal would lead to the Poles opening negotiations with the Czechoslovak opposition or to his government being marginalized by the British [[Foreign Office]].&lt;ref name=zaolzie/&gt;&lt;ref name="Wandycz1980"/&gt;&lt;ref name="Levy2007-201"/&gt; Beneš decided to continue the negotiations with the Poles over the possibility of federation but with little haste; in fact, many of the Czechoslovak government's moves were designed to prolong the negotiations without any real commitment.&lt;ref name=zaolzie/&gt; The negotiations proceeded slowly, with numerous conferences, and with joint declarations on 11 November 1940 (a declaration by the two governments about entering "a closer political and economic association"), on 23 January 1942 (in which both governments agreed to form a confederation after the war and mentioned common policies on diplomacy, defense, trade, education and communication) and on 10 June 1942.&lt;ref name=zaolzie/&gt;&lt;ref name="Levy2007-201"/&gt;&lt;ref name="Kühnhardt2009"/&gt; January 1941 saw the establishment of the Czechoslovak-Polish Coordinating Committee to oversee the process of the negotiations.&lt;ref name="Prażmowska1995-142"/&gt;
+
+Some early proposals focused on economic co-operation, unified foreign policy, a customs union and a common currency but separate government offices.&lt;ref name="Levy2007-200"/&gt; A Polish proposal from 1941 called for the co-ordination of foreign and economic policies, including total economic unification.&lt;ref name="Prażmowska1995-142"/&gt; Beneš tried to frame the potential federation as no more than a tool for mutual defense against Germany and argued that the Soviet Union was not a threat but a potential ally.&lt;ref name=zaolzie/&gt; The Czechoslovak position was so pro-Soviet that the Beneš government passed secret documents from the Czech-Polish negotiations to the Soviets and assured them that they were acting in the best interests of [[Czechoslovakia-Soviet Union relations]].&lt;ref name=zaolzie/&gt;
+
+The Soviets saw the Polish-led federation of Central and Eastern European states as a threat to their planned [[sphere of influence]].&lt;ref name="Levy2007-201"/&gt;&lt;ref name="Lipgens1985"/&gt;&lt;ref name="Larres2002"/&gt; They put further pressure on the Czechoslovak government, with promises of alliance and territorial guarantees.&lt;ref name="Levy2007-201"/&gt;&lt;ref name="Lipgens1985"/&gt;&lt;ref name="Larres2002"/&gt; By late 1942 and early 1943, as the Soviet Union's position was boosted by its military victories, Czechoslovak-Soviet cooperation became much stronger; on 12 November 1942, the Czechoslovak side suspended talks with the Poles until permission from the Soviet Union had been obtained, and on 10 February 1943, the Czechoslovak diplomat [[Hubert Ripka]] informed the Polish government that no agreement that could be seen as antagonistic towards the Soviet Union would be supported by the Czechoslovak government.&lt;ref name=zaolzie/&gt;&lt;ref name="LeslieLeslie1983"/&gt; That was a major blow to the Polish-Czechoslovakian negotiations.
+
+==Aftermath==
+Soon afterward, Poland and the Soviet Union broke [[Polish-Soviet relations|diplomatic relations]] over the [[Katyń massacre]].&lt;ref name=zaolzie/&gt;&lt;ref name="Larres2002"/&gt;&lt;ref name="Levy2007-202"/&gt; Beneš, meanwhile, focused on pursuing a Czechoslovakia-Soviet alliance.&lt;ref name=zaolzie/&gt;&lt;ref name="Larres2002"/&gt;&lt;ref name="Levy2007-202"/&gt; The death of Sikorski that year was another major blow to the planned federation, as he was seen as the plan's major supporter in the international scene.&lt;ref name="Lipgens1985"/&gt; In December 1943, a new Treaty of Alliance (for 20 years) was signed between the Czechoslovak government in exile and the Soviet Union in Moscow, and a Treaty of Military Co-operation between the two followed next spring.&lt;ref name="Levy2007-202"/&gt;
+
+Beneš's support for the Soviet Union went so far that during his 1943 visit to the US, he argued that the Soviet Union would never be a threat to either Czechoslovakia or Poland.&lt;ref name=zaolzie/&gt; Beneš probably saw the threat of identity loss for Czechoslovakia and the Czechoslovak people in such a federation as more likely than the threat of a conflict or takeover by the Soviet Union, which he perceived as a benevolent ally.&lt;ref name=zaolzie/&gt;&lt;ref name="Orzoff"/&gt;&lt;ref name="Lipgens1985"/&gt;&lt;ref name="Levy2007-202"/&gt; In the end, the Polish federation plan came to naught; instead, the short-term victory with regard to the Central and Eastern European geopolitical scene went to Beneš, and in the long term, it went to his Soviet allies.&lt;ref name="Lipgens1985"/&gt;
+
+Czechoslovakia would regain most of the disputed Zaolzie territory, but by 1948, both it and Poland would have only nominal independence, as they would fall to communist takeovers and become part of the Soviet sphere of influence. Beneš died in 1948, soon after the communists took power in the [[Czechoslovak coup d'état of 1948]] and forced him to retire from politics.
+
+==Notes==
+'''a''' {{Note_label|a|a|none}} As the details of the planned union were never finalized, it is not clear whether it would have been a [[federation]] or a [[confederation]]. Sources use both the term "Polish-Czechoslovakian federation" and the term "Polish-Czechoslovakian confederation".
+
+==References==
+{{reflist|2|refs=
+*&lt;ref name="Kühnhardt2009"&gt;{{cite book|author=Ludger Kühnhardt|title=Crises in European integration: challenge and response, 1945–2005|url=https://books.google.com/books?id=uT1_GLq8DEUC&amp;pg=PA23|accessdate=10 August 2011|year=2009|publisher=Berghahn Books|isbn=978-1-84545-441-8|page=23}}&lt;/ref&gt;
+*&lt;ref name="LaneStadtmüller2005"&gt;{{cite book|author1=A. T. Lane|author2=Elżbieta Stadtmüller|title=Europe on the move: the impact of Eastern enlargement on the European Union|url=https://books.google.com/books?id=ZoK03URcG9MC&amp;pg=PA190|accessdate=10 August 2011|year=2005|publisher=LIT Verlag Münster|isbn=978-3-8258-8947-0|page=190}}&lt;/ref&gt;
+*&lt;ref name="Larres2002"&gt;{{cite book|author=Klaus Larres|title=Churchill's Cold War: the politics of personal diplomacy|url=https://books.google.com/books?id=bo1POHRb3H8C&amp;pg=PA64|accessdate=10 August 2011|year=2002|publisher=Yale University Press|isbn=978-0-300-09438-1|pages=64–65}}&lt;/ref&gt;
+*&lt;ref name="LeslieLeslie1983"&gt;{{cite book|author1=Roy Francis Leslie|author2=R. F. Leslie|title=The History of Poland since 1863|url=https://books.google.com/books?id=0tYVKUsnw9IC&amp;pg=PA242|accessdate=10 August 2011|year=1983|publisher=Cambridge University Press|isbn=978-0-521-27501-9|page=242}}&lt;/ref&gt;
+*&lt;ref name="LeslieLeslie1983-2"&gt;{{cite book|author1=Roy Francis Leslie|author2=R. F. Leslie|title=The History of Poland since 1863|url=https://books.google.com/books?id=0tYVKUsnw9IC&amp;pg=PA231|accessdate=10 August 2011|year=1983|publisher=Cambridge University Press|isbn=978-0-521-27501-9|page=231}}&lt;/ref&gt;
+*&lt;ref name="Levy2007-199"&gt;{{cite book|author=Jonathan Levy|title=The Intermarium: Wilson, Madison, &amp; East Central European Federalism|url=https://books.google.com/books?id=wNb4RXDxEt4C&amp;pg=PA199|accessdate=10 August 2011|date=6 June 2007|publisher=Universal-Publishers|isbn=978-1-58112-369-2|page=199}}&lt;/ref&gt;
+*&lt;ref name="Levy2007-200"&gt;{{cite book|author=Jonathan Levy|title=The Intermarium: Wilson, Madison, &amp; East Central European Federalism|url=https://books.google.com/books?id=wNb4RXDxEt4C&amp;pg=PA200|accessdate=10 August 2011|date=6 June 2007|publisher=Universal-Publishers|isbn=978-1-58112-369-2|page=200}}&lt;/ref&gt;
+*&lt;ref name="Levy2007-201"&gt;{{cite book|author=Jonathan Levy|title=The Intermarium: Wilson, Madison, &amp; East Central European Federalism|url=https://books.google.com/books?id=wNb4RXDxEt4C&amp;pg=PA201|accessdate=10 August 2011|date=6 June 2007|publisher=Universal-Publishers|isbn=978-1-58112-369-2|page=201}}&lt;/ref&gt;
+*&lt;ref name="Levy2007-202"&gt;{{cite book|author=Jonathan Levy|title=The Intermarium: Wilson, Madison, &amp; East Central European Federalism|url=https://books.google.com/books?id=wNb4RXDxEt4C&amp;pg=PA202|accessdate=10 August 2011|date=6 June 2007|publisher=Universal-Publishers|isbn=978-1-58112-369-2|page=202}}&lt;/ref&gt;
+*&lt;ref name="Lipgens1985"&gt;{{cite book|author=Walter Lipgens|title=Documents on the history of European integration: Plans for European union in Great Britain and in exile, 1939–1945 (including 107 documents in their original languages on 3 microfiches)|url=https://books.google.com/books?id=X3TsVCAt9F4C&amp;pg=PA648|accessdate=10 August 2011|year=1985|publisher=Walter de Gruyter|isbn=978-3-11-009724-5|page=648}}&lt;/ref&gt;
+*&lt;ref name="Orzoff"&gt;{{cite book|author=Andrea Orzoff|title=Battle for the Castle|url=https://books.google.com/books?id=Rjlt_4eE6KIC&amp;pg=PA199|accessdate=10 August 2011|publisher=Oxford University Press US|isbn=978-0-19-974568-5|page=199}}&lt;/ref&gt;
+*&lt;ref name="Prażmowska1995-67-68"&gt;{{cite book|author=Anita Prażmowska|title=Britain and Poland, 1939–1943: the betrayed ally|url=https://books.google.com/books?id=Z4J2c4jEhjYC&amp;pg=PA67|accessdate=10 August 2011|year=1995|publisher=Cambridge University Press|isbn=978-0-521-48385-8|pages=67–68}}&lt;/ref&gt;
+*&lt;ref name="Prażmowska1995-142"&gt;{{cite book|author=Anita Prażmowska|title=Britain and Poland, 1939–1943: the betrayed ally|url=https://books.google.com/books?id=Z4J2c4jEhjYC&amp;pg=PA142|accessdate=10 August 2011|year=1995|publisher=Cambridge University Press|isbn=978-0-521-48385-8|page=142}}&lt;/ref&gt;
+*&lt;ref name="Wandycz1980"&gt;{{cite book|author=Piotr Stefan Wandycz|title=The United States and Poland|url=https://books.google.com/books?id=_XaFaNshCrkC&amp;pg=PA245|accessdate=10 August 2011|year=1980|publisher=Harvard University Press|isbn=978-0-674-92685-1|pages=245–246}}&lt;/ref&gt;
+*
+&lt;ref name=zaolzie&gt;{{pl icon}} Alicja Sęk, ''[http://www.zaolzie.org/zaolzie2005/200506/PBI20050623.htm EDVARD BENEŠ KONTRA GEN. WŁADYSŁAW SIKORSKI]'', Zaolzie-Polski Biuletyn Informacyjny, nr 6/2005 (18)&lt;/ref&gt;
+}}
+
+==Further reading==
+*[http://ebsees.staatsbibliothek-berlin.de/simple_search.php?title=Konfederacja%20polsko-czechos%C5%82owacka:%20dokumenty&amp;data=51105&amp;hits=76&amp;ds=24 Konfederacja polsko-czechosłowacka: dokumenty] (Polish-Czechoslovakian confederation - documents). Wandycz, Piotr. Zeszyty Historyczne, 116, 1996, p.&amp;nbsp;186-90.
+*{{cite book|author=Piotr Stefan Wandycz|title=Czechoslovak-Polish Confederation and the Great Powers, 1940-43|url=https://books.google.com/books?id=yBi0AAAAIAAJ|accessdate=12 August 2011|year=1956|publisher=Indiana University}}
+
+{{DEFAULTSORT:Polish-Czechoslovak confederation}}
+[[Category:Proposed countries]]
+[[Category:Czechoslovakia–Poland relations]]
+[[Category:Federalism]]
+[[Category:Poland in World War II]]
+[[Category:Political history of Czechoslovakia]]
+[[Category:Political history of Poland]]</text>
+      <sha1>kbkft93kn108mbd1qtr81dl9l4bqb6z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Qortin Redoubt</title>
+    <ns>0</ns>
+    <id>47042223</id>
+    <revision>
+      <id>834467591</id>
+      <parentid>796989777</parentid>
+      <timestamp>2018-04-05T21:54:50Z</timestamp>
+      <contributor>
+        <username>Tom.Bot</username>
+        <id>28901961</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:Bots/Requests for approval/Tom.Bot 4|Task 4]]: fix [[:Category:Pages using deprecated image syntax]]; [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2827">{{Infobox military installation
+| name = Qortin Redoubt
+| native_name = Ridott tal-Qortin
+| location = [[Mellieħa]], [[Malta]]
+| image = 
+| caption = 
+| map = Qortin Redoubt map.png
+| image_mapsize = 300px
+| map_caption = Map of Qortin Redoubt with its modern alterations
+| type = [[Redoubt]]
+| coordinates = {{coord|35|59|11.3|N|14|21|5|E|type:landmark|display=inline}}
+| ownership = [[Government of Malta]]
+| controlledby = Private tenant
+| open_to_public = No
+| built = 1715–1716
+| used = 
+| builder = [[Knights Hospitaller|Order of Saint John]]
+| materials = [[Limestone]]
+| height = 
+| condition = Partially intact with modern alterations
+| battles = 
+| events = 
+}}
+
+'''Qortin Redoubt''' ({{lang-mt|Ridott tal-Qortin}}), also known as '''Eskalar Redoubt''' ({{lang-mt|Ridott t'Eskalar}}), is a [[redoubt]] in the limits of [[Mellieħa]], [[Malta]]. It was built by the [[Knights Hospitaller|Order of Saint John]] in 1715–1716 as one of a series of coastal fortifications around the Maltese Islands. Today, the redoubt still exists, but it has some modern modifications.
+
+==History==
+Qortin Redoubt was built in 1715–1716 as part of the first building programme of coastal fortifications in Malta. It was part of a chain of fortifications that defended the northern coast of Malta, which also included [[Aħrax Tower]], several batteries, redoubts and entrenchments. The nearest fortifications to Qortin Redoubt are [[Tal-Bir Redoubt]] to the west and [[Vendôme Battery]] to the east.
+
+The redoubt originally consisted of a pentagonal platform with a low parapet. A rectangular blockhouse was located at the centre of its gorge. It was not armed with any artillery.
+
+Construction of Qortin Redoubt cost around 1239.8.19 scudi.&lt;ref&gt;{{cite web|last1=Debono|first1=Charles|title=Fortifications - Eskalar Redoubt|url=http://www.mellieha.com/places_interest/fortifications/eskalar_redoubt.htm|website=Mellieha.com|accessdate=21 June 2015}}&lt;/ref&gt;
+
+==Present day==
+Today, the pentagonal platform still exists, but the parapet has been removed. The blockhouse has been demolished and a summer residence has been built in its place.
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20150622032032/http://www.culturalheritage.gov.mt/filebank/inventory/Knights%20Fortifications/1392.pdf National Inventory of the Cultural Property of the Maltese Islands]
+
+{{redoubts}}
+
+[[Category:Redoubts in Malta]]
+[[Category:Mellieħa]]
+[[Category:Castles and fortifications of the Knights Hospitaller]]
+[[Category:Buildings and structures completed in 1715]]
+[[Category:Limestone buildings in Malta]]
+[[Category:National Inventory of the Cultural Property of the Maltese Islands]]
+[[Category:18th-century fortifications]]
+[[Category:1715 establishments in Malta]]
+
+
+{{Malta-struct-stub}}</text>
+      <sha1>96df5cu6ic26tzs2zye9vtcqs5q47kh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Solcitani</title>
+    <ns>0</ns>
+    <id>9338569</id>
+    <revision>
+      <id>622217953</id>
+      <parentid>544677052</parentid>
+      <timestamp>2014-08-21T16:41:01Z</timestamp>
+      <contributor>
+        <username>Wizardman</username>
+        <id>713860</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */stub sort using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="584">The '''Solcitani''' also called the '''Sulcitani''' were an ancient people of [[Sardinia]], noted by [[Ptolemy]] (III, 3).  They dwelt at the extreme south part of the island, immediately south of the [[Neapolitani]] and the [[Valentini (ancient people)|Valentini]].  Their chief city was [[Sulci]], adjacent to the modern [[Sant'Antioco]].
+
+==References==
+*[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Periods/Roman/_Texts/Ptolemy/3/3*.html Ptolemy's Geography online]
+*{{Barrington|48}}
+
+[[Category:Ancient peoples of Sardinia]]
+
+
+{{italy-hist-stub}}
+{{europe-ethno-group-stub}}</text>
+      <sha1>qt86hbbu9zfg95ffvhxhhc0ybr9091n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Suvorov Square</title>
+    <ns>0</ns>
+    <id>54861128</id>
+    <revision>
+      <id>864568495</id>
+      <parentid>849845349</parentid>
+      <timestamp>2018-10-18T02:20:38Z</timestamp>
+      <contributor>
+        <username>AyodeleA1</username>
+        <id>30697721</id>
+      </contributor>
+      <comment>/* Events */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3622">{{Infobox street|alternate_name=|name=Suvorov Square|native_name=Площадь Суворова|former_names=Constitution Square|image=File:Suvorov monument in Tiraspol.jpg|known_for=The Central square of Tiraspol|type=Square|caption=|image_map=|location=[[Tiraspol]], [[Transnistria]]|area=13,150 square meters|designer=|metro=|completion_date=|construction_start_date=|maint=City of Tiraspol}}'''Suvorov Square''' ([[Russian language|Russian]]:Площадь Суворова) the main square in [[Tiraspol]] in the partially recognized country of [[Transnistria]].&lt;ref&gt;{{Cite web|url=https://www.keeptravel.com/ploshchad-suvorova|title=Suvorov Square is the main square of Tiraspol - the capital of Transnistria.|last=|first=|date=|website=|archive-url=|archive-date=|dead-url=|access-date=}}&lt;/ref&gt; It is located between Red Alley and Shevchenko Street.&lt;ref&gt;{{Cite web|url=https://www.keeptravel.com/ploshchad-suvorova|title=It is located in the city center, between the Red alleys and streets Shevchenko.|last=|first=|date=|website=|archive-url=|archive-date=|dead-url=|access-date=}}&lt;/ref&gt;  It is named after the founder of Tiraspol [[Alexander Suvorov]]. It is surrounded by the Memorial of Glory, the building of the Supreme Council of Transnistria, the Palace of children and teenagers, the monument to Suvorov, and the De Volan Square.&lt;ref&gt;{{Cite web|url=https://www.keeptravel.com/ploshchad-suvorova|title=West of the square is the Memorial of Glory and the building of the Supreme Council of the PMR, to the north - the Palace of children and teenagers and a monument to Suvorov, and to the south - the square named after De Volan, which is adjacent to the embankment of the Dniester. There are monuments to Franz Where flounces, Catherine II, Victoria blue and Valentina Solovieva|last=|first=|date=|website=|archive-url=|archive-date=|dead-url=|access-date=}}&lt;/ref&gt;
+
+== Events ==
+[[File:Victory Day in Tiraspol 2018 04.jpg|thumb|]]
+* Parades on the square are held on May 9 and September 2 which celebrates [[Victory Day (9 May)|Victory Day]] and the [[Independence Day of Transnistria]].
+* Political Rallies
+* Festivals and Exhibitions
+* Competitions
+
+== Landmarks ==
+[[File:Танк Т-34 на Мемориале Славы в Тирасполе - Донор.jpg||thumb]]
+* Monument to [[Alexander Suvorov]].
+* Monument to [[François Sainte de Wollant|Franz De Volan]].
+* Monument to [[Catherine the Great|Catherine II the Great]].
+* Monument to Valentina Solovyova.
+* Monument to Viktor Sinev.
+* [[Memorial of Glory (Tiraspol)]]
+
+== Gallery ==
+&lt;gallery&gt;
+File:Central street of Tiraspol.jpg|
+File:Памятник Суворову, 2011.jpg|The monument to Suuvorov.
+File:Парад 2 сентября 2010 года танк №114.jpg|A tank on the square during a parade in 2010.
+File:Eternal flame Tiraspol.jpg|The Eternal Flame on the square.
+File:Площадь Суворова после парада.jpg|
+File:Панорама затопленной площади Суворова (от кафе Прохлада).jpg|The square during the flood of 2008.
+File:Танк Т-34 на Мемориале Славы в Тирасполе - Донор.jpg|A T-34 Tank at the Memorial of Glory.
+File:Memorial of Glory - panoramio (1).jpg|
+File:Мемориал Славы.JPG|
+&lt;/gallery&gt;
+
+== See also ==
+* [[Tiraspol]]
+* [[Alexander Suvorov]]
+
+== References ==
+&lt;references /&gt;
+
+{{coord|46.8363|29.6111|type:landmark_region:MD|display=title}}
+
+[[Category:Buildings and structures in Tiraspol]]
+[[Category:Squares in Europe]]
+[[Category:Alexander Suvorov]]
+
+{{Transnistria-geo-stub}}
+{{Moldova-struct-stub}}</text>
+      <sha1>dmgo9nbzay5rdc5yoawq5pq5od1tqui</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Recruiter (2004 film)</title>
+    <ns>0</ns>
+    <id>1370104</id>
+    <revision>
+      <id>849113508</id>
+      <parentid>844075983</parentid>
+      <timestamp>2018-07-06T16:33:38Z</timestamp>
+      <contributor>
+        <ip>196.1.138.53</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2623">{{Infobox film
+| name           = Shiza
+| image          =
+| caption        = ''Shiza'' film poster
+| writer         = [[Sergei Bodrov]],&lt;br&gt;[[Gulshat Omarova]]
+| starring       = [[Oldzhas Nusupbayev]],&lt;br&gt;[[Olga Landina]]
+| director       = [[Gulshat Omarova]]
+| producer       = Sergei Azimov, [[Sergei Bodrov]], Sergei Selyanov 
+| distributor    = Picture This! (USA)
+| released       = May 21, 2004
+| runtime        = 86 minutes
+| language       = Russian
+| country        = Kazakhstan
+| budget         =
+}}
+'''''Shiza''''' a.k.a. '''''Schizo''''' ({{lang-kk|Шиzа}}; {{lang-ru|Шиза}}) is a [[2004 in film|2004]] Russian-language Kazakh film directed by [[Gulshat Omarova]]. The film was in the official selection from [[Kazakhstan]] for the [[77th Academy Awards|77th]] [[Academy Awards]]. It was also screened in the [[Un Certain Regard]] section at the [[2004 Cannes Film Festival]].&lt;ref name="festival-cannes.com"&gt;{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/4201574/year/2004.html |title=Festival de Cannes:Shiza |accessdate=2009-12-03|work=festival-cannes.com}}&lt;/ref&gt;
+
+==Plot==
+*[[Tagline]]: ''In fights without rules, there is no rule that says: "Until first blood!"''
+
+Fifteen-year-old Mustafa ([[Olzhas Nusupbayev]]) &amp;mdash; nicknamed "Shiza" for his weird behaviour in school &amp;mdash; has no money, power or a girlfriend in his young life. Working for his mother’s boyfriend, Shiza scouts for fighters for the illegal, underground circuit of bare-knuckle fist-fighting.
+
+However, his life changes forever when a young fighter is accidentally and mortally wounded in the ring. Before dying, the fighter asks Shiza to deliver his prize money to his wife Zinka ([[Olga Landina]]). Shiza takes the money to the now-widowed woman as promised. Upon meeting, Shiza falls in love with her. Suddenly, he finds direction as he is compelled to support and protect his new love no matter what the cost.
+
+==References==
+{{reflist}}
+
+==Shiza Meaning==
+The name Shiza is a Biblical baby name. In Biblical the meaning of the name Shiza is: This gift.
+
+==External links==
+*{{imdb title|id=0406216|title=Shiza}}
+*{{ru icon}} [http://www.ctb.ru/base/films?oid=54 ''Shiza'' at Ctb.ru]
+* [http://rusact.com/?movietrailer&amp;mid=1079 Trailer] and [http://rusact.com/?moviepictures&amp;mid=1079 Screenshots]
+* [http://www.sheknows.com/baby-names/name/shiza]
+
+{{DEFAULTSORT:Recruiter}}
+[[Category:2004 films]]
+[[Category:2000s drama films]]
+[[Category:Kazakhstani films]]
+[[Category:Russian-language films]]
+[[Category:Films directed by Gulshat Omarova]]
+{{2000s-drama-film-stub}}
+{{Kazakhstan-film-stub}}</text>
+      <sha1>d8l8dx4bnd0628ssifl9ei8mki8afzt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Zuria</title>
+    <ns>0</ns>
+    <id>8866263</id>
+    <revision>
+      <id>852450444</id>
+      <parentid>828486058</parentid>
+      <timestamp>2018-07-29T02:29:54Z</timestamp>
+      <contributor>
+        <username>Edensa16</username>
+        <id>34301876</id>
+      </contributor>
+      <minor/>
+      <comment>Add details</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1058">{{Other uses}}
+{{Multiple issues|
+{{Expert needed|Eritrea|reason=This major cultural staple is a mere stub.|date=February 2018}}
+}}
+{{One source|date=February 2018}}
+A '''zuria''' is a hooded [[dress (garment)|dress]] worn by the [[Tigrinyas|Tigrinya]] women in [[Eritrea]] and [[Ethiopia]].&lt;ref name="DIGOB Tigrinya"&gt;[http://www.digob.com/Tigrinya-eritrea-ethiopia/Tigrinya-Dictionary-eritrea-ethiopia.php Tigrinya dictionary] at DIGOB.com&lt;/ref&gt;
+Traditional zurias go to the ankles, with a [[gauze]] hood around the head and shoulders. Today{{when|date=February 2018}} a ''zuria'' comes in different forms and designs with an extra sheen due to the [[Fashion trends|demands of fashion]]. Zurias are worn during holidays, weddings, or parties.
+
+==References==
+{{reflist}}
+
+[[Category:Eritrean clothing]]
+[[Category:Ethiopian clothing]]
+[[Category:Women in Eritrea]]
+[[Category:Women in Ethiopia]]
+[[Category:Tigrinya language]]
+[[Category:Ethiopian fashion]]
+[[Category:Eritrean fashion]]
+{{clothing-stub}}
+{{Eritrea-stub}}
+{{Ethiopia-stub}}
+{{Fashion-stub}}</text>
+      <sha1>tlhckz66ecyhuljmgjqg6mw4aipfkmt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Șchei</title>
+    <ns>0</ns>
+    <id>18843977</id>
+    <revision>
+      <id>857364335</id>
+      <parentid>816770676</parentid>
+      <timestamp>2018-08-31T06:03:46Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3986">'''''Șchei''''' ({{lang-bg|шкеи}}, ''shkei'') was an old [[Romanian language|Romanian]] [[exonym]] referring to the [[Bulgarians]], especially in [[Transylvania]] and northern [[Wallachia]]. As a name, it has been preserved in the names of towns colonized in the 14th century by Bulgarians, in toponyms (''Dealu Schiaului'' near [[Rășinari]]), hydronyms (''Schiau River'', tributary to the [[Argeş River]]), surnames (''Schiau'', ''Șchiau'').&lt;ref name=muslea&gt;Mușlea, ''Șcheii de la Cergău…''&lt;/ref&gt; The word is thought to derive from [[Latin]] ''sclavis'', a popular designation for the [[South Slavs]] (Bulgarians and [[Serbs]] in particular) that was also used in [[Albanian language|Albanian]] (in the form ''shqa'' and various dialectal variants&lt;ref name=Demiraj2009&gt;{{cite web|last=Demiraj|first=Bardhyl|title=Sclavus "Slawe" im Albanischen: Sprach- und Kulturkontakt im Spiegel der Geschichte eines Ethnikons|url=http://videoonline.edu.lmu.de/files/videoonline/data/1147/files/sprachkontakt090112.pdf|work=VideoOnline|publisher=Ludwig-Maximilians-Universität München|accessdate=4 August 2012|authorlink=Bardhyl Demiraj|location=Munich|language=German|date=12 January 2009}}&lt;/ref&gt;) until the 20th century.&lt;ref&gt;{{cite book |url=http://www.imir-bg.org/imir/books/albancite_v_iztochnite_balkani.pdf |first=Боян |last=Гюзелев |title=Албанци в Източните Балкани |publisher=Международен център за изследване на малцинствата и културните взаимодействия |location=София |year=2004 |isbn=954-8872-45-5 |language=Bulgarian |pages=13 }}&lt;/ref&gt;
+
+==Șchei villages in Transylvania==
+Among the towns or neighbourhoods bearing that trace of Bulgarian settlement are:&lt;ref name=muslea/&gt;
+
+* [[Șcheii Brașovului]] in [[Brașov]] ({{lang-hu|Bolgárszeg}}, {{lang-de|Belgerei}}, traditional Romanian name: ''Bulgărimea'')
+* [[Cergău Mic]] in [[Alba County]] (archaic {{lang-ro|Cergău Șcheiesc}}, archaic {{lang-hu|Bolgárcserged}})
+
+Other places in Transylvania that used to be inhabited by various waves of Bulgarians were [[Cergău Mare]], [[Șelimbăr|Bungard]], [[Vințu de Jos]], [[Deva, Romania|Deva]], [[Șura Mică|Rusciori]] and [[Râșnov]].&lt;ref&gt;Балкански, ''Трансилванските (седмиградските) българи…''&lt;/ref&gt;
+
+==Șchei villages in Wallachia==
+* Șchei, a quarter and former independent settlement in [[Câmpulung]] settled by [[Bogomilism|Bogomil Bulgarians]].&lt;ref&gt;{{Cite book|title = At Europe's Borders: Medieval Towns in the Romanian Principalities|last = Rădvan|first = Laurențiu|publisher = Brill|year = 2010|isbn = 9789004180109|location = |translator = Valentin Cîrdei |page = 267}}&lt;/ref&gt;
+* Schiau village in [[Bascov]] commune, [[Argeș County]]
+* Schiau ([[Urlați]]) and Schiau ([[Valea Călugărească]]) in [[Prahova County]].
+
+== References ==
+{{reflist}}
+* [[Ion Mușlea]], ''Șcheii de la Cergău şi folclorul lor'', Cluj 1928.
+* {{cite book |title=Изследвания за българите в Седмиградско и Банат |publisher=Наука и изкуство |location=София |year=1987 |last=Милетич |first=Любомир |authorlink=Lyubomir Miletich |pages=71 |chapter=В Чергед |language=Bulgarian }}
+* {{cite book |url=http://www.kroraina.com/knigi/tb2/index.htm |title=Трансилванските (седмиградските) българи. Етнос. Език. Етнонимия. Ономастика. Просопографии |last=Балкански |first=Т. |language=Bulgarian |location=Велико Търново |year=1996 |publisher=ИК "Знак '94" }}
+{{Bulgarian diaspora}}
+{{Ethnic groups in Romania}}
+
+{{DEFAULTSORT:Schei}}
+[[Category:Ethnonyms]]
+[[Category:Medieval Transylvania]]
+[[Category:Wallachia]]
+[[Category:Romanian people of Bulgarian descent]]
+[[Category:South Slavic history]]
+
+
+{{romania-stub}}
+{{bulgaria-stub}}</text>
+      <sha1>f3tj6ttjtl84mbs3gm0hh5xlqa1ew2a</sha1>
+    </revision>
+  </page>
+</mediawiki>

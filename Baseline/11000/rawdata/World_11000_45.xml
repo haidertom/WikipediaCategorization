@@ -1,0 +1,2979 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>2016 Accra floods</title>
+    <ns>0</ns>
+    <id>50820449</id>
+    <revision>
+      <id>798008042</id>
+      <parentid>744263911</parentid>
+      <timestamp>2017-08-30T12:38:25Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>new key for [[Category:2016 floods]]: "Accra floods" using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1033">The '''2016 Accra floods''' are heavy rainfalls in [[Accra]], the capital of [[Ghana]] in June 2016. The flood began on June 9, 2015.&lt;ref name="loweibt"&gt;{{cite news|last1=Lowe|first1=Jonathan|title=Ghana: Watch video of Accra floods that turned streets into rivers after just 6 hours of rain|url=http://www.ibtimes.co.uk/ghana-watch-video-accra-floods-that-turned-streets-into-rivers-after-just-6-hours-rain-1565398|accessdate=June 15, 2016|work=International Business Times|date=June 14, 2016}}&lt;/ref&gt; As of June 15, 2016, at least 10 people have been killed.&lt;ref name="atleast10"&gt;{{cite news|title=At least 10 dead in Ghana floods|url=http://www.straitstimes.com/world/at-least-10-dead-in-ghana-floods|accessdate=June 15, 2016|work=The Strait Times|date=June 15, 2016}}&lt;/ref&gt;
+
+==See also==
+*[[2015 Accra floods]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:2016 Ghana Floods}}
+[[Category:2016 floods|Accra floods]]
+[[Category:2016 in Ghana]]
+[[Category:Natural disasters in Ghana]]
+[[Category:21st century in Accra]]
+
+
+{{Ghana-stub}}</text>
+      <sha1>3i76c8xufjt9ov7ufoixi6o70gxwk5j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Al Duqm Port &amp; Drydock</title>
+    <ns>0</ns>
+    <id>29716050</id>
+    <revision>
+      <id>827702920</id>
+      <parentid>825662790</parentid>
+      <timestamp>2018-02-26T06:15:09Z</timestamp>
+      <contributor>
+        <username>Wiki.Gunjan</username>
+        <id>17798840</id>
+      </contributor>
+      <comment>/* International access */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3147">{{Infobox port
+| name =Al Duqm Port &amp; Drydock
+{{Location map|Oman|label=Al Duqm &lt;br&gt; Port &lt;br&gt; &amp; Drydock
+|marksize=6|mark=Red_pog.svg
+|lat_dir=N|lat_deg=19|lat_min=40|lat_sec=7
+|lon_dir=E|lon_deg=57|lon_min=42|lon_sec=0
+|position=right|width=200|float=right
+|caption=Location in Oman}}
+| country ={{flag|Oman}}
+| location =[[Duqm]], [[Al Wusta Region (Oman)|Al Wusta Region]]
+| coordinates ={{Coord|19|40|7|N|57|42|0|E|type:landmark_region:OM|display=inline,title}}
+| opened =
+2013| operated = Oman Drydock Company, S.A.O.C.
+| owner = 
+Government of Oman| type =
+Port and Drydock| sizewater =
+| sizeland = 
+| size =
+| berths = 
+| wharfs =
+| piers = 
+| employees =
+| leadershiptitle =
+| leader =
+| blankdetailstitle1 =
+| blankdetails1 =
+| blankdetailstitle2 =
+| blankdetails2 =
+| blankdetailstitle3 =
+| blankdetails3 =
+| arrivals =
+| cargotonnage =
+| containervolume =
+| cargovalue =
+| passengertraffic =
+| revenue =
+1.5 bl US Dollar| profit = 
+| blankstatstitle1 =
+| blankstats1 =
+| blankstatstitle2 =
+| blankstats2 =
+| blankstatstitle3 =
+| blankstats3 =
+| website = http://www.omandrydock.com/
+}}
+
+'''Al Duqm Port &amp; Drydock''' is a [[seaport]] located in [[Oman]].  The  port is equipped with a Ship Repair Yard &amp; [[Drydock]] facility, which is the first of its kind in Oman. Control of the port was transferred to the [[Ministry of Transport and Communications (Oman)|Ministry of Transport and Communications]] in May 2012. The port authority is the [[Port of Duqm Company]], S.A.O.C., who manage the port.
+
+[[Oman Drydock Company]] (ODC) have run the ship repair yard since 2013; primarily for the overhaul and conversion of large commercial vessels. In 2017 ODC and [[Babcock International Group]] started [[Duqm Naval Dockyard]] (DND), focusing on the expansion of the port's capability into the support of military forces operating in the region.&lt;ref&gt;{{cite web |url=http://www.omanobserver.om/new-oman-duqm-naval-dockyard-set-april-launch|title=New Oman Duqm Naval Dockyard set for April launch|publisher=OEPPA}}&lt;/ref&gt;
+
+==International access==
+
+In August 2017, Oman and the United Kingdom signed a [[memorandum of understanding]] allowing th [[Royal Navy]] access to the port facilities of Duqm.&lt;ref name="ie"&gt;{{cite news |url=http://indianexpress.com/article/india/india-gets-access-to-strategic-oman-port-for-military-use-chabahar-gwadar-in-sight-5061573/ |publisher=''[[Indian Express]]'' |title=India gets access to strategic Oman port Duqm for military use, Chabahar-Gwadar in sight |first=Shubhajit |last=Roy |date=February 13, 2018}}&lt;/ref&gt;
+
+In February 2018, India announced that it had secured access to the facilities at Duqm for the [[Indian Air Force]] and the [[Indian Navy]].&lt;ref name="ie"/&gt; Duqm had previously served as a port for the [[INS Mumbai|INS ''Mumbai'']].&lt;ref name="ie"/&gt;
+
+==See Also==
+* http://www.omandrydock.com/
+* https://www.portduqm.com/About/Port-Authority.html
+* http://www.omanobserver.om/new-oman-duqm-naval-dockyard-set-april-launch/
+
+==References==
+&lt;references /&gt;
+
+{{DEFAULTSORT:Al Duqm Port and Drydock}}
+[[Category:Transport in Oman]]
+[[Category:Ports and harbours in Asia]]
+
+
+{{Oman-transport-stub}}</text>
+      <sha1>sn3a5hjigxrohnyglpynugyk1acox0g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Alivuokralainen</title>
+    <ns>0</ns>
+    <id>8869895</id>
+    <revision>
+      <id>863658483</id>
+      <parentid>681141016</parentid>
+      <timestamp>2018-10-12T04:35:44Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta9)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1660">{{italic title}}
+{{primarysources|date=October 2007}}
+'''''Alivuokralainen''''' ([[Finnish language|Finnish]] for "the sub-tenant") is a [[Finland|Finnish]] comedy play written by [[Timo Kahilainen]] and [[Heikki Vihinen]] and directed by Heikki Vihinen. The play stars [[Heikki Hela]], [[Heikki Kinnunen]], [[Kake Aunesneva]], [[Jukka Leisti]], [[Ritva Jalonen]], [[Ilpo Hakala]], [[Tuija Ernamo]], [[Pete Keskinen]] and [[Mikko Rantaniva]]. It premiered in 2003 and is still showing in [[Tampere]].
+
+==Plot==
+
+[[Entomologist]] Pauli Bergström and [[kidney]] [[surgeon]] Lauri Mustonen share a 280 m² rented [[apartment]] in the centre of [[Helsinki]]. Their peaceful, uneventful life is interrupted when their [[landlady]], aging aristocrat Lydia Molotova, decides to give the apartment as a gift to her nephew, Sergeant John Molotov. Immediately, Sergeant Molotov raises the [[renting|rent]] by a factor of more than ten, which is more than Bergström and Mustonen can pay. Not wanting to move elsewhere, they place an ad in the [[newspaper]], looking for a sub-tenant to help them pay the rent. The sub-tenant is Carl Robert Palmberg, a [[Finland-Swedish]] interior decorator in his 30s, who is openly [[homosexuality|gay]]. Things get further complicated when Sergeant Molotov has to undergo surgery because of an infected kidney, and Mustonen decides to operate him privately.
+
+==External links==
+* [https://web.archive.org/web/20070208103249/http://www.tampereenteatteri.fi/esitys.php?id=1 ''Alivuokralainen'' at the Tampere theatre]
+
+[[Category:Finnish plays]]
+[[Category:2003 plays]]
+[[Category:Comedy plays]]
+
+
+
+{{2000s-play-stub}}
+{{finland-stub}}</text>
+      <sha1>ny2qrgodn90r5d05m6oyvv7zuatf91l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Are You Sure? (The Allisons song)</title>
+    <ns>0</ns>
+    <id>28281443</id>
+    <revision>
+      <id>869637238</id>
+      <parentid>847129926</parentid>
+      <timestamp>2018-11-19T21:02:55Z</timestamp>
+      <contributor>
+        <username>Zackmann08</username>
+        <id>15881234</id>
+      </contributor>
+      <comment>fixing deprecated params</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4192">{{Infobox song
+| name       = Are You Sure?
+| cover      =
+| alt        =
+| type       = single
+| artist     = [[The Allisons]]
+| album      =
+| B-side     = There's One Thing More
+| released   = [[1961 in music|February 1961]]
+| format     =
+| recorded   =
+| studio     =
+| venue      =
+| genre      = [[Pop music|Pop]]
+| length     = {{Duration|m=2|s=05}}
+| label      = [[London Records]] 1977
+| writer     = John Allison, Bob Allison
+| producer   =
+| prev_title =
+| prev_year  =
+| next_title = Words
+| next_year  = 1961
+}}
+{{Infobox song contest entry
+| song         = {{flagicon|United Kingdom}} "Are You Sure?"
+| image        = 
+| caption      = 
+| year         = 1961
+| country      = United Kingdom
+| artist       = [[The Allisons]]
+| as           = 
+| with         = 
+| language     = English
+| languages    = 
+| composer     = [[John Alford (singer)|John Allison]], [[Bob Allison]]
+| lyricist     = [[John Alford (singer)|John Allison]], [[Bob Allison]]
+| conductor    = [[Harry Robinson (musician)|Harry Robinson]]
+| place        = 2nd
+| points       = 24
+| lyrics       = [http://www.diggiloo.net/?1961uk from Diggiloo Thrush]
+| prev         = Looking High, High, High
+| prev_link    = Looking High, High, High
+| next         = Ring-A-Ding Girl
+| next_link    = Ring-A-Ding Girl
+}}
+'''"Are You Sure?"''' is a song by [[United Kingdom|British]] pop duo [[The Allisons]], that represented the United Kingdom at the [[Eurovision Song Contest 1961]], performed in [[English language|English]].
+
+The song was performed 15th on the night of the contest, held on 18 March 1961, following [[Luxembourg]]'s [[Jean-Claude Pascal]] with "[[Nous les amoureux]]", and preceding [[Italy]]'s [[Betty Curtis]] with "[[Al di là]]". The song received 24 points, placing 2nd in a field of 16, the third consecutive second place Eurovision finish for the UK for whom two subsequent Eurovision entrants would also be second-place finishers before "[[Puppet on a String]]" by [[Sandie Shaw]] would give the UK its first Eurovision victory at [[Eurovision Song Contest 1967|Eurovision 1967]]. "Are You Sure?" was also the first UK Eurovision entrant to become a Top Ten hit reaching #2 UK, the best chart showing for a UK Eurovision entrant until "Puppet on a String" by Sandie Shaw reached #1 in 1967.
+
+The song was succeeded as the [[United Kingdom in the Eurovision Song Contest|UK representative]] at the [[Eurovision Song Contest 1962|1962 Contest]] by [[Ronnie Carroll]] with "[[Ring-A-Ding Girl]]".
+
+The lyrics are memorable for a possibly unique example of the bizarre grammatical error "Comes tomorrow, you won't want me".
+
+==Chart performance==
+{| class="wikitable sortable"
+|-
+!Chart (1961)
+!Peak&lt;br /&gt;position
+|-
+|United Kingdom (''[[Record Retailer]]'')
+| style="text-align:center;"|2&lt;ref&gt;{{cite web|url=http://www.theofficialcharts.com/artist/_/allisons/|title=Artist Chart History Details: Allisons|publisher=[[The Official Charts Company]]|accessdate=8 August 2010}}&lt;/ref&gt;
+|-
+|United Kingdom (''[[List of NME number-one singles from the 1960s|NME]]'')
+| style="text-align:center;"|1&lt;ref&gt;{{cite book|last3=Osborne|first3=Roger|first=Dafydd|last=Rees|first2=Barry|last2=Lazell|title=Forty Years of "NME" Charts|edition=2nd|year=1995|publisher=[[Macmillan Publishers|Pan Macmillan]]|isbn=0-7522-0829-2|page=99}}&lt;/ref&gt;
+|-
+|United Kingdom ([[List of Record Mirror number-one singles|''Record Mirror'']])
+| style="text-align:center;"|1&lt;ref name="Sixties"&gt;{{cite web|last=Smith |first=Alan |title=Every No.1 in the 1960s is listed from all the nine different magazine charts! |url=http://www.davemcaleer.com/page22.htm |work=[[Dave McAleer]]'s website |accessdate=4 November 2010 |archiveurl=https://web.archive.org/web/20101012125528/http://www.davemcaleer.com/page22.htm |archivedate=12 October 2010 |deadurl=yes |df= }}&lt;/ref&gt;
+|}
+
+==References==
+{{reflist}}
+
+{{Eurovision Song Contest 1961}}
+{{Eurovision (UK)}}
+
+{{DEFAULTSORT:Are You Sure?}}
+[[Category:1961 singles]]
+[[Category:Eurovision songs of 1961]]
+[[Category:Eurovision songs of the United Kingdom]]
+[[Category:London Records singles]]
+[[Category:Fontana Records singles]]
+[[Category:1961 songs]]
+
+
+{{1960s-single-stub}}
+{{UK-stub}}</text>
+      <sha1>8cw3m51d6dqo4vcfsrakzgqfrjt28oh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ben Hur Live</title>
+    <ns>0</ns>
+    <id>24099056</id>
+    <revision>
+      <id>848131427</id>
+      <parentid>755246122</parentid>
+      <timestamp>2018-06-29T23:57:10Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2505">{{italic title}}
+'''''Ben Hur Live''''' is a 2009 stage adaptation of [[Lew Wallace]]'s novel ''[[Ben-Hur: A Tale of the Christ]]''. Produced by Franz Abraham with music and narration by [[Stewart Copeland]], it premièred on 17 September 2009 at the [[The O2 arena (London)|O2 Arena]] in London, the first date of its European tour.
+
+The show's dialogue is in [[Latin]] and [[Aramaic]],&lt;ref&gt;{{cite news|url=https://www.theguardian.com/stage/theatreblog/2009/sep/14/ben-hur-live|title=Ben Hur Live leaves little to the imagination|last=Espiner|first=Mark|date=14 September 2009|work=guardian.co.uk|publisher=Guardian News and Media|accessdate=18 September 2009}}&lt;/ref&gt; and it includes a [[sea battle]] and [[gladiatorial combat]], as well as the [[chariot race]] for which ''Ben Hur'' is famous. It is based primarily on the book as its source material rather than the [[Ben-Hur (1959 film)|Academy Award-winning adaptation]] which starred [[Charlton Heston]].
+
+== Reception ==
+After its London première, it received mixed reviews from theatre critics.&lt;ref name="PressRev"&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/entertainment/arts_and_culture/8262536.stm|title=Ben Hur Live: press views|date=18 September 2009|work=BBC News|publisher=BBC|accessdate=18 September 2009}}&lt;/ref&gt;
+
+==Creative Team==
+*Concept and Production - Franz Abraham
+*Direction - Philip Wm. McKinley
+*Music and English Narration - Stewart Copeland
+*German Narration - Ben Becker
+*Design - Mark Fisher and Ray Winkler
+*Horse Training and Stunt Coordination - Nicki Pfeifer
+*Lighting Design - Patrick Woodroffe
+*Choreography - Liam Steel
+*Fight Direction - Rick Sordelet
+*Book - [[Shaun McKenna]]
+*Costumes - Ann Would-Hard
+
+==2009 Principal Cast==
+*[[Judah Ben-Hur]] - Sebastian Thrun
+*[[Messala (character)|Messala]] - Michael Knese
+*[[Esther (character)|Esther]] - Lili Gesler
+*[[Quintus Arrius (character)|Quintus Arrius]] - Anton Grünbeck
+*[[Sheik Ilderim]] - László Rókas
+*Miriam - [https://www.imdb.com/name/nm0470280/ Marina Krauser]
+*Tirzah - Nina Wilden
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|http://www.benhurlive.com}}
+* http://michaelknese.wordpress.com
+* http://geslerlili.szinhaz.org/
+* http://www.marina-krauser.de/
+* http://www.shaunmckenna.net/
+
+{{Ben-Hur}}
+
+[[Category:2009 plays]]
+[[Category:Historical plays]]
+[[Category:Plays based on novels]]
+[[Category:Fiction set in ancient Rome]]
+[[Category:Israel in fiction]]
+[[Category:Works based on Ben-Hur]]
+
+
+{{Europe-theat-stub}}</text>
+      <sha1>6e7d3va0f7u8vh7lugfmmvpwe1622q2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Boan languages</title>
+    <ns>0</ns>
+    <id>33599172</id>
+    <revision>
+      <id>674587612</id>
+      <parentid>655933323</parentid>
+      <timestamp>2015-08-04T21:54:50Z</timestamp>
+      <contributor>
+        <username>Abrahamic Faiths</username>
+        <id>18381293</id>
+      </contributor>
+      <comment>/* References */  {{Narrow Bantu languages}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2134">{{Infobox language family
+|name=Boan
+|altname=Ababuan
+|region=[[Democratic Republic of the Congo]]
+|familycolor=Niger-Congo
+|fam2=[[Atlantic–Congo]]
+|fam3=[[Benue–Congo]]
+|fam4=[[Southern Bantoid]]
+|fam5=[[Bantu languages|Bantu]] ([[Guthrie classification of Bantu languages#Zone C|Zones C–D]])
+|child1=[[Bati–Angba languages|Bati–Angba]] (Bwa)
+|child2=[[Komo–Bira languages|Komo–Bira]]
+|glotto=abab1240
+|glottorefname=Ababuan
+}}
+
+'''Boan''' (Buan, ''Ababuan'') is a proposed intermediate group of [[Bantu languages]] coded Zones C and D in Guthrie's classification.&lt;ref&gt;McMaster, Mary Allen. 1988. ''Patterns of Interaction: A comparative ethnolinguistic perspective on the Uele region of Zaïre ca. 500 A.D. to 1900 A.D.'' Los Angeles: University of California. 346.&lt;/ref&gt; There are three branches:
+
+*''[[Komo language (Bantu)|Komo]]'' (D20)
+*''[[Bali language (Congo)|Bali]]'' (D20), ?[[Beeke language|Beeke]]
+*Bomokandian (the various [[Bati–Angba languages|Bwa]] and [[Komo–Bira languages|Biran]] languages)
+**[[Biran languages|Biran]] (Bira–Amba) (D22, D30)
+**''[[Homa language|Homa]] (Ngenda)'' (D40)
+**''[[Lika language|Lika]]'' (D20)
+**[[Bati–Angba languages|Bati–Angba]] (Bwa) (C40)
+
+Beeke is an erstwhile member of the [[Nyali languages|Nyali]] cluster that seems to be closest to Bali.
+
+In the ''Glottolog'' 2.3 classification, several additional, poorly attested languages are included as being closest to Homa/Ngenda:
+
+*''[[Bali language (Congo)|Bali]]'' (D20)
+*Old Bomokandian
+**[[Komo–Bira languages|Komoic]] (Biran, incl. Komo)
+**[[Bati–Angba languages|Middle Bomokandian]] (Lika &amp; Bati–Angba)
+**Ngbele–Ngenda
+***Extreme-north Vestigial-suffix Bantu: [[Kari language (Democratic Republic of Congo)|Kari]], [[Ngbee language|Ngbee]], [[Nyanga-li language|Nyanga-li]] (Gbati-ri)
+***Ngendan
+****[[Homa language|Homa]], [[Ngbinda language|Ngbinda]], ?[[Boguru language|Boguru]], ?[[Bodo language (Central African Republic)|Bodo]] (perhaps instead [[Lebonya languages|Lebonya]])
+
+== References ==
+&lt;references /&gt;
+
+{{Narrow Bantu languages}}
+[[Category:Boan languages| ]]
+
+
+{{Bantu-lang-stub}}</text>
+      <sha1>pbpgzkczzu8x65wcgdxtkl8axvzrjvi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Boao Forum for Asia</title>
+    <ns>0</ns>
+    <id>629417</id>
+    <revision>
+      <id>850221851</id>
+      <parentid>850221795</parentid>
+      <timestamp>2018-07-14T14:30:20Z</timestamp>
+      <contributor>
+        <username>Marcocapelle</username>
+        <id>14965160</id>
+      </contributor>
+      <comment>removed parent category of [[Category:Global economic conferences]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11224">{{refimprove|date=July 2011}}
+{{Infobox Organization
+|name          = Boao Forum for Asia&lt;br&gt;{{nobold|博鳌亚洲论坛}}
+|image         = Bo'ao Forum for Asia - logo 01.jpg
+|size          = 250px
+|formation     = 2001
+|type          = [[Non-profit organization]]
+|status        = Forum
+|headquarters  = [[Bo'ao]], [[Hainan]], China &lt;br/&gt;[[Beijing]] (Secretariat)
+|region_served = Asia
+|website       = [https://web.archive.org/web/20130403015310/http://english.boaoforum.org/ www.boaoforum.org]
+|}}
+
+The '''Boao Forum for Asia''' ('''BFA'''; {{zh|c=博鳌亚洲论坛|p=Bó'áo Yàzhōu Lùntán}}) is a non-profit organisation that hosts high-level forums for leaders from government, business and academia in [[Asia]] and other continents to share their vision on the most pressing issues in this dynamic region and the world at large. BFA is modelled on the [[World Economic Forum]] held annually in [[Davos]], [[Switzerland]]. Its fixed address is in [[Bo'ao]], [[Hainan]] province, [[China]], although the Secretariat is based in [[Beijing]]. The forum, sometimes known as the “Asian Davos”, takes its name from the town of Boao, located in China’s southern Hainan province, which has been the permanent venue for its annual conference since 2002.&lt;ref&gt;Lavers, Georgina, [http://vision.ae/articles/global_integration_dubai_to_host_boao_forum_for_asia "Global integration: Dubai to host Boao Forum for Asia"], ''[[Vision (magazine)|Vision]]'', June 2014.&lt;/ref&gt;
+
+The Forum is committed to promoting regional economic integration and bringing Asian countries even closer to their development goals. Initiated in 1998 by [[Fidel V. Ramos]], former President of the Philippines, [[Bob Hawke]], former Prime Minister of Australia, and [[Morihiro Hosokawa]], former Prime Minister of Japan, the Boao Forum for Asia was formally inaugurated in February 2001. The founding of the BFA was driven by the People's Republic of China and founded by 26 [[Asia]]n and [[Australasia]]n states on 27 February 2001. The organisation held its first meeting from 12–13 April 2002. 
+
+Discussions at the BFA focus on economics, integration, cooperation, society and the environment. In the past the forum also addressed China's entry into the [[World Trade Organization]], as well as [[1997 Asian Financial Crisis|Southeast Asia's economic crisis during the 1990s]]. The geopolitical strategy '[[China's peaceful rise]]' was a topic of discussion for the forum in 2004. In addition to its annual meeting, the BFA also sponsors other forums and meetings related to Asian issues.
+
+== 2008 ==
+The Boao Forum For Asia Annual Conference 2008 was held on 10–13 April 2008. It was attended by heads of government from countries including [[Australia]], [[Pakistan]], [[Norway]] and [[Kazakhstan]]. It also saw the historic meeting of [[Taiwan]]'s [[Republic of China]] Vice President-elect [[Vincent Siew]], with [[People's Republic of China]] president [[Hu Jintao]].&lt;ref&gt;[http://english.cri.cn/4026/2008/04/12/1481@344920.htm 2008 Boao Forum for Asia to Kick Off in China CRI News 2008-04-12 (extracted 2018-04-17)]&lt;/ref&gt; &lt;ref&gt;[https://www.reuters.com/news/picture/taiwan-vp-elect-says-china-agrees-to-off-idUSTP23117620080414 Taiwan VP-elect says China agrees to official talks REUTERS 2008-04-14 (extracted 2018-04-17)]&lt;/ref&gt;
+
+==2009==
+The 2009 forum was held in Boao, Hainan, from 17-19 April, 2009.  The theme was "Asia: Managing Beyond Crisis".
+&lt;ref&gt;http://en.people.cn/90002/96912/index.html Boao Forum for Asia 2009], People's Daily Online&lt;/ref&gt;
+
+==2010==
+The 2010 forum was held in Boao, Hainan, from 9-11 April, 2010.  The theme was "Green Recovery: Asia’s Realistic Choice for Sustainable Growth". &lt;ref&gt;[http://www.cctv.com/english/special/boao2010/homepage/index.shtml 2010 Boao Forum For Asia], cctv.com &lt;/ref&gt;
+
+== 2011 ==
+[[File:Dmitry Medvedev in China 15 April 2011-7.jpeg|thumb|Boao Forum for Asia 2011]]
+
+The Energy, Resources &amp; Sustainable Development Conference for the organisation was held in [[Perth, Western Australia]], [[Australia]] between the 11 and 12 July 2011.&lt;ref name=aus&gt;{{cite news|last=O'Brien|first=Amanda|title=Keep China close, says Kerry Stokes|url=http://www.theaustralian.com.au/business/keep-china-closesays-stokes/story-e6frg8zx-1226093398209|publisher=The Australian|accessdate=13 July 2011|date=July 13, 2011}}&lt;/ref&gt;
+&lt;ref name=BFA&gt;{{cite web|last=Lady. Zhong Press officer of the Secretariat of Boao Forum for Asia|title=Boao Forum|url=http://www.boaoforum.org/CPF/News_ShowContent-en.asp?Seq=2005001177|work=Latest Reports|publisher=BFA|accessdate=13 July 2011}}&lt;/ref&gt;  The conferences brought together business, industry and political leaders in the region to discuss energy and resource security, development and trade.&lt;ref name=aus/&gt; [[Minister for Foreign Affairs (Australia)|Australian Foreign Minister]] [[Kevin Rudd]] stated China will invest US 1 trillion dollars abroad and Australia is in a good position to attract capital to develop new mines, infrastructure to service China's insatiable appetite for energy and resources.
+&lt;ref name=smh&gt;{{cite news|last=AAP|title=Rudd says China offers big opportunities|url=http://news.smh.com.au/breaking-news-national/rudd-says-china-offers-big-opportunities-20110711-1ha8z.html|work=AAP|publisher=news.smh.com.au|accessdate=13 July 2011|date=July 11, 2011}}&lt;/ref&gt;&lt;ref name=bs&gt;{{cite web|last=Business Spectator Pty Ltd.|title=Australia key to China investment: report|url=http://www.businessspectator.com.au/bs.nsf/Article/Australia-key-to-China-investment-report-pd20110712-JPPB7?OpenDocument|publisher=Business Spectator Pty Ltd.|accessdate=13 July 2011|date=13 Jul 2011}}&lt;/ref&gt; Rudd also indicated while Chinese capital is essential for Australia's economic future, China needs to do more in relaxing foreign investment rules for Australian companies such as restrictions on types of businesses, equity restrictions and branch or representative office caps.&lt;ref name=aust&gt;{{cite news|last=O'Brien|first=Amanda|title=Rudd hits back at China over protectionism|url=http://www.theaustralian.com.au/national-affairs/rudd-hits-back-at-china-over-protectionism/story-fn59niix-1226092655880|publisher=The Australian|accessdate=13 July 2011|date=July 12, 2011}}&lt;/ref&gt;&lt;ref name=smh2&gt;{{cite news|last=Emery|first=Kate|title='Integrate' with China or dip out|url=http://www.smh.com.au/business/integrate-with-china-or-dip-out-stokes-warns-20110712-1hc9u.html|work=The West Australian|publisher=www.smh.com.au|accessdate=13 July 2011|date=13 July 2011}}&lt;/ref&gt;
+
+== 2013 ==
+This year forum was held from April 6th to 8th in Hainan Province. &lt;ref&gt;[http://www.xinhuanet.com/english/special/boao2013/index.htm Boao Forum for Asia annual conference 2013 Xinhau Net 2013-04-08 Retrieved 2018-04-17&lt;/ref&gt; [[Bill Gates]], [[George Soros]] and [[Christine Lagarde]] attended.&lt;ref&gt;{{cite web|url=http://english.boaoforum.org/mtzxxwzxen/6690.jhtml|title=Bill Gates, Soros and Lagarde Confirm Attendance at Boao Forum for Asia Annual Conference 2013|publisher=Boao Forum for Asia|accessdate=2 April 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130402083241/http://english.boaoforum.org/mtzxxwzxen/6690.jhtml|archivedate=2 April 2013|df=}}&lt;/ref&gt; [[Xi Jinping]] delivered the keynote address.&lt;ref&gt;[http://www.chinadaily.com.cn/business/boao2013/2013-04/08/content_16382178.htm "Xi's speech at Boao draws positive comments"], ''chinadaily.com.cn'', 2013-04-08. Retrieved 2013-05-24.&lt;/ref&gt; This year focus was on "Restructuring".&lt;ref&gt;[
+http://www.chinadaily.com.cn/business/2013-04/05/content_16377814.htm 2013 Boao Forum to focus on 'restructuring', China Daily 2013-04-05 Retrieved 2018-04-17]&lt;/ref&gt;
+
+==2014==
+The 2014 forum was held in Hainan, from 8-11 April, 2014, with the official opening address from Chinese premier [[Li Keqiang]] on 10 April.&lt;ref&gt;[http://www.boaoforum.org/annual2014/10815.jhtml "Boao Forum for Asia Annual Conference 2014" (in Chinese)], ''boaoforum.org'', April 8, 2014.&lt;/ref&gt; The theme of the forum was "Asia's New Future: Identifying New Growth Drivers".&lt;ref&gt;[http://english.boaoforum.org/mtzxxwzxen/11494.jhtml Boao Forum Information Centre Jan 9, 2014]&lt;/ref&gt; 
+
+Indian business tycoon Ratan Tata was appointed as a member of the Board of Boao Forum. The post is a rare distinction for an Indian in the Chinese government-backed influential body. &lt;ref&gt;[http://www.business-standard.com/article/companies/ratan-tata-member-of-china-backed-boao-forum-114041001401_1.html Business Standard :Ratan Tata member of China-backed Boao Forum April 11, 2014]&lt;/ref&gt;
+
+==2015==
+Leaders or deputies from 16 countries, including [[Armenia]], [[Australia]], [[Austria]], [[China]], [[Indonesia]], [[Kazakhstan]], [[Malaysia]], [[Nepal]], the [[Netherlands]], [[Qatar]], [[Russia]], [[Sri Lanka]], [[Sweden]], [[Thailand]], [[Uganda]], and [[Zambia]], attended the forum held from March 26 to 29. The theme of this year forum is "community of shared destiny". &lt;ref&gt;[http://www.chinadaily.com.cn/business/boao2015/node_53000241.htm Boao Forum for Asia 2015 , China Daily 2018-04-23]&lt;/ref&gt;
+
+==2016==
+The 2016 forum was held in Hainan, from 22-25 March, 2016.  Participants at the annual conference focused on Asia's New future: New Dynamics, New Vision and took part in panel discussions.  Chinese Premier Li Keqiang made the keynote speech at the opening of the annual conference.&lt;ref&gt;[http://www.china.org.cn/business/node_7235918.htm Boao Forum for Asia 2016 China.org.cn 2018-04-23]&lt;/ref&gt;
+
+==2017==
+The 2017 forum was held from 23-26 March, 2017. Keynote speech was made by Chinese Vice Premier [[Zhang Gaoli]] at the opening plenary of the Boao Forum for Asia Annual Conference 2017. &lt;ref&gt;[http://www.xinhuanet.com/english/china/2017-03/27/c_136162062.htm Chinese Vice Premier Zhang Gaoli's keynote speech at opening plenary of Boao Forum for Asia Annual Conference 2017], Xinhuanet.com 2017-03-27&lt;/ref&gt; The theme for the conference was "Globalization and Free Trade: The Asian Perspectives".
+
+==2018==
+The Boao Forum for Asia 2018 was held between April 8th to 11th at Hainan Province, China.  The theme of this year forum was "An Open and Innovative Asia for a World of Greater Prosperity".&lt;ref&gt;[http://english.boaoforum.org/en/index.html Boao Forum for Asia 2018 home page 2018-04-17]&lt;/ref&gt; China president [[Xi Jinping]] gave the opening speech at the opening ceremony.&lt;ref&gt;[http://english.boaoforum.org/focus/38704.jhtml President Xi addresses opening ceremony of BFA annual conference 2018 2018-04-17]&lt;/ref&gt; He said China will open up market including lowering tariffs on imported autos amid increasing trade tensions between US and China. &lt;ref&gt;[https://www.cnbc.com/2018/04/09/chinese-president-xi-jinping-speaks-at-boao-forum-for-asia.html China's Xi announces plans to 'open' China, including lowering tariffs on imported autos 2018-04-09]&lt;/ref&gt;
+
+==See also==
+*[[World Economic Forum]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category|Boao Forum for Asia}}
+* {{official website|http://english.boaoforum.org/}}
+
+{{Hainan topics}}
+
+{{DEFAULTSORT:Boao Forum For Asia}}
+[[Category:Hainan]]
+[[Category:Foreign relations of China]]
+[[Category:Think tanks based in China]]
+[[Category:Global economic conferences]]</text>
+      <sha1>qshrduyk2wze783fz2am365uoyomzql</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bruno Dettori</title>
+    <ns>0</ns>
+    <id>28946508</id>
+    <revision>
+      <id>748695635</id>
+      <parentid>744974447</parentid>
+      <timestamp>2016-11-09T19:41:36Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 0 sources and tagging 1 as dead. #IABot (v1.2.7)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1211">'''Bruno Dettori''' ( [[Sassari]], 22 December 1941- ) is an Italian politician.
+
+He graduated in agricultural science and gained experience of teaching abroad for two academic years at the Faculty of Agriculture in [[Asmara]], [[Eritrea]] and became the author of 40 publications and research on national and international journals related to geology and hydrology.
+
+He began his political career in 1990 becoming a city councilor in Sassari under the Christian Democrats. He was elected senator at the end of the [[Italian general election, 2001|2001 general election]] on 13 May 2001.&lt;ref&gt;[http://www.senato.it/leg/14/BGT/Schede/Attsen/00017583.htm Senato.it Senate web site (Italian)] retrieved 25 September 2010&lt;/ref&gt;  From 18 May 2006 to 7 May 2008 he  was part of the second [[Romano Prodi|Prodi]] government as Secretary for the Environment.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.brunodettori.it/ Official site]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{DEFAULTSORT:Dettori, Bruno}}
+[[Category:Italian politicians]]
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:People from Sassari]]
+
+
+{{Italy-politician-stub}}
+{{Italy-stub}}</text>
+      <sha1>gaxakjvbgahjkbuditc56bh4veedunr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bulgaria–Canada relations</title>
+    <ns>0</ns>
+    <id>16556345</id>
+    <revision>
+      <id>869628047</id>
+      <parentid>865165597</parentid>
+      <timestamp>2018-11-19T20:10:28Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:WikiProject Stub sorting|stub sorting]]: added {{[[Template:Bilateralrelations-stub|Bilateralrelations-stub]]}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4066">{{Infobox Bilateral relations|Bulgarian-Canada|Bulgaria|Canada}}
+'''Bulgaria–Canada relations''' refer to [[Interstate relations]] between [[Bulgaria]] and [[Canada]].
+
+== Overview ==
+[[File:Bulgaria, Ottawa2.JPG|thumb|right|Embassy of Bulgaria in Ottawa]]
+Canada's Ambassador in [[Bucharest]] is accredited to Bulgaria, while an Honorary Consulate in [[Sofia]] assists Canadian interests in Bulgaria.&lt;ref&gt;http://www.canadainternational.gc.ca/romania-roumanie/offices-bureaux/consulate_sofia_consulat.aspx Office of the Honorary Consul of Canada to Bulgaria in Sofia&lt;/ref&gt; Bulgaria has an embassy in [[Ottawa]] and a consulate-general in [[Toronto]].&lt;ref&gt;[http://www.bgembassy.ca/indexeng.htm  Bulgarian embassy in Ottawa] {{webarchive|url=https://web.archive.org/web/20090202174722/http://www.bgembassy.ca/indexeng.htm |date=2009-02-02 }}&lt;/ref&gt;&lt;ref&gt;[http://www.bgconsultor.com/  Bulgarian consulate in Toronto]&lt;/ref&gt; [[Bulgaria]]n-born [[Bulgarian Canadians|Canadian]] businessman, construction magnate and philanthropist [[Ignat Kaneff]] is the Honorary Consul of Bulgaria in Canada.&lt;ref&gt;[http://www.24chasa.bg/Article.asp?ArticleId=1588596 Игнат Канев: Дарих 2000 долара за болница и изведнъж станах "някой", в-к "24 часа", 15.10.2012] {{webarchive|url=https://web.archive.org/web/20131106074810/http://www.24chasa.bg/Article.asp?ArticleId=1588596 |date=2013-11-06 }}&lt;/ref&gt;
+
+Canada and Bulgaria enjoy very good bilateral relations, highlighted by shared membership in [[la Francophonie]]. There is increasing trade and investment, effective military and security cooperation, and growing academic and cultural relations between the two countries.&lt;ref&gt;http://www.canadainternational.gc.ca/romania-roumanie/bilateral_relations_bilaterales/canada_bulgaria-bulgarie.aspx?lang=eng Canada-Bulgaria Relations&lt;/ref&gt;
+
+Canada's Honorary Consul in [[Sofia]] plays an active role in fostering political, commercial and cultural relations between Canada and Bulgaria. His office offers consular support to Canadian citizens as well as Trade Commissioner Services and support in Bulgaria.&lt;ref&gt;http://www.canadainternational.gc.ca/romania-roumanie/bilateral_relations_bilaterales/canada_bulgaria-bulgarie.aspx?lang=eng Canada-Bulgaria Relations&lt;/ref&gt;
+
+More than 30,000 [[Bulgarian Canadians|Canadians of Bulgarian origin]] live in Canada and have made unique and valuable contributions to Canada. Approximately 1,000 Canadians live permanently in Bulgaria and up to 15,000 Canadians visited Bulgaria in 2011.&lt;ref&gt;http://www.canadainternational.gc.ca/romania-roumanie/bilateral_relations_bilaterales/canada_bulgaria-bulgarie.aspx?lang=eng Canada-Bulgaria Relations&lt;/ref&gt;
+
+== Trade relations ==
+Bulgaria is one of Canada's largest merchandise trade partners in South East Europe with bilateral trade reaching $369.3 million in 2012. Canadian companies are important to Bulgaria's mining industry and are showing interest in the oil and gas sector in both onshore and offshore exploration. Business opportunities for Canadian companies exist in Bulgaria in telecommunications, airport services, electrical generation and agriculture.&lt;ref&gt;http://www.canadainternational.gc.ca/romania-roumanie/bilateral_relations_bilaterales/canada_bulgaria-bulgarie.aspx?lang=eng Canada-Bulgaria Relations&lt;/ref&gt;
+
+== Bilateral treaties and agreements ==
+
+* Double Taxation Avoidance Agreement, which was signed on March 3, 1999.&lt;ref&gt;http://www.fin.gc.ca/treaties-conventions/in_force--eng.asp Tax Treaties In Force&lt;/ref&gt;
+
+== See also ==
+* [[Foreign relations of Bulgaria]]
+* [[Foreign relations of Canada]]
+* [[Canada–European Union relations]]
+* [[Comprehensive Economic and Trade Agreement]]
+
+== References ==
+{{reflist}}
+
+{{Foreign relations of Bulgaria}}
+{{Foreign relations of Canada}}
+
+{{DEFAULTSORT:Bulgaria-Canada relations}}
+[[Category:Bulgaria–Canada relations| ]]
+[[Category:Bilateral relations of Bulgaria|Canada]]
+[[Category:Bilateral relations of Canada]]
+
+
+{{Bulgaria-stub}}
+{{Canada-gov-stub}}
+{{Bilateralrelations-stub}}</text>
+      <sha1>sypdum1al4msm6brz4o6q3y0h3pi9tc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CNV Public</title>
+    <ns>0</ns>
+    <id>5224000</id>
+    <revision>
+      <id>714766515</id>
+      <parentid>622487841</parentid>
+      <timestamp>2016-04-11T18:47:53Z</timestamp>
+      <contributor>
+        <username>Rathfelder</username>
+        <id>398607</id>
+      </contributor>
+      <comment>added [[Category:Medical and health organisations based in the Netherlands]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1248">{{Infobox Union
+|name= CNV Public
+|country= [[Netherlands]]
+|affiliation= [[Christelijk Nationaal Vakverbond|CNV]], [[EUROFEDOP]]
+|members= 84,000
+|full_name= CNV Public
+|native_name= CNV Publieke Zaak
+|image= [[File:CNV public logo.png]]
+|founded= January 1, 1983
+|current=
+|head=
+|dissolved_date=
+|dissolved_state=
+|merged_into=
+|office= [[The Hague]], [[Netherlands]]
+|people=
+|website= [http://www.cnvpubliekezaak.nl/ www.cnvpubliekezaak.nl]
+|footnotes=
+}}
+&lt;!-- Include all unused fields for future use. See [[template talk:Infobox Union]] for usage. --&gt;
+
+'''CNV Public''' is a [[trade union]] affiliate of the [[Christelijk Nationaal Vakverbond]] in the [[Netherlands]]. It was formed in 1983 from the merger of the [[ARKA]], NCBO, and the [[NCVVV]].
+
+CNV Public represents civil servants and healthcare workers in the Netherlands.
+
+==External links==
+* [http://www.cnvpubliekezaak.nl/ CNV Public] website.
+
+{{Portal|Organized labour}}
+
+[[Category:Trade unions in the Netherlands]]
+[[Category:Public sector trade unions]]
+[[Category:Medicine and healthcare trade unions]]
+[[Category:Trade unions established in 1983]]
+[[Category:Medical and health organisations based in the Netherlands]]
+
+
+{{Europe-trade-union-stub}}
+{{Netherlands-org-stub}}</text>
+      <sha1>piblkdsixkh9i9dkgkjv3i3u6w68g5t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>California (Dutch ship)</title>
+    <ns>0</ns>
+    <id>7740619</id>
+    <revision>
+      <id>810922513</id>
+      <parentid>682253371</parentid>
+      <timestamp>2017-11-18T09:40:06Z</timestamp>
+      <contributor>
+        <username>Feminist</username>
+        <id>25530780</id>
+      </contributor>
+      <minor/>
+      <comment>[[Talk:The Downs (ship anchorage)#Requested move 11 November 2017]], replaced: [[The Downs]] → [[The Downs (ship anchorage)|The Downs]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2099">{{other ships|California (disambiguation)}}
+{{Unreferenced|date=December 2009}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image               = 
+| Ship caption             = 
+}}
+{{Infobox ship career
+| Hide header              = 
+|Ship country=Netherlands
+|Ship flag={{shipboxflag|Netherlands|civil}}
+| Ship name                =
+| Ship owner               = L. Bienfait &amp; sn. 
+| Ship ordered             = 
+| Ship builder             = [[Fop Smit]]
+| Ship original cost       = 
+| Ship laid down           = 
+| Ship launched            = 1853
+| Ship acquired            = 
+| Ship commissioned        = 
+| Ship decommissioned      = 
+| Ship in service          = 
+| Ship out of service      = 
+| Ship renamed             = 
+| Ship struck              = 
+| Ship reinstated          = 
+| Ship honours             = 
+| Ship captured            = 
+| Ship fate                = 
+| Ship status              = 
+| Ship notes               = 
+}}
+{{Infobox ship characteristics
+| Hide header              = 
+| Header caption           = 
+| Ship class               = [[Clipper]]
+| Ship tons burthen        = 663 tons
+| Ship length              = 
+| Ship beam                = 
+| Ship draught             = 
+| Ship draft               = 
+| Ship hold depth          = 
+| Ship propulsion          = 
+| Ship sail plan           = 
+| Ship complement          = 
+| Ship armament            = 
+| Ship notes               = 
+}}
+|}
+
+'''''California''''' (663 tons) is the most famous of four [[Dutch clipper]]s launched in 1853. An iron-[[Hull (watercraft)|hull]]ed [[Clipper ship|clipper]], she was built by [[Fop Smit]] and mastered by F.C. Jaski for the company L. Bienfait &amp; sn. On the maiden voyage Jaski sailed her in 86 days from [[The Downs (ship anchorage)|The Downs]] to [[Port Adelaide]], delivering a hundred English immigrants.
+
+==References==
+{{reflist}}
+
+{{Clipper ships}}
+
+{{DEFAULTSORT:California (Dutch Ship)}}
+[[Category:Clippers]]
+[[Category:Individual sailing vessels]]
+[[Category:Merchant ships of the Netherlands]]
+[[Category:1853 ships]]
+
+
+{{Merchantship-stub}}
+{{Netherlands-stub}}</text>
+      <sha1>53yvazqrzz1om9c1vox2ovgk852n4y4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Canadian Peace Alliance</title>
+    <ns>0</ns>
+    <id>4331689</id>
+    <revision>
+      <id>871791040</id>
+      <parentid>869460403</parentid>
+      <timestamp>2018-12-03T13:17:35Z</timestamp>
+      <contributor>
+        <ip>74.58.17.46</ip>
+      </contributor>
+      <comment>Fixed grammar</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1726">{{Unreferenced|date=March 2008}}
+
+[[Image:Collette Lemieux 06.jpg|right|thumb|Collette Lemieux, co-chair of the Canadian Peace Alliance, speaking to an anti-war rally in Calgary she helped organize in 2007 as part of the ''Pan-Canadian Day of Action on Canada's military involvement in Afghanistan''.]]
+
+'''The Canadian Peace Alliance / L'Alliance canadienne pour la paix''' (CPA/ACP) was a [[Canada|Canadian]] umbrella [[Peace movement|peace organization]] claiming more than 140 member groups. It was founded in 1985 but became inactive in 2017.
+
+The Canadian Peace Alliance organized cross-Canada campaigns and actions; arranged political lobbying sessions between member groups and key political leaders in Ottawa; facilitated the development of strategies for the Canadian peace movement; and produced and distributed education and action materials.
+
+The Canadian Peace Alliance's policy and campaign direction was determined by a bi-annual convention of member groups and by a geographically representative Steering Committee.
+
+The Canadian Peace Alliance worked closely with the [[Canadian Labour Congress]].
+
+==See also==
+*[[Ceasefire Canada]]
+*[[Canadian Peace Congress]]
+
+== External links ==
+*[https://www.facebook.com/CanadianPeaceAlliance/ The Canadian Peace Alliance / L'Alliance canadienne pour la paix] [[Category:Peace organizations]]
+*[https://web.archive.org/web/20080106203126/http://www.canada.com/ottawacitizen/news/story.html?id=5a15f760-ae58-4765-bbc6-6541fdd59e3f Ottawa Citizen story on Cairo Anti-war Conference]
+*[http://www.acp-cpa.ca/ Canadian Peace Alliance - Canadian Political Parties and Political Interest Groups] - Web Archive created by University of Toronto Libraries
+
+{{Canada-org-stub}}</text>
+      <sha1>7zodwt8orlqjojtghni9shwa3pxgwnp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Carl Dörr</title>
+    <ns>0</ns>
+    <id>49282651</id>
+    <revision>
+      <id>717969348</id>
+      <parentid>702719454</parentid>
+      <timestamp>2016-04-30T19:50:54Z</timestamp>
+      <contributor>
+        <username>Joppa Chong</username>
+        <id>20275651</id>
+      </contributor>
+      <comment>/* References */ cat-fix</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1041">'''Carl Dörr''' was a piano manufacturer in [[Wieden]], Vienna, Austria. 
+
+== History ==
+It was founded by Daniel Dörr (1788-1837) in 1817 in Vienna. His son Wilhelm Dörr I took the business over afterwards. Carl Dörr (1856-1934) succeeded as head of the company in 1882. For the excellence of the products he received a medal at the [[Weltausstellung 1873 Wien]]. He was awarded an imperial and [[royal warrant of appointment]] to the Emperor and King of [[Austria-Hungary]].&lt;ref&gt;{{Citation
+| year       = 1917
+| title      = Handbuch des Allerhöchsten Hofes und des Hofstaates Seiner K. und K. Apostolischen Majestät.
+| publisher  =K.k. Hof- und Staatsdruckerei
+| publication-place =Vienna
+| page       =508
+| url        =
+| accessdate =
+}}&lt;/ref&gt;
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Doerr, Carl}}
+[[Category:Manufacturing companies based in Vienna]]
+[[Category:Piano makers]]
+[[Category:Piano manufacturing companies of Austria]]
+[[Category:Purveyors to the Imperial and Royal Court]]
+[[Category:Wieden]]
+
+
+
+{{austria-stub}}</text>
+      <sha1>petk3d3qe1qlshyv8gzm9hafh9hz4rh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Chemical Database Service</title>
+    <ns>0</ns>
+    <id>54332568</id>
+    <revision>
+      <id>833079870</id>
+      <parentid>815205017</parentid>
+      <timestamp>2018-03-29T15:18:46Z</timestamp>
+      <contributor>
+        <username>GiantSnowman</username>
+        <id>1005449</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/194.61.223.64|194.61.223.64]] ([[User talk:194.61.223.64|talk]]) to last version by 194.61.223.53</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2098">The Chemical Database Service&lt;ref&gt;{{cite web |url=http://cds.rsc.org/index.asp |title=National Chemical Database Service home page |access-date=18 June 2017}}&lt;/ref&gt; is an [[EPSRC]]-funded mid-range facility&lt;ref&gt;{{cite web |url=https://www.epsrc.ac.uk/research/facilities/access/currentmidrangefacilities/ |title=Current EPSRC mid-range facilities |access-date=18 June 2017}}&lt;/ref&gt; that provides UK academic institutions with access to a number of [[chemical database]]s.&lt;ref&gt;{{cite web |url=https://www.sheffield.ac.uk/library/cdfiles/cds |title=Chemical Database Service, University Library, University of Sheffield |access-date=18 June 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |last1=Fletcher |first1=David A. |last2=McMeeking |first2=Robert F. |last3=Parkin |first3=Donald |title=The United Kingdom Chemical Database Service |journal=[[Journal of Chemical Information and Modeling]] |volume=36 |issue=4 |pages=746-749 |date=24 July 1996 |doi=10.1021/ci960015+}}&lt;/ref&gt; It has been hosted by the [[Royal Society of Chemistry]] since 2013, before which it was hosted by [[Daresbury Laboratory]] (part of the [[Science and Technology Facilities Council]]).
+
+Currently, the included databases are:
+
+*ACD/I-Lab, a tool for prediction of physicochemical properties and [[Nuclear magnetic resonance spectroscopy |NMR spectra]] from a chemical structure
+*Available Chemicals Directory, a structure-searchable database of commercially available chemicals
+*[[Cambridge Structural Database]] (CSD), a [[crystallographic database]] of organic and organometallic structures
+*[[Inorganic Crystal Structure Database]] (ICSD), a crystallographic database of inorganic structures
+*CrystalWorks, a database combining data from CSD, ICSD and CrystMet
+*DETHERM, a database of thermophysical data for chemical compounds and mixtures
+*SPRESIweb, a database of organic compounds and reactions
+
+== References ==
+{{Reflist}}
+
+[[Category:Chemical databases]]
+[[Category:Information technology organisations in the United Kingdom]]
+[[Category:Royal Society of Chemistry]]
+[[Category:Science and technology in Cheshire]]
+
+{{UK-stub}}</text>
+      <sha1>2lcfljqej0t2hb9bbw7rr6mmd12aghn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Chinese Tartary</title>
+    <ns>0</ns>
+    <id>33194773</id>
+    <revision>
+      <id>832331404</id>
+      <parentid>832269372</parentid>
+      <timestamp>2018-03-25T09:49:16Z</timestamp>
+      <contributor>
+        <username>Marcocapelle</username>
+        <id>14965160</id>
+      </contributor>
+      <comment>removed [[Category:Tatar topics]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2587">[[File:CEM-44-La-Chine-la-Tartarie-Chinoise-et-le-Thibet-1734-2568.jpg|thumb|400px|D’Anville’s map of China and Chinese Tartary created in 1734]]
+
+'''Chinese Tartary''' (see also [[Tartary]]) is an archaic geographical term used especially during the time of the [[Qing Dynasty]]. The term was used as early as 1734 on a map created by the French geographer and cartographer [[Jean Baptiste Bourguignon d’Anville]] (1697–1782) who published the map in the ''Nouvel atlas de la Chine, de la Tartarie Chinoise et du Thibet'' (New atlas of China, Chinese Tartary, and Tibet) in 1738 (refer to the date of 1734 that appears on the map). D’Anville’s map was based on work ordered by the Emperor of China and conducted by Chinese under the supervision of the Jesuits.&lt;ref name=wdi&gt;{{cite web|website=World Digital Library|title=New atlas of China, Chinese Tartary, and Tibet|url=https://www.wdl.org/en/item/167/}}&lt;/ref&gt; Also published in 1738 was ''A description of the empire of China and Chinese-Tartary together with the kingdoms of Korea, and Tibet'' by Father [[Jean-Baptiste Du Halde]].&lt;ref&gt;[https://archive.org/details/descriptionofemp00duha A description of the empire of China and Chinese-Tartary together with the kingdoms of Korea, and Tibet] by [[Jean-Baptiste Du Halde]], Volume 2 (1738).&lt;/ref&gt; He went on to write in 1741 ''The General History of China Containing a Geographical, Historical, Chronological, Political and Physical Description of the Empire of China, Chinese-Tartary, Corea and Thibet''.&lt;ref&gt; {https://archive.org/details/generalhistoryc02haldgoog ''The General History of China: Containing a Geographical, Historical, Chronological, Political and Physical Description of the Empire of China, Chinese-Tartary, Corea and Thibet''] by [[Jean-Baptiste Du Halde]], Volume 2 (1736).&lt;/ref&gt; Modern areas today that were described by their work as falling within Chinese Tartary included:
+*[[Xinjiang]]
+*[[Mongolia]]
+*[[Manchuria]]
+*[[Qinghai]] (kokonor or Ho-Ho-Nor)
+
+Its geographical boundaries are defined in ''A Geographical Dictionary Or Universal Gazetteer''.&lt;ref&gt;{{cite web|title=A Geographical Dictionary Or Universal Gazetteer, Ancient and Modern, Volume 2|author=Joseph Emerson  Worcester|url=https://books.google.com.au/books?id=vXM9AAAAYAAJ&amp;pg=PA703}}&lt;/ref&gt;
+
+==Further reading==
+* "Chinese Tartary." ''The Asiatic journal and monthly register for British and foreign India, China and Australasia, Volume 20''. Allen, 1836. p. [https://books.google.com/books?id=f8tGAAAAcAAJ&amp;pg=PA292 292].
+
+==References==
+{{reflist}}
+
+[[Category:Geography of Asia]]</text>
+      <sha1>rbjmdze2pjuxtkcr7i1ilqlkcoai4kg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cockpit Country</title>
+    <ns>0</ns>
+    <id>7146380</id>
+    <revision>
+      <id>831283984</id>
+      <parentid>819642362</parentid>
+      <timestamp>2018-03-19T20:01:51Z</timestamp>
+      <contributor>
+        <username>HandyMcHandy</username>
+        <id>33039248</id>
+      </contributor>
+      <comment>/* Geography */ fleshed out the caves</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7696">{{Use dmy dates|date=March 2012}}
+{{Use Jamaican English|date=March 2012}}
+{{Infobox settlement
+&lt;!-- See Template:Infobox settlement for additional fields and descriptions --&gt;
+| name                    = Cockpit Country
+| native_name             = 
+| native_name_lang        = 
+| settlement_type         = Geographical Region
+| image_skyline           = Cockpit Country.jpg
+| imagesize               = 250px
+| image_alt               = 
+| image_caption           = 
+| pushpin_map             = Jamaica
+| pushpin_label_position  = 
+| pushpin_map_alt         = 
+| pushpin_mapsize         = 250
+| pushpin_map_caption     = 
+| coordinates             = {{coord|18.295209|-77.695313|display=inline}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = [[Country]]
+| subdivision_name        = [[Jamaica]]
+| subdivision_type1       = [[Parish]]
+| subdivision_name1       = [[Trelawny Parish|Trelawny]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| established_title       = 
+| established_date        = 
+| named_for               = Topology reminiscent of the shape of [[cock fighting]] dens. 
+| total_type              = 
+| unit_pref               = 
+| area_magnitude          = 
+| area_footnotes          = 
+| area_total_km2          = 
+| area_total_sq_mi        = 
+| area_total_dunam        = 
+| area_land_km2           = 
+| area_land_sq_mi         = 
+| area_water_km2          = 
+| area_water_sq_mi        = 
+| area_water_percent      = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| elevation_ft            = 
+| population_footnotes    = 
+| population_total        = 
+| population_as_of        = 
+| population_density_km2  = 
+| population_density_sq_mi= 
+| population_est          = 
+| pop_est_as_of           = 
+| population_demonym      = 
+| population_note         = 
+| timezone1               = EST
+| utc_offset1             = -5
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = 
+| website                 = 
+| footnotes               = 
+}}
+
+'''Cockpit Country''' is an area in [[Trelawny Parish|Trelawny]] and [[Saint Elizabeth Parish|Saint Elizabeth]] parishes in [[Jamaica]]. The land is marked by steep-sided hollows, as much as {{convert|120|m|ft}} deep in places, which are separated by conical hills and ridges. [[Maroon (people)|Maroon]]s who had escaped from plantations used the difficult territory for its natural defenses to develop communities outside the control of [[Spanish Empire|Spanish]] or [[British Empire|British]] [[colonialism|colonists]]. Since 1739 it has been the center of [[Accompong]], an indigenous Maroon community that still has a certain recognized autonomy under the independent Jamaican government.
+
+==Geography==
+On the north, the main defining feature is the fault-based "Escarpment", a long ridge that extends from Flagstaff in the west, through Windsor in the centre, to Campbells and the start of the Barbecue Bottom Road (B10). The Barbecue Bottom Road, which runs north-south, high along the side of a deep, fault-based valley in the east, is the only drivable route across the Cockpit Country. Walkers and riders can use two old, historical trails cross further west, the Troy Trail, and the Quick Step Trail. As of 2006 they are seldom used and difficult to find.
+
+In the southwest, near Quick Step, is the district known as the "Land of Look Behind." It was so named because Spanish horsemen venturing into this region of hostile escaped slaves were said to have ridden two to a mount, one rider facing to the rear to keep a precautionary watch against ambush.
+
+Where the ridges between sinkholes in the plateau area have dissolved, flat-bottomed basins or valleys have been formed that are filled with [[terra rossa (soil)|terra rosa]] soils, some of the most productive on the island. The largest basin is the Vale of Clarendon, {{convert|80|km|mi}} long and {{convert|32|km|mi}} wide. Queen of Spains Valley, [[Nassau Valley]], and Cave Valley were formed by the same process.
+
+Shallow caves, known locally as cockpits (based on pits used for [[cockfights]]), are particularly common around the hamlet of Quick Step, reaching a density of 15 per km&lt;sup&gt;2&lt;/sup&gt;.&lt;ref&gt;Jamaica Underground: The Caves, Sinkholes and Underground Rivers of the Island, by Alan Fincham (page 31). &lt;/ref&gt; Noteworthy caves include Marta Tick Cave&lt;ref&gt;http://www.jamaicancaves.org/martatick.htm&lt;/ref&gt; and Minocal's Glory Hole&lt;ref&gt;http://www.jamaicancaves.org/minocals_050115.htm&lt;/ref&gt;. Ecotourism has been proposed for the hamlet of Quick Step, at the end of the road into the heart of Cockpit County.&lt;ref&gt;http://www.cockpitcountry.com/Quickstep.html&lt;/ref&gt;
+
+==Environment==
+The Cockpit Country is Jamaica's largest remaining contiguous [[rainforest]]. In 1979 an unpublished paper proposed preserving the area as a National Park.&lt;ref&gt;Cotterell "The Proposed Development of the Cockpit Country." Unpublished. NRCD, Kingston, Jamaica. 1979.&lt;/ref&gt; In 1994 the geographer [[Alan Eyre]]&lt;ref&gt;Eyre, ''Slow Death of a Tropical Rainforest: The Cockpit Country of Jamaica, West Indies,'' 1994&lt;/ref&gt; proposed that the Cockpit Country be designated as a [[World Heritage Site]] to preserve its environment. A petition for protection of the area was submitted to Prime Minister [[Bruce Golding]] in 2006.
+
+As of April 2013, public consultations have begun on the definition of the boundary proposed in a recently released study by Mitchell, Miller, Ganapathy, and Spence of the [[University of the West Indies]] (UWI).
+
+''[[Eleutherodactylus sisyphodemus]]'', a small, [[critically endangered]] frog species, is known only from the Cockpit Country.&lt;ref&gt;{{Cite journal | author = Hedges, B. | author2 = Koenig, S. | author3 = Wilson, B. | last-author-amp = yes | title = ''Eleutherodactylus sisyphodemus'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2004 | page = e.T7148A12831445 | publisher = [[IUCN]] | date = 2004 | url = http://www.iucnredlist.org/details/7148/0 | doi = 10.2305/IUCN.UK.2004.RLTS.T7148A12831445.en | access-date = 10 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Eleutherodactylidae/Eleutherodactylinae/Eleutherodactylus/Eleutherodactylus-sisyphodemus |title=''Eleutherodactylus sisyphodemus'' Crombie, 1977 |author=Frost, Darrel R. |year=2015 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |accessdate=18 April 2015}}&lt;/ref&gt; Cockpit Country hosts 90% of the global population of [[black-billed amazon]], a parrot [[endemic]] to Jamaica.&lt;ref&gt;{{IUCN|id=22686231 |title=''Amazona agilis'' |assessor=BirdLife International |assessor-link=BirdLife International |version=2013.2 |year=2013 |accessdate=26 November 2013}}&lt;/ref&gt;
+
+Cockpit Country is also home to the [[Papilio homerus|Jamaican Swallowtail]], the largest butterfly in the Western hemisphere. Cockpit Country is one of the last remaining homes for the species.
+
+==See also==
+[[Geography of Jamaica]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Commons category}}
+* [http://wikimapia.org/#lat=18.2952094&amp;lon=-77.6953125&amp;z=11&amp;l=0&amp;m=b&amp;v=8 Aerial view]
+* [http://www.jamaicancaves.org/map_cockpit_country_1000.htm Map]
+* [http://www.jamaicancaves.org/cc-boundary-2008.pdf University of the West Indies (UWI) study on the Cockpit Country boundary]
+
+{{coord|18.2952094|-77.6953125|region:JM-07_type:forest|display=title}}
+
+{{Geography of Jamaica}}
+
+[[Category:Jamaican Maroons]]
+[[Category:Geography of Trelawny Parish]]
+
+
+{{Jamaica-geo-stub}}
+{{Africandiaspora-stub}}</text>
+      <sha1>tg8itmoilgmte9vyctrshs2k65848sg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dancon</title>
+    <ns>0</ns>
+    <id>1540861</id>
+    <revision>
+      <id>697019736</id>
+      <parentid>577587863</parentid>
+      <timestamp>2015-12-27T17:43:56Z</timestamp>
+      <contributor>
+        <username>Hessamnia</username>
+        <id>10077638</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1500">{{Unreferenced|date=December 2009}}
+'''Dancon''', an [[abbreviation]] of '''Danish Contingent''', is the term that comprises all [[Denmark|Danish]] national forces in a current military mission of the [[UN]], [[NATO]], or national character. Dancon is not a military unit per se, like a [[brigade]], but rather an organisation in which all [[Military organization#Units, Formations &amp; Commands|military units]] currently working in a mission are linked together. The [[commander]] of Dancon is usually the commander of the hierarchically biggest military unit associated with the specified mission, and does not have a headquarters of its own, but rather it is that military unit's headquarters.
+
+Because several Dancons can exist at the same time, the mission name is usually added to Dancon, like [[Dancon/Irak]] or [[Dancon/SFOR]].
+
+* [[Dancon/UNFICYP]] (early 1964 – 1993)
+* [[Dancon/UNPROFOR]] (April 1992 – October 1995)
+* [[Dancon/IFOR]] (December 1995 – December 1996)
+* [[Dancon/SFOR]] (December 1996 – August 2003)
+* [[Dancon/Albanien]] (May 1997 - August 1997)
+* [[Dancon/AFOR]] (June 1999 - September 1999)
+* [[Dancon/KFOR]] (August 1999 – date)
+* [[Dancon/UNMEE]] (November 2000 – July 2001)
+* [[Dancon/ISAF]] (January 2002 – date)
+* [[Dancon/SRO2]] (March 2002 / Nato-excise [[Strong Resolve]])
+* [[Dancon/Irak]] (May 2003 – July 2007)
+* [[Dancon/ISAF]] (February 2012 – August 2012)
+
+== See also ==
+* [[Dancon March]]
+
+{{Denmark-stub}}
+[[Category:Military of Denmark]]</text>
+      <sha1>1joojt1pyqesqxw9bn95vvb6tgyhvss</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Day of the Walloon Region</title>
+    <ns>0</ns>
+    <id>37025717</id>
+    <revision>
+      <id>824713752</id>
+      <parentid>797939573</parentid>
+      <timestamp>2018-02-09T01:07:30Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Movable September observances to [[:Category:September observances]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 February 1]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1331">{{Infobox holiday
+|holiday_name  = Day of the Walloon Region
+|type          = 
+|image         =Echasseurs-crop.png
+|imagesize     =
+|caption       =[[Stilts|Stiltwalkers]] in [[Namur (city)|Namur]]
+|official_name = {{lang-fr|Fête de la Wallonie}}
+|nickname      =
+|observedby    = [[Wallonia]], Belgium
+|litcolor      =
+|longtype      =
+|significance  =
+|begins        =
+|ends          =
+|scheduling   = nth weekday of the month
+|duration     = 1 day
+|frequency    = annual
+|week_ordinal  = third
+|weekday       = Sunday
+|month         = September
+|celebrations  =
+|observances   =
+|relatedto     = [[French Community Holiday]]
+}}
+The '''Day of the Walloon Region''' or simply the '''Day of Wallonia''' ({{lang-fr|Fête de la Wallonie}}) is the annual public holiday of [[Wallonia]], the southern region of [[Belgium]]. It is celebrated each third Sunday of September.
+
+== Dates ==
+* 2007 - 16 September
+* 2008 - 21 September
+* 2009 - 20 September
+* 2010 - 19 September
+* 2011 - 18 September
+* 2012 - 16 September
+
+== See also ==
+* [[French Community Holiday]]
+
+== External links ==
+* http://www.fetesdewallonie.be
+
+{{Belgium-stub}}
+
+[[Category:Public holidays in Belgium|Wallonia]]
+[[Category:September observances]] 
+[[Category:Sunday observances]] 
+[[Category:Holidays and observances by scheduling (nth weekday of the month)]]</text>
+      <sha1>15mq4und38mc0n6a8l7jyc72ed2f1ry</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dialogue Proposition Action</title>
+    <ns>0</ns>
+    <id>46656374</id>
+    <revision>
+      <id>800736579</id>
+      <parentid>754377669</parentid>
+      <timestamp>2017-09-15T10:39:59Z</timestamp>
+      <contributor>
+        <username>Cote d'Azur</username>
+        <id>7314633</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1238">{{Politics of Comoros}}
+
+'''Dialogue Proposition Action''' (DPA-Mwangaza) was a political party in the [[Comoros]] led by [[Mohamed Saïd Abdallah Mchangama]].
+
+==History==
+The party received 5.4% of the vote in the [[Comorian legislative election, 1992|1992 elections]], winning seats in the [[Assembly of the Union of the Comoros|Assembly of the Union]].&lt;ref&gt;[https://www.africaintelligence.com/ION/politics/1992/12/05/no-legislative-majority,17598-ART?CXT=CANP&amp;country=COMOROS%20ISLANDS Comoros Islands: No legislative majority]{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }} African Intelligence, 5 December 1992&lt;/ref&gt;
+
+In October 1993 it merged into the [[Rally for Democracy and Renewal]],&lt;ref&gt;[http://www.ipu.org/parline-e/reports/arc/2069_93.htm Elections held in 1993] IPU&lt;/ref&gt;&lt;ref&gt;Tom Lansford (2015) ''Political Handbook of the World 2015'', CQ Press&lt;/ref&gt; which went on to win the [[Comorian legislative election, 1993|parliamentary elections]] in December.
+
+==References==
+{{reflist}}
+
+{{Comorian political parties}}
+
+[[Category:Defunct political parties in the Comoros]]
+[[Category:Political parties disestablished in 1993]]
+[[Category:1993 disestablishments in the Comoros]]
+
+
+{{Comoros-stub}}</text>
+      <sha1>l67xyn7whdks4d0sgu6h4heg2hruyy5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>EEA Joint Committee</title>
+    <ns>0</ns>
+    <id>20493091</id>
+    <revision>
+      <id>831832810</id>
+      <parentid>824884354</parentid>
+      <timestamp>2018-03-22T12:01:45Z</timestamp>
+      <contributor>
+        <username>Kaihsu</username>
+        <id>10059</id>
+      </contributor>
+      <comment>Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] ()</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1392">{{Use dmy dates|date=April 2011}}
+{{primary sources|date=December 2008}} The '''EEA Joint Committee''' is an institution of the [[European Economic Area]] (EEA). It is composed of representatives of [[Iceland]], Liechtenstein, [[Norway]], and the [[European Union]]. Its main function is to approve the application of [[European Union directive]]s and regulations in the three EEA states which are not EU members.&lt;ref&gt;{{cite web|url= https://www.independent.co.uk/news/uk/politics/brexit-transition-period-uk-britain-vet-eu-laws-theresa-may-david-davis-michel-barnier-a8183071.html|title= Brexit: UK wants to vet EU laws during transition period. UK accused of wasting time by looking for solution.|date= 29 January 2018|accessdate=9 February 2018|work= Jon Stone (for [[The Independent]])|language=en}}&lt;/ref&gt; One approved by the Committee these modify the [[EEA Agreement]] and thus force the three EEA states to implement them. Its decisions are taken by consensus.&lt;ref&gt;{{cite web|url=http://www.efta.int/eea/eea-agreement/eea-basic-features|title=The Basic Features of the EEA Agreement - European Free Trade Association|website=www.efta.int}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://www.efta.int/eea/eea-institutions/eea-joint-committee.aspx Official site], with links to Decisions
+
+[[Category:European Economic Area]]
+[[Category:Joint committees]]
+
+
+{{EU-stub}}</text>
+      <sha1>enantyx4cr444zzf6vs82hrt84ryvdr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fakta fra verden</title>
+    <ns>0</ns>
+    <id>24086691</id>
+    <revision>
+      <id>540767160</id>
+      <parentid>456526990</parentid>
+      <timestamp>2013-02-26T22:50:28Z</timestamp>
+      <contributor>
+        <username>Argento Surfer</username>
+        <id>15145848</id>
+      </contributor>
+      <comment>de-orphaned</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="768">'''''Fakta fra verden''''' ([[Norwegian language|Norwegian]] for "Facts from the world") is a [[Norway|Norwegian]] [[comic strip]] written and drawn by [[Karstein Volle]], since 2001.
+
+The comic has an [[education]]al theme and each episode is written and drawn like an educational message. However, the facts that the strip claims to present are always completely absurd.
+
+==External links==
+* [http://www.jippicomics.com/butikk/bker-og-album/kors-p-halsen---75-fakta-fra-verden/ ''Fakta fra verden: Kors på halsen'' at Jippi Comics]
+* [http://www.jippicomics.com/butikk/bker-og-album/med-hnden-p-hjertet--125-fakta-fra-verden/ ''Fakta fra verden: Med hånden på hjertet'' at Jippi Comics]
+
+[[Category:Norwegian comic strips]]
+
+
+{{norway-stub}}
+{{comic-strip-stub}}</text>
+      <sha1>d6h5o7swymgra9y8kgfg6ca99t8f67l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fauna of Portugal</title>
+    <ns>0</ns>
+    <id>59221708</id>
+    <revision>
+      <id>871644808</id>
+      <parentid>871613865</parentid>
+      <timestamp>2018-12-02T14:35:00Z</timestamp>
+      <contributor>
+        <username>Onel5969</username>
+        <id>10951369</id>
+      </contributor>
+      <comment>Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (unreferenced)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="252">{{unreferenced|date=December 2018}}
+
+See
+* [[List of birds of Portugal]]
+* [[List of mammals of Portugal]]
+
+== See also ==
+* [[Outline of Portugal]]
+
+== References ==
+{{reflist}}
+
+{{Fauna of Europe}}
+
+[[Category:Fauna of Portugal|*]]
+
+{{Portugal-stub}}</text>
+      <sha1>ae3j9wnfc6n9ni6d5d09qr2m8ndj9zh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Foroyaa</title>
+    <ns>0</ns>
+    <id>16354452</id>
+    <revision>
+      <id>771594682</id>
+      <parentid>771594607</parentid>
+      <timestamp>2017-03-22T12:56:25Z</timestamp>
+      <contributor>
+        <ip>123.136.107.78</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="618">'''''Foroyaa''''' is a [[newspaper]] located in [[Serrekunda]], [[the Gambia]]. It was first launched in July 1987. Owned by [[People's Democratic Organisation for Independence and Socialism|PDOIS]] (a political party) that was instrumental in bringing the downfall of ex-president Yahya Jammeh in the December 1st 2016 election.
+
+== External links ==
+* [http://www.foroyaa.gm/modules/news/ Homepage]
+
+[[Category:English-language newspapers]]
+[[Category:Newspapers published in the Gambia]]
+[[Category:Publications with year of establishment missing]]
+[[Category:Serekunda]]
+
+
+{{Africa-newspaper-stub}}
+{{Gambia-stub}}</text>
+      <sha1>8gepsqwx4rzt50y7x1qg6saedoccfdm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guinean languages alphabet</title>
+    <ns>0</ns>
+    <id>10478825</id>
+    <revision>
+      <id>806882868</id>
+      <parentid>806882831</parentid>
+      <timestamp>2017-10-24T19:00:42Z</timestamp>
+      <contributor>
+        <username>SkyWarrior</username>
+        <id>27891597</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/92.5.93.29|92.5.93.29]] ([[User talk:92.5.93.29|talk]]) ([[WP:HG|HG]]) (3.2.0)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3268">Following independence, the government of [[Guinea]] adopted rules of transcription for the [[languages of Guinea]] based on the characters and diacritic combinations available on typewriters of that period.{{citation needed|date=March 2016}} This alphabet was used officially until 1989.
+
+==Guinea language orthography==
+The Guinea alphabet made use of several [[Digraph (orthography)|digraphs]] (including either "h" or "y" as the second letter), some of which represent consonants not present in European languages, and two [[diacritic]]s ([[grave accent]] and [[Diaeresis (diacritic)|diaeresis]]) for open vowels. 
+
+This system was widely used within the country but differed from the orthographies of neighboring countries of [[West Africa]], as developed in the wake of the 1966 Bamako expert meeting on harmonizing orthographies of the [[cross-border language]]s of the region. 
+
+In 1989, following a meeting on reform of the alphabet in 1988,&lt;ref&gt;Gilbert Sâa Ifono, "L'activité terminologique en Guinée," [http://www.termisti.org/rifal/PDF/tn09/tn09.pdf RINT 9, June 1993]&lt;/ref&gt; it was decided to adopt an orthography similar to the [[African reference alphabet]] used elsewhere in the region.&lt;ref&gt;Diallo, Alpha Mamadou, ''Usages et images des langues en guinée'', Université de Conakry. [http://www.unice.fr/ILF-CNRS/ofcaf/19/DIALLO.pdf]&lt;/ref&gt;&lt;ref&gt;Diallo, Amadou; ''Étude sur le rôle de l'éducation non formelle dans la stratégie de réduction de la pauvreté (SRP) en Guinée'', Ministère du Plan de la République de Guinée/ GTZ, Conakry 3/2006. [http://www.srp-guinee.org/download/diallo-education-non-formelle-et-srp.pdf]&lt;/ref&gt;&lt;ref&gt;Effectuated by decree 019/PRG/SGG/89&lt;/ref&gt;
+
+A summary table of the digraphs and diacritics of the old alphabet, and their extended Latin equivalents in the new system, follows:
+:{| class="wikitable sortable"
+! Pre-1989
+! Post-1989
+! Language(s)
+! IPA value
+|-
+| [[Bh (digraph)|bh]]
+| [[ɓ]]
+| [[Pular language|Pular]]
+| {{IPA|ɓ}}
+|-
+| [[Dh (digraph)|dh]]
+| [[ɗ]]
+| [[Pular language|Pular]]
+| {{IPA|ɗ}}
+|-
+| [[Gh (digraph)|gh]]
+| [[ɠ]]
+| [[Pular language|Pular]]
+| {{IPA|ɠ}}
+|-
+| [[Kh (digraph)|kh]]
+| [[x]]
+| [[Susu language|Susu]]
+| {{IPA|ɣ}}
+|-
+| [[Nh (digraph)|nh]]
+| [[ŋ]]
+| [[Pular language|Pular]], [[Maninka language|Maninka]]
+| {{IPA|ŋ}}
+|-
+| [[Ny (digraph)|ny]]
+| [[ɲ]]
+| [[Pular language|Pular]], [[Maninka language|Maninka]], [[Susu language|Susu]]
+| {{IPA|ɲ}}
+|-
+| [[Yh (digraph)|yh]]
+| [[ƴ]]
+| [[Pular language|Pular]]
+| {{IPA|/ʔʲ/}}
+|-
+| [[è]]
+| [[ɛ]]
+| [[Maninka language|Maninka]], [[Susu language|Susu]]
+| {{IPA|ɛ}}
+|-
+| [[ö]]
+| [[ɔ]]
+| [[Maninka language|Maninka]], [[Susu language|Susu]]
+| {{IPA|ɔ}}
+|-
+| [[Dy (digraph)|dy]]
+| [[j]]
+| [[Pular language|Pular]], [[Maninka language|Maninka]]
+| {{IPA|dʒ}}
+|-
+| [[Ty (digraph)|ty]]
+| [[c]]
+| [[Pular language|Pular]], [[Maninka language|Maninka]]
+| {{IPA|tʃ}}
+|}
+
+== References ==
+{{reflist}}
+* {{cite book | author1=Académie des langues, République de Guinée |date=1976 |title=Alphabet national des langues de la République de Guinée}}
+
+[[Category:Latin alphabets]]
+[[Category:Writing systems of Africa]]
+[[Category:Multilingual orthographies]]
+[[Category:1989 disestablishments]]
+
+
+{{Guinea-stub}}
+{{Latin-script-stub}}</text>
+      <sha1>hrqdky6rn4eupb52e4t2i6026u6khar</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gutland (film)</title>
+    <ns>0</ns>
+    <id>55071231</id>
+    <revision>
+      <id>858891885</id>
+      <parentid>858891481</parentid>
+      <timestamp>2018-09-10T09:47:57Z</timestamp>
+      <contributor>
+        <username>Lugnuts</username>
+        <id>1276024</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4529">{{Use dmy dates|date=August 2018}}
+{{Infobox film
+| name           = Gutland
+| image          = Gutland (film).jpg
+| caption        = Film poster
+| director       = [[Govinda Van Maele]]
+| producer       = Gilles Chanial&lt;br&gt;Olivier Dubois&lt;br&gt;Melanie Blocksdorf
+| writer         = Govinda Van Maele
+| starring       = [[Frederick Lau]]&lt;br&gt;[[Vicky Krieps]]
+| music          = Mocke
+| cinematography = Narayan Van Maele
+| editing        = Stefan Stabenow
+| distributor    = 
+| released       = {{film date|2017|9|8|[[2017 Toronto International Film Festival|TIFF]]|df=yes}}
+| runtime        = 107 minutes
+| country        = Luxembourg
+| language       = Luxembourgish&lt;br&gt;German
+| budget         = €3 million
+}}
+
+'''''Gutland''''' is a 2017 internationally co-produced [[drama film]] directed by [[Govinda Van Maele]].&lt;ref name="FF"&gt;{{cite web|url=http://www.filmfund.lu/film-catalogue/films/gutland |title=Gutland |work=Film Fund |date=29 August 2017|accessdate=29 August 2017}}&lt;/ref&gt; It was screened 8 September 2017 in the Discovery section at the [[2017 Toronto International Film Festival]].&lt;ref name="adds22Aug"&gt;{{cite web|url=http://www.thewrap.com/toronto-film-festival-adds-international-films-angelina-jolie-javier-bardem/ |title=Toronto Film Festival Adds International Films, Talks With Angelina Jolie and Javier Bardem |work=[[TheWrap]]|date=22 August 2017|accessdate=28 August 2017 |last=Pond |first=Steve}}&lt;/ref&gt; In Luxembourg the film was screened for the first time at the [[Luxembourg City Film Festival]] 2018. It was selected as the Luxembourgish entry for the [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]] at the [[91st Academy Awards]].&lt;ref name="Luxembourg"&gt;{{cite web|url=http://www.lessentiel.lu/fr/divertissement/cinema/story/gutland-representera-le-luxembourg-aux-oscars-15515664 |title="Gutland" représentera le Luxembourg aux Oscars |work=L'essentiel |date=6 September 2018 |accessdate=6 September 2018}}&lt;/ref&gt;&lt;ref name="Luxembourg2"&gt;{{cite web|url=https://luxtimes.lu/culture-life/34874-gutland-selected-as-luxembourg-pick-for-oscars |title=Gutland selected as Luxembourg pick for Oscars |work=[[Luxembourg Times]] |first=Hannah |last=Brenton |date=6 September 2018 |accessdate=6 September 2018}}&lt;/ref&gt;&lt;ref&gt;Abbatescianni, Davide. (10 September 2018). [http://cineuropa.org/en/newsdetail/360064/ Luxembourg pins its hopes on Gutland for the Oscars]. Cineuropa. Retrieved 10 September 2018 &lt;/ref&gt;
+
+==Cast==
+* [[Frederick Lau]] as Jens Fauser
+* [[Vicky Krieps]] as Lucy Loschetter
+* [[Marco Lorenzini]] as Jos Gierens
+* [[Pit Bukowski]] as Marcel
+* [[Leo Folschette]] as Arno Kleyer
+
+==Production==
+The film, for which a budget of 3 million euros was available, was shot in 37 days during December 2016. It was filmed around Herborn.&lt;ref&gt;{{Cite news|url=https://www.wort.lu/de/kultur/stars-in-herborn-vor-der-kamera-gutland-ist-nicht-luxemburg-58469d4a5061e01abe83d4e5|title=Stars in Herborn vor der Kamera: "Gutland" ist nicht Luxemburg|date=6 December 2016|work=Wort.lu|access-date=21 March 2018|language=de}}&lt;/ref&gt; The film was shot with 35mm.&lt;ref&gt;{{Cite news|url=https://www.screendaily.com/reviews/gutland-review/5127518.article|title='Gutland': Review|work=Screen|access-date=21 March 2018|language=en}}&lt;/ref&gt; The film was inspired in part by Van Maele's experience growing up as the son of immigrant parents in a small Luxembourgish village.&lt;ref&gt;{{Cite news|url=https://www.filmdoo.com/blog/2017/11/07/interview-govinda-van-maele-talks-gutland/|title=Interview: Govinda Van Maele talks Gutland|last=|first=|date=7 November 2017|work=FilmDoo|access-date=23 August 2018|language=en-US}}&lt;/ref&gt;
+
+==Reception==
+On [[review aggregator]] website [[Rotten Tomatoes]], the film holds an approval rating of 88% based on 8 reviews, and an [[average rating]] of 6/10.&lt;ref&gt;{{cite web |url=https://www.rottentomatoes.com/m/gutland |title=Gutland (2017) |work=[[Rotten Tomatoes]] |publisher=[[Fandango (company)|Fandango Media]] |accessdate=20 March 2018}}&lt;/ref&gt;
+
+==See also==
+* [[List of submissions to the 91st Academy Awards for Best Foreign Language Film]]
+* [[List of Luxembourgish submissions for the Academy Award for Best Foreign Language Film]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|5455410|Gutland}}
+
+{{DEFAULTSORT:Gutland}}
+[[Category:2017 films]]
+[[Category:2010s drama films]]
+[[Category:Luxembourgian films]]
+[[Category:Luxembourgian drama films]]
+[[Category:Luxembourgish-language films]]
+
+
+{{Luxembourg-film-stub}}
+{{2010s-drama-film-stub}}</text>
+      <sha1>8hgiel65sz6penwxqm7c0gsjrh36j14</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hvaltorvet</title>
+    <ns>0</ns>
+    <id>57615891</id>
+    <revision>
+      <id>848531524</id>
+      <parentid>845009417</parentid>
+      <timestamp>2018-07-02T14:40:21Z</timestamp>
+      <contributor>
+        <username>The Anomebot2</username>
+        <id>1979668</id>
+      </contributor>
+      <comment>Adding geodata: {{coord missing|Norway}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1703">'''Hvaltorvet''', or '''Hvaltorget''', is the largest shopping mall in [[Sandefjord, Norway]]. It is located on the town square in the city centre. It first opened in 1989, but an expanded mall was opened on November 20, 2008. It is home to 60-63 stores including [[H&amp;M]], [[Jack &amp; Jones]], [[Lindex]], [[Narvesen]], [[Telenor]], [[Vero Moda]], and [[Teknikmagasinet]].&lt;ref&gt;{{Cite news|url=http://hvaltorvet.no/vare-butikker/|title=Våre butikker - Hvaltorvet|work=Hvaltorvet|access-date=2018-06-08|language=nb-NO}}&lt;/ref&gt;
+
+The mall is {{convert|27000|m2}}. 65 apartments were built atop the mall after the 2008 expansion. 199 new parking spaces were also added during the expansion, bringing the total number to 400-500 spaces for parking. The main parking structure is located underneath the town square in the city centre.&lt;ref&gt;{{Cite news|url=http://www.bygg.no/article/3920|title=Fortsatt tilbakegang i industrien|date=2003-07-08|work=Bygg.no - Byggeindustrien|access-date=2018-06-08|language=nb-NO}}&lt;/ref&gt; 
+
+Hvaltorvet is named in honor of the city’s iconic whaling epoch.&lt;ref&gt;Jøranlid, Marianne (1996). ''40 trivelige turer i Sandefjord og omegn''. Vett Viten. Pages 24-25. {{ISBN|9788241202841}}.&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://sandaril.no/article831-317.html|title=Hvaltorvet - 65 butikker midt i sentrum! - Sandar Idrettslag|website=sandaril.no|access-date=2018-06-08}}&lt;/ref&gt;
+
+==References==
+&lt;references/&gt;
+
+{{Shopping centres in Norway}}
+
+{{coord missing|Norway}}
+
+[[Category:Sandefjord]]
+[[Category:Buildings and structures in Sandefjord]]
+[[Category:Companies based in Sandefjord]]
+[[Category:1989 establishments in Norway]]
+[[Category:Shopping malls established in 1989]]
+
+{{Norway-stub}}</text>
+      <sha1>m7ewpaqqffjnhbaczcts6nz5kyk3g3d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ichikawa FM</title>
+    <ns>0</ns>
+    <id>19391733</id>
+    <revision>
+      <id>819525258</id>
+      <parentid>809768695</parentid>
+      <timestamp>2018-01-09T21:10:35Z</timestamp>
+      <contributor>
+        <username>Jay Jay Marcus Keize13</username>
+        <id>30911029</id>
+      </contributor>
+      <comment>Added [[ ]] brackets.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="915">{{Infobox Radio Station |
+  name      = Ichikawa-FM |
+  area      = [[Ichikawa, Chiba|Ichikawa]]/&lt;br&gt;[[Chiba Prefecture|Chiba]]/ |
+  branding  = ''"JOZZ3AZ-FM"''|
+  slogan    =  |
+  airdate   = September 20, 1998 |
+  frequency = 83.0 ([[Megahertz|MHz]]) |
+  format    = [[News radio|News]]/[[Talk radio|Talk]]/[[Music radio|Music]] |
+  erp       = 29 [[watt]]s |
+  class     = |
+  owner     = |
+  website   = [http://www.ichikawafm.co.jp/ http://www.ichikawafm.co.jp/] |
+  callsign_meaning = |
+}}
+
+'''Ichikawa-FM''' is a Japanese local [[FM broadcasting|FM]] radio station ([[Community radio|Community FM]]) in [[Ichikawa, Chiba|Ichikawa]], [[Japan]]
+
+==External links==
+* [https://web.archive.org/web/20070929061608/http://www.ichikawafm.co.jp/ Official website]
+
+[[Category:Radio stations in Japan]]
+[[Category:Radio in Japan]]
+[[Category:Media in Ichikawa, Chiba]]
+
+{{Japan-org-stub}}
+{{Asia-radio-station-stub}}</text>
+      <sha1>exbo5vrxgqk105lm0wqaaztdp1w29se</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Indulis</title>
+    <ns>0</ns>
+    <id>18380404</id>
+    <revision>
+      <id>681816235</id>
+      <parentid>681816053</parentid>
+      <timestamp>2015-09-19T18:21:15Z</timestamp>
+      <contributor>
+        <username>ExRat</username>
+        <id>310363</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2025">{{Infobox Given Name Revised
+| name = Indulis
+| image=
+| imagesize=
+| caption=
+| pronunciation=
+| gender = Male
+| meaning = gift
+| region = Latvia
+| origin = 
+| related names = 
+| footnotes = 
+}}
+'''Indulis''' is a [[Latvian masculine given name]], borne by more than 1,000 men in [[Latvia]].&lt;ref&gt;PMLP database&lt;/ref&gt; Its nameday is celebrated on 2 January.
+
+The name has two possible derivations, one from a Baltic word meaning "gift", and the other as a diminutive of Indriķis, the Latvian form of [[Heinrich (given name)|Heinrich]].
+
+Indulis was the name of the hero of the legend of Indulis and Ārija, the Latvian [[Romeo and Juliet]], set in the 13th century during the [[Germany|German]] conquest, which relates the tragic love of Indulis, a [[Curonians|Curonian]] chieftain, and Ārija, daughter of a German military commander. The name was revived, along with many other medieval names, in the late 19th century, and was brought to especial prominence by the poet and dramatist [[Rainis]] with the publication in 1911 of his play ''"Indulis un Ārija"''.
+
+As a modern name, Indulis is better-known than many Latvian names because of [[Indulis Emsis]], Prime Minister of Latvia in 2004, the first [[Latvian Green Party|Green]] head of state in the world.
+
+==Notable people with the name Indulis==
+*[[Indulis Bekmanis]] (born 1989), Latvian professional road cyclist
+*[[Indulis Emsis]] (born 1952), Latvian biologist and politician
+
+==Sources==
+* [http://www.pmlp.gov.lv/lv/statistika/personvardu.html Pilsonības un Migrācijas Lietu Parvalde (PMLP): Office of Citizenship and Migration Affairs personal name database] {{lv icon}}
+
+==Notes==
+{{reflist}}
+
+==References==
+* Latkovskis, Leonards, 1971: ''Latgalu uzvordi, palames un dzymtas II''. Munich: Latgalu izdevniecība {{lv icon}}
+* Siliņš, K., 1990: ''Latviešu personvārdu vārdnīca''. Rīga: Zinātne {{lv icon}}
+
+{{given name|Indulis|nocat}}
+
+{{DEFAULTSORT:Indulis (Name)}}
+[[Category:Latvian masculine given names]]
+
+
+{{given-name-stub}}
+{{Latvia-stub}}</text>
+      <sha1>abnh9ko6t929v4b207y318lprhvlx92</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Intelsat IV F-6</title>
+    <ns>0</ns>
+    <id>53846435</id>
+    <revision>
+      <id>871437819</id>
+      <parentid>871391003</parentid>
+      <timestamp>2018-12-01T02:02:07Z</timestamp>
+      <contributor>
+        <ip>2A02:908:4B21:8F9C:1883:45B3:D2B3:2226</ip>
+      </contributor>
+      <comment>/* Release */ Improve citation</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4138">{{Use American English|date=April 2017}}
+{{Infobox spaceflight
+| name                  = Intelsat IV F-6
+| image                 = 
+| image_size            = 
+| image_caption         =
+
+| mission_type          = [[Communications satellite|Communications]]
+| operator              = [[Intelsat]]
+| website               = 
+| COSPAR_ID             = INT4F-6
+| SATCAT                = 
+| mission_duration      = 7&amp;nbsp;years (planned)&lt;br/&gt;(Launch failure)
+
+| spacecraft_bus        = [[Spacebus|HS-312]]
+| spacecraft_type       = 
+| manufacturer          = [[Hughes Aircraft]]
+| BOL_mass              = {{convert|730|kg|lb}}
+| launch_mass           = {{convert|1414|kg|lb}}
+| dimensions            = 
+| power                 =
+
+| launch_date           = {{start-date|February 20, 1975, 23:35|timezone=yes}}&amp;nbsp;UTC&lt;ref name="launchlog"&gt;{{cite web|url=http://planet4589.org/space/log/launchlog.txt|title=Launch Log|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=April 21, 2017}}&lt;/ref&gt;
+| launch_rocket         = [[Atlas-Centaur|Atlas SLV-3D Centaur-D1 AR]]
+| launch_site           = [[Cape Canaveral Air Force Station|Cape Canaveral]] [[Cape Canaveral Air Force Station Space Launch Complex 36|LC-36A]]
+| launch_contractor     =
+
+| disposal_type         = 
+| deactivated           =
+
+| orbit_epoch           = Planned
+| orbit_reference       = [[geocentric orbit|Geocentric]]
+| orbit_regime          = [[Geostationary orbit|Geostationary]]
+| orbit_periapsis       = 
+| orbit_apoapsis        = 
+| orbit_inclination     = 
+| orbit_eccentricity    = 
+| orbit_period          = 
+| orbit_longitude       = 
+| apsis                 = gee
+
+| trans_band            = 
+| trans_frequency       = 
+| trans_bandwidth       = 
+| trans_capacity        = 
+| trans_coverage        = 
+| trans_TWTA            = 
+| trans_EIRP            = 
+| trans_HPBW            = 
+
+| programme             = ''Intelsat IV''
+| previous_mission      = [[Intelsat IV F-5]]
+| next_mission          = [[Intelsat IV F-7]]
+}}
+'''Intelsat IV F-6''' was a [[geostationary]] [[communication]] [[satellite]] built by [[Hughes Aircraft Company|Hughes]], it was owned by [[Intelsat]]. The satellite was based on the [[Spacebus|HS-312]] platform and its estimated useful life was 7 years.
+
+== History ==
+The Intelsat IV F-6 was part of the Intelsat IV series which consisted of eight communications satellites, launched from [[Cape Canaveral]] during the early 1970s, marked the fifth generation of geostationary communications satellites developed by the [[Hughes Aircraft Company]] since 1963 with the launch of Syncom II, the world's first synchronous satellite. The [[Syncom]] II was 15&amp;nbsp;cm high and 28 inches in diameter, weighing 78 pounds in orbit. In contrast, the Intelsat IVs weighed more than [[Pound (mass)|£]] 1,300 (595&amp;nbsp;kg) into orbit and were more than 17 feet (5.31 meters) in diameter. All seven satellites exceeded their projected life expectancies and were withdrawn from active duty, the last of which, the [[Intelsat IV F-1]] was retired in October 1987.
+
+The satellite was equipped with 12 [[C band (IEEE)|C-band]] transponders. It had 6,000 two-way [[relay]] phone calls or broadcast 12 concurrent color television programs or mixed combinations of communications traffic including data and fax.
+
+The satellite had 12 channels of broadband communication. Each channel had a bandwidth of 40&amp;nbsp;MHz and provided about 500 communication circuits.
+
+== Release ==
+
+The satellite was lost due to a launcher malfunction&lt;ref&gt;{{cite book |last1=Ezell |first1=Linda Neuman |title=NASA Historical Databook |volume=Volume III: Programs and Projects 1969-1978 |publisher=NASA |publication-date=1988-01-01 |at=Table 4-103. Chronology of Intelsat Development and Operations, 1969-1978 |id=NASA-SP-4012-VOL-3 |url=https://history.nasa.gov/SP-4012/vol3/table4.103.htm}}&lt;/ref&gt;.
+
+==See also==
+{{Portal|Spaceflight}}
+* [[1975 in spaceflight]]
+
+==References==
+{{reflist|2}}
+
+{{Intelsat}}
+{{Orbital launches in 1975}}
+
+[[Category:Intelsat satellites]]
+[[Category:Spacecraft launched in 1975]]
+[[Category:Satellite launch failures]]
+
+
+{{US-spacecraft-stub}}</text>
+      <sha1>snmxgk714qj9888zxitk05ay4wm29om</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kitara language</title>
+    <ns>0</ns>
+    <id>7530098</id>
+    <revision>
+      <id>723966890</id>
+      <parentid>723966781</parentid>
+      <timestamp>2016-06-06T10:03:05Z</timestamp>
+      <contributor>
+        <username>Emmanuel178</username>
+        <id>28499573</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1568">{{Infobox language
+ |name          = Kitara
+ |nativename    = ''Runyakitara''
+ |created       = early 1990s
+ |creator       = [[Uganda]]
+ |speakers      = Written language taught at university. 5 million speakers of the source languages
+ |date          = 2002
+ |ref           = &lt;ref&gt;{{e18}}&lt;/ref&gt;
+ |family        = [[standard language]]
+ |posteriori    = [[Kiga language|Kiga]], [[Nkore language|Nkore]], [[Nyoro language|Nyoro]], &amp; [[Tooro language|Tooro]]
+|glotto=none
+ |guthrie       = JE.10A
+}}
+
+The '''Kitara language''', commonly known as '''''Runyakitara''''', is an artificial&lt;ref name="Guthrie"/&gt; [[standard language]] based on four closely related languages of western [[Uganda]]:
+*[[Nyoro language|Nyoro or ''Runyoro'']]
+*[[Kiga language|Kiga (Chiga) or ''Rukiga'']]
+*[[Nkore language|Nkore or ''Runyankole'']]
+*[[Tooro language|Tooro or ''Rutooro'']]
+
+The Google interface has been translated into Kitara in February 2010 by the Faculty of Computing and IT, Makerere University.
+
+==See also==
+*[[Nkore-Kiga]]
+*[[Ngangela language]]
+
+==References==
+{{reflist}}
+*Bernsten, Jan. 1998. "Runyakitara: Uganda's 'New' Language." ''Journal of Multilingual and Multicultural Development'' 19(2): 93-107. ([http://www.multilingual-matters.net/jmmd/019/0093/jmmd0190093.pdf online version])
+
+==External links==
+*[http://www.bisharat.net/wikidoc/pmwiki.php/PanAfrLoc/Runyakitara PanAfrican L10n page on Runyakitara]
+
+{{Languages of Uganda}}
+
+[[Category:Languages of Uganda]]
+[[Category:Nyoro-Ganda languages|*]]
+[[Category:Constructed languages]]
+
+
+{{Bantu-lang-stub}}</text>
+      <sha1>cfnd0fna062jbk52fhz46aby5bh5yut</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kuku 3D</title>
+    <ns>0</ns>
+    <id>41502157</id>
+    <revision>
+      <id>660139892</id>
+      <parentid>622349391</parentid>
+      <timestamp>2015-04-30T22:40:03Z</timestamp>
+      <contributor>
+        <username>Hessamnia</username>
+        <id>10077638</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="767">{{Use mdy dates|date=December 2013}}
+{{Infobox film
+| name           = Kuku 3D!
+| image          = 
+| caption        = 
+| director       = [[Henrich Zucha]]
+| producer       = 
+| screenplay     = 
+| starring       = 
+| music          = 
+| cinematography =
+| editing        = [[Henrich Zucha]]
+| studio         = [[Filmodrom]]
+| distributor    = 
+| released       = {{Film date|2013|12|21|}}
+| runtime        = 8 minutes
+| country        = Slovakia
+| language       = Slovak
+}}
+
+'''''Kuku 3D''''' is the first Slovak stereoscopic ([[3D film|3D]]) movie. Released in December 2013.
+
+==External links==
+* {{official website|http://www.filmkuku.sk/}} at [[Filmodrom]]
+* {{IMDb title|3322876}}
+
+[[Category:2013 3D films]]
+[[Category:Slovak films]]
+
+
+{{Slovakia-film-stub}}</text>
+      <sha1>c8xtzz0lzrcvbcl2n9jk3zgr0wlyz2u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Martin Kramarič</title>
+    <ns>0</ns>
+    <id>42939011</id>
+    <revision>
+      <id>870024678</id>
+      <parentid>864608882</parentid>
+      <timestamp>2018-11-21T22:15:29Z</timestamp>
+      <contributor>
+        <username>Snowflake91</username>
+        <id>30085842</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2820">{{Use dmy dates|date=June 2014}}
+{{Infobox football biography
+| name = Martin Kramarič
+| fullname = Martin Kramarič
+| birth_date = {{Birth date and age|1997|11|14|df=y}}
+| birth_place = [[Novo Mesto]], [[Slovenia]]
+| height = {{convert|1.78|m|0|abbr=on}}
+| currentclub = [[NK Maribor|Maribor]]
+| clubnumber = 97
+| position = [[Forward (association football)|Forward]]
+| youthyears1 = 2004–2014
+| youthclubs1 = [[NK Krka|Krka]]
+| youthyears2 = 2014–2015
+| youthclubs2 = [[NK Maribor|Maribor]]
+| years1 = 2014
+| clubs1 = [[NK Krka|Krka]]
+| caps1 = 15
+| goals1 = 3
+| years2 = 2014–
+| clubs2 = [[NK Maribor|Maribor]]
+| caps2 = 25
+| goals2 = 1
+| years3 = 2014–2015
+| clubs3 = → [[NK Maribor B|Maribor B]]
+| caps3 = 18
+| goals3 = 4
+| years4 = 2016–2017
+| clubs4 = → [[NK Krško|Krško]] (loan)
+| caps4 = 30
+| goals4 = 5
+| nationalyears1 = 2014
+| nationalteam1 = Slovenia U18
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2014–2016
+| nationalteam2 = [[Slovenia national under-19 football team|Slovenia U19]]
+| nationalcaps2 = 14
+| nationalgoals2 = 2
+| nationalyears3 = 2017
+| nationalteam3 = [[Slovenia national football B team|Slovenia B]]
+| nationalcaps3 = 1
+| nationalgoals3 = 0
+| nationalyears4 = 2017–2018
+| nationalteam4 = [[Slovenia national under-21 football team|Slovenia U21]]
+| nationalcaps4 = 13
+| nationalgoals4 = 3
+| pcupdate = 14 August 2018
+| ntupdate =
+}}
+
+'''Martin Kramarič''' (born 14 November 1997) is a [[Slovenian people|Slovenian]] [[Association football|footballer]] who plays for [[NK Maribor|Maribor]]. Kramarič holds the record as being the youngest scorer in the [[Slovenian PrvaLiga]] match with 16 years, four months and eight days at the time of his goal against [[NK Rudar Velenje|Rudar Velenje]] in the second part of the [[2013–14 Slovenian PrvaLiga|2013–14 season]].&lt;ref&gt;{{cite news|url=http://siol.net/sportal/nogomet/rekorder-ki-ima-tremo-pred-novinarji-152546|language=sl|accessdate=9 June 2017|date=17 April 2014|publisher=[[Siol]]|title=Rekorder, ki ima tremo pred novinarji|author=Rok Viškovič}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.nzs.si/reprezentanca/default.asp?id_igralca=72505&amp;id_selekcije=17&amp;id_menu=131 NZS profile] {{sl icon}}
+*{{FootballDatabase.eu|martin.kramaric.229647}}
+*{{Soccerway|martin-kramari/334614|Profile}}
+
+{{NK Maribor squad}}
+
+{{DEFAULTSORT:Kramaric, Martin}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:People from Novo Mesto]]
+[[Category:Slovenian footballers]]
+[[Category:Association football forwards]]
+[[Category:Slovenia youth international footballers]]
+[[Category:Slovenia under-21 international footballers]]
+[[Category:NK Maribor players]]
+[[Category:NK Krško players]]
+[[Category:NK Krka players]]
+[[Category:Slovenian PrvaLiga players]]
+
+{{Slovenia-stub}}</text>
+      <sha1>cv0ojt45cc2eopektzdcpcsg5kex4em</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Míša</title>
+    <ns>0</ns>
+    <id>12181193</id>
+    <revision>
+      <id>839155503</id>
+      <parentid>770538714</parentid>
+      <timestamp>2018-05-01T16:47:58Z</timestamp>
+      <contributor>
+        <ip>78.45.139.243</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1026">[[File:Nanuk Míša (6).JPG|thumb|Míša]]
+'''Míša''' is a popular [[Czech Republic|Czech]] brand of frozen confection. Míšas have been made continuously since 1961, and sell over 12 million ice pops per year, making it the most successful [[ice cream]] brand in the Czech Republic. It has survived events such as the [[Velvet Revolution]] and is fondly remembered as an integral part of Czech childhood.&lt;ref name="unilever.cz"&gt;{{cite web|title=MÍŠA|url=http://www.unilever.cz/our-brands/detail/misa/309234//|website=Unilever.cz|accessdate=2014-10-03}}&lt;/ref&gt;
+
+They are made with frozen quark, rather than ice cream or yogurt.&lt;ref name="unilever.cz"/&gt;
+
+The [[logo]] features a grinning green [[bear]] as the brand's mascot, holding its [[arm]]s above the word "Míša."&lt;ref name="unilever.cz"/&gt;
+
+==See also==
+* [[List of frozen dessert brands]]
+
+==References==
+{{commons category|Míša}}
+{{Reflist}}
+
+{{food-stub}}
+{{Czech-stub}}
+{{DEFAULTSORT:Misa}}
+[[Category:Brand name frozen desserts]]
+[[Category:Ice cream brands]]</text>
+      <sha1>lxxj9acncr5hmw1g2ttwv0zuwp6kk7s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Near FM</title>
+    <ns>0</ns>
+    <id>1991590</id>
+    <revision>
+      <id>864346952</id>
+      <parentid>864242873</parentid>
+      <timestamp>2018-10-16T16:39:11Z</timestamp>
+      <contributor>
+        <username>Darren J. Prior</username>
+        <id>6458798</id>
+      </contributor>
+      <minor/>
+      <comment>Darren J. Prior moved page [[Near fm 90.3]] to [[Near FM]]: The official title of the station is Near FM.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2607">{{Infobox Radio Station
+| name      = Near FM
+| airdate   = 1995 
+| frequency = 90.3 [[MHz]] 
+| format    = Community
+| area      = Northeast Dublin 
+| owner     = Near Media Co-op
+| website   = http://nearfm.ie/
+}}
+
+'''Near FM''' (North East Access Radio) 90.3 FM is a [[Broadcasting Authority of Ireland|BAI]]-licensed, communally owned, and not-for-profit community media project.
+
+The project is operated by a democratic co-operative, Near Media Co-op, and is open to all organisations and individuals in [[Dublin]] North-East, [[Republic of Ireland|Ireland]].
+
+The station provides a wide range of specialist music programmes (blues, punk, ska etc.) as well as a variety of talk programming, incorporating a positive emphasis on facilitating and supporting community development and providing a platform to a wide range of local groups.
+
+Previously known as ''Near fm 101.6'', the station first went on air in August 1995. On Tuesday 23 January 2007, the station switched to a new frequency of 90.3 MHz and was renamed ''Near90fm''. In 2012, the station reverted to using its former ''Near FM'' name.
+
+Near Media Co-op also runs a community television project – Near TV Productions – and an IT project called Near Online. The station also runs an internet cafe in the Northside Civic Centre, [[Coolock]], where the project is based, as well as the Near Drama, Near Records, and Near Choice projects.
+
+Near fm is a founding member of [[CRAOL]], The Community Radio Forum of Ireland. 
+
+In the 1980s there was an [[Irish_pirate_radio|pirate radio]] station which NEAR FM is based on called, ''North Dublin Community Radio'' it closed down in order to reform as NEAR FM and apply for a licence.
+
+==Franchise area==
+Parts of [[Coolock]] including Ayrfield and Kilmore West, [[Artane, Dublin|Artane]], [[Donnycarney]], [[Killester]], [[Kilbarrack]], [[Raheny]], [[Beaumont, Dublin|Beaumont]], [[Baldoyle]], [[Dollymount]], [[Donaghmede]], and [[Darndale]].
+
+==Broadcasting hours==
+*24 hours a day
+
+==See also==
+
+* [[Phoenix 92.5FM]]
+* [[Dublin South FM]]
+* [[Liffey Sound FM]]
+* [[Raidió na Life]]
+* [[Raidió Fáilte]]
+* [[CRAOL]]
+* [[Broadcasting Authority of Ireland]]
+
+==External links==
+* [http://www.nearfm.ie Near FM]
+* [http://near.ie/ Near Media Co-Op]
+* [https://craol.ie/ CRAOL | The Community Radio Forum of Ireland]
+* [http://www.bai.ie/ga/ Broadcasting Authority of Ireland / Údarás Craolacháin na hÉireann BAI.]
+
+
+{{coord missing|County Dublin}}
+{{Europe-radio-station-stub}}
+{{Ireland-media-stub}}
+
+[[Category:Community radio stations in Ireland]]
+[[Category:Media in Dublin (city)]]</text>
+      <sha1>qe4unz2xxbdyjdqtb058384p8bxey9d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Obelya Metro Station</title>
+    <ns>0</ns>
+    <id>24169735</id>
+    <revision>
+      <id>739075890</id>
+      <parentid>736188607</parentid>
+      <timestamp>2016-09-12T17:14:14Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2208">{{Infobox station 
+| name          = [[File:Sofia Metro Logo.svg|30px|left|link=Sofia Metro]] Obelya
+| type          = 
+| style         = Sofia Metro
+| image         = EstacionObeliaMetroSofia.jpg
+| image_caption = 
+| address       = 
+| coordinates   = {{Coord|42|44|27|N|23|16|35|E|type:railwaystation_region:BG-23|display=inline,title}}
+| line          = &lt;!-- line information is detailed under "services" --&gt;
+| other         = 
+| structure     = overground on a bridge
+| platform      = side
+| depth         = 
+| levels        = 2
+| tracks        = 2
+| parking       = 
+| bicycle       = 
+| baggage_check = 
+| opened        = 20-Apr-2003
+| closed        = 
+| rebuilt       = 
+| electrified   = 
+| ADA           = 
+| code          = 2999; 3000
+| owned         = [[Sofia#Administration|Sofia Municipality]]
+| zone          = 
+| smartcardname =
+| smartcardstatus =
+| former        = 
+| passengers    = 
+| pass_year     = 
+| pass_percent  = 
+| pass_system   = 
+| mpassengers   = 
+| services      = {{s-rail|title=Sofia Metro}}
+{{s-line|system=Sofia Metro|line=Line 2|previous=Lomsko shose|next=Slivnitsa}}
+| map_locator   = [[File:Map8 eng trans.png|300px]]
+| web           = 
+}}
+{{Sofia Metro Blue line}}
+'''Obelya Metro Station''' ({{lang-bg|Метростанция „Обеля“}}) is a station on the [[Sofia Metro]] in [[Bulgaria]].  It started operation on April 20, 2003.
+
+==Public Transportation==
+* [[Sofia Tramway|Tramway service]]: 6
+* [[Public buses in Sofia|City Bus service]]: 87
+* [[Public buses in Sofia|Suburban Bus service]]: 26, 30, 31, 81, 150
+
+==Location==
+{{Empty section|date=October 2012}}
+
+==Gallery==
+
+{{Empty section|date=February 2015}}
+
+==External links==
+{{Commonscat-inline|Obelya (Sofia Metro)|Obelya Metro Station}}
+* [http://www.metropolitan.bg/ Sofia Metropolitan (Official site)]
+* [https://web.archive.org/web/20090826175543/http://metropolitan.hit.bg/ Unofficial site]
+* [http://www.360.bg/index.php?lat=42.741286&amp;lon=23.276371&amp;z=14 360 degree panorama from outside the station (north end)]
+
+[[Category:Sofia Metro stations]]
+[[Category:Railway stations opened in 2003]]
+[[Category:2003 establishments in Bulgaria]]
+
+
+{{Europe-metro-stub}}
+{{Bulgaria-transport-stub}}</text>
+      <sha1>g4xqsikklxwukniikwywilhs24m6zql</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pohokura field</title>
+    <ns>0</ns>
+    <id>23416511</id>
+    <revision>
+      <id>856201793</id>
+      <parentid>767739939</parentid>
+      <timestamp>2018-08-23T15:41:09Z</timestamp>
+      <contributor>
+        <username>Pbsouthwood</username>
+        <id>10044298</id>
+      </contributor>
+      <comment>Adding [[Wikipedia:Short description|short description]]: "An oil and gas field offshore of north Taranaki in New Zealand" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2109">{{short description|An oil and gas field offshore of north Taranaki in New Zealand}}
+[[File:Nzgasfield.svg|right|450px|New Zealand gas production by field 2010]]
+The '''Pohokura field''' is an oil and gas field located 4 km offshore of north [[Taranaki Region|Taranaki]] in [[New Zealand]], in approximately 30 m of water.  The field was discovered in 2000 by Fletcher Challenge and has ultimate recoverable reserves (1P) of 1,227 Bcf (1435 PJ) of gas and 61 mmbbls of oil and condensate.&lt;ref name="Energy2015" &gt;{{cite web| url=http://www.mbie.govt.nz/info-services/sectors-industries/energy/energy-data-modelling/publications/energy-in-new-zealand| title=Energy in New Zealand 2015| publisher=[[Ministry of Business, Innovation and Employment|MBIE]]}}&lt;/ref&gt;
+
+The field has 6 offshore and 3 onshore wells, with the production station located on shore, adjacent to the [[Motunui]] methanol plant.  The production station is unmanned, and is operated from a control room in [[New Plymouth]].  The first commercial production was in September 2006.
+
+In 2009, Pohokura was the largest gas producing field in New Zealand, producing 42% of total production.&lt;ref name="EDF"&gt;{{cite book| title=Energy Data File| publisher=[[Ministry of Economic Development (New Zealand)|MED]]| date=July 2009| url=http://www.med.govt.nz/edf}}&lt;/ref&gt;
+
+Pohokura is owned by Shell (48%), OMV (26%) and [[Todd Corporation|Todd Energy]] (26%), and is operated by Shell.&lt;ref name="Energy2015" /&gt;
+
+== See also ==
+* [[Energy in New Zealand]]
+* [[Oil and gas industry in New Zealand]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.toddenergy.co.nz/operations/production/production-sites/ Todd Energy website]
+* [http://www.stos.co.nz/pohokura.asp Shell Todd Oil Pohokura website]
+
+
+{{coord|38|58|32|S|174|16|37|E|display=title}}
+
+{{Oceanic features of Zealandia|state=collapsed}}
+
+[[Category:Zealandia]]
+[[Category:Geography of Taranaki]]
+[[Category:New Zealand seafloor (oceanography)]]
+[[Category:Oil fields of New Zealand]]
+[[Category:Natural gas fields in New Zealand]]
+[[Category:Buildings and structures in Taranaki]]</text>
+      <sha1>7cit9nghmfff8o3hwlfqpmyd9e81x9l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Police Tribunal (Belgium)</title>
+    <ns>0</ns>
+    <id>12114863</id>
+    <revision>
+      <id>862153150</id>
+      <parentid>857711811</parentid>
+      <timestamp>2018-10-02T14:22:30Z</timestamp>
+      <contributor>
+        <username>Runawayangel</username>
+        <id>7340759</id>
+      </contributor>
+      <minor/>
+      <comment>fixed cs1 errors</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1246">The '''Police Tribunal''' ({{lang-nl|Politierechtbank}}, {{lang-fr|Tribunal de police}}, {{lang-de|Polizeigericht}}) in [[Belgium]] is a [[court]] which deals with minor offences and infractions, as well as traffic offences and deaths and injuries arising from traffic accidents. In civil cases, it has jurisdiction with regard to claims for compensation related to traffic accidents, irrespective of the amount of the compensation. Decisions of the Police Tribunal can be appealed against to the [[Court of First Instance (Belgium)|Court of First Instance]]. The Police Tribunal also has appellate jurisdiction with regard to the Municipal Administrative Sanctions that [[Municipalities in Belgium|municipalities]] can use to punish certain minor offences since 2005.&lt;ref&gt;{{cite web
+|url=http://www.presse-justice.be/document.php?document_id=98&amp;lang=nl
+|title=Politierechtbank
+|publisher=Pers &amp; Gerecht
+|accessdate=2007-07-10
+|language=Dutch
+}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+|url=http://www.presse-justice.be/document.php?document_id=98&amp;lang=fr
+|title=Le tribunal de police
+|publisher= Presse &amp; Justice
+|accessdate=2007-07-10
+|language=French
+}}&lt;/ref&gt;
+
+==References==
+&lt;references/&gt;
+
+{{Belgium-stub}}
+{{europe-law-stub}}
+
+[[Category:Judiciary of Belgium]]</text>
+      <sha1>9lo0twk6m3mbdup0tbyh1zq32zvcfqy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Postal services in Andorra</title>
+    <ns>0</ns>
+    <id>1357059</id>
+    <revision>
+      <id>718054647</id>
+      <parentid>718054041</parentid>
+      <timestamp>2016-05-01T08:20:24Z</timestamp>
+      <contributor>
+        <username>Mx. Granger</username>
+        <id>4871659</id>
+      </contributor>
+      <comment>+image</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2454">[[File:Andorra post boxes.jpg|thumb|A French post box (left) and a Spanish post box (right) side by side in [[L'Aldosa de la Massana]]]]
+'''Postal services in Andorra''' are unique in that they are not operated by the country itself, but by its two larger neighbouring countries, [[Spain]] and [[France]].&lt;ref name="upu"&gt;[http://www.upu.int/fileadmin/documentsFiles/activities/addressingUnit/andEn.pdf Andorra], [[Universal Postal Union]], September 2004&lt;/ref&gt; This is a legacy of the centuries of ''de facto'' control exercised by those two countries over [[Andorra]]. ''[[Correos]]'' of Spain and ''[[La Poste (France)|La Poste]]'' of France operate side by side. However the [[Postal codes in Andorra|postal code]] system, introduced in July 2004,&lt;ref&gt;[http://eprints.hud.ac.uk/20979/1/Sara_353-C209.pdf Muhamad Amin, Sara and Wilson, David (2014) Designing a Postcode System for Arbil City, Iraq.], ''International Journal of Computer and Communication Engineering, V3 (5)'' page 381. ISSN 2010-3743&lt;/ref&gt; has a different format from those of either Spain or France, consisting of the letters "AD", followed by three digits.&lt;ref name="upu"&gt;&lt;/ref&gt;
+
+Both postal administrations issue their own postage stamps for use in Andorra featuring unique designs,&lt;ref&gt;[http://www.abs-cbnnews.com/global-filipino/07/18/14/andorra-honors-pinoys-stamp Andorra honors Pinoys with a stamp], Daniel Infante Tuaño, [[ABS-CBN]], July 18, 2014&lt;/ref&gt; as those of Spain and France are not valid.&lt;ref&gt;[https://books.google.co.uk/books?id=WttmSt7kPmMC&amp;pg=PA412&amp;lpg=PA412&amp;dq=postal+services+in+andorra+stamps&amp;source=bl&amp;ots=YCYZs8vrA2&amp;sig=RP8qMW_RjpZX002om9FLfNZQ6Uo&amp;hl=en&amp;sa=X&amp;ved=0CDwQ6AEwBWoVChMI25Lk7_7MxgIVJ89yCh1yogqo#v=onepage&amp;q=postal%20services%20in%20andorra%20stamps&amp;f=true ''Spain''], Damien Simonis, Lonely Planet, 2007, page 412&lt;/ref&gt; These are used for international correspondence, as postal service within Andorra is free.&lt;ref&gt;[https://books.google.co.uk/books?id=Hwi0s3I5jLEC&amp;pg=PA12&amp;lpg=PA12&amp;dq=Postal+services+in+Andorra&amp;source=bl&amp;ots=k0GucO0_ge&amp;sig=BhcWa_Ce4rfInW_gDa6VWdSQQsw&amp;hl=en&amp;sa=X&amp;ved=0CHkQ6AEwDWoVChMIz6SGm_rMxgIV5J5yCh3ScwOn#v=onepage&amp;q=Postal%20services%20in%20Andorra&amp;f=true ''Europe Review 2003/04: The Economic and Business Report''], Kogan Page Publishers, 2003, page 11&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Postal Services In Andorra}}
+[[Category:Postal system of Andorra]]
+{{Postal administrations of Europe}}
+
+{{Andorra-stub}}</text>
+      <sha1>gb88e7xygheb67x90yfvszyqwsljb1w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Princes of Civitella-Cesi</title>
+    <ns>0</ns>
+    <id>8618881</id>
+    <revision>
+      <id>740616408</id>
+      <parentid>740616359</parentid>
+      <timestamp>2016-09-22T05:16:13Z</timestamp>
+      <contributor>
+        <username>Moonraker</username>
+        <id>9856656</id>
+      </contributor>
+      <comment>m</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1733">{{Unreferenced|date=March 2011}}
+
+'''Prince of Civitella-Cesi''' is an Italian title of nobility granted to Giovanni Torlonia (1755–1829) of the [[Torlonia]] family.
+
+In exchange for the administration of finances of the [[Holy See]]  with the blessing of the Pope, Giovanni Torlonia was created in 1794 [[Duke]] of [[Bracciano]] and [[Count]] of [[Pisciarelli]]; in 1803 [[Marquis]] of [[Romavecchia]] and [[Turrita]]; and 1st Prince of Civitella Cesi ([[Princeps Romanus]]); in 1809 he was created a [[Patrician (post-Roman Europe)|Roman Patrician]] (with Papal confirmation of that honor on January 19, 1813) and in 1820 became [[Duke]] of [[Poli, Lazio|Poli]] and [[Guadagnolo]], with other titles. He was the builder of the [[Villa Torlonia (Rome)|Villa Torlonia]] in [[Rome]].
+
+==Princes of Civitella-Cesi==
+*[[Giovanni Torlonia, 1st Prince of Civitella-Cesi]] (born Sienna,  May 1754, died Rome, 25 Feb 1829), in 1814 created Prince of Civitella-Cesi, who in September 1793 married in Rome Anna Maria Schultheiss (born Donaueschingen, 23 August 1760, died Rome, 4 November 1840)
+* [[Alessandro Torlonia, 2nd Prince of Civitella-Cesi]]
+* [[Augusto Torlonia, 3rd Prince of Civitella Cesi]] (20 January 1855 - 17 April 1926).
+*[[Marino Torlonia, 4th Prince of Civitella-Cesi]]
+*[[Alessandro Torlonia, 5th Prince of Civitella-Cesi]]
+*[[Marco Torlonia, 6th Prince of Civitella-Cesi]]
+*[[Giovanni Torlonia, 7th prince of Civitella-Cesi]] (b. Rome 18 Apr 1962); on 9 June 2001 he married Carla De Stefanis (born Rome 23 Nov 1966) in the Palazzo Torlonia, Rome. 
+**Heir-Apparent: Don Stanislao (born January 2005)
+
+[[Category:Princes of Civitella-Cesi| ]]
+[[Category:Lists of Italian nobility|Civitella-Cesi]]
+
+
+{{VaticanCity-stub}}</text>
+      <sha1>b1lf8nbrskk7b4sbf55e7ub40k8iiwy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Republican People's Party Youth</title>
+    <ns>0</ns>
+    <id>40369358</id>
+    <revision>
+      <id>854697950</id>
+      <parentid>854648573</parentid>
+      <timestamp>2018-08-13T04:57:43Z</timestamp>
+      <contributor>
+        <username>Newbiepedian</username>
+        <id>12149955</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */replaced: Infobox Political Youth Organization → Infobox political youth organization using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2662">{{Infobox political youth organization
+ | name = Republican People's Party Youth
+ | native_name = CHP Gençlik Kolları
+ | colorcode      = #FF0000
+ | logo           = 
+ | president      = Emre Yılmaz
+ | founded = {{Start date|1954}}&lt;ref&gt;{{cite web|url=http://www.politikadergisi.com/sites/default/files/kutuphane/turk_siyasi_tarihinde_chpnin_genclik_kollari.pdf |title=Türk Siyasi Tarihi'nde CHP'nin Gençlik Kolları |publisher=Politikadergisi.com |accessdate=2014-02-23}}&lt;/ref&gt; 
+ | ideology       = [[Social democracy]]&lt;br&gt;[[Kemalism]]
+ | headquarters   = [[Ankara]], [[Turkey]]
+ | mother party = [[Republican People's Party (Turkey)|Republican People's Party]]
+ | international  = [[International Union of Socialist Youth]]
+ | regional1_type = European
+ | regional1_name = [[Young European Socialists]]
+ | national       = 
+ | website        = [http://www.chpgenclikkollari.org.tr/ chpgenclikkollari.org.tr]
+}}
+'''Republican People's Party Youth''' (also known as '''CHP Youth''') ({{lang-tr|Cumhuriyet Halk Partisi Gençlik Kolları or CHP Gençlik Kolları}}) is the [[youth organization]] of the [[Republican People's Party (Turkey)|Republican People's Party]] in [[Turkey]]. The organization has been a member of [[International Union of Socialist Youth]] since 2012&lt;ref&gt;{{cite web|url=http://www.iusy.org/en/about-us/members/members-overview |accessdate=August 27, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130421081629/http://www.iusy.org/en/about-us/members/members-overview |archivedate=April 21, 2013|title=IUSY }}&lt;/ref&gt; and [[Young European Socialists]] since 2011.&lt;ref&gt;{{cite web|url=http://www.chp.org.tr/?p=18588 |title=CHP Gençlik Kolları, Avrupa Sosyalist Gençlik Örgütü’ne oybirliği ile kabul edildi |publisher=Chp.org.tr |date= |accessdate=2014-02-24}}&lt;/ref&gt;
+
+They hosted the [[Young European Socialists|YES]] Summer Camp 2013 in [[Foça]], [[İzmir]].&lt;ref&gt;{{cite web|url=http://www.youngsocialists.eu/yes-summer-camp-2013-statement-on-the-current-situation-in-turkey |title=YES Summer Camp 2013 – Statement on the current situation in Turkey : Young European Socialists (YES) |publisher=Youngsocialists.eu |date=2013-08-19 |accessdate=2014-02-24}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official|http://www.chpgenclik.com/ }}
+{{YES member organisations}}
+
+{{DEFAULTSORT:CHP Genclik Kollari}}
+[[Category:Republican People's Party (Turkey)]]
+[[Category:Youth wings of political parties in Turkey]]
+[[Category:Youth wings of social democratic parties]]
+[[Category:Secularism in Turkey]]
+[[Category:Youth organizations established in 1954]]
+[[Category:Republicanism in Turkey]]
+
+
+{{Turkey-stub}}</text>
+      <sha1>pojr5lfk3kybagw1lhytrp6egnosabl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Roman Catholic Diocese of Arua</title>
+    <ns>0</ns>
+    <id>15281065</id>
+    <revision>
+      <id>833312680</id>
+      <parentid>791479105</parentid>
+      <timestamp>2018-03-30T20:09:25Z</timestamp>
+      <contributor>
+        <username>Fsmatovu</username>
+        <id>3150999</id>
+      </contributor>
+      <comment>/* References */ new data</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2600">{{Expand Italian|Diocesi di Arua |date=February 2011}}
+{{Infobox diocese
+|jurisdiction     = Diocese
+|name             = Arua
+|latin            = Dioecesis Aruaensis
+|country          = {{flag|Uganda}}
+|metropolitan     = [[Roman Catholic Archdiocese of Gulu|Gulu]]
+|rite             = [[Latin Rite]]
+|cathedral        = [[Basilica of the Blessed Virgin Mary, Lodonga]]
+|cocathedral      = 
+|area_km2         = 10,561 
+|population       = 1,650,275 
+|population_as_of = 2006 
+|catholics        = 670,000 
+|catholics_percent= 40.6 
+|pope             = {{Incumbent pope}}
+|bishop           = [[Sabino Ocan Odoki]]
+|coadjutor        = 
+|auxiliary_bishops= 
+}}
+
+The '''Roman Catholic Diocese of Arua''' ({{lang-la|Aruaën(sis)}}) is a [[diocese]] located in the city of [[Arua]] in the [[Ecclesiastical province]] of [[Roman Catholic Archdiocese of Gulu|Gulu]] in [[Uganda]]. Following the resignation of Bishop Frederick Drandua, on 19 August 2009, [[Pope Benedict XVI]] appointed the [[Right Reverend Sabino Ocan Odoki]], Auxiliary Bishop of the [[Roman Catholic Archdiocese of Gulu|Catholic Archdiocese of Gulu]], as Apostolic Administrator of the Diocese of Arua, until a substantive Bishop is appointed.&lt;ref&gt;[http://www.aruadiocese.org/index.htm Bishop Ocan Odoki is Apostolic Administrator of Arua Catholic Diocese Since August 2009]&lt;/ref&gt; On October 20, 2010 he was named ordinary Bishop.
+
+==History==
+* June 23, 1958: Established as Diocese of Arua from Diocese of Gulu
+
+==Leadership==
+* [[Bishop]]s of Arua (Roman rite)
+** Bishop Sabino Ocan Odoki (2010.10.20 - present)
+** Bishop [[Frederick Drandua]] (1986.05.27 - 2009.08.19)&lt;ref&gt;[http://www.catholic-hierarchy.org/bishop/bdrandua.html Frederick Drandua Resigned As Bishop of Arua on August 19, 2009]&lt;/ref&gt;
+** Bishop [[Angelo Tarantino]], [[M.C.C.I.]] (1959.02.12 – 1984)
+
+==Notable people ==
+*[[Bernardo Sartori]], priest and missionary
+
+==See also==
+*[[Roman Catholicism in Uganda]]
+*[[Arua]]
+
+==External links==
+* [http://www.dioceseofarua.org/ Official Website of the Diocese of Arua]
+* [http://www.gcatholic.org/dioceses/diocese/arua0.htm GCatholic.org]
+* [http://www.catholic-hierarchy.org/diocese/darua.html Catholic Hierarchy]
+
+==References==
+{{reflist}}
+
+{{Arua District}}
+
+{{coord|3.0136|N|30.8970|E|source:wikidata|display=title}}
+
+{{DEFAULTSORT:Arua}}
+[[Category:Roman Catholic dioceses in Uganda]]
+[[Category:Religious organizations established in 1958]]
+[[Category:Roman Catholic dioceses and prelatures established in the 20th century]]
+[[Category:Arua District]]
+[[Category:Arua]]
+
+{{Uganda-stub}}
+{{Africa-RC-diocese-stub}}</text>
+      <sha1>a385n6c80cmyr39wxepakw8f91nbqj0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Roman Catholic Diocese of Moramanga</title>
+    <ns>0</ns>
+    <id>5151885</id>
+    <revision>
+      <id>541411146</id>
+      <parentid>459786887</parentid>
+      <timestamp>2013-03-01T03:26:38Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>6569922</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Migrating 4 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q872576]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1204">The ([[Roman Catholic]]) '''[[Diocese]] of [[Moramanga]]''' (''Dioecesis Moramanganus'') is located in the east of [[Madagascar]]. It is a suffragan diocese of the Ecclesiastical Province of the Archdiocese of Toamasina.
+
+The diocese was created on May 13, 2006 by splitting off the territory from the [[diocese of Ambatondrazaka]]. As its first bishop [[Gaetano Di Pierro]] [[S.C.I.]] was selected, who was previously auxiliary bishop of Ambatondrazaka. The cathedral of the diocese is the Sacred Heart of Jesus church in Moramanga.
+
+The diocese covers an area of 12,064 km², and borders the diocese of Ambatondrazaka to the north, the archdiocese of Toamasina to the east and south, and the archdiocese of Antananarivo to the west. It is subdivided into 3 [[parish]]es. 110,000 of the 348,000 people in the area belong to the Catholic Church.
+
+==External links==
+*[http://www.catholic-hierarchy.org/diocese/dmora.html Catholic-hierarchy.org]
+*[http://www.fides.org/aree/news/newsdet.php?idnews=7363&amp;lan=eng Vatican press release on the creation]
+
+{{coord missing|Madagascar}}
+
+{{DEFAULTSORT:Moramanga}}
+[[Category:Roman Catholic dioceses in Madagascar]]
+
+{{Madagascar-stub}}
+{{Africa-RC-diocese-stub}}</text>
+      <sha1>ke3ldt23u72nnb8qzwn47s0pv4mctzl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Salman Mosque</title>
+    <ns>0</ns>
+    <id>51147243</id>
+    <revision>
+      <id>845261766</id>
+      <parentid>829345672</parentid>
+      <timestamp>2018-06-10T15:55:14Z</timestamp>
+      <contributor>
+        <username>Chongkian</username>
+        <id>8766034</id>
+      </contributor>
+      <comment>remove parent category</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1116">{{Infobox religious building
+|image=Salman Mosque.jpg
+|image_size=250px
+|caption=
+|building_name=Salman Mosque
+|location=[[Djibouti (city)|Djibouti City]],&lt;br&gt;{{flag|Djibouti}}
+|geo=
+|religious_affiliation=[[Islam]]
+|region=
+|province=
+|functional_status=Active
+|website=
+|architect=
+|architecture_type=[[Mosque]]
+|architecture_style=[[Abbasid architecture|Abbasid]]
+|groundbreaking=
+|construction_cost=
+|year_completed=
+|capacity= 1,500
+|specifications=no
+|dome_quantity=
+|dome_height_outer=
+|dome_dia_outer=
+|minaret_quantity=2
+|minaret_height=
+|materials=
+}}
+
+'''Salman Mosque''' is a [[mosque]] in [[Djibouti (city)|Djibouti City]], [[Djibouti]].
+
+==Capacity==
+Salman Mosque has the capacity to accommodate up to 1,500 worshippers.
+
+==See also==
+* [[Religion in Djibouti]]
+* [[List of mosques in Africa]]
+* [[Islam in Djibouti]]
+
+==References==
+{{cite web|title=Secretary Kerry At Salman Mosque in Djibouti|url=https://allafrica.com/stories/201505080846.html|accessdate=2015}}
+
+{{Mosques in Djibouti}}
+
+[[Category:Mosques in Djibouti]]
+[[Category:Abbasid architecture]]
+
+
+{{Djibouti-stub}}
+{{Islam-country-stub}}</text>
+      <sha1>tje1fo1xumim9jkpmbdxykozassufh2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Schistosomiasis Control Initiative</title>
+    <ns>0</ns>
+    <id>33833748</id>
+    <revision>
+      <id>871179017</id>
+      <parentid>870924616</parentid>
+      <timestamp>2018-11-29T13:25:00Z</timestamp>
+      <contributor>
+        <username>Faceless Enemy</username>
+        <id>11510139</id>
+      </contributor>
+      <comment>Undid revision 870924616 by [[Special:Contributions/Ozzie10aaaa|Ozzie10aaaa]] ([[User talk:Ozzie10aaaa|talk]]) add logo back</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4083">{{Infobox company
+| name = Schistosomiasis Control Initiative
+| logo = File:Schistosomiasis Control Initiative logo.jpg
+| type = Non-profit
+| genre = [[Medical logistics]], supporting and evaluating treatment programmes against schistosomiasis and soil-transmitted helminthiasis.
+| foundation = {{Start date and age|2002}}
+| homepage = {{URL|www.schisto.org}}
+| location = [[Imperial College London]]
+| location_city = [[London]]
+| location_country = [[United Kingdom]]
+| area_served = Sub-Saharan Africa and Yemen
+| key_people = Professor Alan Fenwick OBE (Founder), Dr Wendy Harrison (Executive Director), Dr Lynsey Blair (Implementation Director), Dr Fiona Fleming (Monitoring, Evaluation &amp; Research Director), Najwa Al-Abdallah (Finance &amp; Operations Director)
+| num_employees = 28
+}}'''The Schistosomiasis Control Initiative (SCI)''', at Imperial College London, is a non-profit initiative that works with Ministries of Health in sub-Saharan African countries and Yemen. It supports and evaluates treatment programmes against [[schistosomiasis]] and [[Soil-transmitted helminthiasis|soil-transmitted helminthiasis (STH).]]
+
+These parasitic infections are part of a group called “Neglected Tropical Diseases”, which affect the poorest and most marginalised communities in the world. They can impair a child’s development, reduce school attendance and productivity, and even cause internal organ damage.
+
+Estimates suggest that over 1 billion people are infected by these diseases. However, treatment is safe, effective and can reverse the damaging effects of infections, and costs as little as £1 for three people.  In fact, the SCI has been recommended by the charity evaluator [https://www.givewell.org/ GiveWell], as one of the world’s most cost-effective non-profits to receive donations.
+
+The impact of SCI-supported treatment programmes is observed quickly. The number of people infected by these parasites can be reduced by up to 60% after the first round of treatment and sustained below 11% after two rounds of treatment.
+
+SCI continually conducts research to assess programme performance and investigate novel approaches to disease management. This ensures that control strategies are optimised and will ultimately lead to disease elimination.
+
+==History&lt;ref&gt;http://www.imperial.ac.uk/schistosomiasis-control-initiative/about&lt;/ref&gt;==
+In 2002, the Bill and Melinda Gates Foundations Global Health Programme granted a £20 million award to establish the SCI at Imperial College London. SCI assisted the Ministries of Health and Education to deliver treatment for schistosomiasis and soil-transmitted helminthiasis in 6 countries, targeting school-aged children and adults at high risk of infection.
+
+In 2006, the SCI was a founding partner of the [[Global Network for Neglected Tropical Diseases]] which promoted integration of control or elimination programmes against seven NTDs.
+
+By 2007, the SCI had facilitated delivery of approximately 40 million treatments of [[praziquantel]] against schistosomiasis, and many more deworming doses of [[albendazole]].
+
+In 2010, SCI expanded its reach after the award of the management of [http://www.imperial.ac.uk/schistosomiasis-control-initiative/our-work/projects/ ICOSA] - a programme funded by the Department for International Development (DFID). ICOSA delivered 203 million treatments against schistosomiasis and STH in 10 sub-Saharan African countries by December 2018.
+
+In April 2013, SCI announced that it had facilitated delivery of its [http://www.imperial.ac.uk/news/121788/imperial-group-reaches-milestone-tropical-disease/ 100 millionth treatment of praziquantel against schistosomiasis] thanks to funding from private donations which complemented the ICOSA award.
+
+By 2016, SCI had reached an annual delivery of over 50 million treatments for schistosomiasis and STH.
+
+==References==
+
+{{reflist}}
+
+
+{{Imperial College London}}
+
+[[Category:Public health organizations]]
+[[Category:Organizations established in 2002]]
+[[Category:Tropical diseases]]
+[[Category:International medical and health organizations]]</text>
+      <sha1>t40egzyix53brszzyxls5qy048xbjx8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sidama Liberation Front</title>
+    <ns>0</ns>
+    <id>54023675</id>
+    <revision>
+      <id>848495427</id>
+      <parentid>848495366</parentid>
+      <timestamp>2018-07-02T08:17:39Z</timestamp>
+      <contributor>
+        <username>CentreLeftRight</username>
+        <id>23551833</id>
+      </contributor>
+      <comment>nowrap template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2824">{{Infobox war faction
+|name = Sidama Liberation Front
+|native_name =
+|native_name_lang =
+|war =
+|image = [[File:Flag of the Sidama Liberation Front.png|200px|border]]
+|caption = Flag of the Sidama Liberation Front
+|active = 1999 – present&lt;ref name="TRAC"&gt;{{cite web|title=Sidama Liberation Front (SLF) {{!}} Terrorist Groups {{!}} TRAC|url=https://www.trackingterrorism.org/group/sidama-liberation-front-slf|website=www.trackingterrorism.org|accessdate=12 May 2017|language=en}}&lt;/ref&gt;
+|leaders =
+|ideology = [[Sidama people|Sidama]] [[self-determination]]
+|clans =
+|headquarters =
+|area = [[Sidama Zone]], [[Southern Nations, Nationalities, and Peoples' Region|SNNPR]], [[Ethiopia]]
+|strength =
+|allies = {{flagicon image|Flag of Ogaden National Liberation Front(2).svg}} [[Ogaden National Liberation Front|ONLF]]&lt;ref name="PR1217"&gt;{{cite web|title=Press Release - Sidama Liberation Front|url=http://www.sidamanationalliberationfront.org/Press%20Release.html|accessdate=9 December 2017}}&lt;/ref&gt;&lt;br&gt;{{flagicon image|Flag of the Oromo Liberation Front.svg}} [[Oromo Liberation Front|OLF]]&lt;ref name="HoA"&gt;{{cite web|title=The Oromo and Sidama Peoples’ Historical and Neighbourly Relation Cannot Be Dented by the TPLF Plots {{!}} hornofafrica.de|url=http://hornofafrica.de/the-oromo-and-sidama-peoples-historical-and-neighbourly-relation-cannot-be-dented-by-the-tplf-plots/|website=hornofafrica.de|accessdate=17 May 2017}}&lt;/ref&gt;&lt;br&gt;{{nowrap|{{flagdeco|Somalia}} [[Somali Democratic Republic|Somalia]] (until 1991){{citation needed|date=June 2018}}}}
+|opponents = {{flag|Ethiopia}}
+|battles =
+|website = {{Official website|www.sidamanationalliberationfront.org/}}
+}}
+
+The '''Sidama Liberation Front''' ([[Abbreviation|abbreviated]] '''SLF''') is an active rebel group in the [[Sidama Zone]] in [[Ethiopia]].&lt;ref name="TRAC" /&gt;&lt;ref&gt;{{cite web|title=UNPO: Asmara Hosts the First Congress of PAFD|url=http://unpo.org/article/19049|website=unpo.org|accessdate=12 May 2017|language=en}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=UNPO: Urgency of Addressing the Plight of Women Belonging to Vulnerable Groups in Ethiopia Highlighted at UNPO EP Conference|url=http://unpo.org/article/19975|website=unpo.org|accessdate=12 May 2017|language=en}}&lt;/ref&gt; It is allied with two other rebel groups, the [[Ogaden National Liberation Front]] and the [[Oromo Liberation Front]],&lt;ref name="PR1217" /&gt; and is fighting against the government of Ethiopia for the [[self-determination]] of the [[Sidama people]].&lt;ref&gt;{{cite web|title=About Sidama Liberation Front|url=http://sidamanationalliberationfront.org/About%20SLF.html|accessdate=9 December 2017}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+[[Category:Guerrilla organizations]]
+[[Category:National liberation movements in Africa]]
+[[Category:Rebel groups in Ethiopia]]
+
+
+{{Paramilitary-org-stub}}
+{{Ethiopia-stub}}</text>
+      <sha1>tmrdis3loyl6p3yxa4rkbifc31oab5d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>TV3CAT</title>
+    <ns>0</ns>
+    <id>21256256</id>
+    <revision>
+      <id>853082494</id>
+      <parentid>853082433</parentid>
+      <timestamp>2018-08-02T09:30:55Z</timestamp>
+      <contributor>
+        <ip>180.190.54.36</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2586">{{Infobox TV channel|
+ name            = TV3CAT|
+ logosize        = 125px|
+ logofile        = TV3CAT.svg|
+ network type    = [[DVB-S]], [[DVB-C]] and [[DVB-T]]|
+ launch          = 1995|
+ owner           = [[Televisió de Catalunya]]|
+ country         = Spain|
+ language        = [[Catalan language|Catalan]]|
+ broadcast area  = |Catalonia, Worldwide|
+ former names    = Televisió de Catalunya Internacional|
+ web             = [http://www.tvci.cat/ www.tvci.cat]|
+ sister names    = |
+ terr serv 1     = [[Digital terrestrial television|DTTV]]|
+ terr chan 1     = [[Balearic Islands]]: 26 UHF|
+ sat serv 1      = [[Astra 19.2°E|Astra]]|
+ sat chan 1      = 11685 V|
+ sat serv 2      = [[Hispasat]]|
+ sat chan 2      = 11811 V|
+ sat serv 3      = [[Hispasat]]|
+ sat chan 3      = 12052 V|
+ sat serv 4      = [[Galaxy (satellite)|Galaxy]]|
+ sat chan 4      = 11800 H|
+ sat serv 5      = [[Digital+]]|
+ sat chan 5      = Channel 93|
+ cable serv 1    = [[ONO (Spain)|ONO]]|
+ cable chan 1    = Channel 996|
+ cable serv 2    = [[R Cable|R]]|
+ cable chan 2    = Channel 82|
+ adsl serv 1     = [[Movistar TV]]|
+ adsl chan 1     = Channel 180|
+ adsl serv 2     = [[Orange TV]]|
+ adsl chan 2     = Channel 88|
+ adsl serv 3     = [[Jazztelia TV]]|
+ adsl chan 3     = Channel 71|
+ online serv 1   = Official Website|
+ online chan 1   = [http://www.tv3.cat/directes/tvi/ TV3CAT]
+|}}
+
+'''TV3 CAT''' was, until 29 May 2009, named Televisió de Catalunya Internacional. It was the international channel of Catalonia,  Televisió de Catalunya. It is part of Corporació Catalana de Mitjans Audiovisuals (CCMA). That channel was beaming to Europe through Astra satellite and America through Hispasat satellite. TV3CAT belonged to a group of channels where it was found programs from TV3, El 33, Canal Super3, Esport3 and 3/24.
+
+It started to beam, Sunday 10 of September 1995. Since 1 May 2012, it stopped broadcasting on satellite television due to political financial cuts. The station claims it will be continue broadcasting via the internet and through cable and ADSL in Spain.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.tvci.cat/ Official Website]{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}
+
+{{DEFAULTSORT:Tv3cat}}
+[[Category:Televisió de Catalunya]]
+[[Category:Catalan-language television stations]]
+[[Category:Television stations in Catalonia]]
+[[Category:Television channels and stations established in 1995]]
+[[Category:1995 establishments in Catalonia]]
+[[Category:External services (broadcasting)]]
+
+
+{{Catalonia-stub}}
+{{spain-tv-station-stub}}</text>
+      <sha1>qbbod56z3y3zw85imu6a5595mlz2ndd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Devil (Molnár play)</title>
+    <ns>0</ns>
+    <id>28332573</id>
+    <revision>
+      <id>847804521</id>
+      <parentid>847803466</parentid>
+      <timestamp>2018-06-27T21:59:47Z</timestamp>
+      <contributor>
+        <username>WFinch</username>
+        <id>2477977</id>
+      </contributor>
+      <comment>copyedits and cleanup</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="856">{{Unreferenced|date=February 2015}}
+{{italic title}}
+
+{{Expand Hungarian|topic=culture|date=August 2010|Az ördög (dráma)}}
+'''''The Devil''''' ({{lang-hu|Az ördög}}) is a Hungarian play by [[Ferenc Molnár]], first produced in 1907. It was [[The Devil (1918 film)|adapted in 1918]] for a Hungarian film directed by [[Michael Curtiz]]. [[James Young (director)|James Young]] directed an English-language version, ''[[The Devil (1921 film)|The Devil]]'' (1921), in which [[George Arliss]] reprised his Broadway stage success.
+
+==External links==
+{{Commons category|The Devil (Molnár play)}}
+* {{IBDB show | 3055 | The Devil}}
+* {{Internet Archive|id=azrdgvigjt00moln|name=''Az ördög'' (1907)}}
+
+{{DEFAULTSORT:Devil, The}}
+[[Category:1907 plays]]
+[[Category:Hungarian plays]]
+[[Category:Plays by Ferenc Molnár]]
+
+
+{{1900s-play-stub}}
+{{Hungary-stub}}</text>
+      <sha1>plk6vikeream5f7ol0go2khoh9o51hj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Egyptian Starch, Yeast and Detergents Co.</title>
+    <ns>0</ns>
+    <id>41051020</id>
+    <revision>
+      <id>859774304</id>
+      <parentid>858802108</parentid>
+      <timestamp>2018-09-16T06:28:39Z</timestamp>
+      <contributor>
+        <username>PrimeBOT</username>
+        <id>29463730</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:Bots/Requests_for_approval/PrimeBOT_28|Task 28]] - removal of deprecated parameters from [[Template:infobox company]] (+ genfixes)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1963">{{Orphan|date=November 2013}}
+{{Infobox company
+| name             = The Egyptian Starch, Yeast and Detergents &lt;br/&gt; المصرية للنشا و الخميرة و المنظفات
+| logo             = [[Image:Egy SYD Logo.png#file|120px]]
+| type             = [[Government-owned corporation]]
+| foundation       = 1927
+| location_city    = 21 Abu Soliman Street, El Siouf, [[Alexandria Governorate|Alexandria]]
+| location_country = [[Egypt]] 
+| key_people       = Mohamed Nabeel (Chairman &amp; Ceo.)
+| industry         = [[Detergents]], [[Food industry]]
+| products         = Rice Starch product, Yeast products and Detergents products
+| owner            = Holding company for food industries
+| num_employees    = 1187 Employees
+| divisions        = Starch Factories, Yeast Factories and Detergents Factories.
+| homepage         = {{Official website|http://www.egysyd.com/}}
+}}
+
+'''The Egyptian Starch, Yeast and Detergents''' is an [[Egypt]]ian company specializing in producing of [[Rice]] [[Starch]], [[Baking]] [[Yeast]] and Detergents. It was established in 1927 during Egypt’s nationalization program as The Egyptian Starch and Yeast, which has been the country’s main provider with 86% of market share of [[baking]] [[yeast]], [[starch]] and confectionery at that time.
+
+==References==
+{{reflist}}
+* [http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=20881214 Bloomberg Businessweek]
+* [http://eg.kompass.com/live/en/EG010135/egyptian-starch-yeast-detergents.html#.UoEiOnBmyo0 Kompass]
+
+==External links==
+* [http://www.egysyd.com/ Official website]
+
+{{-}}
+
+{{DEFAULTSORT:Egyptian Starch, Yeast and Detergents Co}}
+[[Category:Food companies of Egypt]]
+[[Category:Food and drink companies established in 1927]]
+[[Category:Chemical companies established in 1927]]
+[[Category:1927 establishments in Egypt]]
+[[Category:Government-owned companies of Egypt]]
+[[Category:Alexandria]]
+
+
+{{food-company-stub}}
+{{Egypt-company-stub}}</text>
+      <sha1>eluekrnoizvvoymmaa73i3ti4kfxs1t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Garden (1995 film)</title>
+    <ns>0</ns>
+    <id>21072520</id>
+    <revision>
+      <id>835896210</id>
+      <parentid>835896123</parentid>
+      <timestamp>2018-04-11T12:36:49Z</timestamp>
+      <contributor>
+        <username>Bedivere.cs</username>
+        <id>10119678</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3981">{{use dmy dates|date=October 2015}}
+{{Infobox film
+| name           = The Garden (Záhrada) 
+| director       = [[Martin Šulík]]
+| writer         = Marek Leščák&lt;br /&gt;Ondrej Šulaj&lt;br /&gt;Martin Šulík
+| starring       = [[Marián Labuda]]&lt;br /&gt;[[Roman Luknár]]&lt;br /&gt;[[Zuzana Šulajová]]&lt;br /&gt;[[Jana Švandová]]&lt;br /&gt;Katarína Vrzalová
+| music          = [[Vladimír Godár]]
+| cinematography = [[Martin Štrba]]
+| distributor    = Action Gitanes
+| released       = {{Film date|1995|6|15|df=y}}
+| runtime        = 99 minutes
+| country        = Slovakia&lt;br /&gt;France&lt;br&gt;Czech Republic&lt;ref name="Zahrada - InFilm"&gt;{{cite web|last1=s.r.o.|first1=LaTaupe|title=Zahrada|url=http://www.infilm.cz/cs/filmy/zahrada.html|website=www.infilm.cz|accessdate=11 April 2018|language=cs}}&lt;/ref&gt;
+| language       = Slovak
+}}
+'''''The Garden''''' ({{lang-sk|'''Záhrada'''}}) is a 1995 Slovak feature film in cooperation with French Artcam International and Czech InFilm Praha directed by [[Martin Šulík]]. The film is a poetic tale of Jakub, a man in his early 30s. It reflects the relationships and desires of Jakub in the idyllic surroundings of his grandfather's garden. The film was selected as the Slovak entry for the [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]] at the [[68th Academy Awards]], but was not accepted as a nominee.&lt;ref&gt;Margaret Herrick Library, Academy of Motion Picture Arts and Sciences&lt;/ref&gt;&lt;ref name="68thSubmissions"&gt;{{Cite web|url=http://www.filmfestivals.com/news/newsl1.htm |title=41 to Compete for Foreign Language Oscar Nominations |accessdate=4 October 2015 |work=FilmFestivals.com |deadurl=yes |archiveurl=https://web.archive.org/web/20120407001102/http://www.filmfestivals.com/news/newsl1.htm |archivedate=7 April 2012 }}&lt;/ref&gt;
+
+==Plot==
+Jakub is a daydreamer in his early 30s and is still living with his father. The father is tired of Jakub's idleness and throws him out of the flat. He tells Jakub to sell the old garden of his grandfather and to buy his own flat. Jakub retires into the neglected garden and retreats into the worn garden house from the world and from his problems. The garden turns out to be a magical place full of surprises and mysteries. Jakub stumbles across his grandfather’s journal which is written in reverse script. He finds a map leading him to an old bottle of slivovice hidden years ago. Now curious Jakub must solve the mysteries of his grandfather’s garden. He meets Helena, a young girl Jakub’s grandfather taught to also write backwards. Strange things happen in the garden, and some of them do indeed seem like miracles. Amid the eccentric events, young Helena teaches Jakub to appreciate the delicate mysteries of life. In the end Jakub loses all his possessions but finds his peace.
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|- 
+| [[Marián Labuda]] || Jakub's father
+|- 
+| [[Roman Luknár]] || Jakub
+|-
+| [[Zuzana Šulajová]] || Helena
+|-
+| [[Jana Švandová]] || Tereza
+|-
+| Katarína Vrzalová || Helena's mother
+|}
+
+==Reception==
+''The Garden'' is one of the most recognised films of post communist [[Slovakia]]. It is especially popular in Slovakia and the [[Czech Republic]]. It won the [[Special Jury Prize (Karlovy Vary IFF)|Special Jury Prize]] at the 40th [[Karlovy Vary International Film Festival]] in 1995, and several [[Czech Lion]]s in 1996.
+
+==See also==
+* [[List of submissions to the 68th Academy Awards for Best Foreign Language Film]]
+* [[List of Slovak submissions for the Academy Award for Best Foreign Language Film]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb title|0115040|The Garden}}
+
+{{CzechLionBestFilm}}
+
+{{DEFAULTSORT:Garden}}
+[[Category:1995 films]]
+[[Category:1995 in Slovakia]]
+[[Category:Films directed by Martin Šulík]]
+[[Category:Czech films]]
+[[Category:French films]]
+[[Category:Slovak films]]
+[[Category:Slovak-language films]]
+[[Category:Czech Lion Awards winners (films)]]
+{{Slovakia-film-stub}}</text>
+      <sha1>69d5trwhgnjp4qfem19apcjevqk8z85</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>USA-38</title>
+    <ns>0</ns>
+    <id>36382662</id>
+    <revision>
+      <id>850142062</id>
+      <parentid>780175390</parentid>
+      <timestamp>2018-07-13T22:07:54Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4775">{{Infobox spaceflight
+| name                  = USA-38
+| image                 = 
+| image_caption         = 
+| insignia              =
+
+&lt;!--Basic details--&gt;
+| mission_type          = [[Navigation satellite|Navigation]]
+| operator              = [[US Air Force]]
+| COSPAR_ID             = 1989-044A
+| SATCAT                = 20061
+| mission_duration      = 7.5 years (planned)&lt;ref name="GSP"/&gt;
+
+&lt;!--Spacecraft properties--&gt;
+| spacecraft            = 
+| spacecraft_type       = [[GPS Block II]]&lt;ref name="GSP"/&gt;
+| manufacturer          = [[Rockwell International|Rockwell]]&lt;ref name="GSP"/&gt;
+| launch_mass           = {{convert|840|kg}}&lt;ref name="NSSDC"/&gt;
+| dimensions            = &lt;!--body dimensions and solar array span--&gt;
+| power                 = &lt;!--end-of-life power, in watts--&gt;
+
+&lt;!--Launch details--&gt;
+| launch_date           = {{start-date|10 June 1989, 22:19|timezone=yes}}&amp;nbsp;UTC
+| launch_rocket         = {{nowrap|[[Delta II|Delta II 6925]],&lt;ref name="LL"/&gt;}} D185&lt;ref name="LL"/&gt;
+| launch_site           = [[Cape Canaveral Air Force Station|Cape Canaveral]] [[Cape Canaveral Air Force Station Space Launch Complex 17|LC-17A]]&lt;ref name="LL"/&gt;
+| entered_service       = &lt;!--date on which the spacecraft entered service, if it did not do so immediately after launch--&gt;
+
+&lt;!--end of mission--&gt;
+| disposal_type         = &lt;!--Whether the spacecraft was deorbited, decommissioned, placed in a graveyard orbit, etc--&gt;
+| deactivated           = {{end-date|12 May 2004}}
+
+&lt;!--orbit parameters--&gt;
+| orbit_epoch           = 
+| orbit_reference       = [[geocentric orbit|Geocentric]]
+| orbit_regime          = [[Medium Earth orbit|Medium Earth]]&lt;br/&gt;&lt;small&gt;([[Semi-synchronous orbit|Semi-synchronous]])&lt;/small&gt;
+| orbit_periapsis       = {{convert|19967|km}}&lt;ref name="satcat"/&gt;
+| orbit_apoapsis        = {{convert|20395|km}}&lt;ref name="satcat"/&gt;
+| orbit_inclination     = 54.5&amp;nbsp;degrees&lt;ref name="satcat"/&gt;
+| orbit_period          = 717.92&amp;nbsp;minutes&lt;ref name="satcat"/&gt;
+| apsis                 = gee
+}}
+'''USA-38''', also known as '''GPS II-2''' and '''GPS SVN-13''', was an [[United States|American]] [[navigation satellite]] which formed part of the [[Global Positioning System]]. It was the second of nine [[GPS Block II|Block II]] GPS satellites to be launched, which were the first operational GPS satellites to be launched.
+
+USA-38 was launched at 22:19 UTC on 10 June 1989, atop a [[Delta II]] carrier rocket, flight number D185, flying in the 6925 configuration.&lt;ref name="LL"&gt;{{cite web|url=http://planet4589.org/space/log/launchlog.txt|title=Launch Log|publisher=Jonathan's Space Page|first=Jonathan|last=McDowell|accessdate=10 July 2012}}&lt;/ref&gt; The launch took place from [[Cape Canaveral Air Force Station Launch Complex 17|Launch Complex 17A]] at the [[Cape Canaveral Air Force Station]],&lt;ref name="lvdb"&gt;{{cite web|url=http://planet4589.org/space/lvdb/list2.html|title=Launch List|publisher=Jonathan's Space Page|work=Launch Vehicle Database|first=Jonathan|last=McDowell|accessdate=10 July 2012}}&lt;/ref&gt; and placed USA-38 into a transfer orbit. The satellite raised itself into [[medium Earth orbit]] using a [[Star-37XFP]] [[apogee motor]].&lt;ref name="GSP"&gt;{{cite web|url=http://space.skyrocket.de/doc_sdat/navstar-2.htm|title=GPS-2 (Navstar-2)|first=Gunter|last=Krebs|work=Gunter's Space Page|accessdate=10 July 2012}}&lt;/ref&gt;
+
+On 11 July 1989, USA-38 was in an orbit with a [[apsis|perigee]] of {{convert|19967|km}}, an [[apsis|apogee]] of {{convert|20395|km}}, a [[orbital period|period]] of 717.92 minutes, and 54.5 degrees of [[inclination]] to the equator.&lt;ref name="satcat"&gt;{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|publisher=Jonathan's Space Page|first=Jonathan|last=McDowell|accessdate=10 July 2012}}&lt;/ref&gt; It operated in slot 3 of plane B of the GPS constellation.&lt;ref&gt;{{cite web|url=http://www.spaceandtech.com/spacedata/constellations/navstar-gps_consum.shtml|title=NAVSTAR GPS - Summary|publisher=Space and Tech|accessdate=10 July 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120615061419/http://www.spaceandtech.com/spacedata/constellations/navstar-gps_consum.shtml|archivedate=15 June 2012|df=}}&lt;/ref&gt; The satellite had a mass of {{convert|840|kg}}, and generated 710 watts of power.&lt;ref name="NSSDC"&gt;{{cite web|url=http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1989-044A|title=Navstar 2-02|publisher=US National Space Science Data Center|accessdate=10 July 2012}}&lt;/ref&gt; It had a design life of 7.5 years,&lt;ref name="GSP"/&gt; and ceased operations on 12 May 2004.
+
+==References==
+{{reflist}}
+
+{{Portal|Spaceflight}}
+{{GPS satellites}}
+
+{{Orbital launches in 1989}}
+
+[[Category:GPS satellites]]
+[[Category:USA satellites]]
+[[Category:Spacecraft launched in 1989]]
+
+
+{{US-spacecraft-stub}}</text>
+      <sha1>4evtbl23jwb61a1svfr8bybs5xu9cau</sha1>
+    </revision>
+  </page>
+</mediawiki>

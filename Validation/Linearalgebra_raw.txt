@@ -1,0 +1,517 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Linear algebra</title>
+    <ns>0</ns>
+    <id>18422</id>
+    <revision>
+      <id>870467240</id>
+      <parentid>870466514</parentid>
+      <timestamp>2018-11-25T00:52:48Z</timestamp>
+      <contributor>
+        <username>Anita5192</username>
+        <id>13220696</id>
+      </contributor>
+      <comment>Undid revision 870466514 by [[Special:Contributions/92.53.59.15|92.53.59.15]] ([[User talk:92.53.59.15|talk]])Reverted unexplained edit.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="52969">{{Distinguish|Elementary algebra}}
+[[File:Linear subspaces with shading.svg|thumb|250px|right|In the three-dimensional [[Euclidean space]], planes represent solutions of linear equations and their intersections represent the common solutions]]
+
+'''Linear algebra''' is the branch of [[mathematics]] concerning [[linear equation]]s such as 
+:&lt;math&gt;a_1x_1+\cdots +a_nx_n=b,&lt;/math&gt;
+[[linear map|linear functions]] such as
+:&lt;math&gt;(x_1, \ldots, x_n) \mapsto a_1x_1+\ldots +a_nx_n,&lt;/math&gt;
+and their representations through [[matrix (mathematics)|matrices]] and [[vector space]]s.&lt;ref&gt;{{Citation | last = Banerjee | first = Sudipto | last2 = Roy | first2 = Anindya | date = 2014 | title = Linear Algebra and Matrix Analysis for Statistics | series = Texts in Statistical Science | publisher = Chapman and Hall/CRC | edition =  1st | isbn =  978-1420095388}}&lt;/ref&gt;&lt;ref&gt;{{Citation|last=Strang|first=Gilbert|date=July 19, 2005|title=Linear Algebra and Its Applications|publisher=Brooks Cole|edition=4th|isbn=978-0-03-010567-8}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Weisstein|first=Eric|title=Linear Algebra|url=http://mathworld.wolfram.com/LinearAlgebra.html|work=From MathWorld--A Wolfram Web Resource.|publisher=Wolfram|accessdate=16 April 2012}}&lt;/ref&gt;
+
+Linear algebra is central to almost all areas of mathematics. For instance, linear algebra is fundamental in modern presentations of [[geometry]], including for defining basic objects such as [[line (geometry)|lines]], [[plane (geometry)|planes]] and [[rotation (mathematics)|rotations]]. Also, [[functional analysis]] may be basically viewed as the application of linear algebra to spaces of functions. Linear algebra is also used in most sciences and [[engineering]] areas, because it allows [[mathematical model|modeling]] many natural phenomena, and efficiently computing with such models. For [[nonlinear system]]s, which cannot be modeled with linear algebra, linear algebra is often used as a first-order approximation.
+
+==History==
+The procedure for solving simultaneous linear equations now called [[Gaussian elimination]] appears in the ancient Chinese mathematical text [[Rod calculus#System of linear equations|Chapter Eight: ''Rectangular Arrays'']] of ''[[The Nine Chapters on the Mathematical Art]]''. Its use is illustrated in eighteen problems, with two to five equations. &lt;ref&gt;{{Cite book|last=Hart|first=Roger|title=The Chinese Roots of Linear Algebra|publisher=[[JHU Press]]|year=2010|url=https://books.google.com/books?id=zLPm3xE2qWgC&amp;printsec=frontcover}}&lt;/ref&gt;
+
+[[Systems of linear equations]] arose in Europe with the introduction in 1637 by [[René Descartes]] of [[coordinates]] in [[geometry]]. In fact, in this new geometry, now called [[Cartesian geometry]], lines and planes are represented by linear equations, and computing their intersections amounts to solving systems of linear equations.
+
+The first systematic methods for solving linear systems used [[determinant]]s, first considered by [[Gottfried Wilhelm Leibniz|Leibniz]] in 1693. In 1750, [[Gabriel Cramer]] used them for giving explicit solutions of linear systems, now called [[Cramer's Rule]]. Later, [[Gauss]] further described the method of elimination, which was initially listed as an advancement in [[geodesy]].&lt;ref name="Vitulli, Marie"&gt;{{cite web|last=Vitulli|first=Marie|authorlink= Marie A. Vitulli |title=A Brief History of Linear Algebra and Matrix Theory|url=http://darkwing.uoregon.edu/~vitulli/441.sp04/LinAlgHistory.html|work=Department of Mathematics|publisher=University of Oregon|archiveurl=https://web.archive.org/web/20120910034016/http://darkwing.uoregon.edu/~vitulli/441.sp04/LinAlgHistory.html|archivedate=2012-09-10| accessdate=2014-07-08}}&lt;/ref&gt;
+
+In 1844 [[Hermann Grassmann]] published his "Theory of Extension" which included foundational new topics of what is today called linear algebra. In 1848, [[James Joseph Sylvester]] introduced the term ''matrix'', which is Latin for ''womb''. 
+
+Linear algebra grew with ideas noted in the [[complex plane]]. For instance, two numbers ''w'' and ''z'' in ℂ have a difference ''w'' – ''z'', and the line segments &lt;math&gt;\overline{w z} \ \ \text{and}\ \  \overline{0(w-z)}&lt;/math&gt; are of the same length and direction. The segments are [[equipollence (geometry)|equipollent]]. The four-dimensional system ℍ of [[quaternion]]s was started in 1843. The term ''vector'' was introduced as ''v'' = ''x'' i + ''y'' j + ''z'' k representing a point in space. The quaternion difference ''p'' – ''q'' also produces a segment equipollent to &lt;math&gt;\overline{p q} .&lt;/math&gt;  
+Other [[hypercomplex number]] systems also used the idea of a linear space with a [[basis (linear algebra)|basis]].
+
+[[Arthur Cayley]] introduced [[matrix multiplication]]  and the [[inverse matrix]] in 1856, making possible the [[general linear group]]. The mechanism of [[group representation]] became available for describing complex and hypercomplex numbers. Crucially, Cayley used a single letter to denote a matrix, thus treating a matrix as an aggregate object. He also realized the connection between matrices and determinants, and wrote "There would be many things to say about this theory of matrices which should, it seems to me, precede the theory of determinants".&lt;ref name="Vitulli, Marie"/&gt;
+
+[[Benjamin Peirce]] published his ''Linear Associative Algebra'' (1872), and his son [[Charles Sanders Peirce]] extended the work later.&lt;ref&gt;[[Benjamin Peirce]] (1872) ''Linear Associative Algebra'', lithograph, new edition with corrections, notes, and an added 1875 paper by Peirce, plus notes by his son [[Charles Sanders Peirce]], published in the ''American Journal of Mathematics'' v. 4, 1881, Johns Hopkins University, pp.&amp;nbsp;221–226, ''Google'' [https://books.google.com/books?id=LQgPAAAAIAAJ&amp;pg=PA221 Eprint] and as an extract, D. Van Nostrand, 1882, ''Google'' [https://books.google.com/books?id=De0GAAAAYAAJ&amp;printsec=frontcover Eprint].&lt;/ref&gt;
+
+The [[telegraph]] required an explanatory system, and the 1873 publication of [[A Treatise on Electricity and Magnetism]] instituted a [[field theory (physics)|field theory]] of forces and required [[differential geometry]] for expression. Linear algebra is flat differential geometry and serves in tangent spaces to [[manifold]]s. Electromagnetic symmetries of spacetime are expressed by the [[Lorentz transformation]]s, and much of the history of linear algebra is the [[history of Lorentz transformations]].
+
+The first modern and more precise definition of a vector space was introduced by [[Peano]] in 1888;&lt;ref name="Vitulli, Marie"/&gt; by 1900, a theory of linear transformations of finite-dimensional vector spaces had emerged. Linear algebra took its modern form in the first half of the twentieth century, when many ideas and methods of previous centuries were generalized as [[abstract algebra]]. The development of computers led to increased research in efficient [[algorithm]]s for Gaussian elimination and matrix decompositions, and linear algebra became an essential tool for modelling and simulations.&lt;ref name="Vitulli, Marie"/&gt;
+
+See also {{slink|Determinant|History}} and {{slink|Gaussian elimination|History}}.
+
+==Vector spaces==
+{{Main|Vector space}}
+Until 19th century, linear algebra was introduced through [[systems of linear equations]] and [[matrix (mathematics)|matrices]]. In modern mathematics, the presentation through ''vector spaces'' is generally preferred, since it is more synthetic, more general (not limited to the finite-dimensional case), and conceptually simpler, although more abstract.
+
+A vector space over a [[field (mathematics)|field]] {{math|''F''}} (often the field of the [[real number]]s) is a [[Set (mathematics)|set]] {{math|''V''}} equipped with two [[binary operation]]s satisfying the following [[axiom]]s.  
+[[element (mathematics)|Elements]] of {{math|''V''}} are called ''vectors'', and elements of ''F'' are called ''scalars''. The first operation, ''[[vector addition]]'', takes any two vectors {{math|''v''}} and {{math|''w''}} and outputs a third vector {{math|''v'' + ''w''}}. The second operation, ''[[scalar multiplication]]'', takes any scalar {{math|''a''}} and any vector {{math|''v''}} and outputs a new {{nowrap|vector {{math|''av''}}}}. The axioms that addition and scalar multiplication must satisfy are the following (in the list below, {{math|''u'', ''v''}} and {{math|''w''}} are arbitrary elements of {{math|''V''}}, and {{math|''a''}} and {{math|''b''}} are arbitrary scalars in the field {{math|''F''}}.&lt;ref&gt;{{Harvard citations|last=Roman|year=2005|nb=yes|loc=ch. 1, p. 27}}&lt;/ref&gt;
+
+{| border="0" style="width:100%;"
+|-
+| '''Axiom''' ||'''Signification'''
+|-
+| [[Associativity]] of addition || {{math|1=''u'' + (''v'' + ''w'') = (''u'' + ''v'') + ''w''}}
+|- style="background:#F8F4FF;"
+| [[Commutativity]] of addition || {{math|1=''u'' + ''v'' = ''v'' + ''u''}}
+|-
+| [[Identity element]] of addition || There exists an element {{math|0}} in {{math|''V''}}, called the ''[[zero vector]]'' (or simply ''zero''), such that {{math|1=''v'' + 0 = ''v''}} for all {{math|''v''}} in {{math|''V''}}.
+|- style="background:#F8F4FF;"
+| [[Inverse element]]s of addition || For every {{math|''v''}} in {{math|''V''}}, there exists an element {{math|−''v''}} in {{math|''V''}}, called the ''[[additive inverse]]'' of {{math|''v''}}, such that {{math|1=''v'' + (−''v'') = 0}}
+|-
+| [[Distributivity]] of scalar multiplication with respect to vector addition  || {{math|1=''a''(''u'' + ''v'') = ''au'' + ''av''}}
+|- style="background:#F8F4FF;"
+| Distributivity of scalar multiplication with respect to field addition || {{math|1=(''a'' + ''b'')''v'' = ''av'' + ''bv''}}
+|-
+| Compatibility of scalar multiplication with field multiplication || {{math|1=''a''(''bv'') = (''ab'')''v''}} &lt;ref group=nb&gt;This axiom is not asserting the associativity of an operation, since there are two operations in question, scalar multiplication: ''bv''; and field multiplication: ''ab''.&lt;/ref&gt;
+|- style="background:#F8F4FF;"
+| Identity element of scalar multiplication || {{math|1=1''v'' = ''v''}}, where {{math|1}} denotes the [[multiplicative identity]] of {{mvar|F}}.
+|}
+
+The first four axioms mean that {{math|''V''}} is an [[abelian group]] under addition.
+
+Elements of a vector space may have various nature; for example, they can be [[sequence]]s, [[function (mathematics)|functions]], [[polynomial ring|polynomials]] or [[matrix (mathematics)|matrices]]. Linear algebra is concerned with properties common to all vector spaces.
+
+===Linear maps===
+{{main|Linear map}}
+'''Linear maps''' are [[map (mathematics)|mappings]] between vector spaces that preserve the vector-space structure. Given two vector spaces {{math|''V''}} and {{math|''W''}} over a field {{mvar|F}}, a linear map (also called, in some contexts, linear transformation, linear mapping or linear operator) is a [[map (mathematics)|map]]
+
+: &lt;math&gt; T:V\to W &lt;/math&gt;
+
+that is compatible with addition and scalar multiplication, that is
+
+: &lt;math&gt; T(u+v)=T(u)+T(v), \quad T(av)=aT(v) &lt;/math&gt;
+
+for any vectors {{math|''u'',''v''}} in {{math|''V''}} and scalar {{math|''a''}} in {{mvar|F}}.
+
+This implies that for any vectors {{math|''u'', ''v''}} in {{math|''V''}} and scalars {{math|''a'', ''b''}} in {{mvar|F}}, one has
+
+: &lt;math&gt;T(au+bv)=T(au)+T(bv)=aT(u)+bT(v) &lt;/math&gt;
+
+When a [[bijective]] linear map exists between two vector spaces (that is, every vector from the second space is associated with exactly one in the first), the two spaces are [[isomorphic]]. Because an isomorphism preserves linear structure, two isomorphic vector spaces are "essentially the same" from the linear algebra point of view, in the sense that they cannot be distinguished by using vector space properties. An essential question in linear algebra is testing whether a linear map is an isomorphism or not, and, if it is not an isomorphism, finding its [[Range (mathematics)|range]] (or image) and the set of elements that are mapped to the zero vector, called the [[Kernel (linear operator)|kernel]] of the map. All these questions can be solved by using [[Gaussian elimination]] or some variant of this [[algorithm]].
+
+===Subspaces, span, and basis===
+{{main|Linear subspace|Linear span|Basis (linear algebra)}}
+The study of subsets of vector spaces that are themselves vector spaces for the induced operations is fundamental, similarly as for many mathematical structures. These subsets are called [[linear subspace]]s. More precisely, a linear subspace of a vector space {{mvar|V}} over a field {{mvar|F}} is a [[subset]] {{mvar|W}} of {{mvar|V}} such that {{math|''u'' + ''v''}} and {{math|''au''}} are in {{mvar|W}}, for every {{mvar|u}}, {{mvar|v}} in {{mvar|W}}, and every {{mvar|a}} in {{mvar|F}}. (These conditions suffices for implying that {{mvar|W}} is a vector space.)
+
+For example, the [[image (function)|image]] of a linear map, and the [[inverse image]] of 0 by a linear map (called [[kernel (linear algebra)|kernel]] or [[null space]]) are linear subspaces.
+
+Another important way of forming a subspace is to consider [[linear combination]]s of a set {{mvar|S}} of vectors: the set of all sums 
+: &lt;math&gt; a_1 v_1 + a_2 v_2 + \cdots + a_k v_k,&lt;/math&gt;
+where {{math|''v''&lt;sub&gt;1&lt;/sub&gt;, ''v''&lt;sub&gt;2&lt;/sub&gt;, ..., ''v&lt;sub&gt;k&lt;/sub&gt;''}} are in {{mvar|V}}, and {{math|''a''&lt;sub&gt;1&lt;/sub&gt;, ''a''&lt;sub&gt;2&lt;/sub&gt;, ..., ''a''&lt;sub&gt;''k''&lt;/sub&gt;}} are in {{mvar|F}} form a linear subspace called the [[Linear span|span]] of {{mvar|S}}. The span of {{mvar|S}} is also the intersection of all linear subspaces containing {{mvar|S}}. In other words, it is the (smallest for the inclusion relation) linear subspace containing {{mvar|S}}.
+
+A set of vectors is [[linearly independent]] if none is in the span of the others. Equivalently, a set {{mvar|S}} of vector is linearly independent if the only way to express the zero vector as a linear combination of elements of {{mvar|S}} is to take zero for every coefficient &lt;math&gt;a_i.&lt;/math&gt;
+
+A set of vectors that spans a vector space is called a [[spanning set]] or [[generating set]]. If a spanning set {{mvar|S}} is ''linearly dependent'' (that is not linearly independent), then some element {{mvar|w}} of {{mvar|S}} is in the span of the other elements of {{mvar|S}}, and the span would remain the same if one remove {{mvar|w}} from {{mvar|S}}. One may continue to remove elements of {{mvar|S}} until getting a ''linearly independent spanning set''. Such a linearly independent set that spans a vector space {{mvar|V}} is called a [[Basis (linear algebra)|basis]] of {{math|''V''}}. The importance of bases lies in the fact that there are together minimal generating sets and maximal independent sets. More precisely, if {{math|S}} is a linearly independent set, and {{mvar|T}} is a spanning set such that &lt;math&gt;S\subseteq T,&lt;/math&gt; then there is a basis {{mvar|B}} such that &lt;math&gt;S\subseteq B\subseteq T.&lt;/math&gt;
+
+Any two bases of a vector space {{math|''V''}} have the same [[cardinality]], which is called the [[Dimension (vector space)|dimension]] of {{math|''V''}}; this is the [[dimension theorem for vector spaces]]. Moreover, two vector spaces over the same field {{mvar|F}} are [[isomorphic]] if and only if they have the same dimension.&lt;ref&gt;Axler (2004), p. 55&lt;/ref&gt;
+
+If any basis of {{math|''V''}} (and therefore every basis) has a finite number of elements, {{math|''V''}} is a ''finite-dimensional vector space''. If {{math|''U''}} is a subspace of {{math|''V''}}, then {{math|dim ''U'' ≤ dim ''V''}}. In the case where {{math|''V''}} is finite-dimensional, the equality of the dimensions implies {{math|1=''U'' = ''V''}}.
+
+If ''U''&lt;sub&gt;1&lt;/sub&gt; and ''U''&lt;sub&gt;2&lt;/sub&gt; are subspaces of ''V'', then
+
+:&lt;math&gt;\dim(U_1 + U_2) = \dim U_1 + \dim U_2 - \dim(U_1 \cap U_2),&lt;/math&gt;
+where &lt;math&gt;U_1+U_2&lt;/math&gt;denotes the span of &lt;math&gt;U_1\cup U_2.&lt;/math&gt;&lt;ref&gt;Axler (2204), p. 33&lt;/ref&gt;
+
+==Matrices==
+{{Main|Matrix (mathematics)}}
+
+Matrices allow explicit manipulation of finite-dimensional vector spaces and [[linear maps]]. Their theory is thus an essential part of linear algebra.
+
+Let {{mvar|V}} be a finite-dimensional vector space over a field {{math|''F''}}, and {{math|(''v''&lt;sub&gt;1&lt;/sub&gt;, ''v''&lt;sub&gt;2&lt;/sub&gt;, ..., ''v&lt;sub&gt;m&lt;/sub&gt;'')}} be a basis of {{math|''V''}} (thus {{mvar|m}} is the dimension of {{math|''V''}}). By definition of a basis, the map
+:&lt;math&gt;\begin{align}
+(a_1, \ldots, a_m)&amp;\mapsto a_1v_1+\cdots a_mv_m\\
+F^m &amp;\to V
+\end{align}&lt;/math&gt;
+is a bijection from &lt;math&gt;F^m,&lt;/math&gt; the set of the [[sequence (mathematics)|sequences]] of {{mvar|m}} elements of {{mvar|F}}, onto {{mvar|V}}. This is an [[isomorphism]] of vector spaces, if &lt;math&gt;F^m&lt;/math&gt; is equipped of its standard structure of vector space, where vector addition and scalar multiplication are done component by component.
+
+This isomorphism allows representing a vector by its [[inverse image]] under this isomorphism, that is by the [[coordinates vector]] &lt;math&gt;(a_1, \ldots, a_m)&lt;/math&gt; or by the [[column matrix]]
+:&lt;math&gt;\begin{bmatrix}a_1\\\vdots\\a_m\end{bmatrix}.&lt;/math&gt;
+
+If {{mvar|W}} is another finite dimensional vector space (possibly the same), with a basis &lt;math&gt;(w_1,\ldots,w_n),&lt;/math&gt; a linear map {{mvar|f}} from {{mvar|W}} to {{mvar|V}} is well defined by its values on the basis elements, that is &lt;math&gt;(f(w_1),\ldots,f(w_n)).&lt;/math&gt; Thus, {{mvar|f}} is well represented by the list of the corresponding column matrices. That is, if 
+:&lt;math&gt;f(w_j)=a_{1,j}v_1 + \cdots+a_{m,j}v_m,&lt;/math&gt; 
+for {{math|1=''j'' = 1, ..., ''n''}}, then {{mvar|f}} is represented by the matrix
+:&lt;math&gt;\begin{bmatrix}a_{1,1}&amp;\ldots&amp;a_{1,n}\\
+\vdots&amp;\ldots&amp;\vdots\\
+a_{m,1}&amp;\ldots&amp;a_{m,n}\end{bmatrix},&lt;/math&gt;
+with {{mvar|m}} rows and {{mvar|n}} columns.
+
+[[Matrix multiplication]] is defined in such a way that the product of two matrices is the matrix of the [[function composition|composition]] of the corresponding linear maps, and the product of a matrix and a column matrix is the column matrix representing the result of applying the represented linear map to the represented vector. It follows that the theory of finite-dimensional vector spaces and the theory of matrices are two different languages for expressing exactly the same concepts.
+
+Two matrices that encode the same linear transformation in different bases are called [[similar (linear algebra)|similar]]. Equivalently, two matrices are similar if one can transform one in the other by [[Elementary matrix|elementary row and column operations]]. For a matrix representing a linear map from {{mvar|W}} to {{mvar|V}}, the row operations correspond to change of bases in {{mvar|V}} and the column operations correspond to change of bases in {{mvar|W}}. Every matrix is similar to an [[identity matrix]] possibly bordered by zero rows and zero columns. In terms of vector space, this means that, for any linear map from {{mvar|W}} to {{mvar|V}}, there are bases such a part of the basis of {{mvar|W}} is mapped bijectively on a part of the basis of {{mvar|V}}, and that the remaining basis elements of {{mvar|W}}, if any, are mapped to zero (this is a way of expressing the [[fundamental theorem of linear algebra]]). [[Gaussian elimination]] is the basic algorithm for finding these elementary operations, and proving this theorem.
+
+==Linear systems==
+{{Main|System of linear equations}}
+Systems of linear equations form a fundamental part of linear algebra. Historically, linear algebra and matrix theory has been developed for solving such systems. In the modern presentation of linear algebra through vector spaces and matrices, many problems may be interpreted in terms of linear systems.
+
+For example, let
+:&lt;math&gt;\begin{alignat}{7}
+2x &amp;&amp;\; + \;&amp;&amp; y             &amp;&amp;\; - \;&amp;&amp; z  &amp;&amp;\; = \;&amp;&amp; 8  \\
+-3x &amp;&amp;\; - \;&amp;&amp; y             &amp;&amp;\; + \;&amp;&amp; 2z &amp;&amp;\; = \;&amp;&amp; -11 \\
+-2x &amp;&amp;\; + \;&amp;&amp; y &amp;&amp;\; +\;&amp;&amp; 2z  &amp;&amp;\; = \;&amp;&amp; -3 
+\end{alignat}\qquad \text{(S)}&lt;/math&gt;
+be a linear system.
+
+To such a system, one may associate its matrix 
+:&lt;math&gt;M\left[\begin{array}{rrr}
+2 &amp; 1 &amp; -1\\
+-3 &amp; -1 &amp; 2  \\
+-2 &amp; 1 &amp; 2
+\end{array}\right]\text{.}
+&lt;/math&gt;
+and its right member vector
+:&lt;math&gt;v=\begin{bmatrix}
+8\\-11\\-3
+\end{bmatrix}.
+&lt;/math&gt;
+
+Let {{mvar|T}} be the linear transformation associated to the matrix {{mvar|M}}. A solution of the system {{math|(S)}} is a vector 
+:&lt;math&gt;X=\begin{bmatrix}
+x\\y\\z
+\end{bmatrix}&lt;/math&gt; 
+such that 
+:&lt;math&gt;T(X)=v,&lt;/math&gt;
+that is an element of the [[preimage]] of {{mvar|v}} by {{mvar|T}}.
+
+Let {{math|(S')}} be the associated [[homogeneous system]], where the right-hand sides of the equations are put to zero. The solutions of {{math|(S')}} are exactly the elements of the [[kernel (linear algebra)|kernel]] of {{math|T}} or, equivalently, {{mvar|M}}.
+
+The [[Gaussian elimination|Gaussian-elimination]] consists of performing [[elementary row operation]]s on the [[augmented matrix]]
+:&lt;math&gt;M\left[\begin{array}{rrr|r}
+2 &amp; 1 &amp; -1&amp;8\\
+-3 &amp; -1 &amp; 2&amp;-11  \\
+-2 &amp; 1 &amp; 2&amp;-3
+\end{array}\right]
+&lt;/math&gt;
+for putting it in [[reduced row echelon form]]. These row operations do not change the set of solutions of the system of equations. In the example, the reduced echelon form is 
+:&lt;math&gt;M\left[\begin{array}{rrr|r}
+1 &amp; 0 &amp; 0&amp;2\\
+0 &amp; 1 &amp; 0&amp;3  \\
+0 &amp; 0 &amp; 1&amp;-1
+\end{array}\right],
+&lt;/math&gt;
+showing that the system {{math|(S)}} has the unique solution
+:&lt;math&gt;\begin{align}x&amp;=2\\y&amp;=3\\z&amp;=-1.\end{align}&lt;/math&gt;
+
+It follows from this matrix interpretation of linear systems that the same methods can be applied for solving linear systems and for many operations on matrices and linear transformations, which include the computation of the [[rank of a matrix|ranks]], [[kernel (linear algebra)|kernels]], [[matrix inverse]]s.
+
+==Endomorphisms and square matrices==
+{{main|Square matrix}}
+A linear [[endomorphism]] is a linear map that maps a vector space {{mvar|V}} to itself. 
+If {{mvar|V}} has a basis of {{mvar|n}} elements, such an endomorphism is represented by a square matrix of size {{mvar|n}}.
+
+With respect to general linear maps, linear endomorphisms and square matrices have some specific properties that make their study an important part of linear algebra, which is used in many parts of mathematics, including [[geometric transformation]]s, [[coordinate change]]s, [[quadratic form]]s, and many other part of mathematics.
+
+===Determinant===
+{{main|Determinant}}
+The ''determinant'' of a square matrix is a [[polynomial function]] of the entries of the matrix, such that the matrix is [[invertible matrix|invertible]] if and only if the determinant is not zero. This results from the fact that the determinant of a product of matrices is the product of the determinants, and thus that a matrix is invertible if and only if its determinant is invertible.
+
+[[Cramer's rule]] is a [[closed-form expression]], in terms of determinants, of the solution of a [[system of linear equations|system of {{mvar|n}} linear equations in {{mvar|n}} unknowns]]. Cramer's rule is useful for reasoning about the solution, but, except for {{math|1=''n'' = 2}} or {{math|3}}, it is rarely used for computing a solution, since [[Gaussian elimination]] is a faster algorithm.
+
+The ''determinant of an endomorphism'' is the determinant of the matrix representing the endomorphism in terms of some ordered basis. This definition makes sense, since this determinant is independent of the choice of the basis.
+
+===Eigenvalues and eigenvectors===
+{{main|Eigenvalues and eigenvectors}}
+If {{mvar|f}} is a linear endomorphism of a vector space {{mvar|V}} over a field {{mvar|F}}, an '''eigenvector''' of {{mvar|f}} is a nonzero vector {{mvar|v}} of {{mvar|V}} such that {{math|1=''f''(''v'') = ''av''}} for some scalar {{mvar|a}} in {{mvar|F}}. This scalar {{mvar|a}} is an '''eigenvalue''' of {{mvar|f}}.
+
+If the dimension of {{mvar|V}} is finite, and a basis has been chosen, {{mvar|f}} and {{mvar|v}} may be represented, respectively, by a square matrix {{mvar|M}} and a column matrix and {{mvar|z}}; the equation defining eigenvectors and eigenvalues becomes
+:&lt;math&gt;Mz=az.&lt;/math&gt;
+Using the [[identity matrix]] {{mvar|I}}, whose all entries are zero, except those of the main diagonal, which are equal to one, this may be rewritten
+:&lt;math&gt;(M-aI)z=0.&lt;/math&gt;
+As {{mvar|z}} is supposed to be nonzero, this means that {{math|''M'' – ''aI''}} is a [[singular matrix]], and thus that its determinant &lt;math&gt;\det(M-aI)&lt;/math&gt; equals zero. The eigenvalues are thus the [[root of a function|roots]] of the [[polynomial]]
+:&lt;math&gt;\det(xI-M).&lt;/math&gt;
+If {{mvar|V}} is of dimension {{mvar|n}}, this is a [[monic polynomial]] of degree {{mvar|n}}, called the [[characteristic polynomial]] of the matrix (or of the endomorphism), and there are, at most, {{mvar|n}} eigenvalues.
+
+If a basis exists that consists only of eigenvectors, the matrix of {{mvar|f}} on this basis has a very simple structure: it is a [[diagonal matrix]] such that the entries on the [[main diagonal]] are eigenvalues, and the other entries are zero. In this case, the endomorphism and the matrix are said [[diagonalizable matrix|diagonalizable]]. More generally, an endomorphism and a matrix are also said diagonalizable, if they become diagonalizable after [[field extension|extending]] the field of scalars. In this extended sense, if the characteristic polynomial is [[square-free polynomial|square-free]], then the matrix is diagonalizable.
+
+A [[symmetric matrix]] is always diagonalizable. There are non-diagonizable matrices, the simplest being
+:&lt;math&gt;\begin{bmatrix}0&amp;1\\0&amp;0\end{bmatrix}&lt;/math&gt;
+(it cannot be diagonalizable since its square is the [[zero matrix]], and the square of a nonzero diagonal matrix is never zero).
+
+When an endomorphism is not diagonalizable, there are bases on which it has a simple form, although not as simple as the diagonal form. The [[Frobenius normal form]] does not need of extending the field of scalars and makes the characteristic polynomial immediately readable on the matrix. The [[Jordan normal form]] requires to extend the field of scalar for containing all eigenvalues, and differs from the diagonal form only by some entries that are just above the main diagonal and are equal to 1.
+
+==Duality==
+{{main|Dual space}}
+A [[linear form]] is a linear map from a vector space {{mvar|V}} over a field {{mvar|F}} to the field of scalars {{mvar|F}}, viewed as a vector space over itself. Equipped by [[pointwise]] addition and multiplication by a scalar, the linear forms form a vector space, called the '''dual space''' of {{mvar|V}}, and usually denoted &lt;math&gt;V^*.&lt;/math&gt;
+
+If &lt;math&gt;v_1, \ldots, v_n&lt;/math&gt; is a basis of {{mvar|V}} (this implies that {{mvar|V}} is finite-dimensional), then one can define, for {{math|1=''i'' = 1, ..., ''n''}}, a linear map &lt;math&gt;v_i^*&lt;/math&gt; such that &lt;math&gt;v_i^*(e_i)=1&lt;/math&gt; and &lt;math&gt;v_i^*(e_j)=0&lt;/math&gt; if {{math|''j'' ≠ ''i''}}. These linear maps form a basis of &lt;math&gt;V^*,&lt;/math&gt; called the [[dual basis]] of &lt;math&gt;v_1, \ldots, v_n.&lt;/math&gt; (If {{mvar|V}} is not finite-dimensional, the &lt;math&gt;v^*_i&lt;/math&gt; may be defined similarly; they are linearly independent, but do not form a basis.)
+
+For {{mvar|v}} in {{mvar|V}}, the map
+:&lt;math&gt;f\to f(v)&lt;/math&gt;
+is a linear form on &lt;math&gt;V^*.&lt;/math&gt; This defines the [[canonical map|canonical linear map]] from {{mvar|V}} into &lt;math&gt;V^{**},&lt;/math&gt;, the dual of &lt;math&gt;V^*,&lt;/math&gt; called the '''bidual''' of {{mvar|V}}. This canonical map is an [[isomorphism]] if {{mvar|V}} is finite-dimensional, and this allows identifying {{mvar|V}} with its bidual. (In the infinite dimensional case, the canonical map is injective, but not surjective.)
+
+There is thus a complete symmetry between a finite-dimensional vector space and its dual. This motivates the frequent use, in this context, of the [[bra–ket notation]]
+:&lt;math&gt;\langle f,x\rangle&lt;/math&gt;
+for denoting {{math|''f''{{space|hair}}(''x'')}}.
+
+===Dual map===
+{{main|Transpose of a linear map}}
+
+Let 
+:&lt;math&gt;f:V\to W&lt;/math&gt;
+be a linear map. For every linear form {{mvar|h}} on {{mvar|W}}, the [[composite function]] {{math|''f'' ∘ ''h''}} is a linear form on {{mvar|V}}. This defines a linear map
+:&lt;math&gt;f^*:W^*\to V^*&lt;/math&gt;
+between the dual spaces, which is called the '''dual''' or the '''transpose''' of {{mvar|f}}.
+
+If {{mvar|V}} and {{mvar|W}} are finite dimensional, and {{mvar|M}} is the matrix of {{mvar|f}} in terms of some ordered bases, then the matrix of &lt;math&gt;f^*&lt;/math&gt; over the dual bases is the [[transpose]] &lt;math&gt;M^\mathsf T&lt;/math&gt; of {{mvar|M}}, obtained by exchanging rows and columns.
+
+If elements of vector spaces and their duals are represented by column vectors, this duality may be expressed in [[bra–ket notation]] by 
+:&lt;math&gt;\langle h^\mathsf T , Mv\rangle = \langle h^\mathsf T M,v\rangle.&lt;/math&gt;
+For highlighting this symmetry, the two members of this equality are sometimes written 
+:&lt;math&gt;\langle h^\mathsf T \mid M\mid v\rangle.&lt;/math&gt;
+
+===Inner-product spaces===
+{{cleanup|section|reason=Need for a more encyclopedic style, which is homogeneous with the style of preceding sections. Also, some details do not belong to this general article but to more specialized ones. Also, inner product spaces should appear as a special instance of the more general concept of [[bilinear form]]. Finally, complex conjugation should appear in a specific section on linear algebra over the complexes.|date=August 2018}}
+{{main|Inner product space}}
+Besides these basic concepts, linear algebra also studies vector spaces with additional structure, such as an [[inner product]]. The inner product is an example of a [[bilinear form]], and it gives the vector space a geometric structure by allowing for the definition of length and angles. Formally, an ''inner product'' is a map
+
+:&lt;math&gt; \langle \cdot, \cdot \rangle : V \times V \rightarrow F &lt;/math&gt;
+
+that satisfies the following three [[axiom]]s for all vectors ''u'', ''v'', ''w'' in ''V'' and all scalars ''a'' in ''F'':&lt;ref name= Jain&gt;{{cite book|title=Functional analysis|author=P. K. Jain, Khalil Ahmad|url=https://books.google.com/?id=yZ68h97pnAkC&amp;pg=PA203|page=203|chapter=5.1 Definitions and basic properties of inner product spaces and Hilbert spaces|isbn=81-224-0801-X|year=1995|edition=2nd|publisher=New Age International}}&lt;/ref&gt;&lt;ref name="Prugovec̆ki"&gt;{{cite book|title=Quantum mechanics in Hilbert space|author=Eduard Prugovec̆ki|url=https://books.google.com/?id=GxmQxn2PF3IC&amp;pg=PA18|chapter=Definition 2.1|pages=18 ''ff''|isbn=0-12-566060-X|year=1981|publisher=Academic Press|edition=2nd}}&lt;/ref&gt;
+* [[complex conjugate|Conjugate]] symmetry:
+
+::&lt;math&gt;\langle u,v\rangle =\overline{\langle v,u\rangle}.&lt;/math&gt;
+Note that in '''R''', it is symmetric.
+* [[Linear]]ity in the first argument:
+
+::&lt;math&gt;\langle au,v\rangle= a \langle u,v\rangle.&lt;/math&gt;
+::&lt;math&gt;\langle u+v,w\rangle= \langle u,w\rangle+ \langle v,w\rangle.&lt;/math&gt;
+* [[Definite bilinear form|Positive-definiteness]]:
+
+::&lt;math&gt;\langle v,v\rangle \geq 0&lt;/math&gt; with equality only for ''v'' = 0.
+
+We can define the length of a vector ''v'' in ''V'' by
+:&lt;math&gt;\|v\|^2=\langle v,v\rangle,&lt;/math&gt;
+and we can prove the [[Cauchy–Schwarz inequality]]:
+:&lt;math&gt;|\langle u,v\rangle| \leq \|u\| \cdot \|v\|.&lt;/math&gt;
+
+In particular, the quantity
+:&lt;math&gt;\frac{|\langle u,v\rangle|}{\|u\| \cdot \|v\|} \leq 1,&lt;/math&gt;
+and so we can call this quantity the cosine of the angle between the two vectors.
+
+Two vectors are orthogonal if &lt;math&gt;\langle u, v\rangle =0&lt;/math&gt;. An orthonormal basis is a basis where all basis vectors have length 1 and are orthogonal to each other. Given any finite-dimensional vector space, an orthonormal basis could be found by the [[Gram–Schmidt]] procedure. Orthonormal bases are particularly easy to deal with, since if ''v'' = ''a''&lt;sub&gt;1&lt;/sub&gt; ''v''&lt;sub&gt;1&lt;/sub&gt; + ... + ''a&lt;sub&gt;n&lt;/sub&gt; v&lt;sub&gt;n&lt;/sub&gt;'', then &lt;math&gt;a_i = \langle v,v_i \rangle&lt;/math&gt;.
+
+The inner product facilitates the construction of many useful concepts. For instance, given a transform ''T'', we can define its [[Hermitian conjugate]] ''T*'' as the linear transform satisfying
+:&lt;math&gt; \langle T u, v \rangle = \langle u, T^* v\rangle.&lt;/math&gt;
+If ''T'' satisfies ''TT*'' = ''T*T'', we call ''T'' [[Normal matrix|normal]]. It turns out that normal matrices are precisely the matrices that have an orthonormal system of eigenvectors that span ''V''.&lt;!-- This is a potentially useful remark, but a proper context needs to be set for it. One can say quite simply that the [[linear]] problems of [[mathematics]]—those that exhibit [[linearity]] in their behavior—are those most likely to be solved. For example, [[differential calculus]] does a great deal with linear approximation to functions. The difference from [[nonlinearity|nonlinear]] problems is very important in practice.--&gt;
+
+==Relationship with geometry==
+There is a strong relationship between linear algebra and [[geometry]], which started with the introduction by [[René Descartes]], in 1637, of [[Cartesian coordinates]]. In this new (at that time) geometry, now called [[Cartesian geometry]], points are represented by [[Cartesian coordinates]], which are sequences of three real numbers (in the case of the usual [[three-dimensional space]]). The basic objects of geometry, which are [[line (geometry)|lines]] and [[plane (geometry)|planes]] are represented by linear equations. Thus, computing intersections of lines and planes amounts solving systems of linear equations. This was one of the main motivations for developing linear algebra.
+
+Most [[geometric transformation]], such as [[translation]]s, [[rotation]]s, [[reflection (mathematics)|reflection]]s, [[rigid motion]]s, [[isometries]], and [[projection (mathematics)|projection]]s transform lines into lines. It follows that they can be defined, specified and studied in terms of linear maps. This is also the case of [[homography|homographies]] and [[Möbius transformation]]s, when considered as transformations of a [[projective space]]. 
+
+Until the end of 19th century, geometric spaces were defined by [[axiom]]s relating points, lines and planes ([[synthetic geometry]]). Around this date, it appeared that one may also define geometric spaces by constructions involving vector spaces (see, for example, [[Projective space]] and [[Affine space]]) It has been shown that the two approaches are essentially equivalent.&lt;ref&gt;[[Emil Artin]] (1957) ''[[Geometric Algebra]]'' [[Interscience Publishers]]&lt;/ref&gt; In classical geometry, the involved vector spaces are vector spaces over the reals, but the constructions may be extended to vector spaces over any field, allowing considering geometry over arbitrary fields, including [[finite field]]s. 
+
+Presently, most textbooks, introduce geometric spaces from linear algebra, and geometry is often presented, at elementary level, as a subfield of linear algebra.
+
+== Usage and applications{{anchor|Applications}} ==
+Linear algebra is used in almost all areas of mathematics, and therefore in almost all scientific domains that use mathematics. These applications may be divided into several wide categories.
+
+=== Geometry of our ambient space ===
+The [[Mathematical model|modeling]] of our [[ambient space]] is based on [[geometry]]. Sciences concerned with this space use geometry widely. This is the case with [[mechanics]] and [[robotics]], for describing [[rigid body dynamics]]; [[geodesy]] for describing [[Earth shape]]; [[perspectivity]], [[computer vision]], and [[computer graphics]], for describing the relationship between a scene and its plane representation; and many other scientific domains.
+
+In all these applications, [[synthetic geometry]] is often used for general descriptions and a qualitative approach, but for the study of explicit situations, one must compute with [[coordinates]]. This requires the heavy use of linear algebra.
+
+=== Functional analysis ===
+[[Functional analysis]] studies [[function space]]s. These are vector spaces with additional structure, such as [[Hilbert space]]s. Linear algebra is thus a fundamental part of functional analysis and its applications, which include, in particular, [[quantum mechanics]] ([[wave function]]s).
+
+=== Study of [[complex system]]s === 
+Most physical phenomena are modeled by [[partial differential equation]]s. To solve them, one usually decomposes the space in which the solutions are searched into small, mutually interacting [[Discretization|cells]]. For [[linear system]]s this interaction involves [[linear function]]s. For [[nonlinear systems]], this interaction is often approximated by linear functions.&lt;ref&gt;This may have the consequence that some physically interesting solutions are omitted.&lt;/ref&gt; In both cases, very large matrices are generally involved. [[Weather forecasting]] is a typical example, where the whole Earth [[atmosphere]] is divided in cells of, say, 100 km of width and 100 m of height.
+
+=== Scientific computation ===
+Nearly all [[scientific computation]]s involve linear algebra. Consequently, linear algebra algorithms have been highly optimized. [[Basic Linear Algebra Subprograms|BLAS]] and [[LAPACK]] are the best known implementations. For improving efficiency, some of them configure the algorithms automatically, at run time, for adapting them to the specificities of the computer ([[cache (computing)|cache]] size, number of available [[multi-core processor|cores]], ...).
+
+Some [[Processor (computing)|processor]]s, typically [[graphics processing units]] (GPU), are designed with a matrix structure, for optimizing the operations of linear algebra.
+
+==Extensions and generalizations==
+This section presents several related topics that do not appear generally in elementary textbooks on linear algebra, but are commonly considered, in advanced mathematics, as parts of linear algebra.
+
+===Module theory===
+{{main|Module (mathematics)}}
+
+The existence of multiplicative inverses in fields is not involved in the axioms defining a vector space. One may thus replace the field of scalars by a [[ring (mathematics)|ring]] {{mvar|R}}, and this gives a structure called '''module''' over {{mvar|R}}, or {{mvar|R}}-module.
+
+The concepts of linear independence, span, basis, and linear maps (also called [[module homomorphism]]s) are defined for modules exactly as for vector spaces, with the essential difference that, if {{mvar|R}} is not a field, there are modules that do not have any basis. The modules that have a basis are the [[free module]]s, and those that are spanned by a finite set are the [[finitely generated module]]s. Module homomorphisms between finitely generated free modules may be represented by matrices. The theory of matrices over a ring is similar to that of matrices over a field, except that [[determinant]]s exist only if the ring is [[commutative ring|commutative]], and that a square matrix over a commutative ring is [[invertible matrix|invertible]] only if its determinant has a [[multiplicative inverse]] in the ring.
+
+Vector spaces are completely characterized by their dimension (up to an isomorphism). In general, there is not such a complete classification for modules, even if one restricts oneself to finitely generated modules. However, every module is a [[cokernel]] of a homomorphism of free modules.
+
+Modules over the integers can be identified with [[abelian group]]s, since the multiplication by an integer may identified to a repeated addition. Most of the theory of abelian groups may be extended to modules over a [[principal ideal domain]]. In particular, over a principal ideal domain, every submodule of a free module is free, and the [[fundamental theorem of finitely generated abelian groups]] may be extended straightforwardly to finitely generated modules over a principal ring.
+
+There are many rings for which there are algorithms for solving linear equations and systems of linear equations. However, these algorithms have generally a [[computational complexity]] that is much higher than the similar algorithms over a field. For more details, see [[Linear equation over a ring]].
+
+===Multilinear algebra and tensors=== 
+{{cleanup|section|reason=The dual space is considered above, and the section must be rewritten for given a understandable summary of this subject|date=September 2018}}
+In [[multilinear algebra]], one considers multivariable linear transformations, that is, mappings that are linear in each of a number of different variables. This line of inquiry naturally leads to the idea of the [[dual space]], the vector space ''V''&lt;sup&gt;∗&lt;/sup&gt; consisting of linear maps {{nowrap|''f'': ''V'' → ''F''}} where ''F'' is the field of scalars. Multilinear maps {{nowrap|''T'': ''V&lt;sup&gt;n&lt;/sup&gt;'' → ''F''}} can be described via [[tensor product]]s of elements of ''V''&lt;sup&gt;∗&lt;/sup&gt;.
+
+If, in addition to vector addition and scalar multiplication, there is a bilinear vector product {{nowrap|''V'' × ''V'' → ''V''}}, the vector space is called an [[Algebra over a field|algebra]]; for instance, associative algebras are algebras with an associate vector product (like the algebra of square matrices, or the algebra of polynomials).
+
+===Topological vector spaces===
+{{expand section|date=September 2018}}
+{{main|Topological vector space|Normed vector space|Hilbert space}}
+[[Functional analysis]] mixes the methods of linear algebra with those of [[mathematical analysis]] and studies various function spaces, such as [[Lp space|L&lt;sup&gt;''p''&lt;/sup&gt; space]]s.
+
+===Homological algebra===
+{{expand section|date=September 2018}}
+{{main|Homological algebra}}
+
+==See also==
+* {{Portal inline|size=tiny|Linear algebra}}
+* [[Linear equation over a ring]]
+* [[Fundamental matrix (computer vision)|Fundamental matrix]] in [[computer vision]]
+* [[Linear regression]], a statistical estimation method
+* [[List of linear algebra topics]]
+* [[Numerical linear algebra]]
+* [[Linear programming]]
+* [[Transformation matrix]]
+
+==Notes==
+{{reflist|30em}}
+
+{{reflist|group=nb}}
+
+==Further reading==
+
+===History===
+* Fearnley-Sander, Desmond, "Hermann Grassmann and the Creation of Linear Algebra", American Mathematical Monthly '''86''' (1979), pp.&amp;nbsp;809–817.
+* {{Citation|last=Grassmann|first= Hermann|authorlink=Hermann Grassmann| title=Die lineale Ausdehnungslehre ein neuer Zweig der Mathematik: dargestellt und durch Anwendungen auf die übrigen Zweige der Mathematik, wie auch auf die Statik, Mechanik, die Lehre vom Magnetismus und die Krystallonomie erläutert|publisher= O. Wigand|location= Leipzig|year= 1844}}
+
+===Introductory textbooks===
+* {{Citation|last=Anton|first=Howard|year=2005|title=Elementary Linear Algebra (Applications Version)|publisher=Wiley International|edition=9th}}
+* {{Citation | last = Banerjee | first = Sudipto | last2 = Roy | first2 = Anindya | date = 2014 | title = Linear Algebra and Matrix Analysis for Statistics | series = Texts in Statistical Science | publisher = Chapman and Hall/CRC | edition =  1st | isbn =  978-1420095388}}
+* {{Citation|last=Bretscher|first=Otto|year=2004|title=Linear Algebra with Applications|publisher=Prentice Hall|edition=3rd|isbn=978-0-13-145334-0}}
+* {{Citation|last=Farin|first=Gerald|last2=Hansford|first2=Dianne|
+year=2004|title=Practical Linear Algebra: A Geometry Toolbox|publisher=AK Peters|isbn=978-1-56881-234-2}}
+* {{Citation|last=Hefferon|first=Jim|year=2008|title=Linear Algebra|url=http://joshua.smcvt.edu/linearalgebra/}}
+* {{Citation|last=Kolman|first=Bernard|last2=Hill|first2=David R.|year=2007|title=Elementary Linear Algebra with Applications|publisher=Prentice Hall|edition=9th|isbn=978-0-13-229654-0}}
+* {{Citation|last=Lay|first=David C.|year=2005|title=Linear Algebra and Its Applications|publisher=Addison Wesley|edition=3rd|isbn=978-0-321-28713-7}}
+* {{Citation|last=Leon|first=Steven J.|year=2006|title=Linear Algebra With Applications|publisher=Pearson Prentice Hall|edition=7th|isbn=978-0-13-185785-8}}
+* Murty, Katta G. (2014) ''[http://www.worldscientific.com/worldscibooks/10.1142/8261 Computational and Algorithmic Linear Algebra and n-Dimensional Geometry]'', World Scientific Publishing, {{isbn|978-981-4366-62-5}}. ''[http://www.worldscientific.com/doi/suppl/10.1142/8261/suppl_file/8261_chap01.pdf Chapter 1: Systems of Simultaneous Linear Equations]''
+* {{Citation|last=Poole|first=David|year=2010|title=Linear Algebra: A Modern Introduction|publisher=Cengage&amp;nbsp;– Brooks/Cole|edition=3rd|isbn=978-0-538-73545-2}}
+* {{Citation|last=Ricardo|first=Henry|year=2010|title=A Modern Introduction To Linear Algebra|publisher=CRC Press|edition=1st|isbn=978-1-4398-0040-9}}
+* {{Citation|last=Sadun|first=Lorenzo|year=2008|title=Applied Linear Algebra: the decoupling principle|publisher=AMS|edition=2nd|isbn=978-0-8218-4441-0}}
+* {{Citation|last=Strang|first=Gilbert|authorlink=Gilbert Strang|year=2016|title=Introduction to Linear Algebra|publisher=Wellesley-Cambridge Press|edition=5th|isbn=978-09802327-7-6}}
+* The Manga Guide to Linear Algebra (2012), by [[Shin Takahashi]], Iroha Inoue and Trend-Pro Co., Ltd., {{isbn| 978-1-59327-413-9}}
+
+===Advanced textbooks===
+* {{Citation|last=Axler|first=Sheldon|authorlink=Sheldon Axler|date=February 26, 2004|title=Linear Algebra Done Right|publisher=Springer|edition=2nd|isbn=978-0-387-98258-8}}
+* {{Citation|last=Bhatia|first=Rajendra|date=November 15, 1996|title=Matrix Analysis|series=[[Graduate Texts in Mathematics]]|publisher=Springer|isbn=978-0-387-94846-1}}
+* {{Citation|last=Demmel|first=James W.|authorlink=James Demmel|date=August 1, 1997|title=Applied Numerical Linear Algebra|publisher=SIAM|isbn=978-0-89871-389-3}}
+* {{Citation|last=Dym|first=Harry|year=2007|title=Linear Algebra in Action|publisher=AMS|isbn=978-0-8218-3813-6}}
+* {{Citation|last=Gantmacher|first=Felix R.|authorlink = Felix Gantmacher|date=2005|title=Applications of the Theory of Matrices|publisher=Dover Publications|isbn=978-0-486-44554-0}}
+* {{Citation|last=Gantmacher|first=Felix R.|year=1990|title=Matrix Theory Vol. 1|publisher=American Mathematical Society|edition=2nd|isbn=978-0-8218-1376-8}}
+* {{Citation|last=Gantmacher|first=Felix R.|year=2000|title=Matrix Theory Vol. 2|publisher=American Mathematical Society|edition=2nd|isbn=978-0-8218-2664-5}}
+* {{Citation|last=Gelfand|first=Israel M.|authorlink = Israel Gelfand|year=1989|title=Lectures on Linear Algebra|publisher=Dover Publications|isbn=978-0-486-66082-0}}
+* {{Citation|last=Glazman|first=I. M.|last2=Ljubic|first2=Ju. I.|year=2006|title=Finite-Dimensional Linear Analysis|publisher=Dover Publications|isbn= 978-0-486-45332-3}}
+* {{Citation|last=Golan|first=Johnathan S.|date=January 2007|title=The Linear Algebra a Beginning Graduate Student Ought to Know|publisher=Springer|edition=2nd|isbn=978-1-4020-5494-5}}
+* {{Citation|last=Golan|first=Johnathan S.|date=August 1995|title=Foundations of Linear Algebra|publisher=Kluwer |isbn=0-7923-3614-3}}
+* {{Citation|last=Golub|first=Gene H.|last2=Van Loan|first2=Charles F.|date=October 15, 1996|title=Matrix Computations|series=Johns Hopkins Studies in Mathematical Sciences|publisher=The Johns Hopkins University Press|edition=3rd|isbn=978-0-8018-5414-9}}
+* {{Citation|last=Greub|first=Werner H.|date=October 16, 1981|title=Linear Algebra|series=Graduate Texts in Mathematics|publisher=Springer|edition=4th|isbn=978-0-8018-5414-9}}
+* {{citation
+ | last1 = Hoffman | first1 = Kenneth
+ | last2 = Kunze | first2 = Ray | author2-link = Ray Kunze
+ | edition = 2nd
+ | location = Englewood Cliffs, N.J.
+ | mr = 0276251
+ | publisher = Prentice-Hall, Inc.
+ | title = Linear algebra
+ | year = 1971}}
+* {{Citation|last=Halmos|first=Paul R.|authorlink = Paul Halmos|date=August 20, 1993|title=Finite-Dimensional Vector Spaces|series=[[Undergraduate Texts in Mathematics]]|publisher=Springer|isbn=978-0-387-90093-3}}
+* {{Citation|last=Friedberg|first=Stephen H.|last2=Insel|first2=Arnold J.|last3=Spence|first3=Lawrence E.|date=November 11, 2002|title=Linear Algebra|publisher=Prentice Hall|edition=4th|isbn=978-0-13-008451-4}}
+* {{Citation|last=Horn|first=Roger A.|last2=Johnson|first2=Charles R.|date=February 23, 1990|title=Matrix Analysis|publisher=Cambridge University Press|isbn=978-0-521-38632-6}}
+* {{Citation|last1=Horn|first1=Roger A.|last2=Johnson|first2=Charles R.|date=June 24, 1994|title=Topics in Matrix Analysis|publisher=Cambridge University Press|isbn=978-0-521-46713-1}}
+* {{Citation|last=Lang|first=Serge|date=March 9, 2004|title=Linear Algebra|series=Undergraduate Texts in Mathematics|edition=3rd|publisher=Springer|isbn=978-0-387-96412-6}}
+* {{Citation|last1=Marcus|first1=Marvin|last2=Minc|first2=Henryk|year=2010|title=A Survey of Matrix Theory and Matrix Inequalities|publisher=Dover Publications|isbn=978-0-486-67102-4}}
+* {{Citation|last=Meyer |first=Carl D. |date=February 15, 2001 |title=Matrix Analysis and Applied Linear Algebra |publisher=Society for Industrial and Applied Mathematics (SIAM) |isbn=978-0-89871-454-8 |url=http://www.matrixanalysis.com/DownloadChapters.html |deadurl=yes |archiveurl=https://web.archive.org/web/20091031193126/http://matrixanalysis.com/DownloadChapters.html |archivedate=October 31, 2009 |df= }}
+* {{Citation|last1=Mirsky|first1=L.|authorlink=Leon Mirsky|year=1990|title=An Introduction to Linear Algebra|publisher= Dover Publications|isbn=978-0-486-66434-7}}
+* {{Citation|last=Roman|first=Steven|date=March 22, 2005|title=Advanced Linear Algebra|edition=2nd|series=Graduate Texts in Mathematics|publisher=Springer|isbn=978-0-387-24766-3}}
+* {{Citation|last1=Shafarevich|first1 = I. R.|authorlink1 = Igor Shafarevich|first2 = A. O|last2=Remizov|title = Linear Algebra and Geometry|publisher = [[Springer Science+Business Media|Springer]]|year=2012|url = https://www.springer.com/mathematics/algebra/book/978-3-642-30993-9 |isbn = 978-3-642-30993-9}}
+* {{Citation|last=Shilov|first=Georgi E.|authorlink = Georgiy Shilov|date=June 1, 1977|publisher=Dover Publications|isbn=978-0-486-63518-7|title=Linear algebra}}
+* {{Citation|last=Shores|first=Thomas S.|date=December 6, 2006|title=Applied Linear Algebra and Matrix Analysis|series=Undergraduate Texts in Mathematics|publisher=Springer|isbn=978-0-387-33194-2}}
+* {{Citation|last=Smith|first=Larry|date=May 28, 1998|title=Linear Algebra|series=Undergraduate Texts in Mathematics|publisher=Springer|isbn=978-0-387-98455-1}}
+* {{Citation|last=Trefethen|first=Lloyd N.|last2=Bau|first2=David|date=1997|title=Numerical Linear Algebra|publisher=SIAM|isbn=978-0-898-71361-9}}
+
+===Study guides and outlines===
+* {{Citation|last=Leduc|first=Steven A.|date=May 1, 1996|title=Linear Algebra (Cliffs Quick Review)|publisher=Cliffs Notes|isbn=978-0-8220-5331-6}}
+* {{Citation|last=Lipschutz|first=Seymour|last2=Lipson|first2=Marc|date=December 6, 2000|title=Schaum's Outline of Linear Algebra|publisher=McGraw-Hill|edition=3rd|isbn=978-0-07-136200-9}}
+* {{Citation|last=Lipschutz|first=Seymour|date=January 1, 1989|title=3,000 Solved Problems in Linear Algebra|publisher=McGraw–Hill|isbn=978-0-07-038023-3}}
+* {{Citation|last=McMahon|first=David|date=October 28, 2005|title=Linear Algebra Demystified|publisher=McGraw–Hill Professional|isbn=978-0-07-146579-3}}
+* {{Citation|last=Zhang|first=Fuzhen|date=April 7, 2009|title=Linear Algebra: Challenging Problems for Students|publisher=The Johns Hopkins University Press|isbn=978-0-8018-9125-0}}
+
+==External links==
+{{Wikibooks|Linear Algebra}}
+===Online Resources===
+{{Commonscat}}
+* [https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ MIT Linear Algebra Video Lectures], a series of 34 recorded lectures by professor Gilbert Strang (Spring 2010)
+* [http://www.math.technion.ac.il/iic/ International Linear Algebra Society]
+* {{springer|title=Linear algebra|id=p/l059040}}
+* [http://mathworld.wolfram.com/topics/LinearAlgebra.html Linear Algebra] on [[MathWorld]].
+* [http://www.economics.soton.ac.uk/staff/aldrich/matrices.htm Matrix and Linear Algebra Terms] on [http://jeff560.tripod.com/mathword.html Earliest Known Uses of Some of the Words of Mathematics]
+* [http://jeff560.tripod.com/matrices.html Earliest Uses of Symbols for Matrices and Vectors] on [http://jeff560.tripod.com/mathsym.html Earliest Uses of Various Mathematical Symbols]
+* [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab Essence of linear algebra], a video presentation of the basics of linear algebra, with emphasis on the relationship between the geometric, the matrix and the abstract points of view
+
+===Online books===
+* Beezer, Rob, ''[http://linear.ups.edu/index.html A First Course in Linear Algebra]''
+* Connell, Edwin H., ''[http://www.math.miami.edu/~ec/book/ Elements of Abstract and Linear Algebra]''
+* Hefferon, Jim, ''[http://joshua.smcvt.edu/linearalgebra/ Linear Algebra]''
+* Matthews, Keith, ''[http://www.numbertheory.org/book/ Elementary Linear Algebra]''
+* Sharipov, Ruslan, ''[https://arxiv.org/abs/math.HO/0405323 Course of linear algebra and multidimensional geometry]''
+* Treil, Sergei, ''[http://www.math.brown.edu/~treil/papers/LADW/LADW.html Linear Algebra Done Wrong]''
+
+{{Linear algebra}}
+{{Areas of mathematics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Linear Algebra}}
+[[Category:Linear algebra| ]]
+[[Category:Numerical analysis]]</text>
+      <sha1>pc5wje8tmumzwvmz111n9hclt9ctv7w</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,3382 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>1339 in Ireland</title>
+    <ns>0</ns>
+    <id>13828412</id>
+    <revision>
+      <id>824906089</id>
+      <parentid>800651539</parentid>
+      <timestamp>2018-02-10T07:20:03Z</timestamp>
+      <contributor>
+        <username>Jerome Kohl</username>
+        <id>1920374</id>
+      </contributor>
+      <minor/>
+      <comment>fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1473">{{YearInIrelandNav | 1339 }}
+
+Events from the year '''1339 in Ireland'''.
+
+==Events==
+
+* [[October 29]] – Ruaidhri O Ceallaigh is killed lby Cathal mac Aodh mac Eoghain O Conchobhair
+* Toirdhealbach O Conchobhair marries the widow of Edmund de Burgh
+* Edmond Albanach de Burgh is expelled from the western islands of [[Connacht]] to [[Ulster]]
+* The [[Mint (coin)|Mint]] briefly reopens at [[Dublin]] (see [[1302 in Ireland|1302]])
+* Hostilities occur between the [[Anglo-Irish]] and [[Irish people|Irish]] in [[County Kildare|Kildare]], [[County Meath|Meath]] and [[County Kerry|Kerry]]
+
+==Births==
+
+{{Empty section|date=February 2015}}
+
+==Deaths==
+* [[Ruaidri Ó Cellaigh]], King of [[Uí Maine]] and [[Chief of the Name]].
+
+==References==
+
+*''"The Annals of Ireland by Friar John Clyn"'', edited and translated with an Introduction, by Bernadette Williams, Four Courts Press, 2007. {{ISBN|978-1-84682-034-2}}, pp. 240–244.
+*''"A New History of Ireland VIII: A Chronology of Irish History to 1976"'', edited by [[T. W. Moody]], F.X. Martin and F.J. Byrne. Oxford, 1982. {{ISBN|0-19-821744-7}}.
+*http://www.ucc.ie/celt/published/T100001B/index.html
+*http://www.ucc.ie/celt/published/T100005C/index.html
+*http://www.ucc.ie/celt/published/T100010B/index.html
+
+[[Category:1339 in Ireland| ]]
+[[Category:1330s in Ireland]]
+[[Category:1339 by country|Ireland]]
+[[Category:Years of the 14th century in Ireland]]
+
+{{Years in Ireland}}
+{{Year in Europe|1339}}
+{{Ireland-stub}}</text>
+      <sha1>1ouliyi3gdrj60c8nq2cy7q6lpc07xd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1971 Monte Carlo Open</title>
+    <ns>0</ns>
+    <id>42710259</id>
+    <revision>
+      <id>808670562</id>
+      <parentid>795945687</parentid>
+      <timestamp>2017-11-04T10:56:18Z</timestamp>
+      <contributor>
+        <username>Hugo999</username>
+        <id>3006008</id>
+      </contributor>
+      <comment>removed [[Category:1971 in Monaco]]; added [[Category:1971 in Monégasque sport]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2827">{{TennisEventInfo|1971|Monte Carlo Open|
+| date= 5 – 11 April
+| edition=65th
+| category=[[Grand Prix tennis circuit|Grand Prix circuit]] (Group C)
+| prize_money=
+| draw=32S/16D
+| surface=[[Clay court|Clay]] / outdoor
+| location=[[Monte Carlo]], [[Monaco]]
+| venue=[[Monte Carlo Country Club]]
+| champms={{flagicon|ROM|1965}} [[Ilie Năstase]] &lt;ref name="ms"&gt;{{cite web|title=1971 Monte Carlo Men's Singles draw|url=http://www.atpworldtour.com/en/scores/archive/monte-carlo/410/1971/draws?matchType=singles|website=www.atpworldtour.com|publisher=[[Association of Tennis Professionals]] (ATP)}}&lt;/ref&gt;
+| champws={{flagicon|FRA}} [[Gail Chanfreau]]
+| champmd={{flagicon|ROU|1965}} [[Ilie Năstase]] / {{flagicon|ROU|1965}} [[Ion Țiriac]] &lt;ref name=md&gt;{{cite web|title=ATP – 1971 Monte Carlo Men's Doubles draw|url=http://www.atpworldtour.com/Share/Event-Draws.aspx?Year=1971&amp;EventId=410&amp;Draw=md|publisher=ATP}}&lt;/ref&gt; 
+| champwd={{flagicon|FRG}} [[Katja Ebbinghaus]] / {{flagicon|NED}} [[Betty Stöve]]
+}}
+
+The '''1971 Monte Carlo Open''' was a combined men's and women's [[tennis]] tournament played on [[Clay court|outdoor clay courts]] at the [[Monte Carlo Country Club]] in [[Monte Carlo]], [[Monaco]] . The men's tournament was part of the [[1971 Grand Prix (tennis)|1971 Pepsi-Cola Grand Prix]] circuit. It was the 65th edition of the event and was held from 5 April through 11 April 1971. [[Ilie Năstase]] and [[Gail Chanfreau]] won the singles titles.
+
+==Champions==
+===Men's Singles===
+{{flagicon|ROU|1965}} '''[[Ilie Năstase]]''' defeated {{flagicon|NED}} [[Tom Okker]] 3–6, 8–6, 6–1, 6–1
+
+===Women's Singles===
+{{flagicon|FRA}} '''[[Gail Chanfreau]]''' defeated {{flagicon|NED}} [[Betty Stöve]] 6–4, 4–6, 6–4
+
+===Men's Doubles===
+{{flagicon|ROU|1965}} '''[[Ilie Năstase]]''' / {{flagicon|ROU|1965}} '''[[Ion Țiriac]]''' defeated {{flagicon|NED}} [[Tom Okker]] / {{flagicon|GBR}} [[Roger Taylor (tennis)|Roger Taylor]]  1–6, 6–3, 6–3, 8–6
+
+===Women's Doubles===
+{{flagicon|FRG}} '''[[Katja Ebbinghaus]]''' / {{flagicon|NED}} '''[[Betty Stöve]]''' defeated {{flagicon|ITA}} [[Lucia Bassi]] / {{flagicon|ITA}} [[Lea Pericoli]]  6–4, 6–3
+
+
+==References==
+{{reflist}}
+
+==External links==
+* {{official website|http://montecarlotennismasters.com}}
+* [http://www.atpworldtour.com/en/tournaments/monte-carlo/410/overview Association of Tennis Professionals (ATP) tournament profile]
+* [http://www.itftennis.com/procircuit/tournaments/men's-tournament/info.aspx?tournamentid=1010002840 ITF tournament details]
+
+
+{{Monte Carlo Masters tournaments}}
+{{1971 Pepsi-Cola Grand Prix}}
+
+[[Category:1971 Grand Prix (tennis)|Monte Carlo Open]]
+[[Category:Monte-Carlo Masters]]
+[[Category:1971 in Monégasque sport]]
+[[Category:1971 in tennis|Monte Carlo Open]]
+[[Category:Monaco stubs]]
+
+{{Monaco-stub}}</text>
+      <sha1>3nnqwvzukcmvf0wktpqcpt5zugr7oti</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2007 Monte Carlo Masters</title>
+    <ns>0</ns>
+    <id>12939087</id>
+    <revision>
+      <id>808665401</id>
+      <parentid>795947943</parentid>
+      <timestamp>2017-11-04T09:55:00Z</timestamp>
+      <contributor>
+        <username>Hugo999</username>
+        <id>3006008</id>
+      </contributor>
+      <comment>removed [[Category:2007 in Monaco]]; added [[Category:2007 in Monégasque sport]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4442">{{TennisEventInfo|2007|Monte Carlo Masters|
+| date=14 – 22 April
+| edition=101st
+| category=[[ATP Masters Series|Masters Series]]
+| surface=[[Clay court|Clay]] / outdoor
+| draw=56S / 24D
+| prize_money=$2,200,000
+| location=[[Roquebrune-Cap-Martin]], France
+| venue=[[Monte Carlo Country Club]]
+| champs= {{flagicon|ESP}} [[Rafael Nadal]] &lt;ref name="ms"&gt;{{cite web|title=2007 Monte Carlo Men's Singles draw|url=http://www.atpworldtour.com/en/scores/archive/monte-carlo/410/2007/draws?matchType=singles|website=www.atpworldtour.com|publisher=[[Association of Tennis Professionals]] (ATP)}}&lt;/ref&gt;
+| champd= {{flagicon|USA}} [[Bob Bryan]] / {{flagicon|USA}} [[Mike Bryan]]
+}}
+
+The '''2007 [[Monte Carlo Masters]]''' was a men's [[tennis]] tournament played on [[Clay court|outdoor clay courts]]. It was the 101st edition of the [[Monte Carlo Masters]] and was part of the [[ATP Masters Series]] of the [[2007 ATP Tour]]. It took place at the [[Monte Carlo Country Club]] from 14 April through 22 April 2007. 
+
+==Review==
+[[Image:Marat Safin 2007.jpg|thumb|[[Marat Safin]], who was knocked out in the second round.]]
+[[Rafael Nadal]] won his third consecutive title and Monte Carlo in 2007. The Spaniard, second seed, defeated the current world number one, [[Roger Federer]] in one hour and thirty-six minutes 6–4, 6–4. 
+
+Before the tournament began, British number one [[Andy Murray]] pulled out due to back problems. During the first round matches, there were only a few shocks, with seeded players [[Jarkko Nieminen]] and [[Marcos Baghdatis]] failing to make it past there unseeded opponents. The second round the higher seeded players due to them all receiving a bye through the first round. [[Roger Federer]] defeated Italian [[Andreas Seppi]], and [[Rafael Nadal]] beat [[Juan Ignacio Chela]] in straight sets. The highest seeded player not to make it into the third round was third seed [[Nikolay Davydenko]]. He was defeated by Swedish player [[Robin Söderling]]. Other casualties in the second round were [[Fernando González]], [[Mikhail Youzhny]] and [[David Nalbandian]]. 
+
+In the third round, there were no shock results, with Rafael Nadal and Roger Federer both easing into the next round in straight sets. The quarter final draw was:
+
+* [1] [[Roger Federer]] vs [[David Ferrer]] [12]
+* [16] [[Juan Carlos Ferrero]] vs [[Richard Gasquet]] [11]
+* [10] [[Tomáš Berdych]] vs [[Robin Söderling]]
+* [[Philipp Kohlschreiber]] vs [[Rafael Nadal]] [2]
+
+[[Rafael Nadal]] and [[Roger Federer]] both eased through into the semi-finals. However, both the other matches went to three sets. [[Juan Carlos Ferrero]] beat eleventh seed [[Richard Gasquet]] 5–7, 7–5, 6–2. Plus, [[Tomáš Berdych]] beat the unseeded Swedish player [[Robin Söderling]] 5–7, 6–3, 6–0.
+
+In semi-finals, Federer and Nadal beat their opponents in straight sets to meat each other in the final. After over and hour and a half of tennis however, [[Rafael Nadal]] was victorious defeating the world number one in two sets.
+
+Nadal won his third consecutive Monte Carlo Masters, becoming the first man to achieve this and equalling [[Thomas Muster]]'s record of 3 wins in the process.
+
+The tournament, despite his loss in the final, represented an upturn in fortunes for Roger Federer. After winning the [[2007 Australian Open]] and prestigious [[Dubai Tennis Championships]], Federer suffered early losses in [[2007 Indian Wells Masters|Indian Wells]] and [[2007 Miami Masters|Miami]], tournaments he had won both  in the previous two years.
+
+==Champions==
+===Men's Singles===
+{{main|2007 Monte Carlo Masters – Singles}}
+{{flagicon|ESP}} '''[[Rafael Nadal]]''' defeated {{flagicon|SUI}} [[Roger Federer]], 6–4, 6–4
+
+===Men's Doubles===
+{{main|2007 Monte Carlo Masters – Doubles}}
+{{flagicon|USA}} '''[[Bob Bryan]]''' / {{flagicon|USA}} '''[[Mike Bryan]]''' defeated {{flagicon|FRA}} [[Julien Benneteau]] / {{flagicon|FRA}} [[Richard Gasquet]], 6–2, 6–1
+
+==References==
+{{reflist}}
+
+==External links==
+* {{official website|http://montecarlotennismasters.com}}
+* [http://www.atpworldtour.com/en/tournaments/monte-carlo/410/overview Association of Tennis Professionals (ATP) tournament profile]
+
+{{Monte Carlo Masters tournaments}}
+{{2007 ATP Tour}}
+
+[[Category:2007 ATP Tour|Monte Carlo]]
+[[Category:2007 Monte Carlo Masters| ]]
+[[Category:Monte-Carlo Masters]]
+[[Category:2007 in Monégasque sport]]
+[[Category:Monaco stubs]]
+
+{{Monaco-stub}}</text>
+      <sha1>erysxmw0g9zxqhry1wm82i1cbo5k81k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2015 in Malta</title>
+    <ns>0</ns>
+    <id>46647331</id>
+    <revision>
+      <id>708415806</id>
+      <parentid>690336522</parentid>
+      <timestamp>2016-03-05T13:33:44Z</timestamp>
+      <contributor>
+        <username>Xwejnusgozo</username>
+        <id>15220326</id>
+      </contributor>
+      <minor/>
+      <comment>/* November */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2075">{{Expand list|date=May 2015}}
+{{Year in Malta|2015}}
+
+The following lists events from '''2015 in [[Malta]]'''.
+
+==Incumbents==
+*[[President of Malta|President]]: [[Marie Louise Coleiro Preca]]
+*[[Prime Minister of Malta|Prime Minister]]: [[Joseph Muscat]]
+
+==Events==
+===February===
+*18 February &amp;ndash; The [[Naval Service (Ireland)|Irish Naval Service]] donated the patrol boat [[LÉ Aoife (P22)|LÉ ''Aoife'']] to the [[Maritime Squadron of the Armed Forces of Malta]].&lt;ref&gt;{{cite news|title=Ireland to donate offshore patrol ship to Malta|url=http://www.timesofmalta.com/articles/view/20150219/local/ireland-to-donate-offshore-patrol-ship-to-malta.556672|accessdate=8 May 2015|work=[[Times of Malta]]|date=19 February 2015}}&lt;/ref&gt;
+
+===April===
+*11 April &amp;ndash; The [[Maltese spring hunting referendum, 2015|spring hunting referendum]] and [[Maltese local council elections, 2015|local council elections]] were held.
+
+===May===
+*4 May &amp;ndash; The [[Parliament of Malta]] moves from the [[Grandmaster's Palace in Valletta]] to the purpose-built [[Parliament House (Malta)|Parliament House]].&lt;ref&gt;{{cite news|title=Parliament House inaugurated, holds first sitting: 'A milestone in Malta's parliamentary history' - President|url=http://www.timesofmalta.com/articles/view/20150504/local/parliament-house-inaugurated-holds-first-sitting-a-milestone-in-maltas.566711|accessdate=8 May 2015|work=[[Times of Malta]]|date=4 May 2015}}&lt;/ref&gt;
+
+===November===
+*11–12 November &amp;ndash; The [[Valletta Summit on Migration]] is held in Valletta.
+*27–29 November &amp;ndash; The [[Commonwealth Heads of Government Meeting 2015]] is held in Malta.
+
+==See also==
+*[[Malta in the Eurovision Song Contest 2015]]
+*[[2014–15 Maltese Premier League]]
+*[[2014–15 Maltese FA Trophy]]
+*[[Public holidays in Malta]]
+
+==References==
+{{Commons category|2015 in Malta}}
+{{reflist}}
+
+{{Europe topic|2015 in}}
+
+[[Category:2015 in Malta| ]]
+[[Category:Years of the 21st century in Malta]]
+[[Category:2015 in Europe|Malta]]
+[[Category:2010s in Malta]]
+[[Category:2015 by country|Malta]]
+
+{{Malta-stub}}</text>
+      <sha1>7zpl4ht8maedj9cgud2ups0fbfr2dk1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agumba people</title>
+    <ns>0</ns>
+    <id>3340275</id>
+    <revision>
+      <id>792305213</id>
+      <parentid>792304969</parentid>
+      <timestamp>2017-07-25T19:25:38Z</timestamp>
+      <contributor>
+        <username>Kintu38</username>
+        <id>31586948</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1701">{{More footnotes|date=November 2015}}
+
+The '''Agumba''' (also '''Gumba''') people were an [[ethnic group]] who inhabited the plains of what is now central [[Kenya]], but are now either [[extinct]] or assimilated.
+
+They are known only through the oral tradition of the [[Kikuyu people|Kikuyu]] and [[Ogiek]] peoples, who credit them as being the original inhabitants of the territory. The Agumba are described as being [[hunter-gatherer]]s, and [[pygmy|pygmies]]According to Kikuyu descriptions, they worked with iron and made pottery, and were [[beekeeping|beekeeper]]s. They are probably reated to the [[Khoisan]] peoples of Southern Africa, especially the hunter-gatherer [[San people]]/Bushmen
+
+The Agumba, along with several other groups, were sometimes called the [[Dorobo]] by the [[Maasai people|Maasai]] and other cattle-herding groups. This derogatory term was also used in much of the early academic anthropological literature on the area.
+
+==References==
+*Distefano, John A. (1990) 'Hunters or hunted? Towards a history of the Okiek of Kenya', ''History in Africa'', 17, 47&amp;ndash;57.
+* {{cite book|author=Louis Leakey|title=Mau Mau and the Kikuyu|url=https://books.google.com/books?id=zfn7AQAAQBAJ&amp;pg=PA2|date=5 November 2013|publisher=Taylor &amp; Francis|isbn=978-1-136-53108-8|pages=2–3}}
+
+==External links==
+*[http://www.ogiek.org/indepth/in-depth-hunt-gaterer.htm Ogiek.org article on hunter-gatherers in the Kenyan plains]
+*[http://www.orip.or.ke/history1.htm Ecological and sociological history of the Kenyan plains]{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{Ethnic groups in Kenya}}
+
+[[Category:Ethnic groups in Kenya]]
+
+
+{{Kenya-ethno-group-stub}}</text>
+      <sha1>csmqvk1jhtet4ya08a098qe380dpeue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Air Arabia Jordan</title>
+    <ns>0</ns>
+    <id>28155315</id>
+    <revision>
+      <id>869895908</id>
+      <parentid>868338295</parentid>
+      <timestamp>2018-11-21T02:23:03Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <minor/>
+      <comment>Removed accessdate with no specified URL. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[User:Chris Capoccia|Chris Capoccia]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3861">{{Infobox Airline
+|airline        = Air Arabia Jordan
+|logo           =Air Arabia Logo.svg
+|logo_size      = 250
+|fleet_size     =2
+|destinations   =8
+|IATA           = 9P&lt;ref name="AW"&gt;{{cite journal|title=Global Airline Guide 2017 (Part One)|journal=Airliner World|issue=October 2017|page=18}}&lt;/ref&gt;
+|ICAO           = JAD&lt;ref name="AW"/&gt;
+|callsign       = AIR ARABIA JORDAN
+|parent         = [[Air Arabia]] (49%)&lt;br /&gt; Rum Aviation (51%)
+|company_slogan =
+|founded        = 24 December 2014
+|commenced      = 24 May 2015 
+|headquarters   = Prince Shaker Bin Zaid Street, Shmesani [[Amman]], [[Jordan]]
+|key_people     = Riad Khashman, CEO
+|bases          = [[Queen Alia International Airport]]
+|secondary_hubs =
+|focus_cities   =
+|frequent_flyer =
+|lounge         =
+|alliance       =
+|website        = [http://www.airarabia.com www.airarabia.com]
+}}
+
+'''Air Arabia Jordan''' is a [[low-cost carrier|low-cost]] [[Airline|carrier]] based in [[Jordan]].&lt;ref name=ZAWYA&gt;{{cite news|title=Air Arabia and Rum Aviation to launch Jordan's first low-cost carrier|url=http://www.zawya.com/story/ZAWYA20100622123922/|accessdate=17 December 2012|newspaper=ZAWYA|date=June 22, 2010}}&lt;/ref&gt; The airline is a joint venture between the RUM Group in Jordan and [[Air Arabia]] and is the first low-cost airline based in Jordan.
+
+==History==
+
+In January 2015 Air Arabia announced the acquisition of a 49% stake in Jordanian operator [[Petra Airlines]]. The principal shareholder of Petra Airlines, the RUM Group, retain a 51% stake in the airline, which was rebranded as Air Arabia Jordan in early 2015. It operates 2 Airbus A320 aircraft and there are plans to develop a new hub in Amman.&lt;ref&gt;{{cite journal|title=Air Arabia Expands into Jordan|journal=Airliner World|date=March 2015|page=13}}&lt;/ref&gt;
+
+Air Arabia Jordan ended scheduled service in November 2017 and moved to charter operations.&lt;ref&gt;[https://www.ch-aviation.com/portal/news/61823-air-arabia-jordan-switches-to-charter-operations air arabia jordan switches to charter operations]&lt;/ref&gt;
+
+==Destinations==
+;Egypt
+*[[Sharm el-Sheikh]] - [[Sharm el-Sheikh International Airport]]
+;Georgia
+*[[Tbilisi]] - [[Tbilisi International Airport]]
+
+;Jordan
+**[[Amman]] - [[Queen Alia International Airport]] ''Hub''
+;Kuwait
+* [[Kuwait International Airport]]
+;Saudi Arabia
+*[[Dammam]] - [[King Fahd International Airport]]
+*[[Jeddah]] - [[King Abdulaziz International Airport]]
+*[[Riyadh]] - [[King Khalid International Airport]] &lt;ref&gt;{{Cite web|url = http://www.arabianbusiness.com/air-arabia-jordan-set-launch-flights-riyadh-627413.html|title = Air Arabia Jordan set to launch flights to Riyadh|website = Arabian Business|access-date = 2016-04-05}}&lt;/ref&gt;
+;Turkey
+*[[Istanbul]] - [[Sabiha Gökçen International Airport]]
+
+==Fleet==
+The Air Arabia Jordan fleet consists of the following aircraft (as of August 2017):&lt;ref name="AW"/&gt;
+&lt;center&gt;
+{| class="toccolours" border="1" cellpadding="4" style="border-collapse:collapse;text-align:center"
+|- style="background:#CE2029;"
+|+ '''Air Arabia Jordan Fleet'''
+!&lt;span style="color:white;"&gt;Aircraft&lt;/span&gt;
+!style="width:60px;"|&lt;span style="color:white;"&gt;In Service&lt;/span&gt;
+!&lt;span style="color:white;"&gt;Orders&lt;/span&gt;
+!&lt;span style="color:white;"&gt;Passengers&lt;/span&gt;
+!&lt;span style="color:white;"&gt;Notes&lt;/span&gt;
+|-
+|[[Airbus A320-200]]
+|2
+|&amp;mdash;
+|168
+|
+|-
+!Total
+!2
+!&amp;mdash;
+!
+!colspan="3"|
+|}
+&lt;/center&gt;
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.airarabia.com/home Official website]
+*[http://www.jordanairport.com/airlines/air_arabia_jordan.htm About Air Arabia Jordan]
+
+{{Portalbar|Jordan|Companies|Aviation}}
+{{Airlines of Jordan}}
+
+[[Category:2010 establishments in Jordan]]
+[[Category:Airlines of Jordan]]
+[[Category:Airlines established in 2010]]
+
+
+{{asia-airline-stub}}
+{{Jordan-transport-stub}}
+
+[[ar:العربية للطيران مصر]]
+[[es:Air Arabia Jordan]]</text>
+      <sha1>82pjgqkrinamtoxpv2e01fjk4kbpfrv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Arkan (dance)</title>
+    <ns>0</ns>
+    <id>4735464</id>
+    <revision>
+      <id>748819971</id>
+      <parentid>736948253</parentid>
+      <timestamp>2016-11-10T15:58:30Z</timestamp>
+      <contributor>
+        <ip>77.222.159.141</ip>
+      </contributor>
+      <comment>/* External links */ fixed mistakenly url-encoded links</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1784">{{for|the Romanian traditional dance|Arcan (dance)}}
+
+'''Arkan''' ({{lang-uk|Aркан, Aрґан }}) is a popular dance of the Ukrainian [[Hutsuls|Hutsul]] people (from Hutsulshchyna, southwestern Ukraine).
+
+The Arkan is traditionally performed around a burning bonfire by the men. The word Arkan also refers to the step that the men perform while dancing around the fire. The step begins with the right foot stepping to the side (or double stamping as the dance builds momentum), the left foot crosses behind, the right foot steps to the side again, and the left foot is hopped in front of the dancer with a bent knee. The dance is performed with the men's arms upon one another's shoulders. In professional Ukrainian dances, however, many variations may accompany this root step.&lt;ref&gt;{{cite book|last1=Houston|first1=Ron|title=Folk Dance Problem Solver|date=1987|publisher=The Society of Folk Dance Historians|url=http://www.sfdh.org/encyclopedia/arkan87.php|archiveurl=https://web.archive.org/web/20150901000010/http://www.sfdh.org/encyclopedia/arkan87.php|archivedate=2015-09-01}}&lt;/ref&gt;
+
+There is also a Romanian dance called [[Arcan (dance)|Arcan]].
+
+British folk-punk band [[The Ukrainians]] have a (very fast and furious) track called ''Arkan'' on their ''[[Respublika (Ukrainians album)|Respublika]]'' album.
+
+==References==
+{{Reflist}}
+
+== External links ==
+*Performances by dance troupes
+** [https://www.youtube.com/watch?v=fk7jRd2GMpY Vesnianka]
+** [https://www.youtube.com/watch?v=DRo9LP7TTpDc Barvinok]
+** [https://www.youtube.com/watch?v=JdzynZgu3os Rosi Svitanku]
+
+[[Category:Circle dances|Arkan]]
+[[Category:Hutsuls]]
+[[Category:Ukrainian dances]]
+[[Category:Ukrainian Canadian culture]]
+[[Category:Ukrainian words and phrases]]
+
+
+{{folk-dance-stub}}
+{{Ukraine-stub}}</text>
+      <sha1>8wx7kv2z84bwy627o0wopsejk9v6uof</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ashongman</title>
+    <ns>0</ns>
+    <id>32092183</id>
+    <revision>
+      <id>844846886</id>
+      <parentid>830457501</parentid>
+      <timestamp>2018-06-07T15:34:00Z</timestamp>
+      <contributor>
+        <ip>41.66.247.82</ip>
+      </contributor>
+      <comment>/* Social and Environmental Conditions */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5874">{{Infobox settlement
+&lt;!--See the Table at Infobox Settlement for all fields and descriptions of usage--&gt;
+&lt;!-- Basic info  ----------------&gt;
+|official_name          = Ashongman
+|other_name             = New Ashongman
+|native_name            =  &lt;!-- for cities whose native name is not in English --&gt;
+|nickname               = 
+|settlement_type        = [[Village]]
+|motto                  =
+&lt;!-- images and maps  -----------&gt;
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        = 
+|dot_x =  |dot_y =
+|pushpin_map            = Ghana
+|pushpin_label_position = bottom
+|pushpin_map_caption    = 
+&lt;!-- Location ------------------&gt;
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = [[Image:Flag of Ghana.svg|25px]] [[Ghana]]
+|subdivision_type1      = [[Regions of Ghana|Region]]
+|subdivision_name1      = [[Greater Accra Region]]
+|subdivision_type2      = [[Districts of Ghana|District]]
+|subdivision_name2      = [[Ga East Municipal District|Ga East Municipal]]
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+&lt;!-- Politics -----------------&gt;
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  &lt;!-- for places with, say, both a mayor and a city manager --&gt;
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  &lt;!-- Settled --&gt;
+|established_date       = 
+|established_title2     =  &lt;!-- Incorporated (town) --&gt;
+|established_date2      = 
+|established_title3     =  &lt;!-- Incorporated (city) --&gt;
+|established_date3      =
+&lt;!-- Area    ---------------------&gt;
+|area_magnitude         = 
+|unit_pref                =Imperial &lt;!--Enter: Imperial, if Imperial (metric) is desired--&gt;
+|area_footnotes           =
+|area_total_km2           = &lt;!-- ALL fields dealing with a measurements are subject to automatic unit conversion--&gt;
+|area_land_km2            = &lt;!--See table @ Template:Infobox Settlement for details on automatic unit conversion--&gt;
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+&lt;!-- Population   -----------------------&gt;
+|population_as_of               =2012
+|population_footnotes           =
+|population_note                =
+|population_total               =
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_blank2_title        =Religions
+|population_blank2              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+&lt;!-- General information  ---------------&gt;
+|timezone               = [[Greenwich Mean Time|GMT]]
+|utc_offset             = 
+|timezone_DST           = [[Greenwich Mean Time|GMT]]
+|utc_offset_DST         = 
+|coordinates            = {{coord|5|42|38|N|0|13|59|W|region:GH|display=inline,title}}
+|elevation_footnotes    =  &lt;!--for references: use &lt;ref&gt; &lt;/ref&gt; tags--&gt;
+|elevation_m            = 102
+|elevation_ft           =
+&lt;!-- Area/postal codes &amp; others --------&gt;
+|postal_code_type       =  &lt;!-- enter ZIP code, Postcode, Post code, Postal code... --&gt;
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}
+
+'''Ashongman''' is a developing town in the [[Ga East Municipal District|Ga East Municipal district]], a [[Districts of Ghana|district]] in the [[Greater Accra Region]] of [[Ghana]].&lt;ref name="Ga East Municipal District"&gt;[http://gaeast.ghanadistricts.gov.gh/?arrow=dnf&amp;_=2&amp;r=1&amp;rlv=towns Ga East Municipal District]&lt;/ref&gt;
+
+==Town structure==
+The town is under the jurisdiction of the [[Ga East Municipal District]] and is in the [[Dome-Kwabenya (Ghana parliament constituency)|Dome-Kwabenya constituency]] of the [[Ghana Parliament|Ghana parliament]].&lt;ref&gt;{{cite web |url=http://library.fes.de/pdf-files/bueros/ghana/03610.pdf |title=Elections 2004. Ghana's Parliamentary and Presidential  Elections|accessdate=2011-06-13 |pages=11 |publisher=[[Electoral Commission of Ghana]]| archiveurl= https://web.archive.org/web/20110522115353/http://library.fes.de/pdf-files/bueros/ghana/03610.pdf| archivedate= 22 May 2011 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+==Social Conditions==
+The town has had numerous issues with the provision of fresh water.The town is divided into three subtowns which are the ashongman estate, Old ashongman and Manna. Almost 70% percent of the roads are bad. The people of Ashongman wants the government to construct roads.&lt;ref&gt;[https://www.youtube.com/watch?v=qC9A5UaOAXc Kwabenya - Ashongman Water Supply]. ''[[YouTube]]''.&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+[[Category:Populated places in the Greater Accra Region]]
+
+
+{{Ghana-stub}}</text>
+      <sha1>dew7audjh554jkssvsnrdzilqh8qjp8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Beijing Shou Du Shenghuo Guangbo</title>
+    <ns>0</ns>
+    <id>7143928</id>
+    <revision>
+      <id>857396422</id>
+      <parentid>857396406</parentid>
+      <timestamp>2018-08-31T12:28:45Z</timestamp>
+      <contributor>
+        <ip>182.90.211.84</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="961">{{Infobox Radio station
+| name      = Beijing Shou Du Shenghuo Guangbo
+| image     = beijingshoudu.jpg
+| city      = [[Beijing]]
+| area      = [[Beijing]]
+| branding  = Beijing Shou Du Shenghuo Guangbo
+| slogan    =
+| airdate   =
+| owner     = [[Beijing Ren Min Guangbo Dian Tai]]
+| frequency = 95.4 ([[MHz]])&lt;BR&gt;603 ([[kilohertz|kHz]])
+| format    = "city life"
+| website   = https://web.archive.org/web/20060901112431/http://www.hiu.cn:80/am603/
+| callsign_meaning =
+}}
+
+'''Beijing Shou Du Shenghuo Guangbo''' is the radio station broadcasting about Beijing city life on FM95.4 and AM603.  It is part of the [[Beijing Ren Min Guangbo Dian Tai]] group.
+
+==External links==
+* [http://www.hiu.cn/am603/ Official Website (Chinese)]
+{{Beijing Radio}}
+{{Beijing People Broadcasting Station}}
+
+{{coord missing|Beijing}}
+
+[[Category:Mandarin-language radio stations]]
+[[Category:Radio stations in China]]
+[[Category:Media in Beijing]]
+
+
+{{PRChina-radio-station-stub}}</text>
+      <sha1>g9z7bclipxucd8ixoofw4jax2h786yp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bible translations into Maltese</title>
+    <ns>0</ns>
+    <id>33427573</id>
+    <revision>
+      <id>761120623</id>
+      <parentid>703882204</parentid>
+      <timestamp>2017-01-21T01:00:23Z</timestamp>
+      <contributor>
+        <username>Continentaleurope</username>
+        <id>24771007</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="666">{{Unreferenced|date=November 2015}}
+{{Expand Maltese|otherarticle=Bibbja#Storja_tal-Bibbja_bil-Malti|date=February 2016}}
+The Maltese nationalist [[Mikiel Anton Vassalli]], a convert to [[Protestantism]], translated the [[Gospel]]s and [[Acts of the Apostles]] into [[Maltese language]]. This was then known as the "[[Kafir]] version". [[Michael Camilleri]] (c.1814–1903), afterwards vicar of [[Lyford, Oxfordshire|Lyford, Berkshire]], revised Vassali's version translated the New Testament and the [[Book of Common Prayer]] into Maltese.
+
+{{bible-translation-stub}}
+{{Malta-stub}}
+
+[[Category:Bible translations by language|Maltese]]
+[[Category:Maltese language]]</text>
+      <sha1>4hzorz9zxfxcjh5wje0z6hwy842f8nm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>BirGün</title>
+    <ns>0</ns>
+    <id>3360777</id>
+    <revision>
+      <id>827952706</id>
+      <parentid>749273833</parentid>
+      <timestamp>2018-02-27T18:32:45Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>Fix [[:Category:Pages using deprecated image syntax]]; [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2754">{{More citations needed|date=March 2013}}
+{{Infobox newspaper
+|name                 = BirGün
+|logo                 = BirGün logo.svg
+|logo_size            = 175px
+|type                 = Daily newspaper
+|format               = Broadsheet
+|publisher            = Birgün Yayıncılık ve İletişim Tic. A.Ş.
+|chiefeditor          = Berkant Gültekin, Can Uğur
+|foundation           = {{Start date|2004|04|14|df=yes}}
+|political            = [[Socialism]]&lt;br/ &gt;[[Left-wing politics|Leftism]]&lt;br/ &gt;[[Ecosocialism]]
+|language             = [[Turkish language|Turkish]]
+|headquarters         = [[Mecidiyeköy]], [[Istanbul]]
+|circulation = 32,423 &lt;ref&gt;{{cite web|url=http://www.medyatava.com/tiraj|title=Tiraj - MedyaTava - Yazmadıysa Doğru Değildir|date=7 March 2016|publisher=}}&lt;/ref&gt;
+|website              = {{URL|http://www.birgun.net/}}
+}}
+
+'''''BirGün''''' (''One Day'') is an [[Istanbul]]-based [[Turkey|Turkish]] [[left-wing]] daily.
+
+The paper was founded in 2004 by a group of Turkish intellectuals. The most important point of the newspaper is that it is not owned by any parent company or conglomerate.
+
+Since its foundation, the newspaper had to face serious pressures from publishing trusts, mainly to affiliated with [[Doğan Media Group]] that owns the vast majority of the market. Whereas most of the newspapers in Turkey pay paper and publishing cost as installments, ''BirGün'' had to pay in cash. In order to afford the costs, the newspaper first launched a subscription campaign, then raised its price to 0.75&amp;nbsp;[[Turkish lira|TL]]. The price was 1 TL in 2012 and 1,5 TL in Summer 2015 while also costs 40 [[kuruş]] (0,4 TL) on [[universities in Turkey]].
+
+{{clear left}}
+Most of the ''BirGün'' columnists are members or sympathizers of the socialist [[Freedom and Solidarity Party]] (ÖDP), which is a member of [[Party of the European Left]] and one of the founders of [[European Anti-Capitalist Left]].
+
+==Columnists==
+&lt;!-- Please respect alphabetical order --&gt;
+* [[Korkut Boratav]]
+* {{Interlanguage link multi|Şeyhmus Diken|tr}}
+* [[Hrant Dink]] (assassinated on January 19, 2007)
+* [[Süreyya Evren]]
+* {{Interlanguage link multi|Tarık Günersel|tr}}
+* [[Zeynep Kuray]]
+* [[Sabri Kuşkonmaz]]
+* [[Oğuzhan Müftüoğlu]]
+* [[Sırrı Süreyya Önder]]
+* [[Harun Tekin]]
+* [[Ece Temelkuran]]
+
+== References ==
+&lt;references /&gt;
+
+==External links==
+*{{official|http://www.birgun.net/ }} {{tr icon}}
+*[http://www.birgun.net/writer_index.php BirGün Columnists]
+
+{{DEFAULTSORT:BirGun}}
+[[Category:Newspapers published in Istanbul]]
+[[Category:Turkish-language newspapers]]
+[[Category:Publications established in 2004]]
+[[Category:Socialist newspapers]]
+[[Category:2004 establishments in Turkey]]
+
+
+{{Turkey-newspaper-stub}}</text>
+      <sha1>bludc5re4s9o56q19g0lalvfsm8bgn9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bolungarvíkurgöng</title>
+    <ns>0</ns>
+    <id>29461342</id>
+    <revision>
+      <id>836365522</id>
+      <parentid>791900257</parentid>
+      <timestamp>2018-04-14T10:07:49Z</timestamp>
+      <contributor>
+        <ip>46.208.233.38</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2544">{{Infobox tunnel
+|name         = Óshlíð Tunnel
+|image        = Bolungarvíkurgöng.JPG
+|caption      = Southeast entrance
+|location     = [[Westfjords]], [[Iceland]]
+|route        = [[Route 61 (Iceland)|61]]
+|status       =
+|startwork    = 2008
+|opened = 2010
+|owner        =
+|operator     = [[Vegagerðin]]
+|traffic      = Automotive
+|toll         =
+|vpd          = 800
+|length       = {{convert|5.4|km|abbr=on}}
+|lanes        = 2
+|speed        =
+|hielevation  =
+|lowelevation =
+|height       =
+|width        =
+|grade        = 2%
+}}
+
+'''Bolungarvíkurgöng''' is a tunnel in northwestern [[Iceland]], located in [[Westfjords]] along Route 61. It has a length of {{convert|5156|m|ft|0|abbr=on}} and opened on 25 September 2010.&lt;ref name="Vegagerdin"&gt;{{cite web|url=http://www.vegagerdin.is/upplysingar-og-utgafa/frettir/nr/2439 |title=Bolungarvíkurgöng opnuð |accessdate=November 3, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110607032538/http://www.vegagerdin.is/upplysingar-og-utgafa/frettir/nr/2439 |archivedate=June 7, 2011 |df= }}&lt;/ref&gt;
+
+One of the main objectives of building the tunnel was to replace one of Iceland’s most dangerous roads which connected two of the largest towns in the area, [[Ísafjörður]] and [[Bolungarvík]], and thereby improving road safety. The old road lies along the seashore under the steep and unstable mountain hills of Óshlíd. Other objectives include improved road connections and reduced travel times so the distance between Ísafjordur and Bolungarvík will be similar as between districts in a city. The tunnel was opened for traffic on 15 July 2010.
+
+Bolungarvik Tunnel details:&lt;ref&gt;Mannvit, engineering firm -{{cite web |url=http://www.mannvit.com/InfrastructureTransport/Tunnels/Projectexamples/bolungarvik-road-tunnel |title=Bolungarvik Road Tunnel |accessdate=October 24, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20120406023648/http://www.mannvit.com/InfrastructureTransport/Tunnels/Projectexamples/bolungarvik-road-tunnel |archivedate=April 6, 2012 |df= }}&lt;/ref&gt;
+
+* Tunnel length: 5.3&amp;nbsp;km 
+* Cross section of the tunnel: 54 m2
+* Maximum width of the tunnel: 8.7 m
+* Two-lane highway
+* Number of emergency lay-bys: 10
+
+==References==
+{{Reflist}}
+
+{{coord|66|07|50|N|23|10|02|W|region:IS-4_type:landmark_source:dewiki|display=title}}
+
+{{DEFAULTSORT:Bolungarvikurgong}}
+[[Category:Road tunnels in Iceland]]
+[[Category:Tunnels completed in 2010]]
+[[Category:Buildings and structures in Westfjords]]
+
+
+{{Iceland-transport-stub}}
+{{Europe-tunnel-stub}}</text>
+      <sha1>7msdibpnd7zj4i7dv41plffyt1bgqev</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bulgarian Deposit Insurance Fund</title>
+    <ns>0</ns>
+    <id>38881049</id>
+    <revision>
+      <id>860269925</id>
+      <parentid>763460571</parentid>
+      <timestamp>2018-09-19T14:20:49Z</timestamp>
+      <contributor>
+        <username>American Money</username>
+        <id>19480448</id>
+      </contributor>
+      <comment>added [[Category:1999 establishments in Bulgaria]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1137">{{expand language|topic=|langcode=bg|otherarticle=Фонд за гарантиране на влоговете в банките|date=April 2016}}
+The '''Bulgarian Deposit Insurance Fund''' (DIF; [[Bulgarian language|Bulgarian]]: Фонд за гарантиране на влоговете) is a [[Bulgaria|Bulgarian]] [[deposit insurance]] fund. It was established under the Law on Bank Deposit Guarantee and has operated since January 1999. It protects personal and corporate deposits with each individual bank, regardless of the number and size of the deposits, up to [[Bulgarian lev|BGN]]196,000.&lt;ref name="How Much"&gt;{{cite web| author=Bulgarian Deposit Insurance Fund|date=September 28, 2015|url=http://dif.bg/en/how-much/ |title=How Much - BDIF |publisher=''Bulgarian Deposit Insurance Fund''}}&lt;/ref&gt;
+
+==See also==
+*[[List of banks in Bulgaria]]
+*[[Bulgarian National Bank]]
+*[[Economy of Bulgaria]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://dif.bg/en/ Official website]
+
+[[Category:Deposit insurance]]
+[[Category:Banks of Bulgaria]]
+[[Category:1999 establishments in Bulgaria]]
+
+{{bulgaria-stub}}
+{{finance-stub}}</text>
+      <sha1>idx99l4vl8r1d6e265jiq6miwk4conb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Burkina Airlines</title>
+    <ns>0</ns>
+    <id>1601442</id>
+    <revision>
+      <id>869046849</id>
+      <parentid>668371011</parentid>
+      <timestamp>2018-11-16T02:00:34Z</timestamp>
+      <contributor>
+        <username>Wbm1058</username>
+        <id>14383484</id>
+      </contributor>
+      <minor/>
+      <comment>sp.: [[International Civil Aviation Organization]], per [[MOS:CONSISTENCY]], proper names use the subject's own spelling (via [[WP:JWB]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="993">{{Unreferenced|date=December 2009}}
+{{Infobox airline
+| airline=Burkina Airlines
+| image=&lt;!-- logo --&gt;
+| caption=&lt;!-- Caption for the image --&gt;
+| IATA=3B
+| ICAO=BFR
+| callsign=Burklines
+| founded=2003
+| commenced=
+| ceased=
+| bases= &lt;!-- {{plainlist|*[[Airport Name1]] }} --&gt;
+| fleet_size= &lt;!--  See [[Air #Fleet|Fleet]] below --&gt;
+| destinations= &lt;!-- See [[Air #Destinations|Destinations]] below --&gt;
+| headquarters=[[Ouagadougou]], [[Burkina Faso]]
+}}
+
+'''Burkina Airlines''' was an [[airline]] based in [[Ouagadougou]], [[Burkina Faso]]. It was established in 2003 and started operations in 2004. It operated services between [[Burkina Faso]] and [[France]].
+
+==Code data==
+*[[International Air Transport Association|IATA]] Code: '''3B'''
+*[[International Civil Aviation Organization|ICAO]] Code: '''BFR'''
+*[[Airline call sign|Callsign]]: '''BURKLINES'''
+
+[[Category:Defunct airlines of Burkina Faso]]
+[[Category:Airlines established in 2003]]
+
+
+{{Africa-airline-stub}}
+{{BurkinaFaso-stub}}</text>
+      <sha1>lzexwoyrav8413kc97393c0vp44nstc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Coat of arms of Focșani</title>
+    <ns>0</ns>
+    <id>18193231</id>
+    <revision>
+      <id>679179914</id>
+      <parentid>647086134</parentid>
+      <timestamp>2015-09-02T23:08:37Z</timestamp>
+      <contributor>
+        <username>Good Olfactory</username>
+        <id>6454287</id>
+      </contributor>
+      <comment>+ 6 categories using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1266">{{Infobox coat of arms
+ | name             = Coat of arms of [[Focşani]]
+ | image            = ROU VN Focsani CoA.jpg
+ | image_width      = 200
+ | middle           = 
+ | middle_width     = 
+ | lesser           = 
+ | lesser_width     = 
+ | armiger          = City Government
+ | year_adopted     = 
+ | shield           = 
+ | crest            = A seven tower [[mural crown]]
+ | supporters       = None
+ | motto            = None
+ | other_elements   = 
+ | earlier_versions = 
+ | use              = On the City hall's and Local Council's documents
+}}
+The '''coat of arms of Focşani''' is the official heraldic arms of the Romanian city of [[Focşani]].
+
+== History ==
+&lt;gallery&gt;
+File:Interbelic Focsani CoA.png|Coat of arms in the interwar period
+File:ROU_VN_Focsani_CoA.png|Former coat of arms (until 2014)
+&lt;/gallery&gt;
+
+== References ==
+
+{{Romanian heraldry}}
+
+{{Romania-stub}}
+{{Heraldry-stub}}
+
+{{DEFAULTSORT:Coat of arms of Focsani}}
+[[Category:Municipal coats of arms in Romania|Focsani]]
+[[Category:Coats of arms with crowns|Focsani]]
+[[Category:Coats of arms with stars|Focsani]]
+[[Category:Coats of arms with moons|Focsani]]
+[[Category:Coats of arms with cattle|Focsani]]
+[[Category:Coats of arms with eagles|Focsani]]
+[[Category:Coats of arms with suns|Focsani]]</text>
+      <sha1>5fqsgczkqiq8m0iezvgfkddna86q1kf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Combating Corruption</title>
+    <ns>0</ns>
+    <id>51717958</id>
+    <revision>
+      <id>849653584</id>
+      <parentid>796342401</parentid>
+      <timestamp>2018-07-10T12:52:22Z</timestamp>
+      <contributor>
+        <username>Sadads</username>
+        <id>563447</id>
+      </contributor>
+      <minor/>
+      <comment>link [[media independence]] using [[:en:User:Edward/Find link|Find link]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1600">{{unreferenced|date=September 2016}}
+
+'''Combating Corruption''' is a Federal law of the [[Russian Federation]] that took effect on January 10, 2009. It establishes basic principles of combating corruption as well as the legal and organizational frameworks for preventing and fighting corruption. The law also seeks to minimize the consequences of corrupt offenses.
+
+Corruption is defined as the illegal use of an official's position contrary to the legitimate interests of society and the state, combined with obtaining or illegal provision of benefits to the official.
+
+Among the anti-corruption measures are elimination of unjustified prohibitions and restrictions, especially in the area of economic activity, higher wages as well as sotsgaranty for state and municipal employees, the establishment of mechanisms of public control over the work of government, anti-corruption [[propaganda]], ensuring [[media independence]], tightening requirements for civil servants and others.
+
+The law requires [[civil servants]] to inform their employer, the prosecutor's office or other state bodies of all bribe attempts. In addition, civil servants are obliged to declare their income and wealth (the list of declared income and assets) and the income and property of the spouse and minor children. In order to prevent [[conflicts of interest]], civil servants holding securities or shares (including participation interests) need to transfer them to trust management.
+
+==See also==
+* [[Russian anti-corruption campaign]]
+
+{{Portal bar|Law|Russia}}
+
+[[Category:Corruption in Russia]]
+
+
+{{Europe-law-stub}}</text>
+      <sha1>cdqz079tjc3vvfo53gxg16h506fhpiz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Communal oven</title>
+    <ns>0</ns>
+    <id>3546056</id>
+    <revision>
+      <id>810058105</id>
+      <parentid>715709188</parentid>
+      <timestamp>2017-11-13T03:34:19Z</timestamp>
+      <contributor>
+        <username>NihlusBOT</username>
+        <id>31996569</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: fix deprecated Citation Style 1 parameters ([[Wikipedia:Bots/Requests for approval/NihlusBOT 9|Task 9]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4046">[[File:Urval - Four banal -1.JPG|thumb|upright|''Four banal'' at [[Urval]], Dordogne, France]]
+The '''''four banal''''' (English: '''common oven''') was a feudal institution in medieval [[France]]. The [[feudal lord]] (French: ''seigneur'') often had, among other [[Banalité|banal rights]], the duty to provide and the privilege to own all large ovens within his [[fief]], each operated by an ovenmaster or ''fournier''. In exchange, personal ovens were generally outlawed and commoners were thus compelled to use the seigniorial oven to bake their bread. Such use was subject to payment, in kind or money, originally intended merely to cover the costs associated to the construction, maintenance and operation of the oven.&lt;ref&gt;{{Cite book|first1=François|last1=de Boutaric|first2=Théodore|last2=Sudre|title=Traité des droits seigneuriaux et des matiéres feodales|trans-title=Treaty on seigniorial rights and feudal matters|publisher=Jean-François Forest|location=Toulouse|year=1767|origyear=First published 1745|language=French|chapter=1ère partie : Du Bail à Cens ou à rente, et des Droits dûs au Seigneur, Censuel et Directe – Chapitre 11 : De la Bannalité|page=379|url=http://openlibrary.org/books/OL24992301M/|chapter-url=}}&lt;/ref&gt; Seigniorial ovens were [[masonry oven]]s built on the Roman plan and were large enough to hold an entire community's ration of [[bread]].
+
+For example, in the hamlet of Nan-sous-Thil ([[Côte-d'Or]], France), the villagers were required to bake their bread at the ''four banal'', as at home they were permitted only a small oven placed under the hood of the chimneypiece, for baking "''[[Cake|gâteau]] et [[flan]]''". Those regulations sought to reduce the risk of fire where [[thatch]]ed cottages huddled together. The danger was real, as demonstrated in 1848 when a full quarter of the neighbouring hamlet of Thil-la-Ville was consumed by a fire that ignited from sparks when a [[housewife]] heated her oven.&lt;ref&gt;Lucien Logeat, ''Nan-sous-Thil'' Semur-en-Auxois, 1940, noted in a review by Albert Colombet, "Review: En feuilletant une monographie de village", ''Annales d’histoire sociale'' '''3'''.1/2 (January - June 1941):78-80.&lt;/ref&gt;
+
+The oven design, but not necessarily the feudal monopoly on oven operation, was carried to French colonies. In [[New France]], it was the only banal right commonly established and the oven's fortified construction also served to protect the colonists during skirmishes.&lt;ref&gt;{{Cite web|url=http://faculty.marianopolis.edu/c.belanger/quebechistory/encyclopedia/BanalRights-Segniorialsystem-NewFrance.htm|accessdate=2013-04-18|title=Banal rights|work=Quebec history|first1=Claude|last1=Bélanger|publisher=Marianopolis College|date=January 2005}}&lt;/ref&gt;
+
+The ''four banal'' system seems to have died out in France during the 18th century, though it was a time when some dormant seigneurial rights were being insisted upon by an aristocracy hard-pressed for cash, as an official ''mémoire'' suggests: {{Quote|The lord will do well not to raise the question, taking into consideration that times have changed, seeing the scarcity of wood and the poverty of the populace, whom the exercise of this right seems to greatly trouble. If it is through the negligence of the lord that this right has fallen into desuetude, let everyone profit from it without injury".&lt;ref&gt;''Le seigneur fera bien de ne pas élever la question par considération pour la différence des temps, attendu la rareté du bois et la pauvreté des habitants, que l'exercise de ce droit paraît incommoder beaucoup. Si c'est par négligence du seigneur que ce droit est tombé dans l'oubli, que les habitants en profitent paisiblement''; quoted in Colombet 1941:79.&lt;/ref&gt;}}
+
+Traditions surrounding the ''four banal'' may have lasted as late as [[World War II]]. In some rural areas of France, the old communal ovens are still extant (''illustration'') and are sometimes used for community celebrations.
+
+== Notes ==
+{{Reflist|2}}
+
+[[Category:Ovens]]
+
+
+{{Europe-hist-stub}}
+
+[[fr:Four banal]]</text>
+      <sha1>m37tskpx7nud96cdl7gondo21r1wpe5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Confidence-building measures</title>
+    <ns>0</ns>
+    <id>3369160</id>
+    <revision>
+      <id>823973758</id>
+      <parentid>820673990</parentid>
+      <timestamp>2018-02-04T15:47:36Z</timestamp>
+      <contributor>
+        <username>Venkat Venki</username>
+        <id>33011154</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17800">'''Confidence-building measures''' ('''CBMs''') or '''confidence- and security-building measures''' are in actions taken to reduce fear of attack by both (or more) parties in a situation of tension with or without physical conflict. The term is most often used in the context of international politics, but is similar in logic to that of [[trust (sociology)|trust]] and [[interpersonal communication]] used to reduce conflictual situations among human individuals. CBMs emerged from attempts by the [[Cold War]] superpowers and their military alliances (the [[North Atlantic Treaty Organisation]] and the [[Warsaw Pact]]) to avoid nuclear war by accident or miscalculation. However, CBMs also exist at other levels of conflict situations, and in different regions of the world although they might not have been called CBMs.
+
+Mathematically, this term assumes that a [[positive feedback]] model, where fear (and/or suspicion) of military attack or [[human right]]s violations is the positive feedback factor, is a valid model of the conflict. The actions which constitute confidence-building measures provide a [[negative feedback]] to the conflict, which weakens, or possibly cancels or reverses the tension which would otherwise grow [[exponential growth|exponentially]] and eventually turn into a [[war]].
+
+==Information exchange and verification==
+In international relations, the way that confidence-building measures are intended to reduce fear and suspicion (the positive feedbacks) is to make the different states' (or opposition groups') behaviour more predictable.
+
+This typically involves exchanging information and making it possible to verify this information, especially information regarding armed forces and military equipment.
+
+=== Examples ===
+1. CBMs dealing with troop movements and exercises:
+:a. Notification of maneuvers (with different procedures and length of advance notice for different types and sizes of maneuvers).
+:b. Notification of alert exercises and mobilization drills.
+:c. Notification of naval activities outside of normal areas.
+:d. Notification of aircraft operations and flights near sensitive and border areas.
+:e. Notification of other military activities (in the "out of garrison" category) which might be misinterpreted.
+
+2. CBMs dealing with exchanges of information.
+Information may be exchanged, directly or through third parties, in the following categories:
+:a. Military budgets
+:b. New equipment and arms
+:c. Unit locations
+:d. Significant changes in a unit's size, equipment or mission
+:e. The major elements of strategic and tactical doctrine
+
+3. CBMs dealing with exchanges of personnel.
+These personnel exchanges should be balanced in terms of numbers and duration, and could include:
+:a. Inviting observers to maneuvers, exercises and "out of garrison" activities. (The observers could be from neighboring states, from a third party neutral nation, or from an international organization).
+:b. Stationing permanent liaison observers at major headquarters. (As in a above, the observers could be from neighbors, neutrals, or international organizations).
+:c. Exchanging personnel as students or instructors at military academies, military schools, and war colleges.
+:d. Exchanging military attachés from all three services (land, sea, air). These attaché positions should be filled by highly qualified personnel, and not be used as "golden exiles" to get rid of officers who are politically undesirable.
+
+4. CBMs dealing with the assembly, collation, and dissemination of data.
+:a. A central registry should be set up (under international organization auspices) to assemble, collect, analyze and publish information on armaments, organization and disposition of military units.
+:b. Independent technical means (under national or international organization control) should be available to verify this data. There should be agreement on the nature of these means and an understanding that there will be no interference with these means.
+
+5. CBMs dealing with border tensions.
+:a. Set up demilitarized zones in sensitive border areas. Depending on the sensitivity of the area and the tensions between the two countries, certain types of weapons and units (e.g., armor, artillery) could be excluded from these areas.
+:b. Establish joint patrols in these areas (with or without the participation of other third party neutrals).
+:c. Establish fixed observation posts in these areas manned by neutrals and representatives from the two border nations.
+:d. Set up sensors (ground, tower, air, tethered aerostat) to supplement these patrols and observation posts.
+
+6. CBMs dealing with actions which might be interpreted as provocative.
+:a. Agreement should be reached on acceptable and unacceptable military activities, especially in sensitive and border areas.
+:b. Clear limits should be placed on those military activities, such as a mobilizations and calling up selected reserves, which could lead to misunderstandings. Notification procedures should be established for practice movements.
+
+7. CBMs dealing with communications.
+:a. Direct ("hot line") communications systems should be established between heads of state, chiefs of military forces (defense ministers), general staffs, and units in contact across a border.
+:b. The use of coded military message traffic (on-line and off-line cryptography) should be limited.
+
+8. CBMs dealing with weapons.
+:a. Agreement should be reached on levels and types of weapons, with emphasis on the exclusion of high-performance and expensive weapons systems.
+:b. Agreement should be reached on levels of military arms budgets.
+:c. Defensive weapons (anti-aircraft artillery, anti-tank weapons, mines) should be given preference in ceilings over offensive weapons (tanks, artillery, aircraft).
+
+9. CBMs dealing with extra-military contacts
+:a. Encourage visits by military athletic teams.
+:b. Encourage social and professional contacts through the attaché network and the various elements of the regional military system.
+
+10. CBMs dealing with training and education.
+:a. Teach CBM approaches in national military academies, staff schools, and war colleges, as well as in the multinational military schools.
+:b. Apply CBM techniques in command post and field exercises.
+:c. Encourage the development of military trans-nationalism (i.e., a sense of military professionalism and mutual respect that transcends national boundaries).
+:d. Examine primary and secondary school curricula and texts for aggressive, hostile or false information on potential adversaries.
+
+11. CBMs and regional military systems.
+:a. The institutions and activities of regional military systems such as the Inter-American Military System should be examined to see how they can be used in support of a confidence-building regime. The CBM support functions can include verification, contacts, channel of communications and a forum for expressing a wide range of ideas. (The institutions of the Inter-American Military System include: [[Inter-American Defense Board]], [[Inter-American Defense College]], multinational military schools in Panama, Service Chief's Conferences, military attaches, joint exercises, communications links, etc).
+:b. Consideration should be given to lowering the presently high U.S. profile in most of the institutions of the Inter-American Military System, and to the possibility of moving key institutions (Board and College) to a Latin American country.
+
+12. CBMs and functionalism.
+Certain functional areas of military-to-military cooperation should be assessed for their possible value as confidence-builders, even between adversary nations. These include: search and rescue (SAR) missions for aircraft and shipping; disaster relief; hurricane tracking; civic action; humanitarian projects.
+
+13. CBMs dealing with ways of expanding CBMs.
+:a. Establish a regional or subregional mechanism, similar to the [[Conference on Security and Cooperation in Europe]] (CSCE) to study confidence-building measures and ways to improve and increase them.
+:b. Discuss CBMs at the periodic conferences of service chiefs.
+:c. Explore the possibility of extending CBMs geographically to other areas. In the Central American case to the Caribbean and South America.
+
+==People to people contacts==
+Confidence-building measures between [[sovereign states]] have for many centuries also included the existence of and increased activities by [[embassy|embassies]], which are state institutions geographically located inside the territory of other states, staffed by people expected to have extremely good [[interpersonal relations|interpersonal skills]] who can explain and resolve misunderstandings due to differences in language and culture which are incorrectly perceived as threatening, or encourage local knowledge of a foreign culture by funding artistic and cultural activities.
+
+A much more [[grassroots]] form of confidence building occurs directly between ordinary people of different states. Short visits by individual children or groups of children to another state, and longer visits (6–12 months) by secondary and tertiary students to another state, have widely been used in the [[European Union]] as one of the methods of decreasing the tensions which had earlier led to many centuries of inter-European wars, culminating in the first and second [[World War I|world wars]].
+
+==Validity of the model==
+If the [[feedback]] model assumed by the confidence-building measure mechanism is correct, then the rapidly developing improvement in communication between ordinary people by the [[internet]] should provide extremely robust, fast methods of information exchange and verification, as well as improved people-to-people contacts and general building of [[trust (sociology)|trust]] networks, reducing the intensity and frequency of [[war]]s.  Evidence to date, however, suggests that the internet is as likely to inflame opinion and increase conflict (or at least tensions) as individuals are exposed to significantly different points of view.
+
+==Confidence building viewed as a process==
+
+An alternative analytic approach to understanding confidence building looks at broader process concepts rather than concentrating on specific measures. This approach finds its fullest expression in ''Confidence Building in the Arms Control Process: A Transformation View'' (James Macintosh (Ottawa, Canada: Department of Foreign Affairs and International Trade, Arms Control and Disarmament Studies Number 2, 1996. JX 1974.M32 1996)).
+
+''Confidence Building in the Arms Control Process: A Transformation View'' sees conventional understandings of confidence building as incomplete and focuses on why and how developing confidence-building arrangements can help to improve security relations. Confidence building, according to the transformation view, is a distinct activity undertaken by policy makers with the minimum intention of improving some aspects of a traditionally antagonistic security relationship through security policy coordination and cooperation. It entails the comprehensive process of exploring, negotiating, and then implementing tailored measures, including those that promote interaction, information exchange, and constraint. It also entails the development and use of both formal and informal practices and principles associated with the cooperative development of CBMs. When conditions are supportive, the confidence building process can ''facilitate, focus, synchronize, amplify, and generally structure the potential for a significant positive transformation in the security relations of participating states''. Thus, the confidence-building process involves more than simply the production of a confidence building agreement and definitely should not be confused with what specific CBMs do.
+
+The serious pursuit of legitimate confidence-building arrangements, according to the transformation view, is an activity that is particularly well-suited to fostering positive changes in security thinking (transformation) when conditions are supportive. This is due to the activity's fundamentally cooperative character and the reinforcing nature of the confidence-building measures that comprise an arrangement. Confidence building, because of its basic character, is able to facilitate and structure the potential for change in security relationships when at least some states are dissatisfied with, and beginning to question, status quo security policies and approaches.
+
+A particularly important dimension of the transformation view is the proposition that the changes in security thinking facilitated by confidence building can become ''institutionalized as a collection of new rules and practices stipulating how participating states should cooperate and compete with each other in their security relationship''. This restructured relationship redefines expectations of normal behaviour among participating states. Without at least a modest transformation of basic security expectations flowing from its application, ''it is difficult to see how confidence building can improve basic security relations in meaningful ways''.
+
+Confidence building appears to offer considerable promise as a security management approach. However, this potential cannot be fully realized unless a policy-relevant and conceptually sound understanding of the confidence-building process and how it works animates application efforts. Relying on the traditional "minimalist" accounts of confidence building, with their tendency to reify the operational content of confidence-building measures as the essence of "confidence building," is unlikely to provide much help. This latter approach does not speak to the conditions that should be in place for effective confidence building to occur and ''lacks a convincing account of why and how adopting these measures will improve security relations''. (Text drawn from the executive summary of ''Confidence Building in the Arms Control Process: A Transformation View'', with permission of the author and the Department of Foreign Affairs and International Trade.)
+
+==Confidence building in Iraq and Afghanistan==
+
+Through trial and error, service members have learned that COIN and stabilization operations require confidence-building measures. For the counterinsurgent, the first critical factor required to build trust is the ability to understand the context of the situation fully.  Cultural differences in education systems, religion, symbols, or behavioral norms could impede communication and the development of trust. As such, the counterinsurgent must always be aware of societal and cultural areas of sensitivity. Overall, the ability to understand underlying assumptions, past experiences, and the limiting factors of context will help set the stage for building trust.
+
+The second critical factor is that it will take time. The time required to build trust can range from a few weeks to six months or more. With focused effort and regular interaction, trust typically forms at around the two- to- three-month mark. If the parties share significant risk, such as high levels of enemy contact, a strong bond of trust can form in a matter of weeks. 
+
+The third critical factor is the use of confidence-building measures. Confidence-building measures are the activities that can bring conflicts closer to positive resolution through of promotion the belief that, in the future, each party will act in a mutually beneficial manner. In COIN operations, confidence-building measures generally fall into the following categories: a) Physical measures, b) Communication measures, and c) Relationship measures (See Figure Below).
+
+
+[[File:Trust and Confidence.png|400px|thumbnail|center|Model for building trust and confidence  ]]
+
+==See also==
+*[[Appeasement]]
+*[[Conflict resolution]]
+*[[Confidence-building measures in South America]]
+*[[Preventive Diplomacy]]
+
+==References==
+*Beltrán, Virgilio. "Buscando Nuevos Roles para los Ejércitos de América Latina", ''International Congress of Military Sociology'', Valparaiso, Chile, 29–31 August 1992, pp.&amp;nbsp;37–38.
+*International Peace Academy. ''Peacekeeper's Handbook''. NY: IPA, 1978.
+*International Peace Academy. ''Conflict in Central America: Approaches to Peace and Security'', NY: St Martin's, 1986.
+*OAS, Permanent Council, Grupo de Trabajo sobre Cooperación para la Seguridad Hemisférica. ''Nuevo Concepto de Seguridad'', OAS Document CP/GT/CSH-13/92, 12 February 1992.
+*[https://www.academia.edu/attachments/34552877/download_file?st=MTQxNTI5MTU2OCwxNTUuMjE3LjIzOS42MSwxMzMzMjk5MA%3D%3D&amp;s=swp-toolbar&amp;ct=MTQxNTI5MTU2OSw2ODg1NzIsMTMzMzI5OTA= Bazin, A. (2014).  Trust: A Decisive Point in COIN Operations. Infantry Magazine.]
+*[https://www.academia.edu/attachments/34552959/download_file?st=MTQxNTI5Mjk5OCwxNTUuMjE3LjIzOS42MSwxMzMzMjk5MA%3D%3D&amp;s=work_strip  Bazin, A. (2013). Winning trust and confidence: A grounded theory model for the use of confidence-building measures in the joint operational environment.]
+*[https://www.academia.edu/attachments/36117899/download_file?st=MTQyMDQ3NzUyNiwxMDguMjYuMTIzLjE2MSwxMzMzMjk5MA%3D%3D&amp;s=swp-toolbar   Bazin, A. (2015). Winning trust under fire. Military Review.]
+
+==External links==
+*http://www.beyondintractability.org/m/confidence_building_measures.jsp
+*[http://peaceforge.digitalunleashed.com/moin.cgi PeaceForge] - online forum and database ([[wiki]]) on peace and conflict resolution
+*[http://peacemaker.un.org/regional-confidencebuildingborders96 Read the 'Agreement between Russia, Kazakhstan, Kyrgyzstan, Tajikistan and China on Confidence Building in the Military Field in the Border Area', UN Peacemaker]
+*[https://medium.com/the-bridge/stuck-in-the-frenemy-zone-1e0f69b93117 Stuck in the "Frenemy Zone"]
+
+[[Category:Peacekeeping]]
+[[Category:Diplomacy]]</text>
+      <sha1>3ik9fkik6rhyl4a53i777jhquui7kte</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>DEMOS (ISP)</title>
+    <ns>0</ns>
+    <id>39857218</id>
+    <revision>
+      <id>716756235</id>
+      <parentid>640652535</parentid>
+      <timestamp>2016-04-23T17:15:09Z</timestamp>
+      <contributor>
+        <username>Bearcat</username>
+        <id>24902</id>
+      </contributor>
+      <comment>removed [[Category:Internet service providers]]; added [[Category:Internet service providers of Russia]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1909">
+&lt;!-- EDIT BELOW THIS LINE --&gt;
+'''DEMOS''' (Demos) was the first internet service provider in the USSR.&lt;ref&gt;Travica, Bob. [http://home.cc.umanitoba.ca/~btravica/ruswebar.html The Business Web in Russia: Usability for the Western User]. ''59th Annual Meeting of ASIS'', Baltimore, MD, 21-24 October 1996&lt;/ref&gt;
+
+== History ==
+DEMOS was established in 1989 in the Soviet Union in Moscow as a programmers' cooperative, which included employees of the Kurchatov Institute of Nuclear Energy Institute.&lt;ref&gt;Lakhman, Marina. [http://partners.nytimes.com/library/cyber/euro/100797euro.html "Mother Russia Does a Slow Dance With the Net"]. ''New York Times on the web'', 7 October 1997.&lt;/ref&gt; For the first few months, the cooperative was called "Interface"; then it was renamed in honor of the DEMOS operating system.&lt;ref&gt;Minton, Jim. [http://www.computer-history.info/Page4.dir/pages/LTSS.NLTSS.dir/pages/WritingAnOS.html "Gathering People To Write An Operating System"]. &lt;/ref&gt;  In 1990, DEMOS, in cooperation with the scientific network Relkom, registered a top-level domain [[.su]].&lt;ref&gt;Rohozinski, Rafal. [http://unpan1.un.org/intradoc/groups/public/documents/untc/unpan015092.pdf "Mapping Russian Cyberspace"]. ''United Nations Institute for Social Development'', October 1999&lt;/ref&gt; This domain become the starting point for development of the Russian segment of the Internet - RUnet.&lt;ref&gt;Grekov, Alexander. [http://www.netnod.se/sites/default/files/the-isp-scene-in-russia.pdf "The ISP Scene in Russia"]. ''Netnod'', 24 September 2010.&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==See also==
+* [[Kremvax]]
+
+==Links==
+* [http://demos.ru/ Site of DEMOS (in russian)]
+* [http://news.demos.su/private/demos.html DEMOS history by Michael Davidov (in russian)]
+* [http://www.relcom.ru/about/ Relcom history (in russian)]
+
+{{russia-stub}}
+
+[[Category:History of the Internet]]
+[[Category:Internet service providers of Russia]]</text>
+      <sha1>orbf9qyzf4c6w8cdw4obzqu9i36lz7h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dacian fortress of Băile Tușnad</title>
+    <ns>0</ns>
+    <id>33440173</id>
+    <revision>
+      <id>754014899</id>
+      <parentid>753067185</parentid>
+      <timestamp>2016-12-10T11:20:11Z</timestamp>
+      <contributor>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
+      </contributor>
+      <comment>Migrate {{Infobox ancient site}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1637">{{Infobox ancient site
+| name           = Dacian fortress of Băile Tușnad
+| native_name    = 
+| native_name_lang =
+| alternate_name = 
+| image          = 
+| image_size     = 
+| alt            = 
+| caption        = 
+| map_type       = Romania
+| map_alt        = 
+| map_caption    = 
+| map_size       = 
+| altitude_m     = 
+| altitude_ref   = 
+| relief         =
+| coordinates    = {{coord|46.146511|25.872104|display=inline,title}}
+| map_dot_label  =
+| location       = Piscul cetății,&amp;#8203;&amp;nbsp;[[Băile Tușnad]],&amp;#8203;&amp;nbsp;[[Harghita County|Harghita]],&amp;#8203;&amp;nbsp;[[Romania]]
+| area           = 
+| built          = 
+| abandoned      = 
+| epochs         = &lt;!-- actually displays as "Periods" --&gt;
+| cultures       = 
+| event          = 
+| discovered     = 
+| excavations    = 
+| archaeologists = 
+| condition      = Ruined
+| designation1   = 
+| designation1_number = 
+| designation2   = Monument istoric
+| designation2_number = HR-I-s-B-12652 &lt;ref name="lmi"&gt;{{cite web|title=National Register of Historic Monuments in Romania, Harghita County |url=http://www.inmi.ro/lmi/harghita.pdf |publisher=www.inmi.ro |accessdate=15 October 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20111009112609/http://www.inmi.ro/lmi/harghita.pdf |archivedate=9 October 2011 |df= }}&lt;/ref&gt;
+| website        = 
+| architectural_styles =
+| architectural_details =
+| notes          = 
+}}
+
+It was a [[Dacians|Dacian]] fortified town.
+
+==References==
+{{Reflist}}
+
+{{Dacian cities}}
+{{Dacia topics}}
+
+{{DEFAULTSORT:Dacian fortress of Baile Tusnad}}
+[[Category:Dacian fortresses in Harghita County]]
+
+
+{{Dacia-stub}}
+{{Europe-archaeology-stub}}</text>
+      <sha1>fsogdge05gerj7r3nhsa1tp7k5ikk8w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Duchy of the Archipelago</title>
+    <ns>0</ns>
+    <id>647483</id>
+    <revision>
+      <id>867324285</id>
+      <parentid>819517328</parentid>
+      <timestamp>2018-11-05T01:23:08Z</timestamp>
+      <contributor>
+        <ip>152.168.245.10</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16387">{{Infobox Former Country
+|native_name = ''{{lang|it|Ducato dell'arcipelago}}''
+|conventional_long_name = Duchy of the Archipelago
+|common_name = Archipelago, Duchy of the
+|
+|image_flag   = &lt;!--- Default: Flag of {{{common_name}}}.svg ---&gt;
+|image_coat   = Armoiries_Naxos.svg
+|symbol_type  = Coat of Arms of the Duchy of the Archipelago
+|image_map    = Duchy of Naxos locator.svg
+|image_map_caption = Duchy of Naxos, 1450, highlighted within the [[Aegean Sea]]
+|
+|continent = Europe | region = Balkans | country = Greece
+|era       = Middle Ages |
+|status    = Client state | status_text= Client state*
+|empire    = Republic of Venice
+|government_type = Feudal Duchy
+|
+|year_start  = 1207 | year_end = 1579
+|
+|event_pre   = [[Fourth Crusade]]
+|date_pre    = 1201–03
+|event_start = Duchy established
+|date_start  = 
+|event1      = Crispo ''[[coup d'état]]''
+|date_event1 = 1383
+|event2      = [[Ottoman Empire|Ottoman]] suzerainty
+|date_event2 = 1537
+|event_end   = Expropriated by [[Selim II]]
+|date_end    = 
+|
+|p1          = Byzantine Empire
+|image_p1    = [[File:Simple Labarum.svg|20px|alt=]]
+|s1          = Sanjak of Nakşa Berre
+|flag_s1     = Flag of the Ottoman Empire (1453-1844).svg
+|
+|capital          = [[Naxos Island|Naxos]]
+|latd=37 |latm=6 |latNS=N |longd=25 |longm=22 |longEW=E 
+|
+|common_languages = [[Venetian language|Venetian]] officially,&lt;br/&gt;[[Medieval Greek|Greek]] popularly
+|religion         = [[Roman Catholicism|Roman Catholic]],&lt;br/&gt;[[Greek Orthodox]] popularly
+|
+|leader1      = Marco I Sanudo
+|year_leader1 = 1207–27
+|leader2      = Francesco I Crispo
+|year_leader2 = 1383–97
+|leader3      = Giacomo IV Crispo
+|year_leader3 = 1564–66
+|leader4      = [[Joseph Nasi]]
+|year_leader4 = 1566–79
+|title_leader = [[Duke]]
+|
+|footnotes   = * The duchy was a client state of, in order, the [[Latin Empire|Latin Emperors]] at [[Constantinople]], the [[Villehardouin family|Villehardouin]] dynasty of [[Principality of Achaea|princes of Achaea]], the [[Capetian House of Anjou|Angevins]] of the [[Kingdom of Naples]] and (after 1418) the [[Republic of Venice]]. From 1566–79, the duchy was administered as a part of the [[Ottoman Empire]] before total annexation.
+}}
+The '''Duchy of the Archipelago''' ({{lang-it|Ducato dell'arcipelago}}, {{lang-ell|Δουκάτο του Αρχιπελάγους}}), or also '''Duchy of Naxos''' ({{lang-it|Ducato di Nasso}}, {{lang-ell|Δουκάτο της Νάξου}}) or '''Duchy of the Aegean''' ({{lang-it|Ducato dell'Egeo}}, {{lang-ell|Δουκάτο του Αιγαίου}}), was a maritime state created by [[Republic of Venice|Venetian]] interests in the [[Cyclades]] [[archipelago]] in the [[Aegean Sea]], in the aftermath of the [[Fourth Crusade]], centered on the islands of [[Naxos (island)|Naxos]] and [[Paros]]. It included all the [[Cyclades]] (except [[Mykonos]] and [[Tinos]]). In 1537 it became a tributary of the [[Ottoman Empire]], and was annexed by the Ottomans in 1579; however, Christian rule survived in islands such as [[Siphnos]] (conquered by the Ottomans in 1617) and [[Tinos]] (conquered only in 1714).
+
+==Background and establishment of the Duchy==
+The [[Italian city states]], especially the [[Republic of Genoa]], [[Republic of Pisa|Pisa]], and the Republic of Venice, had been interested in the islands of the Aegean long before the Fourth Crusade. There were Italian trading colonies in [[Constantinople]] and Italian [[pirate]]s frequently attacked settlements in the Aegean in the 12th century. After the collapse and partitioning of the [[Byzantine Empire]] in 1204, in which the Venetians played a major role, Venetian interests in the Aegean could be more thoroughly realized.
+
+The Duchy of the Archipelago was created in 1207 by the Venetian nobleman [[Marco Sanudo]], a participant in the Fourth Crusade and nephew of the former [[Doge of Venice|Doge]] [[Enrico Dandolo]], who had led the Venetian fleet to Constantinople. This was an independent venture, without the consent of the [[Latin Empire|Latin emperor]] [[Henry of Flanders]]. Sanudo was accompanied by [[Marino Dandolo]] and [[Andrea Ghisi|Andrea]] and [[Geremia Ghisi]] (as well as [[Filocalo Navigajoso]], possibly). He arranged for the loan of eight [[galley]]s from the [[Venetian Arsenal]], set anchor in the harbor of Potamides (now Pyrgaki, in the southwest of Naxos), and largely captured the island.
+
+The Naxiotes continued to resist, however, and established a base inland, around the fortress of Apalyros/Apalire. The latter fell to Sanudo after a five or six weeks' siege, despite the assistance rendered to the Greeks by the [[Republic of Genoa|Genoese]], Venice's main competitors.
+
+With the entire island occupied in 1210, Sanudo and his associates soon conquered [[Melos]] and the rest of the islands of the [[Cyclades]], and he established himself as ''Duke of Naxia'', or ''Duke of the Archipelago'', with his headquarters on Naxos. Sanudo rebuilt a strong fortress and divided the island into 56 provinces, which he shared out as [[Fiefdom|fiefs]] among the leaders of his men, most of whom were highly autonomous and apparently paid their own expenses. Navigaojso had been granted his island domain by Henry of Flanders and was technically vassal of the Latin Empire; Sanudo himself recognized the Latin Empire's authority rather than making the Duchy a [[vassalage|vassal]] of Venice. The conqueror himself ruled for twenty years (1207–27). He held in his personal possession [[Paros]], [[Antiparos]], [[Milos]], [[Sifnos]], [[Kythnos]], [[Ios (island)|Ios]], [[Amorgos]], [[Kimolos]], [[Sikinos]], [[Syros]], and [[Pholegandros]].
+
+Sanudo's fellow crusaders conquered lordships of their own, sometimes as vassals of Sanudo like Dandolo for [[Andros]]. Although they are often considered to have become Sanudo's vassals as well,&lt;ref&gt;cf. Longnon (1969), p. 239&lt;/ref&gt; the Ghisi brothers, who held [[Tinos]], [[Mykonos]], and the [[Northern Sporades]] ([[Skiathos]], [[Skyros]], [[Skopelos]]) never recognized the suzerainty of Sanudo. Instead, like him they were directly vassals of the Latin Emperors.&lt;ref&gt;Setton (1976), p. 19 note 78&lt;/ref&gt; Some families thought earlier&lt;ref&gt;cf Longnon (1969), pp. 238–239, basing himself on the works of Karl Hopf&lt;/ref&gt; to have settled at this time in the islands ([[Querini]], [[Barozzi]]) were in fact established in the 14th century.&lt;ref&gt;Louise Buenger Robbert, ''Venice and the Crusades'' in ''A History of the Crusades vol.V'' p 432, citing the works of Silvano Borsari and of R-J Loenertz&lt;/ref&gt; Further south, [[Kythera]] (or ''Cerigo''), held by [[Marco Venier]], and [[Antikythera]] (or ''Cerigotto''), held by [[Jacopo Viaro]] chose to become vassals of Venice.&lt;ref&gt;Longnon (1969), p. 239&lt;/ref&gt;
+
+==Administration, faith and economics==
+[[Image:ShepherdByzempire1265.jpg|thumb|right|380px|The Duchy of [[Naxos (island)|Naxos]] and states in the [[Morea]], carved from the [[Byzantine Empire]], as they were in 1265 (William R. Shepherd, ''Historical Atlas'', 1911)]]
+
+The institution of European [[feudalism]] caused little disruption to the local islanders who were familiar with the rights of a [[landowner]] class under the Byzantine system of the ''[[pronoia]]''. The significant legal distinctions between the Byzantine ''pronoia'' and feudalism were of little immediate consequence to those who farmed the land or fished the waters in question.  In most cases, the local population submitted relatively peacefully to the authority of their new Venetian lords. Sanudo and his successors prudently followed a conciliatory course with their Byzantine subjects, granting even fiefs to certain among them, in an effort to bind them to the dynasty.
+
+The Venetians brought the [[Roman Catholicism|Catholic Church]] with them, but, as they were a minority of habitually absentee landowners, most of the population remained [[Greek Orthodox]]. Marco Sanudo himself established a Latin archbishopric on Naxos, but in contrast to his successors, did not attempt to forcibly convert the Greek Orthodox majority. These moves consisted primarily in imposing restrictions on Orthodox clergy and the exclusion of Orthodox Christians from positions of authority.
+
+The islands were of great importance in Venetian [[grand strategy]], with their valuable trade routes to [[Anatolia]] and the [[Eastern Mediterranean]], which the Venetians could now control; Aside from providing safe traveling routes to Venetian ships, the Venetians also exported to Venice [[corundum]] and [[marble]], which they mined on Naxos. Certain Latin feudal rights survived in the island of Naxos and elsewhere until they were abrogated in 1720 by the Ottomans.
+
+==Later history==
+The ''Annals'' of the Latin Archipelago center on the family histories of Sanudo and Dandolo, Ghisi, [[Crispo]] and Sommaripa, Venier and Quirini, Barozzi and Gozzadini. Twenty-one dukes of the two dynasties ruled the Archipelago, successively as vassals of the Latin Emperors at Constantinople, of the [[Villehardouin family|Villehardouin]] dynasty of [[Principality of Achaea|princes of Achaea]], of the [[Capetian House of Anjou|Angevins]] of the [[Kingdom of Naples]] (in 1278), and after 1418 of the Republic of Venice.
+
+In 1248,&lt;ref&gt;R-J Loenertz, ''Les seigneurs tierciers de Négrepont'', Byzantion, vol. 35, 1965, re-edited in ''Byzantina et Franco-Graeca : series altera'' p 152. The date of 1236, proposed by Hopf without justification, has been rejected by Longnon in ''Problèmes de l'histoire de la principauté de Morée'', ''Journal des savants'' (1946) pp. 149-150.&lt;/ref&gt; the Duchy was nominally granted to [[William II Villehardouin|William of Villehardouin]], Prince of Achaea. Marco II Sanudo lost many of the islands, except Naxos and Paros, to the forces of the renewed Byzantine Empire under the admiral [[Licario]] in the late 13th century. The Byzantine revival was to prove short-lived though, as they relinquished control of their gains in 1310.
+
+In 1317 the [[Catalan Company]] raided the remnants of the Duchy; in 1383, the Crispo family led an armed insurrection and overthrew Sanudo's heirs as Dukes of Archipelago. Under the Crispo dukes, social order and agriculture decayed, and piracy became dominant.
+
+==Collapse and Ottoman conquest==
+[[File:Eastern Mediterranean 1450 .svg|thumb|280px|Eastern Mediterranean in 1450]]
+Before the last Latin Christian duke, Jacopo IV Crispo, was deposed in 1566 by [[Ottoman Dynasty|Ottoman Sultan]] [[Selim II]], he was already paying the Sultan tribute. The Sultan's appointed representative, the last Duke of Archipelago (1566–79) was a [[History of the Jews in Portugal|Portuguese Jew]] (''[[Marrano]]''), [[Joseph Nasi]].
+
+Latin Christian rule was not entirely removed after that date: the [[Gozzadini family]] in [[Bologna]] survived as lords of [[Siphnos]] and other little islands in the Cyclades until 1617, and the island of [[Tenos]] remained Venetian until 1714. The last Venetian ports in [[Morea]] (the [[Peloponnese]]) were captured in 1718. [[Gaspar Graziani]], a [[Dalmatia]]n nobleman, was awarded the title of ''Duke of the Archipelago'' in 1616, but the island was again under direct Ottoman rule at the end of 1617; he was the last to hold the title.
+
+==Legacy and influence==
+Today, Cyclades islands such as [[Syros]] and [[Tinos]] have some entirely Catholic villages and parishes, while many Greeks from the Cyclades have surnames with a distinctly Italo-Venetian origin e.g. Venieris, Ragousis, Dellaportas, Damigos etc.
+
+==Dukes of the Archipelago==
+[[File:Tower of Sanudo, side view.JPG|thumb|260px|Sanudo Tower, Chora of [[Naxos]]]]
+
+===Sanudo dynasty===
+*[[Marco I Sanudo]] (1207–27)
+*[[Angelo Sanudo|Angelo]] (1227–62)
+*[[Marco II Sanudo|Marco II]] (1262–1303)
+*[[William I Sanudo|Guglielmo I]] (1303–23)
+*[[Nicholas I Sanudo|Niccolò I]] (1323–41)
+*[[John I Sanudo|Giovanni I]] (1341–62)
+*[[Florence Sanudo|Fiorenza]] (1362–71)
+*[[Nicholas II Sanudo|Niccolò II]] (1364–71)
+*[[Nicholas III dalle Carceri|Niccolò III dalle Carceri]] (1371–83)
+
+===Crispo dynasty===
+*[[Francesco I Crispo]] (1383–97)
+*[[Giacomo I Crispo|Giacomo I]] (1397–1418)
+*[[John II Crispo|Giovanni II]] (1418–33)
+*[[Giacomo II Crispo|Giacomo II]] (1433–47)
+*[[Gian Giacomo Crispo|Gian Giacomo]] (1447–53)
+*[[William II Crispo|Guglielmo II]] (1453–63)
+*[[Francesco II Crispo|Francesco II]] (1463)
+*[[Giacomo III Crispo|Giacomo III]] (1463–80)
+*[[John III Crispo|Giovanni III]] (1480–94)
+''(interregnum)''
+*[[Francesco III Crispo|Francesco III]] (1500–11)
+''(interregnum)''
+*[[John IV Crispo|Giovanni IV]] (1517–64)
+*[[Giacomo IV Crispo|Giacomo IV]] (1564–66)
+
+=== Ottoman representative ===
+*[[Joseph Nasi]] (1566–79)
+
+==See also==
+* [[Byzantine Greece]]
+
+==References==
+{{refimprove|date=June 2009}}
+{{reflist}}
+
+==Sources==
+* {{cite book | last1 = Frazee | first1 = Charles A. | last2 = Frazee | first2 = Cathleen | year = 1988 | title = The Island Princes of Greece: The Dukes of the Archipelago | location = Amsterdam | publisher = Adolf M. Hakkert | isbn = 90-256-0948-1 | ref=harv}}
+* {{cite journal | last1 = Sansaridou-Hendrickx | first1 = Thekla | last2 = Hendrickx |  first2 = Benjamin  | title = The Post-Ducal ‘Dukes of Naxos’ of the ‘per Dignità First Duchy of Christendom’: A Re-Examination and Assessment | year = 2013 | journal = Journal of Early Christian History | volume = 3 | issue = 2 | pages = 94–107 | doi = 10.1080/2222582X.2013.11877287 | ref=harv}}
+* {{cite book | chapter = The Frankish States in Greece, 1204–1311 | pages = 234–275 | last = Longnon | first = Jean |title=A History of the Crusades, Volume II: The Later Crusades, 1189–1311 | editor1-first= Robert Lee | editor1-last=Wolff | editor2-first=Harry W. | editor2-last=Hazard |year=1969 |publisher=University of Wisconsin Press | chapterurl=http://digicoll.library.wisc.edu/cgi-bin/History/History-idx?type=article&amp;did=History.CrusTwo.i0021&amp;id=History.CrusTwo | isbn = 0-299-06670-3| ref = harv}}
+* {{cite book | first = William | last = Miller | authorlink = William Miller (historian) | title = The Latins in the Levant, a History of Frankish Greece (1204–1566) | publisher = E.P. Dutton and Company | location = New York | year = 1908 | url = https://archive.org/details/latinsinlevanta00millgoog | oclc = 563022439 | ref=harv}}
+* {{cite book | title=Essays on the Latin Orient | first=William | last=Miller | publisher=Cambridge University Press | location = Cambridge | year=1921 | url=https://books.google.com/books?id=Wcw7AAAAIAAJ}}
+* {{cite book |title=The Papacy and the Levant (1204–1571), Volume I: The Thirteenth and Fourteenth Centuries |last=Setton |first=Kenneth M. | authorlink = Kenneth Setton |year=1976 |publisher=DIANE Publishing |url=https://books.google.com/books?id=i4OPORrVeXQC |isbn=0-87169-114-0}}
+* {{cite book |title=The Papacy and the Levant (1204–1571), Volume II: The Fifteenth Century |last=Setton |first=Kenneth M. | authorlink = Kenneth Setton |year=1978 |publisher=DIANE Publishing |url=https://books.google.com/books?id=0Sz2VYI0l1IC |isbn=0-87169-127-2}}
+* {{Cite book| last=Setton | first=Kenneth M. | authorlink = Kenneth Setton | title=The Papacy and the Levant (1204–1571), Vol. III: The Sixteenth Century to the Reign of Julius III | publisher=DIANE Publishing | year=1984 | isbn=0-87169-161-2 | url = https://books.google.com/books?id=EgQNAAAAIAAJ}}
+* {{cite book | last = Loenertz | first = Raymond-Joseph | authorlink = Raymond-Joseph Loenertz | title = Les Ghisi, dynastes vénitiens dans l'Archipel (1207-1390) | year = 1975 | language = French | publisher = [[Leo S. Olschki Editore|Olschki]] | location = Florence}}
+
+{{Frankish and Latin Greece}}
+{{Fragments of the Byzantine Empire}}
+{{Crusader States}}
+{{Stato da Mar}}
+{{Dukes of Naxos}}
+
+
+
+{{coord|37|06|N|25|22|E|type:country_source:kolossus-slwiki|display=title}}
+
+{{DEFAULTSORT:Duchy Of The Archipelago}}
+[[Category:Duchy of the Archipelago| ]]
+[[Category:Former duchies|Archipelago, Duchy of]]
+[[Category:Territories of the Republic of Venice]]
+[[Category:Crusader states]]
+[[Category:History of Naxos]]
+[[Category:Paros]]
+[[Category:States and territories established in 1207]]
+[[Category:1200s establishments in the Byzantine Empire]]
+[[Category:1579 disestablishments in Europe]]
+&lt;!--annexation--&gt;
+[[Category:Island countries]]
+[[Category:1207 establishments in Europe]]</text>
+      <sha1>5mk3aaowppyokjrqzodhin8453dwwxz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Enter TV</title>
+    <ns>0</ns>
+    <id>15399676</id>
+    <revision>
+      <id>736413665</id>
+      <parentid>622475318</parentid>
+      <timestamp>2016-08-27T09:35:29Z</timestamp>
+      <contributor>
+        <username>Klačko</username>
+        <id>6496055</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="388">{{Unreferenced|date=February 2008}}
+
+'''Enter TV''' was a [[Serbia]]n television channel with regional frequency.
+
+Created on the ashes of the defunct [[YU Info]] channel, it started broadcasting during spring 2007.
+
+{{Television in Serbia}}
+
+[[Category:Television stations in Serbia]]
+[[Category:Television channels and stations established in 2007]]
+
+
+{{Europe-tv-stub}}
+{{serbia-stub}}</text>
+      <sha1>auwztjtmxqi6d3jbcudu7mkte6tr0kb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eupholus chevrolati</title>
+    <ns>0</ns>
+    <id>34580161</id>
+    <revision>
+      <id>833927598</id>
+      <parentid>833713711</parentid>
+      <timestamp>2018-04-03T02:00:40Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>[[:Category:Taxonbar templates without from parameter|Add from]]=[[d:Special:EntityPage/Q4274310|Q4274310]] to {{[[Template:Taxonbar|Taxonbar]]}}; [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2203">{{Italic title}}
+{{Taxobox
+| name = ''Eupholus chevrolati''
+| image = Curculionidae - Eupholus chevrolati.JPG
+| image_width = 240px
+| image_caption = ''Eupholus chevrolati'' from [[Aru Islands]] ([[Indonesia]])
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Beetle|Coleoptera]]
+| familia = [[Curculionidae]]
+| subfamilia = [[Entiminae]]
+| genus = ''[[Eupholus]]''
+| species = '''''E. chevrolati'''''
+| binomial = ''Eupholus chevrolati''
+| binomial_authority = [[Félix Édouard Guérin-Méneville|Guérin-Méneville]], 1830&lt;ref name="Guérin-Méneville, 1830" /&gt;
+| synonyms =
+}}
+
+'''''Eupholus chevrolati''''' is a species of beetle belonging to the  family [[Curculionidae]].
+
+==Description==
+''Eupholus chevrolati'' can reach a length of about {{convert|25|mm}}. The basic colour of this quite variable species is metallic blue-green, with some transversal irregular black bands along the elytra. The blue-green colour derives from very small scales. The top of rostrum and the end of the antennae are black.
+
+==Distribution==
+This species can be found in [[Aru Islands]] ([[Indonesia]])
+
+==Etymology==
+The name honours the French entomologist [[Louis Alexandre Auguste Chevrolat]]
+
+== References ==
+{{Reflist|refs=
+&lt;ref name="Guérin-Méneville, 1830"&gt;{{cite book|last1=Guérin Méneville|first1=F. C.|editor1-last=Duperrey|editor1-first=L. I.|editor-link=Louis Isidore Duperrey|title=Voyage autour du monde|date=1830|publisher=Arthus Bertrand|location=Paris|pages=117–118|chapter-url=https://www.biodiversitylibrary.org/page/38662927|chapter=Géonémus à stries ponctuées|volume='''2''' (2)}}&lt;/ref&gt;
+}}
+
+* [http://www.ubio.org/browser/details.php?namebankID=999446 Universal Biological Indexer]
+* [http://eupholus.franceserv.com/index.php?module=fiche&amp;action=afficher_fiche&amp;nom_espece=chevrolati&amp;option=0 Eupholus chevrolati]
+* [http://www.worldfieldguide.com/wfg-species-detail.php?taxno=17810 World Field Guide]
+
+{{Taxonbar|from=Q4274310}}
+
+[[Category:Entiminae]]
+[[Category:Insects of Indonesia]]
+[[Category:Aru Islands]]
+[[Category:Fauna of the Lesser Sunda Islands]]
+[[Category:Taxa named by Félix Édouard Guérin-Méneville]]
+
+
+{{Curculionidae-stub}}</text>
+      <sha1>9ss8hbl92x9wc774yu0djwiiubcr2th</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>European Parliament Intergroup on LGBT Rights</title>
+    <ns>0</ns>
+    <id>30096756</id>
+    <revision>
+      <id>758666434</id>
+      <parentid>758666371</parentid>
+      <timestamp>2017-01-06T20:43:11Z</timestamp>
+      <contributor>
+        <username>Pichpich</username>
+        <id>6196463</id>
+      </contributor>
+      <comment>space</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2810">{{Use dmy dates|date=January 2011}}
+
+The '''European Parliament Intergroup on LGBTI Rights''' is an [[intergroup]] of the [[European Parliament]]'s legislators which focuses upon the right of lesbian, gay, bisexual, transgender and intersex people both inside and outside the [[European Union]].&lt;ref&gt;{{Cite web |url=http://www.thenewfederalist.eu/The-EP-Intergroup-on-LGBT-Rights,05822 |title=The EP Intergroup on LGBT Rights  |last=Skoda |first=Ansgar |website=The New Federalist |publication-date=16 June 2013}}&lt;/ref&gt; It collaborates with other LGBT associations such as [[ILGA|ILGA-Europe]].&lt;ref&gt;{{Cite web |url=http://www.lgl.lt/en/?p=1132 |title=Joint letter from the European Parliament’s Intergroup on LGBT Rights and ILGA-Europe about the homophobic law in Lithuania  |website=Association Lithuanian Gay League |publication-date=22 August 2009}}&lt;/ref&gt;
+
+==Membership==
+
+===Presidency===
+It is headed by co-presidents [[Daniele Viotti]] and [[Ulrike Lunacek]]; vice-presidents include [[Sophie in 't Veld]], [[Malin Björk]], [[Sirpa Pietikäinen]], [[Tanja Fajon]], [[Ian Duncan (politician)|Ian Duncan]] and [[Fabio-Massimo Castaldo]].
+
+===Other members===
+As of January 2017 (in the [[eighth European Parliament]]) the organisation consists of 152 members, including the aforementioned.&lt;ref&gt;{{cite web|url=http://www.lgbt-ep.eu/about/members/ |title=Members |publisher=Lgbt-ep.eu |date= |accessdate=2017-01-06}}&lt;/ref&gt;
+
+By political group:
+* 60 of the [[Progressive Alliance of Socialists and Democrats]] (S&amp;D)
+* 20 of [[The Greens–European Free Alliance]] (Greens–EFA)
+* 19 of the [[Alliance of Liberals and Democrats for Europe Group|Alliance of Liberals and Democrats for Europe]] (ALDE)
+* 17 of the [[European United Left–Nordic Green Left]] (GUE-NGL)
+* 13 of the [[European People's Party (European Parliament group)|European People's Party]] (EPP)
+* 5 of the [[European Conservatives and Reformists]] (ECR)
+* 5 of [[Europe of Freedom and Direct Democracy]] (EFDD)
+
+==Secretary==
+The current secretary is Evert Jan Jacobsen since 2014.&lt;ref name=sec&gt;[http://www.lgbt-ep.eu/about/secretariat/ Secretariat]&lt;/ref&gt;
+
+Past secretaries include&lt;ref name=sec/&gt;
+* Oscar Ortiz-Nieminen (September 2005 – March 2006)
+* Catrine Norrgård (December 2005 – June 2006)
+* Kim Smouter (September 2006 – July 2007)
+* Maris Sergejenko (April 2008 – June 2009)
+* Bruno Selun (November 2009 - June 2014).
+
+==See also==
+*[[LGBT rights in the European Union]]
+*[[List of LGBT rights organizations]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.lgbt-ep.eu/ European Parliament Intergroup on LGBTI Rights]
+
+[[Category:Intergroups in the European Parliament]]
+[[Category:International LGBT political advocacy groups]]
+[[Category:LGBT rights in Europe]]
+
+{{lgbt-org-stub}}
+{{europe-poli-stub}}</text>
+      <sha1>i95i1i4otnjg091m00t8hn4i09gpf3n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fairtrade International</title>
+    <ns>0</ns>
+    <id>252491</id>
+    <revision>
+      <id>866277292</id>
+      <parentid>864671384</parentid>
+      <timestamp>2018-10-29T11:27:15Z</timestamp>
+      <contributor>
+        <ip>81.133.69.255</ip>
+      </contributor>
+      <comment>/* External links */ Category</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10634">{{multiple issues|
+{{advert|date=June 2018}}
+{{original research|date=June 2018}}
+{{refimprove|date=April 2018}}
+}}
+{{Infobox company
+| name = Fairtrade International (FLO)
+| logo = Fairtrade Certification Mark.svg
+| logo_size = 150px
+| type = [[Non-profit organization]]
+| foundation = 2004
+| location = [[Bonn]], [[Germany]]
+| key_people = Molly Harriss Olson, Chair of the Board
+| industry = [[Product certification]]
+| products = Producer Business Development, Standards Development
+| homepage = [http://www.fairtrade.net/ www.fairtrade.net]
+}}
+
+'''Fairtrade International''' otherwise known as FäRtRae IntËrnations In many other countries (Deleurbon(DE)) (FLO) (also known as '''Fairtrade Labelling Organizations International''')&lt;ref&gt;Fairtrade International (2011). [http://www.fairtrade.net Home page]. URL accessed on August 23, 2011.&lt;/ref&gt; was established in 1997, and is an association of 3 producer networks, 19 national labelling initiatives and 3 marketing organizations that promote and market the [[International Fairtrade Certification Mark|Fairtrade Certification Mark]] in their countries &lt;ref&gt;.Fairtrade International (2011). [http://www.fairtrade.net/our_members.0.html?&amp;L=0 Our members] {{webarchive|url=https://archive.is/20120730024433/http://www.fairtrade.net/our_members.0.html?&amp;L=0 |date=2012-07-30 }}. URL accessed on August 23, 2011.&lt;/ref&gt; [[Fairtrade labelling]] organizations exist in 18 [[Europe]]an countries as well as in [[Canada]], the [[United States]], [[Japan]], [[Australia]] and [[New Zealand]].&lt;ref name=FLOLI&gt;Fairtrade International (2011). [http://www.fairtrade.net/labelling_initiatives1.0.html Fairtrade labelling initiatives] {{webarchive|url=https://archive.is/20120804075801/http://www.fairtrade.net/labelling_initiatives1.0.html |date=2012-08-04 }}. URL accessed on August 24, 2011.&lt;/ref&gt;
+
+In 2009, Fair trade certified sales amounted to approximately €3.4 billion (US $4.9 billion) worldwide, a 15% increase from 2008.&lt;ref name=FLOFF&gt;Fairtrade International (2011). [http://www.fairtrade.net/facts_and_figures.0.html Facts and figures] {{webarchive|url=https://web.archive.org/web/20130116203036/http://www.fairtrade.net/facts_and_figures.0.html |date=2013-01-16 }}. URL accessed on August 24, 2011.&lt;/ref&gt; As of 2011, 827 producer organizations in 58 developing countries were FLOCert Fairtrade certified.&lt;ref name=FLOFF /&gt;
+
+FLO also oversees national organizations in [[South Africa]], [[the Czech Republic]] and [[Korea]].&lt;ref name=FLOLI /&gt;
+
+==History==
+To ensure compliance with the Fairtrade standards relating to labour standards, cooperative organization, and the governance of the Fairtrade benefits, the organization was divided in January 2004 into two independent organizations:&lt;ref&gt;{{Cite book|url=https://books.google.co.in/books?id=isH8ceNFj_UC&amp;pg=PA238&amp;lpg=PA238&amp;dq=%22Fairtrade+international%22++organization+divided+into+FLOCert&amp;source=bl&amp;ots=Nv_WtZPhut&amp;sig=icTNAPG0U8k5dr5UCnHDyRuAz6g&amp;hl=en&amp;sa=X&amp;redir_esc=y#v=onepage&amp;q=%22Fairtrade%20international%22%20%20organization%20divided%20into%20FLOCert&amp;f=false|title=The Processes and Practices of Fair Trade: Trust, Ethics and Governance|last=Dine|first=Janet|last2=Granville|first2=Brigitte|publisher=Routledge|year=2012|isbn=9781136231803|location=|page=238|pages=}}&lt;/ref&gt;
+
+* '''FLO International''' develops and reviews Fairtrade Standards and assists producers in gaining and maintaining certification and in capitalizing on market opportunities on the Fairtrade market. To ensure the transparency of the system, the standards are developed and reviewed by the FLO Standards and Policy Committee, in which FLO members, producer organizations, traders and external experts participate.
+* [[FLOCert]] ensures that producers and traders comply with the FLO Fairtrade Standards and that producers invest the benefits received through Fairtrade in their development. Operating independently from any other interests, it follows the international [[International Organization for Standardization|ISO]] standards for certification bodies (ISO 65).
+
+== Membership ==
+
+The following fair trade labeling initiatives are Fairtrade International members:&lt;ref&gt;Fairtrade International (2011).[http://www.fairtrade.net/labelling_initiatives1.0.html Fairtrade labelling initiatives] {{webarchive|url=https://archive.is/20120804075801/http://www.fairtrade.net/labelling_initiatives1.0.html |date=2012-08-04 }}.URL accessed on August 24, 2011.&lt;/ref&gt;
+
+*{{flagicon|Australia}} {{flagicon|New Zealand}} [[Fairtrade Australia and New Zealand]]
+*{{flagicon|Austria}} Fairtrade Österreich
+*{{flagicon|Belgium}} Fairtrade Belgium
+*{{flagicon|Canada}} [[Fairtrade Canada]]
+*{{flagicon|Czech Republic}}The Czech Fairtrade Association (marketing organization)
+*{{flagicon|Denmark}} Max Havelaar Danmark
+*{{flagicon|Estonia}} Fairtrade Estonia
+*{{flagicon|Finland}} Reilun kaupan edistämisyhdistys
+*{{flagicon|France}} [[Association Max Havelaar France]]
+*{{flagicon|Germany}} TransFair Deutschland
+*{{flagicon|Hong Kong}} Fairtrade Hong Kong Foundation (marketing organization)
+*{{flagicon|Ireland}} [[Fairtrade Mark Ireland]]
+*{{flagicon|Italy}} Fairtrade Italia
+*{{flagicon|Japan}} TransFair Japan
+*{{flagicon|Korea}} Europe Korea Foundation (marketing organization)
+*{{flagicon|Latvia}}Fairtrade Latvia
+*{{flagicon|Lithuania}}Fairtrade Lithuania
+*{{flagicon|Luxembourg}} TransFair-Minka Luxembourg
+*{{flagicon|Mexico}} Comercio Justo México (associate member)
+*{{flagicon|Netherlands}} [[Stichting Max Havelaar]]
+*{{flagicon|Norway}} Fairtrade Max Havelaar Norge
+*{{flagicon|South Africa}}Fair Trade Label South Africa (associate member)
+*{{flagicon|Spain}} [[Asociación del Sello de Productos de Comercio Justo]]
+*{{flagicon|Sweden}} Fairtrade Sverige
+*{{flagicon|Switzerland}} [[Max Havelaar-Stiftung (Schweiz)|Max Havelaar Foundation]]
+*{{flagicon|UK}} [[The Fairtrade Foundation]]
+*{{flagicon|USA}} Fairtrade America
+
+These labeling initiatives were joined in 2007 by three Fairtrade producer networks:
+
+* Network of Asian and Pacific Producers (NAPP)
+* Coordinadora Latinoamericana y del Caribe de Pequeños Productores de Comercio Justo (CLAC)
+* Fairtrade Africa
+
+== Structure ==
+
+Fairtrade International is divided into three units:
+
+* Standards—sets and maintains fair trade standards
+* Finance and Central Services—ensures coordinated communications, finance, human resources, fundraising, and IT services
+* Producer Services and Relations—supports producers in gaining and maintaining fair trade certification and capitalizing on market opportunities&lt;ref&gt;Fairtrade International (2011). [http://www.fairtrade.net/liaison_officers.0.html Liaison Officers]. URL accessed on February 21, 2011.&lt;/ref&gt;
+
+== Fairtrade standards ==
+
+Given the development focus of fair trade, related standards contain minimum requirements that all producer organisations must meet to become certified as well as progress requirements in which producers must demonstrate improvements over time.
+
+There are two types of fair trade standards for disadvantaged{{Vague|date=March 2009}} producers: standards for small farmers' organizations and for hired labor situations.
+
+* Small farmers' organization standards include requirements for [[democracy|democratic]] decision making, ensuring that producers have a say in how the fair trade premiums are invested, etc. They also include requirements for capacity building and economic strengthening of the organization.
+* Hired labour situation standards seek to ensure that employees receive decent{{Vague|date=March 2009}} wages and may join [[trade union|unions]] and [[collective bargaining|bargain collectively]]. Fairtrade certified [[plantation]]s must also ensure that there is no [[Forced labour under German rule during World War II|forced]] or [[child labour]] and that [[Occupational safety and health|health and safety requirements]] are met. In a hired labor situation, fair trade standards require a "joint body" to be set up with representatives from both management and employees. This joint body decides on how fairtrade premiums will be spent to benefit plantation employees.
+
+For some products, such as [[coffee]], only fair trade standards for small farmers' organizations are applicable. For others, such as [[tea]], both small farmers' organizations and plantations can be certified.
+
+Fair trade standards and procedures are approved by the FLO Standards Committee, an external committee comprising all FLO stakeholders (labeling initiatives, producers, and traders) and external experts. Fair trade standards are set in accordance to the requirements of the ISEAL Code of Good Practice in standards setting and are in addition the result of an extensive consultation process, involving a variety of stakeholders: producers, traders, external experts, inspectors, certification staff etc.&lt;ref&gt;Fairtrade International (2011). [http://www.fairtrade.net/setting_the_standards.0.html Standard Setting]. URL accessed on February 21, 2011.&lt;/ref&gt;
+
+== International Fairtrade Certification Mark ==
+{{main|International Fairtrade Certification Mark}}
+
+The [[International Fairtrade Certification Mark|FAIRTRADE Mark]] is an international independent consumer Mark which appears on products as a guarantee that producers and traders have met fair trade standards. The FAIRTRADE Mark is owned and protected by FLO, on behalf of its 25 member and associate member labeling initiatives and producer networks.
+
+For a product to carry the FAIRTRADE Mark, it must come from FLOCert inspected and certified producer organizations. The crops must be grown and harvested in accordance with the International Fairtrade Standards set by Fairtrade International. The supply chain is also monitored by FLOCert to ensure the integrity of labelled products. Only authorized licensees can use the FAIRTRADE Mark on their products.
+
+==References==
+{{Reflist}}
+&lt;!--&lt;nowiki&gt;Please do not type footnotes here. Instead insert the footnote in its proper spot in the body of this article using the &lt;ref name=&gt; &lt;/ref&gt; tags. See [[Wikipedia:Footnotes]] for an explanation of how to generate footnotes using the tags.&lt;/nowiki&gt;--&gt;
+
+== External links ==
+* [http://www.fairtrade.net/ FLO International] website
+* [http://www.flocert.net/ FLOCERT GmbH] website
+* [http://www.irft.org/ IRFT India] website
+
+{{Fair trade}}
+{{Social accountability}}
+
+{{Authority control}}
+
+[[Category:Fair trade organizations]]
+[[Category:International economic organizations]]
+[[Category:International organisations based in Bonn]]
+[[Category:International organisations based in Germany]]
+[[Category:Organizations established in 1997]]</text>
+      <sha1>j4vs1hmlfeqm6tcrxz627sx8u3uvgce</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gagauz people in Ukraine</title>
+    <ns>0</ns>
+    <id>46513579</id>
+    <revision>
+      <id>824008924</id>
+      <parentid>761977371</parentid>
+      <timestamp>2018-02-04T19:54:07Z</timestamp>
+      <contributor>
+        <username>Pkbwcgs</username>
+        <id>29259446</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */replaced poptime to population per [[Category:Articles using Template:Infobox ethnic group with deprecated parameters]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="595">{{Unsourced|date=December 2014}}
+{{Infobox ethnic group
+| group = [[Gagauz people|Gagauz]] [[Ukrainians]]
+| image =
+| population  = 31,923
+| popplace = [[Odessa Oblast]]
+| langs = Predominantly [[Gagauz language|Gagauz]] (71.5%), [[Russian language|Russian]] (22.7%)
+| rels  = [[Eastern Orthodox Church|Eastern Orthodox]]
+}}
+
+Ethnic '''[[Gagauz people]] in [[Ukraine]]''' number around 31,923.
+
+==See also==
+*[[Ukrainians in Moldova]]
+
+== References ==
+{{Reflist}}
+
+{{National minorities of Ukraine}}
+{{Gagauz diaspora}}
+
+[[Category:Ethnic groups in Ukraine]]
+
+
+{{Moldova-stub}}
+{{Ukraine-stub}}</text>
+      <sha1>1mg6lwve4eomj4vp6d2wp3lso19xrp1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glava 94</title>
+    <ns>0</ns>
+    <id>45097763</id>
+    <revision>
+      <id>736432192</id>
+      <parentid>645029186</parentid>
+      <timestamp>2016-08-27T13:00:01Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>16752040</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Using official website template</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2009">{{multiple issues|
+{{refimprove|date=January 2015}}
+{{Orphan|date=January 2015}}
+}}
+
+{{Infobox musical artist
+| name = Glava 94
+| Img 
+| Img_capt = Glava 94 logo
+| background = group_or_band
+| alias = 
+| origin = [[Lviv]], [[Ukraine]]
+| genre = [[Hip hop music|Hip hop]]&lt;br /&gt;[[Ukrainian hip hop|Ukrainian Hip Hop]]
+| years_active = 2010–present
+| label = 
+| associated_acts = Misto 322
+| website = [http://glava94.com.ua/ glava94.com.ua]
+| current_members = Stepan "Stuk"&lt;br /&gt;Ihor "Honya"
+| past_members = 
+}}
+
+'''Glava 94''' (Ukrainian: '''Глава 94''') - a Ukrainian hip hop group from [[Lviv]], [[Ukraine]] composed of Stuk and Honya. They are known for [[old school hip hop]] with hardcore and clever sound.
+The group was formed in [[Lviv]] in 2010. First, well recommended themselves in internet competitions and battles (PidBit, Lemberg Battle), under the nicknames «Coughing Ed" (Stepan) and «Mr.Popeye» (Igor). In August 8, 2011 boys present their first release - the album «Unknown EP» ([[Ukrainian language|Ukrainian]]: Невідомі EP). Two years later, February 16, 2013, they issued their second album - «Bezlad». Performances are held usually in [[Western Ukraine]] - [[Lviv]], [[Kalush, Ivano-Frankivsk Oblast|Kalush]], [[Uzhgorod]], [[Ivano-Frankivsk]], [[Lutsk]] and others. In [[2015 in music|2015]] announced their third album out - «Wafflies» ([[Ukrainian language|Ukrainian]]: Вафлі).
+
+== Members ==
+
+=== Current members ===
+*Stepan "Stuk"
+*Ihor "Honya"
+
+== Discography ==
+*2011: [[Nevidomi EP]]
+*2013: [[Bezlad]]
+*2015: [[Waflies]]
+
+== External links ==
+* {{Official website|http://glava94.com.ua/}}
+*[https://www.youtube.com/channel/UChC0-DWHSWUMbK-P1HzEs3Q Official channel on YouTube]
+*[https://soundcloud.com/glava94 Glava 94 on soundcloud.com]
+*[https://uk-ua.facebook.com/Glava94 Facebbok]
+
+[[Category:Ukrainian musical groups]]
+[[Category:Musical groups established in 2010]]
+[[Category:Ukrainian-language singers]]
+
+{{hiphop-band-stub}}
+{{Ukraine-stub}}</text>
+      <sha1>cmndc3mvay040szhkvsqto6lkxavya3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Greece–United Arab Emirates relations</title>
+    <ns>0</ns>
+    <id>18757800</id>
+    <revision>
+      <id>869628745</id>
+      <parentid>806638362</parentid>
+      <timestamp>2018-11-19T20:14:14Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:WikiProject Stub sorting|stub sorting]]: added {{[[Template:Bilateralrelations-stub|Bilateralrelations-stub]]}}, removed: {{foreignrelations-stub}},  &lt;!-- fixcategory --&gt; (2)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1227">{{unreferenced|date=June 2015}}
+{{Infobox Bilateral relations|Greek-Emirati|Greece|United Arab Emirates }}
+
+'''Greek-Emirati relations''' are foreign relations between [[Greece]] and the [[United Arab Emirates]]. Greece established diplomatic relations with the United Arab Emirates in the first years of the state’s independence, and opened an embassy in [[Abu Dhabi]] in 1989. Greece also has a commercial section in [[Dubai]]. The United Arab Emirates is represented in Greece by its embassy in [[Athens]].
+
+== See also ==
+* [[Foreign relations of Greece]]
+* [[Foreign relations of the United Arab Emirates]]
+
+== External links ==
+* [https://web.archive.org/web/20110522010209/http://www.mfa.gr/www.mfa.gr/en-US/Policy/Geographic+Regions/Mediterranean+-+Middle+East/Bilateral+Relations/United+Arab+Emirates/  Greek Foreign Affairs Ministry about relations with the United Arab Emirates]
+
+{{Hellenic foreign relations}}
+{{Foreign relations of the United Arab Emirates}}
+
+{{DEFAULTSORT:Greece-United Arab Emirates relations}}
+[[Category:Bilateral relations of Greece|United Arab Emirates]]
+[[Category:Bilateral relations of the United Arab Emirates]]
+
+
+{{Greece-stub}}
+{{UnitedArabEmirates-stub}}
+{{Bilateralrelations-stub}}</text>
+      <sha1>rr1iibmbfebhfgg87hxs64v4yr4nbqh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Göteborgs FyrverkeriFabrik</title>
+    <ns>0</ns>
+    <id>24317681</id>
+    <revision>
+      <id>776390179</id>
+      <parentid>765618026</parentid>
+      <timestamp>2017-04-20T18:26:54Z</timestamp>
+      <contributor>
+        <username>Joppa Chong</username>
+        <id>20275651</id>
+      </contributor>
+      <comment>/* References */ deeper cat</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1486">{{Improveref|date=October 2009}}
+'''Göteborgs FyrverkeriFabrik''', (''Gothenburg's Fireworks Factory'') is a fireworks company based in [[Gothenburg]], [[Sweden]]. The firm started in 1994 through the merging of two companies "Dsab pyroteknik" and "Pyromedia". The company has been awarded "Swedish Champion of Fireworks" 13 times, and has in 23 gold medals in [[fireworks competitions]] around the globe. Awards include silver in Rome (2002), silver in San Sebastian (2003), Knokke three gold in Knokke-Heist (2001, 2007 and 2009), gold in Hannover (2002, 2003, 2004, 2010) and silver (2005), gold in Berlin (2007), silver in Tarragona (2008), silver in Montreal (2010), and gold in Bilbao ( 2011).
+
+The company, since the start, has been run by pyrotechnicians Anders Hållinder and Martin Hildeberg, and has six employees. GFF takes on commissions in Sweden and internationally.
+
+==External links==
+*http://www.fyrverkerifabriken.se/?lang=en - Official website
+
+==References==
+{{Reflist}}
+*{{cite news|url=http://www.morgenpost.de/printarchiv/berlin/article214168/Sechs_Teams_kaempfen_um_den_Sieg.html|title=Sechs Teams kämpfen um den Sieg|date=16 August 2007|work=Berliner Morgenpost|language=German|accessdate=2009-10-12}}
+
+{{DEFAULTSORT:Goteborgs Fyrverkerifabrik}}
+[[Category:Fireworks companies]]
+[[Category:Manufacturing companies based in Gothenburg]]
+[[Category:1994 establishments in Sweden]]
+[[Category:Manufacturing companies established in 1994]]
+
+{{-}}
+{{sweden-stub}}</text>
+      <sha1>0i50lj3fklliht4mj91ymi9aovxsh6u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hannut Formation</title>
+    <ns>0</ns>
+    <id>22039799</id>
+    <revision>
+      <id>732786634</id>
+      <parentid>675380884</parentid>
+      <timestamp>2016-08-03T07:09:47Z</timestamp>
+      <contributor>
+        <username>Grutness</username>
+        <id>117878</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2525">The '''Hannut Formation''' ({{lang-fr|Formation de Hannut}}; {{lang-nl|Formatie van Hannut}}; abbreviation: Hn) is a [[formation (stratigraphy)|geologic formation]] in the [[Subsurface (geology)|subsurface]] of northern [[Belgium]]. The formation consists of [[marine (ocean)|marine]] [[clay]] and [[silt]], alternating with moer [[sand]]y layers. On top of this the [[lithology]] changes to [[limestone]], [[siltstone]] and [[sandstone]] and the top of the formation is formed by a layer of [[glauconite]] bearing sand. The Hannut Formation was formed during the early to middle [[Thanetian]] age (Late [[Paleocene]], about 57 million years ago).
+
+The formation is named after the town of [[Hannut]] in the [[Liège (province)|province of Liège]].
+
+==Lithologies==
+The Hannut Formation can be about 100 meters thick in the [[Campine Basin]] and about 55 meters thick in the [[Mons Basin]]. In between these two basins the thickness varies between 40 and 20 meters. The formation is subdivided into five [[member (stratigraphy)|members]]:
+*The [[Chercq Member]], [[tuffite]], clay and [[glauconite]] bearing sand layers. This member is most distinctively recognizable in the [[Hainaut (province)|province of Hainaut]];
+*The [[Lincent Member]], a locally [[lithification|lithified]], predominantly clayey layer. It occurs in and around the [[Hesbaye]] region;
+*The [[Halen Member]], clayey silt and silty sand;
+*The [[Waterschei Member]], calcareous clay and silty clay. It occurs in the northeast of Belgium;
+*The [[Grandglise Member]], the upper glauconiferous sand. It is almost always present.
+
+==Stratigraphic relations==
+In Belgian [[lithostratigraphy]] the Hannut Formation is one of the two formations of the [[Landen Group]]. The other formation is the younger [[Tienen Formation]] (continental and [[lagoon]]al sands and clays from the late Thanetian age), which is normally found on top of the Hannut Formation. In the northern and eastern parts of [[Flanders]] the Hannut Formation lies stratigraphically on top of the [[Heers Formation]] (middle Paleocene sands and marls).
+
+The Hannut Formation [[correlation|correlates]] with parts of the [[Landen Formation]] in the [[Netherlands]].
+
+==References==
+*{{aut|Laga, P.; Louwye, S. &amp; Geets, S.}} (eds.); 2001: ''Paleogene and Neogene lithostratigraphic units (Belgium)'', Geologica Belgica 4(1-2), p. 135-152
+
+{{DEFAULTSORT:Hannut}}
+[[Category:Lithostratigraphy of Belgium]]
+[[Category:Paleocene]]
+[[Category:Paleogene Europe]]
+
+
+{{Europe-geologic-formation-stub}}</text>
+      <sha1>diulowahzg1x06nwbzzyezc2ez5d1iv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Inter Expo Center – Tsarigradsko shose Metro Station</title>
+    <ns>0</ns>
+    <id>35615180</id>
+    <revision>
+      <id>860664756</id>
+      <parentid>736182885</parentid>
+      <timestamp>2018-09-22T07:11:13Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3024">{{Infobox station 
+| name          = [[File:Sofia Metro Logo.svg|30px|left|link=Sofia Metro]] IEC - Tsarigradsko shose
+| type          = 
+| style         = Sofia Metro
+| image         = Цариградско-вестибюл.jpg
+| image_caption = 
+| address       = [[Tsarigradsko shose]], [[Sofia]]
+| country       = [[Bulgaria]]
+| coordinates   = {{Coord|42|38|58.62|N|23|23|37.01|E|type:railwaystation_region:BG-23|display=inline,title}} &lt;!-- close --&gt;
+| line          = &lt;!-- line information is detailed under "services" --&gt;
+| other         = 
+| structure     = sub-surface
+| platform      = side
+| depth         = 
+| levels        = 3
+| tracks        = 2
+| parking       = yes
+| bicycle       = 
+| baggage_check = 
+| opened        = 25-Apr-2012
+| closed        = 
+| rebuilt       = 
+| electrified   = 
+| ADA           = 
+| code          = 3029; 3030
+| owned         = [[Sofia#Administration|Sofia Municipality]]
+| zone          = 
+| smartcardname =
+| smartcardstatus =
+| former        = 
+| passengers    = 
+| pass_year     = 
+| pass_percent  = 
+| pass_system   = 
+| mpassengers   = 
+| services      = {{s-rail|title=Sofia Metro}}
+{{s-line|system=Sofia Metro|line=Line 2|previous=Mladost 3|next=Druzhba}}
+| map_locator   = [[File:Map8 eng trans.png|300px]]
+| web           = 
+}}
+{{Sofia Metro Blue line}}
+'''Inter Expo Center – Tsarigradsko shose Metro Station''' ({{lang-bg|Метростанция "Интер Експо Център - Цариградско шосе"}}) is a station on the [[Sofia Metro]] in [[Bulgaria]].  It started operation on April 25, 2012. Bulgaria's PM [[Boyko Borisov]] and [[President of the European Council|EU Council]] President [[Herman Van Rompuy]] inaugurated the new section of the Sofia Metro, which was funded with EU money.&lt;ref&gt;http://www.novinite.com/view_news.php?id=138809&lt;/ref&gt; It is located on [[Tsarigradsko shose]].&lt;ref&gt;http://www.novinite.com/view_news.php?id=138409&lt;/ref&gt;
+
+==Public Transportation==
+* [[Public buses in Sofia|City Bus service]]: 505
+* [[Public buses in Sofia|Suburban Bus service]]: 1, 3, 5, 6
+
+==Location==
+{{Empty section|date=October 2012}}
+
+==Gallery==
+&lt;gallery&gt;
+File:Метро-Цариградско.jpg
+&lt;/gallery&gt;
+* [http://www.metropolitan.bg/en/gallery/view/23.html Sofia Metropolitan]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commonscat-inline|Inter Expo Center - Tsarigradsko Shose (Sofia Metro)|IEC - Tsarigradsko shose}}
+* [http://www.metropolitan.bg/ Sofia Metropolitan]
+* [http://vijsofia.eu/bg/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8/%D0%B1%D1%83%D1%84%D0%B5%D1%80%D0%B5%D0%BD-%D0%BF%D0%B0%D1%80%D0%BA%D0%B8%D0%BD%D0%B3-%D0%BD%D0%B0-%D0%B1%D1%83%D0%BB-%D1%86%D0%B0%D1%80%D0%B8%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%BE-%D1%88%D0%BE%D1%81%D0%B5-47/ Park and ride at the station]
+
+{{DEFAULTSORT:Inter Expo Center - Tsarigradsko shose Metro Station}}
+[[Category:Sofia Metro stations]]
+[[Category:Railway stations opened in 2012]]
+[[Category:2012 establishments in Bulgaria]]
+
+
+{{Europe-metro-stub}}
+{{Bulgaria-transport-stub}}</text>
+      <sha1>nmcz34z5si1yd4i5zy5ds4qad8jtxca</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Joint Organization of Unions – Hong Kong</title>
+    <ns>0</ns>
+    <id>4515233</id>
+    <revision>
+      <id>576870173</id>
+      <parentid>551284390</parentid>
+      <timestamp>2013-10-12T15:53:00Z</timestamp>
+      <contributor>
+        <username>Bellerophon5685</username>
+        <id>1258165</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1145">{{Infobox Union
+|name= Joint Organization of Unions - Hong Kong
+|country= [[Hong Kong]]
+|affiliation= [[International Trade Union Confederation|ITUC]]
+|members=
+|full_name=
+|native_name=
+|image=
+|founded=
+|current=
+|head=
+|dissolved_date=
+|dissolved_state=
+|merged_into=
+|office= [[Wan Chai]], [[Hong Kong Island]]
+|people= [[Butt Yil Cheung]], president
+|website=
+|footnotes=
+}}
+&lt;!-- Include all unused fields for future use. See [[template talk:Infobox Union]] for usage. --&gt;
+
+The '''Joint Organization of Unions – Hong Kong''' is a [[trade union]] centre in [[Hong Kong]]. It is affiliated with the [[International Trade Union Confederation]].
+
+==References==
+*{{cite book
+ | year = 2005
+ | title = Trade Unions of the World
+ | editor = [[International Centre for Trade Union Rights|ICTUR]] et al.,
+ | edition = 6th
+ | publisher = John Harper Publishing
+ | location = London, UK
+ | isbn = 0-9543811-5-7
+}}
+
+{{Portal|Organized labour}}
+
+{{DEFAULTSORT:Joint Organization of Unions - Hong Kong}}
+[[Category:National trade union centres of Hong Kong]]
+[[Category:International Trade Union Confederation]]
+
+
+{{Asia-trade-union-stub}}
+{{HK-stub}}</text>
+      <sha1>fr6ds6gobgy8ridlhel03fm7do3tfny</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kabras tribe (Luhya)</title>
+    <ns>0</ns>
+    <id>27567236</id>
+    <revision>
+      <id>850788731</id>
+      <parentid>809478426</parentid>
+      <timestamp>2018-07-17T23:59:08Z</timestamp>
+      <contributor>
+        <username>Darwin Naz</username>
+        <id>33688010</id>
+      </contributor>
+      <comment>article expansion, additional citations</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3898">{{Cleanup|date=June 2010}}
+
+The '''Kabras''', or Kabarasi, are a subtribe of the [[Luhya people|Luhya]] people of [[Kenya]]. They reside in [[Malava]] that is in the Kabras Division of [[Kakamega District]], which is neighboured by the [[Isukha]], Banyala, [[Tsotso]], and the [[Tachoni]]. The exact origin of the Luhya people is currently disputed, but there are historians who believe that the group came from [[Central Africa|Central]] and [[West Africa]] and migrated to their present-day location by way of the so-called [[Bantu expansion|Great Bantu Migration]].&lt;ref name=":0"&gt;{{Cite news|url=http://www.kenya-information-guide.com/luhya-tribe.html|title=The Luhya Tribe of Kenya: Their History and Culture|access-date=2018-07-17}}&lt;/ref&gt;  
+
+The Kabras dialect called Lukabaras&lt;ref name=":1"&gt;{{Cite news|url=https://joshuaproject.net/people_groups/19916/KE|title=Luhya, Kabras in Kenya|last=Project|first=Joshua|access-date=2018-07-17|language=en}}&lt;/ref&gt; is similar to [[Tachoni dialect (Luhya)|Tachoni]]. However, the Kabras have spread to other regions as a result of intermarriages and movement to seek greener pasture in formal employment. These people are described as adaptable, easily absorbing other culture's values and beliefs.&lt;ref name=":1" /&gt; This can be demonstrated in the way many Kabras practice the Christian and Muslim faiths.&lt;ref name=":1" /&gt; One notable cultural practice involves circumcision and pride-price required for marriage.  
+
+Kabrasi clans were named after the heads of the families. They include Avatali, Abawande, Abamutama, Basonje, Abakhusia, Bamachina, Abashu, Abamutsembi, Baluu, Batobo, Bachetsi, and Bamakangala. Along with 17 other Luhya subtribes, the Kabras constitute 14 percent of the Kenyan population, making the ethnic group the second largest in the country, next to the [[Kikuyu people|Kikuyu]].&lt;ref name=":0" /&gt;  
+
+Before the colonial era, the Kabaras were under the rulership of Nabongo Mumia, the king of the [[Wanga]]. They were represented by an elder in his Council of Elders. The last known elder in the king's council was Soita Libukana Samaramarami. The Kabaras are said to have originally been Banyala.
+
+When Quaker missionaries came to Kenya in the early part of the twentieth century, they spread out to Kabaras from [[Kaimosi]] in [[Tiriki]].{{citation needed|date=December 2012}} During the British colonization, the Kabras - along with the Wanga tribe - collaborated with the colonialists.&lt;ref name=":0" /&gt; These tribes, especially the [[Bukusu]], which waged strong resistance to the invaders, avoided the fate of most of the Luhya people, who lost their fertile lands to the British colonial rule.
+
+== Politics ==
+In politics, one of the famous Kabras politician is [[Dr. Noah Mahalang'ang'a Wekesa]], the former Kwanza MP and he as well served as Wildlife and Forestry minister under President [[Mwai Kibaki]]. Besides, another notable Kabras politician is Late[[Soita Shitanda]], who represented Malava Constituency in parliament and served as a Housing Minister in President Mwai Kibaki's cabinet. He was instrumental in the revival of the Sugar Cane industry in Western Kenya, spearheading the establishment of West Kenya Sugar factory in Malava. Former Chief Justice, the Late [[Zacchaeus Chesoni]], hailed from the [[Kabras]] sub tribe Bamachina clan close to Chimoi area near Webuye.  
+
+== Economic activities ==
+Kabras people are farmers, practicing livestock rearing and crop farming. The main cash crop is Sugarcane, which is harvested and taken to West Kenya Sugar Company as well as Mumias Sugar Company.  
+==See also ==
+* [[Luhya people]]
+* [[Luhya languages]]
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.reliefweb.int/rw/fullMaps_Af.nsf/luFullMap/14A6905F99640EF98525766A0065CCB6/$File/map.pdf?OpenElement
+*http://web.sndden.org/kenya/sjpdc/bkg.htm
+
+[[Category:Luhya]]
+
+
+{{Africa-ethno-group-stub}}</text>
+      <sha1>cd8yq1kahfsvvou1ehx0q3iqkko0emm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Karpatska Rus'</title>
+    <ns>0</ns>
+    <id>27458382</id>
+    <revision>
+      <id>861633757</id>
+      <parentid>799956385</parentid>
+      <timestamp>2018-09-28T21:09:24Z</timestamp>
+      <contributor>
+        <username>MTDecerbo</username>
+        <id>580884</id>
+      </contributor>
+      <comment>Adding link to archive</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3385">{{about|a Rusyn-American newspaper|region of eastern Europe|Carpathian Rus'}}
+{{Infobox newspaper
+| name                 = Karpatska Rus' (Карпатска Русь)
+| logo                 = 
+| image                = 
+| caption              = 
+| type                 = 
+| format               = 
+| owners               = 
+| founder              = 
+| publisher            = 
+| editor               = 
+| foundation           = 
+| political            = 
+| language             = 
+| ceased publication   = 
+| headquarters         = [[Allentown, New Jersey]]
+| circulation          = 450
+| sister newspapers    = 
+| ISSN                 = 1042-5640 
+| oclc                 = 16930231
+| website              = 
+}}
+'''''Karpatska Rus'''''' ('''Карпатска Русь''') is a [[Rusyn language]] newspaper published in the [[United States]] for the [[Rusyn language|Rusyn]]-speaking [[Lemkos|Lemko]] immigrant community.&lt;ref&gt;{{cite book |last1=Horbal |first1= Bogdan|authorlink1= Bogdan Horbal|last2=Magocsi |first2= Paul|editor1-first= Paul|editor1-last= Magocsi|editor1-link=Paul Magocsi |editor2-first= Ivan|editor2-last= Pop|editor2-link=  Ivan Pop|title=Encyclopedia of Rusyn History and Culture |year= |publisher= |location= |language= |isbn= |oclc= |doi= |id= |page=230|chapter=Karpatska Rus'|chapterurl=https://books.google.com/books?id=ovCVDLYN_JgC&amp;pg=PA230 |quote= }}&lt;/ref&gt;   It is the successor to [[Lemko (Philadelphia)|''Lemko'']], which began publication in 1927.
+
+Originally, the paper was published weekly or twice a week, and was entirely in the [[Lemkos|Lemko]] form of the [[Rusyn language]].  Its largest circulation was during [[World War II]], when it provided reporting from the war in the Carpathian mountains.  It later added articles in [[English (language)|English]], and eventually became a bi-lingual paper.  It was still in active publication in 2006, but with a reduced circulation. Since 2008 it has been published in English as a quarterly.
+
+The newspaper had a [[Ukrainian Russophiles|Russophile]] orientation, and avoided any suggestion that some researchers consider [[Lemkos]] a branch of the [[Ukrainians|Ukrainian]]s as opposed to Lemko being a synonym for Rusyn.&lt;ref&gt;{{cite book |last1= Magocsi|first1=Paul |authorlink1= Paul R. Magocsi |title= Encyclopedia of Canada's peoples |url= https://books.google.com/books?id=dbUuX0mnvQMC&amp;pg=PA341&amp;lpg=PA341&amp;dq=%22Lemko+Association'%22&amp;source=bl&amp;ots=K6C7mB60kJ&amp;sig=k1eZxeFgsgKKjVCh5dUieEsSOoQ&amp;hl=en&amp;ei=umL6S8CHCYbWMKHRydUF&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=9&amp;ved=0CDQQ6AEwCA#v=onepage&amp;q=%22Lemko%20Association'%22&amp;f=false|format= |accessdate= |type= |edition= |series= |volume= |date= |year= |month= |origyear= |publisher= |location= |language= |isbn= |oclc= |doi= |id= |page=341|chapterurl= |quote= |ref= |bibcode= |laysummary= |laydate= |postscript= |lastauthoramp=}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+[[Category:Lemko American]]
+[[Category:Publications established in 1939]]
+[[Category:Rusyn-American culture in New Jersey]]
+[[Category:Rusyn-American history]]
+[[Category:Rusyn-language newspapers]]
+[[Category:Bilingual newspapers]]
+[[Category:Non-English-language newspapers published in New Jersey]]
+[[Category:Allentown, New Jersey]]
+
+==External links==
+[https://lemkoassociation.org/archives/publications/karpatska-rus-archive/ Online archive]
+
+
+{{NewJersey-newspaper-stub}}
+{{Ukraine-stub}}</text>
+      <sha1>cw4740zd3s9dww98kcwarz3mmpycttl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Les Damnés de la mer</title>
+    <ns>0</ns>
+    <id>34992963</id>
+    <revision>
+      <id>681431495</id>
+      <parentid>642311799</parentid>
+      <timestamp>2015-09-17T05:17:43Z</timestamp>
+      <contributor>
+        <username>Varnent</username>
+        <id>2921886</id>
+      </contributor>
+      <minor/>
+      <comment>clean up per [[WP:CHECKWIKI]], removed underlinked tag using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1763">{{Orphan|date=September 2013}}
+
+{{Infobox film
+| name           = {{lang|fr|Les Damnés de la mer}}
+| image          = 
+| caption        = 
+| director       = [[Jawad Rhalib]]
+| producer       = Latcho Drom Arte RTBF Irène Productions Clap d’Ort Films
+| writer         = 
+| starring       = 
+| distributor    = 
+| released       = 2008
+| runtime        = 71 minutes
+| country        = Belgium&lt;br/&gt;France&lt;br/&gt;Morocco
+| language       = 
+| budget         = 
+| gross          = 
+| screenplay     = 
+| cinematography = Olivier Pullincks
+| sound          = Khalid Oudadess
+| editing        = Karima Saïdi
+| music          = Hassan Laarousi
+}}
+
+'''''{{lang|fr|Les Damnés de la mer}}''''' is a 2008 [[documentary film]].
+
+== Synopsis ==
+In [[Dakhla, Western Sahara|Dakhla]] (in the southernmost part of [[Morocco]]), one of the richest fishing regions in the world, hundreds of Moroccan fishermen, pushed by the increasing shortage of resources in the north, huddle together in tents sprayed by the ocean. However, their quest for a miraculous catch has revealed itself to be a tragic trap. As they have no licenses, they are sentenced to remain a few yards from the shoreline and catch what they can, while foreign trawlers equipped with the latest in [[sonar]] technology, captures the sea's riches to export them to other continents.
+
+== References ==
+{{RefFCAT|416}}
+
+{{DEFAULTSORT:Damnes De La Mer}}
+[[Category:2008 films]]
+[[Category:Belgian films]]
+[[Category:French films]]
+[[Category:Moroccan films]]
+[[Category:Belgian documentary films]]
+[[Category:French documentary films]]
+[[Category:Moroccan documentary films]]
+[[Category:2000s documentary films]]
+[[Category:Documentary films about fishing]]
+
+
+{{Morocco-film-stub}}
+{{France-documentary-film-stub}}</text>
+      <sha1>lp1jq2zg6lzndz8pubwgogl0qtigl4z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>List of years in Chile</title>
+    <ns>0</ns>
+    <id>41442400</id>
+    <revision>
+      <id>820141363</id>
+      <parentid>820141339</parentid>
+      <timestamp>2018-01-13T07:55:23Z</timestamp>
+      <contributor>
+        <username>M2545</username>
+        <id>9455233</id>
+      </contributor>
+      <comment>sidebar</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1306">{{History of Chile}}
+This is a list of '''years in [[Chile]]'''. See also the [[timeline of Chilean history]].  For only articles about years in Chile that have been written, see [[:Category:Years in Chile]].  
+
+== Twenty-first century ==
+{{years in decade|2010|Chile|last=2017}}
+{{years in decade|2000|Chile}}
+
+== Twentieth century ==
+{{years in decade|1990|Chile}}
+{{years in decade|1980|Chile}}
+{{years in decade|1970|Chile}}
+{{years in decade|1960|Chile}}
+{{years in decade|1950|Chile}}
+{{years in decade|1940|Chile}}
+{{years in decade|1930|Chile}}
+{{years in decade|1920|Chile}}
+{{years in decade|1910|Chile}}
+{{years in decade|1900|Chile}}
+
+== Nineteenth century ==
+{{years in decade|1890|Chile}}
+{{years in decade|1880|Chile}}
+{{years in decade|1870|Chile}}
+{{years in decade|1860|Chile}}
+{{years in decade|1850|Chile}}
+{{years in decade|1840|Chile}}
+{{years in decade|1830|Chile}}
+{{years in decade|1820|Chile}}
+{{years in decade|1810|Chile}}
+{{years in decade|1800|Chile}}
+
+== See also ==
+* [[Timeline of Santiago de Chile]]
+* List of years by country
+
+{{Chile topics}}
+{{Years in Chile}}
+{{South America topic|title=Years in South America|prefix=List of years in}}
+
+{{DEFAULTSORT:Years in Chile, List of}}
+[[Category:Years in Chile]]
+[[Category:Chile-related lists]]
+[[Category:History of Chile]]</text>
+      <sha1>pp6l9h104yab87w9922jlxqvyblr96k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Maari oil field</title>
+    <ns>0</ns>
+    <id>25523107</id>
+    <revision>
+      <id>856200556</id>
+      <parentid>849771948</parentid>
+      <timestamp>2018-08-23T15:30:27Z</timestamp>
+      <contributor>
+        <username>Pbsouthwood</username>
+        <id>10044298</id>
+      </contributor>
+      <comment>Adding local [[Wikipedia:Short description|short description]]: "An oilfield off the coast of South Taranaki,  New Zealand" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2208">{{short description|An oilfield off the coast of South Taranaki,  New Zealand}}
+{{Infobox oil field
+| name        = Maari oilfield
+| country     = [[New Zealand]]
+| region      =
+| location    = [[Taranaki Region|South Taranaki]]
+| block       = 
+| offonshore  = offshore
+| coordinates = 
+| operator    = [[OMV]]
+| operators   = 
+| partners    = [[OMV]] (69%), Horizon Oil (26%), Cue Taranaki (5%)
+| image       = 
+| caption     = 
+| discovery   =
+| start_development = 
+| start_production = 2009
+| peak_year   =
+| abandonment =
+| oil_production_bbl/d =
+| oil_production_tpy =
+| production_year_oil = 
+| production_gas_mmcuft/d =
+| production_gas_mmscm/d =
+| production_gas_bcm/y =
+| production_year_gas =
+| est_oil_bbl = 49
+| est_oil_t   =
+| est_gas_bft =
+| est_gas_bcm =
+| formations  =
+}}
+
+The '''Maari oilfield''' is an oil reservoir located {{convert|80|km}} off the coast of [[Taranaki Region|South Taranaki]], [[New Zealand]].  Maari is the second largest crude oil field in New Zealand with total reserves of {{convert|49|Moilbbl}}.&lt;ref name="Energy2015"&gt;{{cite book|title=Energy in New Zealand 2015| publisher=[[Ministry of Business, Innovation and Employment|MBIE]]| date=August 2015| url=http://www.mbie.govt.nz/info-services/sectors-industries/energy/energy-data-modelling/publications/energy-in-new-zealand| issn=2324-5913}}&lt;/ref&gt;  Production of oil began in February 2009, and the field is expected to have a productive life of 10 to 15 years. The lead partner for the field is [[OMV|OMV New Zealand]] (69%), with other parties Horizon Oil (26%) and Cue Taranaki (5%).&lt;ref&gt;{{cite news| url=http://www.nbr.co.nz/article/largest-oil-field-goes-full-production-mode-116852| title=Largest oil field goes into full production mode| date=21 December 2009| first=Andrea| last=Deuchrass| newspaper=[[National Business Review]]| accessdate=2010-06-04}}&lt;/ref&gt;
+
+== See also ==
+* [[Energy in New Zealand]]
+* [[Oil and gas industry in New Zealand]]
+
+== References ==
+{{Reflist}}
+
+{{coord missing|New Zealand}}
+
+{{Oceanic features of Zealandia|state=collapsed}}
+
+[[Category:Zealandia]]
+[[Category:Geography of Taranaki]]
+[[Category:New Zealand seafloor (oceanography)]]
+[[Category:Oil fields of New Zealand]]</text>
+      <sha1>r0pa2h4hgto924q3f1bo5246b2zrwyi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Maker Faire Africa</title>
+    <ns>0</ns>
+    <id>28675832</id>
+    <revision>
+      <id>869042431</id>
+      <parentid>867295109</parentid>
+      <timestamp>2018-11-16T01:23:42Z</timestamp>
+      <contributor>
+        <username>Josvebot</username>
+        <id>14967932</id>
+      </contributor>
+      <minor/>
+      <comment>v2.0b - [[WP:WCW]] project (Unicode control characters)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3924">[[Image:2011 Cairo MakerFaireAfrica 6219046643 3b3088c4a9 o.jpg|thumb|right|Maker Faire Africa, Cairo, October 2011]]
+Presently curated &amp; organized by [https://plus.google.com/100735632851950353491/posts Emeka Okafor], [https://plus.google.com/113645444876055889861/about Henry Barnor] and [http://jenniferwolfedesign.com/ Jennifer Wolfe] .'''Maker Faire Africa''' an [[international organization]] was co-founded by Mark Grimes (Ned.com) Emeka Okafor (TED Africa),Lars Hassleblad Torress (IDEAS Global Challenge), Erik Hersman (Afrigadget) and Nii Simmonds (Nubian Cheetah).Maker Faire Africa aims to engage with on-the-ground breakthrough organizations and individual makers to sharpen focus on locally generated, bottom-up prototypes of technologies that solve immediate challenges to development.&lt;ref&gt;[http://www.harpercollins.com/books/Boy-Who-Harnessed-Wind/?isbn=9780061730320/%20 The Boy Who Harnessed the Wind: Creating Currents of Electricity and Hope by [[William Kamkwamba]] &amp; Bryan Mealer]&lt;/ref&gt;&lt;ref&gt;[http://craphound.com/makers/download/  Makers by Cory Doctorow]&lt;/ref&gt;
+
+==Overview==
+The aim of a Maker Faire Africa is to create a space on the African continent where Afrigadget-type innovations, inventions and initiatives can be sought, identified, brought to life, supported, amplified and propagated. At the same time, ''Maker Faire Africa'' would seek to imbue creative types in science and technology with an appreciation of fabrication and by default manufacturing.
+The first Maker Faire Africa was in [[Ghana]] in 2009.&lt;ref&gt;Steve Daniels. Making Do: Innovation in Kenya's Informal Economy. Analogue Digital, 2010&lt;/ref&gt; The second phase was held in [[Nairobi]], [[Kenya]] in 2010, the third in Cairo in 2011&lt;ref&gt;Ali Abdel Mohsen. "[http://www.almasryalyoum.com/en/node/501895 Maker Faire Africa 2011 to be held in Cairo on 6 October]." Al-Masry Al-Youm, 04/10/2011&lt;/ref&gt;, the fourth in [[Lagos]], the fifth abroad (Istanbul, Milan, New York City) and the sixth in [[Johannesburg]].&lt;ref&gt;{{Cite web|url=http://makerfaireafrica.com/mfa-2014-johannesburg-za/|title=mfa 2014 : Johannesburg, ZA : Maker Faire Africa|website=makerfaireafrica.com|language=en-US|access-date=2017-04-10}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==Images==
+&lt;gallery&gt;
+File:Innovative traffic-light.jpg|Innovative traffic-light, Nairobi, 2010
+File:Maker Faire Africa in Nairobi.jpg|Maker Faire Africa, Nairobi, 2010
+File:Sisal Twinner Machine.jpg| Sisal Twinner Machine, Nairobi, August 2010
+Image:2011 Cairo MakerFaireAfrica 6219569246.jpg|Cairo, October 2011
+Image:2011 Cairo MakerFaireAfrica 6223961341.jpg|Cairo, 2011
+&lt;/gallery&gt;
+
+==Further reading==
+* Ariel Schwartz. "[http://www.fastcompany.com/1685349/creative-gadgets-dominate-maker-faire-africa?# Creative Gadgets Dominate Maker Faire Africa]." Fast Company, Aug 27, 2010
+
+==External links==
+{{commons category|Maker Faire Africa}}
+*[http://makerfaireafrica.com Maker Faire Africa]
+*[http://makerfaireafrica.com/category/blog/ Makerfaireafrica Blog]
+*[https://web.archive.org/web/20150802110636/http://www.afrigadget.com/ Afrigadget]
+*[https://web.archive.org/web/20110510104056/http://www.ned.com/home/ Ned.com]
+* Flickr. [https://www.flickr.com/photos/44221799@N08/sets/72157625124139815 Maker Faire Africa 2010]
+* Flickr. [https://www.flickr.com/photos/afropicmusing/sets/72157625211716382 Maker Faire Africa 2010 -Nairobi]
+* Flickr. [https://www.flickr.com/photos/maltman23/sets/72157627847821092 Cairo, Maker Faire Africa Day 3, Oct-2011]
+
+==See also==
+* [[Creative problem solving]]
+* [[Theories of technology]]
+* [[Ecoinnovation]]
+* [[Information revolution]]
+* [[Invention]]
+* [[Knowledge economy]]
+* [[Open Innovation]]
+
+[[Category:International organizations of Africa]]
+[[Category:Recurring events established in 2009]]
+[[Category:Appropriate technology organizations]]
+[[Category:Scientific organizations of Africa]]
+[[Category:International economic organizations]]</text>
+      <sha1>tesa2ynrefh5lar9vywvfenakothqmt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Microprudential regulation</title>
+    <ns>0</ns>
+    <id>42127223</id>
+    <revision>
+      <id>822931565</id>
+      <parentid>774818674</parentid>
+      <timestamp>2018-01-29T09:50:03Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.2)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1604">'''Microprudential regulation''' or  '''microprudential supervision''' is firm-level oversight or [[financial regulation]] by regulators of financial institutions, "ensuring the balance sheets of individual institutions are robust to shocks".&lt;ref&gt;Dr Alan Bollard, Bernard Hodgetts, and Mike Hannah. Where we are going with macro and micro-prudential policies in New Zealand? A speech delivered to the Basel III Conference in Sydney On 25 March 2011. {{cite web |url=http://www.rbnz.govt.nz/research_and_publications/speeches/2011/4327011.html |title=Archived copy |accessdate=2014-03-06 |deadurl=yes |archiveurl=https://web.archive.org/web/20130811165837/http://www.rbnz.govt.nz/research_and_publications/speeches/2011/4327011.html |archivedate=2013-08-11 |df= }}&lt;/ref&gt;
+
+==Aims==
+The motivation for micro-prudential regulation is rooted in [[consumer protection]]: ensuring [[solvency]] of financial institutions strengthens consumer confidence in the individual firms and the financial system as a whole. In addition, if a large number of financial firms fail at the same time, this can disrupt the overall financial system. Therefore, micro-prudential regulation also reduces [[systemic risk]].
+
+==Standards==
+Micro-prudential regulation involves enforcing standards, e.g. the [[Basel III]] global regulatory standards for bank capital adequacy, leverage ratios and liquidity.
+
+== References ==
+{{reflist}}
+
+==See also==
+* [[Macroprudential regulation]]
+
+[[Category:Consumer protection]]
+[[Category:Financial regulation]]
+[[Category:Systemic risk]]
+[[Category:Business cycle]]
+
+
+{{macroeconomics-stub}}</text>
+      <sha1>cmw29b93bu2i72eobrnue11oczqjmwu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Moj svijet</title>
+    <ns>0</ns>
+    <id>42151258</id>
+    <revision>
+      <id>840588556</id>
+      <parentid>830387238</parentid>
+      <timestamp>2018-05-10T20:43:37Z</timestamp>
+      <contributor>
+        <username>PrimeBOT</username>
+        <id>29463730</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */[[User:PrimeBOT/24|Task 24]] - replace template usage following [[Wikipedia:Templates for discussion/Log/2018 February 19|a TFD]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1680">{{For|the album|Moj svijet (album)}}
+{{distinguish |text= the 2007 Macedonian Eurovision entry, [[Mojot svet]]}}
+{{Infobox song contest entry
+| song         = {{flagicon|Montenegro}} "Moj svijet"
+| image        = 
+[[File:Sergej Ćetković - Moj Svijet presentation (English).webm|250px]]
+| caption      = 
+| year         = 2014
+| country      = Montenegro
+| artist       = [[Sergej Ćetković]]
+| language     = 
+| languages    = [[Montenegrin language|Montenegrin]]
+| composer     = Sergej Ćetković, 
+| lyricist     = Sergej Ćetković, [[Emina Jahović]]
+| place        =19th 
+| points       =37 
+| lyrics       = 
+| prev         = Igranka
+| prev_link    = Igranka
+| next         = Adio
+| next_link    = Adio (song)
+|place_semi = 7th|points_semi = 63}}
+'''"Moj svijet"''' ({{lang-cnr|Мој свијет}}, {{lang-en|My world}}) is a song by Montenegrin singer [[Sergej Ćetković]]. It was internally selected to represent [[Montenegro in the Eurovision Song Contest 2014|Montenegro]] at the [[Eurovision Song Contest 2014]] in [[Denmark]].&lt;ref&gt;{{cite web|last=Leon|first=Jakov I.|url=http://www.eurovision.tv/page/news?id=tonight_a_premiere_of_sergejs_moj_svijet|title=Tonight: The premiere of Sergej's Moj Svijet|date=9 March 2014|accessdate=9 March 2014|publisher=Eurovision.tv}}&lt;/ref&gt; It was the first song from the country to make it to the finals.
+
+==References==
+{{reflist}}
+
+{{Montenegro in the Eurovision Song Contest}}
+{{Eurovision Song Contest 2014}}
+
+[[Category:2014 songs]]
+[[Category:Eurovision songs of 2014]]
+[[Category:Eurovision songs of Montenegro]]
+[[Category:Articles containing video clips]]
+
+
+{{Eurovision-stub}}
+{{Montenegro-stub}}
+{{2010s-song-stub}}</text>
+      <sha1>8fjisnhc8abml9ocfv2pvrjtifjv4kr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Odersun</title>
+    <ns>0</ns>
+    <id>19811566</id>
+    <revision>
+      <id>827078515</id>
+      <parentid>782585099</parentid>
+      <timestamp>2018-02-22T17:19:23Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>Fix [[:Category:Pages using deprecated image syntax]]; [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2965">{{Infobox company
+| name             = Odersun AG
+| logo             = Odersun Logo anthrazit klein.png
+| logo_size        = 250px
+| caption          = 
+| type             = [[Public company|Public]] ([[Aktiengesellschaft]])
+| traded_as        = 
+| fate             = 
+| predecessor      = 
+| successor        = 
+| foundation       = {{Start date|2002|11|14|df=y}}
+| founder          = 
+| defunct          = {{End date|2012|06|01}}
+| location_city    = [[Frankfurt (Oder)]]
+| location_country = Germany
+| locations        = 
+| area_served      = 
+| key_people       = 
+| industry         = [[Photovoltaics]]
+| products         = [[CIGS cell]]s, [[thin-film solar cell|thin-film PV technology]]
+| services         = 
+| revenue          = 
+| operating_income = 
+| net_income       = 
+| assets           = 
+| equity           = 
+| owner            = 
+| num_employees    = 320 (2011)
+| parent           = 
+| divisions        = 
+| subsid           = 
+| homepage         =
+| footnotes        = 
+| intl             = 
+}}
+
+'''Odersun''' was a German [[photovoltaic]] (PV) company that developed and manufactured [[CIGS cell]]s on a flexible [[copper]] backing, specifically designed for [[building-integrated photovoltaics]]. The insolvent company went into administration on 1 June 2012 and filed for bankruptcy.
+
+Odersun employed more than 320 people in production, research and management in [[Frankfurt (Oder)|Frankfurt an der Oder]], [[Fürstenwalde]] and [[Berlin]], Germany. In cooperation with partner and investor AT&amp;M, the company was setting up a joint venture in Beijing, China.
+
+The company produced its flexible photovoltaic modules according to a proprietary and patented manufacturing process. These [[thin-film solar cell|thin-film modules]] converted sunlight into electricity using a thin layer of a [[copper indium gallium selenide]] (CIGS) [[semiconductor]] which was deposited on copper tape. These were cut, interconnected and built into different forms of modules depending on their application such as [[facade]]s, [[roof]]s, [[canopy (building)|canopies]] or [[louver]]s.
+
+In 2008, the company topped the inaugural Guardian/Library House "CleanTech 100" list, which showcased the then best companies in European clean technology.&lt;ref&gt;[https://www.theguardian.com/environment/2008/sep/18/cleantechnology100.news2  Revealed: Europe's hottest clean technology companies]&lt;/ref&gt;&lt;ref&gt;[https://www.theguardian.com/environment/table/2008/sep/18/cleantech100top10.cleantechnology100 Top 10: The hottest clean technology companies in Europe]&lt;/ref&gt;
+
+{{multiple image
+ |direction = horizontal
+ |align     = left
+ |width1    = 255
+ |width2    = 255
+ |image1    = 
+ |image2    = 
+ |caption1  = PV Cell Manufacturing
+ |caption2  = Odersun AG
+}}
+{{clear}}
+
+== See also ==
+* [[Copper tape]]
+* [[List of CIGS companies]]
+
+== References ==
+{{Reflist}}
+
+[[Category:Thin-film cell manufacturers]]
+[[Category:Engineering companies of Germany]]
+
+
+{{europe-company-stub}}</text>
+      <sha1>4djsfbbwc6p90szd5v60qbu205owsxw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Perendi (deity)</title>
+    <ns>0</ns>
+    <id>1816350</id>
+    <revision>
+      <id>869158956</id>
+      <parentid>843137715</parentid>
+      <timestamp>2018-11-16T19:51:19Z</timestamp>
+      <contributor>
+        <username>Neko-chan</username>
+        <id>90173</id>
+      </contributor>
+      <comment>fix cite</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1097">'''Perendi''' ({{lang-al|Perëndi}}) is the [[Albanian language|Albanian]] word for God and the [[sky]]. Perendi was an [[Illyrian mythology|Illyrian]] [[thunder god]], whose name was retained as the [[Name of God]] after the spread of [[Christianity]].
+
+==Etymology==
+Perendi is an [[Indo-European languages|Indo-European]] [[thunder god]] name, akin to [[Sanskrit language|Sanskrit]] [[Parjanya]], [[Lithuanian language|Lithuanian]] [[Perkūnas]], [[Gaulish language|Gaulish]] [[Cernunnos]]. In [[Albanian mythology]], he is the consort of [[Prende]], comparable to [[Frigg]], [[Odin]]'s wife.&lt;ref&gt;{{cite book| editor=[[Hans Wilhelm Haussig]] | author=[[Maximilian Lambertz]] | title=Wörterbuch der Mythologie | chapter=Die Mythologie der Albaner - Perëndi  | volume=2 | year=1973  | pages=455-509|language=de}}&lt;/ref&gt;
+
+==See also==
+*[[Albanian mythology]]
+*[[En (deity)]]
+*[[Prende]]
+
+==References==
+&lt;references/&gt;
+
+{{DEFAULTSORT:Perendi}}
+[[Category:Albanian mythology]]
+[[Category:Albanian folklore]]
+[[Category:Thunder gods]]
+[[Category:Illyrian gods]]
+
+{{Albania-stub}}
+{{europe-myth-stub}}</text>
+      <sha1>hqecz2q7fyrsgmmkg39jdp5a289cc1l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Roman Catholic Diocese of Denpasar</title>
+    <ns>0</ns>
+    <id>18680835</id>
+    <revision>
+      <id>863492515</id>
+      <parentid>791828111</parentid>
+      <timestamp>2018-10-11T03:55:24Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <comment>added [[Category:Religion in Bali]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2744">{{Infobox diocese
+|jurisdiction     = Diocese 
+|name             = Denpasar 
+|latin            = Dioecesis Denpasarensis
+|local            = Keuskupan Denpasar
+|country          = {{flag|Indonesia}}
+|metropolitan     = [[Roman Catholic Archdiocese of Ende|Ende]] 
+|province         = [[Roman Catholic Archdiocese of Ende|Ende]] 
+|rite             = [[Latin Rite]]
+|cathedral        = Cathedral of the Holy Spirit in [[Denpasar]]
+|cocathedral      = 
+|area_km2         = 25,786 
+|population       = 8,171,781  
+|population_as_of = 2006  
+|catholics        = 32,083 
+|catholics_percent= 0.4  
+|pope             = {{Incumbent pope}}
+|bishop           = [[Sylvester Tung Kiem San|Silvester Tung Kiem San]] 
+|metro_archbishop = Vincentius Sensi Potokota
+|coadjutor        = 
+|auxiliary_bishops= 
+|website          = [http://keuskupandenpasar.org/ Website of the Diocese] 
+}}
+[[File:DenpasarSt.JosephChurch.JPG|thumb|Saint Joseph's Roman Catholic Church, Denpasar, Bali, Indonesia]]
+The '''Roman Catholic Diocese of Denpasar''' ({{lang-la| Denpasaren(sis)}}) is a [[diocese]] of the [[Ecclesiastical province]] of [[Roman Catholic Archdiocese of Ende|Ende]], in Indonesia. The diocese encompasses the predominantly [[Hindu]] province of [[Bali]] and the mostly [[Muslim]] province of [[West Nusa Tenggara]] and has its see in [[Denpasar]], the capital city of Bali.
+
+==History==
+* July 10, 1950: Established as [[Apostolic Prefecture]] of Denpasar from the [[Apostolic Vicariate of Isole della Piccola Sonda]]
+* January 3, 1961: Promoted as Diocese of Denpasar
+
+==Leadership==
+* [[Bishop]]s of Denpasar (Roman rite)
+** Bishop [[Sylvester Tung Kiem San|Silvester Tung Kiem San]] (November 22, 2008 - )
+** Bishop [[Benyamin Yosef Bria]] (April 14, 2000 – September 18, 2007)
+** Bishop [[Vitalis Djebarus]], S.V.D. (September 4, 1980 – September 22, 1998)
+** Bishop [[Antoine Hubert Thijssen]], S.V.D. (Apostolic Administrator 1973 – September 4, 1980)
+** Bishop [[Paul Sani Kleden]], S.V.D. (July 4, 1961 – November 17, 1972)
+* Prefects Apostolic of Denpasar (Roman Rite) 
+** Fr. [[Uberto Hermens]], S.V.D. (July 19, 1950 – 1961)
+
+==References==
+* [http://www.gcatholic.org/dioceses/diocese/denp0.htm GCatholic.org]
+* [http://www.catholic-hierarchy.org/diocese/ddenp.html Catholic Hierarchy]
+
+{{coord|8.6500|S|115.2170|E|source:wikidata-and-enwiki-cat-tree_region:ID|display=title}}
+
+{{DEFAULTSORT:Denpasar}}
+[[Category:Denpasar]]
+[[Category:Roman Catholic dioceses in Indonesia]]
+[[Category:Religious organizations established in 1950]]
+[[Category:Roman Catholic dioceses and prelatures established in the 20th century]]
+[[Category:1950 establishments in Indonesia]]
+[[Category:Religion in Bali]]
+
+{{Indonesia-stub}}
+{{Asia-RC-diocese-stub}}</text>
+      <sha1>ahwwjp6m1fybktar9lph6p69hj5d09u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Roman Catholic Diocese of Franceville</title>
+    <ns>0</ns>
+    <id>12307207</id>
+    <revision>
+      <id>792301777</id>
+      <parentid>744792982</parentid>
+      <timestamp>2017-07-25T18:56:50Z</timestamp>
+      <contributor>
+        <username>Jeromeenriquez</username>
+        <id>27291737</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1548">{{Infobox diocese
+|jurisdiction     = Diocese
+|name             = Franceville
+|latin            = Dioecesis Francopolitan(us) in Gabone
+|country          = {{flag|Gabon}}
+|metropolitan     = [[Roman Catholic Archdiocese of Libreville|Libreville]]
+|rite             = [[Latin Rite]]
+|area_km2         = 61,927
+|population       = 287,045
+|population_as_of = 2004
+|catholics        = 82,150
+|catholics_percent= 28.6
+|pope             = {{Incumbent pope}}
+|bishop           = Vacant
+}}
+
+The '''Roman Catholic Diocese of Franceville''' ({{lang-la|Francopolitan(us) in Gabone}}) is a [[diocese]] located in the city of [[Franceville]] in the [[Ecclesiastical province]] of [[Roman Catholic Archdiocese of Libreville|Libreville]] in [[Gabon]].
+
+==History==
+* October 5, 1974: Established as Diocese of Franceville from the [[Diocese of Mouila]]
+
+==Leadership==
+* [[Bishop]]s of Franceville (Roman rite)
+** Bishop [[Timothée Modibo-Nzockena]] (since 1996.11.08)
+** Bishop [[Félicien-Patrice Makouaka]] (1974.10.05 – 1996.11.08)
+
+==See also==
+*[[Roman Catholicism in Gabon]]
+
+==Sources==
+* [http://www.gcatholic.org/dioceses/diocese/fran4.htm GCatholic.org]
+* [http://www.catholic-hierarchy.org/diocese/dfrag.html Catholic Hierarchy]
+
+{{coord|1.6318|S|13.6077|E|source:wikidata|display=title}}
+
+{{DEFAULTSORT:Franceville}}
+[[Category:Roman Catholic dioceses in Gabon]]
+[[Category:Religious organizations established in 1974]]
+[[Category:Roman Catholic dioceses and prelatures established in the 20th century]]
+
+{{Gabon-stub}}
+{{Africa-RC-diocese-stub}}</text>
+      <sha1>f3f69353ussjs2w9hqxvx09fj4qgnpr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Royal Drummers of Burundi</title>
+    <ns>0</ns>
+    <id>1219995</id>
+    <revision>
+      <id>864299784</id>
+      <parentid>822342073</parentid>
+      <timestamp>2018-10-16T11:04:51Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Burundian music organisations to [[:Category:Music organisations based in Burundi]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 October 9]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3627">{{Refimprove| date= January 2017}}
+{{Infobox musical artist
+| name            = Royal Drummers of Burundi
+| image           = 
+| image_size      = 
+| image_upright   = 
+| landscape       = &lt;!-- yes, if wide image, otherwise leave blank --&gt;
+| alt             = 
+| caption         = 
+| background      = group_or_band
+| alias           = The Drummers of Burundi
+| origin          = Burundi
+| genre           = 
+| years_active    = 1960s–present
+| label           = 
+| associated_acts = 
+| website         = &lt;!-- {{URL|www.example.com}}  --&gt;
+| current_members = 
+| past_members    = 
+}}
+The '''Royal Drummers of Burundi''', commonly known in recordings as '''The Drummers of Burundi''', is a [[percussion]] ensemble originally from [[Burundi]].  Their performances are a part of [[ceremony|ceremonies]] such as births, funerals, and [[coronation]]s of ''[[mwami]]'' (Kings).  Drums (called [[karyenda]]) are [[sacred]] in Burundi, and represent the mwami, [[fertility]] and regeneration. The Royal Drummers use drums made from hollowed tree trunks covered with animal skins. In addition to the central drum, called ''Inkiranya'', there are ''Amashako'' drums which provide a continuous beat, and ''Ibishikiso'' drums, which follow the rhythm established by the Inkiranya.
+
+The performance of the Royal Drummers has been the same for centuries, and their techniques and traditions are passed down from father to son. The members of the ensemble take turns playing the Inkiranya, dancing, resting, and playing the other drums, rotating throughout the show without interruptions. At the start of their performance, the drummers enter balancing the heavy drums on their heads and singing and playing. There are some extra members who carry ornamental [[spear]]s and [[shield]]s and lead the procession with their dance. They then perform a series of rhythms, some accompanied by song, and exit the stage the same way, carrying the drums on their heads and playing.
+
+Beginning in the 1960s, the Drummers have toured the world. They have recorded at least three albums - ''Batimbo (Musiques Et Chants)'' in 1991,''The Drummers of Burundi'' (1992, recorded 1987) ''Real World'' (retitled ''Live at [[Real World Studios|Real World]]'' in 1993) and ''The Master Drummers of Burundi'' (1981 lp, 1994&amp;nbsp;cd). They have also appeared on [[Joni Mitchell]]'s ''[[The Hissing of Summer Lawns]]'' (1975), on ''Zimbo'', the B-side of the [[Echo &amp; the Bunnymen]] 12" single of ''[[The Cutter (song)|The Cutter]]'' (1983), and the [[Def Leppard]] single "[[Rocket (Def Leppard song)|Rocket]]". They have influenced artists such as [[Adam and the Ants]] and [[Bow Wow Wow]], and inspired [[Thomas Brooman]] to organize the [[WOMAD]] festival in 1982, which shaped the burgeoning [[world music]] genre.
+
+The Drummers were featured inn Werner Herzog's film ''[[Fitzcarraldo]]'', as the "drumming of the bushmen".
+
+==References==
+
+{{Reflist}}
+
+==External links==
+* {{url| http://www.daytoncitypaper.com/the-rhythm-of-burundi| The rhythm of Burundi: Victoria Theatre hears the sound of Africa}}
+* {{url| Last.FM/music/The+Drummers+Of+Burundi| The Drummers Of Burundi}} statistics and tagging at [[Last.FM]]
+* {{url| https://www.discogs.com/fr/artist/916864-The-Drummers-Of-Burundi}}
+
+{{Authority control}}
+
+[[Category:Real World Records artists]]
+[[Category:African drummers]]
+[[Category:Burundian monarchy]]
+[[Category:Percussion ensembles]]
+[[Category:Burundian musicians]]
+[[Category:Year of establishment missing]]
+[[Category:African rhythm]]
+[[Category:Music organisations based in Burundi]]
+
+{{Burundi-stub}}
+{{band-stub}}
+{{Africa-music-stub}}</text>
+      <sha1>khgxgpfea69jlhtfar82ukz99x4s8ij</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sejuta Cinta Marshanda</title>
+    <ns>0</ns>
+    <id>31161820</id>
+    <revision>
+      <id>755599195</id>
+      <parentid>720214531</parentid>
+      <timestamp>2016-12-19T01:48:21Z</timestamp>
+      <contributor>
+        <username>BattyBot</username>
+        <id>15996738</id>
+      </contributor>
+      <comment>[[WP:AWB/GF|General fixes]], removed orphan tag using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3901">{{unreferenced|date=March 2011}}
+
+{{Infobox television 
+| show_name = Sejuta Cinta Marshanda
+| runtime = 1 hour 30 minutes 
+| company = [[SinemArt]]
+| writer = Rafka Ahmad &lt;br&gt;Dewi Sita
+| director = Lono Abdul Ahmad 
+| creator = [[SinemArt]] 
+| starring ={{plainlist |
+* [[Marshanda]]
+* [[Baim Wong]]
+* [[Ashraf Sinclair]]
+* Ben Kasyafani
+* Alice Norin
+* Tsania Marwa
+* [[Meriam Bellina]]
+* Ibnu Jamil
+* Putri Patricia
+* Riza Shahab
+* Lulu Kurnia
+* [[Vicky Burky]]
+* drg. Fadli
+* Rommy Sulastyo
+* Annie Anwar
+* Leily Sagita
+* Magdalena &lt;br /&gt;Wilda Hamid
+}}
+| theme_music_composer = [[ST 12]]
+| composer = [[ST 12]]
+| distributor = [[SinemArt]]
+| producer = Leo Sutanto
+| location = [[Jakarta]]
+| country = {{flagicon|Indonesia}} [[Indonesia]]
+| language = [[Bahasa Indonesia]]
+| network = [[RCTI]]&lt;br&gt;[[TV3 (Malaysia)|TV3]]
+| first_run = May 31, 2010
+| first_aired = May 31, 2010
+| last_aired = August 2, 2010
+| picture_format = [[480i]] [[Standard Definition Television]] ([[Standard Definition Television|SDTV]])
+| opentheme = '''Sejuta Cinta''', [[Marshanda]] 
+| endtheme = '''Sejuta Cinta''', [[Marshanda]] 
+| num_episodes = 71 
+}}
+
+'''''Sejuta Cinta Marshanda''''' is a television drama that aired on [[RCTI]] and [[TV3 (Malaysia)|TV3]] in [[Indonesia]]. Actors include [[Marshanda]], [[Baim Wong]], [[Ashraf Sinclair]], Ben Kasyafani, Tsania Marwa, Ibnu Jamil, Putri Patricia, Wilda Hamid, [[Meriam Bellina]], Annie Anwar, and [[Vicky Burky]].
+
+==Cast==
+* [[Marshanda]] as Marshanda/Chaca 
+* [[Baim Wong]] as Delvin
+* [[Ashraf Sinclair]] as Aben 
+* Alice Norin as Merry
+* Ben Kasyafani as Ben
+* Tsania Marwa as Marshella/Sheila
+* Ibnu Jamil as Romy 
+* Putri Patricia as Vivi
+* Wilda Hamid as Vika 
+* [[Meriam Bellina]] as Anita
+* [[Vicky Burky]] as Farah 
+* Lulu Kurnia as Asri
+* Annie Anwar as Diana 
+* Rommy Sulastyo as Ardi 
+* Leily Sagita as Neni
+* Riza Shahab as Akbar
+* Magdalena as Della
+
+==Characters and relatives==
+{| class="wikitable"
+|-
+! Character
+! Relatives
+|-
+| Marshanda/Caca
+| Delvin's lover; is often misunderstood by Abel &lt;br&gt; Asri's adopted child &lt;br&gt; Romi's brother &lt;br&gt; Ben and Merry's best friend &lt;br&gt; Sheila's twin brother &lt;br&gt; Daughter of Lukman and Anita (formerly called Emily)
+|-
+| Delvin
+| Chaca's lover &lt;br&gt; Son of Farah and Ardi &lt;br&gt; Abel's brother &lt;br&gt; Sella's fiancee
+|-
+| Abel
+| Son of Ardi and Diana &lt;br&gt; Delvin's brother &lt;br&gt; Always fighting with Chaca
+|-
+| Marshella/Sheila
+| Chaca's twin brother &lt;br&gt; Daughter of Anita and Lukman &lt;br&gt; Delvin's fiancee
+|-
+| Ben
+| Chaca's best friend
+|-
+| Romi
+| Chaca's brother &lt;br&gt; Asri's adopted child &lt;br&gt; Vivi's husband
+|-
+| Vivi
+| Romi's wife &lt;br&gt; Chaca's brother-in-law &lt;br&gt; Asri's daughter-in-law
+|-
+| Asri
+| Romi and Chaca's adoptive mother &lt;br&gt; Vivi's in-law &lt;br&gt; Lukman's sister &lt;br&gt; Anita's sister-in-law &lt;br&gt; Farah, Diana, and Ardi's best friend
+|-
+| Farah
+| Delvin's mother &lt;br&gt; Ardi's wife &lt;br&gt; Asri and Diana's best friend
+|-
+| Diana
+| Abel's mother &lt;br&gt; Ardi's wife &lt;br&gt; Farah and Asri's best friend &lt;br&gt; Neni's daughter
+|-
+| Ardi
+| Abel and Delvin's father &lt;br&gt; Diana and Farah's husband
+|-
+| Neni
+| Diana's mother &lt;br&gt; Ardi's in-law &lt;br&gt; Abel's grandmother
+|-
+| Anita
+| Marshanda and Marshella's mother &lt;br&gt; Asri's brother-in-law &lt;br&gt; Lukman's ex-wife
+|-
+| Lukman
+| Marshanda and Marshella's father &lt;br&gt; Anita's ex-husband &lt;br&gt; Asri's brother &lt;br&gt; Diana's attorney
+|}
+
+==Publishers==
+* Theme Song: Sejuta Cinta Marshanda
+* Singer: [[Marshanda]]
+* Songwriter: Charly van Houten ([[ST 12]]'s vocalist)
+* Story/script: Rafka Ahmad
+* Director: Lono Abdul Hamid 
+* Supervision: Maruli Ara 
+* Assistant Publisher: Heru Hendriyarto 
+* Publisher: Leo Sutanto 
+* Company: Sinemart
+* TV channel: [[RCTI]], [[TV3 (Malaysia)|TV3]] (Malaysian)
+
+==References==
+{{reflist}}
+
+[[Category:Indonesian drama television series]]
+[[Category:Indonesian culture]]
+[[Category:Indonesian television series]]
+
+
+{{Indonesia-tv-stub}}</text>
+      <sha1>06fd2vtsp8kj0tdlvymchpech4p04ev</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Spitak (film)</title>
+    <ns>0</ns>
+    <id>58696928</id>
+    <revision>
+      <id>863197641</id>
+      <parentid>863190979</parentid>
+      <timestamp>2018-10-09T09:17:19Z</timestamp>
+      <contributor>
+        <username>Lugnuts</username>
+        <id>1276024</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2224">{{Use dmy dates|date=October 2018}}
+{{Infobox film
+| name           = Spitak
+| image          = Spitak (film).jpg
+| caption        = Film poster
+| director       = [[Alexander Kott]]
+| producer       = 
+| writer         = Marina Sochinskaya
+| starring       = Aleksandr Kuznetsov
+| music          = 
+| cinematography = 
+| editing        = 
+| distributor    = 
+| released       = {{film date|2018|4||Russia|df=yes}}
+| runtime        = 88 minutes
+| country        = Armenia
+| language       = Armenian
+| budget         = 
+}}
+
+'''''Spitak''''' is a 2018 Armenian [[drama film]] directed by [[Alexander Kott]]. It was selected as the Armenian entry for the [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]] at the [[91st Academy Awards]].&lt;ref&gt;{{cite web|url=https://www.oscars.org/news/87-countries-competition-2018-foreign-language-film-oscar |title=87 Countries In Competition for 2018 Foreign Language Film Oscar |work=Academy of Motion Picture Arts and Sciences |accessdate=8 October 2018}}&lt;/ref&gt;&lt;ref name="HWR87"&gt;{{cite web|url=https://www.hollywoodreporter.com/news/oscars-87-countries-submit-films-foreign-language-category-1150191 |title=Oscars: 87 Countries Submit Films in Foreign-Language Category |work=[[The Hollywood Reporter]] |first=Gregg |last=Kilday |date=8 October 2018 |accessdate=8 October 2018}}&lt;/ref&gt;&lt;ref name="Armenia"&gt;{{cite web|url=http://www.panarmenian.net/eng/news/261016/Spitak_about_Armenia_quake_joins_Best_Foreign_Language_Oscar_race |title="Spitak" about Armenia quake joins Best Foreign Language Oscar race |work=Panarmenian |date=9 October 2018 |accessdate=9 October 2018}}&lt;/ref&gt;
+
+==Cast==
+* Aleksandr Kuznetsov as Viktor
+* Olivier Pagès as Jerome
+* Oleg Vasilkov as Sergey
+
+==See also==
+* [[List of submissions to the 91st Academy Awards for Best Foreign Language Film]]
+* [[List of Armenian submissions for the Academy Award for Best Foreign Language Film]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|8530866|Spitak}}
+
+{{DEFAULTSORT:Spitak}}
+[[Category:2018 films]]
+[[Category:2010s drama films]]
+[[Category:Armenian films]]
+[[Category:Armenian drama films]]
+[[Category:Armenian-language films]]
+{{Armenia-film-stub}}
+{{2010s-drama-film-stub}}</text>
+      <sha1>kgq8ti133baa71mly29fjv08tepx9rb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Statehood Day (Montenegro)</title>
+    <ns>0</ns>
+    <id>22944225</id>
+    <revision>
+      <id>828420658</id>
+      <parentid>790419249</parentid>
+      <timestamp>2018-03-02T12:44:00Z</timestamp>
+      <contributor>
+        <ip>91.125.209.252</ip>
+      </contributor>
+      <comment>same date format throughout</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1454">{{unreferenced|date=May 2010}}
+{{Infobox holiday
+|holiday_name  = Statehood Day
+|type          = 
+|image         =
+|imagesize     =
+|caption       =
+|official_name = Дан државности / Dan državnosti
+|nickname      =
+|observedby    = [[Montenegro]]
+|litcolor      =
+|longtype      =
+|significance  = commemorate the day in 1878 on which the [[Berlin Congress]] recognized Montenegro as an independent state
+|begins        =
+|ends          =
+|date          = 13 July
+|celebrations  =
+|observances   =
+|relatedto     =
+|duration      = 1 day
+|frequency     = annual
+|scheduling    = same day each year
+}}
+'''Statehood Day''' ([[Montenegrin language|Montenegrin]]: Дан државности / ''Dan državnosti'') is a holiday that occurs every year on [[13 July]] in [[Montenegro]]  to commemorate the day in 1878 on which the [[Berlin Congress]] recognized Montenegro as the twenty-seventh independent state in the world.
+
+Statehood Day is not to be confused with Montenegro's [[Independence Day]], which is held each year on 21 May in honor of the 2006 [[plebiscite]] that indicated that 55.5% of Montenegrins were in favor of becoming a [[sovereign nation]].
+
+==See also==
+* [[Statehood Day (disambiguation)|Statehood Day]] in other countries
+* [[History of Montenegro]]
+* [[History of Yugoslavia]]
+
+==References==
+{{reflist}}
+
+[[Category:Montenegrin society]]
+[[Category:July observances]]
+[[Category:National days]]
+
+
+{{Montenegro-stub}}</text>
+      <sha1>o39iu5kldok3j5vjd2n4hic9ru57hio</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Theater Die Kleine Freiheit</title>
+    <ns>0</ns>
+    <id>33895229</id>
+    <revision>
+      <id>663177308</id>
+      <parentid>576886033</parentid>
+      <timestamp>2015-05-20T00:53:25Z</timestamp>
+      <contributor>
+        <username>KasparBot</username>
+        <id>24420788</id>
+      </contributor>
+      <comment>embed authority control with wikidata information</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="422">{{Expand German|topic=struct|date=November 2011|Theater Die Kleine Freiheit}}
+'''Theater Die Kleine Freiheit''' was a theatre in [[Munich]], [[Bavaria]], [[Germany]]. It was closed in November 1996.
+
+{{coord|48|08|19|N|11|35|02|E|region:DE-BY_type:landmark_source:kolossus-dewiki|display=title}}
+
+{{Authority control}}
+[[Category:Theatres in Munich]]
+[[Category:Maxvorstadt]]
+
+{{Europe-theat-stub}}
+{{Bavaria-struct-stub}}</text>
+      <sha1>kyqeclj22cq98r1gd3u934fgusbnazm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Total Economy Database</title>
+    <ns>0</ns>
+    <id>55592312</id>
+    <revision>
+      <id>845867420</id>
+      <parentid>845468627</parentid>
+      <timestamp>2018-06-14T17:54:34Z</timestamp>
+      <contributor>
+        <username>Jmertel23</username>
+        <id>32942831</id>
+      </contributor>
+      <comment>Successfully de-orphaned! Wikiproject Orphanage: [[Wikipedia:ORPHAN|You can help!]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6031">The '''Total Economy Database''' describes itself as "a comprehensive database with annual data covering GDP, population, employment, hours, labor quality, capital services, labor productivity, and Total Factor Productivity for 123 countries in the world".&lt;ref name=tcb-about&gt;{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=27722 |title=About the Total Economy Database |accessdate=October 17, 2017}}&lt;/ref&gt;&lt;ref name=tcb-archive-historical&gt;{{cite web |url=https://www.conference-board.org/data/economydatabase/ |title=The Conference Board Total Economy Database |publisher=The Conference Board |archiveurl=https://web.archive.org/web/20100708232452/https://www.conference-board.org/data/economydatabase/ |archivedate=July 8, 2010 |dead-url=yes}}&lt;/ref&gt;&lt;ref name=krugman-debt-and-growth-data&gt;{{cite web |url=https://krugman.blogs.nytimes.com/2013/04/26/debt-and-growth-data/ |author=Paul Krugman |date=April 26, 2013 |title=Debt and Growth Data |publisher=Paul Krugman Blog |accessdate=October 20, 2017}}&lt;/ref&gt;&lt;ref name=wolf&gt;{{cite web |url=https://www.ft.com/content/cd1c369c-84c7-11e6-8897-2359a58ac7a5 |title=Economic ills of the UK extend well beyond Brexit |date=September 29, 2016 |publisher=[[Financial Times]] |author=Martin Wolf |accessdate=October 21, 2017}}&lt;/ref&gt;&lt;ref name=roser&gt;{{cite web |url=https://ourworldindata.org/economic-growth#data-sources |publisher=Our World in Data |title=Economic Growth § Data Sources |year=2017 |accessdate=October 21, 2017}}&lt;/ref&gt;
+
+== History ==
+
+The Total Economy Database was developed at the Groningen Growth and Development Centre (GGDC) in the [[University of Groningen]] in the Netherlands in the early 1990s. Starting in the late 1990s, it began to be produced jointly by GGDC and [[The Conference Board]], a nonprofit founded in 1916 that works on the relationship between business and labor in 60 countries. In 2007, the database was transferred over to The Conference Board, and remains with The Conference Board as of 2017.&lt;ref name=tcb-about/&gt;&lt;ref name=tcb-about-ggdc&gt;{{cite web|url = http://www.ggdc.net/databases/ted.htm.|title = Total Economy Database|publisher = Groningen Growth and Development Centre at the [[University of Groningen]]|accessdate = October 21, 2017}}&lt;/ref&gt;
+
+== Data and refresh frequency ==
+
+The database used to be refreshed annually, in January to include data till the most recent completed year.&lt;ref name=tcb-archive&gt;{{cite web|url = https://www.conference-board.org/data/economydatabase/index.cfm?id=30565|title = Total Economy Database™ - Archive|accessdate = October 21, 2017|publisher = The Conference Board}}&lt;/ref&gt;&lt;ref name=tcb-archive-historical/&gt;&lt;ref name=tcb-about-ggdc/&gt; However, starting 2015, the database has been updated twice a year, once in May and once later in the year (September or November).&lt;ref name=tcb-archive/&gt; The database usually includes:
+
+* Output, labor, and productivity from 1950 to the present or most recently completed year
+* Regional aggregates from 1990 to the most recently completed year
+* Growth accounting and total factor productivity from 1990 or 1995 to the most recently completed year
+
+== Reception ==
+
+Economist and ''[[New York Times]]'' columnist [[Paul Krugman]] has called the Total Economy Database "the easy source for 1950 onwards" for obtaining GDP data&lt;ref name=krugman-debt-and-growth-data/&gt; and has cited it in blog posts and articles about economic performance, employment, and number of work hours versus leisure hours.&lt;ref&gt;{{cite web|url = https://krugman.blogs.nytimes.com/2013/02/09/japanese-relative-performance/|title = Japanese Relative Performance|date = January 9, 2013|accessdate = October 21, 2017|publisher = ''[[New York Times]]''}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = https://krugman.blogs.nytimes.com/2011/01/28/the-wal-mart-decade/|title = The Wal-Mart Decade|date = January 28, 2011|accessdate = October 21, 2017|publisher = ''[[New York Times]]''}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = https://krugman.blogs.nytimes.com/2013/01/26/what-we-have-less-of/|title = What We Have Less Of|date = January 26, 2013|accessdate = October 21, 2017|publisher = ''[[New York Times]]''}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = https://krugman.blogs.nytimes.com/2010/09/08/japanese-demography/|title = Japanese Demography|date = September 8, 2010|accessdate = October 21, 2017|publisher = ''[[New York Times]]''}}&lt;/ref&gt;
+
+''[[Financial Times]]'' columnist [[Martin Wolf]] called the Total Economy Database invaluable while using it to make a point about the effects of [[Brexit]].&lt;ref name=wolf/&gt;
+
+''[[Our World In Data]]'', a website with data-driven discussion of a number of topics related to long-run economic and human development, uses the Total Economy Database as one of its sources.&lt;ref name=roser/&gt;
+
+[[McKinsey &amp; Company]] has cited the Total Economy Database in its report on Mexico's "two-speed" development.&lt;ref&gt;{{cite web|url = https://www.mckinsey.com/global-themes/americas/a-tale-of-two-mexicos|title = A tale of two Mexicos: Growth and prosperity in a two-speed economy|last = Bolio|first = Eduardo|last2 = Remes|first2 = Jaana|last3 = Lajous|first3 = Tomás|last4 = Manyika|first4 = James|last5 = Ramirez|first5 = Eugenia|last6 = Rossé|first6 = Morten|publisher = [[McKinsey &amp; Company]]}}&lt;/ref&gt;
+
+The Total Economy Database is included in a [[University of California, Berkeley]] library guide as a source of macroeconomic data.&lt;ref name=berkeley-lib-guide&gt;{{cite web|url = http://guides.lib.berkeley.edu/c.php?g=4395&amp;p=15528|title = Economics: Data|publisher = University of California, Berkeley Library|accessdate = October 21, 2017}}&lt;/ref&gt;
+
+== See also ==
+
+The following economic data projects are maintained by the Groningen Growth and Development Centre, which was also the original creator of the Total Economy Database:
+
+* [[Maddison Project]]
+* [[Penn World Table]]
+
+Some other datasets that cover similar data:
+
+* [[World Development Indicators]]
+
+== References ==
+
+{{reflist|30em}}
+
+[[Category:Global economic indicators]]
+[[Category:Economic databases]]</text>
+      <sha1>9wqibzq3jrmtmbw6h4pmblutzdmbpe3</sha1>
+    </revision>
+  </page>
+</mediawiki>
