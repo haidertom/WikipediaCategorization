@@ -11,16 +11,17 @@ class LSIsimilarity:
         self.articles=[]
         self.num_topics=0
     #This function trains the model
-    def train(self,basepath='../Baseline/10/plaindata'):
+    def train(self,basepath='../Baseline/10/plaindata',noOfTrainArticle=1000):
+        basepath="../Baseline/"+str(noOfTrainArticle)+"/plaindata"
         self.categories=os.listdir(basepath)
         if '.DS_Store' in self.categories:
             self.categories.remove('.DS_Store')
         self.num_topics = sum([1 for cat in self.categories])
                 #Check if the dictionary/corpus/index is already created if so load it donot create a new one
-        if (os.path.exists("dict10000.dict")):
-            self.dictionary = corpora.Dictionary.load("dict10000.dict")
-            self.corpus = corpora.MmCorpus("corpus10000.mm1")
-            self.index = similarities.MatrixSimilarity.load('index10000.index')
+        if (os.path.exists("dict"+str(noOfTrainArticle)+".dict")):
+            self.dictionary = corpora.Dictionary.load("dict"+str(noOfTrainArticle)+".dict")
+            self.corpus = corpora.MmCorpus("corpus"+str(noOfTrainArticle)+".mm1")
+            self.index = similarities.MatrixSimilarity.load("index"+str(noOfTrainArticle)+".index")
          #If the dictionary/corpus/index is not already created create a new one and save it.
         else:
             for cat in self.categories:
@@ -39,14 +40,14 @@ class LSIsimilarity:
                 self.num_topics+=1
 
             self.dictionary = corpora.Dictionary(self.articles)
-            self.dictionary.save("dict10000.dict")
+            self.dictionary.save("dict"+str(noOfTrainArticle)+".dict")
             self.corpus = [self.dictionary.doc2bow(text) for text in self.articles]
-            corpora.MmCorpus.serialize("corpus10000.mm1", self.corpus)
+            corpora.MmCorpus.serialize("corpus"+str(noOfTrainArticle)+".mm1", self.corpus)
             self.tfidf = models.TfidfModel(self.corpus)
             corpus_tfidf = self.tfidf[self.corpus]
             self.lsi = models.LsiModel(corpus_tfidf, id2word=self.dictionary, num_topics=self.num_topics)
             self.index = similarities.MatrixSimilarity(self.lsi[self.corpus])
-            self.index.save('index10000.index')
+            self.index.save("index"+str(noOfTrainArticle)+".index")
         #Compute the tf*idf/lsi/and index
         self.tfidf = models.TfidfModel(self.corpus)
         self.corpus_tfidf = self.tfidf[self.corpus]

@@ -1,6 +1,6 @@
 import languageProcess as lp
 import BloomFilter
-from baseline import Baseline
+#from baseline import Baseline
 import os
 import LSIsimilarity
 import operator
@@ -128,7 +128,7 @@ def write2csv(baseline,nestedFile):
 #main function to compute the tests for a specific Baseline
 def main():
     train_Baseline(basepath="../BigBaseline/plaindata/")
-    check_article()
+    #check_article()
     #write2csv('RandomBaseline04',vali_dict)
     #print(vali_dict['bloomfilter'])
     #print(vali_dict['LSI'])

@@ -35,7 +35,7 @@ class languageProcess:
             for line in open(self.path, 'r'):
                 self.data.append(json.loads(line))
         else:
-            print('LanguageProcess.py: path does not exist')
+            print('LanguageProcess.py: path does not exist',self.path)
 #source: https://appliedmachinelearning.blog/2017/08/28/topic-modelling-part-1-creating-article-corpus-from-simple-wikipedia-dump/
     def clean(self,doc):
     # remove stop words & punctuation, and lemmatize words
