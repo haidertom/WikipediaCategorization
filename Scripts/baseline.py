@@ -116,7 +116,7 @@ class Baseline:
 			with open(filename, 'w') as the_file:
 				the_file.write(self.get_dumptext(t))
 
-	def write_index(self, index):
+	def write_index(self, index,cat):
 		'''
 		index all articles titles in a category that were added to the baseline
 		'''
@@ -124,7 +124,7 @@ class Baseline:
 		if not os.path.exists(self.datapath):
 			os.mkdir(self.datapath)
 
-		filename = self.datapath+"/zz_index.json"
+		filename = self.datapath+"/"+cat+"_zz_index.json"
 		with open(filename, 'w') as the_file:
 			the_file.write(str(index))
 
@@ -137,7 +137,7 @@ class Baseline:
 		main_categories = self.get_subcategories(self.origin_category)
 
 		# loop over all main categories
-		for cat in main_categories[2:]:
+		for cat in main_categories:
 			print("looking for titles in category: {} ".format(cat))
 
 			self.index[cat] = []
@@ -176,6 +176,16 @@ class Baseline:
 								if not any(title4 in e for e in self.index.values()): #check for duplicates
 									self.index[cat].append(title4)
 
+						if len(self.index[cat])<self.baseline_number:
+						# loop further to get more articles
+						subsubsubsubcategories = self.get_subcategories(subsubsubcat)
+
+						for subsubsubsubcat in subsubsubsubcategories:
+
+							for title5 in self.get_titles(subsubsubsubcat):
+								if not any(title5 in e for e in self.index.values()): #check for duplicates
+									self.index[cat].append(title5)
+
 
 			#pick random articles
 			print("found {} titles in category: {} ".format(len(self.index[cat]), cat))
@@ -186,9 +196,9 @@ class Baseline:
 			print("added {} unique titles to category: {} ".format(len(set(self.index[cat])), cat))
 			#write articles in file
 			self.write_rawdata((self.index[cat]) , cat)
-
+			self.write_index(self.index[cat],cat)
 		#indexing all categories and titles for later use
-		self.write_index(self.index)
+		#self.write_index(self.index)
 
 	def convert_plain(self):
 		'''
@@ -207,7 +217,7 @@ def main():
 	origin_category = "Category:Main topic classifications"
 
 	# number of articles you want from each category
-	baseline_number = 10000
+	baseline_number = 11000
 
 	folder = "Baseline"
 
