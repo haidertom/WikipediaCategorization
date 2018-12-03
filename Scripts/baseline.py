@@ -138,7 +138,7 @@ class Baseline:
 
 		# loop over all main categories
 
-		for cat in main_categories:
+		for cat in main_categories[19:]:
 
 			print("looking for titles in category: {} ".format(cat))
 
