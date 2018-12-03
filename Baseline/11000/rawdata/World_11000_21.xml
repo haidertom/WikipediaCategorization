@@ -1,0 +1,3143 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>2015 in Antarctica</title>
+    <ns>0</ns>
+    <id>57139074</id>
+    <revision>
+      <id>839970863</id>
+      <parentid>839970608</parentid>
+      <timestamp>2018-05-06T22:21:30Z</timestamp>
+      <contributor>
+        <username>Suonii180</username>
+        <id>27089876</id>
+      </contributor>
+      <comment>/* top */ Removed maintenance tag - fixed issue</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1476">{{Year in Antarctica|2015}}
+The following is a list of events that occurred in [[Antarctica]] in [[2015]].
+
+==Events==
+*January - Reports emerge of a 2-kilometre (1.2 mi) [[King Baudouin Ice Shelf#Supposed meteor crater|circular structure]], supposedly a meteorite crater, on the surface snow of [[King Baudouin Ice Shelf]]. Satellite images suggest that the crater is probably at least 25 years old.&lt;ref&gt;{{cite web|title=Sudden Impact: Did Meteorite Carve Icy Crater in Antarctica?|url=https://www.nbcnews.com/science/weird-science/sudden-impact-did-meteorite-carve-icy-crater-antarctica-n283181|website=NBC News|accessdate=6 May 2018|language=en}}&lt;/ref&gt;
+*June - Norway formally defines the area covered by [[Queen Maud Land]].&lt;ref&gt;{{cite web|title=Norge utvider Dronning Maud Land helt frem til Sydpolen|url=https://www.aftenposten.no/norge/i/dw1q/Norge-utvider-Dronning-Maud-Land-helt-frem-til-Sydpolen|website=Aftenposten|accessdate=6 May 2018|language=nb-NO}}&lt;/ref&gt;
+*date unknown - [[Antarctica Marathon]]&lt;ref&gt;{{cite web|title=Minnesota woman conquered Antarctica marathon. Now she's raced at the North Pole|url=http://www.startribune.com/minnesota-woman-conquered-antarctica-marathon-now-she-s-taking-on-the-north-pole/418635663/|website=Star Tribune|accessdate=6 May 2018}}&lt;/ref&gt;
+
+==References==
+{{Reflist|30em}}
+
+[[Category:2015 in Antarctica| ]]
+[[Category:2010s in Antarctica]]
+[[Category:Years of the 21st century in Antarctica]]
+
+
+{{Antarctica-stub}}
+{{year-stub}}</text>
+      <sha1>6frpcp9mj6dsv1ngqliibeonmto99ky</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>AD Casar de Cáceres</title>
+    <ns>0</ns>
+    <id>28190970</id>
+    <revision>
+      <id>870174971</id>
+      <parentid>815218342</parentid>
+      <timestamp>2018-11-22T23:14:47Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Divisiones regionales de fútbol clubs to [[:Category:Divisiones Regionales de Fútbol clubs]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 November 12]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2958">{{Infobox football club 
+| clubname = Casar de Cáceres 
+| image    =  
+| fullname = Agrupación Deportiva Casar de Cáceres 
+| nickname = 
+| founded  = 2003&lt;ref&gt;[https://web.archive.org/web/20080413111005/http://www.adcasar.com/datosclub.php]&lt;/ref&gt;
+| ground   = Estadio Municipal,&lt;br&gt;[[Casar de Cáceres]], [[Extremadura]],&lt;br&gt;[[Spain]] 
+| capacity = 400 sitting)
+| chairman = Marcelino Pacheco
+| manager  = Juan Luis Frutos
+| league   = Regional Preferente
+| season   = 2012–13
+| position = Regional Preferente, 5th
+| pattern_la1=_whiteshoulders|pattern_b1=_whiteshoulders |pattern_ra1=_whiteshoulders 
+| leftarm1=FF0000|body1=FF0000|rightarm1=FF0000|shorts1=FFFFFF|socks1=FF0000|  pattern_la2=|pattern_b2=|pattern_ra2=
+| leftarm2=FFFFFF|body2=FFFFFF|rightarm2=FFFFFF|shorts2=FFFFFF|socks2=FFFFFF
+}}
+'''Agrupación Deportiva Casar de Cáceres''' is a [[List of football clubs in Spain|Spanish football team]] based in [[Casar de Cáceres]], in the autonomous community of [[Extremadura]]. Founded in 2003, it plays in ''[[Divisiones Regionales de Fútbol in Extremadura|Regional Preferente]]'', holding home games at ''Estadio Municipal de Casar de Cáceres''.
+
+==Season to season==
+{|  class="wikitable" 
+|-
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#25A8F9;"|2008/09
+|style="background:#25A8F9;"|6
+|style="background:#25A8F9;"|1ª Reg.
+|style="background:#25A8F9;"|3rd
+|
+|-
+|style="background:#25A8F9;"|2009/10
+|style="background:#25A8F9;"|6
+|style="background:#25A8F9;"|1ª Reg.
+|style="background:#25A8F9;"|9th
+|
+|-
+|style="background:#25A8F9;"|2010/11
+|style="background:#25A8F9;"|6
+|style="background:#25A8F9;"|1ª Reg.
+|style="background:#25A8F9;"|2nd&lt;ref&gt;[http://www.hoycasardecaceres.es/actualidad/2011-05-16/a.d.casar-logra-sonado-ascenso-regional-1940.html La A.D.Casar logra el soñado ascenso a Regional Preferente]&lt;/ref&gt;
+|
+|-
+|style="background:#CECE1B;"|2011/12
+|style="background:#CECE1B;"|5
+|style="background:#CECE1B;"|Reg. Pref.
+|style="background:#CECE1B;"|11th
+|
+|-
+|style="background:#CECE1B;"|2012/13
+|style="background:#CECE1B;"|5
+|style="background:#CECE1B;"|Reg. Pref.
+|style="background:#CECE1B;"|5th
+|
+|-
+|style="background:#CECE1B;"|2013/14
+|style="background:#CECE1B;"|5
+|style="background:#CECE1B;"|Reg. Pref.
+|style="background:#CECE1B;"|—
+|
+|}
+----
+*'''3''' seasons in ''Primera Regional''
+*'''2''' seasons in ''Regional Preferente''
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.futbolme.com/col/index_equipo.asp?id_equipo=3917 Futbolme.com profile]{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://www.fexfutbol.com/pnfg/NPcd/NFG_VerClub?cod_primaria=1000118&amp;codigo_club=2507 fexfutbol.com profile]
+
+{{DEFAULTSORT:Casar de Caceres}}
+[[Category:Football clubs in Spain]]
+[[Category:Divisiones Regionales de Fútbol clubs]]
+[[Category:Association football clubs established in 2003]]
+[[Category:2003 establishments in Spain]]
+{{Spain-stub}}</text>
+      <sha1>rdv0oqx84cv8pnyiqrkpjk5s8sw3xke</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agisymba</title>
+    <ns>0</ns>
+    <id>16784904</id>
+    <revision>
+      <id>863128064</id>
+      <parentid>807739697</parentid>
+      <timestamp>2018-10-08T21:57:02Z</timestamp>
+      <contributor>
+        <username>L'Homme Presse</username>
+        <id>33778588</id>
+      </contributor>
+      <comment>unsourced work</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3617">'''Agisymba''' was an unidentified country in [[Africa]] mentioned by [[Ptolemy]] in the middle of the 2nd century AD. 
+
+==Data==
+
+According to Ptolemy's writings it was a 4 months journey south of the [[Fezzan]] and contained large animals, such as [[Rhinoceros|rhinoceroses]] and [[elephants]], as well as many tall mountains (probably the [[Tibesti]]). Agisymba was located near the [[lake Chad]], in those centuries bigger than what it is today.
+
+Ptolemy's account is based on that written by [[Marinus of Tyre]] between 107 AD and 115 AD. Between the years 83 AD and 92 AD, the king of the [[Garamantes]] claimed that the Agisymba population were his subjects. 
+
+Modern historians suggest that Agisymba was probably somewhere to the north of [[Lake Chad]]&lt;ref&gt;[http://referenceworks.brillonline.com/entries/brill-s-new-pauly/agisymba-e108180 Agisymba] on BrillOnLine Reference Works.&lt;/ref&gt; as the [[Chad]] area is populated with many mountains. One theory is that Agisymba was an antecedent of the [[Kanem Empire]] located on the northern shore of Lake Chad. &lt;ref&gt;[http://dierklange.com/pdf/contents/12Mune-Symbol_as_the_Ark.pdf "The Mune as the Ark of the Covenant between Duguwa and Sefuwa (in ancient Kanem)"]  Borno Museum Society Newsletter 66-67 (2006), 15-25. (The article has a map (page 6) of the ancient Central Sahara and proposes to identify Agisymba of 100 CE with the early Kanem state).&lt;/ref&gt; 
+
+{{Quote|''In AD 90 a traveler, probably a trader called Julius Maternus, profiting from the improved relations between the Romans and the Garamantes at this time -no doubts as a result of Flaccus's success- made his way through the land of the Garamantes to the land of Agisymba, where there were rhinoceroses.'' JD. Fage (Cambridge history of Africa) &lt;ref&gt;Fage."Trans-Saharan contacts and west Africa". The Cambridge History of Africa.Volume 2 ([https://books.google.com/books?id=ZTNTz3POoZUC&amp;pg=PA286&amp;lpg=PA286&amp;dq=balbus+expedition+in+sahara&amp;source=bl&amp;ots=qV9iDfzo4t&amp;sig=c07yAoFsTwaGF4wRUUJbiVQ-O6Q&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwicxZ6Op4bRAhVCLSYKHfmgCUsQ6AEIJzAC#v=onepage&amp;q=balbus%20expedition%20in%20sahara&amp;f=false p.286])&lt;/ref&gt;}}
+
+Indeed Ptolomeus wrote that around 90 AD Julius Maternus (or Matiernus) did a mainly commercial expedition. From the Sirte gulf he reached the Oasis of Cufra and the Oasis of Archei, then arrived -after 4 months travelling with the king of the Garamantes- to the river Bahr Salamat and Bahr Aouk, near the actual Central African Republic in a region then called Agisymba. He went back to [[Rome]] with a rhinoceros with two horns, that was shown in the [[Colosseum]].&lt;ref&gt;[http://referenceworks.brillonline.com/entries/brill-s-new-pauly/agisymba-e108180 Agisymba and Maternus]&lt;/ref&gt;
+
+==References== 
+{{Reflist}}
+* [[Jehan Desanges|Desanges, Jehan]], ''Recherches sur l'activité des méditerranéens aux confins de l'Afrique'', Rome 1978 (here: p. 197-213). 
+* Huss, Werner: ''Agisymba'', New Pauly, vol I, Stuttgart 1996 (Sp 260). 
+* Lange, Dierk, ''Ancient Kingdoms of West Africa'', Dettelbach 2004 (here: pp 280-4).
+
+==See also==
+
+*[[Romans in Sub-Saharan Africa]]
+
+==External links== 
+* [https://web.archive.org/web/20071022041741/http://dierklange.com/Classical_world-2-Hannover_2004de.pdf West Africa and the Classical World - neglected contexts "] in H. Bley''et al.''(Ed.),''in Africa Context: references in world history and the present'', 19 international meeting of the VAD, Hannover 2004, p. 20
+
+[[Category:Countries in ancient Africa]]
+[[Category:Ancient peoples]]
+[[Category:History of Africa]]
+[[Category:African civilizations]]
+[[Category:History of Chad]]</text>
+      <sha1>og4eqvt42jypvhksmoy90kq4ww10eu3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Amoudi Bay</title>
+    <ns>0</ns>
+    <id>58065316</id>
+    <revision>
+      <id>856447939</id>
+      <parentid>854224769</parentid>
+      <timestamp>2018-08-25T08:15:42Z</timestamp>
+      <contributor>
+        <username>SamHolt6</username>
+        <id>28608662</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1582">[[File:Santorini Amoudi Bay.jpg|thumb|Amoudi Bay on the Greek island of Santorini]]
+'''Amoudi Bay''' is a bay on the Greek Island of [[Santorini]]. The feature is set into the high volcanic cliffs of western Santorini below the town of [[Oia, Greece|Oia]].
+== Description ==
+The bay is a well known site on the island&lt;ref name=":0"&gt;{{Cite web|url=http://elle.in/culture/guide-mykonos-santorini-shivan-narresh/|title=The bachelorette's guide to Mykonos and Santorini, according to Shivan &amp; Narresh|last=Team|first=ELLE India|website=Elle India|language=en-US|access-date=2018-08-03}}&lt;/ref&gt;, and is often cited as an excellent location for viewing the sunset.&lt;ref name=":1"&gt;{{Cite web|url=https://www.huffingtonpost.com/entry/a-complete-guide-to-santorini-greece_us_5976c5a4e4b0c6616f7ce4d1|title=A Complete Guide to Santorini, Greece|last=Tourist|first=College|date=2017-07-25|website=Huffington Post|language=en-US|access-date=2018-08-03}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.thomascook.com/holidays/greece/santorini/things-to-do/amoudi-bay/|title=Amoudi Bay {{!}} Thomas Cook|work=Thomas Cook|access-date=2018-08-03|language=en-US}}&lt;/ref&gt; The bay is also known for the 200 steps leading from the base of the feature to the town of Oia on the cliffs above.&lt;ref name=":0" /&gt; Due to the locale's importance to local tourism, the base of the bay's cliffs is dotted with buildings belonging to the village of Ormos Armeni, and many sailing tours use Amoudi as their staging point.&lt;ref name=":0" /&gt;&lt;ref name=":1" /&gt;
+
+== References ==
+{{Reflist}}
+
+[[Category:Santorini]]
+{{Greece-stub}}</text>
+      <sha1>d7dgbz42ockmk25r7pvbk11dvvirvfe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Annales monégasques</title>
+    <ns>0</ns>
+    <id>48868967</id>
+    <revision>
+      <id>816703521</id>
+      <parentid>767686167</parentid>
+      <timestamp>2017-12-23T03:29:50Z</timestamp>
+      <contributor>
+        <username>Headbomb</username>
+        <id>1461430</id>
+      </contributor>
+      <comment>| abbreviation = Ann. Monég.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2726">{{Orphan|date=October 2016}}
+
+{{Infobox journal
+| cover = 
+| discipline = Monégasque history
+| abbreviation = Ann. Monég.
+| editor = 
+| publisher = 
+| country =
+| history = 1977-present
+| frequency = 1/year
+| impact = 
+| impact-year = 
+| website = 
+| link1 = 
+| link1-name = 
+| link2 = 
+| link2-name = 
+| ISSN = 0257-960X
+| eISSN = 
+| CODEN = 
+| LCCN = 
+| OCLC = 
+}}
+'''Annales monégasques''' is a journal of [[History of Monaco|Monégasque history]].
+
+==History==
+The journal was established in 1977 by [[Franck Biancheri (archivist)|Franck Biancheri]], the archivist of the [[Prince's Palace of Monaco]].&lt;ref name=enquetedupasse&gt;{{cite news|last1=Radoman|first1=Milena|title=En quête du passé|url=http://www.monacohebdo.mc/9160-en-quete-du-passe|accessdate=December 20, 2015|work=[[Monaco Hebdo]]|date=June 21, 2012}}&lt;/ref&gt;&lt;ref name=lesannalesmonegasquesmatin&gt;{{cite news|title=Les Annales monégasques racontent le Monaco d'antan|url=http://archives.monacomatin.mc/article/culture-et-loisirs/monaco-les-annales-monegasques-racontent-le-monaco-dantan.47394.html|accessdate=December 20, 2015|work=[[Monaco-Matin]]|date=August 9, 2008}}&lt;/ref&gt; The first issue included articles on varied topics like [[La Condamine]] in the Middle Ages, Monaco-born music theorist [[Honoré Langlé]], the [[Hymne Monégasque]].&lt;ref name=annalespdf&gt;{{cite web|title=ANNALES MONEGASQUES|url=http://www.palais.mc/medias_upload/vos_fichiers/PDF/sommaire_AM_1-37.pdf|website=Prince's Palace of Monaco|accessdate=December 20, 2015}}&lt;/ref&gt;
+
+By 2012, the new editor, [[Thomas Fouilleron]], the new archivist of the Prince's Palace of Monaco, suggested he wanted to digitalize past issues.&lt;ref name=enquetedupasse/&gt;
+
+The 39th issue, published on November 27, 2015, includes articles about the relationship between the [[House of Grimaldi]] and the [[House of Romanov]], the correspondence between [[Prince Pierre, Duke of Valentinois]] and author [[Marcel Proust]], the friendship between [[Albert I, Prince of Monaco]] and composer [[Jules Massenet]], and [[Alexandre Dumas]]'s novel about [[Catherine Charlotte de Gramont]], the wife of [[Louis I, Prince of Monaco]].&lt;ref name=dossierrusse&gt;{{cite web|title=Dossier Russe au sommaire des Annales Monégasques|url=http://www.monacochannel.mc/Chaines/Palais-Princier-de-Monaco/News-Photos/Dossier-Russe-au-sommaire-des-Annales-Monegasques|website=Monaco Channel|publisher=Prince's Palace of Monaco|accessdate=December 20, 2015|date=November 30, 2015}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Annales Monegasques}}
+[[Category:History of Monaco]]
+[[Category:Publications established in 1977]]
+[[Category:European history journals]]
+[[Category:1977 establishments in Monaco]]
+
+{{Monaco-stub}}</text>
+      <sha1>asvcoxxb22f5iwg78g83hvqweyrvpmk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Attica General Police Directorate</title>
+    <ns>0</ns>
+    <id>40676241</id>
+    <revision>
+      <id>754696183</id>
+      <parentid>575579130</parentid>
+      <timestamp>2016-12-14T00:48:39Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */clean up; http&amp;rarr;https for [[The Guardian]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="939">The '''Attica General Police Directorate''' ({{lang-el|Γενική Αστυνομική Διεύθυνση Αττικής}}, commonly used in the abbreviation ΓΑΔΑ, ''GADA'') is an administrative unit of the [[Hellenic Police]]. Its headquarters are in [[Athens]]. It has been described as Athens' equivalent of [[Scotland Yard]].&lt;ref name=guardian20121009/&gt; 
+
+In 2012, activists protesting against the [[Golden Dawn (political party)|Golden Dawn]] party alleged that they were tortured at its headquarters.&lt;ref name=guardian20121009&gt;{{cite web|url=https://www.theguardian.com/world/2012/oct/09/greek-antifascist-protesters-torture-police|title=Greek anti-fascist protesters 'tortured by police' after Golden Dawn clash|publisher=The Guardian|date=2012-10-09}}&lt;/ref&gt;
+
+== References ==
+{{reflist}}
+
+{{coord missing|Greece}}
+
+[[Category:Buildings and structures in Athens]]
+[[Category:Hellenic Police]]
+
+
+{{greece-stub}}
+{{police-stub}}</text>
+      <sha1>mqxfa40jrnqfoppk1s7akep77hsncwa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Battle of Sigüenza</title>
+    <ns>0</ns>
+    <id>32573940</id>
+    <revision>
+      <id>865804018</id>
+      <parentid>816861809</parentid>
+      <timestamp>2018-10-26T07:51:56Z</timestamp>
+      <contributor>
+        <username>Kelutral</username>
+        <id>33359216</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="537">{{Expand Spanish|Batalla de Sigüenza|topic=hist|date=July 2011}}
+{{Campaignbox Spanish Civil War}}
+{{unreferenced|date=September 2014}}
+The '''Battle of Sigüenza''' took place from  7 August 1936 to 15 October 1936 during the [[Spanish Civil War]].
+
+==References==
+{{Reflist}}
+
+{{coord missing|Spain}}
+
+{{DEFAULTSORT:Battle of Siguenza}}
+[[Category:Battles of the Spanish Civil War]]
+[[Category:Battles in Castilla–La Mancha|Siguenza]]
+[[Category:1936 in Spain]]
+[[Category:Conflicts in 1936]]
+[[Category:Sigüenza]]
+
+
+{{Spain-stub}}</text>
+      <sha1>3m36uu1s57fdrmn8t51wdcqam4mn52y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blue Raincoat Theatre Company</title>
+    <ns>0</ns>
+    <id>8251213</id>
+    <revision>
+      <id>791741899</id>
+      <parentid>701489763</parentid>
+      <timestamp>2017-07-22T05:51:36Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.4.2)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2051">{{refimprove|date=April 2008}}
+'''Blue Raincoat Theatre Company''' is a professional [[theatre company]] based in [[Sligo]], [[Republic of Ireland|Ireland]].
+
+Founded in 1991, Blue Raincoat has staged 63 productions, 14 of which were world premieres. The company is a venue-based theatre ensemble, and performs primarily in The Factory Performance Space in Sligo, although it also tours throughout Ireland.  The Factory Performance Space was originally a warehouse dating to the 1800s, but it was converted to a performance and training center during the 1990s.  The Blue Raincoat Theatre Company won the national [[Allied Irish Banks|AIB]] "Better Ireland" award for the development project in 1999.&lt;ref&gt;{{cite web|url=http://hamiltonyoung.blogspot.com/2010/10/blue-raincoat-theatre-company.html|title=Blue Raincoat Theatre Company|author=Andrew Judge|publisher=Hamilton Young Architects}}&lt;/ref&gt;
+
+The company's other performance venues include the [[National Theatre of Ireland]] and the [[Dublin Theatre Festival]]. Blue Raincoat has also performed at theatres{{which|date=January 2015}} in [[London]], [[Berlin]], [[Warsaw]], [[Madrid]], [[Bucharest]] and [[Sofia]]. Blue Raincoat operate ongoing outreach programmes, national training seminars, internal training, the Cairde Community Festival and music events.
+
+In 2013, Blue Raincoat began its season with [[Endgame (play)|''Endgame]] by [[Samuel Beckett]].&lt;ref&gt;{{cite web|url=http://www.sligotourism.ie/blue-raincoat-theatre-company-stage-beckett-first-time-march/|title=Blue Raincoat Theatre Company to stage Beckett for first time this March|work=Sligo Tourism|deadurl=yes|archiveurl=https://web.archive.org/web/20130516162821/http://www.sligotourism.ie/blue-raincoat-theatre-company-stage-beckett-first-time-march/|archivedate=2013-05-16|df=}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Biography}}
+* {{official website|http://www.blueraincoat.com/}}
+
+[[Category:Sligo (town)]]
+[[Category:Theatre companies in the Republic of Ireland]]
+
+
+{{ireland-stub}}
+{{theater-stub}}</text>
+      <sha1>78q1evt7ufanwrz05vcs44bdqpkciez</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cosmos (Gombrowicz novel)</title>
+    <ns>0</ns>
+    <id>2337353</id>
+    <revision>
+      <id>795318470</id>
+      <parentid>748809687</parentid>
+      <timestamp>2017-08-13T13:22:40Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.5beta)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3802">{{italic title}}
+'''Kosmos''' is a 1965 novel by the Polish author [[Witold Gombrowicz]]. The narrative revolves around two young men who seek the solitude of the country; their peace is disturbed when a set of random occurrences suggest to their susceptible minds a pattern with sinister meanings. The humour arises, as it often does in Gombrowicz's work, in the extremity of paranoia and confusion exhibited by the protagonist.
+
+Themes appearing in this work that are also common in the author's oeuvre are the search for form and meaning in a chaotic existence, and the fragile nature of the human mind.{{Citation needed|date=October 2011}} The novel was awarded the 1967 [[Prix Formentor|International Prize for Literature]].&lt;ref&gt;[http://conversesformentor.com/docs/cataleg_2008_es.pdf "Converses de Formentor", conference brochure, 2008 (In Spanish)] {{webarchive|url=https://web.archive.org/web/20120316114314/http://conversesformentor.com/docs/cataleg_2008_es.pdf |date=2012-03-16 }}&lt;/ref&gt;
+
+The 1967 English translation was from the French and German translations rather than the Polish original. In 2004 [[Danuta Borchardt]] received a [[National Endowment for the Arts]] grant to enable her to prepare a revised translation directly from the Polish, a translation published by Yale University Press in 2005&lt;ref&gt;{{cite journal|last=Holmberg|first=David Thomas|year=2007|title=Rev. of ''Cosmos'' (trans. Borchardt)|journal=[[Rocky Mountain Review]]|volume=61|issue=1|pages=145–47|jstor=20058167}}&lt;/ref&gt; and praised for its better renderings of Gombrowicz's complex language.&lt;ref name=Illakowicz&gt;{{cite journal|last=Illakowicz|first=Krystyna Lipinska|year=2006|title=Rev. of Gombrowicz, ''Bacacay'' (trans. Johnston) and ''Cosmos'' (trans. Borchardt)|journal=[[The Slavic and East European Journal]]|volume=50|issue=4|pages=716–18|jstor=20459386|doi=10.2307/20459386}}&lt;/ref&gt;
+
+A film adaptation with [[Cosmos (2015 film)|the same title]] directed by [[Andrzej Żuławski]]
+won the Best Director award at the 68th Locarno Film Festival in Switzerland in 2015.&lt;ref&gt;{{Cite web|title=Żuławski wins best director at Locarno film festival|url=http://www.thenews.pl/1/11/Artykul/217417,Zulawski-wins-best-director-at-Locarno-film-festival#sthash.Os3EdfPI.dpuf|accessdate=2015-08-16}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|last=Lemercier|first=Fabien|date=2015-01-09|url=http://www.cineuropa.org/nw.aspx?t=newsdetail&amp;l=en&amp;did=283003|title=Andrzej Zulawski's ''Cosmos'' in post-production|work=Cineuropa|accessdate=2015-01-11}}&lt;/ref&gt;
+
+==Characters==
+*Witold – the narrator, who's had undefined troubles with his parents back in Warsaw
+*Fuks – his "carroty" "fish-like" companion, escaping his oppressive work environment and his boss, Drozdowski, who for unknown reasons can't stand him
+*Leon Wojtys – retired banker and ''pater familias''; the family live on the outskirts of [[Zakopane]], after moving from [[Drohobych]], then [[Pułtusk]], then [[Kielce]]
+*Mrs. Wojtys, or "Roly-Poly" – his wife, from a slightly lower social class than her husband's
+*Lena – their daughter, a teacher of foreign languages
+*Ludwik – their son-in-law (he married Lena two months before the events in the novel), architect
+*Katasia – Mrs. Wojtys's niece (from a peasant family in [[Grójec]]) and housekeeper, whose deformed upper lip is the result of an accident
+*Lulu and Lukie, Tolo and Venomie Tolek- two newly married couples who accompany the rest on a trip to the country
+
+==References==
+{{reflist}}
+
+{{Witold Gombrowicz}}
+
+{{DEFAULTSORT:Cosmos (Novel)}}
+[[Category:1965 novels]]
+[[Category:Polish novels adapted into films]]
+[[Category:Polish novels]]
+[[Category:Works by Witold Gombrowicz]]
+[[Category:Novels by Witold Gombrowicz]]
+[[Category:20th-century Polish novels]]
+
+
+{{1960s-novel-stub}}
+{{Poland-stub}}</text>
+      <sha1>b0hcefs2t3j6ufdrel7a5wfr75x9mux</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Creative Assembly Sofia</title>
+    <ns>0</ns>
+    <id>3420333</id>
+    <revision>
+      <id>869254768</id>
+      <parentid>862765635</parentid>
+      <timestamp>2018-11-17T12:26:14Z</timestamp>
+      <contributor>
+        <username>Mika1h</username>
+        <id>1121468</id>
+      </contributor>
+      <comment>/* Games developed */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6184">{{Use dmy dates|date=March 2017}}
+{{notability|date=July 2017}}
+{{Infobox company
+| name = Creative Assembly Sofia
+| logo = Creative Assembly Sofia.png
+| former_name = {{Unbulleted list|Black Sea Studios Ltd.{{efn|name="BSS-BG"|{{lang-bg|Блек Сий Студиос ЕООД|translit=Blek Siĭ Studios EOOD}}}} {{small|(2001–2008)}}|Crytek Black Sea Ltd.{{efn|name="CBS-BG"|{{lang-bg|Крайтек Блек Сий ЕООД|translit=Kraĭtek Blek Siĭ EOOD}}}} {{small|(2008–2017)}}}}
+| native_name = Криейтив Асембли София
+| native_name_lang = bg
+| romanized_name = Krieĭtiv Asembli Sofiya
+| type = [[Subsidiary]]
+| industry = [[Video game industry]]
+| founded = {{Start date and age|df=yes|2001|05|07}}
+| founder = Vesselin Handjiev
+| hq_location_city = [[Sofia]]
+| hq_location_country = [[Bulgaria]]
+| key_people = 
+| products = {{Unbulleted list|''[[Knights of Honor (video game)|Knights of Honor]]''|''[[WorldShift]]''}}
+| num_employees = 60
+| num_employees_year = 2017
+| parent = {{Unbulleted list|[[Crytek]] {{small|(2008–2017)}}|[[Creative Assembly]] {{small|(2017–present)}}}}
+| website = 
+}}
+[[File:Black Sea Studios.jpeg|thumb|right|Former Black Sea Studios logo]]
+[[File:Crytek Black Sea.png|thumb|right|Former Crytek Black Sea logo]]
+'''Creative Assembly Sofia'''{{efn|name="CAS-BG"|{{lang-bg|Криейтив Асембли София|Krieĭtiv Asembli Sofiya}}}} (formerly '''Black Sea Studios Ltd.'''{{efn|name="BSS-BG"}} and later '''Crytek Black Sea Ltd.'''{{efn|name="CBS-BG"}}) is a [[Bulgaria]]n [[video game developer]] based in [[Sofia]]. The company was established by Vesselin Handjiev as Black Sea Studios in 2001.&lt;ref&gt;https://www.gamespot.com/articles/black-sea-studios-founded/1100-2716273/&lt;/ref&gt; The company is best known for its 2004 title ''[[Knights of Honor (video game)|Knights of Honor]]'', a historical [[real-time strategy]] game released for [[Microsoft Windows]], and for the 2008 science fiction real-time strategy title ''[[WorldShift]]''.
+
+In July 2008, German developer and publisher [[Crytek]] announced their acquisition of the studio, and renamed it Crytek Black Sea.&lt;ref&gt;{{cite web |url=http://www.gamesindustry.biz/articles/crytek-acquires-black-sea-studios |title=Crytek acquires Black Sea Studios |last=Lee |first=James |date=22 July 2008 |website=[[GamesIndustry.biz]] |publisher=[[Gamer Network]] |accessdate=12 March 2017}}&lt;/ref&gt; In May 2014, Crytek announced the development of their own [[multiplayer online battle arena]] game using the [[CryEngine]], titled ''[[Arena of Fate]]'' and under development at the Sofia studio. The game was shown at [[Electronic Entertainment Expo 2014|E3 2014]].&lt;ref&gt;{{cite web |url=http://www.ign.com/articles/2014/05/22/crytek-announces-arena-of-fate-for-pc-and-consoles |title=Crytek Announces Arena of Fate For PC and Consoles |last=Karmali |first=Luke |date=22 May 2014 |website=[[IGN]] |publisher=[[IGN Entertainment]] |accessdate=12 March 2017}}&lt;/ref&gt;
+
+In November 2016, the founder and Director of the studio Vesselin Handjiev left and a month later announced the formation of a new game company, Black Sea Games.&lt;ref&gt;{{cite web |url=http://www.gamesindustry.biz/articles/2016-12-24-crytek-sofia-developers-re-form-black-sea-games |title=Crytek Sofia developers re-form Black Sea Games |last=Dring |first=Christopher |date=24 December 2016 |website=[[GamesIndustry.biz]] |publisher=[[Gamer Network]] |accessdate=26 June 2017}}&lt;/ref&gt;
+
+In December 2016, Crytek announced that it would shut down five of its international studios, due to financial troubles, of which Crytek Black Sea was put up for sale.&lt;ref&gt;{{cite web |url=http://www.gamespot.com/articles/crytek-shuts-down-five-studios-amid-financial-diff/1100-6446417/ |title=Crytek Shuts Down Five Studios Amid Financial Difficulties |last=Dayus |first=Oscar |date=20 December 2016 |website=[[GameSpot]] |publisher=[[CBS Interactive]] |accessdate=12 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.rockpapershotgun.com/2016/12/20/crytek-closes-five-studios-after-failing-to-pay-workers/ |title=Crytek closes five studios after reportedly failing to pay workers |last=Caldwell |first=Brendan |date=20 December 2016 |website=[[Rock, Paper, Shotgun]] |accessdate=12 March 2017}}&lt;/ref&gt; In March 2017, it was announced that the studio was acquired by British developer [[Creative Assembly]] (itself owned by [[Sega]]), and was renamed Creative Assembly Sofia.&lt;ref&gt;{{cite web |url=http://www.pcgamer.com/creative-assembly-acquires-arena-of-fate-developer-crytek-black-sea/ |title=Creative Assembly acquires Arena of Fate developer Crytek Black Sea |last=Donnelly |first=Joe |date=7 March 2017 |website=[[PC Gamer]] |publisher=[[Future US]] |accessdate=12 March 2017}}&lt;/ref&gt;
+
+== Games developed ==
+{| class="wikitable sortable"
+! Year
+! Title
+! Platform(s)
+|-
+| colspan="3" align="center" | As Black Sea Studios
+|-
+| 2004
+| ''[[Knights of Honor (video game)|Knights of Honor]]''
+| rowspan="2" | [[Microsoft Windows]]
+|-
+| 2008
+| ''[[WorldShift]]''
+|-
+| colspan="3" align="center" | As Crytek Black Sea
+|-
+| Cancelled
+| ''[[Arena of Fate]]''
+| Microsoft Windows
+|-
+| colspan="3" align="center" | As Creative Assembly Sofia
+|-
+| 2017
+| ''[[Total War: Rome II|Total War: Rome II – Empire Divided]]''&lt;ref&gt;{{cite web |url=https://offnews.bg/tehnologii/creative-assembly-sofia-se-vkliuchva-v-game-dev-summit-monthly-s-preds-669333.html |title=Creative Assembly Sofia se vklyuchva v Game Dev Summit Monthly s predstavyaneto na igrata Total War |script-title=bg:Creative Assembly Sofia се включва в Game Dev Summit Monthly с представянето на играта Total War |trans-title=Creative Assembly Sofia joins Game Dev Summit Monthly with Total War |date=14 November 2017 |website=[[OffNews]] |accessdate=9 December 2017}}&lt;/ref&gt;
+| Microsoft Windows
+|}
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+{{Sega Sammy Holdings}}
+{{Crytek}}
+
+[[Category:Companies based in Sofia]]
+[[Category:Companies established in 2001]]
+[[Category:Crytek]]
+[[Category:Video game companies of Bulgaria]]
+[[Category:Video game development companies]]
+
+
+{{Bulgaria-stub}}
+{{Europe-videogame-company-stub}}</text>
+      <sha1>ryni1d4n54znh867e5c26py2vnmcvdo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cross of Recognition</title>
+    <ns>0</ns>
+    <id>33606103</id>
+    <revision>
+      <id>870675464</id>
+      <parentid>867547933</parentid>
+      <timestamp>2018-11-26T10:03:43Z</timestamp>
+      <contributor>
+        <username>Narky Blert</username>
+        <id>22041646</id>
+      </contributor>
+      <comment>dab tag resolved</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3515">{{infobox military award
+| name             = Cross of Recognition&lt;br&gt;''Atzinības krusts''
+| image            = Atzinības krusts.jpg
+| image_size       = 200px
+| caption          = Grand Cross of the Cross of Recognition
+| awarded_by       = {{LAT}}
+| country          =
+| type             = 5 class [[order (honour)|Order]], with honor medals in 5 grades.
+| eligibility      = 
+| for              = Special services in public, cultural, science, sports and education.
+| campaign         = 
+| status           = 
+| description      = 
+| motto            = Pour les bonnêtes gens&lt;br&gt;(For people of honour)
+| clasps           = 
+| post-nominals    = 
+| established      = 1710&lt;br&gt;Reestablished 1938&lt;br&gt;Revived 2004
+| first_award      = 
+| last_award       = 
+| total            = 
+| posthumous       = 
+| recipients       = 
+| precedence_label =
+| individual       = 
+| higher           = [[Order of Viesturs]]
+| same             = 
+| lower            = Medal of Honour of the Order of Three Stars&lt;ref&gt;{{cite web|title=Chapter VIII of the Law on State Honours|url=http://www.president.lv/pk/content/?cat_id=7417|work=president.lv|publisher=Latvijas Valsts prezidenta kanceleja|accessdate=1 November 2011}}&lt;/ref&gt; 
+| related          = 
+| image2           = [[File:LVA Cross of Recognition.png|100px]]
+| caption2         = Ribbon bar of the cross
+}}
+The '''Cross of Recognition''' ({{lang-lv|Atzinības krusts}}) is a [[state decoration]] of [[Latvia]].
+
+==History==
+The decoration was established in 1710 in the [[Duchy of Courland and Semigallia]] by Duke [[Frederick William, Duke of Courland|Frederick William]] as a symbol of the then-established Order of Recognition (l’Ordre de la Reconnaissance). According to the order's statute, it was established “in thanks to God Almighty for the recovery of Courland after the [[Great Northern War]]” (“et in memoriam recuperatae Curlandiae”). The order was bestowed for outstanding civilian and military accomplishments.&lt;ref name=presidentLV&gt;[https://www.president.lv/en/state-awards/the-cross-of-recognition State awards &gt; The Cross of Recognition] - Official website of the [[President of Latvia]]&lt;/ref&gt; Frederick William died in January 1711. No more than 18 people were awarded the order and its cross by then. After his death, no further orders were presented.&lt;ref name=presidentLV/&gt;
+
+The Cross of Recognition was reestablished by the [[Republic of Latvia]] in 1938. Five classes of the order and three medals of honour were introduced, as well as a separate first level for the medal.&lt;ref name=presidentLV/&gt;
+
+With the beginning of the [[Soviet occupation of Latvia in 1940|Soviet occupation of Latvia]], the bestowing of the order was halted.
+
+After the restoration of the independence of Latvia, the decoration was restored again as the Cross of Recognition in 2004.&lt;ref name=presidentLV/&gt; It is awarded to Latvians and foreigners for special services in public, cultural, science, sports and education.&lt;ref&gt;{{cite web|last=Robertson|first=Megan|title=Republic of Latvia: Cross of Recognition|url=http://medals.org.uk/latvia/1991-latvia/1991-latvia008.htm|work=Medals of the World|accessdate=12 November 2011}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.president.lv/ordeni/ordeni.html?&amp;cat_ State Decorations of Latvia]
+{{Latvian honours}}
+
+[[Category:Orders, decorations, and medals of Latvia]]
+[[Category:Recipients of the Cross of Recognition]]
+[[Category:Duchy of Courland and Semigallia]]
+
+{{Latvia-stub}}
+{{award-stub}}</text>
+      <sha1>aimad2bt509783sj409aah0zevyxsq6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>DD Saptagiri</title>
+    <ns>0</ns>
+    <id>8342245</id>
+    <revision>
+      <id>868131813</id>
+      <parentid>866598020</parentid>
+      <timestamp>2018-11-10T05:39:24Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <comment>Rescued 1 archive link; remove 1 link. [[User:GreenC/WaybackMedic_2.1|Wayback Medic 2.1]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4489">{{Use Indian English|date=September 2015}}
+{{Use dmy dates|date=September 2015}}
+{{Infobox broadcasting network
+| network_name = Doordarshan Saptagiri
+| network_logo = [[File:Doordarshan.png|185px|Doordarshan Logo]]
+| country      = [[India]]
+| network_type = [[Terrestrial and satellite television|Broadcast]] [[television network]]
+| available    = India and parts of Asia,China and Gulf Countries.
+| owner        = [[Prasar Bharati]]
+| launch_date  = 1993-10-10 (as Doordarshan Kendra Hyderabad)&lt;br&gt; 2014-9-27(as Doordarshan Kendra Vijayawada)
+| founder      = [[Govt. of India]]
+| brand       =  DD (Doordarshan)
+| Frequency_details = INSAT-4B (KU) 93.5E  11150 V 27500
+| headquarters = [[Vijayawada, India|Vijayawada]], [[Andhra Pradesh]], [[India]]
+| website      = [http://www.ddsaptagiri.tv/vijayawada_kendra.html]             
+}}
+'''DD Saptagiri''' ([[Telugu language|Telugu]]: దూరదర్శన్ సప్తగిరి)  is a state-owned television channel telecasting in the [[Telugu language]] from a studio at [[Doordarshan]] Kendra [[Vijayawada]], [[Andhra Pradesh]], India. This studio was inaugurated by the Chief Minister of Andhra Pradesh, Shri [[N. Chandrababu Naidu]], on 27 September 2014. 
+
+In addition to the terrestrial over-the-air transmission, the DD Vijayawada studio programmes are beamed through [[direct-broadcast satellite]] (DTH) and cable networks.&lt;ref&gt;{{cite web|url=http://www.ddfreedish.in/general-news/dd-free-dish-adds-dd-vijayawada |archive-url=https://archive.is/20140927125935/http://www.ddfreedish.in/general-news/dd-free-dish-adds-dd-vijayawada |dead-url=yes |archive-date=2014-09-27 |title=Doordarshan Kendra Vijayawada |publisher=ddfreedish.in |date= |accessdate=2014-09-27 }}&lt;/ref&gt; Doordarshan Kendra  Vijayawada’s Regional Network in Telugu took on a new identity as "DD Saptagiri", on 27 September 2014. This service is viewed not only in India, but also in some other parts of the world. The channel is named after the seven hills surrounding the world famous [[Tirumala Venkateswara Temple]] in [[Tirupati]] at the south of the state ('Sapta' in Sanskrit means seven and 'Giri' means mountain or hill). 
+
+==Popularity==
+Doordarshan [[Vijayawada]] was the only television channel broadcast from Andhra Pradesh after bifurcation of the state. Its programmes are aimed mainly at 13 districts of Andhra Pradesh. Since the '90s, DD Vijayawada has been a small studio facility through which programmes based on coastal Andhra are produced and used to be aired weekly once through DDK Hyderabad. It was launched by Andhra Pradesh CM Nara Chandhra Babu Naidu and Union Minister of Urban Development Shri [[Venkaiah Naidu]] on 27 September 2014. Venkaiah Naidu announced that the All India Radio Bhavan here was named [[Pingali Venkaiah]] Bhavan.&lt;ref&gt;{{cite web|url=http://www.tvhub.in/watch/etv2/chandrababu--venkaiah-jointly-launches-dd-sapthagiri-channel-in-vijayawada/x19Dqkib6N4/ |title=DD Saptagiri launch |date= |accessdate=2014-09-27 |deadurl=yes |archiveurl=https://web.archive.org/web/20141006103548/http://www.tvhub.in/watch/etv2/chandrababu--venkaiah-jointly-launches-dd-sapthagiri-channel-in-vijayawada/x19Dqkib6N4/ |archivedate=6 October 2014 |df=dmy }}&lt;/ref&gt;
+
+==Frequency and satellite details from DD Free Dish==
+INSAT-4B (C-BAND)93.5E 4060 MHZ Horizontal, symbol rate- 4250, 
+INSAT-4B (KU) 93.5E  11150 V 27500
+
+==Channel details from [[APSFL]]==
+Channel 064 on [[APSFL]]
+== See also==
+* [[All India Radio]] 
+* [[DD Direct Plus]] 
+* [[Prasar Bharati|Ministry of Information and Broadcasting]] 
+* [[List of programs broadcast by DD National]] 
+* [[List of South Asian television channels by country]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{Official website|http://www.ddsaptagiri.tv/vijayawada_kendra.html }}
+* [https://web.archive.org/web/20130726051932/http://www.ddindia.gov.in/ Doordarshan Official Internet site] 
+* [https://web.archive.org/web/20130904045856/http://www.ddinews.gov.in/ Doordarshan news site] 
+
+{{Telugu Language Television}}
+{{CATV}}
+{{Terrestrial television channels of India}}
+
+{{DEFAULTSORT:Dd Saptagiri}}
+[[Category:Telugu-language television channels]]
+[[Category:Foreign television channels broadcasting in the United Kingdom]]
+[[Category:Television channels and stations established in 1977]]
+[[Category:Direct broadcast satellite services]]
+[[Category:Indian direct broadcast satellite services]]
+[[Category:Doordarshan]]
+[[Category:Television stations in Andhra Pradesh]]</text>
+      <sha1>8yca6jvygbubmcv6voe8bv3cqe74m4z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Declaration of the United Nations Conference on the Human Environment</title>
+    <ns>0</ns>
+    <id>16673279</id>
+    <revision>
+      <id>844100793</id>
+      <parentid>799454133</parentid>
+      <timestamp>2018-06-02T16:29:00Z</timestamp>
+      <contributor>
+        <username>Zyxw</username>
+        <id>473593</id>
+      </contributor>
+      <minor/>
+      <comment>update archive links using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2940">The '''Declaration of the United Nations Conference on the Human Environment''', or '''Stockholm Declaration''', was adopted June 16, 1972 by the [[United Nations Conference on the Human Environment]] at the 21st plenary meeting as the first document in international [[environmental law]] to recognize the right to a healthy [[environment (biophysical)|environment]]. In the declaration, the nations agreed  to accept responsibility for any environmental effects caused by their actions.&lt;ref&gt;{{Cite news|url=|title=Goals for Environment Talks Listed|last=Astrachan|first=Anthony|date=17 March 1972|work=The Washington Post, Times Herald|access-date=|via=}}&lt;/ref&gt;
+
+== Breakdown of Declaration ==
+Within the document, seven proclamations cover the global nature of environmental problems and state that they will require extensive cooperation among nations to resolve.&lt;ref name=":0" /&gt;  These proclamations conclude that efforts for environmental preservation and improvement will benefit all people and their posterity.&lt;ref name=":0"&gt;{{Cite journal|title=Report of the United Nations Conference on the Human Environment|journal=United Nations|volume=A/CONF.48/14/Rev.1}}&lt;/ref&gt;&lt;ref name=":1"&gt;{{Cite web|url=http://www.unep.org/Documents.multilingual/Default.asp?DocumentID=97&amp;ArticleID=1503|title=Stockholm 1972 - Declaration of the United Nations Conference on the Human Environment - United Nations Environment Programme (UNEP)|last=UNEP|website=www.unep.org|access-date=2016-10-22|deadurl=yes|archiveurl=http://webarchive.loc.gov/all/20150314024203/http%3A//www.unep.org/Documents.Multilingual/Default.asp?documentid%3D97%26articleid%3D1503|archivedate=2015-03-14|df=}}&lt;/ref&gt; The declaration then states twenty-six principles to guide the nations through their responsibilities. The action plan is split into three categories including an environmental assessment called Earthwatch, environmental management, and 109 supporting measures.&lt;ref name=":0" /&gt;&lt;ref name=":1" /&gt;
+
+== External links ==
+{{wikisource}}
+*{{webarchive |url=http://webarchive.loc.gov/all/20150314024203/http%3A//www.unep.org/Documents.Multilingual/Default.asp?documentid%3D97%26articleid%3D1503 |title=Declaration of the United Nations Conference on the Human Environment - full text |date=2015-03-14}}
+*[http://legal.un.org/avl/ha/dunche/dunche.html Introductory note by Günther Handl, procedural history note and audiovisual material] on the ''Declaration of the United Nations Conference on the Human Environment (Stockholm Declaration)'' in the [http://legal.un.org/avl/historicarchives.html Historic Archives of the United Nations Audiovisual Library of International Law]
+
+== References ==
+{{Reflist}}
+
+[[Category:United Nations documents]]
+[[Category:1972 in international relations]]
+[[Category:International environmental law]]
+[[Category:1972 in Sweden]]
+[[Category:1972 in law]]
+[[Category:1972 in the environment]]
+
+
+{{UN-stub}}
+{{international-law-stub}}</text>
+      <sha1>25ilbqcpvkhmtt2cbesfkf3282yw9su</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Diplomacy Academy, Turkey</title>
+    <ns>0</ns>
+    <id>49288064</id>
+    <revision>
+      <id>746181983</id>
+      <parentid>702959218</parentid>
+      <timestamp>2016-10-25T19:29:51Z</timestamp>
+      <contributor>
+        <username>Rathfelder</username>
+        <id>398607</id>
+      </contributor>
+      <comment>removed [[Category:Diplomatic training institutions]]; added [[Category:Diplomatic training]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2129">{{Underlinked|date=February 2016}}
+
+The Diplomacy Academy is the institute in charge of diplomatic training and academic collaboration operations of [[Ministry of Foreign Affairs of Turkey]]. The Academy was originally established as Foreign Affairs Academy in 1968, was later renamed to Training Center in 1994, and eventually took its current designation, "Diplomacy Academy" under the 2010 legal overhaul that redesigned Ministry of Foreign Affairs of Turkey and gave the Academy a larger spectrum of tasks, including:&lt;ref&gt;http://diab.mfa.gov.tr/en/about/about/&lt;/ref&gt;
+
+[[File:20th International Junior Diplomats Training Program.JPG|thumb|20th International Junior Diplomats Training Program]]
+
+* train Ministry officers of every service category and rank, including Consuls General and Ambassadors,
+* plan and organize attendance to internship and training programs,
+* coordinate exchange of diplomats with other Ministries of Foreign Affairs,
+* execute training programs for foreign diplomats, including International Junior Diplomats Training Program.
+* collaborate with other Diplomatic Academies,
+* plan and organize foreign service orientation program for officials from other Turkish government institutions due for overseas posting,
+* hold foreign policy and protocol seminars for foreign relations departments of other Turkish government institutes.
+
+International Junior Diplomats Training Program is the Academy's biggest annual undertaking. It has been held every year since 1992, and diplomats from all over the globe are invited for a one-month program covering an overview of Turkish foreign policy, introduction to Turkish history and art, and visits to touristic and cultural spotlights including Cappadocia, Nevşehir, and landmarks of Istanbul
+
+The Diplomacy Academy is headed by the office of Director, currently held by Assoc. Prof. Mesut Özcan.&lt;ref&gt;http://diab.mfa.gov.tr/en/about/message-from-the-chairman/&lt;/ref&gt;
+
+== Website ==
+http://diab.mfa.gov.tr/en
+
+==References==
+{{Reflist}}
+
+[[Category:Diplomatic training]]
+[[Category:Ministry of Foreign Affairs of Turkey]]
+
+{{turkey-stub}}
+{{diplomacy-stub}}</text>
+      <sha1>cq699btjenznc5jxsfw5pjbq8pce183</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eastern European Summer Time</title>
+    <ns>0</ns>
+    <id>1537535</id>
+    <revision>
+      <id>866017901</id>
+      <parentid>855839241</parentid>
+      <timestamp>2018-10-27T18:45:47Z</timestamp>
+      <contributor>
+        <ip>2001:7D0:4740:1080:63:DC56:F171:A515</ip>
+      </contributor>
+      <comment>MKIAEL</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3334">{{Time zones of Europe}}
+{{Time zones of the Middle East}}
+'''Eastern European Summer Time''' ('''EEST''') is one of the names of [[UTC+3]] [[time zone]], 3 hours ahead of [[Coordinated Universal Time]]. It is used as a summer [[daylight saving time]] in some [[Europe]]an and [[Middle East]]ern countries, which makes it the same as [[Arabia Standard Time]], [[East Africa Time]] and [[Moscow Time]]. During the winter periods, [[Eastern European Time]] ([[UTC2|UTC+2]]) is used.
+
+Since 1996 [[European Summer Time]] has been observed from the last Sunday in March to the last Sunday in October; previously the rules were not uniform across the European Union.&lt;ref name=Myers&gt;{{Cite web |author=Joseph Myers |title=History of legal time in Britain |url=http://www.srcf.ucam.org/~jsm28/british-time/ |accessdate=2009-10-11 |date=2009-07-17 }}&lt;/ref&gt;
+
+==Usage==
+The following countries and territories use '''Eastern European Summer Time''' during the summer:
+
+* [[Belarus]], [[Moscow Summer Time]] in years 1981–89, regular EEST from 1991-2011
+* [[Bulgaria]], regular EEST since 1979
+* [[Cyprus]], regular EEST since 1979 ([[Northern Cyprus]] stopped using EEST in 2016, but returned to EEST on 25 March 2018)
+* [[Estonia]], [[Moscow Summer Time]] in years 1981–88, regular EEST since 1989
+* [[Finland]], regular EEST since 1981
+* [[Greece]], regular EEST since 1975
+* [[Israel]], [[Israel Daylight Time]] since 1948 (which tracks EEST when the two overlap)
+* [[Jordan]], since 1985
+* [[Latvia]], [[Moscow Summer Time]] in years 1981–88, regular EEST since 1989
+* [[Lebanon]], since 1984
+* [[Lithuania]], [[Moscow Summer Time]] in years 1981–88, regular EEST since 1989, apart from MKIAEL nossniNtrrRamars 1998-2003 when it was [[Central European Summer Time]]
+* [[Moldova]], [[Moscow Summer Time]] in years 1932–40 and 1981–89, regular EEST since 1991
+* [[Romania]], unofficial EEST in years 1932–40, regular EEST since 1979
+* [[Russia]] ([[Kaliningrad Oblast|Kaliningrad]]), [[Moscow Summer Time]] in years 1981–90, regular EEST since 1991, as standard time from March 2011.
+* [[Syria]], since 1983
+* [[Ukraine]], [[Moscow Summer Time]] in years 1981–89, regular EEST from 1992&lt;ref name="Kyivwintertimeisback"&gt;[http://www.kyivpost.com/news/nation/detail/115146/ Ukraine to return to standard time on Oct. 30 (updated)], [[Kyiv Post]] (October 18, 2011)&lt;/ref&gt;
+
+In one year 1991 EEST was used also in [[Moscow]] and [[Samara Oblast|Samara]] time zones of [[Russia]]. [[Egypt]] has previously used EEST from 1957–2010 and 2014–2015. [[Turkey]], has previously used EEST from 1970-1978 EEST, [[Moscow Summer Time]] from 1979–1983, and EEST from 1985-2016.
+
+{{clear}}
+{| cellpadding="4" align="right" class="wikitable" style="width:300px;margin-right:0px;"
+! Colour !! Legal time vs local mean time
+|-
+| style="background: #8f8fbf;" |
+| 1 h ± 30 m behind
+|-
+| style="background: #bfbfbf;" |
+| 0 h ± 30 m
+|-
+| style="background: #bf8f8f;" |
+| 1 h ± 30 m ahead
+|-
+| style="background: #bf6060;" |
+| 2 h ± 30 m ahead
+|-
+| style="background: #bf0000;" |
+| 3 h ± 30 m ahead
+|}
+[[Image:Tzdiff-Europe-summer.png|thumb|300px|European summer]]
+
+==See also==
+* [[European Summer Time]]
+* [[UTC+3]]
+
+==References==
+{{Reflist}}
+
+[[Category:Time zones]]
+[[Category:Time in Europe]]
+[[Category:Geography of Eastern Europe]]</text>
+      <sha1>5egp2ya4kqrs0x5b3ainv8sc9quhgk4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Essex South (European Parliament constituency)</title>
+    <ns>0</ns>
+    <id>15334227</id>
+    <revision>
+      <id>835568943</id>
+      <parentid>727557590</parentid>
+      <timestamp>2018-04-09T14:02:07Z</timestamp>
+      <contributor>
+        <username>Frietjes</username>
+        <id>13791031</id>
+      </contributor>
+      <comment>clean infobox</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4843">{{Infobox European Parliament constituency
+|title = Essex South
+|map = Image:Europarl logo.svg
+|mapcaption = [[European Parliament]] logo
+|created = 1994
+|dissolved = 1999
+|meps = 1
+|memberstate = United Kingdom
+|sources = [http://www.election.demon.co.uk/]
+}}
+'''Essex South''' was a [[European Parliament constituency|constituency]] of the [[European Parliament]] located in the [[United Kingdom]], electing one [[member of the European Parliament]] by the [[first-past-the-post]] electoral system. Created in [[European Parliament election, 1994 (United Kingdom)|1994]] from parts of [[Essex South West (European Parliament constituency)|Essex South West]] and [[Essex North East (European Parliament constituency)|Essex North East]], it was abolished in [[European Parliament election, 1994 (United Kingdom)|1999]] on the adoption of [[proportional representation]] for [[Elections in the European Union|European elections]] in the United Kingdom. It was succeeded by the [[East of England (European Parliament constituency)|East of England region]].
+
+==Boundaries==
+
+It consisted of the [[List of United Kingdom Parliament constituencies|parliamentary constituencies]] of [[Basildon (UK Parliament constituency)|Basildon]], [[Billericay (UK Parliament constituency)|Billericay]], [[Castle Point (UK Parliament constituency)|Castle Point]], [[Rochford (UK Parliament constituency)|Rochford]], [[Southend East (UK Parliament constituency)|Southend East]], [[Southend West (UK Parliament constituency)|Southend West]] and [[Thurrock (UK Parliament constituency)|Thurrock]].&lt;ref&gt;''The European Parliament 1994-1999 : MEPs and European constituencies in the United Kingdom'', London : UK Office of the European Parliament, November 1994.&lt;/ref&gt; Basildon, Billericay and Thurrock had previously been part of Essex South West while Castle Point, Southend East, Southend West and much of Rochford had been part of Essex North East.
+
+The entire area became part of the East of England constituency in 1999.
+
+==MEPs==
+
+{| class="wikitable"
+|-
+!colspan="2"|Election!!Member!!Party
+|-
+| colspan="4" align="center" | ''part of [[Essex South West (European Parliament constituency)|Essex South West]] and [[Essex North East (European Parliament constituency)|Essex North East]] prior to 1994''
+|-
+|style="background-color: {{Labour Party (UK)/meta/color}}" |
+| [[European Parliament election, 1994 (United Kingdom)|1994]]
+| [[Richard Howitt (politician)|Richard Howitt]]
+| [[Labour Party (UK)|Labour]]
+|-
+| colspan="2" align="center" | [[European Parliament election, 1999 (United Kingdom)|1999]] 
+| colspan="2" | ''constituency abolished, part of [[East of England (European Parliament constituency)|East of England]] from 1999''
+|}
+
+==Election results==
+
+{{Election box begin |
+  |title=[[European Parliament election, 1994 (United Kingdom)]]: Essex South&lt;ref&gt;''Europe elections 1994 : results and elected members'', Directorate-General for Information and Public Relations, Luxembourg: European Parliament, 15 June 1994.&lt;/ref&gt;
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = [[Richard Howitt (politician)|Richard Howitt]]
+  |votes      = 71,883
+  |percentage = 44.6
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Lionel Stanbrook
+  |votes      = 50,516
+  |percentage = 31.3
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Geoff Williams
+  |votes      = 26,132
+  |percentage = 16.2
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Party (UK, 1989)
+  |candidate  = Brian Lynch
+  |votes      = 6,780
+  |percentage = 4.2
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = George Rumens
+  |votes      = 4,691
+  |percentage = 2.9
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Natural Law Party
+  |candidate  = Mark Heath
+  |votes      = 1,177
+  |percentage = 0.7
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 21,367
+  |percentage = 13.2
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.election.demon.co.uk/ David Boothroyd's United Kingdom Election Results]
+
+{{European Parliament constituencies 1994-1999}}
+
+[[Category:Former European Parliament constituencies in England]]
+[[Category:Politics of Essex]]
+[[Category:1994 establishments in England]]
+[[Category:1999 disestablishments in England]]
+[[Category:Constituencies established in 1994]]
+[[Category:Constituencies disestablished in 1999]]
+
+{{UK-election-stub}}
+{{EU-stub}}</text>
+      <sha1>ctb1so7byg49qhbcd173kci2ikdwq8v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>European Monetary Cooperation Fund</title>
+    <ns>0</ns>
+    <id>21906521</id>
+    <revision>
+      <id>812691289</id>
+      <parentid>642761786</parentid>
+      <timestamp>2017-11-29T08:45:43Z</timestamp>
+      <contributor>
+        <username>Glentamara</username>
+        <id>1651658</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1369">{{Other uses|EMCF (disambiguation){{!}}EMCF}}
+{{EU history}}
+The '''European Monetary Cooperation Fund''' ('''EMCF''') was an institution and a fund established in 1973 by members of the [[European Exchange Rate Mechanism]] (ERM) of the [[European Union]] (EU) to stabilise exchange rates.&lt;ref&gt;{{cite web | title = Regulation establishing the European Monetary Cooperation Fund (3 April 1973) | url = http://www.cvce.eu/en/obj/regulation_establishing_the_european_monetary_cooperation_fund_3_april_1973-en-194a0fa1-deac-4b0c-b670-38f120ab643f.html | accessdate = 2015-01-16 | quote = On 3 April 1973, the Council adopts a Regulation establishing the European Monetary Cooperation Fund (EMCF). As Pierre Werner had envisaged in his ‘Report concerning the stage-by-stage implementation of economic and monetary union', the EMCF was initially placed under the authority of the governors of the central banks and was later to be integrated into a Community of central banks organisation}}&lt;/ref&gt; It was succeeded by the [[European Monetary Institute]] which is now part of the [[European Central Bank]].&lt;ref&gt;{{cite web | title = European Monetary Cooperation Fund | url = http://encyclopedia.farlex.com/European+Monetary+Cooperation+Fund | accessdate = 2009-03-10}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+{{Euro topics}}
+
+[[Category:Bodies of the European Union]]
+
+{{EU-stub}}</text>
+      <sha1>od0qyopkoig4g0myzdf59heeenfox1h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Frans Andriessen</title>
+    <ns>0</ns>
+    <id>2102279</id>
+    <revision>
+      <id>868318915</id>
+      <parentid>868187210</parentid>
+      <timestamp>2018-11-11T12:47:52Z</timestamp>
+      <contributor>
+        <username>ATX-NL</username>
+        <id>13460244</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9059">{{Use dmy dates|date=April 2011}}
+{{Infobox officeholder
+|honorific-prefix   = 
+|name               = Frans Andriessen
+|honorific-suffix   = &lt;small&gt;[[Order of the Netherlands Lion|KNL]] [[Order of Orange-Nassau|KGCON]]&lt;/small&gt;
+|image              = Frans Andriessen 1979 (1).jpg
+|imagesize          = 250px
+|caption            = Frans Andriessen in 1979
+|office             = [[European Commissioner for External Relations|European Commissioner for &lt;br/&gt; External Relations]] and [[European Commissioner for Trade|Trade]]
+|term_start	    = 6 January 1989
+|term_end           = 6 January 1993
+|president	    = [[Jacques Delors]]
+|predecessor	    = [[Willy De Clercq]]
+|successor          = [[Hans van den Broek]] &lt;br/&gt; &lt;small&gt;(External relations)&lt;/small&gt; &lt;br/&gt; [[Leon Brittan]] &lt;small&gt;(Trade)&lt;/small&gt;  
+
+|office1            = [[Vice-President of the European Commission#First Vice-President|First Vice-President of the &lt;br/&gt; European Commission]]
+|term_start1        = 6 January 1985
+|term_end1          = 6 January 1993
+|president1         = [[Jacques Delors]]
+|predecessor1       = [[Christopher Tugendhat]]
+|successor1         = [[Martin Bangemann]]
+
+|office2            = [[European Commissioner for Agriculture and Rural Development|European Commissioner for &lt;br/&gt; Agriculture]] and [[European Commissioner for Maritime Affairs and Fisheries|Fisheries]]
+|term_start2        = 6 January 1985
+|term_end2          = 6 January 1989
+|president2	    = [[Jacques Delors]]
+|predecessor2	    = [[Poul Dalsager]]
+|successor2         = [[Ray MacSharry]] &lt;small&gt;(Agriculture)&lt;/small&gt; &lt;br/&gt; [[Manuel Marin]] &lt;small&gt;(Fisheries)&lt;/small&gt; 
+
+|office3            = [[European Commissioner for Competition|European Commissioner for &lt;br/&gt; Parliamentary Relations and Competition]]
+|term_start3	    = 6 January 1981
+|term_end3	    = 6 January 1985
+|president3         = [[Gaston Thorn]]
+|predecessor3       = [[Raymond Vouel]]
+|successor3	    = [[Grigoris Varfis]] &lt;br/&gt; &lt;small&gt;(Parliamentary Relations)&lt;/small&gt; &lt;br/&gt; [[Peter Sutherland]] &lt;small&gt;(Competition)&lt;/small&gt;
+
+|office4            = [[Senate (Netherlands)|Member of the Senate]]
+|term_start4        = 16 September 1980
+|term_end4          = 6 January 1981
+|parliamentarygroup4= [[Catholic People's Party]] &lt;br/&gt; &lt;small&gt;(1980)&lt;/small&gt; &lt;br/&gt; [[Christian Democratic Appeal]] &lt;br/&gt; &lt;small&gt;(1980–1981)&lt;/small&gt;
+
+|office5            = [[List of Ministers of Finance of the Netherlands|Minister of Finance]]
+|term_start5	    = 19 December 1977
+|term_end5	    = 22 February 1980
+|primeminister5	    = [[Dries van Agt]]
+|predecessor5	    = [[Wim Duisenberg]]
+|successor5	    = [[Gijs van Aardenne]] &lt;small&gt;(''Ad interim'')&lt;/small&gt;
+
+|office6            = [[Catholic People's Party#Leaders|Leader of the Catholic People's Party]]
+|term_start6        = 1 October 1971
+|term_end6          = 25 May 1977
+|predecessor6       = [[Gerard Veringa]]
+|successor6         = ''Office abolished'' 
+
+|office7            = [[Parliamentary leader]] in the &lt;br/&gt; [[House of Representatives (Netherlands)|House of Representatives]]
+|term_start7        = 16 August 1971
+|term_end7          = 25 May 1977
+|predecessor7       = [[Gerard Veringa]]
+|successor7         = ''Office abolished'' 
+|parliamentarygroup7= [[Catholic People's Party]]
+
+|office8            = [[House of Representatives (Netherlands)|Member of the House of Representatives]]
+|term_start8        = 23 February 1967
+|term_end8          = 19 December 1977
+|parliamentarygroup8= [[Catholic People's Party]]
+
+|birthname          = Franciscus Henricus Johannes Joseph Andriessen
+|birth_date         = {{Birth date and age|1929|04|02|df=y}}
+|birth_place        = [[Utrecht]], [[Netherlands]]
+|death_date         = 
+|death_place        = 
+|nationality        = [[Netherlands|Dutch]]
+|party              = [[Christian Democratic Appeal]] &lt;br/&gt; &lt;small&gt;(from 1980)&lt;/small&gt;
+|otherparty         = [[Catholic People's Party]] &lt;br/&gt; &lt;small&gt;(until 1980)&lt;/small&gt;
+|spouse             = {{marriage|Catherine Andriessen|1959}}
+|children           = 
+|residence          = [[Utrecht]], [[Netherlands]]
+|alma_mater         = [[Utrecht University]] &lt;br/&gt; &lt;small&gt;([[Bachelor of Laws]], [[Master of Laws]])&lt;/small&gt;
+|occupation         = [[Politician]] · [[Civil service|Civil servant]] · [[Jurist]] · [[Research]]er · [[Professor]]
+|signature          = 
+|website            = 
+}}
+
+'''Franciscus Henricus Johannes Joseph "Frans" Andriessen''' (born 2 April 1929) is a retired [[Netherlands|Dutch]] politician of the [[Christian Democratic Appeal]] (CDA).
+
+In 1967 he was first elected to the [[House of Representatives of the Netherlands|House of Representatives]] for the [[Katholieke Volkspartij]] (KVP). From 1971 to 1977 he was leader of the KVP.&lt;ref&gt;[https://www.cda.nl/mensen/toon/frans-andriessen/ Biography on CDA website] {{webarchive|url=https://web.archive.org/web/20150427112400/https://www.cda.nl/mensen/toon/frans-andriessen/ |date=27 April 2015 }}&lt;/ref&gt; In 1977, the KVP merged with two protestant parties to form the Christen-Democratisch Appel (CDA). For the CDA, he served as [[Finance minister|Minister of Finance]] (1977–1980) and [[European Commissioner]] for Competition (1981-1985), Agriculture (1985-1989), and External Relations and Trade (1989–1993).&lt;ref&gt;[http://www.cvce.eu/en/collections/unit-content/-/unit/02bb76df-d066-4c08-a58a-d4686a3e68ff/bd9ec6da-ccd8-4e2d-b570-c1e855d2513c/Resources#19ab80a5-8188-422a-b1aa-6cbc0219ebee_en&amp;overlay Image on CVCE website]&lt;/ref&gt; He is one of few politicians to serve three consecutive terms as an EU Commissioner.&lt;ref&gt;{{cite web | url=https://www.politico.eu/article/national-beauty-contest-for-next-commission-chief/ | title=National beauty contest for next Commission chief | date=11 February 2004 | author=European Voice - Entre-Nous column | accessdate=10 November 2018 }}&lt;/ref&gt;
+
+==Decorations==
+{| class="wikitable" style="width:60%;"
+|- style="background:#ccf; text-align:center;"
+| colspan=5 |'''Honours'''
+|-
+! style="width:80px;"| Ribbon bar !! Honour !! Country !! Date !! Comment
+|-
+| [[File:NLD Order of the Dutch Lion - Knight BAR.png|80px]]
+| [[Order (distinction)|Knight]] of the [[Order of the Netherlands Lion]]
+| Netherlands
+| 15 May 1980
+| 
+|-
+| [[File:BEL Order of Leopold II - Grand Cross BAR.png|80px]]
+| [[Grand Cross]] of the [[Order of Leopold II]]
+| [[Belgium]]
+| 15 December 1990
+| 
+|-
+| [[File:NLD Order of Orange-Nassau - Knight Grand Cross BAR.png|80px]]
+| [[Grand Cross|Knight Grand Cross]] of the [[Order of Orange-Nassau]]
+| Netherlands
+| 30 April 1993
+| 
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+
+;Official
+* {{nl icon}} [https://www.parlement.com/id/vg09lkxehrzx/f_h_j_j_frans_andriessen Mr. F.H.J.J. (Frans) Andriessen] Parlement &amp; Politiek
+* {{nl icon}} [https://www.eerstekamer.nl/persoon/mr_f_h_j_j_andriessen_cda Mr. F.H.J.J. Andriessen (CDA)] Eerste Kamer der Staten-Generaal
+
+{{s-start}}
+{{s-ppo}}
+{{s-bef|before=[[Gerard Veringa]]|rows=2}} 
+{{s-ttl|title=[[Parliamentary leader]] of the &lt;br/&gt; [[Catholic People's Party]] in the &lt;br/&gt; [[House of Representatives (Netherlands)|House of Representatives]]|years=1971–1977}} 
+{{s-aft|after=''Office abolished''|rows=2}}
+{{s-ttl|title=[[Catholic People's Party#Leaders|Leader of the Catholic People's Party]]|years=1971–1977}} 
+{{s-off}}
+{{s-bef|before=[[Wim Duisenberg]]}} 
+{{s-ttl|title=[[List of Ministers of Finance of the Netherlands|Minister of Finance]]|years=1977–1980}} 
+{{s-aft|after=[[Gijs van Aardenne]] &lt;br/&gt; &lt;small&gt;''Ad interim''&lt;/small&gt;}}
+{{s-bef|before=[[Henk Vredeling]]}} 
+{{s-ttl|title=[[List of European Commissioners by nationality#Netherlands|European Commissioner &lt;br/&gt; from the Netherlands]]|years=1981–1993}} 
+{{s-aft|after=[[Hans van den Broek]]}}
+{{s-end}}
+
+{{European Commissioner for Trade}}
+{{European Commissioner for External Relations}}
+{{European Commissioner for Competition}}
+{{Ministers of Finance of the Netherlands}}
+{{First Van Agt cabinet}}
+{{Authority control}}
+
+{{DEFAULTSORT:Andriessen, Frans}}
+[[Category:1929 births]]
+[[Category:Living people]]
+[[Category:Catholic People's Party politicians]]
+[[Category:Christian Democratic Appeal politicians]]
+[[Category:Dutch academic researchers]]
+[[Category:Dutch civil servants]]
+[[Category:Dutch European Commissioners]]
+[[Category:Dutch legal scholars]]
+[[Category:Dutch jurists]]
+[[Category:Dutch Roman Catholics]]
+[[Category:First Vice-Presidents of the European Commission]]
+[[Category:Leaders of the Catholic People's Party]]
+[[Category:Members of the House of Representatives (Netherlands)]]
+[[Category:Members of the Senate (Netherlands)]]
+[[Category:Ministers of Finance of the Netherlands]]
+[[Category:Knights Grand Cross of the Order of Orange-Nassau]]
+[[Category:Knights of the Order of the Netherlands Lion]]
+[[Category:Recipients of the Grand Cross of the Order of Leopold II]]
+[[Category:People from Utrecht (city)]]
+[[Category:Utrecht University alumni]]
+[[Category:Utrecht University faculty]]
+[[Category:20th-century Dutch politicians]]
+
+{{Netherlands-CDA-politician-stub}}
+{{EU-org-bio-stub}}</text>
+      <sha1>915qmqzk7hq0f0d7fyyrdnm8iatga8t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Garde champêtre</title>
+    <ns>0</ns>
+    <id>3412669</id>
+    <revision>
+      <id>791234607</id>
+      <parentid>785485451</parentid>
+      <timestamp>2017-07-18T23:58:28Z</timestamp>
+      <contributor>
+        <username>Calliopejen1</username>
+        <id>4045206</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/Ettrig|Ettrig]] ([[User talk:Ettrig|talk]]) to last version by Creuzbourg</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3402">{{Expand French|Garde champêtre en France|date=October 2013}}
+{{Refimprove|date=March 2016}}
+[[File:Ecusson des GCT.jpg|thumb|Garde champêtre patch]]
+[[File:ZOE Police Rurale.jpg|thumb|Renault électrique "Zoé" of the police rurale]]
+
+A '''''garde champêtre''''' ({{lang-fr|lit. rural guard}}) is the combination of a [[forest ranger]], [[game warden]] and [[police officer]] in certain rural communes in [[France]]. 
+==Organization==
+Their job is to report to the local [[mayor]]. Many of these officers carry firearms (they commonly face poachers, many of whom are themselves armed) and other weapons. Mayors decide which weapons to provide them with, but ''gardes champêtres'' can purchase, retain and carry a much wider range of weapons than the urban police [[Municipal Police (France)|(''police municipale)'']] are allowed. They are not under the supervision of the [[French Gendarmerie|Gendarmerie]] but under the mayor's, their employer.
+
+==History and future development==
+From 1791 to 1958 it was compulsory for each rural commune to employ a ''garde champêtre''. Since then many formerly rural communes are heavily or totally urbanised and the number in post has been shrinking every year. A draft law in 2014,&lt;ref&gt;{{cite web|url=http://www.legifrance.gouv.fr/affichLoiPreparation.do;jsessionid=727BB060B2116F04650F4E7247A65511.tpdjo09v_2?idDocument=JORFDOLE000029098353&amp;type=general&amp;typeLoi=prop&amp;legislature=14 |title=Dossiers législatifs - Proposition de loi visant à créer des polices territoriales et portant dispositions diverses relatives à leur organisation et leur fonctionnement |language=fr |website=Legifrance |date= |accessdate=2016-03-15}}&lt;/ref&gt; provided for the integration of the remaining ''gardes champêtres'' with the ''police municipale'' and the highway control officers (''agents de surveillance de la voie publique'') into a new ''police territoriale''.
+==Uniforms and rank insignia==
+[[File:Pucelle métallique.png|thumb|Metal badge]][[File:Ecusson garde champetre territorial.jpg|thumb|200px|Cloth patch]]
+Their uniforms are not regulated and are at the mayor's discretion; they are traditionally green. The only compulsory element of their dress is a metal badge or cloth patch bearing the words: "LA LOI" (the law), the name of the commune and that of the ''garde champêtre''.&lt;ref&gt;{{cite web|url=http://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=2AF5BC1E2DD5600D61335543BB150989.tpdjo07v_2?cidTexte=LEGITEXT000025503132&amp;idArticle=LEGIARTI000028286220&amp;dateTexte=20140223&amp;categorieLien=cid#LEGIARTI000028286220 |title=Code de la sécurité intérieure - Article R522-1 |language=fr |website=Legifrance |date= |accessdate=2016-03-15}}&lt;/ref&gt; They cannot legally wear the dress attributed to the ''police municipale'' (marine blue with a clear blue trimming).
+
+[[File:Grades GC.jpg|thumb|center|400px|Rank insignia from left to right : &lt;br&gt;''Garde Champêtre principal stagiaire&lt;br&gt;Garde Champêtre principal titulaire&lt;br&gt;Garde Champêtre chef&lt;br&gt;Garde Champêtre chef principal'']]
+{{-}}
+==See also==
+*[[Council ranger]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://perso.wanadoo.fr/fngc/ Website of the federation of French gardes champêtres] {{fr}} 
+{{Commons category|Garde-Champêtre}}
+
+{{Law enforcement agencies of France}}
+
+{{DEFAULTSORT:Garde champetre}}
+[[Category:Law enforcement agencies of France]]
+
+
+{{Europe-law-stub}}</text>
+      <sha1>6wep9btcwvmluteddc1qukep8oukyjz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gildo Pastor Center</title>
+    <ns>0</ns>
+    <id>45043370</id>
+    <revision>
+      <id>862165061</id>
+      <parentid>805672087</parentid>
+      <timestamp>2018-10-02T15:51:15Z</timestamp>
+      <contributor>
+        <username>JC7V7DC5768</username>
+        <id>34198373</id>
+      </contributor>
+      <comment>add</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3040">{{Infobox building
+|name               = Gildo Pastor Center
+|image              = 
+|location           = 7, Rue du Gabian, Fontvieille, Monaco
+|coordinates        = {{coord|43.729498|7.414689|display=it}}
+|status             = Complete
+|start_date         = 
+|completion_date    = 
+|building_type      = 
+|architectural_style = Modernist
+|roof               = 
+|floor_count        = 12
+|elevator_count     = 
+|cost               = 
+|floor_area         = 
+|architect          = 
+|structural_engineer=
+|main_contractor    = 
+|developer          =
+|owner              = 
+|management         =
+|references         = 
+}}
+The '''Gildo Pastor Center''' is a high-rise commercial building in [[Monaco]].
+
+==Location==
+It is located at number 7 on the Rue du Gabian in [[Fontvieille, Monaco]].&lt;ref name="emporiscenter"&gt;[http://www.emporis.com/building/gildopastorcenter-monaco-monaco Gildo Pastor Center], [[Emporis]]&lt;/ref&gt;
+
+==History==
+The construction of the building was carried out by Monegasque heir [[Gildo Pallanca Pastor]].&lt;ref name="venturi"&gt;[http://en.venturi.fr/corporate/presentation/gildo-pallanca-pastor Venturi: Gildo Pallanca Pastor]&lt;/ref&gt; The building was owned by his mother, heiress [[Hélène Pastor]].&lt;ref name="helenepastorpallanca"&gt;[http://www.hpp.mc/groupe.html Hélène Pastor Pallanca: Le Gildo Pastor Center] {{webarchive|url=https://web.archive.org/web/20150127084202/http://www.hpp.mc/groupe.html |date=2015-01-27 }}&lt;/ref&gt; It was named in honor of her father, [[Gildo Pastor]].&lt;ref name="venturi"/&gt; It served as the headquarters of her eponymous real estate company.&lt;ref&gt;[http://www.chambre-immo.monte-carlo.mc/en/listing/197-gildo-pastor-center/ Chambre Immobilière Monégasque: Gildo Pastor Center]&lt;/ref&gt;
+
+It is 125.82 ft. high, with twelve storeys.&lt;ref name="emporiscenter"/&gt; It was built with concrete and designed in the [[modernist architecture|modernist]] architectural style.&lt;ref name="emporiscenter"/&gt; Underneath the building, there are three flights of underground parking, with 900 parking spaces.&lt;ref name="emporiscenter"/&gt;&lt;ref name="helenepastorpallanca"/&gt; 
+
+The building is home to a restaurant named ''Le Bureau''.&lt;ref name="helenepastorpallanca"/&gt; It is also rented out as corporate offices to companies such as [[Gestion Maritime]].&lt;ref name="helenepastorpallanca"/&gt;&lt;ref&gt;{{cite web |title=Gestion Maritime S.A.M |url=https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=546343996 |website=Bloomberg |publisher=Bloomberg |accessdate=2 October 2018}}&lt;/ref&gt; For example, it houses the offices of [[Avinco]], a helicopter company, [[Oceanco]], a yacht retailer, and [[GasLog]], a shipping company.&lt;ref&gt;[http://www.avinco.net/helicopters/news/we've-moved!.html Avinco: We've moved!]&lt;/ref&gt;&lt;ref&gt;[http://www.oceancoyacht.com/contact Oceanco: Contact]&lt;/ref&gt;&lt;ref&gt;[http://www.gaslogltd.com/contact GasLog: Contact]&lt;/ref&gt; 
+
+==References==
+{{Reflist}}
+
+[[Category:Commercial buildings in Monaco]]
+[[Category:Modernist architecture in Monaco]]
+[[Category:Pastor family]]
+
+
+{{Monaco-struct-stub}}</text>
+      <sha1>ltmt4lg7f96ewqoslbb8vthjtq0dby8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gotta Thing About You</title>
+    <ns>0</ns>
+    <id>53295875</id>
+    <revision>
+      <id>838132423</id>
+      <parentid>820666422</parentid>
+      <timestamp>2018-04-25T03:47:28Z</timestamp>
+      <contributor>
+        <username>Hiddenstranger</username>
+        <id>11241628</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2939">{{Infobox single &lt;!-- See Wikipedia:WikiProject_Songs --&gt;
+| Name        = Gotta Thing About You
+| Cover       = FO&amp;O_-_Gotta_Thing_About_You.jpg
+| Artist      = [[FO&amp;O]]
+| from Album  = FO&amp;O
+| Released    = 26 February 2017
+| Format      = [[Music download|Digital download]]
+| Recorded    = 2016
+| Genre       = {{Hlist|[[Electropop]]}}
+| Length      = 2:56
+| Label       = Artist House Stockholm
+| Writer      = {{hlist|[[Robert John "Mutt" Lange|Robert "Mutt" Lange]]|[[Tony Nilsson]]}}
+| Producer    = 
+| Last single = "[[Who Doesn't Love Love]]"&lt;br/&gt;(2016)
+| This single = "'''Gotta Thing About You'''"&lt;br/&gt;(2017)
+| Next single = "[[So So Good]]"&lt;br/&gt;(2017)
+| Misc        = 
+}}
+"'''Gotta Thing About You'''" is a song recorded by Swedish boyband [[FO&amp;O]]. The song was released as a digital download in [[Sweden]] on 26 February 2017 and peaked at number 10 on the [[Sverigetopplistan|Swedish Singles Chart]]. It is taking part in [[Melodifestivalen 2017]], and qualified to andra chansen from the third semi-final on 18 February 2017. The song qualified from andra chansen on 4 March 2017. It was written by [[Robert John "Mutt" Lange|Robert "Mutt" Lange]] and [[Tony Nilsson]].&lt;ref&gt;{{cite web|url=https://eurovoix.com/2017/02/18/two-artists-qualify-melodifestivalen-final/|title=TWO MORE ARTISTS QUALIFY TO THE MELODIFESTIVALEN FINAL|date=18 February 2017|publisher=Eurovoix|website=eurovoix.com|author=The NPBC}}&lt;/ref&gt;
+
+==Track listing==
+{{Track listing
+| headline = Digital download&lt;ref&gt;{{cite web|url=https://itunes.apple.com/se/album/gotta-thing-about-you-single/id1203207237|title=Gotta Thing About You - Single|publisher=iTunes|accessdate=23 February 2017}}&lt;/ref&gt;
+| title1  = Gotta Thing About You
+| length1 = 2:56
+}}
+
+==Charts==
+===Weekly charts===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! Chart (2017)
+! Peak&lt;br/&gt;position
+|-
+! scope="row"| Sweden ([[Sverigetopplistan]])&lt;ref&gt;{{cite web|url=http://www.sverigetopplistan.se/|title=Sverigetopplistan - Sveriges Officiella Topplista|publisher=[[Sverigetopplistan]]|accessdate=18 March 2017}}&lt;/ref&gt;
+| 7
+|}
+
+===Year-end charts===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! Chart (2017)
+! Position
+|-
+! scope="row"| Sweden (Sverigetopplistan)&lt;ref&gt;{{cite web|url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/lista?liid=43&amp;dfom=20170001|title=Årslista Singlar – År 2017|publisher=[[Sverigetopplistan]]|language=Swedish|accessdate=16 January 2018}}&lt;/ref&gt;
+| 97
+|}
+
+==Release history==
+{| class=wikitable
+! Region
+! Date
+! Format
+! Label
+|-
+| [[Sweden]]
+| 26 February 2017
+| [[Music download|Digital download]]
+| Artist House Stockholm
+|-
+|}
+
+==References==
+{{Reflist}}
+
+[[Category:2017 singles]]
+[[Category:2016 songs]]
+[[Category:Melodifestivalen songs of 2017]]
+[[Category:FO&amp;O songs]]
+[[Category:Songs written by Tony Nilsson]]
+[[Category:Songs written by Robert John "Mutt" Lange]]
+{{Sweden-stub}}
+{{2010s-single-stub}}</text>
+      <sha1>6gytm2jpyi0aaij9m73vwtiqg3gj4ut</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Iberian Plate</title>
+    <ns>0</ns>
+    <id>24816163</id>
+    <revision>
+      <id>864303529</id>
+      <parentid>864303447</parentid>
+      <timestamp>2018-10-16T11:29:37Z</timestamp>
+      <contributor>
+        <username>Pbsouthwood</username>
+        <id>10044298</id>
+      </contributor>
+      <comment>/* See also */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14180">{{short description|Small tectonic plate now part of the Eurasian plate}}
+[[Image:Astrobleme Europe.jpg|thumb|right|[[Euramerica]] (Late [[Triassic]], [[Norian]], 220&amp;nbsp;Ma, in French). Translation: [[Laurentia]], [[Greenland]], [[Fennoscandian Shield]], [[West African craton|Saharan Shield]], Iberian plate, Irish plate, Scottish plate, [[Massif Central]], [[Armorican Massif]], ''L'&amp;nbsp;Ardenne'', Bohemian terrane,  [[Rochechouart crater]] ('Impact') and [[Tethys Ocean]].]]
+[[Image:Hercynian structures Europe-en.svg|thumb|right|Most important structures and zones of the [[Hercynian orogeny]] in Europe.&lt;ref&gt;Map is based on Franke (1992, 2000), Matte (2001), von Raumer ''et al.'' (2003) and Walter (2003)&lt;/ref&gt;]]
+
+The '''Iberian Plate''' with the [[microcontinent]] [[Iberia]] encompassed not only the [[Iberian Peninsula]] but also [[Corsica]], [[Sardinia]], the [[Balearic Islands]], and the [[Briançonnais zone]] of  the [[Penninic nappes]] of the [[Alps]]. Nowadays, the Iberian plate is a part of the Eurasian plate.&lt;ref&gt;{{Cite web|url=http://pages.unibas.ch/earth/tecto/Members/Schmid/alps/schmid_html/Text_Schmid.html |title=Description of the Western and Central Alps |first=Stefan M. |last=Schmid |publisher=Geologisch-Paläontologisches Institut, University of Basel |deadurl=yes |archiveurl=https://web.archive.org/web/20051219072231/http://pages.unibas.ch/earth/tecto/Members/Schmid/alps/schmid_html/Text_Schmid.html |archivedate=2005-12-19 |df= }}&lt;/ref&gt;{{Sfn|Le Bayon|Ballèvre|2006}}
+
+==Neoproterozoic==
+The Iberian plate came into existence during the [[Cadomian Orogeny]] of the late Neoproterozoic, about 650–550&amp;nbsp;[[Annum|Ma]], on the margin of the [[Gondwana]] continent, involving the collisions and [[Accretion (geology)|accretion]] of the [[island arcs]] of the [[Central Iberian Zone|Central Iberian Plate]], [[Ossa-Morena Zone|Ossa-Morena Plate]], [[South Portuguese Zone|South Portuguese Plate]]. The three plates have never separated substantially from each other since that time {{Harv|López-Guijarro|Armendáriz|Quesada|Fernández-Suárez|2008}}.
+
+==Mesozoic==
+In the Mesozoic, Late Jurassic Africa started moving east, and the [[Alpine Tethys]] opened. Subsidence related to this caused deep deposits of sediments on the east and some sediment remnants in [[pop downs]] in central parts of Spain. Two stages of rifting occurred in the east, one from Later [[Permian]] to Triassic, and the second from Late Jurassic to early Cretaceous.
+
+On the south side deposits of carbonates and clastic sediments formed a shelf in shallow water during late Triassic and [[Lias Group|Liassic]] times. This was rifted in [[Toarcian]] times (Early Jurassic 190&amp;nbsp;Ma). Active rifting was complete by 160&amp;nbsp;Ma. After this [[thermal subsidence]] occurred till the end of Cretaceous.  During this time rifting separated North America from Africa forming a transform zone {{Harv|Andeweg|2002}}. In the late [[Triassic]] and early [[Jurassic]] there were two stages of rifting involving extension and subsidence on the western margin of Iberia.  It also extended the western margin. The [[Iberian Abyssal Plain]], off the west coast of Portugal and Spain, formed 126&amp;nbsp;Ma. This separated [[Newfoundland and Labrador|Newfoundland]]'s [[Grand Banks]], with [[Galicia Bank]] and [[Flemish Cap]] being split at 118&amp;nbsp;Ma. By Early [[Cretaceous]], 110&amp;nbsp;Ma rifting occurs on west and north west edges.
+
+During the time of the [[supercontinent]] [[Pangea]], the Iberian plate was joined to [[Armorican terrane|Armorica]] (Northern France). During the break-up of Pangea, in the early Cretaceous, the [[Bay of Biscay]] started opening around 126&amp;nbsp;Ma and completed by 85&amp;nbsp;Ma. This created the [[Biscay Abyssal Plain]], and parted the Iberian plate from the [[Trevelyan Escarpment]]. During this time Iberia rotated anticlockwise relative to Eurasia.  This caused the subduction of the Ligurian Basin onto the eastern side.  This formed the [[Betic nappe stack]].  After 85&amp;nbsp;Ma the Atlantic Ocean opening started between [[Ireland]] and [[Greenland]]. This left the Bay of Biscay as a failed rift {{Harv|Andeweg|2002}}.
+
+==Cenozoic==
+The rotation of the Iberia and its relation to the formation of the [[Pyrenees]] has been difficult to decipher with certainty. Detailed aeromagnetic measurements from the sea floor offshore of the Grand Banks of Newfoundland to show that Iberia moved as part of the African plate from late Cretaceous to mid-[[Eocene]] time, with a plate boundary extending westward from the Bay of Biscay. When motion along this boundary ceased, a boundary linking extension in the [[King's Trough]] to compression along the Pyrenees came into existence.{{Sfn|Andeweg|2002}}{{Sfn|Srivastava|Schouten|Roest|Klitgord1990}}
+
+Since the late [[Oligocene]], the Iberian plate has been moving as part of the Eurasian plate, with the boundary between Eurasia and Africa situated along the [[Azores–Gibraltar fracture zone]].{{Sfn|Srivastava|Schouten|Roest|Klitgord1990}}{{Sfn|Le Pichon|Sibuet|1971}}{{Sfn|Le Pichon|Sibuet|Francheteau|1971}}{{Sfn|Sclater|Hellinger|Tapscott|1977}}&lt;ref&gt;{{cite journal |author1=Grimaud, S. |author2=Boillot, G. |author3=Collette, B.J. |author4=Mauffret, A. |author5=Miles |author6=P.R. |author7=Roberts, D.B. |journal=Marine Geology |title=Western extension of the Iberian-European plate-boundary during early Cenozoic (Pyrenean) convergence: a new model |volume=45 |issue=1–2 |pages=63–77 |date=January 1982 |doi=10.1016/0025-3227(82)90180-3 |bibcode=1982MGeol..45...63G }}&lt;/ref&gt;&lt;ref&gt;{{Cite journal |title=Western extension of the Iberian-European plate boundary during the Early Cenozoic (Pyrenean) convergence: A new model — Comment |author1=JL Olivet |author2=JM Auzende |author3=P Beuzart |journal=Marine Geology |volume=53 |issue=3 |pages=237–238 |date=September 1983 |doi=10.1016/0025-3227(83)90078-6 |bibcode=1983MGeol..53..237O }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author1=S. Grimaud |author2=G. Boillot |author3=B.J. Collette |author4=A. Mauffret |author5=P.R. Miles |author6=D.B. Roberts |title=Western extension of the Iberian-European plate boundary during the Early Cenozoic (Pyrenean) convergence: A new model — Reply |journal=Marine Geology |volume=53 |issue=3 |pages=238–239 |date=September 1983 |doi=10.1016/0025-3227(83)90079-8|bibcode=1983MGeol..53..238G }}&lt;/ref&gt;{{Sfn|Olivet|Bonnin|Beuzart|Auzende|1984}}{{Sfn|Schouten|Srivastava|Klitgord|1984}}{{Sfn|Savostovin|Sibuet|Zonenshain|Le Pichon|1986}}
+
+Continued rotation of the Iberian plate in the early [[Miocene]] once again separated the Iberian plate from Eurasia opening the [[Betic Corridor]] a strait of water connecting the [[Mediterranean Sea]] with the [[Atlantic Ocean]].{{Sfn|Martín|Braga|Aguirre|Puga-Bernabéu|2009}}{{Sfn|Seber|Barazangi|Ibenbrahim|Demnati|1996}} As the Iberian plate rotated, it closed the Betic Corridor approximately 5.96 million years ago during the [[Messinian]] period of the Miocene, precipitating the [[Messinian Salinity Crisis]], a period when the Mediterranean Sea evaporated partly or completely {{Harv|Krijgsman|Garcés|Langereis|Daams|1996}}.
+
+==Iberian geology==
+{{Main article|Geology of the Iberian Peninsula}}
+The core of the Iberian Peninsula consists of a [[Hercynian]] [[craton]]ic block known as the Iberian Massif. On the northeast this is bounded by The [[Pyrenees|Pyrenean fold belt]], and on the southeast it is bounded by the [[Baetic Cordillera|Betic Foldchain]]. These twofold chains are part of the [[Geology of the Alps|Alpine belt]]. To the west, the peninsula is delimited by the continental boundary formed by the [[magma]] poor opening of the [[Atlantic Ocean]]. The Hercynian Foldbelt is mostly buried by Mesozoic and Tertiary cover rocks to the east, but nevertheless outcrops through the [[Iberian Chain]] and the [[Catalonia|Catalan]] Coastal Ranges.
+
+==See also==
+*{{annotated link|List of tectonic plates}}
+
+==Bibliography==
+
+===Notes===
+{{reflist}}
+
+===References===
+{{refbegin}}
+
+* {{cite thesis |first=Bernd |last=Andeweg |url=http://www.geo.vu.nl/~andb/iberia/index-en.html |title=Cenozoic tectonic evolution of the Iberian Peninsula, causes and effects of changing stress fields |type=PhD Thesis |publisher=Vrije Universiteit Amsterdam |year=2002 |ref=CITEREFAndeweg2002 }}
+* {{cite journal |title=Deformation history of a subducted continental crust (Gran Paradiso, Western Alps): continuing crustal shortening during exhumation |journal=Journal of Structural Geology |doi=10.1016/j.jsg.2006.02.009 |volume=28 |issue=5 |date=May 2006 |pages=793–815 |author1=Benjamin Le Bayon |author2=Michel Ballèvre |publisher=[[Journal of Structural Geology]] |ref=CITEREFLe BayonBallèvre2006 |bibcode = 2006JSG....28..793L }}
+* {{cite journal |author1=Krijgsman, W. |author2=Garcés, M. |author3=Langereis, C.G. |author4=Daams, R. |author5= Van Dam, J.; Van Der Meulen, A.J.; Agustí, J.; Cabrera, L.| year=1996| title=A new chronology for the middle to late Miocene continental record in Spain| journal=Earth and Planetary Science Letters| volume=142| issue=3–4| pages=367–380| url=http://doc.rero.ch/lm.php?url=1000,43,39,20091210000225-ZZ/PAL_E203.pdf | accessdate = 2008-03-01| doi=10.1016/0012-821X(96)00109-4 |ref=CITEREFKrijgsmanGarcésLangereisDaams1996 | bibcode=1996E&amp;PSL.142..367K}}
+* {{cite journal |title=Ediacaran–Palaeozoic tectonic evolution of the Ossa Morena and Central Iberian zones (SW Iberia) as revealed by Sm–Nd isotope systematics |author=Rafael López-Guijarro, Maider Armendáriz, Cecilio Quesada, Javier Fernández-Suárez |author2=J. Brendan Murphy |author3=Christian Pin |author4=Felix Bellido  |journal=[[Tectonophysics (journal)|Tectonophysics]] |volume=461 |issue=1–4|date=December 2008 |pages=202–214 |doi=10.1016/j.tecto.2008.06.006 |ref=CITEREFLópez-GuijarroArmendárizQuesadaFernández-Suárez2008 |bibcode = 2008Tectp.461..202L }}
+* {{cite journal |title=History and evolution of the North-Betic Strait (Prebetic Zone, Betic Cordillera): A narrow, early Tortonian, tidal-dominated, Atlantic–Mediterranean marine passage |author1=José M. Martín |author2=Juan C. Braga |author3=Julio Aguirre |author4=Ángel Puga-Bernabéu |doi=10.1016/j.sedgeo.2009.01.005 |journal=[[Sedimentary Geology (journal)|Sedimentary Geology]] |volume=216 |issue=3–4 |date=15 April 2009 |pages=80–90 |ref=CITEREFMartínBragaAguirrePuga-Bernabéu2009 |bibcode=2009SedG..216...80M}}
+* {{cite journal |author=Olivet, J.L., Bonnin, J., Beuzart, Paul &amp; Auzende, Jean-Marie |journal=Publication du Centre National pour I'Exploitation des Ocean (Cnexo) |series=Rapports scientifiques et techniques |title=Cinématique de l'Atlantique Nord et Central |language=french |trans-title=Kinematics of the North and Central Atlantic |url=http://archimer.ifremer.fr/doc/1984/publication-7439.pdf |location=Paris |pages=1–108 |volume=54 |publisher=Centre Oceanologique de Bretagne, Brest |date=October 1984 |ref=CITEREFOlivetBonninBeuzartAuzende1984}}
+* {{cite journal |last=Le Pichon |first=X. |last2=Sibuet |first2=J.C. |title= Western extension of boundary between European and Iberian plates during the Pyrenean orogeny |journal= [[Earth and Planetary Science Letters]] |volume=12 |issue=1 |pages=83–88 |date=September 1971 |authorlink=Xavier Le Pichon |ref=CITEREFLe PichonSibuet1971 |doi= 10.1016/0012-821X(71)90058-6 |bibcode= 1971E&amp;PSL..12...83L}}
+* {{cite journal |doi=10.1016/0040-1951(77)90210-4 |author=Le Pichon, X., Sibuet, J. C. &amp; Francheteau, J. |title=The fit of the continents around the North Atlantic Ocean |journal=[[Tectonophysics (journal)|Tectonophysics]] |volume=38 |issue=3–4 |pages=169–209 |date=23 March 1977 |ref=CITEREFLe PichonSibuetFrancheteau1977|bibcode = 1977Tectp..38..169L }}
+* {{Cite journal |title=The Western Iberia Margin: A Geophysical and Geological Overview
+|author1=L.M. Pinheiro |author2=R.C.L. Wilson |author3=R. Pena dos Reis |author4=R.B. Whitmarsh |author5=A. Ribeiro |year=1996 |volume=149 |pages=3–23 |journal=Proceedings of the Ocean Drilling Program. Scientific results    |issn=0884-5891 |url=http://odp.pangaea.de/publications/149_SR/VOLUME/CHAPTERS/SR149_01.PDF }}
+* {{cite journal |doi=10.1016/0040-1951(86)90192-7 |author=Savostovin, L. A., Sibuet, J. C., Zonenshain, L. P., Le Pichon, X. &amp; Roulet, M. J. |title=Kinematic evolution of the Tethys belt from the Atlantic ocean to the pamirs since the Triassic |journal=Tectonophysics |volume=123 |pages=1–35 |year=1986 |ref=CITEREFSavostovinSibuetZonenshainLe Pichon1986 |bibcode = 1986Tectp.123....1S }}
+* {{cite journal |author1= Schouten, H. | author2= Srivastava, S. P. | author3 = Klitgord, K. |title= Iberian plate kinematics: jumping plate boundaries, an alternative to ball-bearing tectonics |journal= Trans. Am. Geophys. Union |volume=65 |page=190 |year=1984 |ref=CITEREFSchoutenSrivastavaKlitgord1984}}
+* {{cite journal |doi=10.1086/628336 |author1=Sclater, J. G. | author2= Hellinger, S. | author3= Tapscott, C. R. J. |title=Paleobathymetry Of Atlantic Ocean From Jurassic To Present |journal=[[Journal of Geology]] |volume=85 |issue=5 |pages=509–552 |year=1977 |issn=0022-1376 |ref=CITEREFSclaterHellingerTapscott1977 |bibcode=1977JG.....85..509S}}
+* {{cite journal |author1=Seber, D. |author2=Barazangi, M. |author3=Ibenbrahim, A. |author4=Demnati, A. |year=1996 |title=Geophysical evidence for lithospheric delamination beneath the Alboran Sea and Rif—Betic mountains |journal=Nature |volume=379 |issue=6568 |pages=785–790 |doi=10.1038/379785a0 |ref=CITEREFSeberBarazangiIbenbrahimDemnati1996|bibcode = 1996Natur.379..785S }}
+* {{cite journal |author=S.P. Srivastava, H. Schouten, W.R. Roest, K.D. Klitgord |author2=L.C. Kovacs |author3=J. Verhoef |author4=R. Macnab |title=Iberian plate kinematics: a jumping plate boundary between Eurasia and Africa |date=19 April 1990 |pages=756 |journal=[[Nature (journal)|Nature]] |volume=344 |ref=CITEREFSrivastavaSchoutenRoestKlitgord1990 |doi=10.1038/344756a0 |issue=6268|bibcode = 1990Natur.344..756S }}
+
+{{refend}}
+
+{{Tectonic plates}}
+{{Geology of Europe}}
+
+[[Category:Tectonic plates]]
+[[Category:Geology of the Alps]]
+[[Category:Historical continents]]</text>
+      <sha1>shq5bfvyw09kp3yxofs0x0vm7hh5546</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Insects (album)</title>
+    <ns>0</ns>
+    <id>25293744</id>
+    <revision>
+      <id>865017550</id>
+      <parentid>804191499</parentid>
+      <timestamp>2018-10-21T04:21:22Z</timestamp>
+      <contributor>
+        <username>Zackmann08</username>
+        <id>15881234</id>
+      </contributor>
+      <comment>fixing deprecated params</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3710">{{Use dmy dates|date=July 2013}}
+{{Infobox album
+| name       = Insects
+| type       = studio
+| artist     = [[Breed 77]]
+| cover      = Breed77 Insects.jpg
+| alt        =
+| released   = 16 November 2009
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Alternative metal]], [[flamenco music]]
+| length     = 01:03:04
+| label      = [[LaRocka Records]]
+| producer   =
+| prev_title = [[Un Encuentro]]
+| prev_year  = 2007
+| next_title =
+| next_year  =
+}}
+
+'''Insects''' is a 2009 album released by [[Gibraltarian people|Gibraltarian]] [[flamenco]]/[[metal music|metal]] quintet [[Breed 77]].
+
+It was released on 16 November 2009&lt;ref&gt;{{cite web |url=https://www.amazon.co.uk/dp/B002SZQYY6 |title=Amazon UK album page }}&lt;/ref&gt; on LaRocka Records and contains 12 songs, including 2 bonus tracks.
+Breed 77 headlined a United Kingdom tour in support of the album in November 2009, titled "''The Insects Are Here''" tour. Support acts were Symphony Cult and Our Malevolent Tyranny. Cars On Fire also supported the band on some of the tour dates as well. In December 2009 the band are also touring in support of the album in Spain.
+
+"The Battle of Hatin" was available as a free download from their website prior to the release of ''Insects''.
+
+''Wake Up'' was the first single released from the album, and a music video, directed by Mario Ruiz has been produced.&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=zijMHn5q6fA |title=''Wake Up'' |publisher=[[YouTube]]}}&lt;/ref&gt;
+[[Zombie (song)#Cover versions|Zombie]] is to be released as a single around March 2010, and a music video has been produced.&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=XJFmh6W1Jjo |title=''Zombie'' |publisher=YouTube}}&lt;/ref&gt;
+
+The album was given an international re-release in May and June 2010, with [[Breed 77]] signing a worldwide deal with earMusic / Edel GmbH. The re-released version of the album comes packaged in a [[digipak]], with an extra bonus track 'Save Us', which also featured on the 'Wake Up' single. As well as this, the [[iTunes]] version of the earMusic release of the album features a previously unreleased track entitled 'Missing Me'.
+
+==Track listing==
+#"Wake Up" - 4:33
+#"The Battle of Hatin'" - 5:40
+#"Revolution on My Mind" - 4:25
+#"Insects" - 6:04
+#"Who I Am" - 5:15
+#"New Disease" - 4:19
+#"One More Time" - 4:02
+#"In the Temple of Ram: Rise of the Bugs" - 5:41
+#"Forever" - 4:38
+#"Guerra del Sol" - 6:22
+#"[[Zombie (song)#Cover versions|Zombie]]" (Bonus track) - 5:30
+#"Insectos" (Spanish version of "Insects") (Bonus track) (Not featured on earMusic iTunes version) - 6:03
+#"Save Us" (Bonus Track) (Exclusive to earMusic CD version) - 6:08
+#"Missing Me" (Bonus Track) (Exclusive to earMusic iTunes version) - 3:47
+==Critical reception==
+{{Album ratings
+|rev1 = ''[[Kerrang!]]''
+|rev1score = {{Rating|3|5}}&lt;ref name="kerrang"&gt;Beebee, Steve. ''[[Kerrang!]]'' #1282, 10 October 2009. Album reviews. "Gibraltan crossover metal stalwarts stomp down a familiar path", p. 50&lt;/ref&gt;
+}}
+"At a point in their career where many bands would consider desperate changes, Breed 77 have opted to stay on the same track for album number five, writing music specifically for their existing fan base," commented ''[[Kerrang]]'' critic Steve Beebee. "Not much of a challenge for anyone familiar with them, but still good stiff," he concluded, giving the album a 3 out of 5K's rating.&lt;ref name="kerrang"/&gt;  
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.breed77.com Breed 77 Official Website]
+
+{{Breed 77}}
+
+{{Use British English|date=August 2010}}
+
+{{DEFAULTSORT:Insects (Breed 77 Album)}}
+[[Category:2009 albums]]
+[[Category:Breed 77 albums]]
+
+
+{{2000s-alt-metal-album-stub}}
+{{Gibraltar-stub}}</text>
+      <sha1>oepanp8jfgr1wqe9hpc7roq0mwd113c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Institut Supérieur de Formation Professionnelle</title>
+    <ns>0</ns>
+    <id>57046923</id>
+    <revision>
+      <id>851667250</id>
+      <parentid>851666156</parentid>
+      <timestamp>2018-07-23T20:15:47Z</timestamp>
+      <contributor>
+        <username>Xpertsedu</username>
+        <id>34265405</id>
+      </contributor>
+      <comment>/* External links */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1394">{{unreferenced|date=May 2018}}
+
+{{No footnotes|date=April 2018}}
+
+{{Infobox university
+|name        = ''Institut supérieur de formation professionnelle  ''
+| image                = Isfop_Benin_University_Logo.png
+| image_size           = 162px
+|native_name = University of Professional Studies 
+|native_name_lang = French
+|image_name  =
+|caption     =
+|motto       = Quality, Rigour, Success
+|vice_chancellor   = ''Professor Marius Thomas Dakpogan''
+|established          = {{start date and age|1997|paren=yes}}
+|type        = [[Private University]]
+|city        = [[Cotonou]]
+|country           = &lt;br&gt;Benin
+|campus = [[Urban Area|Urban]]
+|website     = {{URL|isfopbeninuniversity.com}}
+}}
+
+'''Institut Supérieur de Formation Professionnelle''' (ISFOP) is a private University at [[Cotonou, Benin]], established by the ISFOP Educational Foundation.
+
+==References==
+{{reflist}}
+
+==External links==
+* Ministry of Education Benin Republic http://mesrs-bj.org/index.php/les-universites/universites-privees
+*  Benin Republic Education http://www.education.benin.bj/index.php/orientation/enseignement-superieur/etablissements-prives-denseignement-superieur/repertoire-des-centres-prives-denseignement-superieur?showall=&amp;start=1
+* {{Official website|http://www.isfopbeninuniversity.com}}
+
+
+{{Benin-stub}}
+
+{{coord missing|Benin}}
+
+[[Category:Universities in Benin]]
+[[Category:Education in Cotonou]]</text>
+      <sha1>tqxjownj2svenn8tku78bya44i0gw4k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Intelsat 21</title>
+    <ns>0</ns>
+    <id>24134910</id>
+    <revision>
+      <id>866747764</id>
+      <parentid>843727844</parentid>
+      <timestamp>2018-11-01T09:01:58Z</timestamp>
+      <contributor>
+        <ip>180.191.239.109</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3013">{{refimprove|date=January 2010}}
+{{Infobox spaceflight
+| name                  = Intelsat 21
+| image                 =  
+| image_caption         =
+
+| mission_type          = [[Communications satellite|Communication]]s
+| operator              = [[Intelsat]]
+| website               =  
+| COSPAR_ID             = 2012-045A
+| SATCAT                =  
+| mission_duration      = 15 years
+
+| spacecraft_bus        = [[BSS-702MP]]
+| manufacturer          = [[Boeing Satellite Systems]]
+| dry_mass              = 
+| launch_mass           =  
+| power                 =
+
+| launch_date           = {{start-date|19 August 2012, 06:54:59|timezone=yes}}&amp;nbsp;UTC 
+| launch_rocket         = [[Zenit-3SL]]
+| launch_site           = [[Odyssey (launch platform)|Odyssey]]
+| launch_contractor     = [[Sea Launch]]
+| entered_service       =
+
+| disposal_type         = 
+| deactivated           =  &lt;!-- {{end-date|[insert date here]}} --&gt;
+
+| orbit_epoch           = 
+| orbit_reference       = [[Geocentric orbit|Geocentric]]
+| orbit_regime          = [[Geostationary orbit|Geostationary]]
+| orbit_periapsis       =  
+| orbit_apoapsis        =  
+| orbit_inclination     = 
+| orbit_period          = 24&amp;nbsp;hours 
+| orbit_longitude       = 58° West
+| apsis                 = gee
+
+| trans_band            = 40 IEEE [[C band (IEEE)|C band]]&lt;br/&gt;40 IEEE {{ku band}}
+| trans_frequency       = 
+| trans_capacity        = 
+| trans_coverage        = [[Canada]]&lt;br/&gt;[[United States]]&lt;br&gt;[[Latin America]]&lt;br&gt;[[Caribbean]]&lt;br&gt;[[Europe]]
+| trans_TWTA            = 
+| trans_EIRP            = 
+| trans_HPBW            =
+
+| programme             = [[Intelsat]]
+| previous_mission      = [[Intelsat 20]]
+| next_mission          = [[Intelsat 22]] 
+}}
+'''Intelsat 21''' is a [[communications satellite]] manufactured by [[Boeing]] Space Systems for the [[Intelsat|Intelsat Corp]], based on the [[BSS-702MP]] platform.&lt;ref&gt;{{cite web |url=http://www.boeing.com/defense-space/space/bss/factsheets/702/intelsat/intelsat.html |title=Boeing 702MP Fleet - Intelsat |publisher=Boeing |deadurl=yes |archiveurl=https://web.archive.org/web/20130208103816/http://www.boeing.com/defense-space/space/bss/factsheets/702/intelsat/intelsat.html |archivedate=2013-02-08 |df= }}&lt;/ref&gt; It was launched in August 2012 from a mobile platform in the equatorial Pacific Ocean.&lt;ref&gt;{{cite web|last=Miramar-Garcia|first=Gabriel|title=Intelsat launches satellite for Latin America TV capacity|url=http://www.rapidtvnews.com/index.php/2012082023626/intelsat-launches-satellite-for-latin-america-tv-capacity.html|publisher=Rapid TV News|accessdate=28 January 2013}}&lt;/ref&gt;&lt;ref&gt;http://www.satlaunch.net/p/launch-schedule-2012.html&lt;/ref&gt; and replaces the [[Intelsat 9]] satellite at 58° West [[Longitude]].
+
+==References==
+{{Reflist}}
+
+==External links==
+
+{{Intelsat}}
+{{Orbital launches in 2012}}
+
+[[Category:Intelsat satellites]]
+[[Category:Satellites using the BSS-702 bus]]
+[[Category:Communications satellites in geostationary orbit]]
+[[Category:Spacecraft launched in 2012]]</text>
+      <sha1>ohtbo3yryyqe8yae9tmfac28pqf88ms</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Israel Internet Association</title>
+    <ns>0</ns>
+    <id>2821954</id>
+    <revision>
+      <id>818598996</id>
+      <parentid>818597989</parentid>
+      <timestamp>2018-01-04T14:03:25Z</timestamp>
+      <contributor>
+        <username>Senator2029</username>
+        <id>13054498</id>
+      </contributor>
+      <comment>added [[Category:Organizations with year of establishment missing]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1575">[[File:ISOC-IL logo English.png|alt=Israel Internet Association logo|thumb|Israel Internet Association logo]]
+'''Israel Internet Association''' ('''ISOC-IL'''; {{lang-he|איגוד האינטרנט הישראלי|links=no}}) is a non-profit organization and [[.il]] country code top-level domains ([[ccTLD]]) registry, It is managed by seven volunteer board members.&lt;ref name=":0"&gt;{{cite web |url=http://www.isoc.org.il/about/ |title=About Us |access-date=24 August 2014 |website=Israel Internet Association - ISOC-IL}}&lt;/ref&gt; It was the second organization in the world to be accepted as a chapter of the [[Internet Society]].&lt;ref&gt;{{cite web |url=http://www.internetsociety.org/history-timeline/isoc-israel-4chapter-chartered |title=SOC Israel Chapter Chartered |date=January 1995 |access-date=24 August 2014 |website=Internet Society}}&lt;/ref&gt; It is also a member of the [[RIPE NCC]] regional Internet registry.&lt;ref&gt;{{cite web |url=https://www.ripe.net/membership/indices/ |title=Members ordered by country code |access-date=24 August 2014 |website=RIPE NCC}}&lt;/ref&gt;
+
+In addition to managing [[.il]] (ccTLD) registry, the association is also responsible for managing the [[Israeli Internet Exchange]] (IIX), and hosts a DNS root server duplicate at its facilities.&lt;ref name=":0" /&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.isoc.org.il/}}
+
+[[Category:Internet governance organizations]]
+[[Category:Business organizations based in Israel]]
+[[Category:Organizations with year of establishment missing]]
+
+
+{{Internet-stub}}
+{{Israel-org-stub}}</text>
+      <sha1>2ffr10y4gk52a84oj8r7hnnql3mlf1p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kafa language</title>
+    <ns>0</ns>
+    <id>20626206</id>
+    <revision>
+      <id>835161437</id>
+      <parentid>824813089</parentid>
+      <timestamp>2018-04-06T23:00:13Z</timestamp>
+      <contributor>
+        <username>Jkrn111</username>
+        <id>29970101</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2458">{{Infobox language
+|name=Kafa
+|nativename=''Kafi noono''
+|states=[[Ethiopia]]
+|region=in [[Keffa Zone]]
+|speakers={{sigfig|834,000|2}}
+|ref=&lt;ref&gt;[http://www.csa.gov.et/index.php?option=com_rubberdoc&amp;view=doc&amp;id=264&amp;format=raw&amp;Itemid=521 Ethiopia 2007 Census] {{webarchive|url=https://web.archive.org/web/20101114004942/http://www.csa.gov.et/index.php?option=com_rubberdoc&amp;view=doc&amp;id=264&amp;format=raw&amp;Itemid=521 |date=2010-11-14 }}&lt;/ref&gt;
+|date=2007 census
+|familycolor=Afro-Asiatic
+|fam2=[[Omotic languages|Omotic]]
+|fam3=[[North Omotic languages|North]]
+|fam4=[[Gonga languages|Gonga]]
+|fam5=Kafa–Shekkacho
+|iso3=kbr
+|glotto=kafa1242
+|glottorefname=Kafa
+}}
+
+'''Kafa''' or '''Kefa''' (''Kafi noono'') is a [[North Omotic languages|North Omotic Language]] language spoken in [[Ethiopia]] at the [[Keffa Zone]]. It is part of the [[Ethiopian Language Area]], with [[Subject–object–verb|SOV]] word order, ejective consonants, etc.
+
+A collection of proverbs in the language has been published by Mesfin Wodajo.&lt;ref&gt;2012. ''Functions and Formal and Stylistic Features of Kafa Proverbs: Functional and Structural Approach''. Lambert Academic Publishing.&lt;/ref&gt;
+
+Within the Kafa culture there is also a [[caste]] group called the Manja/Manjo. There have been reports that they speak a different language. However, Leikola has shown that they speak the Kafa language but have a number of words and constructions that they use, reinforcing the distinctions between themselves and the larger Kafa society.&lt;ref&gt;Leikola, Kirsi. 2014. ''Talking Manjo: Linguistic repertoires as means of negotiating marginalization.'' University of Helsinki: PhD dissertation.&lt;/ref&gt;
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* Brockelmann, Carl (1950): Zur Grammatik der Kafa-Sprache. in: Brockelmann, Carl (ed.): ''Abbessinische Berichte über die Verhandlungen der Sächsischen Akademie der Wissenschaften''. Leipzig. pp 40–60.
+* [[Enrico Cerulli|Cerulli, Enrico]] (1951), ''Studi etiopici''. Vol. IV: ''La lingua Caffina''. Roma: Istituto Per L'oriente.
+* Fleming, Harold C. (1976), "Kefa (Gonga) Languages", in ''The Non-Semitic Languages of Ethiopia''. Bender, M. L. (ed.)
+
+== External links ==
+* [[World Atlas of Language Structures]] information on [http://wals.info/languoid/lect/wals_code_kef Kefa]
+
+{{Languages of Ethiopia}}
+{{Omotic languages}}
+[[Category:Languages of Ethiopia]]
+[[Category:Ta-Ne-Omotic languages]]
+
+
+{{Ethiopia-stub}}
+{{AfroAsiatic-lang-stub}}</text>
+      <sha1>te3707jzqe4a1a9gcl8eqzfm4v5mcim</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Klaipėda Castle Jazz Festival</title>
+    <ns>0</ns>
+    <id>23631178</id>
+    <revision>
+      <id>817935522</id>
+      <parentid>809714267</parentid>
+      <timestamp>2017-12-31T12:26:54Z</timestamp>
+      <contributor>
+        <username>Grutness</username>
+        <id>117878</id>
+      </contributor>
+      <comment>added [[Category:Summer events in Lithuania]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1247">[[File:Klaipeda Castle Jazz Festival 2006.jpg|thumb|right|XIII Klaipėda Castle Jazz Festival]]
+The '''Klaipėda Castle Jazz Festival''' has been held annually during June or July in [[Klaipėda]], [[Lithuania]] since 1994. It is staged near the ruined [[Klaipėda Castle]].
+
+Major international performers at past festivals have included [[Maynard Ferguson]], [[Toots Thielemans]], [[Billy Cobham]] Culture Mix, [[Mike Mainieri]], [[Victor Bailey (musician)|Victor Bailey]], [[Chico &amp; the Gypsies]], [[Soweto Kinch]], [[Alex Wilson (musician)|Alex Wilson]], and [[Nikki Yeoh]], among others. It traditionally features an all-night [[jam session]].
+
+==References==
+* [http://www.jazz.lt/www/festivalis/istorija/favorites/ Performers]. Klaipeda Jazz Festival - Official website.
+* [http://www.baltictimes.com/news/articles/18274/ Jazzing it up in Lithuania’s ‘New Orleans’]. [[Baltic Times]].
+
+{{DEFAULTSORT:Klaipeda Castle Jazz Festival}}
+[[Category:Jazz festivals in Lithuania]]
+[[Category:1994 establishments in Lithuania]]
+[[Category:Music in Klaipėda]]
+[[Category:Recurring events established in 1994]]
+[[Category:Annual events in Lithuania]]
+[[Category:Events in Klaipėda]]
+[[Category:Summer events in Lithuania]]
+
+
+{{lithuania-stub}}</text>
+      <sha1>r70up28ydgdy1spff2grir8k92fi6mn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kopay Army Base</title>
+    <ns>0</ns>
+    <id>43964138</id>
+    <revision>
+      <id>846827685</id>
+      <parentid>798557379</parentid>
+      <timestamp>2018-06-21T03:55:26Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4274">{{Infobox military installation
+| name = Kopay Army Base
+| native_name = 
+| partof = 
+| location = [[Kopay]]
+| country = [[Sri Lanka]]
+| image = 
+| caption = 
+| pushpin_map = Sri Lanka Northern Province
+| pushpin_map_caption = Location within Northern Province
+| coordinates = {{Coord|09|42|23.30|N|80|02|56.10|E|region:LK_type:landmark|display=inline,title}}
+| type = Military base
+| site_area = 
+| ownership = [[Ministry of Defence and Urban Development]]
+| operator = [[Sri Lanka Army]]
+| controlledby = [[Security Forces Headquarters – Jaffna]]
+| open_to_public = No
+| built = 
+| used = 
+| current_commander = 
+| garrison = [[51 Division (Sri Lanka)|51 Division]]
+| website = 
+}}
+'''Kopay Army Base''' is a [[military base]] in [[Kopay]], [[Sri Lanka]]. The base was built on a [[Liberation Tigers of Tamil Eelam]] [[war cemetery]].
+
+==History==
+[[File:Flags Kopai Heroes Graveyard Jaffna 2004.jpg|thumbnail|left|Kopay war cemetery in 2004]]
+In the early 1990s, when the [[Sri Lankan Tamil militant groups|rebel]] [[Liberation Tigers of Tamil Eelam]] (LTTE) controlled the [[Valikamam]] region of [[Jaffna peninsula]], they built a ''thuyilum illam'' (resting place) for their ''maaveerar'' (great heroes) in [[Kopay]]. After the [[Sri Lankan military]] recaptured Valikamam in 1995 they destroyed the LTTE cemetery using tractors.&lt;ref name=TN291106&gt;{{cite news|title=Sri Lanka Army bulldozes Heroes' Cemetery in Trincomalee - Elilan|url=http://www.tamilnet.com/art.html?artid=20440&amp;catid=13|work=[[TamilNet]]|date=29 November 2006}}&lt;/ref&gt;&lt;ref name=AT260311&gt;{{cite news|last1=Ramachandran|first1=Sudha|title=Colombo digs grave for Tamil harmony|url=http://www.atimes.com/atimes/South_Asia/MC26Df02.html|work=[[Asia Times Online]]|date=26 March 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Sri Lanka builds police station on LTTE cemetery|url=http://tamilguardian.com/article.asp?articleid=1470|work=[[Tamil Guardian]]|date=28 November 2007}}&lt;/ref&gt; After the Norwegian mediated peace process began in 2002 the LTTE started rebuilding their war cemeteries including that at Kopay.&lt;ref name=TN291106/&gt;&lt;ref name=AT260311/&gt; After the [[Sri Lankan Civil War]] ended in May 2009 with military defeat of the LTTE the Sri Lankan government/military re-commenced destroying LTTE war cemeteries and other memorials for dead LTTE members.&lt;ref&gt;{{cite news|last1=Natarajan|first1=Swaminathan|title=Why Sri Lankan Tamils won't remember war dead this year|url=https://www.bbc.co.uk/news/world-south-asia-11846369|work=[[BBC News]]|date=27 November 2010}}&lt;/ref&gt; In July 2010 the Sri Lankan military destroyed Kopay war cemetery.&lt;ref&gt;{{cite news|title=SLA demolishes Koappaay Thamizh Eezham Heroes Cemeteries|url=http://www.tamilnet.com/art.html?catid=13&amp;artid=32116|work=[[TamilNet]]|date=4 July 2010}}&lt;/ref&gt; The cemetery had had 2,000 graves.&lt;ref name=BBC070311&gt;{{cite news|last1=Haviland|first1=Charles|title=Sri Lanka builds army HQ on Tamil Tiger cemetery|url=https://www.bbc.co.uk/news/world-south-asia-12668613|work=[[BBC News]]|date=7 March 2011}}&lt;/ref&gt;
+
+The Sri Lankan military then started building an army base on the site of the cemetery.&lt;ref&gt;{{cite news|last1=DiManno|first1=Rosie|title=Sri Lanka's Tamils face violence, intimidation ahead of provincial vote|url=https://www.thestar.com/news/world/2013/09/21/sri_lankas_tamils_face_violence_intimidation_ahead_of_provincial_vote.html|work=[[Toronto Star]]|date=21 September 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Amerasinghe|first1=Premini|title=A journey back in time to a place where peace seems surreal|url=http://sundaytimes.lk/111211/Plus/plus_13.html|work=[[The Sunday Times (Sri Lanka)]]|date=11 December 2011}}&lt;/ref&gt; On 4 March 2011 the new headquarters of the [[Sri Lanka Army]]'s [[51 Division (Sri Lanka)|51 Division]] was officially opened by [[Jagath Jayasuriya]], [[Commander of the Army (Sri Lanka)|Commander of the Army]].&lt;ref name=BBC070311/&gt;&lt;ref&gt;{{cite news|title=Sri Lankan state shows ‘reconciliation’ in the country of Eezham Tamils|url=http://www.tamilnet.com/art.html?catid=13&amp;artid=33627|work=[[TamilNet]]|date=5 March 2011}}&lt;/ref&gt;
+
+==References==
+{{Reflist|2}}
+
+[[Category:Military installations in Northern Province, Sri Lanka]]
+[[Category:Sri Lankan Army bases]]
+
+{{Asia-mil-stub}}
+{{SriLanka-struct-stub}}</text>
+      <sha1>t4ivcnnp4ckqbox54ys34ndo3ud956d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kräuterin</title>
+    <ns>0</ns>
+    <id>23013773</id>
+    <revision>
+      <id>803074774</id>
+      <parentid>656059056</parentid>
+      <timestamp>2017-09-30T08:34:28Z</timestamp>
+      <contributor>
+        <username>Cote d'Azur</username>
+        <id>7314633</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="425">The '''Kräuterin''' is a [[karst]] [[massif]] with a size of 10&amp;nbsp;km by 12&amp;nbsp;km, located in the [[Ybbstal Alps]], [[Austria]]. Its highest peak is the [[Hochstadl]], at 1919 meters above sea level.
+
+{{Expand German|date=December 2009|Kräuterin}}
+
+{{coord|47.6853|N|15.0747|E|source:kolossus-dewiki|display=title}}
+
+{{DEFAULTSORT:Krauterin}}
+[[Category:Mountain ranges of Styria]]
+[[Category:Karst]]
+
+
+{{austria-stub}}</text>
+      <sha1>9lus7qs7wlw7wrmsb2sapc714ss2joz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Laurence Côte</title>
+    <ns>0</ns>
+    <id>42612762</id>
+    <revision>
+      <id>841914791</id>
+      <parentid>724357840</parentid>
+      <timestamp>2018-05-18T22:32:51Z</timestamp>
+      <contributor>
+        <username>Venice whaler</username>
+        <id>28805909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="696">{{expand language|topic=|langcode=FR|otherarticle=Laurence Côte|date=September 2014}}
+'''Laurence Côte''' (born 11 February 1966) is a French actress and writer.  She has appeared in such films as ''[[Thieves (1996 film)|Thieves]]'', ''[[Up, Down, Fragile]]'' and ''[[Gang of Four (film)|Gang of Four]]''.
+
+==External links==
+*{{IMDb name|0194759}}
+
+{{César Award for Most Promising Actress}}
+
+{{Authority control}}
+{{DEFAULTSORT:Cote, Laurence}}
+[[Category:French film actresses]]
+[[Category:Alumni of the Cours Florent]]
+[[Category:Living people]]
+[[Category:French women writers]]
+[[Category:1966 births]]
+[[Category:People from Lyon]]
+[[Category:César Award winners]]
+
+{{Europe-bio-stub}}</text>
+      <sha1>72a3c8q81k6n41a44x6srwocqzeespj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Le Schuylkill</title>
+    <ns>0</ns>
+    <id>45043889</id>
+    <revision>
+      <id>843224713</id>
+      <parentid>816077986</parentid>
+      <timestamp>2018-05-27T18:58:37Z</timestamp>
+      <contributor>
+        <username>Einaz80</username>
+        <id>29858870</id>
+      </contributor>
+      <comment>image added</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3468">{{Infobox building
+|name               = Le Schuylkill
+|image              = Le Schuylkill.jpg
+|location           = 19, Boulevard de Suisse, Monte-Carlo, Monaco
+|coordinates        = 
+|status             = Complete
+|start_date         = 
+|completion_date    = 1970
+|building_type      = 
+|architectural_style = Modernist
+|roof               = 
+|floor_count        = 25
+|elevator_count     = 
+|cost               = 
+|floor_area         = 
+|architect          = 
+|structural_engineer=
+|main_contractor    = 
+|developer          =
+|owner              = [[Hélène Pastor]] &lt;small&gt;(formerly)&lt;/small&gt;
+|management         =
+|references         = 
+}}
+'''Le Schuylkill''' is a high-rise residential building in [[Monaco]].
+
+==Location==
+It is located at 19, [[Boulevard de Suisse]] in [[Monte-Carlo]], Monaco.&lt;ref name="emporisleschuylkill"&gt;[http://www.emporis.com/building/leschuylkill-monaco-monaco Le Schuylkill], [[Emporis]]&lt;/ref&gt;&lt;ref name="structurae"&gt;[http://structurae.net/structures/le-schuylkill Le Schuylkill], [[Structurae]]&lt;/ref&gt;&lt;ref name="helene"&gt;[http://www.hpp.mc/groupe.html Hélène Pastor Pallanca: Le Schuylkill] {{webarchive|url=https://web.archive.org/web/20150127084202/http://www.hpp.mc/groupe.html |date=2015-01-27 }}&lt;/ref&gt;
+
+==History==
+The construction of the building was completed in 1970.&lt;ref name="emporisleschuylkill"/&gt;&lt;ref name="structurae"/&gt; It was designed in the [[modernist architecture|modernist]] architectural style.&lt;ref name="emporisleschuylkill"/&gt; It is 78 metres high, with twenty-five storeys.&lt;ref name="emporisleschuylkill"/&gt; It is the fourteenth tallest building in Monaco.&lt;ref&gt;[http://www.emporis.com/statistics/tallest-buildings-monaco-monaco Emporis: Monaco's tallest buildings - Top 20]&lt;/ref&gt;
+
+It was owned by heiress [[Hélène Pastor]] through her eponymous real estate company.&lt;ref name="helene"/&gt;&lt;ref name="bloombergtom"&gt;Tom Metcalf, [https://www.bloomberg.com/news/2014-10-16/monaco-murders-reveal-six-hidden-real-estate-billionaires.html Monaco Murders Reveal Six Hidden Real Estate Billionaires], ''Bloomberg'', October 18, 2014&lt;/ref&gt;&lt;ref&gt;Olivier Toscer, [http://tempsreel.nouvelobs.com/societe/20140521.OBS7894/helene-pastor-les-secrets-de-famille-de-la-vice-princesse-de-monaco.html Hélène Pastor : les secrets de famille de la "vice-princesse" de Monaco], ''[[Le Nouvel Observateur]]'', May 21, 2014&lt;/ref&gt; Her daughter, [[Sylvia Pastor]], lived in this building with her companion, the Polish businessman and honorary consul [[Wojciech Janowski]].&lt;ref&gt;[http://www.ladepeche.fr/article/2014/06/27/1908324-assassinat-milliardaire-monaco-enigme-digne-polar.html?google_editors_picks=true Assassinat de la milliardaire à Monaco : une énigme digne d'un polar], ''[[La Dépêche du Midi]]'', June 27, 2014&lt;/ref&gt;&lt;ref&gt;Xavier Monferran, [http://www.francebleu.fr/faits-divers/monaco/l-etau-se-resserre-autour-du-gendre-d-helene-pastor-1630137 L'étau se resserre autour du gendre d'Hélène Pastor], ''[[France Bleu]]'', June 24, 2014&lt;/ref&gt; Another notable resident was [[Michael Pearson, 4th Viscount Cowdray]].&lt;ref&gt;Charles Kidd, David Williamson, [[Debrett's Peerage]] and Baronetage, 1985, p. 287&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+{{coord|43.7381|N|7.4228|E|source:wikidata|display=title}}
+
+{{DEFAULTSORT:Schuylkill}}
+[[Category:Residential skyscrapers in Monaco]]
+[[Category:Modernist architecture in Monaco]]
+[[Category:Buildings and structures completed in 1970]]
+[[Category:Pastor family]]
+
+
+{{Monaco-struct-stub}}</text>
+      <sha1>i3y7glf9a17610occ1jnwgdka1q5y3a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Leading Group on Innovative Financing for Development</title>
+    <ns>0</ns>
+    <id>23186191</id>
+    <revision>
+      <id>669697793</id>
+      <parentid>669697748</parentid>
+      <timestamp>2015-07-02T22:39:06Z</timestamp>
+      <contributor>
+        <username>Funandtrvl</username>
+        <id>2966869</id>
+      </contributor>
+      <comment>removed [[Category:International development]]; added [[Category:International development agencies]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3323">{{Infobox Geopolitical organization
+|name = Leading Group on Innovative Financing for Development
+|linking_name = the Leading Group on Innovative Financing for Development
+|symbol_type = Logo
+|image_symbol = LeadingGroupLogo.jpg
+|symbol_width = 150px
+|image_map = |map_caption = 
+|membership = {{unbulleted list |55 member states |4 observer states |{{longlabel|16 international&lt;br/&gt;{{pad|1.0em}}organizations}} |Several [[Non-governmental organization|NGO]]s}}
+|admin_center_type = Secretariat
+|admin_center = {{nowrap|{{flagicon|France}} [[Paris]], [[France]]}}
+|leader_title1 = {{nowrap|Secretary General}}
+|leader_name1 = Julien Meimon
+|established_event1 = {{nowrap|as the "Leading Group&lt;br/&gt;on Solidarity Levies to&lt;br/&gt;Fund Development"}}
+|established_date1 = &lt;br/&gt;1 March 2006
+|established_event2 = as current name
+|established_date2 = June 2009
+|official_website = http://www.leadinggroup.org
+}}
+
+The '''Leading Group on Innovative Financing for Development''' is a global platform made up of 55 member countries with differing levels of development, operating alongside international organisations and NGOs.  Formerly known as the Leading Group on Solidarity Levies to Fund Development, the Leading Group seeks to promote the implementation and definition of [[innovative financing]] mechanisms around the world.
+
+Formed in 2006, the Leading Group is coordinated by the Permanent Secretariat which is located in Paris at the [[Minister of Foreign Affairs (France)|French Ministry of Foreign and European Affairs]].
+
+== Membership ==
+
+The following countries are currently members of the Leading Group:
+
+&lt;blockquote&gt;
+Algeria, Bangladesh, Belgium, Benin, Brazil, Burkina Faso, Cambodia, Cameroon, Cape Verde, Central African Republic, Chile, Congo, Cote d’Ivoire, Cyprus, Djibouti, Ethiopia, European Commission, Finland, France, Gabon, Germany, Great Britain, Guatemala, Guinea, Haiti, India, Italy, Japan, Jordan, Lebanon, Liberia, Luxembourg, Madagascar, Mali, Mauritania, Mauritius, Mexico, Morocco, Mozambique, Namibia, Nicaragua, Niger, Nigeria, Poland, the Republic of Korea, Romania, Sao Tome and Principe, Saudi Arabia, Senegal, Sierra Leone, South Africa, Spain, Togo, and Uruguay.
+&lt;/blockquote&gt;
+
+The following countries serve as observer countries in the Leading Group:
+&lt;blockquote&gt;
+Austria, China, Egypt and Romania
+&lt;/blockquote&gt;
+
+The following international organisations are currently members of the Leading Group:
+*[[United Nations]]
+*[[African Development Bank]]
+*[[World Bank]]
+*[[Inter-American Development Bank]]
+*[[Asian Development Bank]]
+*[[FAO]]
+*[[International Monetary Fund]]
+*[[United Nations Population Fund]] (UNPF)
+*[[The Global Fund]]
+*[[OECD]]
+*[[WHO]]
+*[[UNAIDS]]
+*[[WFP]]
+*[[International Fund for Agricultural Development]] (IFAD)
+*[[United Nations Procurement Division]] (UNPD)
+*[[UNICEF]]
+
+== External links ==
+*{{en icon}} [http://www.leadinggroup.org/rubrique20.html Official website]
+*{{fr icon}} [http://www.leadinggroup.org/rubrique1.html Le site officiel]
+*{{es icon}} [http://www.leadinggroup.org/rubrique192.html Página web oficial]
+
+[[Category:Economic development organizations]]
+[[Category:International development agencies]]
+[[Category:International economic organizations]]
+[[Category:Organizations established in 2006]]
+[[Category:Organizations based in Paris]]</text>
+      <sha1>ekwmo3na4q8i92rpl7d8s7zwtsq4jiq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Löwinger-Bühne</title>
+    <ns>0</ns>
+    <id>33955893</id>
+    <revision>
+      <id>803125568</id>
+      <parentid>779976641</parentid>
+      <timestamp>2017-09-30T16:27:43Z</timestamp>
+      <contributor>
+        <username>Cote d'Azur</username>
+        <id>7314633</id>
+      </contributor>
+      <comment>ce</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="258">{{Expand German|topic=struct|date=December 2011|Löwinger-Bühne}}
+
+'''Löwinger-Bühne''' is a theatre in [[Austria]].
+
+{{coord missing|Austria}}
+
+{{DEFAULTSORT:Lowinger-Buhne}}
+[[Category:Theatres in Austria]]
+
+
+{{Austria-theat-stub}}
+{{theat-struct-stub}}</text>
+      <sha1>29yfmpt5ojmh9hz8qwztx9r6zg5s5m5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Martin Bangemann</title>
+    <ns>0</ns>
+    <id>3063507</id>
+    <revision>
+      <id>847610352</id>
+      <parentid>815984009</parentid>
+      <timestamp>2018-06-26T15:43:43Z</timestamp>
+      <contributor>
+        <username>Timrollpickering</username>
+        <id>32005</id>
+      </contributor>
+      <minor/>
+      <comment>per [[WP:CFDS]], replaced: Category:Knight Commanders of the Order of Merit of the Federal Republic of Germany → Category:Knights Commander of the Order of Merit of the Federal Republic of Germany using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5533">{{Use dmy dates|date=April 2011}}
+{{Infobox Politician
+| name = Martin Bangemann
+| image =Bundesarchiv B 145 Bild-F055742-0020, Bonn, FDP-Europawahlkampf, Bangemann.jpg
+| caption =Bangemann in 1979
+| birth_date = {{birth date and age|1934|11|15|df=y}}
+| birth_place = [[Wanzleben]], [[Province of Saxony|Saxony]]
+| residence = 
+| nationality= German
+| death_date = 
+| death_place =  
+| office        =[[Federal Ministry of Economics and Technology (Germany)|Federal Minister of Economics]] &lt;br/&gt;[[West Germany]]
+| term_start    = 27 June 1984
+| term_end      =  1989
+| predecessor   = [[Otto Graf Lambsdorff]]
+| successor     = [[Helmut Haussmann]]
+| office2 = Chairman of the FDP
+| term_start2 = 1985
+| term_end2 = 1988
+| predecessor2   = [[Hans-Dietrich Genscher]]
+| successor2    = [[Otto Graf Lambsdorff]]
+| party =  [[Free Democratic Party (Germany)|FDP]]
+| religion = 
+| occupation =Lawyer
+| alma_mater = [[University of Tübingen]]&lt;br&gt;[[University of Munich]]
+| majority = 
+| spouse =
+| children = 5
+}}
+
+[[Image:Bundesarchiv Bild 183-1986-0317-027, Berlin, Gespräch Honecker, Bangemann.jpg|thumb|200px|right|Bangemann (left) with [[Erich Honecker]] in Berlin 1986.]]
+'''Martin Bangemann''' (born 15 November 1934 in [[Wanzleben]]) is a German politician and a former leader of the [[Free Democratic Party of Germany|FDP]] (1985–1988).  He studied Law in [[Tübingen]] and [[Munich]], earned a [[Doctor of law|Dr. jur.]] (not equivalent to [[Juris Doctor|J.S.D.]] , but a PhD in Law) in 1962 with a dissertation entitled "Bilder und Fiktionen in Recht und Rechtswissenschaft" ("Imagery and fiction in law and jurisprudence"). He qualified as an attorney in 1964.
+
+==Career==
+
+Bangemann was a member of the [[European Parliament]] from 1973 to 1984, from 1976 to 1979 he was vice-chairman, from 1979 to 1984 chairman of the [[European Liberal Democrat and Reform Party (European Parliament group)|Liberal and Democratic Group]]. Moreover, he was vice-chair of the Committee on Budgets from 1978 to 1979.&lt;ref&gt;http://www.europarl.europa.eu/members/archive/alphaOrder/view.do?language=EN&amp;id=933&lt;/ref&gt;
+
+Bangemann was the German Federal Minister of Economics from 1984 to 1988.
+
+In 1988, Bangemann joined the [[European Commission]]. He was Commissioner for the internal market and industrial affairs in the [[Delors Commission]] from 1989 to 1995. He was then Commissioner for Industrial affairs, Information &amp; Telecommunications Technologies in the [[Santer Commission]] from 1995 to 1999.
+
+As commissioner he led a "high-level group" that drew up the report "Europe and the Global Information Society" in 1994.&lt;ref&gt;[http://www.echo.lu/eudocs/en/bangemann.html Europe and the global information society: Recommendations to the European Council]. Version hosted on I*M Europe, by Directorate-General XIII of the European Commission.&lt;/ref&gt;&lt;ref&gt;"[http://aei.pitt.edu/1199/ Report on Europe and the Global Information Society: Recommendations of the High-level Group on the Information Society to the Corfu European Council. Bulletin of the European Union, Supplement No. 2/94.]" University of Pittsburgh - Archive of European Integration (AEI).&lt;/ref&gt; This document contained recommendations to the European Council on the measures that Europe should take regarding information infrastructure. It became known as the "Bangemann report" and influenced many EU policies.&lt;ref&gt;{{cite book |first=Hugh |last=Mackay |first2=Wendy |last2=Maples |first3=Paul |last3=Reynolds |title=Investigating the Information Society |location=London/New York |publisher=Routledge &amp; The Open University |year=2001 |isbn=0-415-26831-1 |page=8 }}&lt;/ref&gt;
+
+==References==
+&lt;references/&gt;
+* {{cite book|last=Walter|first=Franz|editor1-last=Forkmann|editor1-first=Daniela|editor2-last=Schlieben|editor2-first=Michael|title=Die Parteivorsitzenden in der Bundesrepublik Deutschland 1949–2005|trans-title=The Party Chairmen of the Federal Republic of Germany 1949–2005|series=Göttinger Studien zur Parteiforschung|date=June 2005|publisher=VS Verlag für Sozialwissenschaften|location=|language=|isbn=3-531-14516-9|pages=151–154|chapter=Die Integration der Individualisten. Parteivorsitzende in der FDP|trans-chapter=The Integration of the Individualists. Party Chairmen in the FDP}}
+*{{cite book|last= Dittberner|first= Jürgen|title=Die FDP: Geschichte, Personen, Organisation, Perspektiven ; eine Einführung|trans-title=The FDP: History, People, Organization, Perspectives; an Introduction|year=2005|publisher=VS Verlag für Sozialwissenschaften|language=German|isbn=3-531-14050-7|page=72}}
+* {{cite web| url= http://www.europarl.europa.eu/members/archive/alphaOrder/view.do?language=EN&amp;id=933| title= MEP Profile:Martin Bangemann| publisher=[[European Parliament]]| accessdate  = 25 September 2010}}
+* {{cite web| url= http://ec.europa.eu/archives/1995_99/commissioners/en/bange.htm| title= Martin Bangemann| publisher=[[European Commission]]| accessdate  = 25 September 2010}}
+
+{{commons category}}
+
+{{Economy Ministers of Germany}}
+{{FDP chairs}}
+{{Alliance of Liberals and Democrats for Europe Party}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bangemann, Martin}}
+[[Category:1934 births]]
+[[Category:Living people]]
+[[Category:Economy ministers of Germany]]
+[[Category:Free Democratic Party (Germany) politicians]]
+[[Category:German European Commissioners]]
+[[Category:Members of the Bundestag for Baden-Württemberg]]
+[[Category:Knights Commander of the Order of Merit of the Federal Republic of Germany]]
+
+
+{{Germany-politician-stub}}
+{{EU-org-bio-stub}}</text>
+      <sha1>oxiyb1l7pyjriror8kjtc3amxmmh9x9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Monnè, outrages et defis</title>
+    <ns>0</ns>
+    <id>27834673</id>
+    <revision>
+      <id>664027598</id>
+      <parentid>547790877</parentid>
+      <timestamp>2015-05-25T23:57:21Z</timestamp>
+      <contributor>
+        <username>KasparBot</username>
+        <id>24420788</id>
+      </contributor>
+      <comment>embed authority control with wikidata information</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1039">{{Infobox book
+| name             =Monnè, outrages et defis
+| title_orig       = 
+| translator       = 
+| image            = 
+| caption    = 
+| author           = 
+| illustrator      = 
+| cover_artist     = 
+| country          = {{flag|Côte d'Ivoire}}
+| language         = [[French language|French]]
+| series           = 
+| subject          = 
+| genre            = 
+| publisher        = 
+| pub_date         = 
+| english_pub_date = 
+| media_type       = 
+| pages            = 
+| isbn             = 
+| oclc             = 
+| dewey            = 
+| congress         = 
+| preceded_by      = 
+| followed_by      = 
+}}
+'''''Monnè, outrages et defis''''' is a novel by [[Côte d'Ivoire|Ivorian]] author [[Ahmadou Kourouma]]. It won the [[Grand prix littéraire d'Afrique noire]] in 1990.
+
+{{Authority control}}
+{{DEFAULTSORT:Monne, outrages et defis}}
+[[Category:Ivorian novels]]
+[[Category:1989 novels]]
+[[Category:French-language novels]]
+[[Category:Grand prix littéraire d'Afrique noire winners]]
+
+
+{{1980s-novel-stub}}
+{{Coted'Ivoire-stub}}</text>
+      <sha1>cohqcg3btz9za427sjyhaeruuwwt4n7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Muna Hotel</title>
+    <ns>0</ns>
+    <id>28540101</id>
+    <revision>
+      <id>846646676</id>
+      <parentid>750745912</parentid>
+      <timestamp>2018-06-20T02:12:34Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2723">{{Infobox hotel
+| hotel_name         = Muna Hotel
+| logo               = 
+| logo_width         = 
+| logo_caption       = 
+| image              = 
+| image_width        = 
+| caption            = 
+| pushpin_map        =Somalia
+| location           =[[Mogadishu]], [[Somalia]]
+| pushpin_map_caption=Location in Somalia
+| address            = 
+| chain              =
+| coordinates        = {{coord|2|2|22|N|45|20|14|E|display=inline}}
+| coordinates_type   = 
+| opening_date       =
+| closing_date       = 
+| developer          = 
+| architect          = 
+| operator           = 
+|owner          =Abdullahi Warsame (manager)
+| number_of_rooms    = 
+| number_of_suites   = 
+| number_of_restaurants = 
+| floor_area         = 
+| floors             = 
+| height             = 
+| parking            = 
+| website            = 
+| footnotes          =
+}}
+'''Muna Hotel''' ({{lang-ar|فندق منى}}, {{lang-so|Funduq Muna}}, {{lang-fr|Hotel Muna}}) is a hotel in [[Mogadishu]], [[Somalia]]. The hotel, located less than a mile from [[Villa Somalia|Somalia's presidential palace]], is a noted conference centre and is regularly used for meetings between government officials and important persons. &lt;Ref name="aljaz"&gt;{{cite news|title= Al-Shabab vows 'massive' Somali war  |url=http://english.aljazeera.net/news/africa/2010/08/201082464449278785.html|date=24 August 2010|agency=[[Al Jazeera]]}}&lt;/ref&gt;
+
+==History==
+In 2010 it was the centre of [[Muna Hotel attack|a suicide attack]], killing several members of the Somali Parliament amidst the [[Battle of Mogadishu (2010)|fighting that began]] on 23 August.&lt;Ref name="bbc"&gt;{{cite news|title=Somali MPs killed in hotel suicide attack|url=https://www.bbc.co.uk/news/world-africa-11068805|date=24 August 2010|agency=[[BBC News]]}}&lt;/ref&gt;
+
+==Architecture==
+The hotel is located on a street corner and is housed in a three-storey building. The building is painted in mint and pink and has grey shutters.&lt;ref&gt;{{cite web|url=http://www.washingtontimes.com/news/2010/aug/24/suicide-bomber-attacks-somali-hotel-killing-32/|title=Suicide bomber attacks Somali hotel killing 32|publisher=''[[The Washington Times]]''|date=24 August 2010}}&lt;/ref&gt;The two balconies jut out from the building and are painted pink. The logo for Muna Hotel on the side of the hotel is painted in blue and white. The hotel name is given in French as "Hotel Muna" and then in Arabic underneath.
+
+==See also==
+*[[Muna Hotel attack]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://media.washtimes.com/media/image/2010/08/24/Somalia_Fighting_Thir_s640x510.jpg?a9436adcfd6c8bab09d38f79fed816f8c9b79d57 Photograph]
+[[Category:Mogadishu]]
+[[Category:Hotels in Somalia]]
+{{Africa-hotel-struct-stub}}
+{{Somalia-struct-stub}}</text>
+      <sha1>2i7mpjmm4k6wphy1rai9pq2u2ifudui</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Musée Boribana</title>
+    <ns>0</ns>
+    <id>39060130</id>
+    <revision>
+      <id>749535368</id>
+      <parentid>737443627</parentid>
+      <timestamp>2016-11-14T21:07:49Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="500">The '''Musée Boribana''' is a [[museum]] located in [[Senegal]].&lt;ref&gt;[http://www.africom.museum/museums/senegal2.html Museums in Senegal] ({{webarchive |url=https://web.archive.org/web/20101203185625/http://www.africom.museum/museums/senegal2.html |date=December 3, 2010 }})&lt;/ref&gt;
+
+== References ==
+{{reflist}}
+
+== See also ==
+* [[List of museums in Senegal]]
+
+{{coord missing|Senegal}}
+
+{{DEFAULTSORT:Musee Boribana}}
+[[Category:Museums in Senegal]]
+
+
+{{Africa-museum-stub}}
+{{Senegal-struct-stub}}</text>
+      <sha1>nlyom3r58gq9vhkzyj8hxpbbeqfekoj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nadezhda Metro Station</title>
+    <ns>0</ns>
+    <id>36888566</id>
+    <revision>
+      <id>736189099</id>
+      <parentid>658867102</parentid>
+      <timestamp>2016-08-25T20:04:41Z</timestamp>
+      <contributor>
+        <username>Verminclone</username>
+        <id>17591067</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2995">{{Infobox station 
+| name          = [[File:Sofia Metro Logo.svg|30px|left|link=Sofia Metro]] Nadezhda
+| type          = 
+| style         = Sofia Metro
+| image         = Nadejda - 001.jpg
+| image_caption = 
+| address       = 
+| coordinates   = {{Coord|42|43|41.06|N|23|18|3.17|E|type:railwaystation_region:BG-23|display=inline,title}} 
+| line          = &lt;!-- line information is detailed under "services" --&gt;
+| other         = 
+| structure     = sub-surface
+| platform      = side
+| depth         = 
+| levels        = 2
+| tracks        = 2
+| parking       = 
+| bicycle       = 
+| baggage_check = 
+| opened        = 31-Aug-2012
+| closed        = 
+| rebuilt       = 
+| electrified   = 
+| ADA           = 
+| code          = 2993; 2994
+| owned         = [[Sofia#Administration|Sofia Municipality]]
+| zone          = 
+| smartcardname =
+| smartcardstatus =
+| former        = 
+| passengers    = 
+| pass_year     = 
+| pass_percent  = 
+| pass_system   = 
+| mpassengers   = 
+| services      = {{s-rail|title=Sofia Metro}}
+{{s-line|system=Sofia Metro|line=Line 2|previous=Han Kubrat|next=Beli Dunav}}
+| map_locator   = [[File:Map8 eng trans.png|300px]]
+| web           = 
+}}
+{{Sofia Metro Blue line}}
+'''Nadezhda Metro Station''' ({{lang-bg|Метростанция „Надежда“}}) is a station on the [[Sofia Metro]] in [[Bulgaria]].  It was put into operation on August 31, 2012. Bulgaria's PM [[Boyko Borisov]] and  the [[President of the European Commission]] [[Jose Manuel Barroso]] inaugurated the new section of the Sofia Metro, which was funded with EU money. &lt;ref&gt;{{cite web|url=http://www.novinite.com/view_news.php?id=142808 |title=Bulgaria: Sofia Expands Its Metro, Barroso Pleased |publisher=Novinite.com |date= |accessdate=2012-09-01}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.focus-fen.net/index.php?id=n286275 |title=Jose Manuel Barroso: Sofia subway’s new line is an example of what can be expected from Europe |publisher=Focus-fen.net |date= |accessdate=2012-09-01}}&lt;/ref&gt;
+
+==Public Transportation==
+* [[Public buses in Sofia|City Bus service]]: 86
+
+==Gallery==
+&lt;gallery&gt;
+File:Надежда 2.jpg|
+&lt;/gallery&gt;
+* [http://vijsofia.eu/bg/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8/%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-2-%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F-3-%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-31 vijsofia.eu]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commonscat-inline|Nadezhda (Sofia Metro)|Nadezhda Metro Station}}
+*{{Facebook|ms.nadezhda|Nadezhda Metro Station}}
+* [http://www.metropolitan.bg/ Sofia Metropolitan]
+* [http://vijsofia.eu/bg/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8/%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-2-%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F-3-%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-31/ More info in Bulgarian]
+
+[[Category:Sofia Metro stations]]
+[[Category:Railway stations opened in 2012]]
+[[Category:2012 establishments in Bulgaria]]
+
+{{Europe-metro-stub}}
+{{Bulgaria-transport-stub}}</text>
+      <sha1>tab7f7r1idbjbjmtfhbzpz5vgsfs47g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nightmare (novel)</title>
+    <ns>0</ns>
+    <id>54490272</id>
+    <revision>
+      <id>869027578</id>
+      <parentid>841587643</parentid>
+      <timestamp>2018-11-15T23:21:25Z</timestamp>
+      <contributor>
+        <username>Lastet</username>
+        <id>25774892</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1715">{{infobox book | &lt;!-- See Wikipedia:WikiProject_Novels or Wikipedia:WikiProject_Books --&gt;
+| name         = Nightmare
+| title_orig   = Košmar
+| image        =
+| caption      =
+| author       = [[Zlatko Topčić]]
+| cover_artist = 
+| country      = [[Bosnia and Herzegovina]]&lt;br /&gt;[[Turkey]] ([[Istanbul]])&lt;br /&gt;[[Slovenia]] ([[Novo Mesto]])
+| language     = [[Bosnian language|Bosnian]]&lt;br /&gt;[[Turkish language|Turkish]]&lt;br /&gt;[[Slovenian language|Slovenian]]
+| series       = 
+| genre        =
+| publisher    =
+| release_date =
+| media_type   = 
+| pages        =
+| preceded_by  = 
+| followed_by  = 
+}}
+'''''Nightmare''''' ({{lang-bs|Košmar}}) is a contemporary Bosnian [[bestseller]] novel by [[Zlatko Topčić]] published in 1997. 
+
+Novel set the guidelines and became a model of the other Bosnian novels. It received the prestigious Annual Award of the Association of Writers of Bosnia and Herzegovina. 
+
+It was translated into [[Turkish language|Turkish]] (Saray Bosna da kabus, Gendas, [[Istanbul]], 1998) and [[Slovenian language|Slovenian]] (Mora, Založba Goga, [[Novo Mesto]], 2003).&lt;ref&gt;{{cite web|url=http://www.ntv.ba/knjiga-sedmice-kosmar-zlatko-topcic/|title=KNJIGA SEDMICE: „KOŠMAR“ Zlatko Topčić|work=ntv.ba|date=1 October 2014|accessdate=7 July 2017}}&lt;/ref&gt;
+
+==Characters==
+*Adi Solak, an intellectual, a journalist, a critic, an essayist&lt;br /&gt; 
+*Aca Nikolić, Solak's double, Chetnik Duke
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Nightmare}}
+[[Category:1997 novels]]
+[[Category:20th century in fiction]]
+[[Category:Bosnia and Herzegovina culture]]
+[[Category:Bosnia and Herzegovina literature]]
+[[Category:Novels set in Bosnia and Herzegovina]]
+
+{{1990s-novel-stub}}
+{{Europe-novel-stub}}</text>
+      <sha1>31h6r38chkk6d0uan4at3nra0okam9g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Palazzo Pubblico (San Marino)</title>
+    <ns>0</ns>
+    <id>10267593</id>
+    <revision>
+      <id>772780790</id>
+      <parentid>744584395</parentid>
+      <timestamp>2017-03-29T08:37:47Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Presidential palaces to [[:Category:Presidential  residences]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 February 6]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2005">{{Refimprove|date=September 2014}}
+
+[[Image:Parliament San Marino.jpg|thumb|San Marino's Palazzo Pubblico]]
+[[File:Chamber of the Grand and General Council of San Marino.JPG|thumb|Chamber of the [[Grand and General Council]]]]
+The '''{{lang|it|Palazzo Pubblico}}''' (‘Public Palace’) is the [[town hall]] of the [[City of San Marino]] as well as its official Government Building. The building, where official State ceremonies take place, is the seat of the Republic's main institutional and administrative bodies: the Captains Regent, the [[Grand and General Council]], the Council of XII, and the Congress of State.
+
+The main section of the building is topped by [[battlements]] over a series of [[corbel]]s. The clock tower above also features such an arrangement with battlements and corbels. The overall design is similar to the [[Palazzo Vecchio]] in Florence, but on a much smaller scale.&lt;ref name=medieval&gt;{{cite book|title=Manufacturing Middle Ages: Entangled History of Medievalism in Nineteenth-Century Europe|url=https://books.google.com/books?id=8fKZAAAAQBAJ&amp;pg=PA343|date=2013-08-22 |publisher=Brill|isbn=978-90-04-24487-0|page=343| quote=The Palazzo Pubblico of San Marino is a Florentine Palazzo della Signoria [=Palazzo Vecchio] in miniature}}&lt;/ref&gt;
+
+Located on the site of an ancient building called the ''Domus Magna Comunis'', the current building was designed by the Roman architect [[Francesco Azzurri]] and was built between 1884 and 1894. After a hundred years of existence, it was becoming unsafe in today's standards, so a complex restoration project was undergone. The intervention was completed by the internationally renowned architect [[Gae Aulenti]] on 30 September 1996.
+
+==References==
+{{Reflist}}
+
+{{coord|43.9369|N|12.4466|E|type:landmark|display=title}}
+
+[[Category:Buildings and structures in the City of San Marino]]
+[[Category:Seats of local government]]
+[[Category:Presidential residences]]
+[[Category:Government buildings completed in 1894]]
+
+{{SanMarino-stub}}</text>
+      <sha1>9kod2z0wuhavwgj812wb9v7eka50eqd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>President of the Court of Appeal of Malaysia</title>
+    <ns>0</ns>
+    <id>58786547</id>
+    <revision>
+      <id>871699618</id>
+      <parentid>870623210</parentid>
+      <timestamp>2018-12-02T21:52:28Z</timestamp>
+      <contributor>
+        <username>Katharineamy</username>
+        <id>2590656</id>
+      </contributor>
+      <comment>added [[Category:Judiciary of Malaysia]]; removed {{uncategorized}} using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4741">{{EngvarB|date=October 2018}}
+{{Use dmy dates|date=July 2018}}
+{{Infobox official post
+| post                     = President of the Court of Appeal
+| body                     = Malaysia
+| native_name              =
+| insignia                 = Coat of arms of Malaysia.svg
+| insigniasize             =
+| insigniacaption          =
+| image                    =
+| imagesize                =
+| incumbent                = [[Ahmad Maarop|Ahmad Haji Maarop]]
+| incumbentsince           = 11 July 2018
+| department               =
+| style                    = [[Malay titles|Yang Amat Arif]]&lt;br&gt;{{small|(The Very Wise)}}
+| member_of                = [[Federal Court of Malaysia]]
+| reports_to               =
+| residence                =
+| seat                     = [[Palace of Justice, Putrajaya|Palace of Justice]], [[Putrajaya]]
+| nominator                = [[Prime Minister of Malaysia]]
+| appointer                = [[Yang di-Pertuan Agong]]
+| appointer_qualified      =
+| termlength               = mandatory retirement age at 65 or 66 (at request for minimal extension), extension retirement age at 68 or 70.
+| constituting_instrument  = [[Constitution of Malaysia|Federal Constitution of Malaysia]]
+| formation                =
+| inaugural                = [[Lamin Haji Mohd Yunos]]
+| deputy                   =
+| salary                   = 
+| website                  = {{URL|http://www.kehakiman.gov.my/}}
+}}
+
+The '''President of the Court of Appeal of Malaysia''' (Malay: ''Presiden Mahkamah Rayuan''), is the office and title of the deputy head of the Malaysian judiciary system. The title has been in use since 24 June 1994, when the [[Court of Appeal of Malaysia]] was formed. The President of the Court of Appeal is the head of the Court of Appeal, the second highest court of Malaysia. It is the second highest position in Malaysian judicial system after the [[Chief Justice of Malaysia]] and followed by the [[Chief Judge of Malaya]], and the [[Chief Judge of Sabah and Sarawak]].&lt;ref&gt;{{cite web|url=http://www.kehakiman.gov.my/courts/maljudiciary.shtml#Ope|title=The Malaysian Judiciary: Operation of the court|publisher=Malaysian Court|accessdate=15 April 2007|archiveurl=https://web.archive.org/web/20110709144745/http://www.kehakiman.gov.my/courts/maljudiciary.shtml|archivedate=9 July 2011|deadurl=yes}}&lt;/ref&gt;
+
+== Presidents of the Court of Appeal of Malaysia ==
+* [[Lamin Haji Mohd Yunos]] (1994 to 2001)&lt;ref name=":2"&gt;{{cite web|url=http://www.kehakiman.gov.my/en/court/appeal-court/former-presidents-court-appeal|accessdate=17 October 2018|title=Former Presidents of the Court of Appeal|publisher=Official Website Office of the Chief Registrar Federal Court of Malaysia|date=12 October 2018}}&lt;/ref&gt;
+* [[Wan Adnan Ismail]] (2001)&lt;ref name=":2" /&gt;&lt;ref&gt;{{cite web|url=http://ww1.utusan.com.my/utusan/info.asp?y=2001&amp;dt=0907&amp;pub=Utusan_Express&amp;sec=Front_Page&amp;pg=fp_02.htm|date=7 September 2001|publisher=[[Utusan Malaysia]]|accessdate=17 October 2018|title=Zaki is new Chief Justice (updated)|work=Shaila Koshy}}&lt;/ref&gt;
+* [[Ahmad Fairuz Abdul Halim]] (2002 to 2003)&lt;ref name=":2" /&gt;
+* [[Abdul Malik Ahmad]] (2004 to 2007)&lt;ref name=":2" /&gt;
+* [[Abdul Hamid Mohamad]] (2007)&lt;ref name=":2" /&gt;
+* [[Zaki Azmi]] (2007 to 2008)&lt;ref name=":2" /&gt;&lt;ref name=":1"&gt;{{cite web|url=https://www.thestar.com.my/news/nation/2008/10/16/zaki-is-new-chief-justice-updated/|publisher=[[The Star (Malaysia)|The Star]]|accessdate=17 October 2018|title=Zaki is new Chief Justice (updated)|work=Shaila Koshy}}&lt;/ref&gt;
+* [[Alauddin Mohd Sheriff]] (2008 to 2011)&lt;ref name=":2" /&gt;&lt;ref name=":1" /&gt;
+* [[Md Raus Sharif]] (2011 to 2017)&lt;ref name=":2" /&gt;&lt;ref&gt;{{cite web|url=http://thestar.com.my/news/story.asp?file=/2011/9/6/nation/9431247&amp;sec=nation|title=Arifin appointed Chief Justice|publisher=The Star|date=6 June 2011|accessdate=11 September 2011|archiveurl=https://web.archive.org/web/20120922224855/http://thestar.com.my/news/story.asp?file=%2F2011%2F9%2F6%2Fnation%2F9431247&amp;sec=nation|archivedate=22 September 2012|deadurl=yes}}&lt;/ref&gt;
+* [[Zulkefli Ahmad Makinudin]] (2017 to 2018)&lt;ref name=":2" /&gt;&lt;ref&gt;{{cite web|title=Md Raus appointed new Chief Justice|url=http://www.thestar.com.my/news/nation/2017/04/01/new-chief-justice/ |publisher=The Star |accessdate=1 April 2017 }}&lt;/ref&gt;
+* [[Ahmad Maarop|Ahmad Haji Maarop]] (2018 to present)&lt;ref&gt;{{cite web|url=https://www.bharian.com.my/berita/nasional/2018/07/448012/richard-malanjum-ketua-hakim-negara-yang-baharu|title=Richard Malanjum Ketua Hakim Negara yang baharu|work=Bernama|publisher=Berita Harian|date=11 July 2018|accessdate=12 July 2018}}&lt;/ref&gt;
+
+== See also ==
+* [[Courts of Malaysia]]
+
+== References ==
+&lt;references /&gt;
+
+
+{{Asia-law-stub}}
+{{Malaysia-stub}}
+
+
+
+[[Category:Judiciary of Malaysia]]</text>
+      <sha1>k2e23zwohl8rfg24axqhp1ecq60paje</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Radio SEAC</title>
+    <ns>0</ns>
+    <id>3597445</id>
+    <revision>
+      <id>835296448</id>
+      <parentid>832137012</parentid>
+      <timestamp>2018-04-07T20:19:23Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.5)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1246">'''Radio SEAC''' was the war time radio station operated by the Allied [[South East Asia Command]] (SEAC) that took over the operations of [[Colombo Radio]], a Ceylonese radio station launched in 1925. Radio programs were broadcast across Asia to the allied forces and to the people of [[British India|India]] and [[South Asia]].
+
+Radio SEAC was handed over to the Government of [[Ceylon]] after [[World War II]] who changed the name to [[Radio Ceylon]]. The station is the oldest radio station in Asia (world's second oldest). Millions tuned into Radio SEAC and subsequently Radio Ceylon.
+
+==See also==
+
+*[[Radio Ceylon]]
+
+== External links ==
+*[https://web.archive.org/web/20060321233514/http://www.dailynews.lk/2005/12/21/fea10.htm  SLBC-creating new waves of history]
+*[https://web.archive.org/web/20080925204950/http://www.dailynews.lk/2005/12/27/fea02.htm Eighty Years of Broadcasting in Sri Lanka]
+* [http://www.slbc.lk Sri Lanka Broadcasting Corporation]
+
+{{coord missing|Sri Lanka}}
+
+[[Category:Radio stations in Sri Lanka]]
+[[Category:Radio during World War II]]
+[[Category:Radio stations established in 1925]]
+[[Category:Ceylon in World War II]]
+[[Category:British Empire in World War II]]
+{{SriLanka-stub}}
+{{Asia-radio-station-stub}}</text>
+      <sha1>9y61hvbiof43keawwe7wbemjqgw3xyo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Saudi Advanced Industries Company</title>
+    <ns>0</ns>
+    <id>4521531</id>
+    <revision>
+      <id>823771403</id>
+      <parentid>769728525</parentid>
+      <timestamp>2018-02-03T08:44:53Z</timestamp>
+      <contributor>
+        <username>Emk9</username>
+        <id>32634809</id>
+      </contributor>
+      <comment>not an orphaned page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2071">{{Refimprove|date=April 2011}}
+
+
+{{ infobox company
+| name             = Saudi Advanced Industries Company (SAIC) &lt;br /&gt; &lt;big&gt;الشركة السعودية للصناعات المتطورة &lt;/big&gt;
+| logo             = 
+| caption          = 
+| type             = [[Public company|Public]] 
+| genre            = 
+| fate             = 
+| predecessor      = 
+| successor        = 
+| foundation       = 1987
+| founder          = 
+| defunct          = 
+| location_city    = [[Riyadh]]
+| location_country = [[Saudi Arabia]]    
+| location         = 
+| locations        = 
+| area_served      = 
+| key_people       = [[Khalid Al-Shathry]] &lt;small&gt;(Chairman)&lt;/small&gt;&lt;br /&gt;[[Abdulrahman Al Garawi]] &lt;small&gt;(Managing Director)&lt;/small&gt;&lt;br /&gt;[[Saad Ammash Al-Shammary]] &lt;small&gt;(General Manager)&lt;/small&gt;
+| industry         = 
+| products         = 
+| services         = 
+| revenue          = 
+| operating_income = 
+| net_income       = 
+| aum              = 
+| assets           = 
+| equity           = 
+| owner            = 
+| num_employees    = 
+| parent           = 
+| divisions        = 
+| subsid           = 
+| homepage         = http://www.saic.com.sa
+| footnotes        = 
+| intl             = 
+}}
+
+'''Saudi Advanced Industries Company''' is an industrial [[investment]] vehicle of the U.S. Peace Shield defense offset program. The company was formed in 1987, and invests in [[technology]] companies in [[Saudi Arabia]]. It also holds interests in AlSalam Aircraft Company and the Aircraft Accessories &amp; Components Company, both in Saudi Arabia.&lt;ref&gt;[https://www.bloomberg.com/apps/quote?ticker=SAIC:AB]&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.saic.com.sa/ Official website]
+
+{{DEFAULTSORT:Saudi Advanced Industries Company}}
+[[Category:1987 establishments in Saudi Arabia]]
+[[Category:Companies of Saudi Arabia]]
+[[Category:Companies established in 1987]]
+[[Category:Companies listed on Tadawul]]
+[[Category:Investment companies of Saudi Arabia]]
+[[Category:Technology companies of Saudi Arabia]]
+
+
+{{Industry-stub}}
+{{Asia-company-stub}}
+{{Saudi-stub}}</text>
+      <sha1>2m43ow6iqktccqv4uqymd06lysaw3gj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>St. George's Battery</title>
+    <ns>0</ns>
+    <id>39012972</id>
+    <revision>
+      <id>759623446</id>
+      <parentid>744619728</parentid>
+      <timestamp>2017-01-12T07:04:54Z</timestamp>
+      <contributor>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
+      </contributor>
+      <comment>Migrate {{Infobox military installation}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1205">{{about|the battery in Gibraltar|the one in Malta|Ferretti Battery}}
+{{Infobox military structure
+|name = St. George's Battery
+|native_name =  
+|partof = [[Fortifications of Gibraltar]] 
+|location =[[Gibraltar]] 
+|image = 
+|caption = 
+|map_type = &lt;!-- Gibraltar --&gt;
+|map_size = 300 
+|map_alt = 
+|map_caption = Location in [[Gibraltar]] 
+|type = [[Artillery Battery]] 
+|coordinates = 
+|code = 
+|built =
+|builder = 
+|materials = 
+|height = 
+|used = 
+|demolished = 
+|condition = 
+|ownership = [[Ministry of Defence (United Kingdom)|Ministry of Defence]] 
+|open_to_public =  
+|controlledby = 
+|garrison = 
+|current_commander = 
+|commanders = 
+|occupants = 
+|battles = 
+|events = 
+|image2 = 
+|caption2 = 
+}}
+'''St. George&amp;#39;s Battery''' is an [[artillery battery]] in the [[British Overseas Territories|British Overseas Territory]] of [[Gibraltar]].&lt;ref&gt;{{cite book|author=Fa &amp; Finlayson|title=The Fortifications of Gibraltar 1068–1945|url=https://books.google.com/books?id=BC5QBR0oB04C&amp;pg=PA31|accessdate=4 April 2013|year=2006|publisher=Osprey Publishing|isbn=978-1-84603-016-1}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+
+{{Fortifications of Gibraltar}}
+
+[[Category:Batteries in Gibraltar]]
+
+{{Gibraltar-stub}}</text>
+      <sha1>qump8pwqy3vqk7qtzhcmo3wwt82f7w8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stryhaniec</title>
+    <ns>0</ns>
+    <id>38754378</id>
+    <revision>
+      <id>776769959</id>
+      <parentid>772052687</parentid>
+      <timestamp>2017-04-23T05:13:57Z</timestamp>
+      <contributor>
+        <username>Jerome501</username>
+        <id>21791828</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2038">{{Orphan|date=March 2017}}
+
+{{Infobox settlement
+|name=Stryhaniéc
+|native_name      = Стрыганец
+|nickname           = 
+|image_skyline      =
+|image_size         = 
+|image_caption      =
+|image_flag         = 
+|image_seal         = 
+|image_map          = 
+|map_caption        = 
+|pushpin_map=Belarus
+|subdivision_type   = [[Countries of the world|Country]]
+|subdivision_name   = {{flag|Belarus}}
+|subdivision_type1  = [[Voblast]]
+|subdivision_name1  = [[Brest Voblast]]
+|subdivision_type2  = [[Raion]]
+|subdivision_name2  = [[Zhabinka Raion]]
+|subdivision_type3  = Village council (sielsaviet)
+|subdivision_name3  = Rakitnitsky
+|leader_title       = 
+|leader_name        = 
+|established_title  =
+|established_date   =
+|area_magnitude     = 
+|area_total_km2     = 
+|area_land_km2      = 
+|area_water_km2     = 
+|population_as_of   =
+|population_note    = 
+|population_total   =
+|population_metro   = 
+|population_density_km2 = 
+|timezone           = [[Eastern European Time|EET]]
+|utc_offset         = +2
+|timezone_DST       = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST     = +3
+|coordinates        = {{coord|52|6|47|N|24|1|50|E|region:BY|display=inline}}
+|elevation_m         = 
+|postal_code_type   = Postal code
+|postal_code        = 225216&lt;ref name=autogenerated1&gt;[http://zip.belpost.by/index/search?name_soato=%F1%F2%F0%E8%E3%E0%ED%E5%F6&amp;street=&amp;btn_seek=%C8%F1%EA%E0%F2%FC Почтовые индексы, почтовые коды, телефонные коды городов&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+|area_code          = +375 1641&lt;ref name=autogenerated1 /&gt;
+|blank_name         = License plate 
+|blank_info         = 1
+|website            =
+|footnotes          = 
+}}
+'''Stryhaniéc''' ({{lang-ru|Стрыханец}} ''Strykhanets'') is a village in the Belarusian [[Zhabinka Raion|Zhabinka]] [[raion]], in [[Brest Voblast|Brest]] [[voblast]]. Stryhaniéc is administered by the Rakitnisky village council.
+
+==References==
+{{reflist}}
+
+[[Category:Populated places in Brest Region]]
+
+
+{{Belarus-stub}}</text>
+      <sha1>aqyvqsdqxw1219gv0esns76qsz519jl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tax equalization</title>
+    <ns>0</ns>
+    <id>7638963</id>
+    <revision>
+      <id>845801143</id>
+      <parentid>844322135</parentid>
+      <timestamp>2018-06-14T07:04:45Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2880">{{Taxation|expanded=International}}
+The problem of tax equalisation arises when an individual is working for an international company and starts to work abroad his home country. There are questions of who should pay taxes and how much should he pay.
+Usually, the individual is receiving a net pay, which is the money he would have received in his home country after taxation. However, the company is obliged to pay taxes for its employee. If they are working in a country with lower taxes, the company takes the savings. On the other hand, if they work in country with higher taxation, the company pays the excess. Either way, the amount received by the employee is same. If the policy only benefits the employee (reducing taxes if working abroad results in higher taxes, but not raising them if working abroad results in lower taxes), then it is referred to as a '''tax protection''' policy.
+
+The term "tax equalization" is also used by some American states, such as [http://www.terc.ne.gov/ Nebraska] and [https://web.archive.org/web/20090713045737/http://www.co.ward.nd.us/taxequalization/ North Dakota] to refer to property [[Real estate appraisal|appraisal]] in the context of [[property tax]].
+
+== Theory ==
+The idea is that an individual´s income stays same.There are some steps how to determine the tax:
+
+Calculate the amount of money paid on taxes in individual´s home country. This sum of money is the hypothetical tax liability.
+
+Reduce the pay of the individual by his/her tax liability.
+
+Add any allowance that is necessary to be paid while he is abroad as a result of an assignment. This is his/her net assignment pay.
+== Complications==
+Although it may appear easy to calculate your net pay, there are some other difficulties influencing your net pay. For example, if you are using company car in your home country, should you receive some subsidies when you are abroad and unable to use it?
+Or how is your partner´s income treated?
+
+For whom is the split-year tax system beneficial?
+
+What if an individual leaves the company?
+
+Does your tax equalisation policy discourage individuals from acquiring property abroad?
+ 
+and many more.
+
+== Practice ==
+In practice, it is usually about agreement of both sides. Both parties should know on which basis is the tax calculated. After this is calculated, the amount is deducted from individual´s net pay on a regular basis throughout his assignment abroad.  It is common, that the company deducts a hypothetical liability at the beginning of the year and then undertakes tax reconciliation at the end of the year.
+
+
+
+== References ==
+* [http://www.expatexchange.com/lib.cfm?articleID=718 Tax Equalization], Tax Advice by Tim Lenneman, CPA
+* [http://www.internationalhradviser.com/storage/downloads/What%20Is%20Tax%20Equalisation%20BDO.pdf], What is tax equalization by Andrew Bailey
+
+[[Category:International taxation]]</text>
+      <sha1>p5vq1wivyab2491xg2jb2l64dm4z54p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tourism in the Comoros</title>
+    <ns>0</ns>
+    <id>18133586</id>
+    <revision>
+      <id>800732273</id>
+      <parentid>800731215</parentid>
+      <timestamp>2017-09-15T09:55:42Z</timestamp>
+      <contributor>
+        <username>Cote d'Azur</username>
+        <id>7314633</id>
+      </contributor>
+      <comment>/* External links */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1785">The [[Comoros]] does not have a strong tourist industry.
+
+== Tourist numbers ==
+Although the Comoros has many natural resources for tourism, such as its beaches and marine environment, it does not have as strong a tourist industry as its regional competitors [[Réunion]], [[Mauritius]], and [[Seychelles]]. Its weak tourist industry is mainly because of its insecure political climate, with many political upheavals over the past three decades.&lt;ref name=euro&gt;[http://www.euromonitor.com/Travel_And_Tourism_in_Comoros Travel and Tourism in Comoros], Euromonitor&lt;/ref&gt;
+
+Tourists in the Comoros are mainly wealthy Americans and Europeans, while much of the investment in hotels has come from [[South Africa]].&lt;ref name=Boniface&gt;{{cite book |title=Worldwide Destinations: The Geography of Travel and Tourism |last=Boniface |first=Brain G. |author2=Christopher P. Cooper  |year=2001 |publisher=Butterworth-Heinemann |isbn=0-7506-4231-9 |pages=252 }}&lt;/ref&gt;
+
+== Tourist attractions ==
+The main tourist attractions in the Comoros are its beaches, underwater fishing, and mountain scenery.&lt;ref name=Taylor&gt;{{cite book |title=Africa South of the Sahara 2004 |last= |first= |year=2003 |publisher=Taylor &amp; Francis Group, Routledge |location= |isbn=1-85743-183-9 |pages=256 }}&lt;/ref&gt; [[Mohéli]] is a picturesque tourist attraction.&lt;ref name=Boniface/&gt; [[Grand Comore]] has an international airport and most of the Comoros' few hotels.&lt;ref name=Boniface/&gt;
+
+== References ==
+{{reflist}}
+
+==External links==
+{{wikivoyage|Comoros}}
+*[http://www.comorosdiscover.com/ Official website of the Comoros National Tourism Office]
+
+{{Economy of Comoros}}
+{{Tourism in Africa}}
+{{Comoros topics}}
+
+[[Category:Tourism in Africa|Comoros]]
+[[Category:Tourism in the Comoros| ]]
+
+
+{{Comoros-stub}}
+{{tourism-stub}}</text>
+      <sha1>i3amsyfu9y1jmv277qfplelfoldn8dy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Union des Radios et Televisions Libres du Mali</title>
+    <ns>0</ns>
+    <id>7983882</id>
+    <revision>
+      <id>850430291</id>
+      <parentid>819806329</parentid>
+      <timestamp>2018-07-15T20:31:14Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 3 sources and tagging 0 as dead. #IABot (v2.0beta)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2813">'''URTEL''' is an acronym for ''Union des Radios et Televisions Libres du Mali'', the agency responsible for regulating television and radio transmission operations in [[Mali]].
+
+==Operations==
+URKEL is affiliated with the following [[NGOs]], which together form the ''Comité d’Appui à la Radio pour le Développement'', or "CARD".[http://urtel.radio.org.ml./article.php3?id_article=5]
+
+*[[ACDI]]
+*[[Africare]]
+*[[Fondation Fredrich Ebert]]
+*[[Helen Keller International]]
+*[[Institut Panos]]
+*[[Plan International]]
+*[[PNUD]]
+*[[Population Médias Center]]
+*[[Population Services International]]
+*[[SNV Netherlands Development Organisation]]
+*[[UNESCO]]
+*[[Unicef Mali]]
+*[[USAID Mali]]
+
+==See also==
+*[[Communications in Mali]]
+
+==References==
+{{Reflist}}
+* Peter Coles, [https://www.newscientist.com/article/mg14819984.100-turn-your-radio-on.html Turn your radio on]. [[New Scientist]], 7 October 1995.
+* [http://www.freedomhouse.org/modules/mod_call_dsp_country-fiw.cfm?year=2007&amp;country=7225 Mali (2007)]: [[Freedom House]] report.
+* [http://www.rsf.org/article.php3?id_article=18728 Six radio station staff freed on completing sentences: Mali].  [[Reporters Without Borders]], 26 September 2006.
+* [https://www.forbes.com/global/2002/0204/042.html Silicon Mali]. Silvia Sansoni, [[Forbes]] 02.04.02.
+* [https://web.archive.org/web/20080314110336/http://voanews.com/english/archive/2005-09/2005-09-13-Mali-training.cfm VOA Training African Affiliates: Broadcasters’ Fiscal Health Key ‘To Guarantee Pluralism’].  [[Voice of America]], 13 September 2005
+* [https://web.archive.org/web/20070608105722/http://aec.msu.edu/fs2/fact/idwp54l.htm Mali Market Information Study] FOOD SECURITY II COOPERATIVE AGREEMENT between U.S. AGENCY FOR INTERNATIONAL DEVELOPMENT and MICHIGAN STATE UNIVERSITY: IN-COUNTRY TIME PERIOD: JULY 1987 - DECEMBER 1994.  ''statistical evidence is consistent with anecdotal reports from both farmers and traders that the SIM radio broadcasts have fundamentally changed bargaining relationships between traders and farmers, forcing traders to offer more competitive prices in isolated rural markets.''
+* Cécile Leguy. [http://inscribe.iupress.org/doi/abs/10.2979/RAL.2007.38.3.136?cookieSet=1&amp;journalCode=ral  Revitalizing the Oral Tradition: Stories Broadcast by Radio Parana (San, Mali)]. Research in African Literatures, Fall 2007, Vol. 38, No. 3, Pages 136-147.
+*[http://www.africa.upenn.edu/Electronic/Radio_Bamakan_12700.html Radio Bamakan - Mali]. InteRadio, Vol. 5, No.2, June 1993.
+
+==External links==
+*[https://web.archive.org/web/20070312082256/http://urtel.radio.org.ml/ URTEL {{fr icon}} ]
+
+[[Category:Media in Mali]]
+[[Category:Government of Mali]]
+[[Category:Organisations based in Mali]]
+[[Category:Communications authorities]]
+
+
+{{Mali-stub}}
+{{Africa-org-stub}}</text>
+      <sha1>6pmhremu243t10ofuu43ww294w65nd8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ģīga</title>
+    <ns>0</ns>
+    <id>22077541</id>
+    <revision>
+      <id>857830636</id>
+      <parentid>553870666</parentid>
+      <timestamp>2018-09-03T08:59:31Z</timestamp>
+      <contributor>
+        <username>Turaids</username>
+        <id>8725456</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="806">[[File:1991 CPA 6373.jpg|300px|thumb|Postage stamp showing Latvian traditional instruments, amongst those the ģīga]]
+The '''ģīga''' or '''divstīdzis''' is a two-stringed bowed zither found in [[Latvia]].
+
+The instrument is descended from the [[psalmodicon]] ({{lang-lv|vienstīdzis}} or ''manihorka''), a bowed [[monochord]] developed in [[Sweden]] in 1829 for liturgical singing. From there it filtered down to the Latvian peasantry who sometimes added a second string for harmony.&lt;ref&gt;Folklora.lv&lt;/ref&gt;
+
+==See also==
+*[[Fiðla]], a bowed zither native to Iceland
+
+==Sources==
+*[http://folklora.lv/muzikas/giga/en.shtml Folklora.lv]
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Giga}}
+[[Category:Latvian musical instruments]]
+[[Category:Bowed box zithers]]
+
+
+{{latvia-stub}}
+{{musical-instrument-stub}}</text>
+      <sha1>1him4yfoh2dlzal5b5y8y46ezfvd8a6</sha1>
+    </revision>
+  </page>
+</mediawiki>

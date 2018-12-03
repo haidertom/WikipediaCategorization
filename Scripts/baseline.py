@@ -137,11 +137,7 @@ class Baseline:
 		main_categories = self.get_subcategories(self.origin_category)
 
 		# loop over all main categories
-<<<<<<< HEAD
-		for cat in main_categories[7:]:
-=======
-		for cat in main_categories:
->>>>>>> 933600f4a6953aee20dc98ce8af3385cfc1bc59a
+		for cat in main_categories[4:]:
 			print("looking for titles in category: {} ".format(cat))
 
 			self.index[cat] = []

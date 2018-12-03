@@ -1,0 +1,2824 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>1978 Thessaloniki earthquake</title>
+    <ns>0</ns>
+    <id>31167412</id>
+    <revision>
+      <id>863293559</id>
+      <parentid>862130532</parentid>
+      <timestamp>2018-10-09T21:37:55Z</timestamp>
+      <contributor>
+        <username>Dawnseeker2000</username>
+        <id>1544984</id>
+      </contributor>
+      <comment>switch to template, link maintenance</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3376">{{Infobox earthquake
+| title = 1978 Thessaloniki earthquake
+| image =
+| image alt =
+| imagecaption =
+| map =
+| map alt =
+| image name =
+| map2 = {{Location map+|Greece|relief=1|float=center|places=
+{{Location map~|Greece|lat=40.6|long=23.3|mark=Bullseye1.png|marksize=40|position=top|width=250|float=center}}
+{{Location map~|Greece|lat=40.65|long=22.9|label=[[Thessaloniki]]|label_size=100|position=left|mark=Green pog.svg}}
+{{Location map~|Greece|lat=37.96|long=23.71|label=[[Athens]]|label_size=100|position=left|mark=Green pog.svg}}
+| caption = 
+}}
+| mapsize =
+| timestamp = 1978-06-20 20:03
+| local-date  = {{Start date|1978|6|20|df=yes}}
+| local-time  = 23:03
+| isc-event   = 681154
+| anss-url    = usp0000v5r
+| magnitude = 6.2 {{M|w|link=y}} &lt;ref name=Utsu/&gt;
+| location = {{Coord|40.6|N|23.3|E|type:event_scale:50000000|display=inline,title}} &lt;ref name=Utsu/&gt;
+| depth = 16km
+| type = [[Fault (geology)#Dip-slip faults|Normal]] &lt;ref name=PAGER-CAT/&gt;
+| intensity = [[Mercalli intensity scale|VIII (''Severe'')]] &lt;ref name=Psycharis/&gt;
+| countries affected = Greece &lt;br&gt; Yugoslavia &lt;br&gt; Bulgaria
+| damage = $250 million – $1 billion &lt;ref name=PAGER-CAT/&gt;
+| casualties = 45–50 killed &lt;ref name=PAGER-CAT/&gt; &lt;br&gt; 100–220 injured &lt;ref name=PAGER-CAT/&gt;
+}}
+
+The '''1978 Thessaloniki earthquake''' ({{lang-el|Μεγάλος Σεισμός της Θεσσαλονίκης}}) occurred on 20 June at {{Tooltip|23:03 local time|20:03 UTC}}. The shock registered 6.2 on the [[moment magnitude scale]], had a maximum [[Mercalli intensity scale|Mercalli intensity]] of VIII (''Severe''), and was felt throughout [[northern Greece]], [[Yugoslavia]] and [[Bulgaria]]. It was the largest event in the area since the [[1932 Ierissos earthquake]].&lt;ref name="Maniateas"&gt;{{cite book |title= 100+1 Years of Greece |volume=Volume 2 |publisher= Maniateas Publishing |year= 1999 |location=Athens |pages=210–211}}&lt;/ref&gt;
+
+==See also==
+*[[List of earthquakes in Greece]]
+
+==References==
+{{reflist|refs=
+&lt;ref name=PAGER-CAT&gt;{{citation|title=PAGER-CAT Earthquake Catalog|url=https://earthquake.usgs.gov/static/lfs/data/pager/catalogs/|author=USGS|date=2009|publisher=[[United States Geological Survey]]|series=Version 2008_06.1}}&lt;/ref&gt;
+&lt;ref name=Psycharis&gt;{{citation|title=The Salonica (Thessaloniki) earthquake of June 20, 1978|url=https://authors.library.caltech.edu/26430/1/7803.pdf|first=I.|last=Psycharis|date=1978|publisher=[[Caltech Seismological Laboratory|Earthquake Engineering Research Laboratory]]|series=EERL 78-03|page=1}}&lt;/ref&gt;
+&lt;ref name=Utsu&gt;{{citation|title=International Handbook of Earthquake &amp; Engineering Seismology|series=Part A, Volume 81A|chapter=A List of Deadly Earthquakes in the World: 1500–2000|first=T. R.|last=Utsu|year=2002|publisher=[[Academic Press]]|edition=First|isbn=978-0124406520|page=708}}&lt;/ref&gt;
+}}
+
+==External links==
+* [https://web.archive.org/web/20100123173040/http://earthquake.usgs.gov/earthquakes/eqarchives/significant/sig_1978.php Significant earthquakes of the world - 1978] – [[United States Geological Survey]]
+* {{EQ-isc-link|681154}}
+
+{{Earthquakes in 1978}}
+{{Earthquakes in Greece}}
+
+{{DEFAULTSORT:1978 Thessaloniki Earthquake}}
+[[Category:History of Thessaloniki]]
+[[Category:Earthquakes in Greece]]
+[[Category:1978 in Greece]]
+[[Category:1978 earthquakes]]
+[[Category:June 1978 events in Europe]]
+
+
+{{Greece-stub}}
+{{Earthquake-stub}}</text>
+      <sha1>6rxxt5vpbrb3b55z9mr4j6ta1gpr0kx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2005 NFL Europe season</title>
+    <ns>0</ns>
+    <id>44344825</id>
+    <revision>
+      <id>806731136</id>
+      <parentid>806730992</parentid>
+      <timestamp>2017-10-23T20:25:56Z</timestamp>
+      <contributor>
+        <username>Coasttocoast</username>
+        <id>751151</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="658">{{unreferenced|date=November 2014}}
+
+The 2005 [[NFL Europe]] season was the 13th season in 15 years of the [[American Football]] league that started out as the '''World League of American Football'''. The [[Hamburg Sea Devils]] replaced the [[Scottish Claymores]] for the 2005 season.
+
+{{2005 NFLE standings}}
+
+==World Bowl XIII==
+[[World Bowl XIII]] was held on Saturday, June 11, 2005 at [[LTU Arena]] in Düsseldorf, Germany. The [[Amsterdam Admirals]] defeated the [[Berlin Thunder]], 27-21.
+
+== References ==
+{{reflist}}
+
+{{NFLE}}
+
+[[Category:2005 in American football]]
+[[Category:NFL Europe (WLAF) seasons]]
+
+
+{{Americanfootball-stub}}
+{{Europe-stub}}</text>
+      <sha1>pgxkiy1s6z971f2noo5i5br9mvt8cl1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2008 Iceland earthquake</title>
+    <ns>0</ns>
+    <id>17679724</id>
+    <revision>
+      <id>871022854</id>
+      <parentid>867770556</parentid>
+      <timestamp>2018-11-28T12:39:31Z</timestamp>
+      <contributor>
+        <username>Dawnseeker2000</username>
+        <id>1544984</id>
+      </contributor>
+      <comment>refine ref details</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4872">{{Infobox earthquake
+|title              = 2008 Iceland earthquake
+|map                = 2008 Iceland earthquake.jpg
+|timestamp  = 2008-05-29 15:46:00
+|isc-event  = 13230288
+|anss-url   = usp000g826
+|local-date               = {{Start date|2008|5|29}}
+|local-time         = 15:46
+|magnitude          = 6.3 {{M|wc|link=y}}&lt;ref name="short-isc|ehb|13230288"&gt;{{short-isc|ehb|13230288}}.&lt;/ref&gt;
+|depth              = {{convert|10|km|mi|abbr=on}}&lt;ref name="short-isc|ehb|13230288"&gt;{{short-isc|ehb|13230288}}.&lt;/ref&gt;
+|location           = 63.96°N, 20.99°W &lt;ref name="short-isc|ehb|13230288"&gt;{{short-isc|ehb|13230288}}.&lt;/ref&gt;
+|type = Right-lateral [[Fault (geology)#Strike-slip faults|strike-slip]]&lt;ref name="Decriem"/&gt;
+|countries affected = [[Iceland]]
+|intensity          = [[Mercalli intensity scale|VIII (''Severe'')]]&lt;ref&gt;{{short-anss|Iceland|2008|sub-title= ShakeMap|sub-url= usp000g826#shakemap}}.&lt;/ref&gt;
+|casualties         = 30 injuries
+}}
+
+The '''2008 Iceland earthquake''' was a [[doublet earthquake]] that struck on May 29  at 15:46 [[UTC]] in southwestern [[Iceland]].&lt;ref name="Decriem"&gt;{{harvnb|Decriem|Árnadóttir|Hooper|Geirsson|2010|p=1144}}.&lt;/ref&gt; The recorded [[Moment magnitude scale|magnitude]]s of the two main quakes were 5.9 {{M|w|link=y}} and 5.8 {{M|w}}, respectively, giving a composite magnitude of 6.1{{M|w}}.&lt;ref&gt;{{harvnb| Decriem|Árnadóttir|Hooper|Geirsson|2010|p=1128}}.&lt;/ref&gt; There were no human fatalities, but 30 injuries were reported and a number of sheep were killed. The epicenter of the earthquake was between the towns of [[Hveragerði]] and [[Selfoss (town)|Selfoss]], about {{convert|45|km|mi|sp=us}} east-southeast of the capital, [[Reykjavík]]. It was the strongest earthquake to hit Iceland since the [[2000 Iceland earthquakes|summer of 2000]].&lt;ref&gt;{{harvnb|BBC News|2008}}.&lt;/ref&gt;
+
+==Characteristics==
+{{Unreferenced section|date=February 2014}}
+Iceland straddles the [[mid-Atlantic ridge]] where the Eurasian and North-American [[tectonic plate]]s move away from each other. [[Volcano|Volcanic]] activity is common along such [[divergent boundary|divergent boundaries]] but strong earthquakes are rare. In Iceland the ridge is somewhat off-set, creating two [[transform fault]]s where plates move horizontally along each other. One is in the north of the country and one in the south; the strongest Icelandic earthquakes happen along those transform faults. The 29 May quake is classified by geologists as typical ''Suðurlandsskjálftar'' (literally: Southern Iceland quakes), which happen on the southern fault.
+
+==Damage==
+Unlike the quakes in the summer of 2000, the 29 May quake happened in the most densely populated part of the South Iceland district. The population of the affected area is about 12,000 and it includes the towns of Selfoss and [[Hveragerði]] as well as [[Eyrarbakki]], [[Stokkseyri]] and [[Þorlákshöfn]]. Many farms were also affected.
+
+==See also==
+*[[List of earthquakes in 2008]]
+*[[List of earthquakes in Iceland]]
+*[[Geology of Iceland]]
+
+==Notes==
+{{reflist|24em}}
+
+== Sources ==
+* {{cite anss|Iceland|2008|usp000g826#executiv|title=M6.3 – Iceland|mode=cs2}}.
+*{{cite news |ref=CITEREFBBC News2008|url=http://news.bbc.co.uk/2/hi/europe/7426369.stm |title=Strong earthquake rocks Iceland |accessdate=2008-05-29 |date=2008-05-29 |publisher=BBC News}} 
+* {{citation 
+ |first1= J.  |last1= Decriem
+ |first2= T.  |last2= Árnadóttir
+ |first3= A.  |last3= Hooper
+ |first4= H.  |last4= Geirsson
+ |first5= F.  |last5= Sigmundsson
+ |first6= M.  |last6= Keiding
+ |first7= B. G. |last7= Ófeigsson
+ |first8= S.  |last8= Hreinsdóttir
+ |first9= P.  |last9= Einarsson
+ |first10= P.  |last10= LaFemina
+ |first11= R. A.  |last11= Bennett
+ |date= 2010
+ |title= The 2008 May 29 earthquake doublet in SW Iceland
+ |journal= [[Geophysical Journal International]]
+ |volume= 181 | issue= 2 | pages= 1128–1146 
+ |url= http://gji.oxfordjournals.org/content/181/2/1128.full 
+ |doi= 10.1111/j.1365-246x.2010.04565.x
+ |bibcode= 2010GeoJI.181.1128D
+}}.
+* {{cite isc|ehb|mode=cs2}}.
+
+==Further reading==
+*Vogfjord, K. S., et al. [http://adsabs.harvard.edu/abs/2009EGUGA..1111748V "Fault interaction in the South Iceland Seismic Zone: The May 2008, M6. 3 earthquake"]. EGU General Assembly Conference Abstracts. Vol. 11. 2009.
+*Brandsdottir, Bryndis, et al. "The May 29th 2008 earthquake aftershock sequence within the South Iceland Seismic Zone: Fault locations and source parameters of aftershocks." ''[[Jökull]]'' 60 (2010): 1–22.
+
+==External links==
+*{{EQ-isc-link|13230288}}
+
+{{coord|63.992|N|21.014|W|source:enwiki-plaintext-parser|display=title}}
+
+{{Earthquakes in 2008}}
+
+{{DEFAULTSORT:2008 Iceland earthquake}}
+[[Category:2008 earthquakes|Iceland]]
+[[Category:2008 in Iceland|Earthquake]]
+[[Category:Earthquakes in Iceland]]
+[[Category:May 2008 events]]
+[[Category:Doublet earthquakes]]
+
+
+{{Iceland-stub}}</text>
+      <sha1>g6ph53nkm1foelu2mevwdpuxgjbd356</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2008 in Monaco</title>
+    <ns>0</ns>
+    <id>55971598</id>
+    <revision>
+      <id>814073638</id>
+      <parentid>813765617</parentid>
+      <timestamp>2017-12-06T19:21:34Z</timestamp>
+      <contributor>
+        <username>GünniX</username>
+        <id>237572</id>
+      </contributor>
+      <minor/>
+      <comment>References</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="880">{{Year in Monaco|2008}}
+
+The following lists events that happened during '''[[2008]] in [[Monaco]]'''.
+
+==Incumbents==
+*[[List of rulers of Monaco|Monarch]]: [[Albert II, Prince of Monaco|Albert II]]
+*[[Minister of State (Monaco)|State Minister]]: [[Jean-Paul Proust]]
+
+==Events==
+
+===January to June===
+
+* May 25 - [[Lewis Hamilton]] won the [[2008 Monaco Grand Prix]].&lt;ref&gt;{{cite web|last1=Williams|first1=Richard|title=Princely Hamilton reigns in Monaco|url=https://www.theguardian.com/sport/2008/may/26/lewishamilton.formulaone1|website=The Guardian (UK)|accessdate=5 December 2017}}&lt;/ref&gt;
+
+===July to December===
+
+==References==
+&lt;references /&gt;
+
+{{Europe topic|2008 in}}
+
+[[Category:2008 in Monaco| ]]
+[[Category:Years of the 21st century in Monaco]]
+[[Category:2000s in Monaco]]
+[[Category:2008 by country|Monaco]]
+[[Category:2008 in Europe|Monaco]]
+[[Category:Monaco stubs]]</text>
+      <sha1>anfp6y02f8mu9dgpwj559kzo7pd7mcx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2016 Ethias Trophy</title>
+    <ns>0</ns>
+    <id>51849311</id>
+    <revision>
+      <id>764074831</id>
+      <parentid>763836513</parentid>
+      <timestamp>2017-02-06T22:37:28Z</timestamp>
+      <contributor>
+        <username>South Nashua</username>
+        <id>26178048</id>
+      </contributor>
+      <comment>stub</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2738">{{unreferenced|date=February 2017}}
+
+{{Infobox tennis event|2016|Ethias Trophy|
+| date=3 October – 9 October
+| edition=12th
+| surface=[[Tennis court#Hard courts|Hard]]
+| location=[[Mons]], [[Belgium]]
+| champs={{flagicon|GER}} [[Jan-Lennard Struff]]
+| champd={{flagicon|AUT}} [[Julian Knowle]] / {{flagicon|AUT}} [[Jürgen Melzer]]
+}}
+
+The '''2016 [[Ethias Trophy]]''' was a professional [[tennis]] tournament played on [[Tennis court#Hard courts|hard courts]]. It was the twelfth edition of the tournament which was part of the [[2016 ATP Challenger Tour]]. It took place in [[Mons]], [[Belgium]] between 3 October and 9 October 2016.
+
+==Singles main draw entrants==
+===Seeds===
+{|class="sortable wikitable"
+|-
+! width="70"| Country
+! width="175"| Player
+! Rank&lt;sup&gt;1&lt;/sup&gt; 
+! Seed
+|-
+|{{flag|UKR}}
+|[[Illya Marchenko]]
+|49
+|1
+|-
+|{{flag|GER}}
+|[[Dustin Brown (tennis)|Dustin Brown]]
+|67
+|2
+|-
+|{{flag|FRA}}
+|[[Paul-Henri Mathieu]]
+|68
+|3
+|-
+|{{flag|FRA}}
+|[[Jérémy Chardy]]
+|75
+|4
+|-
+|{{flag|LTU}}
+|[[Ričardas Berankis]]
+|78
+|5
+|-
+|{{flag|GER}}
+|[[Jan-Lennard Struff]]
+|84
+|6
+|-
+|{{flag|CRO}}
+|[[Ivan Dodig]]
+|90
+|7
+|-
+|{{flag|MDA}}
+|[[Radu Albot]]
+|100
+|8
+|}
+* &lt;sup&gt;1&lt;/sup&gt; Rankings are as of September 26, 2016.
+
+===Other entrants===
+The following players received wildcards into the singles main draw:
+* {{flagicon|UKR}} [[Illya Marchenko]]
+* {{flagicon|BEL}} Yannik Reuter
+* {{flagicon|BEL}} [[Ruben Bemelmans]]
+* {{flagicon|BEL}} Clément Geens
+
+The following players received entry into the singles main draw using a protected ranking:
+* {{flagicon|AUT}} [[Jürgen Melzer]]
+* {{flagicon|POL}} [[Jerzy Janowicz]]
+
+The following players received entry using a special exempt into the singles main draw:
+* {{flagicon|SVK}} [[Norbert Gombos]]
+* {{flagicon|RUS}} [[Andrey Rublev (tennis)|Andrey Rublev]]
+
+The following players received entry from the qualifying draw:
+* {{flagicon|FRA}} Maxime Tabatruong
+* {{flagicon|BEL}} [[Maxime Authom]]
+* {{flagicon|SUI}} [[Yann Marti]]
+* {{flagicon|FRA}} [[Sadio Doumbia]]
+
+The following player entered as a lucky loser:
+* {{flagicon|FRA}} [[Grégoire Barrère]]
+
+==Champions==
+===Singles===
+{{main|2016 Ethias Trophy – Singles}}
+* {{flagicon|GER}} '''[[Jan-Lennard Struff]]''' def. {{flagicon|FRA}} [[Vincent Millot]] 6–2, 6–0.
+
+===Doubles===
+{{main|2016 Ethias Trophy – Doubles}}
+* {{flagicon|AUT}} '''[[Julian Knowle]]''' / {{flagicon|AUT}} '''[[Jürgen Melzer]]''' def. {{flagicon|NED}} [[Sander Arends]] / {{flagicon|NED}} [[Wesley Koolhof]], 7–6&lt;sup&gt;(7–4)&lt;/sup&gt;, 7–6&lt;sup&gt;(7–4)&lt;/sup&gt;.
+
+==External links==
+*[http://www.ethiastrophy.be/ Official Website]
+
+{{2016 ATP Challenger Tour}}
+
+[[Category:2016 ATP Challenger Tour|Ethias Trophy]]
+
+{{belgium-stub}}
+{{tennis-stub}}</text>
+      <sha1>6mbksnbtdytjmuknexz6nomg5tt9nd0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Al Qahera Al Youm</title>
+    <ns>0</ns>
+    <id>2673902</id>
+    <revision>
+      <id>871686094</id>
+      <parentid>830377417</parentid>
+      <timestamp>2018-12-02T20:09:19Z</timestamp>
+      <contributor>
+        <username>EdwikiX</username>
+        <id>33901206</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2131">{{Infobox television
+| show_name          = Al-Qahera Al-Youm
+| image              = Al-Qahira Al-Youm logo.jpg
+| caption            = ''Al-Qahira Al-Youm'' logo
+| genre              = [[News]]
+| creator            = [[Orbit Communications Company]]
+| director           = 
+| developer          = Mediagates
+| presenter          = Gamal Enaiet, Mariam Zaki and others.
+| country            = Egypt
+| language           = Arabic
+| num_seasons        = 16
+| num_episodes       = 
+| executive_producer =
+| producer           =
+| editor             =
+| location           = Madinat al entag el-elamy 6 October
+| runtime            = 3 hours
+| network            = Al Yawm available exclusively DTH on Alfa package on OSN and other distribution platforms
+| first_aired        = 1999
+| website            = http://alfatv.com/
+}}
+
+'''Al Qahera Al Youm''' ({{lang-ar|القاهرة اليوم}}, English: ''Cairo Today'') is an [[Egypt|Egyptian]] live [[television]] [[talk show]] that broadcasts nearly throughout the year from the 6th of October studios located in [[Greater Cairo|Cairo]]. ''Al Qahera Al-Youm'' is one of the most popular and influential shows in the [[Middle East]] with millions of viewers world wide.&lt;ref&gt;{{Cite web|url=https://www.facebook.com/QAlYoum/|title=AlQahera AlYoum - القاهرة اليوم|website=www.facebook.com|language=en|access-date=2018-03-14}}&lt;/ref&gt; Hosted by Gamal Enaiet with Mariam Zaki and others. The program efficiently covers all aspects of life in [[Egypt]] from  politics, to arts, sports, cultural and economic issues, and even international affairs. It airs on Al Yawm channel which is produced by Mediagates part of [[Orbit Communications Company]] now known as the [[OSN]]. The Show currently broadcasts throughout the week, from Sunday to Thursday.
+
+== References ==
+
+{{Reflist}}
+
+== External links ==
+* [http://www.osnalfa.com Al Qahera Al Your at OSN Alfa]
+* [https://www.facebook.com/QAlYoum Al Qahera Al Youm on Facebook]
+
+{{DEFAULTSORT:Qahera Al Youm, Al}}
+[[Category:Egyptian television talk shows]]
+[[Category:Media in Cairo]]
+
+
+{{egypt-tv-stub}}
+{{nonfiction-tv-prog-stub}}</text>
+      <sha1>8rw8p37ik00u9vekbo8n7sjbz9v6es9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Asiamerica</title>
+    <ns>0</ns>
+    <id>5489004</id>
+    <revision>
+      <id>864669715</id>
+      <parentid>864666881</parentid>
+      <timestamp>2018-10-18T18:12:02Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor/>
+      <comment>Dating maintenance tags: {{Cn}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1526">{{short description|Large island formed from Laurasia, separated by shallow continental seas from Eurasia to the West and eastern North America to the East}}
+'''Asiamerica''' was a large island formed from the [[Laurasia]]n landmass and separated by shallow continental seas from [[Eurasia]] to the West and eastern [[North America]] to the East. This region incorporated what is now politically [[China]], [[Mongolia]], western [[United States]] and western [[Canada]]. Fossil evidence tells us that it was home to many [[dinosaur]]s and archaic [[mammal]]s. It existed during the Late [[Cretaceous]] to [[Eocene]] periods, and existed again during [[Quaternary]] [[Pleistocene]] epoch. It will exist again for the third time within 50 million years.{{cn|date=October 2018}}
+
+==See also==
+*{{annotated link|List of supercontinents}}
+
+==References==
+*[http://www.findarticles.com/p/articles/mi_qa3790/is_199911/ai_n8871715 The early evolution of the Tyrannosauridae in Asia]
+*[https://web.archive.org/web/20051028192552/http://www.greatwebsights.com/dinosaurs/intro.htm Dinosaurs (sub-heading ''The Earth of the Dinosaur'')]
+*[https://web.archive.org/web/20060621063826/http://www.palaeos.com/Earth/Geography/Asiamerica.htm Palaeos website]
+
+{{Continents of the world}}
+
+[[Category:Historical continents]]
+[[Category:Cretaceous paleogeography]]
+[[Category:Paleocene paleogeography]]
+[[Category:Eocene paleogeography]]
+[[Category:Natural history of Asia]]
+[[Category:Natural history of North America]]
+
+{{palaeogeography-stub}}</text>
+      <sha1>e2bwovw735sy5negf5e1qzf942eqxuu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Austria–Bangladesh relations</title>
+    <ns>0</ns>
+    <id>41840048</id>
+    <revision>
+      <id>869641628</id>
+      <parentid>816188702</parentid>
+      <timestamp>2018-11-19T21:32:23Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:WikiProject Stub sorting|stub sorting]]: added {{[[Template:Bilateralrelations-stub|Bilateralrelations-stub]]}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4834">{{Infobox bilateral relations|Austria-Bangladesh|Austria|Bangladesh}}
+
+'''Austria–Bangladesh relations''' refer to the bilateral relations between [[Bangladesh]] and [[Austria]]. Relations between the two countries have been considered cordial with both the countries working towards further strengthen it.&lt;ref&gt;{{cite news|title=Dipu Moni invited to Austria to embolden relations |url=http://www1.bssnews.net/newsDetails.php?cat=0&amp;id=264812$date=2012-07-15&amp;dateCurrent=2012-07-19 |accessdate=4 February 2014 |newspaper=Bangladesh Sangbad Sangstha |deadurl=yes |archiveurl=https://web.archive.org/web/20140222014715/http://www1.bssnews.net/newsDetails.php?cat=0&amp;id=264812%24date%3D2012-07-15&amp;dateCurrent=2012-07-19 |archivedate=22 February 2014 |df= }}&lt;/ref&gt;
+
+== History ==
+
+Because of the long distance (The two capital cities [[Vienna]] and [[Dhaka]] are nearly 7000 kilometres apart&lt;ref&gt;http://www.daftlogic.com/projects-google-maps-distance-calculator.htm&lt;/ref&gt;) between the two countries, the historical contacts between the two peoples have been rather small, as Bangladesh never took a domineering role in Asia and Austria, even though very powerful inside Europe under the Habsburg dynasty, focussed on continental affairs and never became a colonial empire.
+
+The two countries, however, fought the two World Wars against each other, with Austria (as [[Austria-Hungary]]) being one of the dominant [[Central Powers]] in [[World War One]] and part of [[Adolf Hitler]]'s national socialist [[Third Reich]] in [[World War Two]] and Bangladesh being a part of the [[British Raj]], a colony of the [[United Kingdom]], which fought Austria (respectively Germany, which Austria was a part of from 1938 to 1945) on both occasions.
+
+== High level visits ==
+Former foreign minister of Bangladesh [[Dipu Moni]] paid a visit to Vienna in 2013.&lt;ref name="star"&gt;{{cite news|title=Bangladesh, Austria identify common fields of cooperation|url=http://archive.thedailystar.net/newDesign/news-details.php?nid=270791|accessdate=4 February 2014|newspaper=The Daily Star}}&lt;/ref&gt;
+
+== Areas for cooperation ==
+Bangladesh and Austria have identified power and energy, health, education, tourism, human resource development and waste management as promising sectors for bilateral cooperation between the two countries.&lt;ref name="star" /&gt;
+
+=== Educational cooperation ===
+The education sector have been seen as a potential area for bilateral cooperation between the two countries. Bangladesh and Austria have put emphasis on educational exchange programs between the two countries. Bangladesh has sought Austria's cooperation to increase the number of Austrian scholarship for Bangladeshi students.&lt;ref&gt;{{cite web|title=Iajuddin for boosting trade relations between Dhaka and Vienna|url=http://www.bangabhaban.gov.bd/arc_vienna.html|publisher=The Bangabhaban|accessdate=4 February 2014}}&lt;/ref&gt;
+
+=== Economic cooperation ===
+Bangladesh and Austria have shown their deep interest to expand the bilateral economic activities between the two countries and have been taking necessary steps in this regard.&lt;ref&gt;{{cite news|title=Dhaka keen to develop closer economic ties with Vienna|url=http://archive.thedailystar.net/newDesign/print_news.php?nid=35259|accessdate=4 February 2014|newspaper=The Daily Star}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Austrian govt invites Dipu Moni |url=http://www.daily-sun.com/details_yes_16-07-2012_Austrian-govt-invites-Dipu-Moni_205_1_0_3_8.html |accessdate=4 February 2014 |newspaper=Daily Sun |deadurl=yes |archiveurl=https://web.archive.org/web/20140222062528/http://www.daily-sun.com/details_yes_16-07-2012_Austrian-govt-invites-Dipu-Moni_205_1_0_3_8.html |archivedate=22 February 2014 |df= }}&lt;/ref&gt; As of 2013, the volume of bilateral trade between the two countries stands at €400 million. About 30 Austria based multinational firms are operating in Bangladesh.&lt;ref&gt;{{cite news|title=Bangladesh-Austria ties to grow further: Spindelegger |url=http://theindependentbd.com/index.php?option=com_content&amp;view=article&amp;id=162169:bangladesh-austria-ties-to-grow-further-spindelegger&amp;catid=106:others-international&amp;Itemid=151 |accessdate=4 February 2014 |newspaper=The Independent |deadurl=yes |archiveurl=https://web.archive.org/web/20140223232638/http://theindependentbd.com/index.php?option=com_content&amp;view=article&amp;id=162169%3Abangladesh-austria-ties-to-grow-further-spindelegger&amp;catid=106%3Aothers-international&amp;Itemid=151 |archivedate=23 February 2014 |df= }}&lt;/ref&gt;
+
+== References ==
+{{reflist}}
+
+{{Foreign relations of Austria}}
+{{Foreign relations of Bangladesh}}
+
+{{DEFAULTSORT:Austria-Bangladesh relations}}
+[[Category:Austria–Bangladesh relations| ]]
+[[Category:Bilateral relations of Bangladesh]]
+[[Category:Bilateral relations of Austria|Bangladesh]]
+
+
+{{Bangladesh-stub}}
+{{Austria-stub}}
+{{Bilateralrelations-stub}}</text>
+      <sha1>ajuhg70hl7ayxcu1nuyo986s5b3sj0a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Babar Islands</title>
+    <ns>0</ns>
+    <id>1675118</id>
+    <revision>
+      <id>869612296</id>
+      <parentid>866591599</parentid>
+      <timestamp>2018-11-19T18:43:35Z</timestamp>
+      <contributor>
+        <username>ZackBot</username>
+        <id>29639097</id>
+      </contributor>
+      <comment>fixing deprecated params from [[Template:Infobox islands]] - [[Wikipedia:Bots/Requests_for_approval/ZackBot_12|ZackBot 12 - Approved]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6049">{{unreferenced|date=November 2011}}{{Infobox islands|name=Babar Islands|location=[[Southeast Asia]]|country=[[Indonesia]]|timezone1=[[Time in Indonesia|IEST]]|utc_offset1=+09:00|archipelago=[[Maluku Islands]]|country_admin_divisions=[[Maluku (province)|Maluku]]|country_admin_divisions_title=Province|map_image=Topographic map of Babar Islands-en.svg|map_caption=Map of the Babar Islands.|image_name=Maluku Islands en.png|image_caption=Babar Islands in the south of the [[Maluku Islands]]|native_name=Kepulauan Babar|native_name_link=Indonesian language}}The '''Babar Islands''' ''(''[[Indonesian language|Indonesian]]: ''Kepulauan Babar)'' are located in [[Maluku Province]], [[Indonesia]] between latitudes 7 degrees 31 minutes South to 8 degrees 13 minutes South and from longitudes 129 degrees 30 minutes East to 130 degrees 05 minutes East.  Tepa (a town with a population of about 2,000 people) is the administrative center of the Babar Islands municipality ("Kecamatan Kepulauan Babar") now reduced to encompass only the western half of Babar Island, Wetang Island (lying to the west of Babar) and Dai Island (to the north). The town of Letwurung on the east side of Babar island is the capital of the new municipality called "East Babar" ("Kecamatan Babar Timor") in the east half of the Babar Islands, consisting of the East half of Babar Island, Masela Island (to the south-east of Babar), and Dawera Island and Dawelor Island (to the east).
+
+==Central island==
+The islands take their name from the large central island of Babar which is roughly {{convert|20|mi|km|abbr=on|disp=flip}} across and a circumference of {{convert|60|mi|km|abbr=on|disp=flip}}. Babar Island has a maximum elevation of approximately 750 meters and is lightly covered with sub-tropical montane forest, although the 5 rivers and 2 large year-round springs afford tropical forest in their narrow ravine courses.
+
+===Topography===
+The topography of all the Babar islands is distinctive for their marked stepped appearance, the result of a combination of periodic uplifting of the [[tectonic]] plate interacting with the erosive action of the constant ocean waves. Water action on the coral base over the millennia has created many caves and shafts.
+
+===Agriculture and fisheries===
+Rain is plentiful from December to July so corn, [[Plantain (cooking)|plantains]], bananas, [[cassava]], various tubers and red rice (unirrigated) grow plentifully. Fish is the main source of protein. Sufficient potable water on Babar Island is provided by year round springs and shallow wells. [[Coconut oil]] is important for consumption while the oily meat called copra, is sold. Other items harvested and sold for export are sea shells, sea weed, [[sea cucumbers]], shark fins, live lizards and birds, cattle, cashews, nutmeg, cloves and [[eucalyptus oil]].
+
+==Smaller islands==
+This situation contrasts markedly with the much smaller islands ringing Babar Island. These are low-lying, uplifted [[reef]] and [[limestone]] (with the exception of Dai Island, which is largely [[granite]]), infertile, not heavily forested and lacking in fresh water sources. The more difficult environment leads the indigenous inhabitants to focus more of their energies on fishing and hand-crafts which are then traded for garden produce from Babar Island. The people collect rain water in large above ground [[cisterns]] which can last them through the driest time of the year (September to December). When the [[drought]] is longer than usual the water in these tanks is exhausted and the people have to walk miles to the few villages with springs or wells, and queue up for a turn to draw a few liters of water. People camp overnight beside the well waiting their turn. The Indonesian government has provided funds for many more collection tanks for rain water, so the situation has improved markedly in the last few years.
+
+==Transport==
+There is no airport or landing strip in the Babar Islands. Small freighters that have contracts to carry passengers service the islands. It is a minimum twelve-hour ride to the nearest city with an airport where one can catch a commercial flight to other towns in Maluku being Tual, Larat, Wonreli (Kisar) and Ambon.
+
+==People==
+In comparison to the majority of Indonesians living nearer the political centre of the country, the indigenous Babar Islanders tend to darker [[Epidermis (skin)|epidermal]] [[pigmentation]], have kinky hair and generally lack the [[epicanthic eyefold]] of East Asians.
+
+==Religion==
+Most indigenous Babar Islanders are [[baptised]] into the [[Protestant Church]] of Maluku (Gereja Protestan Maluku, GPM). The GPM's roots are in the [[Dutch Reformed Church]] started by the Dutch colonists. Due undoubtedly to the aridity of the islands and the lack of natural resources, there has been no mass [[Transmigration program|transmigration]] from more populous Indonesian areas.  In Tepa, there are 3 other denominations with church buildings: a [[Catholic]] church, a [[Seventh-day Adventist Church|Seventh-day Adventist]] church, and a [[Pentecostal]] church. There is also a [[mosque]] in Tepa that serves the small community of [[Muslims]]. All the other towns have one GPM church each, totaling 56 GPM churches in the entire GPM diocese of Babar islands ("Klasis GPM Pulau-pulau Babar"). While these world faiths are represented, there is much hybridization with the preexisting [[animist]] beliefs and practices. The traditional dance of Babar  is "Seka". 
+
+==See also==
+
+*[[Weber Line]]
+
+==Islands in the Babar Islands cluster (in alphabetic order)==
+*[[Babar Island]]
+*[[Dai Island]]
+*[[Dawelor]]
+*[[Dawera]]
+*[[Masela Island|Masela]]
+*[[Wetang]]
+
+==External links==
+{{Commons category|Babar Islands}}
+*[https://web.archive.org/web/20101022022239/http://www.ethnologue.com/show_country.asp?name=IDM Languages of Indonesia (Maluku)]
+
+{{coord|7|55|S|129|45|E|region:ID_dim:50000|display=title}}
+
+{{Maluku-islands}}
+
+[[Category:Archipelagoes of Indonesia]]
+[[Category:Landforms of Maluku (province)]]
+[[Category:Outer Banda Arc]]</text>
+      <sha1>ri8rxheuf1ma6pm64mrual7bh37dt71</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Basilique de l'Immaculée Conception</title>
+    <ns>0</ns>
+    <id>24435436</id>
+    <revision>
+      <id>857509097</id>
+      <parentid>835734306</parentid>
+      <timestamp>2018-09-01T03:18:00Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1136">{{Expand French|Basilique de l'Immaculée-Conception de Ouidah|date=August 2012}}
+[[Image:Basilica of Ouidah.jpg|right|200px|thumb|Basilique de l'Immaculée Conception]]
+
+The '''{{lang|fr|Basilique de l'Immaculée Conception}}'''{{Pronunciation needed}}&lt;!-- as IPA --&gt; ('''Basilica of the Immaculate Conception''') is a [[Roman Catholic]] minor [[basilica]] dedicated to the [[Immaculate Conception]] located in [[Ouidah]], [[Benin]].  The basilica is under the circumscription of the [[Archdiocese of Cotonou]].  The basilica was dedicated on November 9, 1989.&lt;ref&gt;[http://www.gcatholic.org/churches/data/basBJ.htm GCatholic.org]&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20110706150119/http://www.basiliquedeouidah.bj/ Basilica website (French)]
+*[http://www.diocese-cotonou.org/-Basilique-de-l-Immaculee-.html Diocese of Cotonou (French)]
+
+{{coord|6.360652|2.084734|region:BJ_type:landmark|display=title}}
+
+{{DEFAULTSORT:L'immaculee Conception}}
+[[Category:Basilica churches in Africa]]
+[[Category:Roman Catholic churches in Benin]]
+
+
+{{Benin-stub}}
+{{RC-church-stub}}
+{{Africa-church-stub}}</text>
+      <sha1>pmcj3eu7pt971j09ib54zd9kzozh4qe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benin Marina</title>
+    <ns>0</ns>
+    <id>31133715</id>
+    <revision>
+      <id>791091830</id>
+      <parentid>766011098</parentid>
+      <timestamp>2017-07-18T02:36:56Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.4.2)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2085">'''Benin Marina''' is a four-star hotel in [[Cotonou]], [[Benin]]. It is located at Boulevard De La Marina, B.P. 1901 in the Haie Vive neighborhood. It is the largest hotel in the country.&lt;ref name="Butler"&gt;{{Cite book|last=Butler|first=Stuart|title=Benin|year=2006|publisher=[[Bradt Travel Guides]], The Globe Pequot Press|location=[[Guilford, Connecticut]]|page=92}}&lt;/ref&gt; It is located in a large building which was formerly a [[Sheraton Hotels and Resorts|Sheraton]] hotel,&lt;ref name="HamBainbridge2006"&gt;{{cite book|last1=Ham|first1=Anthony|last2=Bainbridge|first2=James|title=West Africa|url=https://books.google.com/books?id=JVdWavZlYKgC&amp;pg=PA99|accessdate=9 March 2011|date=15 October 2006|publisher=Lonely Planet|isbn=978-1-74059-771-5|page=99}}&lt;/ref&gt;west of the old port of Cotonou.&lt;ref name="KrausReid2010"&gt;{{cite book|last1=Kraus|first1=Erika|last2=Reid|first2=Felicie|title=Benin (Other Places Travel Guide)|url=https://books.google.com/books?id=op5eAvnZfG0C&amp;pg=PA58|accessdate=9 March 2011|date=26 January 2010|publisher=Other Places Publishing|isbn=978-0-9822619-1-0|page=58}}&lt;/ref&gt; Set in landscaped gardens, the hotel contains two swimming pools, three tennis courts and small 9-hole golf course.&lt;ref name="Butler"/&gt;The building is only four storeys high but covers a significant area of land. The swimming pool is located next to the beach. The hotel has 200 rooms, 1 Royal Suite, 8 Junior Suites and 12 bungalows. The hotel contains the 'Le Popo' Coffeeshop Restaurant,  'Les Tanekas' Grill Bar by the pool,  'Le Nokoué' Pianobar and the 'Le Tèkè' Night Club / Karaoke Bar. The hotel is occasionally  used for important diplomatic meetings in Cotonou and contains 1 conference room and 6 meeting rooms.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20110215002849/http://www.benin-marina.com/english/index_benin_marina_hotel.php Official site]
+
+{{coord|6|20|55|N|2|23|42|E|type:landmark|display=title}}
+
+[[Category:Hotels in Benin]]
+[[Category:Buildings and structures in Cotonou]]
+
+{{Africa-hotel-struct-stub}}
+{{Benin-struct-stub}}</text>
+      <sha1>1v76mxj5cvm88k5u09l2s0zer5xpgbt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Borievo</title>
+    <ns>0</ns>
+    <id>42533305</id>
+    <revision>
+      <id>607250174</id>
+      <parentid>605064546</parentid>
+      <timestamp>2014-05-05T22:59:50Z</timestamp>
+      <contributor>
+        <username>The Anomebot2</username>
+        <id>1979668</id>
+      </contributor>
+      <comment>Adding geodata: {{coord|41|25|N|22|46|E|display=title|region:MK_type:city_source:GNS-enwiki}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="382">'''Borievo''' ({{lang-mk|Бориево}}) is a village in the [[Bosilovo Municipality]] of [[Republic of Macedonia|Macedonia]].
+
+==External links==
+* [http://makedonija.name/municipalities/bosilovo/borievo Visit Macedonia]
+
+{{coord|41|25|N|22|46|E|display=title|region:MK_type:city_source:GNS-enwiki}}
+
+[[Category:Villages in Bosilovo Municipality]]
+{{Bosilovo}}
+{{Macedonia-stub}}</text>
+      <sha1>fcvyune0c46y6r0wzxiipagkg5gumke</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CKZU</title>
+    <ns>0</ns>
+    <id>12980821</id>
+    <redirect title="CBU (AM)" />
+    <revision>
+      <id>455483928</id>
+      <parentid>189571697</parentid>
+      <timestamp>2011-10-14T04:36:55Z</timestamp>
+      <contributor>
+        <username>RingtailedFox</username>
+        <id>3068590</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[CBU (AM)#Shortwave relay]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="87">#REDIRECT [[CBU (AM)#Shortwave relay]]
+
+[[Category:Shortwave radio stations in Canada]]</text>
+      <sha1>jmkfnbmjqeniui64iv39yjoy4jbb3lz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Constitutional Court of Bulgaria</title>
+    <ns>0</ns>
+    <id>9638271</id>
+    <revision>
+      <id>740143631</id>
+      <parentid>602671480</parentid>
+      <timestamp>2016-09-19T09:15:47Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>16752040</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Using official website template</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1364">{{Politics of Bulgaria}}
+'''The Constitutional Court of Bulgaria''' is in charge of reviewing the constitutionality of laws and statutes brought before it, as well as the compliance of these laws with international treaties that the Government has signed. The 12 members of the Constitutional Court serve a nine-year term. Parliament elects 1/3 of them. President elects 1/3.
+
+== List of chairmen ==
+{| class="wikitable"
+! Name
+! Term
+|-
+| [[Asen Manov]] || align="center" | 3 October 1991 – 18 October 1994
+|-
+| [[Asen Manov]] || align="center" | 18 October 1994 – 14 October 1997
+|-
+| [[Zhivko Stalev]] || align="center" | 14 October 1997 – 19 October 2000
+|-
+| [[Hristo Danov]] || align="center" | 19 October 2000 – 17 February 2003
+|-
+| [[Rumen Yankov]] || align="center" | 28 February 2003 – 28 October 2003
+|-
+| [[Nedelcho Beronov]] || align="center" | 28 October 2003 – 3 October 2006
+|-
+| [[Rumen Yankov]] || align="center" | 8 November 2006 – 9 October 2009
+|-
+| [[Evgeni Tanchev]] || align="center" | 16 November 2009 — 
+|}
+
+== See also ==
+*[[2013 student protest in Bulgaria]]
+
+== External links ==
+
+* {{Official website|http://www.constcourt.bg/}}
+
+[[Category:Government of Bulgaria]]
+[[Category:Politics of Bulgaria]]
+[[Category:Constitutional courts|Bulgaria]]
+[[Category:Judiciary of Bulgaria]]
+
+{{Bulgaria-stub}}
+{{Europe-law-stub}}</text>
+      <sha1>ikacln1ef14lhzr5auy0uhdp2zk3d78</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dacian fortress of Dumitrița</title>
+    <ns>0</ns>
+    <id>37632655</id>
+    <revision>
+      <id>754021015</id>
+      <parentid>753067695</parentid>
+      <timestamp>2016-12-10T12:22:54Z</timestamp>
+      <contributor>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
+      </contributor>
+      <comment>Migrate {{Infobox ancient site}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1645">{{Infobox ancient site
+| name           = Dacian fortress of Dumitrița
+| native_name    = 
+| native_name_lang =
+| alternate_name = 
+| image          = 
+| image_size     = 
+| alt            = 
+| caption        = 
+| map_type       = Romania
+| map_alt        = 
+| map_caption    = 
+| map_size       = 
+| altitude_m     = 
+| altitude_ref   = 
+| relief         =
+| coordinates    = {{coord|47.07527|24.64248|display=inline,title}}
+| map_dot_label  =
+| location       = Dealul Cetății,&lt;ref name="ran"&gt;{{cite web|title=National Archaeological Record (RAN) |url=http://ran.cimec.ro |publisher=ran.cimec.ro |accessdate=13 November 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120919182835/http://ran.cimec.ro/ |archivedate=19 September 2012 |df= }}&lt;/ref&gt;&amp;#8203;&amp;nbsp;[[Dumitrița, Bistriţa-Năsăud|Dumitrița]],&amp;#8203;&amp;nbsp;[[Bistrița-Năsăud County|Bistrița-Năsăud]],&amp;#8203;&amp;nbsp;[[Romania]]
+| area           = 
+| built          = 
+| abandoned      = 
+| epochs         = &lt;!-- actually displays as "Periods" --&gt;
+| cultures       = 
+| event          = 
+| discovered     = 
+| excavations    = 
+| archaeologists = 
+| condition      = Ruined
+| designation1   = 
+| designation1_number = 
+| designation2   = Monument istoric
+| designation2_number = BN-I-s-A-01342 &lt;ref name="ran"/&gt;
+| website        = 
+| architectural_styles =
+| architectural_details =
+| notes          = 
+}}
+
+It was a [[Dacians|Dacian]] fortified town.
+
+==References==
+{{Reflist}}
+
+{{Dacian cities}}
+{{Dacia topics}}
+
+{{DEFAULTSORT:Dacian fortress of Dumitrita}}
+[[Category:Dacian fortresses in Bistrița-Năsăud County]]
+
+
+{{Dacia-stub}}
+{{Europe-archaeology-stub}}</text>
+      <sha1>nz77p9u22nxyz5iz93t8c6tlcl9cbf0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dacian fortress of Uroi</title>
+    <ns>0</ns>
+    <id>37671577</id>
+    <revision>
+      <id>754021413</id>
+      <parentid>753068432</parentid>
+      <timestamp>2016-12-10T12:26:44Z</timestamp>
+      <contributor>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
+      </contributor>
+      <comment>Migrate {{Infobox ancient site}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1487">{{Infobox ancient site
+| name           = Dacian fortress of Uroi
+| native_name    = 
+| native_name_lang =
+| alternate_name = 
+| image          = 
+| image_size     = 
+| alt            = 
+| caption        = 
+| map_type       = Romania
+| map_alt        = 
+| map_caption    = 
+| map_size       = 
+| altitude_m     = 370
+| altitude_ref   = 
+| relief         =
+| coordinates    = {{coord|45.860838|23.042877|display=inline,title}}
+| map_dot_label  =
+| location       = Măgura Uroiului,&lt;ref name="ran"&gt;{{cite web|title=National Archaeological Record (RAN) |url=http://ran.cimec.ro |publisher=ran.cimec.ro |accessdate=17 November 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120919182835/http://ran.cimec.ro/ |archivedate=19 September 2012 |df= }}&lt;/ref&gt;&amp;#8203;&amp;nbsp;[[Uroi]],&amp;#8203;&amp;nbsp;[[Hunedoara County|Hunedoara]],&amp;#8203;&amp;nbsp;[[Romania]]
+| area           = 
+| built          = 
+| abandoned      = 
+| epochs         = &lt;!-- actually displays as "Periods" --&gt;
+| cultures       = 
+| event          = 
+| discovered     = 
+| excavations    = 
+| archaeologists = 
+| condition      = Ruined
+| designation1   = 
+| designation1_number = 
+| designation2   = 
+| designation2_number = 
+| website        = 
+| architectural_styles =
+| architectural_details =
+| notes          = 
+}}
+
+It was a [[Dacians|Dacian]] fortified town.
+
+==References==
+{{Reflist}}
+
+{{Dacian cities}}
+{{Dacia topics}}
+
+[[Category:Dacian fortresses in Hunedoara County]]
+
+
+{{Dacia-stub}}
+{{Europe-archaeology-stub}}</text>
+      <sha1>skqo4moctlmp7j6ypy0eq71wpobejok</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>De Nolet</title>
+    <ns>0</ns>
+    <id>31795933</id>
+    <revision>
+      <id>847331033</id>
+      <parentid>844251680</parentid>
+      <timestamp>2018-06-24T15:20:37Z</timestamp>
+      <contributor>
+        <username>Someone Not Awful</username>
+        <id>28320687</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1449">[[File:Schiedam windmolen Nolet.jpg|thumb|De Nolet]]
+'''''De Nolet''''' (also known as '''''Noletmolen''''') is a [[wind turbine]] in [[Schiedam]], [[Kingdom of the Netherlands|The Netherlands]] which is disguised as a traditional [[List of windmills in Schiedam|Schiedam windmill]]. ''De Nolet'' has a tower height of 43 metres and a gross height of 55 metres including its rotor tips.&lt;ref&gt;{{cite web|url=http://www.molens.nl/site/dbase/molen.php?mid=1322|title=Noletmolen |publisher=[[De Hollandsche Molen]]|author=|date=|website=molens.nl|accessdate=23 April 2018}}&lt;/ref&gt;&lt;ref&gt;http://www.molendatabase.nl/nederland/molen.php?nummer=1280 Database of Mills&lt;/ref&gt;
+
+It is 9 metres higher than ''[[De Noord]]'' which is the tallest [[windmill]] in the world.
+
+''De Nolet'' was built in 2005 by the Nolet Distillery to power their brewing factory which produces the world-famous [[Ketel One]] vodkas and gins.
+
+== References ==
+{{reflist}}
+
+== See also ==
+* [[List of windmills in Schiedam]]
+* [[Fuhrländer Wind Turbine Laasow]], tallest [[wind turbine]] in the world
+
+== External links ==
+{{commonscat|Noletmolen}}
+* [http://www.noletdistillery.com/ Nolet Distillery official site]
+
+{{coord|51|54|27|N|4|24|30|E|region:NL_type:landmark_source:kolossus-nlwiki|display=title}}
+{{Dutch Windmills}}
+
+[[Category:Tower mills in the Netherlands]]
+[[Category:Windmills in South Holland]]
+[[Category:Buildings and structures in Schiedam]]
+
+{{netherlands-stub}}</text>
+      <sha1>glir4fb80imkrb6u5ozk3d78nrt8r2i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dimples Interchange</title>
+    <ns>0</ns>
+    <id>33928426</id>
+    <revision>
+      <id>480196472</id>
+      <parentid>463818403</parentid>
+      <timestamp>2012-03-04T19:28:02Z</timestamp>
+      <contributor>
+        <username>Imzadi1979</username>
+        <id>488581</id>
+      </contributor>
+      <minor/>
+      <comment>cleaning up formatting</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="619">The '''Dimples Interchange''' is a [[dual carriage road]] system [[overpass|flyover]] in [[Accra]] in the [[Greater Accra Region]] of [[Ghana]]. It is part of the six-lane, {{convert|14|km|mi|adj=on}} [[George Walker Bush Highway]] built under the [[Millennium Challenge Account]].&lt;ref name=one&gt;{{cite web|title=Tetteh Quarshie-Mallam Road ready Feb 2012|url=http://www.modernghana.com/news/313744/1/tetteh-quarshie-mallam-road-ready-feb-2012.html|publisher=www.modernghana.com|accessdate=1 December 2011}}&lt;/ref&gt; 
+
+==References==
+{{reflist}}
+
+{{Ghana Roads and Interchanges}}
+
+[[Category:Roads in Ghana]]
+{{Ghana-stub}}</text>
+      <sha1>fvhi8k26v4p1txy4sylfyorrbdwlf9c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Djibouti–France relations</title>
+    <ns>0</ns>
+    <id>30295784</id>
+    <revision>
+      <id>869638354</id>
+      <parentid>800132913</parentid>
+      <timestamp>2018-11-19T21:11:00Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:WikiProject Stub sorting|stub sorting]]: added {{[[Template:Bilateralrelations-stub|Bilateralrelations-stub]]}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1888">{{bilateral|Djibouti–France|Djibouti|France}}
+
+'''Djibouti–France relations''' refers to the [[bilateralism|current and historical relationship]] between [[Djibouti]] and [[France]]. Djibouti was obtained as a colony by France in 1862 and officially controlled Djibouti until it received independence in 1977. Djibouti maintains military and economic agreements with France which provide continued security and economic assistance. The largest [[Military of France|French military base]] in [[Africa]] is located in Djibouti's territorial waters in the [[Red Sea]].&lt;ref&gt;[http://www.cfr.org/publication/12578/french_military_in_africa.html French military in Africa] Council on Foreign Relations&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20110419003534/http://www.diplomatie.gouv.fr/en/country-files_156/djibouti_204/france-and-djibouti_5978/bilateral-relations_6445/index.html Djibouti-France relations] French Government
+* [http://news.bbc.co.uk/2/hi/8073407.stm France acquits Djibouti officials] BBC News, 29 May 2009
+* [http://untreaty.un.org/unts/60001_120000/23/30/00045487.pdf Treaty of Treaty of Friendship and Cooperation]{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }} signed 1977
+* [https://www.jstor.org/pss/720984 Djibouti: France's strategic toehold in Africa] 1974
+* [http://www.economist.com/node/9163543?story_id=9163543 Beyond the banlieues] The Economist, May 10, 2007
+
+{{Foreign relations of Djibouti}}
+{{Foreign relations of France}}
+{{Portal bar|International relations|France|Djibouti}}
+
+{{DEFAULTSORT:Djibouti-France relations}}
+[[Category:Bilateral relations of Djibouti|France]]
+[[Category:Bilateral relations of France]]
+[[Category:Djibouti–France relations| ]]
+[[Category:Relations of colonizer and former colony]]
+
+
+{{Djibouti-stub}}
+{{France-gov-stub}}
+{{Bilateralrelations-stub}}</text>
+      <sha1>nyeqkho4dufjshmnvuhnoqzva83yj4b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Echt fett</title>
+    <ns>0</ns>
+    <id>33258765</id>
+    <revision>
+      <id>800057229</id>
+      <parentid>734423905</parentid>
+      <timestamp>2017-09-11T08:50:04Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category German-language television programming to [[:Category:German-language television programs]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 February 14]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1368">{{Expand German|topic=culture|date=September 2011|Echt fett}}
+{{Infobox television
+| show_name     =Echt fett
+| image         = 
+| caption       = 
+| camera        = 
+| runtime       = 
+| creator       = 
+| starring      =
+| country       = [[Austria]]
+| network       = 
+|Theme =
+| first_aired   =
+| last_aired    =
+| num_seasons   = 
+| num_episodes  = 
+| list_episodes = 
+}}
+
+'''''Echt fett''''' is an Austrian [[hidden camera shows|hidden camera]] television series. Like in e.g. [[Just for Laughs: Gags]] and [[Trigger Happy TV]], it exclusively shows clips of how unsuspecting subjects are brought into unusual situations by actors while being filmed with a hidden camera. A typical clip is filmed on the streets, or in a shopping mall. The comedic situations produced by the actors and the reactions of the unknowinlgy fooled are to entertain viewers. It was broadcast between 2003 and 2007.
+
+==See also==
+*[[List of Austrian television series]]
+
+==External links==
+* {{IMDb title|id=|title=Echt fett}}
+
+[[Category:Hidden camera television series]]
+[[Category:Austrian television series]]
+[[Category:2003 Austrian television series debuts]]
+[[Category:2007 Austrian television series endings]]
+[[Category:2000s Austrian television series]]
+[[Category:ORF (broadcaster)]]
+[[Category:German-language television programs]]
+
+
+{{Austria-stub}}
+{{Europe-tv-prog-stub}}</text>
+      <sha1>8sr1ejhtl89514dnrgq4sxu7sdb0y4h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Egon Ranshofen-Wertheimer Award</title>
+    <ns>0</ns>
+    <id>41558287</id>
+    <revision>
+      <id>773157974</id>
+      <parentid>702076380</parentid>
+      <timestamp>2017-03-31T17:47:50Z</timestamp>
+      <contributor>
+        <username>I dream of horses</username>
+        <id>9676078</id>
+      </contributor>
+      <minor/>
+      <comment>clean up using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2308">[[File:Tizzy von Trapp gets the Egon Ranshofen-Wertheimer Award.jpg|thumb|Braunau am Inn honors Tizzy von Trapp-Walker with the Egon Ranshofen-Wertheimer Award.
+from left to right:
+
+    Robert L. Hugins (U.S. Embassy, Vienna)
+    Prof. Dr. Ernst Florian Winter
+    Tizzy von Trapp-Walker
+    Ferdinand Tiefnig (Federal Council of Austria)
+    Mayor Gerhard Skiba (Braunau am Inn)
+    Dr. Emil Brix (Foreign Office, Vienna)]]
+
+The '''Egon Ranshofen-Wertheimer Award''' was founded (and is awarded) by the city of [[Braunau am Inn]] in cooperation with the Society for Contemporary History.
+
+Named after the [[journalist]], [[Political science|political scientist]] and [[diplomat]] [[Egon Ranshofen-Wertheimer]], the price honors Austrians living abroad for an outstanding commitment to their home country [[Austria]].
+
+On September 29, 2007, the first award ceremony took place in the course of the 16th Braunau Contemporary History Days. Laudator was the embassador [[Emil Brix]], head of the politico-cultural section of the Austrian Ministry for Foreign Affairs.
+
+== Winners ==
+
+*	2007 Tizzy von Trapp was honored on behalf of the charity organization Trapp Family Austrian Relief Inc.&lt;ref&gt;[http://sbgv1.orf.at/stories/225031 ''Trapp family honored with new award''], ORF Salzburg, 29 September 2007 (German)&lt;/ref&gt;
+*	2008 [[Ernst Florian Winter]] as the founding rector of the [[Diplomatic Academy of Vienna]]&lt;ref&gt;[http://www.braunau.at/gemeindeamt/html/220530966_1.pdf ''Dr. Ernst Florian Winter awarded Egon Ranshofen-Wertheimer Award 2008''], Braunauer Stadtnachrichten 134 p. 29, May/June 2008 (PDF; 6,9 MB. German)&lt;/ref&gt;
+*	2010 [[Dietmar Schönherr]]
+*	2013 Günther Greindl&lt;ref&gt;[http://www.meinbezirk.at/braunau-am-inn/chronik/wertheimer-preis-fuer-general-greindl-d549421.html ''Petra Höllbacher: "Wertheimer" Award for General Greindl''], Bezirksrundschau Braunau am Inn, 30 April 2013&lt;/ref&gt;
+*       2015 [[Manfred Nowak]]
+
+== See also ==
+
+*	Website of the Society for Contemporary History (http:// www.zeitgeschichte-braunau.at)
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [http://www.hrb.at/bzt/ Braunau Contemporary History Days]
+* [http://www.hrb.at/erwa/ Egon Ranshofen-Wertheimer Award]
+
+[[Category:Austrian awards]]
+[[Category:Braunau am Inn]]
+
+
+{{Austria-stub}}
+{{award-stub}}</text>
+      <sha1>hz0kw95o70lksdvar9i4nlfjvrw6hnv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>European Commission Data Protection Officer</title>
+    <ns>0</ns>
+    <id>17957816</id>
+    <revision>
+      <id>845968948</id>
+      <parentid>835230518</parentid>
+      <timestamp>2018-06-15T11:15:39Z</timestamp>
+      <contributor>
+        <username>RichardWeiss</username>
+        <id>193093</id>
+      </contributor>
+      <comment>rm unsourced re BLP</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="949">{{Politics of the European Union}}
+The '''European Commission Data Protection Officer''' is a position in the [[European Commission]] responsible for independently ensuring the application, within the Commission, of [[Regulation (European Union)|Regulation]] 45/2001 regarding [[data protection]]. 
+
+Further, the Officer maintains a register of all operations processing personal data, containing information on the purpose and conditions of operations, being available to the public (the register is available online).
+ 
+==See also==
+* [[European Data Protection Supervisor]]
+
+==External links==
+*Data Protection Officer(DPO), European Commission[https://ec.europa.eu/info/departments/data-protection-officer_en]
+*Network of DPOs, European Commission[https://edps.europa.eu/data-protection/eu-institutions-dpo/network-dpos_en]
+
+
+[[Category:Directorates-General in the European Commission|Data Protection]]
+
+{{EU-stub}}
+
+
+{{Eu-directorates-general}}</text>
+      <sha1>6bdiok9vj2z68lzlam30h1qj58hgwp8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fauna of Luxembourg</title>
+    <ns>0</ns>
+    <id>59221697</id>
+    <revision>
+      <id>871644865</id>
+      <parentid>871613594</parentid>
+      <timestamp>2018-12-02T14:35:36Z</timestamp>
+      <contributor>
+        <username>Onel5969</username>
+        <id>10951369</id>
+      </contributor>
+      <comment>Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (unreferenced)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="262">{{unreferenced|date=December 2018}}
+
+See
+* [[List of birds of Luxembourg]]
+* [[List of mammals of Luxembourg]]
+
+== See also ==
+* [[Outline of Luxembourg]]
+
+== References ==
+{{reflist}}
+
+{{Fauna of Europe}}
+
+[[Category:Fauna of Luxembourg|*]]
+
+{{Luxembourg-stub}}</text>
+      <sha1>fhvh5xx1ubjrft1zehuthkncc0g3u0r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Federazione delle Leghe coloniche</title>
+    <ns>0</ns>
+    <id>35183687</id>
+    <revision>
+      <id>746881808</id>
+      <parentid>614906211</parentid>
+      <timestamp>2016-10-30T04:02:20Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="985">'''''Federazione delle Leghe coloniche''''' ('Federation of Farmers' Leagues') was a farmers' union in [[San Marino]]. The organization was founded in 1945.&lt;ref name="p"&gt;Rossi, Laura. ''[https://books.google.com/books?id=cDkTAQAAIAAJ Il movimento sindacale a San Marino, 1900-1960]''. San Marino: Centro sammarinese di studi storici, 2003. p. 118&lt;/ref&gt; It was linked to the [[Sammarinese Communist Party]].&lt;ref name="p"/&gt; The federation was the first member organization of [[San Marino Confederation of Labour]] (CSdL).&lt;ref&gt;Confederazione Sammarinese del Lavoro. ''[http://www.csdl.sm/ita/ CSdL in breve]''&lt;/ref&gt;
+
+The federation held its fourth congress on March 31, 1957.&lt;ref&gt;Fondazione XXV Marzo. ''[http://www.fondazionexxvmarzo.sm/index.php/archivi/49-congresso Archivio CSdL: Congresso]''&lt;/ref&gt;
+
+==References==
+&lt;references/&gt;
+
+[[Category:1945 establishments in San Marino]]
+[[Category:Trade unions in San Marino]]
+[[Category:Trade unions established in 1945]] 
+
+{{SanMarino-stub}}</text>
+      <sha1>79ovmaciel7pybrbo9axpw19u514kri</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gene fornby</title>
+    <ns>0</ns>
+    <id>12659481</id>
+    <revision>
+      <id>820932362</id>
+      <parentid>784910139</parentid>
+      <timestamp>2018-01-17T13:10:07Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 3 sources and tagging 0 as dead. #IABot (v1.6.2) ([[User:Balon Greyjoy|Balon Greyjoy]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3946">[[Image:Långhus.jpg|thumb|right|Reconstructed longhouse at Gene Fornby]]
+'''Gene Fornby''' is a reconstructed [[Iron Age]] settlement just outside [[Örnsköldsvik]], in [[Västernorrland]] County, [[Sweden]].&lt;ref&gt;[http://www.freeway.org/issue4/culture/gene.htm ''Iron Age Farm Gene Fornby'' (Helena Byström, Carola Nordin and Anna Edin)]&lt;/ref&gt;
+
+The earliest traces of human activity found in the area date back to the [[Nordic Bronze Age]], but the settlement itself dated back to the [[Roman Iron Age]], from around the years 400-600 AD. The settlement was located just by the waterline of that time, but due to the [[post-glacial rebound]] in the area, the waterline is now about 500 meters away from the settlement.&lt;ref&gt;
+[http://www.openthesis.org/documents/Gene-teori-och-praktik-rekonstruktion-414549.html ''Långhus i Gene'' (Lena Edblom)]&lt;/ref&gt; 
+
+Historically it was known that there were burial mounds on top of Genesmon, but it was not until the 1960s that they were investigated for the first time by the archaeologist [[:sv:Evert Baudou|Evert Baudou]]. Graves believed to be those of chieftains from the years 100-600 AD have been found. Gene Fornby was laid bare during archaeological [[Excavation (archaeology)|excavations]] conducted by the [[University of Umeå]]  from 1977 and 1988. The excavation revealed various buildings including a [[forge]], believed to have been one of the largest forge in prehistoric [[Scandinavia]]. Traces of iron production and processing were uncovered as well as bronze casting and a textile works.&lt;ref&gt;[http://www.publicarchaeology.eu/Gene-Fornby-SE ''Gene Fornby'' (Archeo Interface)] {{webarchive|url=https://web.archive.org/web/20110720171510/http://www.publicarchaeology.eu/Gene-Fornby-SE |date=2011-07-20 }}&lt;/ref&gt;
+
+In 1991, work began on reconstructing the farm on Genesmon. A principal feature is the reconstructed longhouse. The facility opened in 1991 and became a popular tourist attraction during the summer months. All the houses are open to the public. The facility is operated by the [[:sv:Örnsköldsviks museum och konsthall|Örnsköldsvik Museum &amp; Art Gallery]].
+
+==References==
+{{Reflist}}
+
+==Other sources==
+*Baudou, Evert (1992) ''Norrlands forntid : ett historiskt perspektiv'' (Höganäs: CEWE-forlaget) {{ISBN|978-91-7119-239-4}}
+*Edblom, Lena (2004) ''Långhus i Gene'' (Instutionen för Arkeologi och Samiska Studier, Umeå universitet) {{ISBN|91-7305-646-4}}
+*Lindqvist Anna-Karin and Ramqvist, Per H. (1993) ''Gene – en stormansgård från äldre järnålder i mellannorrland'' (Umeå universitet)
+*Ramqvist, Per H. (1983) ''On the origin, function and development of sedentary Iron Age settlement in Northern Sweden'' (Umeå universitet) {{ISBN|978-91-7174-145-5}}
+*Thunberg, Carl L. (2013) "Gene fornby: The Ancient Village of Gene", ''EXARC Journal Digest 3013'' (Eindhoven: EXARC Journal) ISSN 2212-523X
+
+==External links==
+*[http://www.genefornby.se/ Gene Fornby Official website]
+* [http://exarc.net/issue-2013-1/aoam/gene-fornby-ancient-village-gene Carl L. Thunberg, ''EXARC Journal 2013/1 ''(Online issue), "Gene fornby: The Ancient Village of Gene"]'
+*[http://www.dufvabygg.se/gene/ Genesmon the Iron Age]
+*[https://web.archive.org/web/20110104173155/http://ornskoldsvik.se/kulturfritidochturism/ornskoldsviksmuseumkonsthall.4.1a7b4868113ccc4626e8000129.html Örnsköldsvik Museum &amp; Art Gallery]
+*[http://kartor.eniro.se/m/prcJP Site Map]
+*[https://web.archive.org/web/20120315222235/http://www.idesam.umu.se/forskning/publikationer/arkeologi/archaeology-and-environment/in-honorem-evert-baudou/ Umeå universitet - Archaeology and Environment]
+
+{{coord|63|15|N|18|42|E|region:SE|display=title}}
+
+[[Category:Archaeological sites in Sweden]]
+[[Category:Former populated places in Sweden]]
+[[Category:Open-air museums in Sweden]]
+[[Category:Museums in Västernorrland County]]
+
+
+{{europe-archaeology-stub}}
+{{Västernorrland-geo-stub}}
+{{Sweden-museum-stub}}</text>
+      <sha1>1liafizc3y6avukf4gok4p60d3sjo6j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Genootschap Onze Taal</title>
+    <ns>0</ns>
+    <id>30457243</id>
+    <revision>
+      <id>862769906</id>
+      <parentid>795863345</parentid>
+      <timestamp>2018-10-06T15:52:29Z</timestamp>
+      <contributor>
+        <username>Prinsgezinde</username>
+        <id>24340726</id>
+      </contributor>
+      <comment>Added ref</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1142">[[File:OnzeTaal2017.jpg|thumb|Onze Taal offices]]
+'''Genootschap Onze Taal''' (''Society for our language'') is a [[Netherlands|Dutch]] society dedicated to the [[Dutch language]]. It was founded in 1931, initially to guard the language against what was seen as an invasion of [[Germanism (linguistics)|Germanisms]].&lt;ref&gt;[https://www.nrc.nl/nieuws/2004/08/02/zoiezo-7696166-a1209707 Zoiezo (''in Dutch'')], ''[[NRC Handelsblad]]''&lt;/ref&gt;
+
+The society publishes a journal, ''Onze Taal'', and a number of regularly appearing booklets on spelling, the most notable of which is the ''[[White Booklet]]''. It also has an advisory service, the ''Taaladviesdienst''.&lt;ref&gt;{{Cite book  | last = Waardenburg  | first = Marten  | title = Zicht op Communicatie  | publisher = Kluwer  | date = 2004  | page = 377  | url = https://books.google.com/books?id=3qWsbYtBNesC&amp;pg=PA377  | isbn = 978-90-13-00680-3}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.onzetaal.nl/ot/index.php Genootschap Onze Taal website]
+
+[[Category:1931 establishments in the Netherlands]]
+[[Category:Dutch language advocacy organizations]]
+
+{{Netherlands-stub}}</text>
+      <sha1>epqafleqyk7k02lvj6px8qeh9vrfl4u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gibraltar general election, 2003</title>
+    <ns>0</ns>
+    <id>10750706</id>
+    <revision>
+      <id>793882044</id>
+      <parentid>782945216</parentid>
+      <timestamp>2017-08-04T14:41:17Z</timestamp>
+      <contributor>
+        <username>FriendlyDataNerdV2</username>
+        <id>30519280</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2730">{{Infobox Election
+| election_name      = Gibraltar general election, 2003
+| country            = Gibraltar
+| type               = legislative
+| ongoing            = no
+| party_colour       = 
+| previous_election  = Gibraltar general election, 2000
+| previous_year      = 2000
+| next_election      = Gibraltar general election, 2007
+| next_year          = 2007
+| seats_for_election = 15 seats to the [[Gibraltar Parliament|Gibraltar House of Assembly]] &lt;br&gt; 8 seats were needed for a majority
+| election_date      = 28 November 2003
+| image1             = [[Image:Peter_Caruana_portrait.jpg|102px]]
+| leader1            = [[Peter Caruana]]
+| leader_since1      = 1996
+| party1             = Gibraltar Social Democrats
+| leaders_seat1      = 
+| last_election1     = 8 seats, 58.4%
+| seats_needed1      = 
+| seats1             = '''8'''
+| seat_change1       = {{steady}}
+| popular_vote1      = '''58,234'''
+| percentage1        = '''51.0%'''
+| swing1             = {{decrease}}7.4%
+| image2             = [[Image:Joebossano.jpg|150x150px]]
+| colour2            = 
+| nominee2           = 
+| leader2            = [[Joe Bossano]]
+| leader_since2      = 1978
+|alliance2           = Gibraltar Liberal Party
+| party2             = Gibraltar Socialist Labour Party 
+| leaders_seat2      = 
+| running_mate2      = 
+| last_election2     = 7 seats, 40.6%
+| seats_needed2      = 
+| seats2             = 7
+| seat_change2       = {{steady}}
+| popular_vote2      = 44,920
+| percentage2        = 40.0%
+| swing2             = {{decrease}}0.4%
+| poll1_date         = 
+| poll1_source       = 
+| map_image          = 
+| map_size           = 
+| map_caption        = 
+| title              = Chief Minister
+| before_election    = Peter Caruana
+| before_colour      = 
+| after_election     = Peter Caruana
+| after_colour       = 
+| before_party       = Gibraltar Social Democrats
+| after_party        = Gibraltar Social Democrats
+}}
+{{Politics of Gibraltar}}
+
+'''[[General election]]s were held in [[Gibraltar]] on 28 November 2003'''. They were won by [[Peter Caruana]]'s [[Gibraltar Social Democrats]] (GSD), who took over 50% of the popular vote and 8 of the 15 available seats, making this their third successive win.
+
+==Results==
+&lt;center&gt;{{Gibraltar legislative election, 2003}}&lt;/center&gt;
+
+==External links==
+*[https://web.archive.org/web/20080731031531/http://psephos.adam-carr.net/countries/g/gibraltar/gibraltar2003.txt Results of the 2003 Gibraltar Elections]
+
+{{Gibraltarian elections}}
+
+[[Category:General elections in Gibraltar|2003]]
+[[Category:2003 elections in Europe]]
+[[Category:2003 in Gibraltar|General election]]
+[[Category:2003 elections in British Overseas Territories]]
+[[Category:November 2003 events]]
+
+
+{{Gibraltar-election-stub}}</text>
+      <sha1>4eclzqrq5i7jz9m0wsmjb6qpsoeewy0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Harmanec Tunnel</title>
+    <ns>0</ns>
+    <id>7776536</id>
+    <revision>
+      <id>587386314</id>
+      <parentid>541658438</parentid>
+      <timestamp>2013-12-23T15:45:57Z</timestamp>
+      <contributor>
+        <username>Aaron-Tripel</username>
+        <id>15668721</id>
+      </contributor>
+      <comment>removed [[Category:Tunnels in Slovakia]] using [[WP:HC|HotCat]], [[WP:SUBCAT]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="684">The '''[[Harmanec]] Tunnel''' ({{Lang-sk|Čremošniansky tunel}}) is a [[railway]] tunnel on the [[Banská Bystrica]] - [[Dolná Štubňa]] track.  It is {{convert|4,698|m|ft|abbr=on}} long and it is the longest railway tunnel in [[Slovakia]]. It was built from 1936 to 1940.
+
+==See also==
+*[[Bujanov Tunnel]]
+
+==Sources==
+*[http://travel.spectator.sme.sk/articles/1718/on_the_ridge_of_the_greater_fatra On the ridge of the Greater Fatra]
+
+{{coord|48|50|22|N|18|57|24|E|region:SK_source:kolossus-skwiki|display=title}}
+
+[[Category:Railway tunnels in Slovakia]]
+[[Category:Tunnels completed in 1940]]
+
+{{Slovakia-struct-stub}}
+{{Europe-rail-transport-stub}}
+{{Slovakia-transport-stub}}</text>
+      <sha1>7l8de3znjjcnufu40xvr86xr1yz526u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Idea Bank (Romania)</title>
+    <ns>0</ns>
+    <id>13093738</id>
+    <revision>
+      <id>862746244</id>
+      <parentid>861710558</parentid>
+      <timestamp>2018-10-06T12:05:17Z</timestamp>
+      <contributor>
+        <username>DePiep</username>
+        <id>199625</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */clean up, replaced: {{Infobox company |
+ → {{Infobox company
+|, 
+|  name_company   =Idea Bank|
+ → |name_company   =Idea Bank
+|  (5)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1239">{{Infobox company
+|name =Idea Bank
+|   type           = [[Private company|Private]]
+|foundation     = 1998
+|   location       = [[Bucharest]], [[Romania]]
+|key_people     = 
+|   num_employees  = 
+|industry       = [[Finance and Insurance]]
+|   revenue        = 
+|products       = [[Financial Services]]
+|   homepage       = [https://idea-bank.ro/ idea-bank.ro]
+}}
+'''Idea Bank''' (formerly '''Romanian International Bank''') is a Romanian bank based in [[Bucharest]].
+
+Towards the end of 2013, Romanian International Bank was sold to Idea Bank, a Polish bank controlled by Getin Holding. In April 2014, its operations continued under the new Idea Bank brand.&lt;ref&gt;[http://economie.hotnews.ro/stiri-finante_banci-19982213-analiza-marti-lanseaza-oficial-noua-banca-romania-idea-bank-vezi-insemnat-criza-piata-bancara-autohtona-banci-iesit-din-romania-cine-fuzionat-cine-miscari-mai-putea-avea-loc.htm HotNews - ANALIZA: Marti se lanseaza oficial o noua banca in Romania: Idea Bank.]&lt;/ref&gt; 
+ 
+==References==
+{{reflist}}
+
+==External links==
+* [https://idea-bank.ro/ Official site - Idea Bank]
+
+[[Category:Banks of Romania]]
+[[Category:Companies based in Bucharest]]
+[[Category:Banks established in 1998]]
+
+
+{{romania-stub}}
+{{Europe-bank-stub}}</text>
+      <sha1>2np1mw3tubycyb4r4ee2w0lj3m886cx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Indonesian Workers Welfare Union</title>
+    <ns>0</ns>
+    <id>4939682</id>
+    <revision>
+      <id>830518582</id>
+      <parentid>830518499</parentid>
+      <timestamp>2018-03-15T10:21:14Z</timestamp>
+      <contributor>
+        <username>Davidelit</username>
+        <id>1433803</id>
+      </contributor>
+      <minor/>
+      <comment>Missed one</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1696">{{Other uses2|SBSI}}
+{{Infobox Union|&lt;!-- Please include all unused fields for future use. See [[template talk:Infobox Union]] for usage. --&gt;
+|name= SBSI
+|country= [[Indonesia]]
+|affiliation= [[International Trade Union Confederation|ITUC]]
+|members= 2.1 million
+|full_name= Indonesian Workers Welfare Union
+|native_name= Serikat Buruh Sejahtera Indonesia
+|image= [[Image:KSBSI logo.png|150px]]
+|founded= 1992
+|current=
+|head=
+|dissolved_date=
+|dissolved_state=
+|merged_into=
+|office= [[Jakarta]], Indonesia
+|people= [[Rekson Silaban]], chairman
+|website= http://sbsi.or.id/
+|footnotes=
+}}
+
+The '''Indonesian Workers Welfare Union''' (SBSI) is a [[national trade union centre]] in [[Indonesia]]. It was founded in 1992 and claims a membership of 2.1 million. SBSI was the first independent national federation to form during the [[New Order (Indonesia)|Suharto dictatorship]], suffering considerable state repression during this period. In 1993 its national congress was broken up by soldiers just 40 minutes into the proceedings. As well, three activists were murdered, 250 arrested, and 2,500 dismissed from employment in the first two years of its establishment.
+
+==References==
+*{{cite book
+ | year = 2005
+ | title = Trade Unions of the World
+ | editor = [[International Centre for Trade Union Rights|ICTUR]] et al.,
+ | edition = 6th
+ | publisher = John Harper Publishing
+ | location = London, UK
+ | isbn = 0-9543811-5-7
+}}
+
+==External links==
+* /[http://www.ksbsi.org]
+
+{{Portal|Organized labour}}
+
+[[Category:Trade unions in Indonesia]]
+[[Category:Economy of Indonesia]]
+[[Category:Trade unions established in 1992]]
+[[Category:1992 establishments in Indonesia]]
+
+
+{{Asia-trade-union-stub}}</text>
+      <sha1>bayd6km1nnzhj5zu2pahmwppoqxrru2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kande language</title>
+    <ns>0</ns>
+    <id>35763265</id>
+    <revision>
+      <id>666812692</id>
+      <parentid>650795856</parentid>
+      <timestamp>2015-06-13T21:29:53Z</timestamp>
+      <contributor>
+        <username>Abrahamic Faiths</username>
+        <id>18381293</id>
+      </contributor>
+      <comment>/* References */ {{Narrow Bantu languages|A-B}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="678">{{Infobox language
+|name=Kande
+|nativename=
+|states=[[Gabon]]
+|region=
+|ethnicity=Okande
+|speakers=500
+|date=2007
+|ref = e18
+|familycolor=Niger-Congo
+|fam2=[[Atlantic–Congo languages|Atlantic–Congo]]
+|fam3=[[Benue–Congo languages|Benue–Congo]]
+|fam4=[[Bantoid languages|Bantoid]]
+|fam5=[[Bantu languages|Bantu]] ([[Guthrie classification of Bantu languages#Zone B|Zone B]])
+|fam6=[[Tsogo languages]] (B.30)
+|iso3=kbs
+|glotto=kand1300
+|glottorefname=Kande
+|guthrie=B.32
+}}
+
+'''Kande''' is an undocumented [[Bantu language]] of [[Gabon]].
+
+==References==
+{{Reflist}}
+
+{{Languages of Gabon}}
+{{Narrow Bantu languages|A-B}}
+[[Category:Tsogo languages]]
+
+
+{{Bantu-lang-stub}}</text>
+      <sha1>des31v3v4eh9g3kb6f77rvt6taakd8u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Karmelyukove Podillya</title>
+    <ns>0</ns>
+    <id>37631731</id>
+    <revision>
+      <id>849052450</id>
+      <parentid>785970429</parentid>
+      <timestamp>2018-07-06T05:07:52Z</timestamp>
+      <contributor>
+        <username>Johnuniq</username>
+        <id>6036800</id>
+      </contributor>
+      <minor/>
+      <comment>fix convert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1777">{{unreferenced|date=November 2012}}
+{{Infobox protected area
+| name = Karmelyukove Podillya
+| alt_name =«Кармелюкове Поділля»
+| iucn_category = II
+| photo = Morning dew drop.jpg
+| photo_caption =
+[[File:Karmelyukove Podillya.png|185px|center]]
+Park logo
+| location =[[Vinnytsia oblast]], Ukraine
+| nearest_city = [[Trostyanets]] and [[Chechelnyk]]
+| coordinates = {{coord|48.3992|N|29.2603|E|source:wikidata-and-enwiki-cat-tree_region:UA|display=inline,title}}
+| area = {{convert|16518|ha|km2+mi2|abbr=on}}
+| established = 2009
+| visitation_num = 
+| visitation_year = 
+| governing_body = 
+}}
+
+'''Karmelyukove Podillya''' is a [[national park]] in the [[Trostyanets]] and [[Chechelnyk]] districts of the Ukraine's [[Vinnytsia]] region. Its area is 16518 hectares and it was founded on 16 December 2009.
+
+== History ==
+The national nature park was created in accordance with the decree of the President of Ukraine [[Viktor Yushchenko]] at December 16, 2009 for the purpose of conservation, restoration and sustainable using of its unique natural and historical-cultural complexes of Southern Podillya that have important environmental, scientific, historical, cultural, aesthetic, recreational and curative value. In the National Nature Park, Karmelyukove Podillya,  agreed in due including 20203,4 hectares of state-owned land, including 16,518 hectares of land that are excluded from the state enterprise "Chechelnitsky forestry" and granted National Nature Park in constant use, and 3685, 4 acres of land included in its composition, without exception.
+
+==External links==
+*{{Commonscat-inline|Karmelyukove Podillya}}
+
+{{National Nature Reserves of Ukraine}}
+[[Category:National parks of Ukraine]]
+[[Category:Protected areas of Ukraine]]
+
+
+{{Ukraine-stub}}</text>
+      <sha1>3ab7r3c4knnjm6tvtimjnkdom3eo7eo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Law Society of Singapore</title>
+    <ns>0</ns>
+    <id>11188944</id>
+    <revision>
+      <id>684240415</id>
+      <parentid>684240097</parentid>
+      <timestamp>2015-10-05T13:02:23Z</timestamp>
+      <contributor>
+        <username>Bpc.sg</username>
+        <id>16272844</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2096">[[File:Law Society of Singapore - 20120103-02.jpg|thumb|upright|The headquarters of the Law Society of Singapore at [[South Bridge Road]]]]
+
+The '''Law Society of Singapore''' is the organisation that represents all [[lawyer]]s in [[Singapore]]. It publishes the ''Law Gazette'' and operates a scheme for needy people to benefit from legal services free-of-charge.&lt;ref&gt;{{cite news | title = Free legal help for victims' kin | date = 29 January 2005 | publisher = [[The Straits Times]]}}&lt;/ref&gt; The Society also sets out rules for how lawyers should advertise.&lt;ref&gt;{{cite news | title = Law Society studies permitting referral fees | author = Siow Li Sen | date = 8 March 2006 | publisher = [[Business Times (Singapore)|Business Times]]}}&lt;/ref&gt; The Law Society is analogous to what is called the [[Bar Association]] in many countries.
+
+The society motto is ''"An Advocate for the Profession, An Advocate for the Community."''
+
+==Leadership==
+{| class="wikitable"
+!Year
+!President
+|-
+|1963 - 1964
+|C. C. Tan
+|-
+|1965	
+|Mr Po Guan Hock
+|-
+|1966
+|C. F. J. Ess
+|-
+|1967	
+|C. C. Tan
+|-
+|1968
+|H. P. Godwin
+|-
+|1969 - 1972
+|G. Starforth Hill
+|-
+|1973 - 1974
+|M. Karthigesu
+|-
+|1975 - 1977
+|H. L. Wee
+|-
+|1978
+|M. Karthigesu
+|-
+|1979
+|Phyllis P. L. Tan
+|-
+|1980 - 1983
+|T. P. B. Menon
+|-
+|1984 - 1985
+|[[Harry Elias]] SC
+|-
+|1986
+|[[Francis Seow]]
+|-
+|1987 - 1989
+|Giam Chin Toon SC
+|-
+|1990 - 1992
+|C. R. Rajah SC
+|-
+|1993 - 1994
+|Peter Cuthbert Low
+|-
+|1995 - 1997
+|Chandra Mohan K. Nair
+|-
+|1998 - 1999
+|George Lim Teong Jin SC
+|-
+|2000 - 2002
+|Palakrishnan SC
+|-
+|2003
+|Arfat Selvam
+|-
+|2004 - 2007
+|[[Philip Jeyaretnam]] SC
+|-
+|2008 - July 2010
+|[[Michael Hwang]] SC
+|-
+|Aug 2010 - 2012
+|Wong Meng Meng SC
+|-
+|2013 - 2014
+|Lok Vi Ming SC
+|-
+|2015
+|[[Thio Shen Yi]] SC
+|}
+
+==References==
+{{reflist}}
+
+==See also==
+*[[Law society]]
+
+==External links==
+{{Commons category}}
+
+*[http://www.lawsociety.org.sg/ Law Society of Singapore website]
+
+{{Singapore Legal Profession}}
+{{asia-law-stub}}
+{{Singapore-org-stub}}
+
+[[Category:Law societies|Singapore]]
+[[Category:Legal organisations based in Singapore]]</text>
+      <sha1>2heykta8jo2uywd5lychldx1pv6d6qe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Life imprisonment in Iceland</title>
+    <ns>0</ns>
+    <id>30191410</id>
+    <revision>
+      <id>863392856</id>
+      <parentid>544910984</parentid>
+      <timestamp>2018-10-10T13:59:15Z</timestamp>
+      <contributor>
+        <username>Frietjes</username>
+        <id>13791031</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="700">'''Life imprisonment in Iceland''' is legal and the most severe punishment available under the Icelandic penal code. It may be imposed for murder, genocide, qualified hostage-taking and the act of arranging a war against Iceland with foreign powers. Under the military penal code, it can also be imposed in times of war for mutiny, disobedience, cowardice, treason and espionage.
+
+Inmates sentenced to life imprisonment are eligible for parole after serving 16 years. 
+
+== References ==
+* http://visindavefur.hi.is/svar.php?id=53350
+
+{{World topic|Life imprisonment in|noredlinks=y|title=[[Life imprisonment]]}}
+[[Category:Life imprisonment by country|Iceland]]
+
+
+{{Iceland-stub}}
+{{Europe-law-stub}}</text>
+      <sha1>hkxg0993hnrn37ix04vhcwasy9vs8zl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>M'Vengue El Hadj Omar Bongo Ondimba International Airport</title>
+    <ns>0</ns>
+    <id>9220659</id>
+    <revision>
+      <id>855723172</id>
+      <parentid>731824121</parentid>
+      <timestamp>2018-08-20T11:34:07Z</timestamp>
+      <contributor>
+        <username>Ecangola</username>
+        <id>31439127</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2044">{{Infobox Airport 
+| name         = M'Vengue El Hadj Omar Bongo Ondimba International Airport
+| nativename   = 
+| nativename-a = 
+| nativename-r = 
+| image        = File:Aeroport de franceville.jpg
+| image-width  = 
+| caption      = 
+| IATA         = MVB
+| ICAO         = FOON
+| type         = Civil/Military
+| owner        = 
+| operator     = 
+| city-served  = [[Franceville]]
+| location     = [[M'Vengue]], [[Gabon]]
+| elevation-f  = 1450
+| elevation-m  = 
+| coordinates  = {{Coord|01|39|22|S|13|26|17|E|type:airport|display=inline,title}}
+| pushpin_map            = Gabon
+| pushpin_map_caption    = Location within Gabon
+| pushpin_label          = MVB
+| website      = 
+| metric-elev  = 
+| metric-rwy   = y
+| r1-number    = 15/33
+| r1-length-f  = 
+| r1-length-m  = 3200
+| r1-surface   = Asphalt
+| stat-year    = 
+| stat1-header = 
+| stat1-data   = 
+| stat2-header = 
+| stat2-data   = 
+| footnotes    = Sources: Google maps&lt;ref&gt;[https://www.google.com/maps/@-1.6548022,13.4372526,5001m/data=!3m1!1e3 Google Maps]&lt;/ref&gt; GCM&lt;ref&gt;{{GCM|MVB}}&lt;/ref&gt;
+}}
+
+'''M'Vengue El Hadj [[Omar Bongo]] Ondimba International Airport''' {{airport codes|MVB|FOON}} is an airport serving the city of [[Franceville]], in [[Haut-Ogooué Province]], [[Gabon]]. The airport is {{convert|16|km}} west of the city, near the village of [[M'Vengue]].
+
+The Franceville [[VOR-DME]] (Ident: '''FRV''') is located on the field.&lt;ref&gt;{{Cite web|url=https://skyvector.com/?ll=-1.656155,13.438036&amp;chart=301&amp;zoom=1|title=SkyVector: Flight Planning / Aeronautical Charts|website=skyvector.com|access-date=2018-08-20}}&lt;/ref&gt;
+
+==See also==
+*{{Portal-inline|Gabon}}
+*{{portal-inline|Aviation}}
+* [[List of airports in Gabon]]
+* [[Transport in Gabon]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.fallingrain.com/icao/FOON.html Mvengue Airport]
+*[http://ourairports.com/airports/FOON/pilot-info.html#general OurAirports - M'Vengue]
+*[https://www.openstreetmap.org/#map=11/-1.6488/13.5043 OpenStreetMaps - Mvengue]
+
+[[Category:Airports in Gabon]]
+
+
+{{Gabon-airport-stub}}</text>
+      <sha1>tummj86oveyb5z82e9imqhgv2sajdvr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Malta Internet Exchange</title>
+    <ns>0</ns>
+    <id>7545596</id>
+    <revision>
+      <id>744153846</id>
+      <parentid>398473878</parentid>
+      <timestamp>2016-10-13T12:48:34Z</timestamp>
+      <contributor>
+        <username>Continentaleurope</username>
+        <id>24771007</id>
+      </contributor>
+      <comment>This article is a clear copyvio</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="835">MIX, the '''Malta Internet eXchange''', is a common national Internet backbone for [[Malta]] that was launched by NIC (Malta) on 7 September 1999. This was a result of working in partnership with the major ISPs operating in Malta to develop an operationally sound infrastructure.
+
+The Internet exchange facility is located at the [[University of Malta]] Computing Services Centre (CSC). A close partnership with the CSC, enables NIC to provide reliable operations and technical support.
+
+The initial MIX set-up made use of Frame-Relay infrastructure to connect the ISPs to the Exchange. ISPs now connect to the MIX facility on campus using ATM PVCs or leased circuits.
+
+== External links ==
+* [http://www.mix.net.mt/ Malta Internet Exchange]
+
+[[Category:Internet in Malta]]
+[[Category:Science and technology in Malta]]
+
+
+{{Malta-stub}}</text>
+      <sha1>lctyraqryu13oaggynxfcb98ugetq40</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Matrilineal belt</title>
+    <ns>0</ns>
+    <id>56560841</id>
+    <revision>
+      <id>868709246</id>
+      <parentid>860746164</parentid>
+      <timestamp>2018-11-13T22:56:49Z</timestamp>
+      <contributor>
+        <ip>46.27.212.39</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2078">In [[anthropology]], the '''matrilineal belt''' is an area in Africa south of the equator where [[matrilineality]] is predominant. The matrilineal belt runs diagonally from the [[Atlantic Ocean|Atlantic]] to the [[Indian Ocean|Indian]] oceans, crossing [[Angola]], [[Zambia]], [[Malawi]] and [[Mozambique]]. The belt is linked to [[horticulture|horticultural]] household economics, and [[Bantu peoples|Bantu]] groups that have embraced [[pastoralism]] have tended to lose matrilinearity.&lt;ref&gt;{{cite journal |last1=Holden |first1=Clare–Janaki |last2=Ruth |first2=Mace |date=2003 |title=Spread of cattle led to the loss of matrilineal descent in Africa: a coevolutionary analysis |journal=Proceedings of the Royal Society of London B|volume=270 |issue= |pages=2425–2433 |doi=10.1098/rspb.2003.2535 |pmc=1691535}}&lt;/ref&gt;
+
+The region stands out for its high degree of [[Paternity fraud|paternity uncertainty]] and adolescent [[promiscuity]] both of which are alleged to be linked to matrilinearity. As inheritance is mainly through the descent of women, there is little incentive to know the identity of the father of a child. Men's inheritance therefore seldom passes to his wife's children but stays within what is for sure his biological family.&lt;ref&gt;{{cite journal |last1=Hrdy |first1=Daniel B. |last2= |first2= |date=1987 |title=Cultural Practices Contributing to the Transmission of Human Immunodeficiency Virus in Africa |journal=Reviews of Infectious Diseases |volume=9 |issue=6 |pages=1109–1119 |doi= }}&lt;/ref&gt;  
+
+Ideas linking the matrilineal belt to a supposed matrilineal [[Bantu expansion]] have been rejected as lacking evidence.&lt;ref&gt;{{cite journal |last1=Kuper |first1=Adam |last2=Van Leynseele |first2=Pierre |date=1978 |title=Social Anthropology and the 'Bantu expansion' |journal=Africa: Journal of the International African Institute |volume=48 |issue=4 |pages=335–352 |doi= }}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+[[Category:Belt regions]]
+[[Category:Cultural regions]]
+[[Category:Geography of Africa]]
+[[Category:Kinship and descent]]
+[[Category:Matriarchy]]</text>
+      <sha1>lb6yv9lle57mq8hh2u2g77bcjk5mp98</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mero Air</title>
+    <ns>0</ns>
+    <id>8016162</id>
+    <redirect title="List of airlines of Nepal" />
+    <revision>
+      <id>769422294</id>
+      <parentid>769422201</parentid>
+      <timestamp>2017-03-09T12:50:53Z</timestamp>
+      <contributor>
+        <username>Amezin</username>
+        <id>13118145</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="652">#REDIRECT [[List of airlines of Nepal]]
+'''Mero Air''' was an [[airline]] based in [[Nepal]].
+
+==History==
+The [[Civil Aviation Authority of Nepal]] granted Mero Air an air operators certificate in 2005. Despite this, by 2007 the airline had failed to start operations.&lt;ref&gt;{{cite web|url=https://books.google.co.uk/books?ei=QFuoVMe2CMXdaqnLgDA&amp;id=1mBNAQAAIAAJ&amp;dq=%22Mero+Air%22+Nepal&amp;focus=searchwithinvolume&amp;q=%22Mero+Air%22|title=Nepalese tourism|publisher=|accessdate=3 January 2015}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+{{Airlines of Nepal}}
+
+[[Category:Defunct airlines of Nepal]]
+
+{{Asia-airline-stub}}
+{{Nepal-transport-stub}}
+__STATICREDIRECT__</text>
+      <sha1>m8f66z09i2q87mhbvceknb86gfs9flk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Monowai Seamount</title>
+    <ns>0</ns>
+    <id>1893807</id>
+    <revision>
+      <id>856201591</id>
+      <parentid>846700247</parentid>
+      <timestamp>2018-08-23T15:39:10Z</timestamp>
+      <contributor>
+        <username>Pbsouthwood</username>
+        <id>10044298</id>
+      </contributor>
+      <comment>Adding local [[Wikipedia:Short description|short description]]: "A volcanic seamount to the north of New Zealand in the Kermadec arc" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4866">{{short description|A volcanic seamount to the north of New Zealand in the Kermadec arc}}
+{{Infobox Seamount  
+ | Name           = Monowai Seamount
+ | Depth          = {{Convert|132|m|ft|0}}&lt;ref name="volcano"&gt;{{cite gvp|vn=242050 |name=Monowai |accessdate=2018-01-04}}&lt;/ref&gt;
+ | Map            = 
+ | Summit area    = 
+ | Location       = North of the [[Kermadec Islands]]; south of [[Tonga]]
+ | Group          = 
+ | Coordinates    = {{coord|25.887|S|177.188|W|}}
+ | Country        = New Zealand
+ | Type           = 
+ | Volcanic group = 
+ | Age            = 
+ | Last eruption  = August 2012
+ | Discovered     = 
+ | Discovered by  = 
+ | First visit    = 
+ | Translation    = 
+ | Language       = 
+ | Pronunciation  = 
+ | Photo          = 
+}}
+'''Monowai''' is a [[Volcano|volcanic]] [[seamount]] to the north of [[New Zealand]]. It is one of the most active volcanoes in the [[Kermadec Islands|Kermadec volcanic arc]] and has erupted many times since 1977.&lt;ref&gt;[http://www.volcano.si.edu/world/volcano.cfm?vnum=0402-05-&amp;volpage=erupt Global Volcanism Program: Monowai Seamount, eruptive history]&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Rise and fall of underwater volcano revealed |author=[[David Shukman]] |url=https://www.bbc.co.uk/news/science-environment-18040658 |newspaper=BBC News |date=13 May 2012 |accessdate=2012-05-13}}&lt;/ref&gt;
+{{coord|25.887|S|177.188|W|display=title}}
+
+==Description==
+The summit of Monowai is approximately {{Convert|132|m|ft|0}}&lt;ref name="volcano" /&gt; below sea level, considerably above the level of the nearby [[Tonga Trench|Tonga]] and [[Kermadec Trench]]es. The summit's position and depth changed between 1998 and 2004, due to a landslide and eruptive regrowth. A {{Convert|1500|m}} deep [[caldera]], {{Convert|13|by|8|km|abbr=on}}, lies {{convert|5|to(-)|15|km|mi|abbr=on}} NNE of the seamount's main cone.
+
+Monowai was discovered by an aerial survey in 1944. Subsequent surveys showed evidence of significant change - sea discolouration and seismic activity. Studies between 1978 and 2007 showed the summit repeatedly rising and falling.&lt;ref name="BBC 13 May 2012"/&gt;
+
+==2010s==
+Sonar data from the research ship ''R/V Sonne'' showed that between May 14 and June 1–2, 2011 the summit collapsed by as much as {{Convert|18.8|m|ft|abbr=on}} and lava flows had raised another area by {{Convert|79.1|m|ft|abbr=on}}. Additionally a new volcanic cone was created. The ''R/V Sonne'' also observed the sea to be a yellowy-green with gas bubbles. Researchers believe that only [[Vesuvius]] and [[Mount St Helens]] have recorded larger growth rates.&lt;ref name="BBC 13 May 2012"&gt;[https://www.bbc.co.uk/news/science-environment-18040658 BBC, News, Science - Environment, Rise and fall of underwater volcano revealed. by David Shukman]&lt;/ref&gt;
+
+In August 2012, a {{Convert|25000|km2|abbr=on}} [[2012 Kermadec Islands eruption and pumice raft|floating raft of pumice]] was found offshore from New Zealand. It was initially believed to be from Monowai,&lt;ref&gt;{{Cite web |author1=Field, Michael |author2=Kirk, Stacey |url=http://www.stuff.co.nz/science/7455060/25-000-sq-km-sea-of-pumice-floats-off-New-Zealand |title=25,000 sq km sea of pumice floats off New Zealand |date=8 August 2012 |publisher=Stuff.co.nz |accessdate=2012-08-10}}&lt;/ref&gt;&lt;ref name="BBC20120810"&gt;{{Cite news |title=Vast volcanic 'raft' found in Pacific, near New Zealand |date=10 August 2012 |publisher=BBC News |url=https://www.bbc.co.uk/news/science-environment-19207810 |accessdate=2012-08-10}}&lt;/ref&gt; but Monowai was later ruled out as a possible source.&lt;ref name=Stuff.co.nz&gt;{{cite news| last =Cooke| first =Michelle| title =Scientists rock theory on pumice raft| newspaper =Stuff.co.nz| location =| pages = | publisher =| date =11 August 2012| url =http://www.stuff.co.nz/science/7461485/Scientists-rock-theory-on-pumice-raft| accessdate =13 August 2012 }}&lt;/ref&gt;
+
+==See also==
+*[[List of volcanoes in New Zealand]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://oceanexplorer.noaa.gov/explorations/05fire/logs/april05/april05.html NOAA Ocean Explorer: Monowai]
+* [http://www.volcano.si.edu/world/volcano.cfm?vnum=0402-05- Global Volcanism Program: Monowai Seamount]
+* [http://www.volcano.si.edu/world/volcano.cfm?vnum=0402-05-&amp;volpage=var#bgvn_3201 Volcanic Activity Reports for Monowai Seamount, 2007]
+* [http://www.agu.org/meetings/fm05/fm05-sessions/fm05_V13F.html Collapse and Re-growth of Monowai Submarine Volcano, Kermadec Arc, 1998-2004], Chadwick et al., 2005.
+
+{{Oceanic features of Zealandia|state=collapsed}}
+
+[[Category:Zealandia]]
+[[Category:Submarine volcanoes]]
+[[Category:Active volcanoes]]
+[[Category:Calderas of New Zealand]]
+[[Category:Volcanoes of New Zealand]]
+[[Category:New Zealand seafloor (oceanography)]]
+[[Category:Seamounts of the Pacific Ocean]]
+[[Category:Geography of the Kermadec Islands]]
+[[Category:Former islands from the last glacial maximum]]</text>
+      <sha1>0j5ru6r57jn7jrhog4jve02ckiu1iqy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Myši Natálie Mooshabrové</title>
+    <ns>0</ns>
+    <id>28381497</id>
+    <revision>
+      <id>852871675</id>
+      <parentid>852871292</parentid>
+      <timestamp>2018-07-31T23:10:44Z</timestamp>
+      <contributor>
+        <username>James500</username>
+        <id>7926446</id>
+      </contributor>
+      <comment>/* References */ add one</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1361">{{Expand Czech|topic=culture|date=August 2010|Myši Natálie Mooshabrové}}
+'''''Myši Natálie Mooshabrové''''' is a [[Czech language|Czech]] psychological novel by [[Ladislav Fuks]].&lt;ref&gt;{{Cite web|url=http://www.ctenar.net/zobraz_clanek.php?id_clanek=4071ae0f631fb|title=Ctenar.net|last=Dooren|first=Marian Gallo [Silver] / article :|website=www.ctenar.net|language=cs|access-date=2018-07-21}}&lt;/ref&gt; It was first published in 1970.
+
+==References==
+*(1989) [https://books.google.co.uk/books?id=NuKyAAAAIAAJ 37] Česká literatura 410
+*Ivan Adamovič and Ondřej Neff. Slovník české literární fantastiky a science fiction. R3. 1995. Pages 75 and 280. [https://books.google.co.uk/books?id=0IAWAQAAIAAJ Google Books].
+*Josef Škvorecký and Michael Špirit. Podivný pán z Providence a jiné eseje. Ivo Železný. 1999. Page 366. [https://books.google.co.uk/books?id=RV3nAAAAMAAJ Google Books].
+*Malevič, Oleg. V perspektivě desetiletí. Charles University in Prague, Karolinum Press. 2015. [https://books.google.co.uk/books?id=T4DXCwAAQBAJ&amp;pg=PA302#v=onepage&amp;q&amp;f=false Page 302].
+{{Reflist}}
+
+== External links ==
+* http://www.ctenar.net/zobraz_clanek.php?id_clanek=4071ae0f631fb
+
+{{DEFAULTSORT:Mysi Natalie Mooshabrove}}
+[[Category:Czech novels]]
+[[Category:1970 novels]]
+[[Category:Psychological novels]]
+
+
+{{1970s-novel-stub}}
+{{CzechRepublic-stub}}</text>
+      <sha1>ikjp4q0ea1360nt2obi9vbbrs5h1kg8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>National Number Group</title>
+    <ns>0</ns>
+    <id>4413002</id>
+    <revision>
+      <id>507623734</id>
+      <parentid>474017635</parentid>
+      <timestamp>2012-08-16T02:11:22Z</timestamp>
+      <contributor>
+        <username>Qetuth</username>
+        <id>15931398</id>
+      </contributor>
+      <minor/>
+      <comment>stub sorting</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="786">The UK [[Public Switched Telephone Network]] is divided up by area into '''National Number Groups''' (NNG's), and then further divided up into [[List of dialling codes in the United Kingdom|dialling codes]].
+
+The structure of UK telephone numbers is a leading zero (replaced with +44 for international calls from outside the UK) followed by the NNG &amp;mdash; a 2, 3, 4 or 5 digit dialling code (digits SA in the example below) to different geographic areas of the UK.
+
+e.g.
+
+:Telephone number (0'''20''') '''78'''11  8055 is part of the "London Area" and so has NNG 2078:
+
+{|
+|-
+!0||S||A||B||C||D||E||F||G||H||I
+|-
+|0||'''2'''||'''0'''||'''7'''||'''8'''||1||1||8||0||5||5
+|}
+
+==External links==
+
+
+[[Category:Telephone numbers in the United Kingdom]]
+
+
+{{UK-stub}}
+{{telephonenumber-stub}}</text>
+      <sha1>8gmvpofh97gvnmwux273gvmjvg5evvf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>National interest</title>
+    <ns>0</ns>
+    <id>1040123</id>
+    <revision>
+      <id>867531299</id>
+      <parentid>867531222</parentid>
+      <timestamp>2018-11-06T09:12:19Z</timestamp>
+      <contributor>
+        <username>RHcosm</username>
+        <id>34625434</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/111.91.75.44|111.91.75.44]] ([[User talk:111.91.75.44|talk]]) to last revision by AnomieBOT. ([[WP:TW|Twinkle]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9958">{{More footnotes|date=August 2017}}
+
+{{about|the generic foreign affairs term|the political journal|The National Interest}}
+
+The '''national interest''', often referred to by the [[French language|French]] expression '''''raison d'État''''' ("reason of State"), is a [[country]]'s goals and ambitions, whether [[economic]], [[military]], cultural or otherwise.  The concept is an important one in [[international relations]], where pursuit of the national interest is the foundation of the [[realism (international relations)|realist]] school.
+
+== History of the concept ==
+In early human history the national interest was usually viewed as secondary to that of [[religion]] or morality.  To engage in a war rulers needed to justify the action in these contexts. The first thinker to advocate for the primacy of the national interest is usually considered to be [[Niccolò Machiavelli]].
+
+The practice is first seen as being employed by [[France]] under the direction of its Chief Minister [[Cardinal Richelieu]] in the [[Thirty Years' War]] when it intervened on the [[Protestant]] side, despite its own [[Catholicism]], to block the increasing power of the Catholic [[Holy Roman Emperor]].  At Richelieu's prompting, [[Jean de Silhon]] defended the concept of reason of state as "a mean between what conscience permits and affairs require."&lt;ref name="Thuau"&gt;"E. Thuau": "Raison d'État et Pensée Politique a l'époque de Richelieu; Paris, Armand Colin, s. d. [1966], "W.F. Church, ''Richelieu and Reason of State'' (Princeton: Princeton University Press, 1973), 168; J. Franklin, ''The Science of Conjecture: Evidence and Probability Before Pascal'' (Baltimore: Johns Hopkins University Press, 2001), 80-81.&lt;/ref&gt; The notion of the national interest soon came to dominate [[Politics of Europe|European politics]] that became fiercely competitive over the next centuries. It is a form of reason "born of the calculation and the ruse of men" and makes of the state "a knowing machine, a work of reason"; the state ceases to be derived from the divine order and is henceforth subject to its own particular necessities.&lt;ref name="Thuau"/&gt;{{Page needed|date=August 2017}}
+
+States could now openly embark on wars purely out of self-interest. [[Mercantilism]] can be seen as the economic justification of the aggressive pursuit of the national interest.
+
+A foreign policy geared towards pursuing the national interest is the foundation of the realist school of international relations. The realist school reached its greatest heights at the [[Congress of Vienna]] with the practice of the balance of powers, which amounted to balancing the national interest of several great and lesser powers.
+
+[[Metternich]] was celebrated as the principal artist and theoretician of this balancing but he was simply doing a more or less clean copy of what his predecessor [[Wenzel Anton Graf Kaunitz|Kaunitz]] had already done by reversing so many of the traditional [[Habsburg]] alliances and building international relations anew on the basis of national interest instead of religion or tradition.
+
+These notions became much criticized after the bloody debacle of the [[World War I|First World War]], and some sought to replace the concept of the [[Balance of power in international relations|balance of power]] with the idea of [[collective security]], whereby all members of the [[League of Nations]] would "consider an attack upon one as an attack upon all," thus deterring the use of violence for ever more. The [[League of Nations]] did not work, partially because the United States refused to join and partially because, in practice, nations did not always find it "in the national interest" to deter each other from the use of force.
+
+The events of [[World War II]] along with [[World War I]], led to a rebirth of [[realism (international relations)|Realist]] and then [[Neorealism (international relations)|Neo-realist]] thought, as international relations theorists re-emphasized the role of power in global governance. Many [[International relations theory|IR]] theorists blamed the weakness of the [[League of Nations]] for its [[idealism]] (contrasted with [[realism (international relations)|Realism]]) and ineffectiveness at preventing war, even as they blamed [[mercantilist]] [[beggar thy neighbor]] policies for the creation of [[fascist]] states in [[Germany]] and [[Italy]]. With [[hegemonic stability theory]], the concept of the U.S. national interest was expanded to include the maintenance of open sea lanes and the maintenance and expansion of free trade.
+
+== Relationship with the rule of law ==
+The majority of the [[jurists]] consider that the national interest is incompatible with the [[rule of law]].&lt;ref&gt;The prevalence of State-person on the rule of the law ...., in international relations, has a very specific meaning (stated precisely by the Constitutional Court, in the repeated rulings on the case of Abu Omar), but within democratic systems, by time of the Dreyfus Affair, much of the doctrine did argue against Reason of State as an obstacle to criminal investigations:  {{cite journal|last1=Buonomo|first1=Giampiero|title = La sala del Bronzino e il Diritto Costituzionale |journal= L’ago e il filo|date=2014| url= https://www.questia.com/projects#!/project/89424007}} {{Subscription required |via=[[Questia]]}}&lt;/ref&gt;{{failed verification|date=August 2018}} Regarding this, Antonino Troianiello has said that national interest and a state subject to the rule of law are not absolutely incompatible:&lt;ref&gt;Troianiello, p.&amp;nbsp;690&lt;/ref&gt;&lt;blockquote&gt;While the notion of state reason comes first as a theme of study in political science, it is a very vague concept in law and has never been an object of systematic study. This obvious lack of interest is due to a deliberate epistemological choice - a form of [[positivism]] applied to legal science; and as a result legal science affirms its autonomy regarding other social sciences while constituting with exactness its own object - law - in order to describe it. In doing so it implies deterministic causes which have an influence on its descriptive function. This method which puts aside state reason is not without any consequence: the fact that state reason is not taken into account by legal science is to be integrated within a global rejection of a description of law as presented in political science. A fundamental dynamic in modern constitutionalism, "the seizure of the political phenomenon by law" is all the more remarkable when it claims a scientific value, thus a neutrality aiming at preventing all objection. This convergence of legal science and constitutionalism has the tautological character of a rhetorical discourse in which law is simultaneously the subject and the object of the discourse on law. Having as a basis state reason, it allows a reflexion on the legitimacy of power and authority of modern Western societies; this in connexion with the representations which make it and which it makes "state reason and public law."&lt;/blockquote&gt;
+
+==As a euphemism==
+Today, the concept of "the national interest" is often associated with political realists who fail to differentiate their policies from "idealistic" policies to seek to inject morality into foreign policy or promote solutions that rely on [[multilateralism|multilateral institutions]] which might weaken the independence of the state.
+
+As considerable disagreement exists in every country over what is or is not in "the national interest," the term is as often invoked to justify isolationist and pacifistic policies as to justify interventionist or warlike policies. It has been posited that the term is a euphemism used by powerful countries for geopolitical aims such as nonrenewable [[natural resources]] for energy [[energy independence|independency]], territorial [[expansionism]] and precious metals in smaller countries.&lt;ref&gt;Sub-Saharan Africa &amp; U.S. National Interests - Page 182, Anthony D. Marley - 1998&lt;/ref&gt; In that case, euphemism usage is necessary to stifle voices opposed to an interventionistic or warhawk foreign policy.&lt;ref&gt;L'ecrivain Caribéen, Guerrier de L'imaginaire - Page 42, Bénédicte Ledent - 2008&lt;/ref&gt;
+
+==See also==
+* [[Sphere of influence]]
+* [[Realism (international relations)]]
+* [[Realpolitik]]
+* [[Neorealism (international relations)]]
+* [[Nation state]]
+
+==References==
+&lt;references/&gt;
+
+==Bibliography==
+* Beard, Charles A. ''The Idea of National Interest'' (New York: Macmillan, 1934). 
+* Burchill, Scott. ''The National Interest in International Relations Theory'' (Gordonsville, VA: Palgrave Macmillan, 2005).
+* Byrd, Peter (1996). "The Concise Oxford Dictionary of Politics". Oxford University Press.
+* Frankel, Joseph. ''National Interest'' (London: Pall Mall, 1970). 
+* Gvosdev, Nikolas K. (2004), Russia in the national Interest (1st ed.), Transaction Publishers, New Brunswick (U.S.A.) and London (U.K.), pp X,{{ISBN|0-7658-0564-2}}, {{ISBN|978-0-7658-0564-5}}
+* Hu, Shaohua. "A Framework for Analysis of National Interest: United States Policy toward Taiwan," ''Contemporary Security Policy'', 37:1 (April 2016): pp.&amp;nbsp;144–167.
+* Lavy, George (1996), Germany and Israel: Moral Debt and National Interest (1st ed.), Frank Cass &amp; Co LTD, LONDON, pp XI,{{ISBN|0-7146-4626-1}}, {{ISBN|978-0-7146-4626-8}}
+* [[Donald Nuechterlein]]. ‘National Interests and Foreign Policy: A Conceptual Framework for Analysis and Decision-making’, ''British Journal of International Studies'', Vol. 2, No. 3 (October 1976), pp.&amp;nbsp;246–66.
+* Rosenau, James. ‘National Interest,’ in David L. Sills and Robert K. Merton (eds), ''International Encyclopedia of the Social Sciences'', Vol. 2 (New York: Macmillan/Free Press 1968), pp.&amp;nbsp;34–40; 
+* Troianiello, Antonino (1999), Raison d’État et droit public, Thèse dactylographiée, Université du Havre, 748 pages
+
+{{Authority control}}
+
+[[Category:Political realism]]
+[[Category:International relations]]</text>
+      <sha1>6d5806crlhsfkmm7yp7j2bre2fxmxwj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Operation Virtual Shield</title>
+    <ns>0</ns>
+    <id>21951251</id>
+    <revision>
+      <id>859329965</id>
+      <parentid>794510212</parentid>
+      <timestamp>2018-09-13T09:27:09Z</timestamp>
+      <contributor>
+        <ip>115.87.121.18</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2453">'''Operation Virtual Shield''' is a program implemented by [[Chicago, IL]] [[mayor]] [[Richard M. Daley]], which created the most extensive video [[surveillance]] network in the United States&lt;ref name="were-watching"&gt;{{cite news|url=http://www.cbsnews.com/stories/2006/09/05/five_years/main1968121.shtml|title=We're Watching: How Chicago Authorities Keep An Eye On The City|last=Schorn|first=Daniel|date=September 6, 2006|work=CBS News|accessdate=2009-03-13}}&lt;/ref&gt; by linking more than 3000&lt;ref name="ibm-whitepaper"&gt;{{cite web|url=ftp://public.dhe.ibm.com/common/ssi/ecm/en/tsw03057usen/TSW03057USEN.PDF|title=IBM Smarter Planet Storage Solutions|last=Webster|first=John|date=July 9, 2010|work=Technology Insight Series|publisher=Evaluator Group, Inc|page=3|accessdate=2010-08-24}}&lt;/ref&gt; surveillance cameras to a centralized monitoring system, which captures and processes camera feeds in real time. It is able to detect suspicious or dangerous activity and identify its location, and now incorporates [[facial recognition system|facial recognition]].&lt;ref name="ibm-whitepaper"/&gt;  Virtual Shield is also used to record activity at a potential crime scene before police arrive at a call.&lt;ref name="ibm-whitepaper"/&gt; The cost of the program was $217 million, much of which came from [[Homeland Security grants]].&lt;ref name="were-watching"/&gt;&lt;ref name="sun-times"&gt;{{cite news|url=http://www.suntimes.com/news/politics/1440402,mayor-daley-emergency-surveillance-cameras.article|title=Surveillance cams help fight crime, city says |last=Spielman|first=Fran|date=February 19, 2009|work=Chicago Sun Times|accessdate=2009-03-13}}&lt;/ref&gt;
+
+Daley stated that Chicago will have a surveillance camera on every street corner by the year 2016.&lt;ref name="were-watching"/&gt;&lt;ref name="sun-times"/&gt;
+
+==See also==
+* [[Closed-circuit television]]
+* [[Human Identification At a Distance]]
+* [[MATRIX]]
+* [[Total Information Awareness]]
+* [[Gabriel Villa]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.wsj.com/articles/SB10001424052748704538404574539910412824756 Chicago's Camera Network Is Everywhere] (Wall Street Journal, November 17, 2009)
+*[http://www.uspainternational.com/ USPA International]
+
+{{Chicago Police Department}}
+
+[[Category:Chicago Police Department]]
+[[Category:Crime prevention]]
+[[Category:Government of Chicago]]
+[[Category:Law enforcement techniques]]
+[[Category:Mass surveillance]]
+[[Category:Intelligence operations]]
+
+{{Police-stub}}</text>
+      <sha1>md3aqzpazo6nbqufrb5clmkbfxkpxro</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Path Jana Nai</title>
+    <ns>0</ns>
+    <id>49208693</id>
+    <revision>
+      <id>852556606</id>
+      <parentid>830342087</parentid>
+      <timestamp>2018-07-29T20:24:45Z</timestamp>
+      <contributor>
+        <username>Tassedethe</username>
+        <id>7098284</id>
+      </contributor>
+      <minor/>
+      <comment>Tassedethe moved page [[Path Jana Nai (TV Series)]] to [[Path Jana Nai]]: no need for dab</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4947">{{Use dmy dates|date=July 2015}}
+{{Infobox television
+| show_name                = Path Jana Nai
+| image                    = Path Jana Nai.png
+| alt                      =
+| caption= 
+| genre                    = [[Family Drama]]&lt;br/&gt;[[Serial (radio and television)|Serial drama]]&lt;br /&gt;[[Romance film|Romance]]
+| writer                   = Ahmed Zaman Chowdhury
+| based_on                 = 
+| director                 = Syed Zamim
+| creator                  = Fakhrul Alam
+| starring                 = [[Ziaul Faruq Apurba]]&lt;br&gt; [[Sadia Jahan Prova]]&lt;br&gt;Tanzika Amin
+| theme_music_composer     = [[S.I. Tutul]]
+| opentheme                = ''Poth Jana Nai''
+| endtheme                 = 
+| composer                 = Biplab Barua
+| country                  = Bangladesh
+| language                 = Bengali 
+| num_episodes             = 52
+| list_episodes            =  
+| producer                 = 
+| editor                   = Nayan Mahmood 
+| location                 = [[Dhaka, Bangladesh]]
+| cinematography           = 
+| camera                   = [[Multi-Camera]]
+| runtime                  = 20 minutes 
+| company                  = Projapati Jar&lt;br&gt;[[ATN Bangla|ATN Entertainment]]
+| channel                  = [[ATN Bangla]]
+| audio_format             = [[Stereo]]
+| picture_format           = [[480i]] ([[SDTV]])
+| first_aired              = {{Start date|df=yes|2010|11|1}}
+| last_aired               = {{End date|df=yes|2011|9|19}}
+| website                  = 
+| website_title            = 
+| production_website       = 
+| production_website_title = 
+}}
+'''Poth Jana Nai''' (English: ''There's no known way'') is a Bangladeshi television drama serial, originally aired on the ATN Bangla from 1 November 2010, to 9 September 2011, with prime slot for Monday, comprising a total 52 episodes.&lt;ref&gt;{{cite web|title=Silver Screen Dramas of 2011|url=http://www.amardeshonline.com/pages/weekly_news/2011/01/11/3369|website=Amar Desh|publisher=www.amardeshonline.com|accessdate=24 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Path Jana Nai to go off air|url=http://www.dainikdestiny.com/archive/2011/index.php?archiev=yes&amp;arch_date=19-09-2011&amp;view=details&amp;type=main&amp;cat_id=1&amp;menu_id=6&amp;pub_no=137&amp;news_type_id=1&amp;index=5|website=The Daily Destiny|publisher=www.dainikdestiny.com|accessdate=24 January 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20160131203203/http://www.dainikdestiny.com/archive/2011/index.php?archiev=yes&amp;arch_date=19-09-2011&amp;view=details&amp;type=main&amp;cat_id=1&amp;menu_id=6&amp;pub_no=137&amp;news_type_id=1&amp;index=5|archivedate=31 January 2016|df=dmy-all}}&lt;/ref&gt; The drama is directed by Syed Zamim and written by Ahmed Zaman Chowdhury.&lt;ref&gt;{{cite web|title=Path Jana Nai airs on ATN Bangla|url=http://archive.samakal.net/print_edition/details.php?news=21&amp;view=archiev&amp;y=2010&amp;m=11&amp;d=01&amp;action=main&amp;menu_type=&amp;option=single&amp;news_id=105476&amp;pub_no=502&amp;type=|website=The Daily Samakal|publisher=archive.samakal.net|accessdate=24 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Baby Naznin sings for Poth Jana Nai|url=http://archive.prothom-alo.com/detail/date/2013-08-22/news/93382|website=Prothom Alo|publisher=archive.prothom-alo.com|accessdate=24 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=My Dream is to make movies: Syed Zamim|url=http://www.manobkantha.com/2013/07/11/129470.html|website=Manobkantha|publisher=www.manobkantha.com/|accessdate=24 January 2016}}&lt;/ref&gt;
+
+==Plot==
+The story builds up around an elite family in Dhaka. Shahid and Zahid Mahmood are two sons of late Barrister Arshad Mahmood. Shahid Mahmood, the oldest son is an established and Lawyer, who lives with his wife and mom. Zahid Mahmood is the younger son, who is on the process of getting his Law degree. During the first episode, It is shown that Shahid also have an extramarital affair with Shakila, despite being married for a long time. Shakila, facing constant pressure from few powerful real estate businessman, looks to Shahid for legal help. After going to court, the companies faces huge loss due to losing the legal battle, and conspires to kill him. Few days after, Shahid gets into a car accident and dies. Years later, Zahid returns from London as a lawyer, and decides to open an investigation case for his brother's death, while the family decides to get their younger son married to their Shahid's widowed wife, despite their disapproval.
+
+==Cast==
+* [[Ziaul Faruq Apurba]] as Shahid Mahmood / Zahid Mahmood
+* [[Sadia Jahan Prova]] as Yasmeen
+* Tanzika Amin as Shakila
+* Inamul Haque
+* Dilara Zaman
+* Hasan Imam
+* Atikur Rahman
+* Munia Islam
+* Raisul Islam
+* Monira Mithu
+* Nafisa Ferdous
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Path Jana Nai}}
+[[Category:Bangladeshi drama television series]]
+[[Category:Bengali-language television programming in Bangladesh]]
+[[Category:2010 Bangladeshi television programme debuts]]
+[[Category:2010s Bangladeshi television series]]
+[[Category:Bangladeshi media stubs]]
+[[Category:Asian television stubs]]</text>
+      <sha1>582lkmtzar5ofzsaqbc3ju99i23le7h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Port reception facilities</title>
+    <ns>0</ns>
+    <id>46925462</id>
+    <revision>
+      <id>820885753</id>
+      <parentid>749260936</parentid>
+      <timestamp>2018-01-17T04:55:22Z</timestamp>
+      <contributor>
+        <username>Jonesey95</username>
+        <id>9755426</id>
+      </contributor>
+      <minor/>
+      <comment>Fix empty citation, unnamed or unsupported parameter, or invalid parameter value using [[WP:AutoEd|AutoEd]]; see [[Help:CS1 errors]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6649">{{Use dmy dates|date=January 2016}}
+'''Port reception facilities''' are a place that international shipping [[ports]] must provide to collect residues, oily mixtures, and garbage generated from an ocean-going vessel.&lt;ref name=":0"&gt;{{Cite web|title = What is Port Reception Facility?|url = http://www.marineinsight.com/marine/marine-news/featured/what-is-port-reception-facility/|accessdate = 2015-06-08}}&lt;/ref&gt; [[contaminant]]s generated by ships cannot be discharged directly to the ocean.&lt;ref&gt;{{Cite web|title = Port Reception Facilities – Port Reception Facilities – EMSA – European Maritime Safety Agency|url = http://www.emsa.europa.eu/implementation-tasks/visits-and-inspections/port-reception-facilities.html|website = www.emsa.europa.eu|accessdate = 2015-07-22|first = |last = Communications}}&lt;/ref&gt; According to [[MARPOL 73/78]] they must be collected by the Port reception facilities all around the world.&lt;ref name=":0" /&gt; The Port reception facility must be able to receive dirty oil and other contaminants, and also provide quick and efficient services.&lt;ref name=":0" /&gt;
+
+In March 2006, MEPC 54 emphasized the value of reception facilities that would exceed expectations in the implementation of [[MARPOL 73/78|MARPOL]], and introduced a policy of "zero tolerance of illegal discharges from ships" that could only be enforced when there were adequate reception facilities in ports. Therefore, the Committee urged all Parties to [[MARPOL 73/78|MARPOL]], particularly port States, to fulfill their treaty obligations to provide reception facilities for wastes generated during the normal operation of ships.&lt;ref name=":1"&gt;{{Cite web|title = IMO {{!}}   Port Reception Facilities|url = http://www.imo.org/OurWork/Environment/PortReceptionFacilities/Pages/Default.aspx|website = www.imo.org|accessdate = 2015-06-08}}&lt;/ref&gt;
+
+In October 2006, MEPC 55 approved an Action Plan to help the problems faced by '''port reception facilities'''.  This was seen as a major challenge to overcome in order to achieve full compliance with [[MARPOL 73/78|MARPOL]]. The Plan was introduced by the Sub-Committee on Flag State Implementation (FSI) in order to better implement [[MARPOL 73/78|MARPOL]] and to increase environmental consciousness among shipping.&lt;ref name=":1" /&gt;
+
+A new plan to manage the waste must be found and ships must be encouraged to use the port reception facilities rather than to discharge waste anywhere in the ocean.&lt;ref name=":2"&gt;{{Cite web|title = Port Reception Facilities – Port Reception Facilities – EMSA – European Maritime Safety Agency|url = http://www.emsa.europa.eu/implementation-tasks/visits-and-inspections/port-reception-facilities.html|website = www.emsa.europa.eu|accessdate = 2015-06-08|first = Communications|last =. }}&lt;/ref&gt; As a response, the European Community adopted the Directive 2000/59/EC on '''port reception facilities''' with the goal of eliminating discharges of ship-generated residues into the ocean.&lt;ref name=":2" /&gt; The Directive is especially aimed at increasing the prevalence and use of '''port reception facilities''', thereby securing a cleaner and more sustainable marine [[Natural environment|environment]]. These ideologies were previously addressed by the [[MARPOL 73/78]] Convention in 1973, however Member States are still encountering difficulties in fully implementing the requirements.&lt;ref name=":2" /&gt;
+
+The Port Reception Facility Database (PRFD) went online 1 March 2006, as a module of the [[International Maritime Organization|IMO]] Global Integrated Shipping Information System (GISIS).  The database logs data on reception facilities detailing each category of ship-generated waste.&lt;ref&gt;{{Cite web|url = http://www.cruising.org/sites/default/files/leadershipforum2012/Em%20Env%20Randy-PRF.pdf|title = CLIA 2012 Leadership Form|date = 2012|accessdate = 2015-06-08|website = Emerging Environmental Issues Port Reception Facilities|publisher = Norwegian Cruise Line|last = |first = }}&lt;/ref&gt;
+
+The Annexes of [[MARPOL 73/78|MARPOL]] contain detailed regulations with respect to the six main groups of harmful materials: Petroleum in any form ([[Marpol Annex I|Annex I]]); Noxious Liquid Substances (NLS) carried in bulk (Annex II); Harmful substances carried in packaged form (Annex III); [[Sewage sludge|Sewage]] (Annex IV); [[Municipal solid waste|Garbage]] (Annex V); and Air emissions (Annex VI).&lt;ref name=":3"&gt;{{Cite web|url = http://www.oas.org/cip/docs%5Ccursos%5CPRESENTACIONES%20URUGUAY%20MAYO2012%5C6%20Nikos%20%20Mikelis,%20OMI.pdf|title = MARPOL requirements for port reception facilities|date = 22 May 2012|accessdate = 8 June 2015|website = |publisher = IMO|last = Mikelis|first = Nikos}}&lt;/ref&gt;
+
+[[MARPOL 73/78|MARPOL]] states that contaminants cannot be discharged into the ocean in line with the requirements stated in its annexes should be dropped of at port reception facilities.  It also says that port States need to ensure that there are enough port reception facilities throughout the area to help with convenience.&lt;ref name=":3" /&gt;
+
+In 2009, [[International Maritime Organization|IMO]] created Guide to the Good Practice for Port Reception Facilities Providers and Users. MEPC.1/Circ.671.  This document describes the steps that need to be taken in order to effectively dispose of waste by ships at port reception facilities.&lt;ref name=":4"&gt;{{Cite web|title = Chronology &amp; Search|url = http://www.martinottaway.com/technical-documents/MAX1-Studies/chronology|website = MAX1 Studies|accessdate = 2015-07-15}}&lt;/ref&gt;
+
+Next in 2012, [[International Maritime Organization|IMO]] released the MARPOL Requirements for Port Reception Facilities.  This lists the requirements for port reception facilities to ensure that waste can be discharged without undue delay. It also discusses long standing lack of PRFs and under reporting.&lt;ref name=":4" /&gt;
+
+Another important step was when IMO published their Standard Format for the Advanced Notification Form for Waste Delivery to Port Reception Facilities.  This document details the standard format for notification by the ship to a port facility for acceptance of shipboard waste. This form should be submitted 24 hours prior to arrival.&lt;ref name=":4" /&gt;
+
+== See also ==
+* [[MARPOL 73/78]]
+* [[Marpol Annex I]]
+* [[Oil Content Meter]]
+* [[Oil record book|Oil Record Book]]
+* [[Oily water separator]]
+* [[Oily water separator (marine)]]
+* [[Magic pipe]]
+* [[International Maritime Organization|IMO]]
+* [[Oil discharge monitoring equipment]]
+
+== References ==
+&lt;references /&gt;
+
+[[Category:Waste collection]]
+[[Category:Environmental impact of shipping]]
+[[Category:Ocean pollution]]
+[[Category:Port infrastructure]]</text>
+      <sha1>lok5xrrfoiej4kjym1s685k62srdaof</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Postavy</title>
+    <ns>0</ns>
+    <id>8437381</id>
+    <revision>
+      <id>728824466</id>
+      <parentid>700586973</parentid>
+      <timestamp>2016-07-07T22:09:37Z</timestamp>
+      <contributor>
+        <username>Rathfelder</username>
+        <id>398607</id>
+      </contributor>
+      <comment>removed [[Category:Pastavy]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1940">{{Refimprove|date=December 2006}}
+{{Infobox airport 
+| name         = Postavy
+| nativename   = 
+| nativename-a = 
+| nativename-r = 
+| image        = 
+| image-width  = 
+| caption      = 
+| IATA         = 
+| ICAO         = 
+| type         = 
+| owner        = 
+| operator     = 
+| city-served  = 
+| location     = Postavy
+| elevation-f  = 472
+| elevation-m  = 144
+| coordinates  = {{Coord|55|7|0|N|026|45|7|E|type:airport|display=inline,title}}
+| website      = 
+| metric-elev  = 
+| metric-rwy   = 
+| r1-number    = 11/29
+| r1-length-f  = 8202
+| r1-length-m  = 2500
+| r1-surface   = [[Concrete]]
+| stat-year    = 
+| stat1-header = 
+| stat1-data   = 
+| stat2-header = 
+| stat2-data   = 
+| footnotes    = [http://www.weathergraphics.com/tim/russia/Postavy.htm Tim Vasquez, Postavy]
+}}
+'''Postavy''' is a former air base in [[Belarus]] located 5&amp;nbsp;km west of [[Pastavy]].  It is a medium-sized air base.  There are three loop areas with 15 revetments each, and central tarmac area.
+
+It was home to 305th Bomber Aviation Regiment (305 BAP), [[1st Guards Bomber Aviation Division]], flying the [[Su-24]]. The regiment was activated in 1976, withdrawn to [[Krasnodar]], [[Krasnodar Krai]], and disbanded in 1993.&lt;ref&gt;{{Cite web|url = http://www.ww2.dk/new/air%20force/regiment/bap/305bap.htm|title = 305th Bomber Aviation Regiment|date = |access-date = 19 Jan 2016|website = ww2.dk|publisher = |last = Holm|first = Michael}}&lt;/ref&gt; From 1960 to 1988, the base was also home to the [[940th Fighter-Bomber Aviation Regiment]] of the same aviation division.&lt;ref&gt;{{Cite web|url = http://www.ww2.dk/new/air%20force/division/bad/1gvbad.htm|title = 1st Guards Bomber Aviation Division|date = |access-date = 19 Jan 2016|website = ww2.dk|publisher = |last = Holm|first = Michael}}&lt;/ref&gt;
+
+==References==
+&lt;references/&gt;
+
+[[Category:Soviet Air Force bases]]
+[[Category:Soviet Frontal Aviation]]
+[[Category:Military installations of Belarus]]
+
+
+{{Belarus-stub}}</text>
+      <sha1>0zshwyx6ix7rn5gb122xvzjpkjwatwm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Raso wall gecko</title>
+    <ns>0</ns>
+    <id>53603681</id>
+    <revision>
+      <id>860698707</id>
+      <parentid>836344267</parentid>
+      <timestamp>2018-09-22T13:06:02Z</timestamp>
+      <contributor>
+        <username>Maias</username>
+        <id>1827467</id>
+      </contributor>
+      <comment>removed [[Category:Animals described in 1984]]; added [[Category:Reptiles described in 1984]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1879">{{speciesbox
+| name = ''Tarentola raziana''
+| image = 
+| image_caption = 
+| status = NT
+| status_system = IUCN3.1
+| status_ref = 
+| genus = Tarentola
+| species = raziana
+| authority = [[Hans Hermann Schleich|Schleich]] (1984)
+| synonyms =
+| synonyms_ref =&lt;ref name="RDB"/&gt; 
+}}
+'''''Tarentola raziana''''' (English name: '''Razean''' or '''Raso wall gecko''') is a [[species]] of [[gecko]]s in the [[Family (biology)|family]] [[Phyllodactylidae]]. The species is [[Endemism|endemic]] to the [[Cape Verde]] Islands, they are founded in the island of [[Santa Luzia, Cape Verde|Santa Luzia]] and the islets of [[Ilhéu Branco|Branco]] and [[Ilhéu Raso|Raso]]&lt;ref name="RDB"&gt;{{NRDB species|genus=Tarentola |species=raziana|accessdate=17 March 2017}}&lt;/ref&gt; The species was named in by [[Hans Hermann Schleich]] in 1984.
+
+==Etymology==
+The [[specific name (zoology)|specific name]] is named after the islet Raso where it is founded.&lt;ref name="RDB"/&gt;
+
+==Taxonomy==
+The subspecies were elevated from ''Tarentola caboverdiana raziana'' by Vasconcelos, Perera, Geniez, Harris &amp; Carranza en 2012.&lt;ref&gt;Vasconcelos, Perera, Geniez, Harris &amp; Carranza, ''An integrative taxonomic revision of the Tarentola geckos (Squamata, Phyllodactylidae) of the Cape Verde Islands.'' Zoological Journal of the Linnean Society, 2012, vol. 164, no. 2, p. 328-360&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*Schleich, 1984 : ''Die Geckos der Gattung Tarentola der Kapverden (Reptilia: Sauria: Gekkonidae)'' [''Geckos of the Tarentola Species in Cape Verde'']. Courier Forschungsinstitut Senckenberg, vol. 68, p.&amp;nbsp;95-106. {{de icon}}
+
+{{Taxonbar|from=Q11838813}}
+
+[[Category:Tarentola|raziana]]
+[[Category:Geckos of Africa]]
+[[Category:Endemic vertebrates of Cape Verde]]
+[[Category:Reptiles described in 1984]]
+[[Category:Taxa named by Hans Hermann Schleich]]
+
+{{CapeVerde-stub}}
+{{gecko-stub}}</text>
+      <sha1>7bd2wi0qjidp9ant5vtsd9azuvxro1v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>State House of the Gambia</title>
+    <ns>0</ns>
+    <id>4189411</id>
+    <revision>
+      <id>772780893</id>
+      <parentid>760906382</parentid>
+      <timestamp>2017-03-29T08:38:24Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Presidential palaces to [[:Category:Presidential  residences]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 February 6]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1124">The '''State House''' is the [[official residence]] of the [[Heads of State of the Gambia|president of the Gambia]]. It was built in [[Colonialism|colonial]] days and was the residence of the governor of [[the Gambia]]. Then known as the Government House, it became the residence of the [[Governor General]] following [[Independence]] before [[republic]] status was attained.
+
+According to the former president, [[Yahya Jammeh]], the British did not build the state house.&lt;ref&gt;[https://sites.google.com/site/observerarchive/british-govt-is-supporting-opposition-parties---july-28-2010], Daily Observer, July 28, 2010&lt;/ref&gt;
+
+==See also==
+*[[Government Houses of Africa]]
+*[[Government Houses of the British Empire]]
+*[[List of Governors-General of the Gambia|Governors General of the Gambia]]
+
+{{coord|13|27|22|N|16|34|28|W|region:GM-B_type:landmark_source:dewiki|display=title}}
+
+==References==
+
+{{Reflist}}
+
+[[Category:Presidential residences]]
+[[Category:Official residences in the Gambia]]
+[[Category:Government Houses of the British Empire and Commonwealth]]
+[[Category:Gambia Colony and Protectorate]]
+
+
+{{Gambia-stub}}</text>
+      <sha1>ldf0gh43j3zbpz63s91bg4gqdue3nvo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sunda Shelf</title>
+    <ns>0</ns>
+    <id>1714223</id>
+    <revision>
+      <id>852459210</id>
+      <parentid>852459147</parentid>
+      <timestamp>2018-07-29T03:47:28Z</timestamp>
+      <contributor>
+        <username>Tornado chaser</username>
+        <id>31083626</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/203.87.133.192|203.87.133.192]] ([[User talk:203.87.133.192|talk]]) to last version by 112.200.72.111</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9528">[[Image:Map of Sunda and Sahul.png|300px|thumb|Map of Sunda and [[Sahul Shelf|Sahul]].]]
+[[Geology|Geologically]], the '''Sunda Shelf''' is a southeast extension of the [[continental shelf]] of [[Southeast Asia]]. Major landmasses on the shelf include the [[Malay Peninsula]], [[Sumatra]], [[Borneo]], [[Java (island)|Java]], [[Madura]], [[Bali]] and their surrounding smaller islands.&lt;ref&gt;[[Zvi Ben-Avraham]], "Structural framework of the Sunda Shelf and vicinity" ''Structural Geology'' (January 1973) [http://hdl.handle.net/1912/1265 abstract]; {{cite book |last=Monk |first=K.A. |author2=Fretes, Y. |author3=Reksodiharjo-Lilley, G.  |title=The Ecology of Nusa Tenggara and Maluku |publisher=Periplus Editions Ltd. |year=1996 |pages=10|location=Hong Kong |isbn=962-593-076-0}}&lt;/ref&gt; It covers an area of approximately 1.85 million km&lt;sup&gt;2&lt;/sup&gt;.&lt;ref name="Bemmelen, R.W. 1949"&gt;va Bemmelen, R.W. (1949). ''The Geology of Indonesia.'' Vol. IA'': General Geology of Indonesia and Adjacent Archipelagoes.'' Matinus Nithoff, The Hague, 723 pp.&lt;/ref&gt; Sea depths over the shelf rarely exceed 50 metres and extensive areas are less than 20 metres resulting in strong bottom friction and strong tidal friction.&lt;ref name="EcoSeas1"&gt;{{cite book |last=Tomascik |first=T |author2=Mah, J.A. |author3=Nontji, A. |author4=Moosa, M.K.  |title=The Ecology of the Indonesian Seas – Part One |publisher=Periplus Editions Ltd. |year=1996 |location=Hong Kong |pages=74|isbn=962-593-078-7}}&lt;/ref&gt; Steep undersea gradients separate the Sunda Shelf from the [[Philippines]], [[Sulawesi]], and the [[Lesser Sunda Islands]].
+
+==Definition==
+[[Biogeography|Biogeographically]], [[Sundaland]] is a term for the region of [[Southeast Asia|Southeastern Asia]] which encompasses these areas of the [[Asia]]n continental shelf that were [[last glacial maximum|exposed during the last ice age]]. Sundaland included the [[Malay Peninsula]] on the Asian mainland, as well as the large islands of [[Borneo]], [[Java (island)|Java]], and [[Sumatra]] and their surrounding islands. The same steep undersea gradients that mark the eastern boundary of Sundaland are identified biogeographically by the [[Wallace Line]], identified by [[Alfred Russel Wallace]], which marks the eastern boundary of Asia's land [[mammal]] fauna, and is the boundary of the [[Indomalaya]] and [[Australasia ecozone]]s.
+
+The shelf has resulted from millennia of volcanic activity and erosion of the Asian continental mass, and the build up and consolidation of debris along the margins as sea levels rose and fell.&lt;ref name="Monk 1996 10"&gt;{{cite book |last=Monk |first=K.A. |author2=Fretes, Y. |author3=Reksodiharjo-Lilley, G.  |title=The Ecology of Nusa Tenggara and Maluku |publisher=Periplus Editions Ltd. |year=1996 |pages=10|location=Hong Kong |isbn=962-593-076-0}}&lt;/ref&gt;
+
+The seas between the islands cover relatively stable ancient [[pene-plain]]s that are characterised by low seismicity, low isostatic gravity anomalies and no active volcanoes with the exception of Sumatra, Java, and Bali, which while connected to the Sunda Shelf, belong geologically to the young [[Sunda Arc]] [[orogenic]] system (i.e., the Sunda Mountain System).&lt;ref name="Bemmelen, R.W. 1949"/&gt; During [[glacial period]]s, the [[sea level]] falls, and great expanses of the Sunda Shelf are exposed as a marshy plain. The rise of sea level during a meltwater pulse 14,600 to 14,300 years [[Before Present]] was as much as 16 meters within 300 years.&lt;ref&gt;Till Hanebuth, Karl Stattegger and Pieter M. Grootes, "Rapid Flooding of the Sunda Shelf: A Late-Glacial Sea-Level Record", ''Science'' ''288'' 12 May 2000:1033-35.&lt;/ref&gt;
+
+Present sea levels submerge a number of [[Pleistocene era|Pleistocene]] paleo river systems that drained much of [[Sundaland]] during the last glacial maximum 18,000 to 20,000 years ago.&lt;ref&gt;{{cite book |last=Tomascik |first=T |author2=Mah, J.A. |author3=Nontji, A. |author4=Moosa, M.K.  |title=The Ecology of the Indonesian Seas – Part One |publisher=Periplus Editions Ltd. |year=1996 |location=Hong Kong |pages=580–581|isbn=962-593-078-7}}&lt;/ref&gt;
+
+To the east of the Sunda Shelf is the [[Sahul Shelf]]. Separating these two regions of shallow seas is [[Wallacea]], which encompasses [[Sulawesi]] and the thousands of smaller islands making up [[Nusa Tenggara]] and [[Maluku Islands|Maluku]]. Within Wallacea lie some of the deepest seas in the world, with depths of up to 7,000 metres. Passing between [[Bali]] and [[Lombok]], and [[Borneo]] and Sulawesi, Wallacea is marked by a transition zone of flora and fauna first described by [[Alfred Russel Wallace]].&lt;ref name="Monk 1996 10"/&gt; The complicated history of island formation on the Sunda Shelf and changing landbridge connections with mainland Southeast Asia have resulted in a high degree of [[endemism]] and local distribution discontinuities, discussed at [[Sundaland]], the [[biogeography|biogeographical province]] that has resulted from these changes.
+
+The exposure of the Sunda Shelf during [[eustatic]] sea level changes has effects on the [[El Niño]] oscillation.&lt;ref&gt;Andrew B. G. Bush and Richard G. Fairbanks, "Exposing the Sunda shelf: Tropical responses to eustatic sea level change", ''Journal of Geophysical Research'' '''108''' (2003).&lt;/ref&gt;
+
+W. Earle in 1845 was the first to describe the general features of the Sunda and Sahul Shelves, which he termed the "Great Asiatic Bank" and the "Great Australian Bank" respectively.&lt;ref&gt;Earle, W. (1845). On the physical structure and arrangement of the Indonesian Archipelago. ''Journal of the Geographical Society of London'' 15: 358:365&lt;/ref&gt;
+
+==Submerged river systems==
+[[File:SEA submerged River Systems.svg|thumb|Drawing of the presumed coast lines in South-East Asia and now submerged river systems, This drawing presumes a sea level of -120m compared to present day. This level was reached about 17000 years before present day. The assumed river beds are based on the surface contours of the sea bed in the area.]]
+The paleo river systems of the Sunda Shelf are vast submerged river systems that extend present-day river systems and may be interpreted to follow topographic lows in a down-slope direction. During the driest period of the Pleistocene era (about 17,000 years BP) some four distinct catchment areas form the ''Malacca'', ''Siam'' and ''Sunda'' river systems.&lt;ref&gt;{{cite journal |last=Voris |first=Harold K. |last2= |first2= |date=September 2000 |title=Maps of Pleistocene sea levels in Southeast Asia shorelines, river systems and time durations. |url= |journal=Journal of Biogeography |publisher=Field Museum of Natural History, Chicago, Illinois, USA |volume=27 |issue= |pages=1153–1167 |doi=10.1046/j.1365-2699.2000.00489.x |access-date=}}
+&lt;/ref&gt;
+
+The '''''Siam river''' system'' consists of a northern and a western arm. The northern arm extends the Chao Phraya River to drain the Gulf of Thailand. The western arm forming out of some rivers in central Sumatra flows through the Singapore Straits before joining up with the northern arm to empty into an estuary and the South China Sea to the north of North Natuna Island.
+
+The '''''Malacca Straits''' river system'' is formed by a joining of waters from northeastern Sumatra and the western Malayan Peninsula, draining into the Andeman Sea.
+
+The '''''Northern Sunda''' river system'', also known as the Great Sunda river system, or [[Gustaaf Adolf Frederik Molengraaff|Molengraaff]] river system, was named after a Dutch biologist and geologist who traveled the region extensively in the late 19th century and first proposed the existence of this river system based on his observations in Borneo.&lt;ref&gt;{{cite book |last1=Molengraaff |first1=G. A. F. |last2=Hinde |first2=George Jennings |date=1902 |title=Borneo-expedition. Geological explorations in Central Borneo (1893-94) |pages=189–196 |publisher=Leyden, E.J. Brill }}&lt;/ref&gt; The river, arising between [[Belitung Island]] and Borneo, flowed in a northeasterly direction, where it collected waters from some rivers in Central Sumatra and the rivers in Western and Northern Borneo, before flowing into the South China Sea between the North and [[South Natuna]] Islands.&lt;ref&gt;{{cite journal |last=Hanebuth |first=Till |last2=Stattegger |first2=Karl |last3=Grootes |first3=Pieter M. |date=11 October 1999 |title=Rapid Flooding of the Sunda Shelf: A Late-Glacial Sea-Level Record |url=http://userpage.fu-berlin.de/geodyn/tutorials/Physik_der_ErdeII/pdf/Hanebuth-etal2000_science.pdf |journal=Science |publisher=www.sciencemag.org |volume=288 |issue=12 MAY 20 |pages=1034 |doi= |access-date=29 June 2016}}&lt;/ref&gt; 
+&lt;ref&gt;Tjia, H.D. (1980). The Sunda Shelf, Southeast Asia. ''Z. Geomorph.'' 24: 405-427. (23.3.6)&lt;/ref&gt;
+
+Finally the '''''Eastern Sunda''' river system'' emptied northern Java and southern Borneo, flowing in an easterly direction between Borneo and Java into the Java Sea.&lt;ref&gt;{{cite book |last=Whitten |first=T |author2=Soeriaatmadja, R. E. |author3=Suraya A. A. |title=The Ecology of Java and Bali |publisher=Periplus Editions Ltd |year=1996 |location=Hong Kong |pages=118 |isbn=978-9625938882}}&lt;/ref&gt;
+
+==See also==
+*[[Sundaland]]
+*[[Sunda Shelf mangroves]] - (''ecoregion'')
+ 
+==References==
+{{reflist|2}}
+
+==External links==
+*Voris, H., and C. Simpson, 2000 and 2006, [http://www.fieldmuseum.org/explore/pleistocene-sea-level-maps] The Field Museum, Chicago, Illinois.
+
+[[Category:Geology of Indonesia]]
+[[Category:Continental shelves]]
+[[Category:Geology of Southeast Asia]]
+[[Category:Maritime Southeast Asia]]</text>
+      <sha1>bznnuapnx51cc6iebjf605nbda05hyr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tax residence</title>
+    <ns>0</ns>
+    <id>4429350</id>
+    <revision>
+      <id>837785599</id>
+      <parentid>832835187</parentid>
+      <timestamp>2018-04-23T01:18:22Z</timestamp>
+      <contributor>
+        <username>Nyttend</username>
+        <id>1960810</id>
+      </contributor>
+      <minor/>
+      <comment>Stray line break</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17451">The criteria for '''residence for tax purposes''' vary considerably from jurisdiction to jurisdiction, and "residence" can be different for other, non-tax purposes. For individuals, [[Physical presence test|physical presence]] in a jurisdiction is the main test. Some jurisdictions also determine residency of an individual by reference to a variety of other factors, such as the ownership of a home or availability of accommodation, family, and financial interests. For companies, some jurisdictions determine the residence of a corporation based on its place of incorporation. Other jurisdictions determine the residence of a corporation by reference to its place of management. Some jurisdictions use both a place-of-incorporation test and a place-of-management test.
+
+[[Domicile (law)|Domicile]] is, in common law jurisdictions, a different legal concept to residence, though the two may lead to the same result.
+
+The criteria for residence in [[Tax treaty|double taxation treaties]] may be different from those of domestic law. Residency in domestic law allows a country to create a tax claim based on the residence over a person, whereas in a double taxation treaty it has the effect of restricting such tax claim in order to avoid [[double taxation]]. Residency or citizenship [[International taxation|taxation systems]] are typically linked with worldwide taxation, as opposed to [[territorial taxation]]. Therefore, it is particularly relevant when two countries simultaneously claim a person to be resident within their jurisdiction.
+
+==In international tax law==
+Double taxation treaties generally follow the OECD Model Convention.&lt;ref name=":0"&gt;{{cite web|url=http://www.oecd.org/ctp/treaties/2014-model-tax-convention-articles.pdf|title=OECD Model Tax Convention (2014 version)|publisher=}}&lt;/ref&gt; Other relevant models are the UN Model Convention,&lt;ref&gt;{{cite web|url=https://www.un.org/esa/ffd/documents/UN_Model_2011_Update.pdf|title=UN Model Convention (2011 version)|publisher=}}&lt;/ref&gt; in the case of treaties with developing countries and the US Model Convention,&lt;ref name=":1"&gt;{{cite web|url=https://www.treasury.gov/resource-center/tax-policy/treaties/Documents/Treaty-US%20Model-2016.pdf|title=US Model Convention (2016 version)|publisher=}}&lt;/ref&gt; in the case of treaties negotiated by the United States.
+
+=== OECD and UN Model Convention ===
+The OECD Model Convention and the UN Model Convention are identical. They first provide for a definition of "resident of a Contracting State":
+&lt;blockquote&gt;1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature, and also includes that State and any political subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State or capital situated therein.&lt;/blockquote&gt;
+The definition is followed by "tie-breaker" rules for individuals and non-individuals, which result in the person being considered resident in only one of the countries:
+&lt;blockquote&gt;
+   2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
+:a) he shall be deemed to be a resident only of the State in which he has a '''permanent home''' available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer ('''centre of vital interests''');
+:b) if the State in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either State, he shall be deemed to be a resident only of the State in which he has an '''habitual abode''';
+:c) if he has a habitual abode in both States or in neither of them, he shall be deemed to be a resident only of the State of which he is a '''national''';
+:d) if he is a national of both States or of neither of them, the competent authorities of the Contracting States shall settle the question by '''mutual agreement'''.{{paragraph break}}
+      3. Where by reason of the provisions of paragraph 1 a person other than an individual is a resident of both Contracting States, then it shall be deemed to be a resident only of the State in which its '''place of effective management''' is situated.&lt;ref name=":0" /&gt;
+&lt;/blockquote&gt;
+
+=== US Model Convention ===
+The US Model Convention is similar to the OECD and UN Model Convention with respect to residency of individuals. However, if non-individuals are considered to be residents of two countries, the default result is that they shall be considered resident of none for the purposes of claiming the benefits of the tax treaty. The countries will engage in mutual agreement procedures to reach a decision. Therefore, domestic taxation will continue as normal until an agreement is reached.&lt;ref name=":1" /&gt;
+
+=== BEPS ===
+
+==== Action 6 ====
+The [[Base erosion and profit shifting|Base Erosion and Profit Shifting]] (BEPS) project developed by the [[Organisation for Economic Co-operation and Development|OECD]] and endorsed by the [[G-20 major economies|G-20]]&lt;ref&gt;{{Cite web|url = http://www.oecd.org/ctp/beps-about.htm|title = About Base Erosion and Profit Shifting (BEPS) - OECD|website = www.oecd.org|access-date = 2016-03-12}}&lt;/ref&gt; reached a critical milestone in October 2015, where final deliverables for 15 Actions were presented. Paragraph 48 of Action 6's final deliverable indicated a new wording for the "tie-breaker" relating to non-individuals, whereas it will no longer be automatically determined in the forthcoming revision of the model.&lt;ref&gt;[[doi:10.1787/9789264241695-en|Preventing the Granting of Treaty Benefits in Inappropriate Circumstances, Action 6 - 2015 Final Report]]
+&lt;/ref&gt; According to the new wording, the "tie-breaker" will depend entirely on mutual agreement between both countries:&lt;blockquote&gt;3. Where by reason of the provisions of paragraph 1 a person other than an individual is a resident of both Contracting State, the competent authorities of the Contracting States shall endeavour to determine by '''mutual agreement''' the Contracting State of which such person shall be deemed to be a resident for the purposes of the Convention, having regard to its place of effective management, the place where it is incorporated or otherwise constituted and any other relevant factors. In the absence of such agreement, such person shall not be entitled to any relief or exemption form tax provided by this Convention except to the extent and in such manner as may be agreed upon by the competent authorities of the Contracting States.&lt;/blockquote&gt;
+
+==== Action 15 ====
+Pending work on BEPS Action 15, concerning the development of a 'Multilateral Instrument to Modify Bilateral Tax Treaties' may result on the amendment of a large number of existing treaties to reflect, particularly, the new wording in Action 6. There are currently a considerable number of counties involved in this instrument's negotiation&lt;ref&gt;{{cite web|url=http://www.oecd.org/tax/treaties/multilateral-instrument-for-beps-tax-treaty-measures-the-ad-hoc-group.htm|title=Multilateral instrument for BEPS tax treaty measures: the Ad hoc Group - OECD|website=www.oecd.org}}&lt;/ref&gt; but it is still unclear what changes and what countries will agree to the changes. The work on the multilateral instrument will be concluded and open of signature in December 31, 2016.&lt;ref&gt;{{cite web|url=http://www.oecd.org/ctp/beps-frequentlyaskedquestions.htm#Action15|title=BEPS - Frequently Asked Questions - OECD|website=www.oecd.org}}&lt;/ref&gt;
+
+== In the United Kingdom ==
+{{see also|Taxation in the United Kingdom#Residence and domicile}}
+
+===In the United Kingdom for companies===
+A company is generally treated as resident in the United Kingdom for tax purposes if it is incorporated in the United Kingdom or, if the company is not incorporated in the United Kingdom, if its central management and control are exercised in the United Kingdom. "Central management and control" refers to the highest level of oversight, usually as exercised by the board, rather than day-to-day management.&lt;ref&gt;For HMRC views see SP 1/90 and the International Tax Handbook chapters 3 and 4. For a statement of judicial views, see “Control of Special Purpose Vehicles” (John Chadwick) [2007] Jersey &amp; Guernsey Law Review 153.{{cite web |url=http://www.jerseylaw.je/Publications/jerseylawreview |title=Archived copy |accessdate=2011-07-08 |deadurl=yes |archiveurl=https://web.archive.org/web/20110811062039/http://www.jerseylaw.je/publications/jerseylawreview/ |archivedate=2011-08-11 |df= }} For general studies, see Corporate Residence and International Taxation (Robert Couzin, IBFD 2002); Stephen Brandon QC’s Taxation of Non-UK Companies and their Shareholders (Key Haven Publications, 2002).&lt;/ref&gt;
+
+===In the United Kingdom for individuals===
+An individual who spends more than 183 days in the UK in a tax year is UK resident.&lt;ref&gt;Section 831(1) Income Tax Act 2007&lt;/ref&gt; Apart from that, there are no clear statutory guidelines. The question of whether someone is UK resident is a question of fact and degree, to be determined "on all the circumstances of the case."&lt;ref&gt;Gaines-Cooper v HMRC [2007] STC (SCD) 23 at [165].&lt;/ref&gt;  The vagueness of this test has often been criticised. Viscount Sumner said in Levene v IRC:
+
+:The words "resident in the United Kingdom", "... guide the subject remarkably little as to the limits within which he must pay and beyond which he is free. .. The Legislature has, however, left the language of the Acts substantially as it was in [1801], nor can I confidently say that the decided cases have always illuminated matters. In substance persons are chargeable or exempt, as the case may be, according as they are deemed by this body of Commissioners or that to be resident or the reverse, whatever resident may mean in the particular circumstances of each case. The tribunal thus provided is neither bound by the findings of other similar tribunals in other cases nor is it open to review, so long as it commits no palpable error of law, and the Legislature practically transfers to it the function of imposing taxes on individuals, since it empowers them in terms so general that no one can be certainly advised in advance whether he must pay or can escape payment.&lt;ref&gt;Levene v IRC 13 TC 486 at p.502.&lt;/ref&gt;
+
+Similarly, the Codification Committee concluded:
+
+:an enquirer can only be told that the question whether he is resident or not is a question of fact for the Commissioners but that by the study of the effect of a large body of case law he ''may'' [emphasis added] be able to make an intelligent forecast of their decision.&lt;ref&gt;Income Tax Codification Committee Report 1936 Cmd.5131 pp.34–39.&lt;/ref&gt;
+
+More recently, the Chartered Institute of Taxation concluded:
+
+:the law determining whether an individual is resident in the UK is a mess.&lt;ref&gt;“Residence for tax purposes” 14 November 2007 accessible www.kessler.co.uk.&lt;/ref&gt;
+
+The number of days present in the UK is not a decisive factor (unless the number of days exceeds 183 in a tax year).  In one case a foreigner who spent 5 months in the UK was held not UK resident.&lt;ref&gt;IRC v Zorab 11 TC 289.&lt;/ref&gt;  In the view of [[HM Revenue and Customs|HMRC]] someone who exceeds 90 days on a four-year average is UK resident, but considerable emphasis is given to the fact that someone who averages less than 90 days may also be UK resident.&lt;ref&gt;HMRC 6 para 1.2, 1.5.13, 1.5.22, 2.2&lt;/ref&gt;
+
+Before 2009/10, the vagueness of the law did not seem to matter because HMRC published relatively clear guidelines in document IR20. That document has been withdrawn from 2009/10 and replaced with the much vaguer guidance in HMRC 6.&lt;ref&gt;{{cite web|url=http://www.hmrc.gov.uk/cnr/hmrc6.pdf|title=Tax on foreign income: rules for the tax year ending 5 April 2013 - GOV.UK|website=www.hmrc.gov.uk}}&lt;/ref&gt;
+
+HMRC currently argue that they are not bound by the terms of IR20 for years prior to 2009/10.  Whether that is correct is currently the subject of litigation.&lt;ref&gt;Gaines-Cooper v HMRC&lt;/ref&gt;  It is clear that HMRC are not in any way bound by the terms of HMRC 6, which contains a very full disclaimer.&lt;ref&gt;HMRC6 section 1&lt;/ref&gt;
+
+==In Germany==
+All tax resident individuals are taxed on their worldwide income, regardless of the source. This would include [[salary]], [[dividend]]s, etc. earned from one's [[limited company]]. Generally, individuals are deemed to be tax resident if they are physically present in Germany for more than six months in any one [[calendar year]] or for a consecutive period of six months over a calendar year-end. This ruling is applied retrospectively so presence in Germany from 1 March to 30 November, for example, would make one a German tax resident and therefore subject to German tax on the worldwide income for the entire period rather than just from the beginning of the seventh month.{{Citation needed|date=March 2009}}
+
+An individual can also be deemed tax resident if they acquire an abode in Germany. This can include renting, as opposed to purchasing, a property but only if the duration of the lease is deemed to be more than temporary. For this reason, to avoid German tax residency, short-term (such as three months) should be taken out wherever possible.{{Citation needed|date=March 2009}}
+
+Non-resident individuals are taxed on German-source income only. In the case of salary and benefits from your limited company, the source is German since the duties of the employment are being performed in Germany. However, dividends from your limited company (assuming this is not deemed to have a permanent establishment in Germany: see below) would be from a non-German source regardless of where the dividends are received. There is, therefore, scope for tax mitigation here if one does not become a German tax resident (although non-German taxes may also need to be considered).{{Citation needed|date=March 2009}}
+
+==In France==
+
+In France, taxpayers are either "domiciled" in France or are "non-resident". Domiciled individuals are subject to French tax on worldwide income, but non-residents are not taxed on foreign-source income. Many treaty exemptions may apply, however (e.g. foreign-source trading or rental income). Under Article 4B of the French Tax Code (''Code Général des Impôts''), an individual is resident in France for tax purposes if:
+* they have a home (''foyer'') or their principal place of physical presence in France,
+* they have their professional activity in France, unless such activity is only ancillary, or
+* they have the centre of their economic interests in France.
+
+French courts have ruled that the principal place of physical presence test is only applicable where the "home" test cannot be applied. A "home" is to be construed as the place where the taxpayer normally lives, without any regard being given to the taxpayer's temporary stays in another country. As the "home" test is concerned with where the taxpayer's family ties are (i.e. where the spouse and children live), this test is highly unlikely to apply to single individuals. Consequently, the principal place of physical presence test should be viewed as primarily applicable to single individuals only.
+
+"Principal place of physical presence" covers a wider range of situations that a basic 183-day rule would have. This is because the taxpayer's physical presence in France in a given calendar year will be tested against his presence in another country. Perpetual travelers must therefore be able to demonstrate that they have resided in a foreign country for a longer period in the relevant calendar year.
+
+==In the Russian Federation==
+In [[Russia|Russian Federation]] all tax resident individuals are taxed on their worldwide income, regardless of the source. Individuals are deemed to be tax residents if they are physically present in Russia for more than 183 days during consecutive period of 12 months. The period of presence in Russia is not interrupted in case individual is out of the country for less than six months for educational purposes or for medical treatment. Foreign servants and civil servants that were sent abroad for work purposes are deemed tax residents no matter how long they really are present in Russia.&lt;ref&gt;IRC of Russian Federation, part 2, section 8, chapter 23, clause 207&lt;/ref&gt;
+
+==See also==
+*[[International taxation]]
+*[[Permanent establishment]]
+*[[Permanent tourist]]
+*[[Physical presence test]]
+*[[Tax exile]]
+*[[Tax haven]]
+*[[Tax treaty]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.capitaltaxconsulting.com/international-tax/ Site explaining what makes a person as tax resident, for different jurisdictions.]
+* [http://www.gti.org/Services/Tax-services/Expatriate-tax/Expatriate-tax-ebook/ Grant Thornton tax ebook for expats]
+* [https://web.archive.org/web/20081120223240/http://www.deloittetaxguides.com/ Deloitte Tax Guides]
+* [http://www.foreigndomiciliaries.co.uk/index.php/Main_Page Taxation of Foreign Domiciliaries in UK law]
+
+{{DEFAULTSORT:Tax Residence}}
+[[Category:International taxation]]
+[[Category:Residency]]
+[[Category:Tax residence| ]]
+[[Category:Home]]</text>
+      <sha1>glxiylth9mfpefg3c6w8ojia2o3z9xj</sha1>
+    </revision>
+  </page>
+</mediawiki>
