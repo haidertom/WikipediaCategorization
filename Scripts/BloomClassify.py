@@ -217,25 +217,24 @@ class BloomClassify:
 
 	def check_single_article(self, title, baseline_number = 20, category="Category:Unkown", numOfCheckWords = 20):
 
+		# check if Validationfolder exists
+		if not os.path.exists("../Validation"): os.mkdir("../Validation")
+
+		# get article from wikipedia API
 		Base = Baseline(folder="Validation",  baseline_number = baseline_number)
-
-		if not os.path.exists("../Validation"):
-			os.mkdir("../Validation")
-
-		filename = "../Validation/"+"raw.txt"
+		filename = "../Validation/"+title+"_raw.txt"
 		with open(filename, 'w') as the_file:
-			the_file.write(Base.get_dumptext(title)[0])
+			the_file.write(Base.get_dumptext([title]))
 
-		os.system("../wikiextractor/WikiExtractor.py "+"../Validation/"+"raw"+" -o"+" ../Validation"+" --json")
+		#convert to plain text
+		os.system("../wikiextractor/WikiExtractor.py "+"../Validation/"+title+"_raw.txt"+" -o"+" ../Validation/"+title+"/ --json")
 
+		#housekeeping
 		category = os.listdir("../Validation")
-		if '.DS_Store' in category:
-			category.remove('.DS_Store')
+		if '.DS_Store' in category: category.remove('.DS_Store')
 
-		category = category[0]
-
-		filepath = "../Validation/AA/wiki_00"
-
+		#languageProcess
+		filepath = "../Validation/"+title+"/AA/wiki_00"
 		testarticle = lp.languageProcess(filepath).getHighFreqWords()
 
 		vali_dict = {}
@@ -284,18 +283,18 @@ class BloomClassify:
 
 def main():
 
-	CL = BloomClassify(num = 25, art = 20, baselineFolder="../RandomBaseline/plaindata")
+	CL = BloomClassify(num = 25, art = 20, baselineFolder="../Baseline/50/plaindata")
 
 	#CL.get_mfw()
-	CL.get_tfidf()
-	CL.train_BL(mfw = 0, tfidf = 1)
-	CL.save_BL()
+	#CL.get_tfidf()
+	#CL.train_BL(mfw = 0, tfidf = 1)
+	#CL.save_BL()
 	#CL.load_BL()
 	#CL.similarity_matrix(mfw = 0, tfidf = 1)
 
 	title = "Space"
 
-	vali_dict = CL.check_single_article(title, numOfCheckWords = 25)
+	vali_dict = CL.check_single_article(title=title, numOfCheckWords = 25)
 
 	for key,value in vali_dict.items():
 	 	print("%-30s%-30f"%(key, value))
