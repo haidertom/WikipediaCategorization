@@ -45,17 +45,16 @@
     <ns>0</ns>
     <id>18422</id>
     <revision>
-      <id>870467240</id>
-      <parentid>870466514</parentid>
-      <timestamp>2018-11-25T00:52:48Z</timestamp>
+      <id>871842383</id>
+      <parentid>870467240</parentid>
+      <timestamp>2018-12-03T20:06:57Z</timestamp>
       <contributor>
-        <username>Anita5192</username>
-        <id>13220696</id>
+        <ip>159.54.138.10</ip>
       </contributor>
-      <comment>Undid revision 870466514 by [[Special:Contributions/92.53.59.15|92.53.59.15]] ([[User talk:92.53.59.15|talk]])Reverted unexplained edit.</comment>
+      <comment>/* Matrices */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="52969">{{Distinguish|Elementary algebra}}
+      <text xml:space="preserve" bytes="52974">{{Distinguish|Elementary algebra}}
 [[File:Linear subspaces with shading.svg|thumb|250px|right|In the three-dimensional [[Euclidean space]], planes represent solutions of linear equations and their intersections represent the common solutions]]
 
 '''Linear algebra''' is the branch of [[mathematics]] concerning [[linear equation]]s such as 
@@ -186,7 +185,7 @@ with {{mvar|m}} rows and {{mvar|n}} columns.
 
 [[Matrix multiplication]] is defined in such a way that the product of two matrices is the matrix of the [[function composition|composition]] of the corresponding linear maps, and the product of a matrix and a column matrix is the column matrix representing the result of applying the represented linear map to the represented vector. It follows that the theory of finite-dimensional vector spaces and the theory of matrices are two different languages for expressing exactly the same concepts.
 
-Two matrices that encode the same linear transformation in different bases are called [[similar (linear algebra)|similar]]. Equivalently, two matrices are similar if one can transform one in the other by [[Elementary matrix|elementary row and column operations]]. For a matrix representing a linear map from {{mvar|W}} to {{mvar|V}}, the row operations correspond to change of bases in {{mvar|V}} and the column operations correspond to change of bases in {{mvar|W}}. Every matrix is similar to an [[identity matrix]] possibly bordered by zero rows and zero columns. In terms of vector space, this means that, for any linear map from {{mvar|W}} to {{mvar|V}}, there are bases such a part of the basis of {{mvar|W}} is mapped bijectively on a part of the basis of {{mvar|V}}, and that the remaining basis elements of {{mvar|W}}, if any, are mapped to zero (this is a way of expressing the [[fundamental theorem of linear algebra]]). [[Gaussian elimination]] is the basic algorithm for finding these elementary operations, and proving this theorem.
+Two matrices that encode the same linear transformation in different bases are called [[similar (linear algebra)|similar]]. Equivalently, two matrices are similar if one can transform one in the other by [[Elementary matrix|elementary row and column operations]]. For a matrix representing a linear map from {{mvar|W}} to {{mvar|V}}, the row operations correspond to change of bases in {{mvar|V}} and the column operations correspond to change of bases in {{mvar|W}}. Every matrix is similar to an [[identity matrix]] possibly bordered by zero rows and zero columns. In terms of vector space, this means that, for any linear map from {{mvar|W}} to {{mvar|V}}, there are bases such that a part of the basis of {{mvar|W}} is mapped bijectively on a part of the basis of {{mvar|V}}, and that the remaining basis elements of {{mvar|W}}, if any, are mapped to zero (this is a way of expressing the [[fundamental theorem of linear algebra]]). [[Gaussian elimination]] is the basic algorithm for finding these elementary operations, and proving this theorem.
 
 ==Linear systems==
 {{Main|System of linear equations}}
@@ -511,7 +510,7 @@ year=2004|title=Practical Linear Algebra: A Geometry Toolbox|publisher=AK Peters
 {{DEFAULTSORT:Linear Algebra}}
 [[Category:Linear algebra| ]]
 [[Category:Numerical analysis]]</text>
-      <sha1>pc5wje8tmumzwvmz111n9hclt9ctv7w</sha1>
+      <sha1>isc697kone9ku4m4p0kbtsl9867dlrk</sha1>
     </revision>
   </page>
 </mediawiki>
