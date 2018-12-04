@@ -30,7 +30,7 @@ def train_Baseline(basepath="../TestArticle/plaindata"):
     #CL.train_BL(mfw = 0, tfidf = 1)
     #CL.load_BL()
     #LSI
-    LSIs.train(basepath="../Baseline/11000/plaindata",noOfTrainArticle=5000)
+    LSIs.train(basepath="../Baseline/11000/plaindata",noOfTrainArticle=1000)
     #Create LSI object
     
     #iterate over given Baseline folder -> get category baseline
@@ -68,7 +68,7 @@ def check_article(validpath = "../Baseline/11000/plaindata"):
             #only take the last 10 folders. Basline is randomized, therefore is will not effect the result 
             for no in range(dir_no)[-19:]:
                 filepath = validpath+"/"+cate+"/"+cate+"_11000_"+str(no)+"/AA/wiki_00"
-                print(filepath)
+                #print(filepath)
                 article = lp.languageProcess(filepath)
                 testarticle.update(article.getHighFreqWordsAsDict())
                 testarticle2.update(article.getWordsAsDict())
@@ -90,14 +90,14 @@ def check_article(validpath = "../Baseline/11000/plaindata"):
                 #valid_dict['title']=key
                 #BFcategoryResults.append(valid_dict)
             test=testarticle2[key]
-            print(type(test))
+            #print(type(test))
             lsiRes=LSIs.compare(test)
             lsiRes['title']=key
             LSIcategoryResults.append(lsiRes)
         resultsBF[cate]=BFcategoryResults.copy()
         resultsLSI[cate]=LSIcategoryResults.copy()
         #print([key for key,value in resultsBF.items()])
-    write2csv('Test_Baseline_10000_1000',{'bloomfilter':resultsBF,'LSI':resultsLSI})
+    write2csv('Test_Baseline_1000_1000',{'bloomfilter':resultsBF,'LSI':resultsLSI})
     #return {'bloomfilter':resultsBF,'LSI':resultsLSI}
 
 #This function writes the testresults to a csv file

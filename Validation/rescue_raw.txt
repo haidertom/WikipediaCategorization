@@ -1,0 +1,114 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rescue</title>
+    <ns>0</ns>
+    <id>363258</id>
+    <revision>
+      <id>858343406</id>
+      <parentid>857143336</parentid>
+      <timestamp>2018-09-06T14:23:05Z</timestamp>
+      <contributor>
+        <ip>74.105.204.67</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2908">{{wikt|rescue}}
+{{Other uses}}
+{{Selfref|For the article rescue project, see [[Wikipedia:Article Rescue Squadron]]}}
+{{Unreferenced|date=July 2007}}
+[[File:German Rescue Car.jpg|thumb|Rescue team in [[Dresden]], [[Germany]], in 2006]]
+[[File:Seaking heaven.JPG|thumb|[[Helicopter]] rescue]]
+[[File:Helicopter Rescue.jpg|thumb|Real Helicopter rescue in [[Malta]] in 2007]]
+[[File:Gebirgstrage02 Patient Seilsicherung.jpg|thumb|[[Patient]] in mountain rescue [[stretcher]] in Germany.]]
+
+'''Rescue''' comprises responsive operations that usually involve the saving of [[life]], or prevention of [[injury]] during an incident or dangerous situation.
+
+Tools used might include [[search and rescue dog]]s, [[mounted search and rescue]] [[horse]]s, [[helicopter]]s, the "[[Hydraulic rescue tools|jaws of life]]", and other [[Hydraulics|hydraulic]] cutting and spreading [[tool]]s used to [[vehicle extrication|extricate]] individuals from wrecked [[vehicle]]s.  Rescue operations are sometimes supported by special vehicles such as [[fire department]]'s or EMS [[heavy rescue vehicle]].
+
+==Overview==
+Ropes and special devices can reach and remove individuals and animals from difficult locations including:
+* [[Air-sea rescue]]
+* [[Cave rescue]]
+* [[Combat search and rescue]]
+* [[Confined space rescue]]
+* [[Helicopter rescue basket]]
+* [[Mine rescue]]
+* [[Rope rescue]]
+* [[Search and rescue]]
+* [[Ski patrol]]
+* [[Surface water rescue]]
+* [[Swiftwater rescue]]
+* [[Urban search and rescue]]
+* [[Vehicle extrication]]
+* [[Wilderness]]
+
+Rescue operations require a high degree of [[training]] and are performed by [[rescue squad]]s, either independent or part of larger organizations such as [[fire department|fire]], [[police]], [[military]], [[first aid]], or [[ambulance]] services.  In the U.S., they are usually staffed by medically trained personnel as [[National Fire Protection Association|NFPA]] regulations require it.{{Citation needed|date=August 2007}}
+
+==Old meanings==
+In former centuries the word "rescue" had other meanings: for example, there is an old record of a countryman living where [[Wythenshawe]] is now, being [[Prosecutor|prosecuted]] in a local [[court]] for "making rescue" of a pig which had been seized as a [[distraint|distress]] for non-payment of money owed.&lt;ref&gt;{{cite web|title=UK diver swims to safety after Australia shark scare - The Viral Info|url=http://theviralinfo.com/uk-diver-swims-to-safety-after-australia-shark-scare/|accessdate= 23 Oct 2017}}&lt;/ref&gt;
+
+==See also==
+* [[Animal rescue group|Animal rescue]]
+* [[Civil defense]]
+* [[Diver rescue]]
+* [[Emergency management]]
+* [[Extraction (military)]]
+* [[International Rescue Corps]]
+* [[Lifeboat (rescue)]]
+* [[Rescue robot]]
+* [[Technical rescue]]
+* [[Vehicle extrication]]
+
+==References==
+&lt;references /&gt;
+
+==External links==
+* {{Wiktionary-inline|rescue}}
+* {{Commons category-inline|Rescue}}
+
+[[Category:Rescue| ]]</text>
+      <sha1>687jjfsoojqzjhslmlepv9ao09rifeu</sha1>
+    </revision>
+  </page>
+</mediawiki>
