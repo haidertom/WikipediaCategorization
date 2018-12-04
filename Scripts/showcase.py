@@ -37,8 +37,6 @@ def plotGraph(resLSI,resBF):
 
     fig, ax = plt.subplots(figsize=(11,5))
 
-
-
     p1 = ax.bar(ind-width/2,list(resLSI.values()),width, align='center',color='dodgerblue')
     p2 = ax.bar(ind+width/2,list(resBF.values()),width, align='center',color='darkorange')
 

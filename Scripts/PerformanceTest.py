@@ -30,14 +30,14 @@ def train_Baseline(basepath="../TestArticle/plaindata"):
     #CL.train_BL(mfw = 0, tfidf = 1)
     #CL.load_BL()
     #LSI
-    LSIs.train(basepath="../Baseline/11000/plaindata")
+    LSIs.train(basepath="../Baseline/11000/plaindata",noOfTrainArticle=5000)
     #Create LSI object
     
     #iterate over given Baseline folder -> get category baseline
 
 #This function is comparing testarticles with the given
 #validpath = path to testfiles
-def check_article(validpath = "../TestArticle/plaindata"):
+def check_article(validpath = "../Baseline/11000/plaindata"):
     #print("checking articles for test")
     #get article which should be excluded from testarticles
     #with open('../BigBaseline/zz_index.json') as f:
@@ -55,8 +55,8 @@ def check_article(validpath = "../TestArticle/plaindata"):
     #iterating over the different categories
     for cate in category:
         print("Testing category: "+cate)
-        filepath = validpath+"/"+cate+"/AA/wiki_00"
-        article = lp.languageProcess(filepath)
+        #filepath = validpath+"/"+cate+"/AA/wiki_00"
+        #article = lp.languageProcess(filepath)
         if os.path.exists('trainedObjects/TestarticleBloom_'+cate+'_1000_.pkl'):
              testarticle = load_Testarticle('TestarticleBloom',str(cate))
              testarticle2=  load_Testarticle('TestarticleLsi',str(cate))
@@ -66,7 +66,7 @@ def check_article(validpath = "../TestArticle/plaindata"):
             path = validpath+"/"+cate
             dir_no=sum(os.path.isdir(path+"/"+i) for i in os.listdir(path))
             #only take the last 10 folders. Basline is randomized, therefore is will not effect the result 
-            for no in range(dir_no)[-9:]:
+            for no in range(dir_no)[-19:]:
                 filepath = validpath+"/"+cate+"/"+cate+"_11000_"+str(no)+"/AA/wiki_00"
                 print(filepath)
                 article = lp.languageProcess(filepath)
@@ -75,8 +75,8 @@ def check_article(validpath = "../TestArticle/plaindata"):
                 #articles = lp.languageProcess(filepath).getHighFreqWordsAsDict()
             save_Testarticle('TestarticleBloom',testarticle,cate)
             save_Testarticle('TestarticleLsi',testarticle2,cate)
-
-
+            #print(testarticle2)
+            #print(type(testarticle2['The Haywain Triptych']))
         testedarticle=0
         BFcategoryResults=[]
         LSIcategoryResults=[]
@@ -89,8 +89,9 @@ def check_article(validpath = "../TestArticle/plaindata"):
                 #valid_dict = CL.check_article(testarticle[key],50)
                 #valid_dict['title']=key
                 #BFcategoryResults.append(valid_dict)
-
-            lsiRes=LSIs.compare(testarticle2[key])
+            test=testarticle2[key]
+            print(type(test))
+            lsiRes=LSIs.compare(test)
             lsiRes['title']=key
             LSIcategoryResults.append(lsiRes)
         resultsBF[cate]=BFcategoryResults.copy()
@@ -128,7 +129,7 @@ def write2csv(baseline,nestedFile):
 #main function to compute the tests for a specific Baseline
 def main():
     train_Baseline(basepath="../BigBaseline/plaindata/")
-    #check_article()
+    check_article()
     #write2csv('RandomBaseline04',vali_dict)
     #print(vali_dict['bloomfilter'])
     #print(vali_dict['LSI'])
