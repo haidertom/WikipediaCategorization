@@ -64,5 +64,4 @@ class LSIsimilarity:
         #Compute similarity of the query document to base articles(model)
         sims = self.index[vec_lsi]
         sims=list(enumerate(sims))
-        print(sims)
         return  { self.categories[i]:self.optimize(sims[i][1]) for i in range(self.num_topics)}
