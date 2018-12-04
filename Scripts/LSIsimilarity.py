@@ -11,8 +11,8 @@ class LSIsimilarity:
         self.articles=[]
         self.num_topics=0
     #This function trains the model
-    def train(self,basepath='../Baseline/10/plaindata',noOfTrainArticle=1000):
-        basepath="../Baseline/"+str(noOfTrainArticle)+"/plaindata"
+    def train(self,basepath='../Baseline/10/plaindata',noOfTrainArticle=5000):
+        basepath="../Baseline/11000/plaindata"
         self.categories=os.listdir(basepath)
         if '.DS_Store' in self.categories:
             self.categories.remove('.DS_Store')
@@ -30,14 +30,13 @@ class LSIsimilarity:
                 path = basepath+"/"+cat
                 dir_no=sum(os.path.isdir(path+"/"+i) for i in os.listdir(path))
                 
-                for no in range(dir_no)[0:-10]:
-                    print(cat,'article folder',no)
+                for no in range(dir_no)[0:99]:
+                    #print(cat,'article folder',no)
                     filepath = basepath+"/"+cat+"/"+cat+"_11000_"+str(no)+"/AA/wiki_00"
                     cat_articles += lp.languageProcess(filepath).getWords()
 
-            if os.path.exists(filepath):               #Save all base articles in an array of arrays
+            #if os.path.exists(filepath):               #Save all base articles in an array of arrays
                 self.articles.append(cat_articles)
-                self.num_topics+=1
 
             self.dictionary = corpora.Dictionary(self.articles)
             self.dictionary.save("dict"+str(noOfTrainArticle)+".dict")
@@ -61,8 +60,9 @@ class LSIsimilarity:
         #Vectorize your query doc with ur dictionary
         self.query_path=self.dictionary.doc2bow(query)
         vec_lsi = self.lsi[self.query_path]
+
         #Compute similarity of the query document to base articles(model)
         sims = self.index[vec_lsi]
         sims=list(enumerate(sims))
-
+        print(sims)
         return  { self.categories[i]:self.optimize(sims[i][1]) for i in range(self.num_topics)}
