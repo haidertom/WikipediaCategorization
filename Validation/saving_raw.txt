@@ -1,0 +1,119 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Saving</title>
+    <ns>0</ns>
+    <id>65228</id>
+    <revision>
+      <id>860329975</id>
+      <parentid>860316570</parentid>
+      <timestamp>2018-09-19T22:42:03Z</timestamp>
+      <contributor>
+        <username>Kuru</username>
+        <id>764407</id>
+      </contributor>
+      <comment>rmv redlink from 'see also'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8426">{{Distinguish|Savings}}
+{{Multiple issues|
+{{refimprove|date=March 2011}}
+{{globalize|date=June 2011}}
+}}
+[[File:Piggy bank2.jpg|right|thumb|Depositing change in a [[piggy bank]] is a frequently used savings strategy.]]
+'''Saving''' is [[income]] not spent, or deferred [[Consumption (economics)|consumption]]. Methods of saving include putting money aside in, for example, a [[deposit account]], a [[pension|pension account]], an [[investment fund]], or as [[cash]].&lt;ref&gt;"Random House Unabridged Dictionary." Random House, 2006&lt;/ref&gt; Saving also involves reducing expenditures, such as recurring [[cost]]s. In terms of [[personal finance]], saving generally specifies low-risk preservation of money, as in a [[deposit account]], versus [[investment]], wherein risk is a lot higher; in [[economics]] more broadly, it refers to any income not used for immediate consumption.
+
+''Saving'' differs from ''savings''. The former refers to the act of increasing one's assets, whereas the latter refers to one part of one's assets, usually deposits in savings accounts, or to all of one's assets. Saving refers to an activity occurring over time, a [[stock and flow|flow]] variable, whereas savings refers to something that exists at any one time, a [[stock and flow|stock]] variable. This distinction is often misunderstood, and even professional economists and investment professionals will often refer to "saving" as "savings" (for example, [[Investopedia]] confuses the two terms in its page on the "savings rate").&lt;ref&gt;{{cite web|title=Savings Rate|url=http://www.investopedia.com/terms/s/savings-rate.asp|website=Investopedia|accessdate=27 August 2014}}&lt;/ref&gt;
+
+In different contexts there can be subtle differences in what counts as saving. For example, the part of a person's income that is spent on [[mortgage loan]] principal repayments is not spent on present consumption and is therefore saving by the above definition, even though people do not always think of repaying a loan as saving. However, in the U.S. measurement of the numbers behind its [[gross national product]] (i.e., the [[National Income and Product Accounts]]), personal interest payments are not treated as "saving" unless the institutions and people who receive them save them.
+
+Saving is closely related to physical [[investment]], in that the former provides a source of funds for the latter. By not using income to buy consumer goods and services, it is possible for resources to instead be invested by being used to produce [[fixed capital]], such as factories and machinery. Saving can therefore be vital to increase the amount of fixed capital available, which contributes to [[economic growth]].
+
+However, increased saving does not always correspond to increased [[investment]]. If savings are not deposited into a financial intermediary such as a [[bank]], there is no chance for those savings to be recycled as investment by business. This means that saving may increase without increasing investment, possibly causing a short-fall of demand (a pile-up of inventories, a cut-back of production, employment, and income, and thus a [[recession]]) rather than to economic growth. In the short term, if saving falls below investment, it can lead to a growth of [[aggregate demand]] and an economic boom. In the long term if saving falls below investment it eventually reduces investment and detracts from future growth. Future growth is made possible by foregoing present consumption to increase investment. However savings not deposited into a financial intermediary amount to an (interest-free) loan to the government or central bank, who can recycle this loan.
+
+In a primitive agricultural economy savings might take the form of holding back the best of the corn harvest as seed corn for the next planting season. If the whole crop were consumed the economy would convert to hunting and gathering the next season.
+
+== Interest rates ==
+[[Classical economics]] posited that [[interest rates]] would adjust to equate saving and investment, avoiding a pile-up of inventories (general [[overproduction]]). A rise in saving would cause a fall in interest rates, stimulating investment, hence always investment would equal saving. But [[John Maynard Keynes|Keynes]] argued that neither saving nor investment was very responsive to interest rates (i.e., that both were interest [[elasticity (economics)|inelastic]]) so that large interest rate changes were needed to re-equate them after one changed. Further, it was the demand for and supplies of stocks of [[money]] that determined interest rates in the short run. Thus, saving could exceed investment for significant amounts of time, causing a [[general glut]] and a recession.
+
+== Saving in personal finance ==
+Within [[personal finance]], the act of ''saving'' corresponds to nominal ''preservation'' of money for future use. A [[deposit account]] paying [[interest]] is typically used to hold money for future needs, ''i.e.'' an emergency fund, to make a capital purchase (car, house, vacation, etc.) or to give to someone else (children, tax bill etc.). 
+
+Within personal finance, money used to purchase [[stock]]s, put in an [[investment fund]] or used to buy any asset where there is an element of capital risk is deemed an [[investment]]. This distinction is important as the [[financial risk|investment risk]] can cause a capital loss when an investment is realized, unlike cash saving(s). Cash savings accounts are considered to have minimal risk. In the United States, all banks are required to have [[deposit insurance]], typically issued by the [[Federal Deposit Insurance Corporation]] or FDIC. In extreme cases, a [[Bank#Bank crises|bank failure]] can cause deposits to be lost as it happened at the start of the [[Great Depression]]. The FDIC has prevented that from happening ever since.
+
+In many instances the terms saving and investment are used interchangeably. For example, many [[deposit account]]s are labeled as ''investment accounts'' by banks for marketing purposes. As a rule of thumb, if money is "invested" in cash, then it is savings. If money is used to purchase some asset that is hoped to increase in value over time, but that may fluctuate in market value, then it is an investment.
+
+== Saving in economics ==
+{{See also|National savings}}
+In economics, saving is defined as [[income]] minus [[Consumption (economics)|consumption]].&lt;ref&gt;{{Cite web|url=http://www.revisionguru.co.uk/economics/consump2.htm|title=Revision Guru|website=www.revisionguru.co.uk|access-date=2016-10-12}}&lt;/ref&gt; The rate at which people do this is called the [[marginal propensity to save]] or [[average propensity to save]].&lt;ref&gt;{{Cite web|url=http://www.bostonfed.org/economic/conf/conf25/conf25a.pdf|title=The Concept and Measurement of Savings: The United States and Other industrialized Countries|last=|first=|date=|website=Federal Reserve Bank of Boston|publisher=Federal Reserve Bank of Boston|access-date=2016-10-11}}&lt;/ref&gt; The rate of saving is directly related to both the [[interest rate]] and [[investment]], largely by way of the [[capital market]]s.&lt;ref&gt;{{Cite web|url=http://www.colorado.edu/economics/courses/econ2020/section5/section5-main.html|title=Principles of Macroeconomics - Section 5: Main|website=www.colorado.edu|access-date=2016-10-12}}&lt;/ref&gt;
+
+== See also ==
+{{div col|colwidth=30em}}
+* [[Capital accumulation]]
+* [[Dissaving]]
+* [[Financial literacy]]
+* [[Frugality]]
+* [[Greed]]
+* [[Prudence#In economics|Prudence in economics]]
+* [[Savings identity]]
+{{div col end}}
+
+== Notes ==
+{{reflist}}
+
+== References ==
+* Dell'Amore, Giordano (1983). "Household Propensity to Save", in Arnaldo Mauri (ed.), ''Mobilization of Household Savings, a Tool for Development'', Finafrica, Milan.
+* Modigliani, Franco (1988). "The Role of Intergenerational Transfers and the Life-cycle Saving in the Accumulation of Wealth", ''Journal of Economic Perspectives, n. 2, 1988.
+
+== Further reading ==
+* {{cite encyclopedia |last=Kotlikoff |first=Laurence J. |authorlink=Laurence Kotlikoff |editor=[[David R. Henderson]] |encyclopedia=[[Concise Encyclopedia of Economics]] |title=Saving |url=http://www.econlib.org/library/Enc/Saving.html  |year=2008 |edition= 2nd |publisher=[[Library of Economics and Liberty]] |location=Indianapolis |isbn=978-0865976658 |oclc=237794267}}
+
+{{economics}}
+
+[[Category:Intertemporal economics]]
+[[Category:Consumer theory]]
+[[Category:Personal finance]]</text>
+      <sha1>p1nuxsdlm2a3o6w3iwaj4zvooexc5i0</sha1>
+    </revision>
+  </page>
+</mediawiki>

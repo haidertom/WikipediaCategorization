@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ransom</title>
+    <ns>0</ns>
+    <id>524260</id>
+    <revision>
+      <id>852946491</id>
+      <parentid>833612103</parentid>
+      <timestamp>2018-08-01T12:13:41Z</timestamp>
+      <contributor>
+        <username>Rondonia9</username>
+        <id>14912085</id>
+      </contributor>
+      <comment>/* Variations */ Individual opinion, which is not backed up by the provided reference, deleted.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7931">{{About|the criminal practice}}
+{{refimprove|date=January 2010}}
+[[File:The Ransom by John Everett Millais, 1860-62.JPG|thumb|"The Ransom", [[John Everett Millais]], c. 1860]]
+'''Ransom''' is the practice of holding a prisoner or item to [[extortion|extort]] money or property to secure their release, or it may refer to the sum of money involved.
+
+When ransom means "payment", the word comes via Old French ''rançon'' from Latin ''redemptio'' = "buying back":&lt;ref&gt;{{Cite EB1911|wstitle=ransom}}&lt;/ref&gt; compare "[[wikt:redeem|redemption]]".
+
+== Ransom cases ==
+[[Julius Caesar]] was captured by pirates near the island of [[Pharmakonisi|Pharmacusa]], and held until someone paid 50 [[Attic talent|talents]] to free him.&lt;ref&gt;Plutarch, [http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html "The Life of Julius Caesar"] in ''The Parallel Lives'', Loeb Classical Library edition, 1919, Vol. VII, p. 445. The pirates originally demanded 20 talents, but Caesar felt he was worth more. After he was freed he came back, captured the pirates, took their money and eventually crucified all of them, a fate he had threatened the incredulous pirates with during his captivity.&lt;/ref&gt;
+
+In Europe during the [[Middle Ages]], ransom became an important custom of [[chivalry|chivalric]] warfare. An important [[knight]], especially [[nobility]] or [[Royal family|royalty]], was worth a significant sum of money if captured, but nothing if he was killed. For this reason, the practice of ransom contributed to the development of [[heraldry]], which allowed knights to advertise their identities, and by implication their ransom value, and made them less likely to be killed out of hand. Examples include [[Richard the Lion Heart]] and [[Bertrand du Guesclin]].
+
+The abduction of [[Charley Ross]] on July 1, 1874 is considered to be the first American kidnapping for ransom.
+
+In 1532, [[Francisco Pizarro]] was paid a ransom amounting to a roomful of gold by the [[Inca Empire]] before having their leader [[Atahualpa]], his victim, executed in a ridiculous trial. The ransom payment received by Pizarro is recognized as the largest ever paid to a single individual, probably over $2 billion in today's economic markets.{{citation needed|date=March 2015}}
+
+[[East Germany]], which built the [[Inner German border]] to stop emigration, practised ransom with people. East German citizens could emigrate through the semi-secret route of being ransomed by the [[West Germany|West German]] government in a process termed ''Freikauf'' (literally the buying of freedom).&lt;ref name="Buckley"&gt;Buckley (2004), p. 104&lt;/ref&gt; Between 1964 and 1989, 33,755&amp;nbsp;political prisoners were ransomed. West Germany paid over 3.4 billion DM—nearly $2.3&amp;nbsp;billion at 1990 prices—in goods and hard currency.&lt;ref&gt;Hertle (2007), p. 117.&lt;/ref&gt; Those ransomed were valued on a sliding scale, ranging from around 1,875&amp;nbsp;DM for a worker to around 11,250&amp;nbsp;DM for a doctor. For a while, payments were made in kind using goods that were in short supply in East Germany, such as oranges, bananas, coffee and medical drugs. The average prisoner was worth around 4,000&amp;nbsp;DM worth of goods.&lt;ref&gt;Buschschluter (1981-10-11).&lt;/ref&gt;
+
+==Ransom notes==
+{{Redirect|Ransom note|the use in typography|Ransom note effect}}
+[[File:March 2017- Coors Kidnapping Ransom Note (33460504411).jpg|thumb|right|Ransom note delivered to the family of [[Adolph Coors III]] in 1960]]
+A request for ransom may be conveyed to the target of the effort by a ransom note, a written document outlining the demands of the kidnappers. In some instances, however, the note itself can be used as forensic evidence to discover the identities of unknown kidnappers,&lt;ref name="Lyle"&gt;D. P. Lyle, ''Howdunit Forensics'' (2008), p. 378.&lt;/ref&gt; or to convict them at trial. For example, if a ransom note contains misspellings, a suspect might be asked to write a sample of text to determine if they make the same spelling errors.&lt;ref name="Lyle"/&gt; In some instances, a person may forge a ransom note in order to falsely collect a ransom despite not having an actual connection to the kidnapper.&lt;ref&gt;John Townsend, ''Fakes and Forgeries'' (2005), p. 13.&lt;/ref&gt; In popular culture, ransom notes are often depicted as being made from words in different typefaces clipped from different sources (typically newspapers), in order to disguise the handwriting of the kidnapper,&lt;ref&gt;Walter S. Mossberg, ''The Wall Street Journal Book of Personal Technology'' (1995), p. 92.&lt;/ref&gt; leading to the phrase [[ransom note effect]] being used to describe documents containing jarringly mixed fonts. On other occasions, a ransom note has been used as a ploy to convince family members that a person is being held for ransom when that person has actually left of their own volition, or was already dead before the note was sent.
+
+== Variations ==
+
+There were numerous instances in which towns paid to avoid being plundered, an example being [[Salzburg]] which, under [[:de:Paris Lodron|Paris Lodron]] paid a ransom to Bavaria to prevent its being sacked during the [[Thirty Year's War]]. As late as the [[Peninsular War]] (1808–14), it was the belief of the English soldiers that a town taken by storm was liable to sack for three days, and they acted on their conviction at [[Ciudad Rodrigo]], [[Badajoz]] and [[Siege of San Sebastián|San Sebastian]].
+
+In the early 18th century the custom was that the captain of a captured vessel gave a bond or “ransom bill,” leaving one of his crew as a hostage or “ransomer” in the hands of the captor. Frequent mention is made of the taking of French privateers which had in them ten or a dozen ransomers. The owner could be sued on his bond. Payment of ransom was banned by the [[Parliament of Great Britain]] in 1782&lt;ref&gt;Ransom Act 1782 (Act 22 Geo III c 25)&lt;/ref&gt; although this was repealed in 1864.&lt;ref&gt;Naval Prize Acts Repeal Act 1864&lt;/ref&gt; It was generally allowed by other nations.
+
+In the [[Russo-Japanese War]] — no mention was made of ransom, and with the disappearance of [[privateering]], which was conducted wholly for gain, it has ceased to have any place in war at sea, but the contributions levied by invading armies might still be accurately described by the name.
+
+Although ransom is usually demanded only after the [[kidnapping]] of a person, it is not unheard of for thieves to demand ransom for the return of an inanimate object or body part. In 1987, thieves broke into the tomb of [[Argentina|Argentinian]] president [[Juan Perón]] and then severed and [[Hands of Perón|stole his hands]]; they later demanded $8 million US for their return. The ransom was not paid.&lt;ref name=times1&gt;[https://www.nytimes.com/1987/09/06/world/peron-hands-police-find-trail-elusive.html "Peron Hands: Police Find Trail Elusive."] The ''New York Times'', September 6, 1987. Accessed October 16, 2009.&lt;/ref&gt;
+
+The practice of [[towing|towing vehicles]] and charging towing fees for the vehicles' release is often [[euphemism|euphemised]] or referred to as ransoming, especially by opponents of towing. In Scotland, [[wheel clamp|booting]] vehicles on private property is outlawed as [[extortion]]. In England, the clamping of vehicles is theoretically the [[Common law]] offence of 'holding property to ransom'.
+
+Warring international military groups have demanded ransom for any personnel they can capture from their opposition or their opposition's supporters. Ransom paid to these groups can encourage more hostage taking.&lt;ref&gt;[https://www.washingtonpost.com/opinions/paying-ransom-for-journalists-encourages-more-kidnapping/2014/09/12/1457cdaa-2f20-11e4-994d-202962a9150c_story.html "Paying ransom for journalists encourages more kidnapping"] The ''Washington Post'', September 22, 2014&lt;/ref&gt;
+
+== See also ==
+{{Wiktionary}}
+*[[Bail]]
+*[[Extortion]]
+*[[Hostage]]
+*[[Kidnapping]]
+*[[Weregild]]
+
+== References ==
+{{reflist}}
+
+[[Category:Ransom| ]]</text>
+      <sha1>omj2nuqdwgs0ak27cqfnndwq7dfm66r</sha1>
+    </revision>
+  </page>
+</mediawiki>

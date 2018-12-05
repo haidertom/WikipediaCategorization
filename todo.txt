@@ -1,0 +1,18 @@
+- rewrite intro
+	- Story why bloomfilter and LSI
+	- which alternative are on the market
+	- main goal was to find a way to assign an article to its top level category
+	- follow the category tree seems very inefficient and is also misleading
+	- background/research
+	
+-methods
+	- rewrite Bloomfilter
+	- rewrite LSI
+	- rewrite language process
+	- rewrite everything
+-Include - How to run the code
+	- which packages needs to be implemented
+-results
+	-consistent testing with 100/1000 articles
+-future work
+
