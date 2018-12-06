@@ -11,8 +11,7 @@ class LSIsimilarity:
         self.articles=[]
         self.num_topics=0
     #This function trains the model
-    def train(self,basepath='../Baseline/10/plaindata',noOfTrainArticle=5000):
-        basepath="../Baseline/11000/plaindata"
+    def train(self,basepath='../Baseline/50/plaindata',noOfTrainArticle=5000):
         self.categories=os.listdir(basepath)
         if '.DS_Store' in self.categories:
             self.categories.remove('.DS_Store')
@@ -30,14 +29,14 @@ class LSIsimilarity:
                 path = basepath+"/"+cat
                 dir_no=sum(os.path.isdir(path+"/"+i) for i in os.listdir(path))
                 
-                for no in range(dir_no)[0:99]:
+                for no in range(dir_no)[0:1]:
                     #print(cat,'article folder',no)
-                    filepath = basepath+"/"+cat+"/"+cat+"_11000_"+str(no)+"/AA/wiki_00"
+                    filepath = basepath+"/"+cat+"/"+cat+"_50_"+str(no)+"/AA/wiki_00"
                     cat_articles += lp.languageProcess(filepath).getWords()
 
             #if os.path.exists(filepath):               #Save all base articles in an array of arrays
                 self.articles.append(cat_articles)
-
+            print(self.articles)
             self.dictionary = corpora.Dictionary(self.articles)
             self.dictionary.save("dict"+str(noOfTrainArticle)+".dict")
             self.corpus = [self.dictionary.doc2bow(text) for text in self.articles]
@@ -64,4 +63,5 @@ class LSIsimilarity:
         #Compute similarity of the query document to base articles(model)
         sims = self.index[vec_lsi]
         sims=list(enumerate(sims))
+        print(sims)
         return  { self.categories[i]:self.optimize(sims[i][1]) for i in range(self.num_topics)}

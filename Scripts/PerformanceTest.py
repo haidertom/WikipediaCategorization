@@ -30,10 +30,7 @@ def train_Baseline(basepath="../TestArticle/plaindata"):
     #CL.train_BL(mfw = 0, tfidf = 1)
     #CL.load_BL()
     #LSI
-    LSIs.train(basepath="../Baseline/11000/plaindata",noOfTrainArticle=1000)
-    #Create LSI object
-    
-    #iterate over given Baseline folder -> get category baseline
+    LSIs.train(basepath="../Baseline/50/plaindata",noOfTrainArticle=50)
 
 #This function is comparing testarticles with the given
 #validpath = path to testfiles
@@ -55,14 +52,12 @@ def check_article(validpath = "../Baseline/11000/plaindata"):
     #iterating over the different categories
     for cate in category:
         print("Testing category: "+cate)
-        #filepath = validpath+"/"+cate+"/AA/wiki_00"
-        #article = lp.languageProcess(filepath)
         if os.path.exists('trainedObjects/TestarticleBloom_'+cate+'_1000_.pkl'):
              testarticle = load_Testarticle('TestarticleBloom',str(cate))
              testarticle2=  load_Testarticle('TestarticleLsi',str(cate))
         else:
-            testarticle =   {}#article.getHighFreqWordsAsDict()
-            testarticle2=   {}#article.getWordsAsDict()
+            testarticle =   {}
+            testarticle2=   {}
             path = validpath+"/"+cate
             dir_no=sum(os.path.isdir(path+"/"+i) for i in os.listdir(path))
             #only take the last 10 folders. Basline is randomized, therefore is will not effect the result 
@@ -77,7 +72,6 @@ def check_article(validpath = "../Baseline/11000/plaindata"):
             save_Testarticle('TestarticleLsi',testarticle2,cate)
             #print(testarticle2)
             #print(type(testarticle2['The Haywain Triptych']))
-        testedarticle=0
         BFcategoryResults=[]
         LSIcategoryResults=[]
         for key,val in testarticle.items():
@@ -97,7 +91,7 @@ def check_article(validpath = "../Baseline/11000/plaindata"):
         resultsBF[cate]=BFcategoryResults.copy()
         resultsLSI[cate]=LSIcategoryResults.copy()
         #print([key for key,value in resultsBF.items()])
-    write2csv('Test_Baseline_1000_1000',{'bloomfilter':resultsBF,'LSI':resultsLSI})
+    write2csv('Test_Baseline_50_1000',{'bloomfilter':resultsBF,'LSI':resultsLSI})
     #return {'bloomfilter':resultsBF,'LSI':resultsLSI}
 
 #This function writes the testresults to a csv file
@@ -130,9 +124,6 @@ def write2csv(baseline,nestedFile):
 def main():
     train_Baseline(basepath="../BigBaseline/plaindata/")
     check_article()
-    #write2csv('RandomBaseline04',vali_dict)
-    #print(vali_dict['bloomfilter'])
-    #print(vali_dict['LSI'])
 
 if __name__== "__main__":
   main()
