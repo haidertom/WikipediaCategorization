@@ -76,10 +76,10 @@ class BloomClassify:
 					for word in art.most_common(self.num):
 						self.AWdict[cat].append(word[0])
 
-				# get the lenth of the smallest bag of words
-				self.min = min(self.min, len(set(self.AWdict[cat])))
-
 				print("fetched {} most common words for {}".format(len(self.AWdict[cat]), cat))
+
+			# get the lenth of the smallest bag of words
+			self.min = min(self.min, len(set(self.AWdict[cat])))
 
 		TFIDF = TfIdf()
 
@@ -286,12 +286,12 @@ class BloomClassify:
 
 def main():
 
-	CL = BloomClassify(prct = 50, art = 1000, baselineFolder="../Baseline/1000/plaindata")
+	CL = BloomClassify(prct = 40, art = 1000, baselineFolder="../Baseline/1000/plaindata")
 
-	CL.get_tfidf()
-	CL.train_BL(mfw = 0, tfidf = 1)
-	CL.save_BL()
-	#CL.load_BL()
+	#CL.get_tfidf()
+	#CL.train_BL(mfw = 0, tfidf = 1)
+	#CL.save_BL()
+	CL.load_BL()
 	#CL.similarity_matrix(mfw = 0, tfidf = 1)
 
 	title = "China"
