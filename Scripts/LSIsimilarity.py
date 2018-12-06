@@ -36,7 +36,6 @@ class LSIsimilarity:
 
             #if os.path.exists(filepath):               #Save all base articles in an array of arrays
                 self.articles.append(cat_articles)
-            print(self.articles)
             self.dictionary = corpora.Dictionary(self.articles)
             self.dictionary.save("dict"+str(noOfTrainArticle)+".dict")
             self.corpus = [self.dictionary.doc2bow(text) for text in self.articles]
@@ -63,5 +62,4 @@ class LSIsimilarity:
         #Compute similarity of the query document to base articles(model)
         sims = self.index[vec_lsi]
         sims=list(enumerate(sims))
-        print(sims)
         return  { self.categories[i]:self.optimize(sims[i][1]) for i in range(self.num_topics)}
