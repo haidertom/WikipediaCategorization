@@ -11,7 +11,7 @@ import pickle
 
 BFdict = {}
 LSIs = LSIsimilarity.LSIsimilarity()
-CL = BloomClassify.BloomClassify(prct = 70, art = 50, baselineFolder="../Baseline/1000/plaindata")
+CL = BloomClassify.BloomClassify(prct = 40, art = 1000, baselineFolder="../Baseline/1000/plaindata")
 def save_Testarticle(name,savedict,cate):
     name = 'trainedObjects/'+ name +'_'+cate+'_1000_.pkl'
     with open(name, 'wb') as f:
@@ -90,7 +90,7 @@ def check_article(validpath = "../Baseline/11000/plaindata"):
         resultsBF[cate]=BFcategoryResults.copy()
         resultsLSI[cate]=LSIcategoryResults.copy()
         #print([key for key,value in resultsBF.items()])
-    write2csv('Test_Baseline_50_70_1000',{'bloomfilter':resultsBF,'LSI':resultsLSI})
+    write2csv('Test_Baseline_1000_40_1000',{'bloomfilter':resultsBF,'LSI':resultsLSI})
     #return {'bloomfilter':resultsBF,'LSI':resultsLSI}
 
 #This function writes the testresults to a csv file
