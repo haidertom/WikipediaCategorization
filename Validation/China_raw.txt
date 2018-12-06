@@ -45,17 +45,18 @@
     <ns>0</ns>
     <id>5405</id>
     <revision>
-      <id>871794284</id>
-      <parentid>871794218</parentid>
-      <timestamp>2018-12-03T13:48:35Z</timestamp>
+      <id>871894347</id>
+      <parentid>871794284</parentid>
+      <timestamp>2018-12-04T02:34:28Z</timestamp>
       <contributor>
-        <username>Peter K Burian</username>
-        <id>3578668</id>
+        <username>StAnselm</username>
+        <id>4007668</id>
       </contributor>
-      <comment>added photo</comment>
+      <minor/>
+      <comment>Disambiguated: [[Go]] → [[Go (game)]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="284196">{{about|the People's Republic of China|the Republic of China|Taiwan|other uses}}
+      <text xml:space="preserve" bytes="284206">{{about|the People's Republic of China|the Republic of China|Taiwan|other uses}}
 {{redirect|PRC||PRC (disambiguation)}}
 {{pp-semi-protected|small=yes}}
 {{pp-move-indef}}
@@ -776,7 +777,7 @@ China has become a prime sports destination worldwide. The country gained the ho
 
 China has one of the [[Sport in the People's Republic of China|oldest sporting cultures]] in the world. There is evidence that archery (''shèjiàn'') was practiced during the [[Western Zhou dynasty]]. Swordplay (''jiànshù'') and [[cuju]], a sport loosely related to [[association football]]&lt;ref&gt;{{cite book|title=Historical Dictionary of Soccer|year=2011|publisher=Scarecrow Press|page=2|url=https://books.google.com/books?id=9j1wbp2t1usC&amp;pg=PA2|isbn=978-0-8108-7188-5}}&lt;/ref&gt; date back to China's early dynasties as well.&lt;ref&gt;{{cite web|url=http://www.theworldofchinese.com/2013/08/sport-in-ancient-china/|title=Sport in Ancient China|publisher=JUE LIU (刘珏) (The World of Chinese)|date=31 August 2013|accessdate=28 June 2014}}&lt;/ref&gt;
 
-[[File:FloorGoban.JPG|thumb|upright=0.9|right|[[Go]] is an abstract strategy board game for two players, in which the aim is to surround more territory than the opponent and was invented in China more than 2,500 years ago.]]
+[[File:FloorGoban.JPG|thumb|upright=0.9|right|[[Go (game)|Go]] is an abstract strategy board game for two players, in which the aim is to surround more territory than the opponent and was invented in China more than 2,500 years ago.]]
 [[File:Echecs chinois.JPG|thumb|right|[[Xiangqi]], or Chinese chess, which the earliest indications reveal the game may have been played as early as the third century BCE.]]
 [[Physical fitness]] is widely emphasized in Chinese culture, with morning exercises such as [[qigong]] and [[t'ai chi ch'uan]] widely practiced,&lt;ref&gt;{{Cite journal | last1 = Thornton | first1 = E. W. | last2 = Sykes | first2 = K. S. | last3 = Tang | first3 = W. K. | doi = 10.1093/heapro/dah105 | title = Health benefits of Tai Chi exercise: Improved balance and blood pressure in middle-aged women | journal = Health Promotion International | volume = 19 | issue = 1 | pages = 33–38 | year = 2004 | pmid =  14976170| pmc = }}&lt;/ref&gt; and commercial [[gym]]s and private fitness clubs are gaining popularity across the country.&lt;ref&gt;{{cite web|url=http://chinasportsbiz.com/2011/07/01/huge-potential-of-fitness-market-in-china/|title=China health club market – Huge potential &amp; challenges|publisher=China Sports Business|date=1 July 2011|accessdate=31 July 2012}}&lt;/ref&gt; Basketball is currently the most popular spectator sport in China.&lt;ref&gt;{{cite web |url=https://web.archive.org/web/20151109001344/http://www.wenzhou.gov.cn/art/2014/8/7/art_9113_318011.html |script-title=zh:2014年6岁至69岁人群体育健身活动和体质状况抽测结果发布 |website=Wenzhou People's Government |date=7 August 2014 |accessdate=23 November 2015}}&lt;/ref&gt; The [[Chinese Basketball Association]] and the American [[National Basketball Association]] have a huge following among the people, with native or ethnic Chinese players such as [[Yao Ming]] and [[Yi Jianlian]] held in high esteem.&lt;ref name="Beech2003"&gt;{{Cite news|url=http://www.time.com/time/asia/2003/heroes/yao_ming.html |title=Yao Ming |accessdate=30 March 2007 |last=Beech |first=Hannah |work=Time Magazine | date=28 April 2003|archiveurl=https://web.archive.org/web/20110705191234/http://www.time.com/time/asia/2003/heroes/yao_ming.html|archivedate=5 July 2011}}&lt;/ref&gt; China's professional football league, now known as [[Chinese Super League]], was established in 1994, it is the largest football market in Asia.&lt;ref&gt;{{cite web |url=http://sports.sohu.com/20130714/n381558488.shtml |script-title=zh:足球不给劲观众却不少 中超球市世界第9亚洲第1 |publisher=[[Sohu]] Sports |date=14 July 2013 |accessdate=17 July 2015}}&lt;/ref&gt; Other popular sports in the country include [[Chinese martial arts|martial arts]], [[table tennis]], [[badminton]], [[swimming]] and [[snooker]]. [[Board game]]s such as [[Go (board game)|go]] (known as ''wéiqí'' in Chinese), [[xiangqi]], [[mahjong]], and more recently [[chess]], are also played at a professional level.&lt;ref&gt;[https://web.archive.org/web/20120512103553/http://thestar.com.my/lifestyle/story.asp?file=%2F2011%2F9%2F2%2Flifeliving%2F9398979&amp;sec=lifeliving "Chinese players dominate at Malaysia open chess championship"]. TheStar.com. 2 September 2011. Retrieved 24 September 2011.&lt;/ref&gt; In addition, China is home to a huge number of [[cycling|cyclists]], with an estimated 470 million bicycles {{As of|2012|lc=y}}.&lt;ref name="470MBikes"&gt;{{cite news|url=https://www.bloomberg.com/news/2012-08-16/bicycle-maker-giant-says-fitness-lifestyle-boosting-china-sales.html|title=Bike-Maker Giant Says Fitness Lifestyle Boosting China Sales|publisher=[[Bloomberg L.P.]]|date=17 August 2012|accessdate=8 September 2012}}&lt;/ref&gt; Many more traditional sports, such as [[dragon boat]] racing, [[Mongolian wrestling|Mongolian-style wrestling]] and [[horse racing]] are also popular.&lt;ref name="Ref_abcden"&gt;Qinfa, Ye. [http://chineseculture.about.com/library/weekly/aa032301a.htm "Sports History of China"]. About.com. Retrieved 21 April 2006.&lt;/ref&gt;
 
@@ -880,7 +881,7 @@ the Open Directory Project (dmoz.org) and link there using {{Dmoz}}.
 [[Category:G20 nations]]
 [[Category:Member states of the United Nations]]
 [[Category:Northeast Asian countries]]</text>
-      <sha1>1kq22xcdm1rrg37xyvjdc1wpbttaccn</sha1>
+      <sha1>t2ifm1kya6iywqcw51f55n2xr2kb26j</sha1>
     </revision>
   </page>
 </mediawiki>

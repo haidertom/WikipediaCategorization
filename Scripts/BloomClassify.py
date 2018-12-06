@@ -9,9 +9,9 @@ from baseline import Baseline
 import os
 
 class BloomClassify:
-	def __init__(self, prct = 50, art = 50, baselineFolder="../RandomBaseline/plaindata"):
+	def __init__(self, prct = 50, art = 50, baselineFolder="../Baseline/50/plaindata"):
 
-		self.num = 200 	#number of most frequent words
+		self.num = 50 	#number of most frequent words
 
 		self.art = art # number of articles
 
@@ -48,6 +48,7 @@ class BloomClassify:
 
 			for art in articles:
 				for word in art.most_common(
+
 				):
 					self.MFWdict[cat].append(word[0])
 
@@ -63,22 +64,22 @@ class BloomClassify:
 			categories.remove('.DS_Store')
 
 		for cat in categories:
+			self.AWdict[cat] = []
 
 			for subfolder in os.listdir(self.basepath+"/"+cat):
 
 				filepath = self.basepath+"/"+cat+"/"+subfolder+"/AA/wiki_00"
-				articles = lp.languageProcess(filepath).getHighFreqWords()
 
-				self.AWdict[cat] = []
+				articles = lp.languageProcess(filepath).getHighFreqWords()
 
 				for art in articles:
 					for word in art.most_common(self.num):
 						self.AWdict[cat].append(word[0])
 
-				# get the lenth of the smallest bag of words
-				self.min = min(self.min, len(set(self.AWdict[cat])))
-
 				print("fetched {} most common words for {}".format(len(self.AWdict[cat]), cat))
+
+			# get the lenth of the smallest bag of words
+			self.min = min(self.min, len(set(self.AWdict[cat])))
 
 		TFIDF = TfIdf()
 
@@ -285,7 +286,7 @@ class BloomClassify:
 
 def main():
 
-	CL = BloomClassify(prct = 50, art = 50, baselineFolder="../Baseline/50/plaindata")
+	CL = BloomClassify(prct = 40, art = 1000, baselineFolder="../Baseline/1000/plaindata")
 
 	#CL.get_tfidf()
 	#CL.train_BL(mfw = 0, tfidf = 1)

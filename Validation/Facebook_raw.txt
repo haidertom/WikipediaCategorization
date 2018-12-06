@@ -45,17 +45,18 @@
     <ns>0</ns>
     <id>7529378</id>
     <revision>
-      <id>871612205</id>
-      <parentid>871407913</parentid>
-      <timestamp>2018-12-02T08:02:49Z</timestamp>
+      <id>872132244</id>
+      <parentid>872130390</parentid>
+      <timestamp>2018-12-05T10:01:25Z</timestamp>
       <contributor>
-        <username>Meno25</username>
-        <id>1255878</id>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
       </contributor>
-      <comment>update</comment>
+      <minor/>
+      <comment>Dating maintenance tags: {{Dead link}}</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="283833">{{about|the social networking service|the type of directory|Face book}}
+      <text xml:space="preserve" bytes="283865">{{about|the social networking service|the type of directory|Face book}}
 {{pp-semi-indef}}
 {{pp-move-indef}}
 {{short description|Global online social networking service}}
@@ -171,7 +172,7 @@ Alongside other American technology figures like [[Jeff Bezos]] and [[Tim Cook]]
 
 On April 12, 2016, Zuckerberg revealed a decade-long plan for Facebook in a keynote address. His speech outlined his vision, which rested on three main pillars: artificial intelligence, increased connectivity around the world and virtual and augmented reality.&lt;ref&gt;{{Cite news|url=https://www.usatoday.com/story/tech/2016/04/12/zuckerbergs-10-year-plan-expand-facebook-empire/82936814/ |title=Zuckerberg unveils 10-year plan to expand Facebook empire, with political tones |work=USA TODAY|access-date=April 12, 2016}}&lt;/ref&gt; In June 2016 Facebook announced Deep Text, a natural language processing AI which will learn user intent and context in 20 languages.&lt;ref&gt;{{cite news |last=Pandey |first=Avaneesh |date=June 2, 2016 |title=With 'Near-Human' Level Of Language And Context Comprehension |url=http://www.ibtimes.com/facebook-unveils-deeptext-ai-near-human-level-language-context-comprehension-2377090 |newspaper=IB Times |location=|access-date=June 2, 2016}}&lt;/ref&gt;
 
-In July 2016, a {{USD|1 billion}} lawsuit was filed against the company alleging that it permitted the [[Hamas]] group to use it to perform assaults that ended the lives of four people.&lt;ref&gt;{{cite web |url=http://www.msn.com/en-us/news/world/facebook-sued-for-dollar1b-for-alleged-use-of-medium-for-terror/ar-BBucrBn?li=BBnbfcL&amp;ocid=mailsignout |title=Facebook Sued for $1B for Alleged Use of Medium for Terror |first=Gwen |last=Ackerman |publisher=Bloomberg L.P. |date=July 11, 2016 |accessdate=September 23, 2016}}&lt;/ref&gt; Facebook released the blueprints of Surround 360 camera on [[GitHub]] under [[open-source license]].&lt;ref&gt;{{cite web |first=Josh |last=Constine |title=Facebook open sources Surround 360 camera with Ikea-style instructions |url=https://techcrunch.com/2016/07/26/if-you-source-it-they-will-build/ |website=[[TechCrunch]] |publisher=[[AOL]] |date=July 26, 2016 |accessdate=March 23, 2017}}&lt;/ref&gt; In September 2016, it won an [[Primetime Emmy|Emmy]] for its Visual animated short "Henry".&lt;ref&gt;{{cite web |url=https://www.yahoo.com/tech/facebooks-oculus-wins-emmy-for-its-virtual-reality-short-173213477.html |title=Facebook wins first Emmy for Visual animated short "Henry" |last= |first= |date=September 20, 2016 |access-date=September 21, 2016}}&lt;/ref&gt;
+In July 2016, a {{USD|1 billion}} lawsuit was filed against the company alleging that it permitted the [[Hamas]] group to use it to perform assaults that ended the lives of four people.&lt;ref&gt;{{cite web |url=http://www.msn.com/en-us/news/world/facebook-sued-for-dollar1b-for-alleged-use-of-medium-for-terror/ar-BBucrBn?li=BBnbfcL&amp;ocid=mailsignout |title=Facebook Sued for $1B for Alleged Use of Medium for Terror |first=Gwen |last=Ackerman |publisher=Bloomberg L.P. |date=July 11, 2016 |accessdate=September 23, 2016}}{{dead link|date=December 2018}}&lt;/ref&gt; Facebook released the blueprints of Surround 360 camera on [[GitHub]] under [[open-source license]].&lt;ref&gt;{{cite web |first=Josh |last=Constine |title=Facebook open sources Surround 360 camera with Ikea-style instructions |url=https://techcrunch.com/2016/07/26/if-you-source-it-they-will-build/ |website=[[TechCrunch]] |publisher=[[AOL]] |date=July 26, 2016 |accessdate=March 23, 2017}}&lt;/ref&gt; In September 2016, it won an [[Primetime Emmy|Emmy]] for its Visual animated short "Henry".&lt;ref&gt;{{cite web |url=https://www.yahoo.com/tech/facebooks-oculus-wins-emmy-for-its-virtual-reality-short-173213477.html |title=Facebook wins first Emmy for Visual animated short "Henry" |last= |first= |date=September 20, 2016 |access-date=September 21, 2016}}&lt;/ref&gt;
 
 In October 2016, Facebook announced a fee-based communications tool called [[Workplace by Facebook|Workplace]] that aims to "connect everyone" while at work. Users can create profiles, see updates from co-workers on their news feed, stream live video and participate in secure group chats.&lt;ref&gt;{{cite news |last=Hu |first=Howard |url=https://www.forbes.com/sites/howardhyu/2016/10/11/facebooks-workplace-could-replace-all-emails-within-your-company/#b3f7782e81f7 |title=Facebook's Workplace Could Replace All Emails Within Your Company |work=[[Forbes]] |date=October 11, 2016 |accessdate=October 11, 2016}}&lt;/ref&gt; Facebook annually has an Oculus Connect conference.&lt;ref&gt;{{cite web |url=https://www.yahoo.com/tech/oculus-new-touch-controls-are-intriguing-but-im-still-holding-out-213339901.html |title=Facebook holds Oculus Connect Conference |last=Howley |first=Daniel |date=October 7, 2016 |access-date=October 7, 2016}}&lt;/ref&gt; Following the 2016 presidential election, Facebook announced that it would further combat the spread of fake news by using fact checkers from sites like [[FactCheck.org]] and [[Associated Press]] (AP), making reporting hoaxes easier through crowdsourcing, and disrupting financial incentives for spammers.&lt;ref&gt;{{Cite news |url=https://www.wired.com/2016/12/facebook-gets-real-fighting-fake-news/ |title=Facebook's Cracking Down on Fake News Starting Today |last=Alba |first=Davey |newspaper=[[Wired (magazine)|WIRED]] |language=en-US|access-date=December 15, 2016}}&lt;/ref&gt;
 
@@ -690,7 +691,7 @@ the Open Directory Project (dmoz.org) and link there using {{Dmoz}}.
 [[Category:Websites which mirror Wikipedia]]
 [[Category:Social planning websites]]
 [[Category:Video game streaming services]]</text>
-      <sha1>36jpqxyln3uvabzcjg4v62dyii1j7ga</sha1>
+      <sha1>d25l819zen14jfnq9vm8z8jcmy4w3j9</sha1>
     </revision>
   </page>
 </mediawiki>
