@@ -6,12 +6,12 @@ import LSIsimilarity
 import operator
 import json
 import csv
-import BloomClassify as BC
+import BloomClassify
 import pickle
 
 BFdict = {}
 LSIs = LSIsimilarity.LSIsimilarity()
-#CL = BC.BloomClassify(num = 50,baselineFolder="../Baseline/10/plaindata")
+CL = BloomClassify.BloomClassify(prct = 70, art = 50, baselineFolder="../Baseline/1000/plaindata")
 def save_Testarticle(name,savedict,cate):
     name = 'trainedObjects/'+ name +'_'+cate+'_1000_.pkl'
     with open(name, 'wb') as f:
@@ -28,9 +28,9 @@ def train_Baseline(basepath="../TestArticle/plaindata"):
     #CL.get_mfw()
     #CL.get_tfidf_1000()
     #CL.train_BL(mfw = 0, tfidf = 1)
-    #CL.load_BL()
+    CL.load_BL()
     #LSI
-    LSIs.train(basepath="../Baseline/50/plaindata",noOfTrainArticle=50)
+    #LSIs.train(basepath="../Baseline/50/plaindata",noOfTrainArticle=50)
 
 #This function is comparing testarticles with the given
 #validpath = path to testfiles
@@ -80,18 +80,17 @@ def check_article(validpath = "../Baseline/11000/plaindata"):
             #    testedarticle+=1
                 #Create result dictionary for all categories
             #check all Bloomfilters ( different Bloomfilter are stored in BFdict)
-                #valid_dict = CL.check_article(testarticle[key],50)
-                #valid_dict['title']=key
-                #BFcategoryResults.append(valid_dict)
-            test=testarticle2[key]
-            #print(type(test))
-            lsiRes=LSIs.compare(test)
-            lsiRes['title']=key
-            LSIcategoryResults.append(lsiRes)
+            valid_dict = CL.check_article(testarticle[key],50)
+            valid_dict['title']=key
+            BFcategoryResults.append(valid_dict)
+            
+            #lsiRes=LSIs.compare(testarticle2[key])
+            #lsiRes['title']=key
+            #LSIcategoryResults.append(lsiRes)
         resultsBF[cate]=BFcategoryResults.copy()
         resultsLSI[cate]=LSIcategoryResults.copy()
         #print([key for key,value in resultsBF.items()])
-    write2csv('Test_Baseline_50_1000',{'bloomfilter':resultsBF,'LSI':resultsLSI})
+    write2csv('Test_Baseline_50_70_1000',{'bloomfilter':resultsBF,'LSI':resultsLSI})
     #return {'bloomfilter':resultsBF,'LSI':resultsLSI}
 
 #This function writes the testresults to a csv file
