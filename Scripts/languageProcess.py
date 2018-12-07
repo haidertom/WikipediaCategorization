@@ -21,6 +21,9 @@ import nltk
 from collections import defaultdict
 
 class languageProcess:
+    '''
+    The class languageProcess shall be used to preprocess plain wikipedia articles to cleaned tokens
+    '''
     def __init__(self,path):
         # Set lists with character/words to exclude
         self.stop    = set(stopwords.words('english'))
@@ -38,47 +41,37 @@ class languageProcess:
             print('LanguageProcess.py: path does not exist',self.path)
 #source: https://appliedmachinelearning.blog/2017/08/28/topic-modelling-part-1-creating-article-corpus-from-simple-wikipedia-dump/
     def clean(self,doc):
-    # remove stop words & punctuation, and lemmatize words
+        ''' 
+        This function removes stop words & punctuation, lemmatize , stematize the given words.
+        Furthermore, digits and words with a lenght lower than 2 character get ignored and onyl english are considered and returned as a list of tokens
+        '''
         s_free  = " ".join([i for i in doc.lower().split() if i not in self.stop])
         p_free  = "".join(ch for ch in s_free if ch not in self.exclude)
         #exclude all non
         tokens = nltk.word_tokenize(p_free)
         tagged = nltk.pos_tag(tokens)
         nouns = [item[0] for item in tagged if item[1][0] == 'N']
-        #test = [word for word in tagged]
-        #print(test)
         lemm    = [self.lemma.lemmatize(word) for word in nouns]
         stem = [self.stem.stem(word) for word in lemm]
-        #elclude numbers
         noDigit = [word for word in stem if not any(ch.isdigit() for ch in word)]
-        # only take words which are greater than 2 characters
-        #only take english words
         onlyEng= [word for word in noDigit if word.lower() in self.words or not word.isalpha()]
-        # remove words that appear only once
-        #frequency = defaultdict(int)
-        #for token in onlyEng:
-        #    frequency[token] += 1
-
-        #moreThan1 = [token for token in onlyEng  if frequency[token] > 1]
-
         cleaned = [word for word in onlyEng if len(word) > 2]
         return cleaned
     def getWords(self):
+        '''
+        Returns list of words without sorting into articles
+        '''
         return_tokens=[]
         for d in self.data:
             text=d['text']
             text_clean=self.clean(text)
             return_tokens+=(text_clean)
         return return_tokens
-    #Kidane have added this function
-    def getWordscos_sim(self):
-        return_tokens=[]
-        for d in self.data:
-            text=d['text']
-        #+text_clean=self.clean(text)
-            #return_tokens+=text_clean
-        return text
+
     def getWordsAsDict(self):
+        '''
+        Returns dict of words with sorting into articles
+        '''
         return_tokens={}
         for d in self.data:
             text=d['text']
@@ -86,6 +79,9 @@ class languageProcess:
             return_tokens[d['title']]=text_clean
         return return_tokens
     def getHighFreqWords(self):
+        '''
+        Returns list of FreqDist objects with separation into articles
+        '''
         tokens=[]
         for d in self.data:
             text=d['text']
@@ -94,6 +90,9 @@ class languageProcess:
 
         return tokens
     def getHighFreqWordsAsDict(self):
+        '''
+        Returns dict of FreqDist objects with separation into articles key:title,value:list(tokens)
+        '''
         tokens={}
         for d in self.data:
             text=d['text']

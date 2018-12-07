@@ -13,40 +13,42 @@ BFdict = {}
 LSIs = LSIsimilarity.LSIsimilarity()
 CL = BloomClassify.BloomClassify(prct = 40, art = 1000, baselineFolder="../Baseline/1000/plaindata")
 def save_Testarticle(name,savedict,cate):
+    '''
+    saves test preprocessed testfiles
+    '''
     name = 'trainedObjects/'+ name +'_'+cate+'_1000_.pkl'
     with open(name, 'wb') as f:
         pickle.dump(savedict, f, pickle.HIGHEST_PROTOCOL)
     print("saved Traindata")
 def load_Testarticle(name,category):
+    '''
+    load test preprocessed testfiles
+    '''
     name = 'trainedObjects/'+ name +'_'+category+'_1000_.pkl'
     with open(name, 'rb') as f:
         print("loaded Traindata",name)
         return pickle.load(f)
-#This function trains both algorithms with the same baseline
-def train_Baseline(basepath="../TestArticle/plaindata"):
+def train_Baseline(basepath="../Baseline/50/plaindata"):
+    '''
+    This function trains both algorithms with the same baseline
+    '''
     #Bloomfilter
-    #CL.get_mfw()
-    #CL.get_tfidf_1000()
-    #CL.train_BL(mfw = 0, tfidf = 1)
     CL.load_BL()
     #LSI
-    #LSIs.train(basepath="../Baseline/50/plaindata",noOfTrainArticle=50)
+    LSIs.train(basepath=basepath,noOfTrainArticle=50)
 
-#This function is comparing testarticles with the given
-#validpath = path to testfiles
-def check_article(validpath = "../Baseline/11000/plaindata"):
-    #print("checking articles for test")
-    #get article which should be excluded from testarticles
-    #with open('../BigBaseline/zz_index.json') as f:
-        #data = json.load(f)
 
+def check_article(validpath = "../Baseline/11000/plaindata",savename='Test_Baseline_1000_40_1000'):
+    '''
+    This function is comparing testarticles with the given
+    validpath = path to testfiles
+    '''
     #Get all categories as list
     category = os.listdir(validpath)
-    #What is that for?
+    
     if '.DS_Store' in category:
         category.remove('.DS_Store')
 
-    #results {key=category,value=list of dicts (results of the two differnt tests)}
     resultsBF={}
     resultsLSI={}
     #iterating over the different categories
@@ -75,27 +77,23 @@ def check_article(validpath = "../Baseline/11000/plaindata"):
         BFcategoryResults=[]
         LSIcategoryResults=[]
         for key,val in testarticle.items():
-            #get exclude file per category
-            #if key not in data['Category:'+cate.split('_')[0]]:
-            #    testedarticle+=1
-                #Create result dictionary for all categories
-            #check all Bloomfilters ( different Bloomfilter are stored in BFdict)
+            #check similarity to Bloomfilter
             valid_dict = CL.check_article(testarticle[key],50)
             valid_dict['title']=key
             BFcategoryResults.append(valid_dict)
-            
-            #lsiRes=LSIs.compare(testarticle2[key])
-            #lsiRes['title']=key
-            #LSIcategoryResults.append(lsiRes)
+            #check similarity to LSI vectors
+            lsiRes=LSIs.compare(testarticle2[key])
+            lsiRes['title']=key
+            LSIcategoryResults.append(lsiRes)
         resultsBF[cate]=BFcategoryResults.copy()
         resultsLSI[cate]=LSIcategoryResults.copy()
-        #print([key for key,value in resultsBF.items()])
-    write2csv('Test_Baseline_1000_40_1000',{'bloomfilter':resultsBF,'LSI':resultsLSI})
-    #return {'bloomfilter':resultsBF,'LSI':resultsLSI}
+    write2csv(savename,{'bloomfilter':resultsBF,'LSI':resultsLSI})
 
 #This function writes the testresults to a csv file
 def write2csv(baseline,nestedFile):
-
+    '''
+    Writes test result into csv file
+    '''
 
     with open('../TestResults/'+baseline+'.csv','w',newline="") as f:
         writer = csv.writer(f,delimiter = ',')

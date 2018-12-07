@@ -7,8 +7,13 @@ import pickle
 from baseline import Baseline
 
 import os
-
 class BloomClassify:
+	'''
+	This class trains a dictionary of bloomfilter with the purpose of similarity measurement.
+	Each bloomfilter gets trained with a defined number of words and represents one top level category
+	Similiarity is measuered by the number of words that the tested article has in comon with the trained bloomfilter
+	'''
+
 	def __init__(self, prct = 50, art = 50, baselineFolder="../Baseline/1000/plaindata"):
 
 		#Inital values

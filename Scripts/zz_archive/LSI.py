@@ -1,7 +1,7 @@
 import nltk
 import json
-import pyLDAvis
-import pyLDAvis.gensim
+#import pyLDAvis
+#import pyLDAvis.gensim
 from pprint import pprint
 from nltk.corpus import stopwords
 from gensim import corpora, models, similarities

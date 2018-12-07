@@ -11,8 +11,12 @@ class LSIsimilarity:
         self.articles=[]
         self.num_topics=0
         self.savepath='trainedObjects/LSImodels/'
-    #This function trains the model
+    
     def train(self,basepath='../Baseline/50/plaindata',noOfTrainArticle=5000):
+        '''
+        Training of the LSI vectors
+        If trained dictionaries,corpus,index already exist load them, otherwise create new.
+        '''
         self.categories=os.listdir(basepath)
         if '.DS_Store' in self.categories:
             self.categories.remove('.DS_Store')
@@ -34,9 +38,8 @@ class LSIsimilarity:
                     #print(cat,'article folder',no)
                     filepath = basepath+"/"+cat+"/"+cat+"_50_"+str(no)+"/AA/wiki_00"
                     cat_articles += lp.languageProcess(filepath).getWords()
-
-            #if os.path.exists(filepath):               #Save all base articles in an array of arrays
                 self.articles.append(cat_articles)
+            
             self.dictionary = corpora.Dictionary(self.articles)
             self.dictionary.save(self.savepath+"dict"+str(noOfTrainArticle)+".dict")
             self.corpus = [self.dictionary.doc2bow(text) for text in self.articles]
@@ -50,13 +53,15 @@ class LSIsimilarity:
         self.tfidf = models.TfidfModel(self.corpus)
         self.corpus_tfidf = self.tfidf[self.corpus]
         self.lsi = models.LsiModel(self.corpus_tfidf, id2word=self.dictionary, num_topics=self.num_topics)
+    
     def optimize(self, sim):
         if(sim<0):
             sim*=-1
-        return sim
-#This function compare a single document with the trained model
+        return sim    
     def compare(self, query):
-        #Vectorize your query doc with ur dictionary
+        '''
+        Compares a given list of words (query) with the trained model
+        '''
         self.query_path=self.dictionary.doc2bow(query)
         vec_lsi = self.lsi[self.query_path]
 
