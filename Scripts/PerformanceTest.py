@@ -16,7 +16,7 @@ def save_Testarticle(name,savedict,cate):
     '''
     saves test preprocessed testfiles
     '''
-    name = 'trainedObjects/'+ name +'_'+cate+'_1000_.pkl'
+    name = 'testObjects/'+ name +'_'+cate+'_1000_.pkl'
     with open(name, 'wb') as f:
         pickle.dump(savedict, f, pickle.HIGHEST_PROTOCOL)
     print("saved Traindata")
@@ -24,7 +24,7 @@ def load_Testarticle(name,category):
     '''
     load test preprocessed testfiles
     '''
-    name = 'trainedObjects/'+ name +'_'+category+'_1000_.pkl'
+    name = 'testObjects/'+ name +'_'+category+'_1000_.pkl'
     with open(name, 'rb') as f:
         print("loaded Traindata",name)
         return pickle.load(f)
@@ -54,7 +54,7 @@ def check_article(validpath = "../Baseline/11000/plaindata",savename='Test_Basel
     #iterating over the different categories
     for cate in category:
         print("Testing category: "+cate)
-        if os.path.exists('trainedObjects/TestarticleBloom_'+cate+'_1000_.pkl'):
+        if os.path.exists('testObjects/TestarticleBloom_'+cate+'_1000_.pkl'):
              testarticle = load_Testarticle('TestarticleBloom',str(cate))
              testarticle2=  load_Testarticle('TestarticleLsi',str(cate))
         else:
