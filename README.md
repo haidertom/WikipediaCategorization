@@ -42,10 +42,7 @@ Callable via the Class *BloomFilter*.
 
 - **languageProcess.py:** Preprocessing of obtained articles in the basline. Used to remove stop words and punctuation, lemmatize words /stigmatize words and get Frequency distributions of every word in an article.
 
-- **LSI.py:**
-
-
-- **LSIsimilarity.py:**
+- **LSIsimilarity.py:** Implementation of LSA, containing functions train and compare, the train function trains a model and then save it along with other usefull components namely dictionary, corpus, and index, amd the compare function uses these resources to compute the similarity.   
 
 
 - **PerformanceTest.py:** All functions used for testing of our results. Similarity Calculation and  Visualization in Grpahs.
