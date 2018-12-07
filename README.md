@@ -19,7 +19,9 @@ The idea behind using a Bloom filter is, that we assume that all articles in a c
 ## Usage 
 
 ### Requirements
-Make sure you installed all packages given in the requirements.txt
+Make sure you installed all packages given in the requirements.txt and download the following packages to your python environment:
+- nltk.download('words')
+- nltk.download('punkt')
 
 ### Showcase
 A fast visulization of our results is given in the jupyter notebook *Showcase.ipynb*.  Run all cells and when promted, type in an article from the english Wikipedia you wish to categorize, e.g. *Football*. If the article exists, the article is downloaded in the background (you need an Internet connection for this).  For each of the Wikipida main topic classifcations, the probability that the article belongs to that category is then calculated and shown in a graph. 
@@ -51,3 +53,8 @@ Runnable as Script.
 - **tfidf.py:** Implementation of the TF-IDF measurement calcualtion. 
 Callable via the Class *TfIdf*.
 
+- **ResultAnalysis_BF:** Used to analyze Test results of the bloomfilter
+
+- **ResultAnalysis_LSI:** Used to analyze Test results of the LSI
+
+- **ResultAnalysis_LSI_BF:** Used to analyze Test results of the bloomfilter
