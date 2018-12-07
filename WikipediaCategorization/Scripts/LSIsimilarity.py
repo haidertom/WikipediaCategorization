@@ -87,5 +87,4 @@ class LSIsimilarity:
         '''
         name = 'trainedObjects/LSImodels/categories.pkl'
         with open(name, 'rb') as f:
-            print("loaded Traindata",name)
-        return pickle.load(f)
+            return pickle.load(f)
