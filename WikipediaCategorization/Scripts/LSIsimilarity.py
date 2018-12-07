@@ -3,7 +3,7 @@ import numpy as np
 import languageProcess as lp
 from gensim import corpora,similarities,models
 from gensim.models import LsiModel
-
+import pickle
 
 
 class LSIsimilarity:
@@ -17,9 +17,13 @@ class LSIsimilarity:
         Training of the LSI vectors
         If trained dictionaries,corpus,index already exist load them, otherwise create new.
         '''
-        self.categories=os.listdir(basepath)
-        if '.DS_Store' in self.categories:
-            self.categories.remove('.DS_Store')
+        if os.path.exists('trainedObjects/LSImodels/categories.pkl'):
+            self.categories=self.load_categories()
+        else:
+            self.categories=os.listdir(basepath)
+            if '.DS_Store' in self.categories:
+                self.categories.remove('.DS_Store')
+            self.save_categories(self.categories)
         self.num_topics = sum([1 for cat in self.categories])
                 #Check if the dictionary/corpus/index is already created if so load it donot create a new one
         if (os.path.exists(self.savepath+"dict"+str(noOfTrainArticle)+".dict")):
@@ -69,3 +73,19 @@ class LSIsimilarity:
         sims = self.index[vec_lsi]
         sims=list(enumerate(sims))
         return  { self.categories[i]:self.optimize(sims[i][1]) for i in range(self.num_topics)}
+    def save_categories(self,cate):
+        '''
+        saves categories
+        '''
+        name = 'trainedObjects/LSImodels/categories.pkl'
+        with open(name, 'wb') as f:
+            pickle.dump(cate, f, pickle.HIGHEST_PROTOCOL)
+    
+    def load_categories(self):
+        '''
+        load categories
+        '''
+        name = 'trainedObjects/LSImodels/categories.pkl'
+        with open(name, 'rb') as f:
+            print("loaded Traindata",name)
+        return pickle.load(f)

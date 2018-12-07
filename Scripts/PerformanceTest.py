@@ -38,7 +38,7 @@ def train_Baseline(basepath="../Baseline/50/plaindata"):
     LSIs.train(basepath=basepath,noOfTrainArticle=50)
 
 
-def check_article(validpath = "../Baseline/11000/plaindata",savename='Test_Baseline_1000_40_1000'):
+def check_article(validpath = "../Baseline/11000/plaindata",savename='Test_X'):
     '''
     This function is comparing testarticles with the given
     validpath = path to testfiles
@@ -119,7 +119,7 @@ def write2csv(baseline,nestedFile):
                     writer.writerow(line)
 #main function to compute the tests for a specific Baseline
 def main():
-    train_Baseline(basepath="../BigBaseline/plaindata/")
+    train_Baseline()
     check_article()
 
 if __name__== "__main__":
