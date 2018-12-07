@@ -15,7 +15,7 @@ class Baseline:
 		self.URL = "https://en.wikipedia.org/w/api.php"
 		self.index = {}
 
-		#Data structure
+		#Folder structure
 		self.basepath = "../"+ folder
 		self.datapath = self.basepath +"/"+str(baseline_number)
 		self.rawpath = self.datapath + "/rawdata"
@@ -71,9 +71,7 @@ class Baseline:
 		'''
 		gets text from article in titles, all titles in the same category
 		'''
-		#DATA = []
 
-		#for t in titles:
 		PARAMS = {
 			'action': 'query',
 			'prop':'revisions',
@@ -85,9 +83,6 @@ class Baseline:
 			}
 		S = requests.Session()
 		return S.get(url=self.URL, params=PARAMS).text
-			#DATA.append(R.text)
-
-		#return DATA
 
 	def write_rawdata(self, titles, category):
 		'''
@@ -139,7 +134,6 @@ class Baseline:
 		# loop over all main categories
 		for cat in main_categories:
 			print("looking for titles in category: {} ".format(cat))
-
 			self.index[cat] = []
 
 			for title in self.get_titles(cat):
@@ -148,63 +142,53 @@ class Baseline:
 
 			#get subcategories of a main category
 			subcategories = self.get_subcategories(cat)
-
 			# loop over subcategories of a main category
 			for subcat in subcategories:
-
 				for title2 in self.get_titles(subcat):
 					if not any(title2 in e for e in self.index.values()): #check for duplicates
 						self.index[cat].append(title2)
 
-
-				# loop further to get more articles
-				subsubcategories = self.get_subcategories(subcat)
-
-				for subsubcat in subsubcategories:
-
-					for title3 in self.get_titles(subsubcat):
-						if not any(title3 in e for e in self.index.values()): #check for duplicates
-							self.index[cat].append(title3)
-
-					if len(self.index[cat])<self.baseline_number:
-						# loop further to get more articles
-						subsubsubcategories = self.get_subcategories(subsubcat)
-
-						for subsubsubcat in subsubsubcategories:
-
-							for title4 in self.get_titles(subsubsubcat):
-								if not any(title4 in e for e in self.index.values()): #check for duplicates
-									self.index[cat].append(title4)
+				if len(self.index[cat])<self.baseline_number:
+					# loop further to get more articles
+					subsubcategories = self.get_subcategories(subcat)
+					for subsubcat in subsubcategories:
+						for title3 in self.get_titles(subsubcat):
+							if not any(title3 in e for e in self.index.values()): #check for duplicates
+								self.index[cat].append(title3)
 
 						if len(self.index[cat])<self.baseline_number:
-						# loop further to get more articles
-							subsubsubsubcategories = self.get_subcategories(subsubsubcat)
+							# loop further to get more articles
+							subsubsubcategories = self.get_subcategories(subsubcat)
+							for subsubsubcat in subsubsubcategories:
+								for title4 in self.get_titles(subsubsubcat):
+									if not any(title4 in e for e in self.index.values()): #check for duplicates
+										self.index[cat].append(title4)
 
-							for subsubsubsubcat in subsubsubsubcategories:
+							if len(self.index[cat])<self.baseline_number:
+							# loop further to get more articles
+								subsubsubsubcategories = self.get_subcategories(subsubsubcat)
+								for subsubsubsubcat in subsubsubsubcategories:
+									for title5 in self.get_titles(subsubsubsubcat):
+										if not any(title5 in e for e in self.index.values()): #check for duplicates
+											self.index[cat].append(title5)
 
-								for title5 in self.get_titles(subsubsubsubcat):
-									if not any(title5 in e for e in self.index.values()): #check for duplicates
-										self.index[cat].append(title5)
-
-
-			#pick random articles
 			print("found {} titles in category: {} ".format(len(self.index[cat]), cat))
 
+			#pick random articles, no title twice
 			self.index[cat] = [self.index[cat][i] for i in random.sample(range(0, len(self.index[cat])-1), self.baseline_number)]
 
 			print(len(self.index[cat]))
 			print("added {} unique titles to category: {} ".format(len(set(self.index[cat])), cat))
+
 			#write articles in file
-			self.write_rawdata((self.index[cat]) , cat)
+			self.write_rawdata((self.index[cat]),cat)
+			#bookkeeping
 			self.write_index(self.index[cat],cat)
-		#indexing all categories and titles for later use
-		#self.write_index(self.index)
 
 	def convert_plain(self):
 		'''
 		Use WikiExtractor to get clear Text
 		'''
-
 		for file in os.listdir(self.rawpath):
 			cat = file.split("_")[0]
 
@@ -216,9 +200,10 @@ def main():
 	# root category your are looking for - default:"Category:Main topic classifications"
 	origin_category = "Category:Main topic classifications"
 
-	# number of articles you want from each category
+	# number of articles you want from each category -
 	baseline_number = 11000
 
+	#Folder to write files
 	folder = "Baseline"
 
 	BL = Baseline(origin_category, baseline_number, folder)

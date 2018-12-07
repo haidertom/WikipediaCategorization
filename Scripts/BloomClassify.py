@@ -9,29 +9,27 @@ from baseline import Baseline
 import os
 
 class BloomClassify:
-	def __init__(self, prct = 50, art = 50, baselineFolder="../Baseline/50/plaindata"):
+	def __init__(self, prct = 50, art = 50, baselineFolder="../Baseline/1000/plaindata"):
 
+		#Inital values
 		self.num = 50 	#number of most frequent words
+		self.art = art #number of articles
+		self.prct = prct #percentage of highest tfidf values used for training
+		self.min = 2**64
 
-		self.art = art # number of articles
-
-		self.prct = prct
-
+		#Folder structure
 		self.basepath = baselineFolder
 
+		#dictionaries
 		self.BFdict = {}
-
 		self.MFWdict = {}
-
 		self.AWdict = {}
-
 		self.TFIDFdict = {}
 
-		self.min = 2**64
 
 	def get_mfw(self):
 		'''
-		iterate over given Baseline folder and get most frequent words for every article in every category
+		iterate over given Baseline folder and get most frequent words for every article in every category, saved to TFIDFdict
 		'''
 
 		categories = os.listdir(self.basepath)
@@ -39,26 +37,28 @@ class BloomClassify:
 			categories.remove('.DS_Store')
 
 		for cat in categories:
-
-			filepath = self.basepath+"/"+cat+"/AA/wiki_00"
-
-			articles = lp.languageProcess(filepath).getHighFreqWords()
-
 			self.MFWdict[cat] = []
 
-			for art in articles:
-				for word in art.most_common(
+			for subfolder in os.listdir(self.basepath+"/"+cat):
 
-				):
-					self.MFWdict[cat].append(word[0])
+				filepath = self.basepath+"/"+cat+"/"+subfolder+"/AA/wiki_00"
+
+				print(filepath)
+
+				articles = lp.languageProcess(filepath).getHighFreqWords()
+
+				for art in articles:
+					for word in art.most_common():
+						self.MFWdict[cat].append(word[0])
+
+			print("fetched {} most common words for {}".format(len(self.MFWdict[cat]), cat))
 
 		return
 
 	def get_tfidf(self):
 		'''
-		Calculates the tfidf for all words and sorts them in a list
+		Iterate over given Baseline folder, Calculates the tfidf for all words and sorts them in the dictionary 'TFIDFdict'
 		'''
-
 		categories = os.listdir(self.basepath)
 		if '.DS_Store' in categories:
 			categories.remove('.DS_Store')
@@ -70,6 +70,7 @@ class BloomClassify:
 
 				filepath = self.basepath+"/"+cat+"/"+subfolder+"/AA/wiki_00"
 
+				#get frquency distribution of words in articles
 				articles = lp.languageProcess(filepath).getHighFreqWords()
 
 				for art in articles:
@@ -80,6 +81,11 @@ class BloomClassify:
 
 			# get the lenth of the smallest bag of words
 			self.min = min(self.min, len(set(self.AWdict[cat])))
+			print(len(self.AWdict[cat]))
+			print(self.min)
+
+		# truncate list to most important tfidf values
+		trunc = int(self.min*(self.prct/100))
 
 		TFIDF = TfIdf()
 
@@ -101,14 +107,13 @@ class BloomClassify:
 				# number of documents the word occured in
 				no_of_doc_it_appeard_in = sum(1 for c in self.AWdict.keys() if word in self.AWdict[c])
 
+				#Calculations
 				tf = TFIDF.tf(no_of_occurences,total_length)
 				idf = TFIDF.idf(total_num_of_doc,no_of_doc_it_appeard_in)
 				tfidf = tf * idf
 
 				self.TFIDFdict[cat][word] = tfidf
 
-			# truncate list to most important tfidf values
-			trunc = int(self.min*(self.prct/100))
 			# transfer to sorted list
 			self.TFIDFdict[cat] = sorted(self.TFIDFdict[cat], key=self.TFIDFdict[cat].__getitem__, reverse=True)[:trunc]
 			print("added {} words to {}".format(len(self.TFIDFdict[cat]), cat))
@@ -116,9 +121,8 @@ class BloomClassify:
 
 	def train_BL(self, mfw = 0, tfidf = 1):
 		'''
-		Takes a dictionary, creates a Bloomfilter for every key and trains this BL for all values in this key
+		Takes a dictionary, creates a Bloomfilter for every key and trains this BF for all values for this key
 		'''
-
 		# train with MFW
 		if mfw:
 			TrainDict = self.MFWdict
@@ -135,76 +139,28 @@ class BloomClassify:
 				self.BFdict[cat].train(word)
 		pass
 
-	def get_tfidf_1000(self):
-		'''
-		Calculates the tfidf for all words and sorts them in a list
-		'''
-		categories = os.listdir(self.basepath)
-		if '.DS_Store' in categories:
-			categories.remove('.DS_Store')
-
-		for cat in categories:
-			self.AWdict[cat] = []
-
-			path = self.basepath+"/"+cat
-			dir_no=sum(os.path.isdir(path+"/"+i) for i in os.listdir(path))
-
-			for no in range(dir_no):
-				filepath = self.basepath+"/"+cat+"/"+cat+"_1000_"+str(no)+"/AA/wiki_00"
-				print(filepath)
-				articles = lp.languageProcess(filepath).getHighFreqWords()
-
-				for art in articles:
-					for word in art.most_common(self.num):
-						self.AWdict[cat].append(word[0])
-
-			print("fetched {} most common words for {}".format(len(self.AWdict[cat]), cat))
-
-		TFIDF = TfIdf()
-
-		# number of categories - should be 27
-		total_num_of_doc = len(self.AWdict.keys())
-
-		for cat in self.AWdict.keys():
-
-			self.TFIDFdict[cat] = {}
-
-			#length of the document
-			total_length =  len(self.AWdict[cat])
-
-			for word in self.AWdict[cat]:
-
-				# number of times the word occured in the document
-				no_of_occurences = self.AWdict[cat].count(word)
-
-				# number of documents the word occured in
-				no_of_doc_it_appeard_in = sum(1 for c in self.AWdict.keys() if word in self.AWdict[c])
-
-				tf = TFIDF.tf(no_of_occurences,total_length)
-				idf = TFIDF.idf(total_num_of_doc,no_of_doc_it_appeard_in)
-				tfidf = tf * idf
-
-				self.TFIDFdict[cat][word] = tfidf
-
-			# transfer to sorted list
-			self.TFIDFdict[cat] = sorted(self.TFIDFdict[cat], key=self.TFIDFdict[cat].__getitem__, reverse=True)[:int(self.min*0.3)]
-			print("added {} words to {}".format(len(self.TFIDFdict[cat]), cat))
-		pass
-
 	def save_BL(self):
+		'''
+		Saves a trained BloomFilter as binary file
+		'''
 		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.art)+'_'+str(self.prct)+'p'+'.pkl'
 		with open(name, 'wb') as f:
 			pickle.dump(self.BFdict, f, pickle.HIGHEST_PROTOCOL)
 		print("saved Traindata")
 
 	def load_BL(self):
+		'''
+		Loads a trained BloomFilter as binary file
+		'''
 		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.art)+'_'+str(self.prct)+'p'+'.pkl'
 		with open(name, 'rb') as f:
 			self.BFdict = pickle.load(f)
 		print("loaded Traindata")
 
 	def check_article(self, article,numOfCheckWords):
-
+		'''
+		Check the Category of a given article
+		'''
 		vali_dict = {}
 
 		#check all Bloomfilters
@@ -219,7 +175,9 @@ class BloomClassify:
 		return vali_dict
 
 	def check_single_article(self, title, baseline_number = 20, category="Category:Unkown", numOfCheckWords = 20):
-
+		'''
+		Check the Category of a single article, the article is downladed via the wikipedia api on demand
+		'''
 		# check if Validationfolder exists
 		if not os.path.exists("../Validation"): os.mkdir("../Validation")
 
@@ -240,22 +198,26 @@ class BloomClassify:
 		filepath = "../Validation/"+title.replace(' ','')+"/AA/wiki_00"
 		testarticle = lp.languageProcess(filepath).getHighFreqWords()
 
+		#Check if article with that name exists
+		assert (len(bfarticle)>= 1),"No article with that name"
+
 		vali_dict = {}
 
 		#check all Bloomfilters
 		for cat in self.BFdict.keys():
-
 			vali_dict[cat] = sum([1 for word in testarticle[0].most_common(numOfCheckWords) if self.BFdict[cat].classify(word[0])])/numOfCheckWords
 
 		return vali_dict
 
 	def similarity_matrix(self, mfw = 0, tfidf = 1):
-
-		# train with MFW
+		'''
+		Creates a similarity matrix for a trained model
+		'''
+		# trained with MFW
 		if mfw:
 			TrainDict = self.MFWdict
 
-		# train with tfidf
+		# trained with tfidf
 		if tfidf:
 			TrainDict = self.TFIDFdict
 
@@ -265,7 +227,7 @@ class BloomClassify:
 
 			writer = csv.writer(the_file,delimiter = ',')
 
-			description = ["percentage of most frequent words:", self.num, "number of articles per category:", self.art]
+			description = ["percentage of tfidf values:", self.prct, "number of articles per category:", self.art]
 			writer.writerow(description)
 
 			header = [" "]
@@ -283,18 +245,18 @@ class BloomClassify:
 				writer.writerow(row)
 		pass
 
-
 def main():
 
-	CL = BloomClassify(prct = 40, art = 1000, baselineFolder="../Baseline/1000/plaindata")
+	CL = BloomClassify(prct = 40, art = 1000)
 
 	#CL.get_tfidf()
 	#CL.train_BL(mfw = 0, tfidf = 1)
 	#CL.save_BL()
+
 	CL.load_BL()
 	#CL.similarity_matrix(mfw = 0, tfidf = 1)
 
-	title = "China"
+	title = "Football"
 	print(title)
 
 	vali_dict = CL.check_single_article(title=title, numOfCheckWords = 50)
