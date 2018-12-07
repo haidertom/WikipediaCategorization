@@ -29,21 +29,25 @@ A fast visulization of our results is given in the jupyter notebook *Showcase.ip
 To see how our approach works in detail, we briefly describe the function of every script.
 
 - basline.py
+
 Downloads  a basline of *baseline_number* articles for every subcategory in a parentcategory. Uses the  WikiExtractor tool to clear each text from formatting. To see how the process works, use a short number of articles in every category (e.g. 20). 
 Runnable as a Script or callable via the Class *Baseline*
 
 - BloomClassify.py
+
 All Functions needed for the Bloom Filter approach, captured in the Class *BloomClassify*.
 Used to train, save and load a Bloom Filter model and to calculate the Similiarity Matrix of a Basline.
 Please refer to the function description for more detail.
 Runnable as a Script or callable via the Class *Baseline*
 
 - BloomFilter.py
+
 Implementation of a Bloom Filter. Used to Create a BloomFilter, train it with values and classify values.
 Callable via the Class *BloomFilter*.
 
 
 - languageProcess.py
+
 Preprocessing of obtained articles in the basline. Used to remove stop words and punctuation, lemmatize words /stigmatize words and get Frequency distributions of every word in an article.
 
 - LSI.py
@@ -53,10 +57,12 @@ Preprocessing of obtained articles in the basline. Used to remove stop words and
 
 
 - PerformanceTest.py
+
 All functions used for testing of our results. Similarity Calculation and  Visualization in Grpahs.
 Runnable as Script.
 
 - tfidf.py
+
 Implementation of the TF-IDF measurement calcualtion. 
 Callable via the Class *TfIdf*.
 
