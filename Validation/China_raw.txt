@@ -45,18 +45,17 @@
     <ns>0</ns>
     <id>5405</id>
     <revision>
-      <id>871894347</id>
-      <parentid>871794284</parentid>
-      <timestamp>2018-12-04T02:34:28Z</timestamp>
+      <id>872375910</id>
+      <parentid>872321043</parentid>
+      <timestamp>2018-12-06T22:57:18Z</timestamp>
       <contributor>
-        <username>StAnselm</username>
-        <id>4007668</id>
+        <username>Oliszydlowski</username>
+        <id>19158033</id>
       </contributor>
-      <minor/>
-      <comment>Disambiguated: [[Go]] → [[Go (game)]]</comment>
+      <comment>/* Republic of China (1912–1949) */ overflow</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="284206">{{about|the People's Republic of China|the Republic of China|Taiwan|other uses}}
+      <text xml:space="preserve" bytes="284284">{{about|the People's Republic of China|the Republic of China|Taiwan|other uses}}
 {{redirect|PRC||PRC (disambiguation)}}
 {{pp-semi-protected|small=yes}}
 {{pp-move-indef}}
@@ -164,7 +163,7 @@
 | time_zone = [[China Standard Time]]
 | utc_offset = [[UTC+8|+8]]
 | date_format = {{vunblist |yyyy-mm-dd |''or'' yyyy{{lang|zh|年}}m{{lang|zh|月}}d{{lang|zh|日}} |([[Common Era|CE]]; [[Chinese calendar|CE-1949]])}}
-| drives_on = right{{efn|Except [[Hong Kong]] and [[Macau]].}}
+| drives_on = right{{efn|Roads and metros drive on the right in mainland China except [[Hong Kong]] and [[Macau]] which are generally left-hand traffic excluding several parts of rail lines. However, the majority of the country's rails drive on the left. }}
 | calling_code = [[+86]]
 | cctld = {{vunblist| [[.cn]] |[[.中國]] |[[.中国]]}}
 }}	
@@ -308,7 +307,6 @@ In the 19th century, the great [[Chinese emigration|Chinese diaspora]] began. Lo
 
 ===Republic of China (1912–1949)===
 {{main|Republic of China (1912–1949)}}
-[[File:Republic of China proclaimtion.png|250px|thumb|Sun Yat-sen proclaiming the establishment of the ROC in 1912]]
 On 1 January 1912, the Republic of China was established, and [[Sun Yat-sen]] of the [[Kuomintang]] (the KMT or Nationalist Party) was proclaimed provisional president.&lt;ref&gt;Eileen Tamura (1997). ''China: Understanding Its Past.'' Volume 1. University of Hawaii Press. {{ISBN|0-8248-1923-3}}. p.146.&lt;/ref&gt; However, the presidency was later given to [[Yuan Shikai]], a former Qing general who in 1915 proclaimed himself [[Empire of China (1915–1916)|Emperor of China]]. In the face of popular condemnation and opposition from his own [[Beiyang Army]], he was forced to abdicate and re-establish the republic.&lt;ref&gt;[[Stephen G. Haw|Stephen Haw]], (2006). Beijing: A Concise History. Taylor &amp; Francis, {{ISBN|0-415-39906-8}}. p.143.&lt;/ref&gt;
 [[File:Chinese republic forever.jpg|thumb|left|alt=A drawing depicting two lions looking up in front of two flags. The flag on the left is red and blue with a white sun; while the one on the right is made of five vertical stripes (black, white, blue, yellow and red). Two circular pictures of two Chinese men stand in front of each flag.|Yuan Shikai (''left'') and Sun Yat-sen (''right'') with flags representing the early republic.]]
 After Yuan Shikai's death in 1916, China was politically fragmented. Its Beijing-based government was internationally recognized but virtually powerless; regional warlords controlled most of its territory.&lt;ref&gt;Bruce Elleman (2001). ''Modern Chinese Warfare''. Routledge. {{ISBN|0-415-21474-2}}. p.149.&lt;/ref&gt;&lt;ref&gt;Graham Hutchings (2003). ''Modern China: A Guide to a Century of Change''. Harvard University Press. {{ISBN|0-674-01240-2}}. p.459.&lt;/ref&gt; In the late 1920s, the Kuomintang, under [[Chiang Kai-shek]], the then Principal of the [[Republic of China Military Academy]], was able to reunify the country under its own control with a series of deft military and political maneuverings, known collectively as the [[Northern Expedition]].&lt;ref&gt;Peter Zarrow (2005). ''China in War and Revolution, 1895–1949''. Routledge. {{ISBN|0-415-36447-7}}. p.230.&lt;/ref&gt;&lt;ref&gt;M. Leutner (2002). ''The Chinese Revolution in the 1920s: Between Triumph and Disaster''. Routledge. {{ISBN|0-7007-1690-4}}. p.129.&lt;/ref&gt; The Kuomintang moved the nation's capital to [[Nanjing]] and implemented "political tutelage", an intermediate stage of political development outlined in Sun Yat-sen's [[San-min Doctrine|San-min]] program for transforming China into a modern democratic state.&lt;ref&gt;Hung-Mao Tien (1972). ''Government and Politics in Kuomintang China, 1927–1937 (Volume 53)''. Stanford University Press. {{ISBN|0-8047-0812-6}}. pp.&amp;nbsp;60–72.&lt;/ref&gt;&lt;ref&gt;Suisheng Zhao (2000). ''China and Democracy: Reconsidering the Prospects for a Democratic China''. Routledge. {{ISBN|0-415-92694-7}}. p.43.&lt;/ref&gt; The [[List of warlords and military cliques in the Warlord Era|political division]] in China made it difficult for Chiang to battle the [[Chinese Communists|Communist]], [[People's Liberation Army]] (PLA) against whom the Kuomintang had been warring since 1927 in the [[Chinese Civil War]]. This war continued successfully for the Kuomintang, especially after the PLA retreated in the [[Long March]], until Japanese aggression and the 1936 [[Xi'an Incident]] forced Chiang to confront [[Imperial Japan]].&lt;ref&gt;David Ernest Apter, Tony Saich (1994). ''Revolutionary Discourse in Mao's Republic''. Harvard University Press. {{ISBN|0-674-76780-2}}. p.198.&lt;/ref&gt;
@@ -881,7 +879,7 @@ the Open Directory Project (dmoz.org) and link there using {{Dmoz}}.
 [[Category:G20 nations]]
 [[Category:Member states of the United Nations]]
 [[Category:Northeast Asian countries]]</text>
-      <sha1>t2ifm1kya6iywqcw51f55n2xr2kb26j</sha1>
+      <sha1>gq6jw34ps6g8ouht6qy98yepm85e4bm</sha1>
     </revision>
   </page>
 </mediawiki>

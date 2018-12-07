@@ -200,17 +200,15 @@ def main():
 	# root category your are looking for - default:"Category:Main topic classifications"
 	origin_category = "Category:Main topic classifications"
 
-	# number of articles you want from each category -
-	baseline_number = 11000
+	# number of articles you want from each category - 11000
+	baseline_number = 20
 
 	#Folder to write files
 	folder = "Baseline"
 
 	BL = Baseline(origin_category, baseline_number, folder)
-
 	BL.get_rawdata()
 	BL.convert_plain()
-
 
 if __name__== "__main__":
   main()

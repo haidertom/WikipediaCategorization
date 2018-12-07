@@ -1,10 +1,3 @@
-# Bloom filter
-
-# feed the bloom filter with top 50 words of 10 baseline articles
-#
-# then take top 50 words of new article -> check if exits
-# -> percentage of existance of all words
-
 import math
 import mmh3
 

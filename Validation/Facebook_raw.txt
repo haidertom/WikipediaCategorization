@@ -45,18 +45,17 @@
     <ns>0</ns>
     <id>7529378</id>
     <revision>
-      <id>872132244</id>
-      <parentid>872130390</parentid>
-      <timestamp>2018-12-05T10:01:25Z</timestamp>
+      <id>872425582</id>
+      <parentid>872132244</parentid>
+      <timestamp>2018-12-07T05:25:51Z</timestamp>
       <contributor>
-        <username>AnomieBOT</username>
-        <id>7611264</id>
+        <username>BrandonXLF</username>
+        <id>22804074</id>
       </contributor>
-      <minor/>
-      <comment>Dating maintenance tags: {{Dead link}}</comment>
+      <comment>/* See also */ Added Facebook portal</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="283865">{{about|the social networking service|the type of directory|Face book}}
+      <text xml:space="preserve" bytes="283874">{{about|the social networking service|the type of directory|Face book}}
 {{pp-semi-indef}}
 {{pp-move-indef}}
 {{short description|Global online social networking service}}
@@ -588,7 +587,7 @@ On May 1, 2018, Facebook announced its plans to launch a new [[dating service]].
 * In July 2014, after [[Shakira]] became the first celebrity to cross over 100 million likes, Mark Zuckerberg posted a congratulatory message on the artist's wall.&lt;ref&gt;{{cite web |title=Mark Zuckerberg Congratulates Shakira, Singer Attains "Most Liked Page on Facebook" |url=http://onobello.com/mark-zuckerberg-founder-facebook-congratulates-shakira-singer-attains-liked-page-facebook/#sthash.IIXwUXkU.dpbs |work=OnoBello.com |date=July 22, 2014 |accessdate=August 13, 2014}}&lt;/ref&gt; [[Cristiano Ronaldo]] is the second to reach 100 million likes, ahead of [[Rihanna]] and [[Eminem]], who had 98 million and 89 million likes respectively.&lt;ref&gt;{{cite web |title=Shakira reaches 100 million 'likes': Do Facebook fans and Twitter followers matter? |url=http://metro.co.uk/2014/07/25/shakira-reaches-100-million-likes-do-facebook-fans-and-twitter-followers-matter-4806640/ |work=[[Metro (British newspaper)|Metro UK]] |date=July 25, 2014 |accessdate=August 13, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Shakira is Facebook's most popular celebrity with 100million likes – enough to fill 1,359 Maracana stadiums |url=https://www.independent.co.uk/news/people/shakira-is-facebooks-most-popular-celebrity-with-100million-likes--enough-to-fill-1359-maracana-stadiums-9618568.html |author=Ella Alexander |work=[[Independent (newspaper)|Independent UK]] |date=July 21, 2014 |accessdate=August 13, 2014 |location=London}}&lt;/ref&gt; On March 15, 2015, Cristiano Ronaldo surpassed Shakira to become the most liked person on Facebook.&lt;ref&gt;{{cite news |title=Sorry, Shakira, Cristiano Ronaldo is the most liked person on Facebook |url=https://www.washingtonpost.com/news/early-lead/wp/2015/03/16/sorry-shakira-cristiano-ronaldo-is-the-most-liked-person-on-facebook/}}&lt;/ref&gt;
 
 ==See also==
-{{Portal|Companies|Internet}}
+{{Portal|Facebook|Companies|Internet}}
 &lt;!-- New links in alphabetical order please --&gt;
 {{div col}}
 * [[Ambient awareness]]
@@ -691,7 +690,7 @@ the Open Directory Project (dmoz.org) and link there using {{Dmoz}}.
 [[Category:Websites which mirror Wikipedia]]
 [[Category:Social planning websites]]
 [[Category:Video game streaming services]]</text>
-      <sha1>d25l819zen14jfnq9vm8z8jcmy4w3j9</sha1>
+      <sha1>jbs6u4mmwjs556hkwc2zcxm6o3y88rn</sha1>
     </revision>
   </page>
 </mediawiki>

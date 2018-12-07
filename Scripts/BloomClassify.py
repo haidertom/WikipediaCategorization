@@ -26,7 +26,6 @@ class BloomClassify:
 		self.AWdict = {}
 		self.TFIDFdict = {}
 
-
 	def get_mfw(self):
 		'''
 		iterate over given Baseline folder and get most frequent words for every article in every category, saved to TFIDFdict
@@ -143,7 +142,7 @@ class BloomClassify:
 		'''
 		Saves a trained BloomFilter as binary file
 		'''
-		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.art)+'_'+str(self.prct)+'p'+'.pkl'
+		name = 'trainedObjects/BFmodels/'+ 'BFdict' +'_'+ str(self.art)+'_'+str(self.prct)+'p'+'.pkl'
 		with open(name, 'wb') as f:
 			pickle.dump(self.BFdict, f, pickle.HIGHEST_PROTOCOL)
 		print("saved Traindata")
@@ -152,7 +151,7 @@ class BloomClassify:
 		'''
 		Loads a trained BloomFilter as binary file
 		'''
-		name = 'trainedObjects/'+ 'BFdict' +'_'+ str(self.art)+'_'+str(self.prct)+'p'+'.pkl'
+		name = 'trainedObjects/BFmodels/'+ 'BFdict' +'_'+ str(self.art)+'_'+str(self.prct)+'p'+'.pkl'
 		with open(name, 'rb') as f:
 			self.BFdict = pickle.load(f)
 		print("loaded Traindata")
@@ -196,7 +195,7 @@ class BloomClassify:
 
 		#languageProcess
 		filepath = "../Validation/"+title.replace(' ','')+"/AA/wiki_00"
-		testarticle = lp.languageProcess(filepath).getHighFreqWords()
+		bfarticle = lp.languageProcess(filepath).getHighFreqWords()
 
 		#Check if article with that name exists
 		assert (len(bfarticle)>= 1),"No article with that name"
@@ -205,7 +204,7 @@ class BloomClassify:
 
 		#check all Bloomfilters
 		for cat in self.BFdict.keys():
-			vali_dict[cat] = sum([1 for word in testarticle[0].most_common(numOfCheckWords) if self.BFdict[cat].classify(word[0])])/numOfCheckWords
+			vali_dict[cat] = sum([1 for word in bfarticle[0].most_common(numOfCheckWords) if self.BFdict[cat].classify(word[0])])/numOfCheckWords
 
 		return vali_dict
 
